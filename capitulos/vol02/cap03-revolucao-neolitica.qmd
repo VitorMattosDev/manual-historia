@@ -1,5 +1,202 @@
 # A Revolução Neolítica: agricultura e sedentarização {#sec-revolucao-neolitica}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Imagine um punhado de sementes de trigo silvestre. Por milhões de anos, os humanos as colheram como colhiam qualquer outra planta: pegavam o que a natureza dava e seguiam adiante. Então, em algum momento por volta de **10 mil anos atrás**, no arco de terras férteis do Oriente Médio, alguém — provavelmente muitas mulheres, ao longo de gerações — passou a **guardar** as melhores sementes, **plantá-las** de propósito e **esperar** a colheita. Parece pouco. Foi, no entanto, a transformação mais radical da história humana antes da industrialização. Ao domesticar plantas e animais, nossa espécie deixou de vagar atrás do alimento e passou a **produzi-lo** — e, com isso, inventou a aldeia, o excedente, a propriedade, a desigualdade e, no horizonte, a cidade e o Estado. O arqueólogo **V. Gordon Childe** batizou esse processo de **Revolução Neolítica** [@childe1978]. Neste capítulo, você verá o que mudou, por que mudou e por que os historiadores discutem se essa "revolução" foi mesmo uma boa notícia para quem a viveu.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- explicar o que foi a **Revolução Neolítica** e por que a palavra "revolução" é, ao mesmo tempo, útil e enganosa;
+- descrever a **domesticação** de plantas e animais e a passagem do **nomadismo** à **sedentarização**;
+- relacionar agricultura, **excedente**, **propriedade**, especialização do trabalho e **desigualdade social**;
+- reconhecer que a agricultura surgiu de forma **independente** em vários lugares do mundo (Oriente Médio, China, Mesoamérica, Andes, Nova Guiné);
+- avaliar o debate sobre se a agricultura representou "progresso" ou também uma perda para a saúde e a liberdade humanas.
 :::
+
+## Da coleta ao cultivo: o que muda no Neolítico {#sec-neolitico-o-que-muda}
+
+O **Neolítico** ("Idade da Pedra Nova" ou "Polida") é o período em que, além de novas técnicas de trabalho da pedra (agora **polida**, por atrito, e não só lascada), a humanidade adota a **agricultura** e a **criação de animais**. Não confunda a técnica com a essência: o nome fala em pedra, mas o que define o Neolítico é a **produção de alimentos**. Essa mudança começa por volta de **10.000 a.C.**, ao fim da última Era Glacial, quando o clima mais quente e estável favoreceu certas plantas e regiões.
+
+O coração da transformação é a **domesticação**: o processo pelo qual os humanos selecionam, geração após geração, plantas e animais mais úteis, alterando-lhes as características. O trigo domesticado, por exemplo, tem espigas que **não** se soltam sozinhas (para não perder os grãos antes da colheita) — algo que a planta selvagem nunca faria, mas que convém ao agricultor. Cães, ovelhas, cabras, porcos e bois foram igualmente moldados pela convivência com os humanos.
+
+::: {.callout-note title="Conceito-chave: Crescente Fértil"}
+A agricultura mais antiga que conhecemos surgiu no **Crescente Fértil** — uma faixa de terras em forma de meia-lua que vai do vale do Nilo, sobe pela costa do Levante (atuais Israel, Líbano, Síria) e desce pelos rios **Tigre** e **Eufrates** (atual Iraque). Ali cresciam, silvestres, os ancestrais do trigo e da cevada, e viviam os ancestrais de ovelhas, cabras e bois. Foi essa **sorte geográfica** — a presença de espécies domesticáveis — que fez da região um dos berços da agricultura, argumento central de Jared Diamond [@diamond2013].
+:::
+
+## A aldeia: a vida sedentária e suas consequências {#sec-sedentarizacao}
+
+Quem planta precisa **ficar** para colher. Assim, a agricultura empurrou os grupos humanos para a **sedentarização**: o abandono da vida errante e a fixação em **aldeias** permanentes. Surgem as primeiras casas de barro, pedra e madeira, os celeiros para guardar grãos e os primeiros povoados. **Jericó** (na Palestina), habitada desde cerca de 9000 a.C., e **Çatal Hüyük** (na atual Turquia, c. 7000 a.C.) estão entre as aldeias neolíticas mais antigas e populosas que conhecemos.
+
+A fixação desencadeou uma reação em cadeia que a @fig-cadeia-neolitica resume — e que você deve saber reconstruir, porque é o coração deste capítulo.
+
+::: {#fig-cadeia-neolitica}
+
+```{.tikz}
+%%| filename: fig-cadeia-neolitica
+%%| alt: Fluxograma de causa e consequência da Revolução Neolítica, da agricultura ao surgimento do Estado.
+\begin{tikzpicture}[
+    >=stealth, node distance=0.55cm,
+    cx/.style={draw, thick, rounded corners, align=center, text width=2.7cm,
+               minimum height=1.05cm},
+    seta/.style={->, very thick, manualgray}]
+  \node[cx, fill=manualgreen!15] (a) {\small \textbf{Agricultura +}\\\textbf{criação de animais}};
+  \node[cx, fill=manualgreen!15, right=0.7cm of a] (b) {\small \textbf{Sedentarização}\\\scriptsize aldeias fixas};
+  \node[cx, fill=manualyellow!25, right=0.7cm of b] (c) {\small \textbf{Excedente}\\\scriptsize sobra de alimento};
+  \node[cx, fill=manualblue!15, below=0.7cm of c] (d) {\small \textbf{Crescimento}\\\textbf{populacional}};
+  \node[cx, fill=manualblue!15, left=0.7cm of d] (e) {\small \textbf{Especialização}\\\scriptsize artesãos, sacerdotes};
+  \node[cx, fill=manualred!15, left=0.7cm of e] (f) {\small \textbf{Propriedade e}\\\textbf{desigualdade}};
+  \node[cx, fill=manualred!18, below=0.7cm of f] (g) {\small \textbf{Cidades, poder}\\\textbf{e Estado}};
+
+  \draw[seta] (a) -- (b);
+  \draw[seta] (b) -- (c);
+  \draw[seta] (c) -- (d);
+  \draw[seta] (c) -- (e);
+  \draw[seta] (e) -- (f);
+  \draw[seta] (d) to[bend left=10] (f);
+  \draw[seta] (f) -- (g);
+\end{tikzpicture}
+```
+
+A cadeia de consequências da Revolução Neolítica: a agricultura não mudou apenas a dieta — reorganizou toda a sociedade, abrindo caminho para as cidades e o Estado (@sec-idade-dos-metais).
+:::
+
+O elo decisivo dessa cadeia é o **excedente**: pela primeira vez, uma família ou aldeia podia produzir **mais** alimento do que consumia imediatamente e **armazená-lo**. O excedente tem três consequências profundas:
+
+1. **Crescimento populacional.** Comida estocada e sedentarismo permitiram que as mulheres tivessem filhos com menos intervalo (não precisavam mais carregar crianças em longas caminhadas), e a população cresceu como nunca.
+2. **Especialização do trabalho.** Se poucos produzem comida para muitos, alguns indivíduos podem **deixar de plantar** e se dedicar a outras atividades: fazer cerâmica, tecer, trabalhar a pedra e, depois, o metal, cuidar dos ritos religiosos, comandar. Nascem o **artesão**, o **sacerdote** e o **chefe**.
+3. **Propriedade e desigualdade.** Terra, rebanhos e grãos armazenados podem ser **acumulados** — e, portanto, **possuídos** de forma desigual. Quem controla o excedente (celeiros, terras, gado) acumula poder. A relativa igualdade do bando paleolítico dá lugar a **hierarquias sociais** cada vez mais marcadas.
+
+::: {.callout-tip title="Dica de prova: as duas revoluções técnicas do Neolítico"}
+Além da agricultura e da domesticação de animais, memorize as inovações materiais que costumam cair em prova: a **cerâmica** (potes de barro cozido para armazenar grãos e água), a **tecelagem** (fios de lã e linho), a **pedra polida** (machados mais eficientes para desmatar e cultivar) e, um pouco depois, a **roda** e o **arado**. Todas resolvem problemas da nova vida sedentária e agrícola.
+:::
+
+## Não foi um só lugar, nem foi rápido {#sec-neolitico-plural}
+
+Dois equívocos precisam ser desfeitos. Primeiro, a agricultura **não** foi inventada num único lugar e depois copiada pelo mundo. Ela surgiu de forma **independente** em pelo menos sete ou oito regiões, com plantas diferentes em cada uma (@fig-focos-agricultura): trigo e cevada no **Crescente Fértil**; arroz e milheto na **China**; milho, feijão e abóbora na **Mesoamérica** (México); batata e quinoa nos **Andes**; inhame e taro na **Nova Guiné**; sorgo e inhame na **África** subsaariana. Populações que nunca se encontraram chegaram, cada uma a seu modo, à mesma ideia decisiva — prova de que não há um "povo eleito" da civilização, e sim uma resposta humana geral a novas condições.
+
+::: {#fig-focos-agricultura}
+
+```{.tikz}
+%%| filename: fig-focos-agricultura
+%%| alt: Mapa esquemático dos focos independentes de domesticação agrícola no mundo, com as principais plantas de cada região.
+\begin{tikzpicture}
+  % moldura esquemática do "mundo" (não cartográfico)
+  \draw[eixo, rounded corners] (0,0) rectangle (13,5.2);
+  \node[eixo, gray] at (11.4,4.9) {\scriptsize mapa esquemático (fora de escala)};
+
+  \node[ponto] at (6.6,3.4) {};
+  \node[align=center, text=manualgreen] at (6.6,4.0) {\scriptsize \textbf{Crescente Fértil}\\\scriptsize trigo, cevada};
+
+  \node[ponto] at (9.6,3.5) {};
+  \node[align=center, text=manualblue] at (9.9,4.1) {\scriptsize \textbf{China}\\\scriptsize arroz, milheto};
+
+  \node[ponto] at (11.2,2.4) {};
+  \node[align=center, text=manualblue] at (11.4,1.8) {\scriptsize \textbf{Nova Guiné}\\\scriptsize inhame, taro};
+
+  \node[ponto] at (2.4,2.6) {};
+  \node[align=center, text=manualred] at (2.4,3.2) {\scriptsize \textbf{Mesoamérica}\\\scriptsize milho, feijão};
+
+  \node[ponto] at (2.9,1.3) {};
+  \node[align=center, text=manualred] at (2.9,0.7) {\scriptsize \textbf{Andes}\\\scriptsize batata, quinoa};
+
+  \node[ponto] at (6.6,1.6) {};
+  \node[align=center, text=manualgreen] at (6.6,1.0) {\scriptsize \textbf{África subsaariana}\\\scriptsize sorgo, inhame};
+\end{tikzpicture}
+```
+
+Focos independentes de domesticação. A agricultura foi **reinventada** em vários continentes, com cultivos próprios — não difundida de um único centro.
+:::
+
+Segundo equívoco: apesar do nome "revolução", a mudança foi **lentíssima** para quem a viveu — levou **milhares de anos**. Nenhum caçador-coletor acordou um dia e decidiu "virar agricultor". A adoção foi gradual, muitas vezes parcial (grupos que plantavam **e** caçavam), reversível e cheia de idas e vindas. Childe usou "revolução" no sentido de uma transformação **estrutural e profunda** (como se diria "Revolução Industrial"), não de um evento rápido. Guarde essa distinção: **revolucionária nas consequências, gradual no tempo**.
+
+## 🔎 Historiografia em Foco {#sec-historiografia-neolitica}
+
+A agricultura foi o maior progresso da humanidade — ou o seu maior erro? Poucos temas revelam tão bem como a **mesma evidência** pode gerar interpretações opostas conforme a **pergunta** que se faz.
+
+**A visão clássica: a agricultura como progresso e libertação.** Para **V. Gordon Childe**, que cunhou o termo "Revolução Neolítica" nos anos 1930-40 [@childe1978; @childe1981], a domesticação foi um salto grandioso: garantiu alimento mais seguro, permitiu o crescimento da população, liberou parte da sociedade para a arte, a religião e a técnica, e tornou possíveis as cidades, a escrita e a "civilização". Nessa leitura, herdeira do otimismo do século XIX, o Neolítico é o degrau que ergue a humanidade da sobrevivência precária para a cultura complexa. É a versão que aparece na maioria dos manuais escolares — e não é falsa: sem excedente agrícola, de fato não haveria Estados, ciências nem tudo o que veio depois.
+
+**A revisão crítica: a agricultura como "a maior fraude da história".** A partir dos anos 1980-90, evidências da **bioarqueologia** (o estudo de ossos e dentes de esqueletos antigos) mudaram o tom. Comparando esqueletos de caçadores-coletores e de primeiros agricultores, os pesquisadores encontraram, entre os agricultores, sinais de **piora**: eram mais **baixos**, tinham dentes mais estragados (por causa dos cereais), mais anemia, mais doenças infecciosas (a vida amontoada em aldeias, junto de animais, espalhava epidemias) e trabalhavam **mais horas**. A dieta ficou mais farta em calorias, porém menos variada e nutritiva. Autores como Jared Diamond chegaram a chamar a agricultura de "**o pior erro da história da humanidade**". Some-se a isso o custo **social**: com o excedente vieram a propriedade, a **desigualdade**, a guerra organizada por terras e, mais tarde, a escravidão e a submissão das mulheres, cada vez mais associadas ao espaço doméstico.
+
+**Por que as duas leituras coexistem?** Porque respondem a **perguntas diferentes** e adotam **escalas diferentes**. Se a pergunta é "por que existem civilizações, ciência e arte complexas?", a agricultura é a causa gloriosa — é a escala da **espécie** e da **longa duração**. Se a pergunta é "como vivia, em média, o indivíduo comum recém-convertido à agricultura?", a resposta é mais sombria — é a escala do **corpo** e da **conjuntura**. As duas coisas são verdadeiras ao mesmo tempo: a agricultura foi um sucesso **demográfico e civilizacional** e, muitas vezes, uma **piora na qualidade de vida individual**. O erro é escolher só um lado. Como sempre, a interpretação depende de onde o historiador coloca a lente — e cada geração ajusta essa lente conforme suas próprias inquietações (no século XXI, a crise ambiental e a crítica ao "progresso" tornaram a leitura pessimista mais audível).
+
+::: {.callout-warning title="Controvérsia: por que adotar a agricultura, se ela piorava a vida?"}
+Se a agricultura trazia mais trabalho e pior saúde, por que se espalhou? As hipóteses (não excludentes): (1) **pressão demográfica** — mais bocas para alimentar exigiam produzir mais comida por hectare, e a agricultura, embora exija mais esforço, sustenta muito mais gente do que a caça; (2) **efeito de mão única** — uma vez crescida a população, não havia como voltar atrás sem catástrofe; (3) **poder** — grupos e elites que controlavam o excedente e eram mais numerosos tendiam a se impor sobre os vizinhos caçadores. Em suma, a agricultura pode ter vencido **não por melhorar a vida das pessoas, mas por sustentar mais pessoas e mais poder** — um ótimo exemplo de que "vencer na história" não é o mesmo que "ser melhor".
+:::
+
+## Resumo do capítulo {#sec-resumo-neolitica}
+
+- A **Revolução Neolítica** (a partir de c. **10.000 a.C.**) é a passagem da **coleta** para a **produção** de alimentos, por meio da **domesticação** de plantas e animais. Define o Neolítico não a pedra polida, mas a **agricultura**.
+- Ela começou no **Crescente Fértil** (trigo, cevada, ovelhas, cabras), mas surgiu de forma **independente** em várias regiões: China (arroz), Mesoamérica (milho), Andes (batata), Nova Guiné, África. Não houve um único berço.
+- Quem planta precisa ficar: a agricultura levou à **sedentarização** e às primeiras **aldeias** (Jericó, Çatal Hüyük).
+- O **excedente** de alimento desencadeou uma cadeia: **crescimento populacional**, **especialização do trabalho** (artesãos, sacerdotes, chefes), **propriedade** e **desigualdade social**, abrindo caminho para cidades e Estados.
+- Inovações materiais: **cerâmica**, **tecelagem**, **pedra polida**, depois **roda** e **arado**.
+- "Revolução" refere-se à profundidade das mudanças, não à velocidade: o processo foi **gradual**, levando milhares de anos.
+- Debate historiográfico: **Childe** e a tradição clássica veem a agricultura como **progresso** e base da civilização; a **bioarqueologia** e autores como **Diamond** mostram que ela também trouxe **piora na saúde**, mais trabalho e **desigualdade**. As duas leituras convivem porque respondem a perguntas e escalas diferentes.
+
+## Exercícios {#sec-exercicios-neolitica}
+
+**1.** O que define, essencialmente, a Revolução Neolítica: a nova técnica de polir a pedra ou a produção de alimentos? Justifique.
+
+::: {.callout-tip collapse="true" title="Solução"}
+A **produção de alimentos** (agricultura e criação de animais). Embora o nome "Neolítico" (pedra nova/polida) destaque uma técnica lítica, a transformação verdadeiramente revolucionária foi a passagem da **coleta** (pegar o que a natureza dá) para a **produção** (domesticar plantas e animais e produzir o próprio alimento). É essa mudança econômica que desencadeia a sedentarização, o excedente, a especialização e a desigualdade — enquanto a pedra polida é apenas uma das ferramentas dessa nova vida.
+:::
+
+**2.** Explique a relação de causa e consequência entre **agricultura**, **sedentarização** e **excedente**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+A **agricultura** exige que o grupo permaneça no local para preparar a terra, plantar, cuidar e colher — o que leva à **sedentarização** (fixação em aldeias). Uma vez fixado e produzindo, o grupo consegue gerar e **armazenar** mais alimento do que consome de imediato: o **excedente**. O excedente é o elo decisivo, pois permite sustentar mais gente (crescimento populacional), liberar pessoas para outras funções (especialização) e ser acumulado de forma desigual (propriedade e hierarquia). A sequência é, portanto: agricultura → sedentarização → excedente → transformações sociais.
+:::
+
+**3.** Como o surgimento do excedente ajuda a explicar o aparecimento da **desigualdade social**, que era muito menor entre os caçadores-coletores?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Entre caçadores-coletores nômades, era impossível acumular bens (quem se muda não carrega estoques), e a organização tendia a ser igualitária. Com a agricultura e o **excedente**, tornou-se possível **acumular** riqueza: terras, rebanhos, grãos estocados nos celeiros. Como essa acumulação podia ser **desigual**, alguns indivíduos ou famílias passaram a controlar mais recursos que os demais, convertendo esse controle em **poder** e **prestígio**. Surgem então chefes, sacerdotes e proprietários, e a sociedade se estratifica em **hierarquias**. Em resumo: onde há o que acumular, surge a desigualdade na acumulação.
+:::
+
+**4.** Por que se afirma que a agricultura teve **origem independente** em várias partes do mundo? Cite três regiões e seus cultivos característicos.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque populações que **não** tinham contato entre si desenvolveram a agricultura separadamente, cada uma domesticando as plantas disponíveis em sua região — o que prova que a agricultura foi uma resposta humana geral a novas condições, e não invenção de um único povo difundida ao mundo. Três exemplos (entre outros): **Crescente Fértil** — trigo e cevada; **Mesoamérica** (México) — milho, feijão e abóbora; **Andes** — batata e quinoa. (Também valem: China — arroz e milheto; Nova Guiné — inhame e taro; África subsaariana — sorgo.)
+:::
+
+**5.** A Revolução Neolítica é chamada de "revolução", mas levou milhares de anos. Explique por que o termo é adequado apesar da lentidão do processo.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque "revolução", nesse contexto, refere-se à **profundidade e à irreversibilidade das transformações**, não à sua velocidade. Assim como se fala em "Revolução Industrial", o termo indica uma mudança **estrutural** que reorganizou por completo a economia (produção em vez de coleta), a sociedade (sedentarização, desigualdade, especialização) e a relação com a natureza. Foi **gradual no tempo** — nenhum grupo mudou de vida da noite para o dia, e muitos combinaram agricultura e caça por gerações — mas **revolucionária nas consequências**, pois abriu caminho para as cidades, os Estados e a civilização. É esse sentido que Childe deu à expressão.
+:::
+
+**6.** (Estilo ENEM) Leia o texto.
+
+> O estudo dos esqueletos dos primeiros agricultores revelou que, comparados aos caçadores-coletores que os precederam, eles eram em média mais baixos, tinham mais cáries e mais sinais de anemia e de doenças infecciosas. Ainda assim, a agricultura se expandiu, e a população humana cresceu enormemente.
+
+O texto evidencia que a expansão da agricultura no Neolítico
+
+**(a)** melhorou de imediato a qualidade de vida individual de quem a adotou.
+**(b)** foi rejeitada por todos os povos por prejudicar a saúde humana.
+**(c)** permitiu grande crescimento populacional, ainda que possa ter piorado a saúde individual.
+**(d)** manteve inalteradas as formas de organização social herdadas do Paleolítico.
+**(e)** dependeu exclusivamente da difusão a partir de um único centro civilizador.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (c).** O texto mostra a aparente contradição — piora na saúde individual, mas forte crescimento populacional — que é a chave do debate: a agricultura sustentava **mais gente por hectare**, ainda que cada indivíduo, em média, vivesse pior. Isso explica seu sucesso demográfico sem negar seus custos.
+
+Erros: (a) contradiz os dados dos esqueletos; (b) a agricultura **se expandiu**, não foi rejeitada por todos; (d) ela transformou profundamente a organização social; (e) contraria a origem **independente** da agricultura em várias regiões.
+:::
+
+**7.** (Estilo vestibular — dissertativa) Com base no debate historiográfico, explique por que a agricultura pode ser considerada, ao mesmo tempo, um "grande progresso da humanidade" e "o pior erro da história". Como conciliar as duas afirmações?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Resposta esperada: as duas avaliações não se contradizem porque respondem a **perguntas e escalas diferentes**. Na escala da **espécie e da longa duração**, a agricultura foi um progresso decisivo: gerou **excedente**, permitiu o **crescimento populacional**, a **especialização** do trabalho e o surgimento das **cidades, da escrita e das civilizações** — tudo o que chamamos de cultura complexa (visão de Childe). Na escala do **indivíduo comum e da vida cotidiana**, porém, ela frequentemente **piorou** a existência: os dados da bioarqueologia mostram mais doenças, dietas menos variadas, mais horas de trabalho, além do surgimento da **desigualdade**, da propriedade e da submissão de grupos (visão de Diamond). Concilia-se percebendo que "vencer na história" (sustentar mais gente e mais poder) não é o mesmo que "melhorar a vida das pessoas". Uma boa resposta deve articular: excedente e civilização de um lado; saúde, trabalho e desigualdade de outro; e a diferença de escala como chave para não escolher um único lado.
+:::
+
+## Para saber mais {#sec-para-saber-mais-neolitica}
+
+**Livros**
+
+- CHILDE, V. Gordon. *A evolução cultural do homem* [@childe1978] e *O que aconteceu na história* [@childe1981]. Os clássicos que fixaram o conceito de Revolução Neolítica — leitura fundadora, a ser lida à luz das revisões recentes.
+- DIAMOND, Jared. *Armas, germes e aço* [@diamond2013]. Explica por que a agricultura surgiu antes em certas regiões e discute seus custos — inclui o célebre argumento do "pior erro da humanidade".
+- HARARI, Yuval Noah. *Sapiens* [@harari2015]. O capítulo "A maior fraude da história" é uma síntese acessível da leitura crítica da agricultura.
+
+**Filmes e documentários**
+
+- Documentários sobre **Çatal Hüyük** e **Göbekli Tepe** (Turquia): mostram como as primeiras grandes aldeias e santuários desafiam a ideia de que a religião só surgiu **depois** da agricultura.
+- Série *Civilizações* (BBC/PBS): bons episódios iniciais sobre a passagem das aldeias neolíticas às primeiras cidades.
