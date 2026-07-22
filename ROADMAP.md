@@ -32,11 +32,11 @@
 | # | Capítulo | Arquivo | Status |
 |---|----------|---------|--------|
 | 1 | O que é História: tempo, sujeito e sociedade | `capitulos/vol01/cap01-o-que-e-historia.qmd` | ✅ (GABARITO) |
-| 2 | As fontes históricas e a crítica documental | `capitulos/vol01/cap02-fontes-historicas.qmd` | ⬜ |
-| 3 | Periodização: como se divide o tempo histórico | `capitulos/vol01/cap03-periodizacao.qmd` | ⬜ |
-| 4 | Correntes historiográficas: do positivismo à Nova História | `capitulos/vol01/cap04-correntes-historiograficas.qmd` | ⬜ |
-| 5 | Memória, patrimônio e história pública | `capitulos/vol01/cap05-memoria-patrimonio.qmd` | ⬜ |
-| 6 | História e as demais ciências humanas | `capitulos/vol01/cap06-historia-e-ciencias.qmd` | ⬜ |
+| 2 | As fontes históricas e a crítica documental | `capitulos/vol01/cap02-fontes-historicas.qmd` | ✅ |
+| 3 | Periodização: como se divide o tempo histórico | `capitulos/vol01/cap03-periodizacao.qmd` | ✅ |
+| 4 | Correntes historiográficas: do positivismo à Nova História | `capitulos/vol01/cap04-correntes-historiograficas.qmd` | ✅ |
+| 5 | Memória, patrimônio e história pública | `capitulos/vol01/cap05-memoria-patrimonio.qmd` | ✅ |
+| 6 | História e as demais ciências humanas | `capitulos/vol01/cap06-historia-e-ciencias.qmd` | ✅ |
 
 ### Volume 2 — Pré-História e as Primeiras Sociedades
 
@@ -212,6 +212,6 @@
 | I3 | Bootstrap TinyTeX local: `quarto install tinytex` + `tlmgr install standalone pgf pgfplots dvisvgm xcolor amsmath amsfonts` + PATH | ✅ |
 | I4 | `referencias.bib` inicial + CSL ABNT | ✅ |
 | I5 | `.github/workflows/publish.yml` com `quarto install chrome-headless-shell` antes do render | ✅ |
-| I6 | Branch `gh-pages` criada remotamente (commit-tree vazio) antes do primeiro workflow | ⬜ |
+| I6 | Branch `gh-pages` criada remotamente (commit-tree vazio) antes do primeiro workflow | ✅ |
 | I7 | Capítulo gabarito (Vol 1, Cap 1) escrito integralmente e validado em HTML + PDF | ✅ |
 | I8 | Primeiro deploy verde no GitHub Pages | ⬜ |
