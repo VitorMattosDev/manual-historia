@@ -1,5 +1,245 @@
 # Periodização: como se divide o tempo histórico {#sec-periodizacao}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Que ano é hoje? A resposta parece óbvia, mas depende de onde você pergunta. Para boa parte do mundo, corre o ano de 2026 — contado, em tese, a partir do nascimento de Cristo. Mas, no calendário muçulmano, é por volta de 1447, contado desde a fuga de Maomé para Medina em 622. No calendário judaico, passa de 5786, contado desde a criação do mundo segundo a tradição bíblica. Para o calendário chinês, budista ou etíope, os números seriam outros. Nenhuma dessas contagens é "a verdadeira": cada sociedade escolheu um **marco zero** que fazia sentido para ela e organizou o tempo a partir dele. Se até a pergunta "que ano é hoje?" tem várias respostas, imagine dividir milênios de história em "idades". Toda divisão do tempo é uma **escolha humana** — útil, mas nunca neutra. Entender como e por que dividimos o tempo é o assunto deste capítulo.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- explicar por que a **periodização** é uma ferramenta necessária, mas sempre convencional e interpretativa;
+- compreender a **cronologia** ocidental (a.C./d.C.), contar **séculos** corretamente e reconhecer a diversidade de calendários;
+- descrever a **divisão quadripartite** clássica (Idade Antiga, Média, Moderna e Contemporânea) e seus marcos;
+- identificar e criticar o **eurocentrismo** dessa periodização, conhecendo alternativas (modos de produção, periodizações regionais e a periodização da História do Brasil).
 :::
+
+## Por que periodizar? {#sec-por-que-periodizar}
+
+O tempo é um fluxo contínuo: não há, na natureza, uma linha que separe "a Antiguidade" da "Idade Média". Essas fronteiras são **inventadas** por historiadores para tornar o passado inteligível. **Periodizar** é recortar o tempo em blocos que apresentam certa unidade — características econômicas, políticas ou culturais comuns — para poder descrevê-los, compará-los e ensiná-los.
+
+A periodização é, portanto, uma ferramenta indispensável: sem ela, a história seria uma sucessão infinita e informe de fatos. Mas é preciso ter sempre em mente que todo recorte é uma **interpretação**. Ao decidir que um período "termina" em certa data, o historiador afirma que ali houve uma mudança suficientemente importante para justificar uma nova etapa — e essa é uma escolha discutível. Dois historiadores podem periodizar o mesmo processo de modos diferentes, conforme aquilo que julgam essencial.
+
+::: {.callout-note title="Conceito-chave: periodização"}
+**Periodização** é a operação de dividir o tempo histórico em períodos (idades, eras, fases), definidos por características comuns e delimitados por **marcos** — eventos escolhidos como fronteiras. Toda periodização é **convencional** (fruto de acordo entre historiadores) e **interpretativa** (revela o que quem a propôs considera importante).
+:::
+
+::: {.callout-important title="Cuidado: o marco não é uma parede"}
+Dizer que a Idade Média "começou em 476" não significa que, no dia seguinte à queda de Roma, as pessoas acordaram "medievais". As transformações históricas são **processos lentos**, cheios de permanências. Os marcos são **atalhos didáticos** para sinalizar mudanças que, na verdade, se estenderam por décadas ou séculos. Confundir o marco com uma ruptura instantânea é um erro clássico — e uma forma de anacronismo.
+:::
+
+## A contagem do tempo: cronologia e calendários {#sec-cronologia}
+
+Antes de dividir grandes eras, é preciso **datar**. A cronologia ocidental hoje dominante conta os anos a partir do suposto nascimento de Cristo: os anteriores são **a.C.** (antes de Cristo) e os posteriores, **d.C.** (depois de Cristo). Esse sistema foi proposto no século VI por um monge, Dionísio, o Exíguo, e só se generalizou séculos depois. Em contextos acadêmicos internacionais, usam-se também as siglas neutras **AEC** (antes da Era Comum) e **EC** (Era Comum), que mantêm a mesma contagem sem a referência religiosa explícita.
+
+Dois cuidados práticos são cobrados em provas:
+
+- **Não existe ano zero**: passa-se de 1 a.C. diretamente para 1 d.C. Além disso, na escala a.C. os números **decrescem** rumo ao presente: 500 a.C. é *mais antigo* que 100 a.C.
+- **Contagem de séculos**: o ano 1 ao 100 formam o **século I**; 101 a 200, o **século II**; e assim por diante. Por isso o ano de 1789 pertence ao **século XVIII**, e 2026 ao **século XXI**. A regra prática: para anos com "centena quebrada", tome os dois primeiros algarismos e some 1 (18 + 1 = século XIX para 1850).
+
+::: {.callout-tip title="Dica de prova: o 'erro do século'"}
+O engano mais comum é dizer que 1900 é "século XX". Não: o ano **1900 fecha o século XIX**; o século XX vai de **1901 a 2000**. A confusão vem da ausência do ano zero. Memorize um caso âncora — "1789, Revolução Francesa, século XVIII" — e você raramente errará.
+:::
+
+Nenhum calendário é natural. O **calendário gregoriano** que usamos foi uma reforma de 1582, feita pelo papa Gregório XIII para corrigir o antigo calendário juliano (de Júlio César), que acumulava erro em relação ao ano solar. Muitos países só o adotaram muito depois. E, como vimos na abertura, ele convive com o calendário **muçulmano** (lunar, iniciado em 622), o **judaico**, o **chinês** e tantos outros. A escolha do marco zero — a fuga de Maomé, a criação do mundo, o nascimento de Cristo — revela o que cada cultura elegeu como o acontecimento **fundador** do seu tempo.
+
+## A divisão quadripartite clássica {#sec-quadripartite}
+
+A periodização mais difundida no Ocidente divide a história em quatro grandes idades. Ela não é antiga: nasceu entre os humanistas do Renascimento e foi fixada no século XVII pelo alemão Cristóvão Celário, que separou História Antiga, Medieval e Moderna. Mais tarde acrescentou-se a Contemporânea. A @fig-idades-historia mostra as quatro idades e seus marcos tradicionais.
+
+::: {#fig-idades-historia}
+
+```{.tikz}
+%%| filename: fig-idades-historia
+%%| alt: Linha do tempo das quatro idades da história ocidental, com marcos em 4000 a.C., 476, 1453, 1789 e o presente.
+\begin{tikzpicture}[>=stealth]
+  % faixas das idades
+  \fill[manualyellow!20] (0,0) rectangle (2.6,0.7);
+  \fill[manualblue!20]   (2.6,0) rectangle (6.4,0.7);
+  \fill[manualgreen!20]  (6.4,0) rectangle (9.4,0.7);
+  \fill[manualred!20]    (9.4,0) rectangle (12.4,0.7);
+  \draw (0,0) rectangle (12.4,0.7);
+  \draw (2.6,0)--(2.6,0.7); \draw (6.4,0)--(6.4,0.7); \draw (9.4,0)--(9.4,0.7);
+  \node at (1.3,0.35) {\scriptsize \textbf{Antiga}};
+  \node at (4.5,0.35) {\scriptsize \textbf{Medieval}};
+  \node at (7.9,0.35) {\scriptsize \textbf{Moderna}};
+  \node at (10.9,0.35) {\scriptsize \textbf{Contemporânea}};
+
+  % eixo e marcos
+  \draw[eixo] (0,-0.15) -- (12.7,-0.15);
+  \foreach \x in {0,2.6,6.4,9.4} \node[ponto] at (\x,-0.15) {};
+  \node[below, align=center] at (0,-0.3)   {\scriptsize c. 4000 a.C.\\\scriptsize escrita};
+  \node[below, align=center] at (2.6,-0.3) {\scriptsize 476\\\scriptsize queda de Roma};
+  \node[below, align=center] at (6.4,-0.3) {\scriptsize 1453 / 1492\\\scriptsize Constantinopla\\\scriptsize / América};
+  \node[below, align=center] at (9.4,-0.3) {\scriptsize 1789\\\scriptsize Rev. Francesa};
+  \node[below, align=center] at (12.4,-0.3) {\scriptsize hoje};
+\end{tikzpicture}
+```
+
+A divisão quadripartite clássica e seus marcos tradicionais. Repare que **todos** os marcos são eventos da história **europeia** — o que será o alvo da crítica adiante.
+:::
+
+Os marcos tradicionais são:
+
+- **Pré-História / Idade Antiga**: a Idade Antiga começa com a **invenção da escrita** (c. 4000–3000 a.C.), que encerra a Pré-História. Vai até 476.
+- **Idade Média** (476–1453): da queda do **Império Romano do Ocidente** (476 d.C.) até a **tomada de Constantinopla** pelos turcos otomanos (1453). Alguns usam 1492 (chegada europeia à América) como marco final.
+- **Idade Moderna** (1453/1492–1789): até a **Revolução Francesa** (1789).
+- **Idade Contemporânea** (1789 até hoje).
+
+Essa divisão tem lógica interna: cada marco é um acontecimento europeu de forte carga simbólica. Mas é justamente aí que mora o problema.
+
+## A crítica à periodização tradicional: o eurocentrismo {#sec-critica-eurocentrismo}
+
+Repare novamente na @fig-idades-historia: **todos** os marcos — queda de Roma, Constantinopla, América, Revolução Francesa — são fatos da história da **Europa** (ou de seu contato com o mundo). Aplicar essa régua ao planeta inteiro produz distorções graves. Que sentido tem falar em "Idade Média" na história da China, que nesse período viveu dinastias florescentes? Ou dizer que a história da África "entra na Idade Moderna" em 1453, quando esse ano nada significou para os reinos africanos? A periodização quadripartite é **eurocêntrica**: toma a trajetória europeia como medida universal e enquadra as demais sociedades como se fossem satélites dela.
+
+::: {.callout-warning title="Eurocentrismo: o que é e por que é um problema"}
+**Eurocentrismo** é a tendência a interpretar toda a história a partir da experiência europeia, tratada como norma e ápice do desenvolvimento humano. Ele produz efeitos concretos: faz as demais civilizações parecerem "atrasadas" (por não seguirem o "relógio" europeu) e naturaliza a ideia de que a Europa é o centro da história. Reconhecer o eurocentrismo da periodização tradicional **não** significa jogá-la fora — ela ainda é útil para a história ocidental —, mas usá-la com consciência dos seus limites.
+:::
+
+Por isso surgiram **periodizações alternativas**, cada uma iluminando o que a quadripartite deixa na sombra (@fig-periodizacoes-comparadas):
+
+- **Por modos de produção** (inspirada em Marx): comunidade primitiva, modo de produção antigo/escravista, feudal, capitalista. Foca as **estruturas econômicas** e as relações de trabalho, e não os eventos políticos europeus. Também recebe críticas — pode ser esquemática e, ela também, moldada na experiência europeia.
+- **Periodizações regionais**: a história da África, da Ásia e da América pré-colombiana ganha muito ao ser dividida por seus **próprios** processos (dinastias chinesas, impérios africanos, horizontes culturais andinos), em vez de pela cronologia europeia.
+- **Periodização da História do Brasil**: por convenção, divide-se em **Brasil Colônia** (1500–1822), **Brasil Império** (1822–1889) e **Brasil República** (1889 até hoje) — marcos ligados à nossa própria trajetória política. Note que "1500" é, mais uma vez, um marco definido pela chegada **europeia**, e não pela longa história dos povos que já habitavam o território.
+
+::: {#fig-periodizacoes-comparadas}
+
+```{.tikz}
+%%| filename: fig-periodizacoes-comparadas
+%%| alt: Três faixas paralelas comparando a periodização quadripartite, a periodização por modos de produção e a periodização da História do Brasil.
+\begin{tikzpicture}
+  % linha 1 - quadripartite
+  \node[left] at (0,2.4) {\scriptsize \textbf{Quadripartite}};
+  \fill[manualblue!20] (0.2,2.1) rectangle (10.2,2.7);
+  \draw (0.2,2.1) rectangle (10.2,2.7);
+  \foreach \x in {2.7,5.2,7.7} \draw (\x,2.1)--(\x,2.7);
+  \node at (1.45,2.4){\scriptsize Antiga}; \node at (3.95,2.4){\scriptsize Medieval};
+  \node at (6.45,2.4){\scriptsize Moderna}; \node at (8.95,2.4){\scriptsize Contemp.};
+
+  % linha 2 - modos de producao
+  \node[left] at (0,1.4) {\scriptsize \textbf{Modos de produção}};
+  \fill[manualgreen!20] (0.2,1.1) rectangle (10.2,1.7);
+  \draw (0.2,1.1) rectangle (10.2,1.7);
+  \foreach \x in {2.5,5.5,8.3} \draw (\x,1.1)--(\x,1.7);
+  \node at (1.35,1.4){\scriptsize primitivo}; \node at (4.0,1.4){\scriptsize escravista};
+  \node at (6.9,1.4){\scriptsize feudal}; \node at (9.25,1.4){\scriptsize capitalista};
+
+  % linha 3 - Brasil
+  \node[left] at (0,0.4) {\scriptsize \textbf{História do Brasil}};
+  \fill[manualred!20] (5.0,0.1) rectangle (10.2,0.7);
+  \draw (5.0,0.1) rectangle (10.2,0.7);
+  \foreach \x in {8.3,9.0} \draw (\x,0.1)--(\x,0.7);
+  \node at (6.65,0.4){\scriptsize Colônia}; \node at (8.65,0.4){\scriptsize Império};
+  \node at (9.6,0.4){\scriptsize Rep.};
+  \node[align=center] at (2.5,0.4){\scriptsize (povos originários:\\\scriptsize milênios de história)};
+
+  \draw[eixo] (0.2,-0.2)--(10.4,-0.2);
+  \node[below] at (0.2,-0.25){\scriptsize passado};
+  \node[below] at (10.2,-0.25){\scriptsize hoje};
+\end{tikzpicture}
+```
+
+Três periodizações sobre o mesmo eixo temporal. Cada recorte destaca um aspecto diferente (eventos políticos, estruturas econômicas, trajetória nacional) — e cada um tem pontos cegos.
+:::
+
+A lição é a mesma do capítulo sobre o que é História: não existe **a** periodização verdadeira. Existem recortes mais ou menos úteis conforme a pergunta. Para estudar a arte europeia, a divisão em Antiga/Medieval/Moderna funciona bem; para comparar o trabalho escravo em Roma e no Brasil, os modos de produção ajudam mais; para entender a China, é melhor seguir suas dinastias. O bom estudante sabe **trocar de régua** conforme o objeto.
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+Poucas questões revelam tão bem que a História é interpretação quanto a pergunta: **quando termina a Idade Média?** As respostas divergem — e cada uma esconde uma visão de mundo.
+
+**A resposta tradicional: 1453 (ou 1492).** A historiografia clássica encerra a Idade Média num evento político-simbólico: a queda de Constantinopla diante dos turcos (1453) ou a chegada de Colombo à América (1492). O critério é o **acontecimento** de grande repercussão europeia. Essa escolha faz sentido se pensarmos que tais eventos abriram a expansão marítima e a era dos grandes impérios ultramarinos.
+
+**A resposta de Le Goff: uma "longa Idade Média".** O historiador Jacques Le Goff propôs algo provocador: a Idade Média não terminou em 1453, mas **por volta do fim do século XVIII** [@leGoff2013]. Seu argumento nasce de uma mudança de foco: se olharmos não para os eventos políticos, mas para as **estruturas de longa duração** — a vida camponesa, o predomínio do cristianismo, a economia agrária, as mentalidades —, veremos que elas **permaneceram** quase intactas do século V até a Revolução Industrial e a Revolução Francesa. Para a maioria da população, que trabalhava a terra e vivia sob o mesmo horizonte religioso, o "Renascimento" e a "Idade Moderna" quase não mudaram a vida concreta. Le Goff, herdeiro dos Annales, prefere periodizar pela **longa duração** de Braudel, e não pelo acontecimento.
+
+**Por que a divergência?** Porque **periodizar depende do que se considera essencial**. Quem privilegia a **política e os grandes eventos** vê uma ruptura em 1453. Quem privilegia as **estruturas econômicas e as mentalidades** vê continuidade até o século XVIII. Nenhum dos dois "erra": eles respondem a perguntas diferentes e, por isso, enxergam o tempo com réguas diferentes. Le Goff chegou a perguntar, ironicamente, se vale mesmo a pena "cortar a história em fatias" — e respondeu que sim, desde que se saiba que as fatias são **feitas por nós**, e não pela natureza do tempo. Aqui está, em estado puro, a lição deste volume: a periodização não descreve o passado, ela o **interpreta**.
+
+## Resumo do capítulo {#sec-resumo}
+
+- O tempo é contínuo; **periodizar** é recortá-lo em blocos com unidade, para descrever, comparar e ensinar. Toda periodização é **convencional** e **interpretativa** — revela o que quem a propôs julga importante.
+- Os **marcos** são atalhos didáticos, não paredes: as mudanças históricas são processos lentos, cheios de permanências. Tomar o marco por ruptura instantânea é anacronismo.
+- **Cronologia**: contamos anos em a.C./d.C. (ou AEC/EC), **sem ano zero**; na escala a.C. os números decrescem rumo ao presente. O ano 1 a 100 é o século I; logo, 1789 é século **XVIII** e 1900 fecha o século XIX.
+- Nenhum calendário é natural: o **gregoriano** (1582) convive com o muçulmano, o judaico, o chinês etc. O marco zero de cada cultura revela seu evento fundador.
+- A **divisão quadripartite** (Antiga, Medieval, Moderna, Contemporânea) nasceu entre humanistas e Celário (séc. XVII). Seus marcos — 476, 1453/1492, 1789 — são todos **europeus**: é uma periodização **eurocêntrica**.
+- **Alternativas**: por **modos de produção** (estruturas econômicas), **regionais** (dinastias chinesas, impérios africanos, horizontes andinos) e a da **História do Brasil** (Colônia 1500 / Império 1822 / República 1889). Cada régua ilumina um aspecto e tem pontos cegos.
+- **Debate historiográfico**: quando acaba a Idade Média? A tradição diz 1453/1492 (acontecimento); **Le Goff** propõe uma "longa Idade Média" até o século XVIII (estruturas de longa duração). Divergem porque periodizar depende do que se considera essencial.
+
+## Exercícios {#sec-exercicios}
+
+**1.** A que século pertencem os anos: (a) 1500; (b) 1789; (c) 1900; (d) 2001; (e) 44 a.C.? Justifique a regra usada.
+
+::: {.callout-tip collapse="true" title="Solução"}
+- (a) 1500 → **século XV** (o século XV vai de 1401 a 1500; 1500 o *encerra*).
+- (b) 1789 → **século XVIII** (1701–1800).
+- (c) 1900 → **século XIX** (1801–1900; 1900 fecha o século XIX — não é século XX!).
+- (d) 2001 → **século XXI** (2001–2100).
+- (e) 44 a.C. → **século I a.C.** (os anos 100 a.C. a 1 a.C. formam o século I a.C.).
+
+Regra: como não há ano zero, cada século vai do ano X01 ao ano (X+1)00. Para anos "redondos" (terminados em 00), o ano pertence ao século cujo número é os dois primeiros dígitos (1900 → século 19 = XIX). Para os demais, some 1 aos dois primeiros dígitos (1789 → 17 + 1 = XVIII).
+:::
+
+**2.** Explique por que se afirma que "toda periodização é uma interpretação". Dê um exemplo.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque escolher onde um período começa e termina implica decidir **o que foi importante o bastante** para marcar uma mudança — e isso depende do ponto de vista e da pergunta do historiador. Não há fronteiras "naturais" no tempo. Exemplo: encerrar a Idade Média em 1453 privilegia os **eventos políticos** europeus; estendê-la até o século XVIII (Le Goff) privilegia as **estruturas econômicas e mentais** de longa duração. As duas periodizações descrevem o mesmo tempo, mas interpretam de modo diferente o que nele foi decisivo.
+:::
+
+**3.** O que significa dizer que a divisão quadripartite é **eurocêntrica**? Por que isso é um problema ao estudar a história da China ou da África?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Significa que seus marcos (queda de Roma em 476, Constantinopla em 1453, Revolução Francesa em 1789) são todos eventos da história **europeia**, tomados como divisores universais. É um problema porque esses marcos **nada significaram** para outras sociedades: a "Idade Média" foi, na China, o tempo de dinastias florescentes; 1453 não marcou ruptura alguma na África. Aplicar a régua europeia ao mundo todo faz as demais civilizações parecerem "fora do tempo" ou "atrasadas", distorcendo suas trajetórias próprias. Por isso são preferíveis periodizações **regionais** para esses contextos.
+:::
+
+**4.** Relacione cada periodização ao critério que a organiza: (I) quadripartite; (II) modos de produção; (III) Colônia/Império/República. Critérios: (a) trajetória político-institucional do Brasil; (b) grandes acontecimentos políticos europeus; (c) estruturas econômicas e relações de trabalho.
+
+::: {.callout-tip collapse="true" title="Solução"}
+- (I) quadripartite → **(b)** grandes acontecimentos políticos europeus;
+- (II) modos de produção → **(c)** estruturas econômicas e relações de trabalho;
+- (III) Colônia/Império/República → **(a)** trajetória político-institucional do Brasil.
+
+O exercício mostra que cada periodização responde a uma pergunta diferente e ilumina um aspecto distinto do passado.
+:::
+
+**5.** Um estudante escreve: "Em 476, com a queda de Roma, a Europa se tornou medieval da noite para o dia". Identifique o erro conceitual e reescreva a frase corretamente.
+
+::: {.callout-tip collapse="true" title="Solução"}
+O erro é confundir o **marco** (uma data-símbolo) com uma **ruptura instantânea** — uma forma de anacronismo. A passagem da Antiguidade à Idade Média foi um **processo secular**, com muitas permanências (a língua latina, a Igreja, estruturas romanas sobreviveram por muito tempo; a "queda" de 476 foi apenas a deposição do último imperador do Ocidente). Reescrita possível: "A data de 476 é um **marco convencional** para o fim do Império Romano do Ocidente; a transformação da Antiguidade em Idade Média, porém, foi um processo lento, de séculos, com muitas continuidades."
+:::
+
+**6.** (Estilo ENEM) Leia o texto.
+
+> "Não é a natureza que divide o tempo em séculos, idades ou eras. É o historiador. Cada corte que fazemos na duração — dizer que aqui termina a Antiguidade e ali começa a Idade Moderna — corresponde a uma escolha, ligada àquilo que julgamos essencial. Mudar a pergunta pode mudar o corte."
+
+O texto defende que a periodização histórica
+
+**(a)** reflete divisões objetivas e naturais do próprio tempo.
+**(b)** é uma convenção interpretativa, dependente das escolhas do historiador.
+**(c)** deve ser abolida, por ser inútil ao conhecimento do passado.
+**(d)** só é válida quando adota os marcos da história europeia.
+**(e)** independe das perguntas que o historiador formula.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (b).** O texto afirma explicitamente que não é a natureza, mas o **historiador**, quem divide o tempo, e que cada corte corresponde a uma **escolha** ligada ao que se julga essencial ("mudar a pergunta pode mudar o corte") — ou seja, a periodização é uma **convenção interpretativa**.
+
+Por que as demais estão erradas:
+- (a) contraria o texto, que nega divisões "naturais";
+- (c) o texto não propõe abolir a periodização, apenas reconhecê-la como escolha;
+- (d) o texto não privilegia os marcos europeus — ao contrário, ao dizer que o corte depende da pergunta, abre espaço para outras periodizações;
+- (e) contradiz diretamente a frase final ("mudar a pergunta pode mudar o corte").
+:::
+
+**7.** A história do Brasil é convencionalmente dividida em Colônia (1500), Império (1822) e República (1889). Que crítica, semelhante à feita à periodização quadripartite, pode ser dirigida ao uso de "1500" como marco inicial?
+
+::: {.callout-tip collapse="true" title="Solução"}
+A mesma crítica de **eurocentrismo** (ou "colonialidade"): 1500 é a data da chegada dos **portugueses**, isto é, um marco definido pelo ponto de vista **europeu**. Adotá-lo como "início" da história do Brasil sugere, equivocadamente, que **antes não havia história** — quando, na verdade, os povos originários habitavam e transformavam o território havia **milhares de anos**, com suas próprias trajetórias. Uma periodização mais justa reconhece a longa história indígena anterior a 1500 e trata a chegada portuguesa como o início da **colonização**, não da história do território. (Esse cuidado dialoga com a Lei 11.645/2008.)
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- LE GOFF, Jacques. *História e memória* [@leGoff2013]. Discute a fundo os conceitos de tempo, calendário e periodização, incluindo a tese da "longa Idade Média".
+- BURKE, Peter. *A Escola dos Annales* [@burke2010]. Ajuda a entender por que a atenção às estruturas de longa duração mudou o modo de dividir o tempo.
+- BRAUDEL, Fernand. *O Mediterrâneo* [@braudel1996]. A obra que consagrou a longa duração como escala de análise — e, com ela, outra maneira de periodizar.
+
+**Filmes e documentários**
+
+- *2001: Uma Odisseia no Espaço* (1968), dir. Stanley Kubrick: sua célebre transição do osso à nave espacial é uma reflexão visual sobre a **escala** do tempo humano.
+- Documentários sobre **calendários e astronomia** (por exemplo, produções sobre o calendário maia ou a reforma gregoriana): mostram como diferentes culturas mediram o tempo e escolheram seus marcos zero.
