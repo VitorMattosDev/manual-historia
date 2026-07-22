@@ -1,5 +1,286 @@
 # O que é História: tempo, sujeito e sociedade {#sec-o-que-e-historia}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md` (GABARITO — escrever integralmente primeiro).
+Em junho de 2020, multidões em várias cidades do mundo derrubaram estátuas. Em Bristol, na Inglaterra, manifestantes lançaram ao rio o monumento de Edward Colston, um comerciante que enriqueceu no tráfico de africanos escravizados no século XVII. No Brasil, cresceram os debates sobre estátuas de Borba Gato e de bandeirantes que escravizaram indígenas. De um lado, ouvia-se: "estão apagando a História". De outro: "a História nunca foi neutra; ela sempre escolheu quem homenagear". Repare no detalhe decisivo dessa discussão: ninguém discordava de que Colston *existiu* ou de que os bandeirantes *aprisionaram* indígenas. O que estava em jogo era **como interpretar** esses fatos, **quem** merece ser lembrado e **quem** decide isso. Essa cena resume o que você vai aprender neste capítulo: a História não é o passado em si — é o que uma sociedade, a partir de perguntas do seu presente, constrói e disputa sobre o passado.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- distinguir **passado** (tudo o que aconteceu) de **História** (a disciplina que investiga e interpreta o passado);
+- explicar por que a História é uma **construção do conhecimento**, sempre provisória e ancorada em fontes;
+- reconhecer as **múltiplas temporalidades** do tempo histórico (evento, conjuntura e longa duração) e evitar o **anacronismo**;
+- compreender a noção de **sujeito histórico** e por que a História plural inclui mulheres, indígenas, população negra e camadas populares;
+- descrever, em linhas gerais, o **ofício do historiador** — das fontes à narrativa — e por que os historiadores divergem entre si.
 :::
+
+## Passado e História: uma distinção fundamental {#sec-passado-e-historia}
+
+Comece por uma pergunta enganosamente simples: quantos fatos aconteceram ontem no mundo? Bilhões — cada gesto, cada conversa, cada decisão de cada pessoa. Quase tudo isso desapareceu sem deixar registro. O **passado** é essa totalidade do que ocorreu; ele é imenso, irrecuperável e, em sua maior parte, silencioso.
+
+A **História**, com H maiúsculo, é outra coisa: é a **disciplina** — o campo de conhecimento e o conjunto de métodos — que investiga vestígios do passado para compreendê-lo e explicá-lo. O historiador não tem acesso ao passado diretamente; ele trabalha com o que *sobrou* dele: documentos, ruínas, objetos, imagens, relatos. A partir desses vestígios, formula perguntas, levanta hipóteses e constrói uma narrativa. Por isso dizemos que a História é uma **construção do conhecimento**, e não um espelho fiel e completo do que aconteceu.
+
+::: {.callout-note title="Conceito-chave: História"}
+A palavra vem do grego **historía** (ἱστορία), que significa **investigação**, "pesquisa" ou "conhecimento obtido por meio de indagação". Não por acaso, o grego **Heródoto** (c. 485–425 a.C.), considerado o "pai da História", abre sua obra dizendo que apresenta o resultado de suas *investigações* para que os feitos humanos não se percam com o tempo. Fazer História, desde a origem, é **perguntar**, não apenas narrar.
+:::
+
+Essa distinção tem uma consequência prática que vale para todo este manual: **os fatos não falam por si**. Um mesmo acontecimento — a Independência do Brasil, a abolição da escravidão, a Revolução Francesa — pode ser explicado de maneiras diferentes conforme as perguntas que se fazem e as fontes que se privilegiam. A História, portanto, não é uma lista fechada de datas e nomes a decorar; é um **debate permanente e disciplinado** sobre o significado do passado.
+
+::: {.callout-important title="Armadilha comum: 'a História está no livro'"}
+É tentador imaginar que existe *uma* História verdadeira, pronta, aguardando ser copiada nos manuais. Não existe. O que existe são **interpretações** construídas a partir de evidências, umas mais bem fundamentadas que outras. Isso **não** significa que "vale tudo": uma afirmação histórica precisa ser sustentada por fontes e resistir à crítica dos pares. Reconhecer que a História é interpretação é o oposto de aceitar qualquer versão — é aprender a avaliar *quais* interpretações se sustentam melhor.
+:::
+
+A própria História como disciplina tem uma história. Do relato grego antigo às ciências humanas de hoje, a maneira de investigar o passado mudou profundamente, como resume a @fig-linha-do-tempo-historia.
+
+::: {#fig-linha-do-tempo-historia}
+
+```{.tikz}
+%%| filename: fig-linha-do-tempo-historia
+%%| alt: Linha do tempo esquemática do desenvolvimento da História como disciplina, do século V a.C. à Nova História do século XX.
+\begin{tikzpicture}[>=stealth]
+  \draw[eixo] (0,0) -- (13.2,0);
+  \node[eixo, gray] at (13.2,-0.45) {\scriptsize tempo (fora de escala)};
+
+  \node[ponto] at (1.6,0) {};
+  \node[below] at (1.6,-0.15) {\scriptsize séc. V a.C.};
+  \node[above, align=center, text=manualblue] at (1.6,0.2) {\scriptsize Heródoto e\\\scriptsize Tucídides};
+
+  \node[ponto] at (4.6,0) {};
+  \node[below] at (4.6,-0.15) {\scriptsize séc. XIX};
+  \node[above, align=center, text=manualblue] at (4.6,0.2) {\scriptsize Ranke: história\\\scriptsize ``científica''};
+
+  \node[ponto] at (8.0,0) {};
+  \node[below] at (8.0,-0.15) {\scriptsize 1929};
+  \node[above, align=center, text=manualgreen] at (8.0,0.2) {\scriptsize Escola dos Annales\\\scriptsize (Bloch e Febvre)};
+
+  \node[ponto] at (11.4,0) {};
+  \node[below] at (11.4,-0.15) {\scriptsize déc. 1970};
+  \node[above, align=center, text=manualred] at (11.4,0.2) {\scriptsize Nova História\\\scriptsize (novos objetos)};
+\end{tikzpicture}
+```
+
+Marcos do desenvolvimento da História como disciplina. A escala **não** é linear: o objetivo é ordenar os momentos, não medir intervalos.
+:::
+
+## O tempo histórico não é o tempo do relógio {#sec-tempo-historico}
+
+O tempo do relógio e do calendário é homogêneo: cada hora dura o mesmo, cada ano tem doze meses. Mas o **tempo histórico** é qualitativo e desigual. Há décadas em que "nada acontece" e semanas em que "acontecem décadas". Um ano de guerra pode transformar uma sociedade mais do que um século de rotina. Aprender a pensar historicamente é aprender a lidar com essa **densidade variável** do tempo.
+
+O historiador francês **Fernand Braudel** (1902–1985) propôs uma distinção que se tornou clássica: existem, sobrepostas, **três velocidades do tempo histórico** [@braudel1996]. Pense nelas como camadas, da mais lenta à mais rápida (@fig-temporalidades-braudel):
+
+- a **longa duração** (*longue durée*): estruturas que mudam lentíssimamente, ao longo de séculos — o clima, a geografia, as técnicas, as mentalidades, as crenças religiosas de fundo;
+- a **conjuntura**: ciclos de médio prazo, de décadas — as fases da economia, o crescimento ou a queda da população, os ciclos de preços;
+- o **acontecimento** (a curta duração): o fato pontual e vistoso — uma batalha, uma eleição, um assassinato, um golpe. É o tempo da manchete de jornal.
+
+::: {#fig-temporalidades-braudel}
+
+```{.tikz}
+%%| filename: fig-temporalidades-braudel
+%%| alt: Três faixas horizontais empilhadas representando as temporalidades de Braudel: longa duração, conjuntura e acontecimento.
+\begin{tikzpicture}
+  % Longa duração (base, mais larga)
+  \fill[manualgreen!20] (0,0) rectangle (12,1.2);
+  \draw[manualgreen, thick] (0,0) rectangle (12,1.2);
+  \node[align=center] at (6,0.6) {\small \textbf{Longa duração} — séculos\\\scriptsize geografia, clima, técnicas, mentalidades};
+
+  % Conjuntura (meio)
+  \fill[manualblue!20] (0,1.5) rectangle (8.8,2.7);
+  \draw[manualblue, thick] (0,1.5) rectangle (8.8,2.7);
+  \node[align=center] at (4.4,2.1) {\small \textbf{Conjuntura} — décadas\\\scriptsize economia, demografia, ciclos de preços};
+
+  % Acontecimento (topo, mais estreita)
+  \fill[manualred!20] (0,3.0) rectangle (5.2,4.2);
+  \draw[manualred, thick] (0,3.0) rectangle (5.2,4.2);
+  \node[align=center] at (2.6,3.6) {\small \textbf{Acontecimento}\\\scriptsize dias ou anos: batalhas, eleições};
+
+  \draw[eixo] (-0.4,0) -- (-0.4,4.2);
+  \node[rotate=90, gray] at (-0.75,2.1) {\scriptsize velocidade da mudança};
+\end{tikzpicture}
+```
+
+As três temporalidades de Braudel. Um bom historiador articula as camadas: o acontecimento só ganha sentido quando situado na conjuntura e na longa duração que o tornaram possível.
+:::
+
+Por que isso importa para você? Porque explicações históricas rasas ficam presas ao **acontecimento** ("a Revolução Francesa estourou porque o povo tomou a Bastilha em 1789"). Uma explicação madura articula as camadas: a tomada da Bastilha (acontecimento) só faz sentido dentro de uma crise fiscal e de más colheitas (conjuntura), sobre o pano de fundo de séculos de sociedade estamental e do avanço das ideias iluministas (longa duração).
+
+::: {.callout-important title="Cuidado com o anacronismo"}
+**Anacronismo** é o erro de julgar ou explicar o passado usando ideias, valores e categorias que só existiram depois. Dizer que "os romanos eram atrasados por não terem democracia como a nossa" ou que "faltou patriotismo aos indígenas diante dos portugueses" projeta o presente sobre um passado que não o conhecia. O historiador se esforça para compreender cada época **nos seus próprios termos**, sem deixar de analisá-la criticamente. Fugir do anacronismo é a primeira disciplina do pensamento histórico.
+:::
+
+Ligada ao anacronismo está a **teleologia**: tratar o que aconteceu como se fosse inevitável, como se a história caminhasse necessariamente para um destino ("o Brasil *tinha* de se tornar independente em 1822"). Nada no passado era predeterminado. Havia sempre alternativas, disputas e contingências. Pensar historicamente é recuperar as **possibilidades abertas** que os sujeitos daquele momento enxergavam — e não apenas o caminho que, olhando para trás, sabemos ter vencido.
+
+## Quem faz a História? O sujeito histórico {#sec-sujeito-historico}
+
+Durante muito tempo, a História foi contada como a biografia dos poderosos: reis, generais, grandes homens. Nessa visão, o **sujeito histórico** — aquele que age e move a história — seria uma minoria de personagens ilustres. As multidões apareciam apenas como cenário.
+
+A historiografia dos últimos cem anos desmontou essa ideia. Hoje entendemos que fazer história é uma ação **coletiva** e que praticamente todos os grupos humanos são sujeitos históricos: os camponeses que se revoltam, os escravizados que fogem e formam quilombos, os operários que organizam greves, as mulheres que reivindicam direitos, os povos indígenas que resistem e negociam. Eles não são "figurantes" — são agentes que, com margens de ação desiguais, também produzem a história.
+
+::: {.callout-note title="Conceito-chave: sujeito histórico"}
+**Sujeito histórico** é todo indivíduo ou grupo social que, com suas escolhas, lutas e trabalho, participa da produção e da transformação da realidade histórica. O conceito é hoje entendido de forma **plural**: não há um único protagonista, mas muitos sujeitos em relação — e frequentemente em conflito.
+:::
+
+Recuperar esses sujeitos silenciados não é um "detalhe de justiça social" acrescentado à parte: é uma **exigência de rigor**. Uma história do Brasil colonial que ignore os africanos escravizados e os povos originários — que eram a maioria da população — simplesmente descreve mal o que aconteceu. Por isso a legislação educacional brasileira tornou obrigatório o ensino da história e da cultura **afro-brasileira** (Lei 10.639/2003) e **indígena** (Lei 11.645/2008): não como apêndice, mas como parte constitutiva da nossa formação. Ao longo deste manual, você verá esses sujeitos no centro da cena, e não à margem dela.
+
+Isso não significa negar o papel de indivíduos notáveis. Significa entendê-los **em relação** com as forças sociais de seu tempo. Como sintetizou uma tradição do pensamento histórico, os seres humanos fazem a sua própria história, mas não a fazem como querem — fazem-na sob circunstâncias herdadas, que limitam e condicionam o que é possível. O grande estadista age; mas age dentro de estruturas que não criou.
+
+## Sociedade, estrutura e mudança: permanências e rupturas {#sec-estrutura-e-mudanca}
+
+Se o tempo histórico tem camadas e os sujeitos são coletivos, o objeto central da História é a **sociedade em transformação**. O historiador observa como as sociedades se organizam (economia, política, cultura, relações de poder) e, sobretudo, como e por que elas **mudam**.
+
+Duas noções são indispensáveis aqui. As **permanências** (ou continuidades) são aquilo que resiste ao tempo, que atravessa gerações quase sem mudar — hábitos, instituições, desigualdades de longa data. As **rupturas** são as transformações profundas, os pontos de virada. A boa análise histórica nunca vê só uma das duas. A abolição da escravidão em 1888, por exemplo, foi uma **ruptura** jurídica evidente; mas as **permanências** do racismo e da concentração de terra e renda mostram que muita coisa continuou. História é sempre essa tensão entre o que muda e o que insiste em ficar.
+
+Compreender a mudança exige raciocinar em termos de **causas e consequências**. Nenhum grande processo histórico tem causa única: costuma resultar do encontro de fatores econômicos, políticos, sociais, culturais e até ambientais. E as consequências de um evento frequentemente escapam às intenções de quem o desencadeou. Grande parte do trabalho que você fará neste manual é justamente **encadear** contexto, processo, causas e efeitos — não decorar fatos soltos.
+
+## O ofício do historiador: das fontes à narrativa {#sec-oficio-do-historiador}
+
+Como, na prática, se produz conhecimento histórico? Tudo começa nas **fontes** (ou documentos históricos): todo vestígio deixado pelo passado que o historiador interroga — uma carta, uma lei, um osso, uma música, uma fotografia, um recenseamento, a memória de quem viveu um acontecimento. Um vestígio, porém, não vira conhecimento sozinho. Ele passa pela **crítica documental**: perguntar quem produziu aquela fonte, quando, por quê, para quem, o que ela silencia. Só então o historiador **interpreta** — cruza fontes, formula hipóteses, compara — e, por fim, escreve uma **narrativa** que explica e argumenta. A @fig-oficio-historiador resume esse percurso.
+
+::: {#fig-oficio-historiador}
+
+```{.tikz}
+%%| filename: fig-oficio-historiador
+%%| alt: Fluxograma do ofício do historiador, das fontes à narrativa historiográfica, com retorno das novas perguntas às fontes.
+\begin{tikzpicture}[
+    >=stealth,
+    caixa/.style={draw, thick, rounded corners, align=center, text width=2.55cm,
+                  minimum height=1.25cm, fill=manualblue!10},
+    seta/.style={->, very thick, manualgray}]
+  \node[caixa] (a) {\small \textbf{Fontes}\\\scriptsize vestígios do passado};
+  \node[caixa, right=0.8cm of a] (b) {\small \textbf{Crítica}\\\scriptsize quem, quando, por quê};
+  \node[caixa, right=0.8cm of b] (c) {\small \textbf{Interpretação}\\\scriptsize perguntas e hipóteses};
+  \node[caixa, right=0.8cm of c] (d) {\small \textbf{Narrativa}\\\scriptsize explicação e argumento};
+
+  \draw[seta] (a) -- (b);
+  \draw[seta] (b) -- (c);
+  \draw[seta] (c) -- (d);
+
+  % retorno: novas perguntas voltam às fontes
+  \draw[seta, manualred, dashed] (d.south) -- ++(0,-0.9) -| node[pos=0.25, below, black]
+        {\scriptsize novas perguntas reabrem as fontes} (a.south);
+\end{tikzpicture}
+```
+
+O ofício do historiador não é uma linha reta, mas um **ciclo**: cada geração faz novas perguntas às mesmas fontes — e assim reescreve a História.
+:::
+
+Esse caráter cíclico explica por que a História é **reescrita** a cada geração. As fontes do passado são, em boa medida, as mesmas; o que muda são as **perguntas** que lhes fazemos, moldadas pelas inquietações do nosso presente. Foi assim que temas antes invisíveis — a vida das mulheres, o cotidiano dos escravizados, a história do meio ambiente — entraram na pauta dos historiadores. Você estudará esse ofício em detalhe no próximo capítulo, dedicado às fontes históricas e à crítica documental.
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+Se a História é interpretação, então os próprios historiadores **discordam** sobre o que a História deve ser. Vale a pena contrastar duas grandes visões que marcaram os séculos XIX e XX — porque essa disputa está por trás de quase tudo o que você lerá adiante.
+
+**A história factual e política (o "método científico" do século XIX).** O alemão **Leopold von Ranke** (1795–1886) é o nome maior dessa tradição. Para ele, a tarefa do historiador era reconstituir o passado "tal como ele propriamente aconteceu" (em alemão, *wie es eigentlich gewesen*), com base rigorosa em documentos oficiais — sobretudo diplomáticos e de Estado. Essa história privilegiava a **política**, as **grandes personagens** e os **acontecimentos** (guerras, tratados, reinados) e aspirava à **neutralidade**: o historiador deveria apagar-se diante dos fatos. Foi um avanço enorme para o rigor documental, e no Brasil influenciou a história oficial produzida por instituições como o Instituto Histórico e Geográfico Brasileiro.
+
+**A história-problema (a Escola dos Annales, a partir de 1929).** Os franceses **Marc Bloch** (1886–1944) e **Lucien Febvre** (1878–1956) fundaram, em 1929, a revista *Annales* e lideraram uma verdadeira revolução [@burke2010]. Para eles, a história de Ranke era estreita: ao focar apenas a política dos poderosos e o acontecimento, deixava de fora a economia, a sociedade, as técnicas, as crenças — e a imensa maioria dos seres humanos. Em vez de simplesmente **narrar** os fatos na ordem em que ocorreram (a *história narrativa*), propunham partir de um **problema**, de uma pergunta, e mobilizar todas as fontes e ciências vizinhas (geografia, economia, antropologia) para respondê-la. Marc Bloch resumiu o espírito da nova História ao definir seu objeto não como "o passado" em geral, mas como **"os homens no tempo"** [@bloch2001]. Dessa tradição vieram a longa duração de Braudel [@braudel1996] e, mais tarde, a **Nova História**, que abriu o campo a objetos antes desprezados — a morte, a infância, o corpo, o clima, o cotidiano [@leGoff2013]. Uma de suas vertentes, a **micro-história**, chegou a reconstruir a visão de mundo de um único moleiro do século XVI a partir de seus processos na Inquisição [@ginzburg2006], mostrando que também a gente comum tem história.
+
+**Por que essas visões divergem?** Não porque uma "mente" e a outra "diga a verdade". Elas divergem porque partem de **perguntas diferentes** e, por isso, escolhem **fontes diferentes**. Quem se pergunta "como este tratado foi negociado?" vai aos arquivos diplomáticos e enxerga reis e ministros. Quem se pergunta "como viviam e o que temiam os camponeses deste vale?" vai a registros paroquiais, inventários e processos judiciais — e enxerga uma multidão anônima. Além disso, cada historiador é **filho do seu tempo**: a valorização do Estado-nação no século XIX ajuda a explicar a história política de Ranke; as guerras mundiais e as ciências sociais do século XX ajudam a explicar a busca dos Annales por estruturas profundas e por explicações coletivas. A lição, que vale para todo este manual, é esta: **não há a "História verdadeira" contra as "versões"** — há interpretações mais ou menos bem fundamentadas, e aprender História é, também, aprender a compará-las.
+
+::: {.callout-warning title="Controvérsia: neutralidade é possível?"}
+A pretensão de Ranke a uma história perfeitamente neutra foi muito questionada. Toda escolha do historiador — que tema pesquisar, que fonte privilegiar, que palavras usar — já é uma forma de interpretação. Isso **não** condena a História à pura opinião: a diferença entre conhecimento e propaganda está no compromisso com as fontes, na transparência do método e na aceitação da crítica dos pares. O historiador não precisa ser neutro; precisa ser **honesto com as evidências**.
+:::
+
+## Resumo do capítulo {#sec-resumo}
+
+- **Passado** é tudo o que aconteceu (imenso e irrecuperável); **História** é a disciplina que investiga vestígios do passado para compreendê-lo. A História é uma **construção do conhecimento**, provisória e ancorada em fontes — não um espelho completo do passado.
+- A palavra *historía* (grego) significa **investigação**. Desde Heródoto (séc. V a.C.), fazer História é **perguntar**, não só narrar. Os fatos **não falam por si**: dependem de interpretação.
+- O **tempo histórico** é qualitativo e desigual. Braudel distinguiu três velocidades: **longa duração** (estruturas, séculos), **conjuntura** (ciclos, décadas) e **acontecimento** (fato pontual). Boas explicações articulam as três camadas.
+- Dois erros a evitar: o **anacronismo** (julgar o passado com valores do presente) e a **teleologia** (tratar o ocorrido como inevitável). Pensar historicamente é recuperar as **possibilidades abertas** do passado.
+- O **sujeito histórico** é coletivo e **plural**: além de reis e generais, camponeses, escravizados, mulheres, operários e povos indígenas produzem a história. Incluí-los é exigência de **rigor**, não mero acréscimo (Leis 10.639/2003 e 11.645/2008).
+- A História estuda a **sociedade em transformação**, na tensão entre **permanências** e **rupturas**, sempre raciocinando por **causas e consequências** múltiplas.
+- O **ofício do historiador** vai das **fontes** à **crítica documental**, à **interpretação** e à **narrativa**, num **ciclo**: novas perguntas reabrem as mesmas fontes e reescrevem a História.
+- Duas grandes tradições: a **história factual/política** de Ranke (documentos oficiais, grandes homens, "tal como aconteceu") e a **história-problema** dos **Annales** (Bloch e Febvre: "os homens no tempo", estruturas, gente comum). Elas divergem porque fazem **perguntas** diferentes e são **filhas de seu tempo**.
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Tente responder antes de abrir a solução. O objetivo não é acertar de primeira, mas **argumentar com base em conceitos** — situar no tempo, distinguir passado de interpretação e evitar anacronismos.
+:::
+
+**1.** Explique, com suas palavras, a diferença entre "passado" e "História". Por que essa distinção é importante para o estudo?
+
+::: {.callout-tip collapse="true" title="Solução"}
+O **passado** é a totalidade do que aconteceu — imenso e, em grande parte, perdido. A **História** é a disciplina que, a partir dos vestígios que sobraram (as fontes), investiga e interpreta esse passado, construindo explicações. A distinção importa porque deixa claro que o historiador nunca acessa o passado diretamente: ele trabalha com registros parciais e formula interpretações. Logo, a História é **construção de conhecimento** — provisória e revisável —, e não uma cópia fiel e completa do que ocorreu. Entender isso nos protege da ideia ingênua de que existe "a" versão pronta e verdadeira no livro.
+:::
+
+**2.** Relacione cada exemplo à temporalidade de Braudel correspondente (longa duração, conjuntura ou acontecimento): (a) a coroação de Dom Pedro I em 1822; (b) o ciclo de alta e baixa dos preços do açúcar ao longo do século XVII; (c) o predomínio de mentalidades religiosas cristãs no Ocidente por mais de mil anos.
+
+::: {.callout-tip collapse="true" title="Solução"}
+- (a) **Acontecimento** — é um fato pontual, datado, de curtíssima duração.
+- (b) **Conjuntura** — trata-se de um ciclo econômico de médio prazo (décadas).
+- (c) **Longa duração** — refere-se a uma estrutura mental profunda, que muda lentíssimamente ao longo de séculos.
+
+O ponto do exercício é perceber que os três exemplos pertencem ao *mesmo* mundo histórico, mas em camadas de tempo diferentes; explicar bem a coroação de 1822 exige situá-la nas conjunturas e estruturas que a tornaram possível.
+:::
+
+**3.** Identifique e corrija o **anacronismo** na seguinte frase: "Os gregos antigos eram hipócritas, pois defendiam a democracia mas mantinham escravos e não deixavam as mulheres votarem".
+
+::: {.callout-tip collapse="true" title="Solução"}
+O anacronismo está em julgar a Grécia antiga (séc. V a.C.) com o conceito **atual** de democracia — universal e inclusiva —, que só se firmou muito depois. Para os atenienses, "democracia" (governo dos cidadãos) jamais pretendeu incluir escravizados, estrangeiros ou mulheres: essa exclusão não era vista, naquele contexto, como contradição. Uma formulação sem anacronismo seria: "A democracia ateniense era **restrita aos cidadãos livres do sexo masculino**, excluindo a maioria da população; compreender seus limites nos próprios termos da época é diferente de acusá-la de hipocrisia com critérios do século XXI." Analisar criticamente é legítimo; projetar valores atuais como se fossem universais e eternos é o erro.
+:::
+
+**4.** Leia o trecho de abertura da obra de Heródoto e responda ao que se pede.
+
+> "Esta é a exposição das investigações de Heródoto de Halicarnasso, para que os feitos dos homens não se apaguem com o tempo e para que as grandes e admiráveis realizações, tanto dos gregos como dos bárbaros, não fiquem sem glória." — @herodoto2006
+
+Com base no trecho: (a) que palavra revela a concepção de História como *pesquisa*? (b) que objetivo Heródoto atribui ao seu trabalho? (c) o que a expressão "tanto dos gregos como dos bárbaros" sugere sobre o alcance de sua investigação?
+
+::: {.callout-tip collapse="true" title="Solução"}
+- (a) A palavra **"investigações"** (em grego, *historíai*) — a própria raiz do termo "História" — revela que, desde a origem, fazer História é **indagar**, e não apenas repetir tradições.
+- (b) O objetivo é **preservar da destruição do tempo a memória** dos feitos humanos, dando-lhes "glória" (registro). Heródoto se coloca como quem luta contra o esquecimento.
+- (c) A menção a gregos **e** "bárbaros" (não gregos, como persas e egípcios) mostra uma investigação de **alcance amplo**, atenta a outros povos — uma abertura notável para a época, ainda que a palavra "bárbaro" já marque a fronteira entre "nós" e "os outros". É um bom exemplo de como uma fonte revela tanto o método quanto os limites de visão de quem a escreveu.
+:::
+
+**5.** Por que se afirma que reconhecer mulheres, indígenas e população negra como sujeitos históricos é uma exigência de **rigor**, e não apenas de justiça? Use um exemplo.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque uma explicação histórica que ignora a maioria dos agentes envolvidos **descreve mal** o que aconteceu — é factualmente incompleta. Exemplo: no Brasil colonial, africanos escravizados e povos indígenas constituíam a maior parte da população e da força de trabalho; foram eles que ergueram engenhos, extraíram ouro, abriram roças e caminhos, além de resistirem (fugas, quilombos, revoltas, negociações). Uma história da colônia centrada apenas em governadores e senhores de engenho deixaria de fora justamente quem sustentava e, ao resistir, também transformava aquela sociedade. Incluir esses sujeitos, portanto, torna a explicação **mais precisa** — daí ser uma questão de rigor. (Esse princípio embasa as Leis 10.639/2003 e 11.645/2008.)
+:::
+
+**6.** Explique a diferença entre **permanência** e **ruptura** e aplique os dois conceitos à abolição da escravidão no Brasil (1888).
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Permanência** é aquilo que continua ao longo do tempo; **ruptura** é a mudança profunda, o ponto de virada. Na abolição de 1888, houve uma **ruptura** jurídica clara: a escravidão deixou de ser legal, e milhões de pessoas passaram formalmente da condição de propriedade à de livres. Mas houve fortes **permanências**: a ausência de reforma agrária, de acesso à terra, à educação e a empregos dignos manteve a população negra em situação de marginalização; o racismo estrutural persistiu. Analisar apenas a ruptura (a "libertação") sem as permanências produziria uma imagem falsamente otimista; ver só as permanências negaria a mudança real. A boa História segura as duas pontas.
+:::
+
+**7.** (Estilo ENEM) Leia o texto.
+
+> "A incompreensão do presente nasce fatalmente da ignorância do passado. Mas não é, talvez, menos vão esgotar-se em compreender o passado se nada se sabe do presente. […] Aqui, como alhures, é a relação entre o antes e o depois que importa." — adaptado de @bloch2001
+
+A reflexão do historiador Marc Bloch indica que o conhecimento histórico
+
+**(a)** deve limitar-se ao estudo de documentos oficiais do passado, sem relação com o presente.
+**(b)** consiste em memorizar a sucessão cronológica dos fatos, do mais antigo ao mais recente.
+**(c)** estabelece um diálogo entre passado e presente, iluminando um a partir do outro.
+**(d)** comprova que o presente repete exatamente os acontecimentos do passado.
+**(e)** demonstra que o estudo do passado é inútil para compreender o mundo atual.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (c).** Bloch afirma que passado e presente se esclarecem mutuamente — "é a relação entre o antes e o depois que importa". O conhecimento histórico não é a coleção estática do passado, mas um **diálogo** entre os tempos: entendemos melhor o presente conhecendo o passado, e formulamos melhores perguntas ao passado a partir das inquietações do presente.
+
+Por que as demais estão erradas:
+- (a) restringe a História a documentos oficiais e a separa do presente — o oposto do texto e do programa dos Annales;
+- (b) reduz a História a memorização cronológica, que o texto justamente supera;
+- (d) afirma repetição idêntica ("a história se repete"), ideia que Bloch não sustenta;
+- (e) nega utilidade ao passado, contradizendo a primeira frase do trecho.
+:::
+
+**8.** (Estilo vestibular — dissertativa) Um colega afirma: "Se a História é sempre interpretação e é reescrita a cada geração, então qualquer versão do passado vale tanto quanto outra". Redija um parágrafo refutando essa conclusão, mobilizando o que você aprendeu sobre fontes e método.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Resposta esperada (síntese): reconhecer que a História é interpretação **não** equivale a dizer que "vale tudo". Uma afirmação histórica só se sustenta se estiver **ancorada em fontes**, submetida à **crítica documental** (origem, autoria, contexto, silêncios) e exposta à avaliação crítica de outros historiadores. Há interpretações **melhor fundamentadas** que outras: as que explicam mais evidências, com menos contradições e maior coerência, e as que resistem à checagem. A História é reescrita porque cada geração faz **novas perguntas** às fontes — não porque os fatos possam ser inventados. A diferença entre conhecimento histórico e propaganda ou negacionismo está exatamente aí: no compromisso com as evidências e na transparência do método. Portanto, a pluralidade de interpretações convive com **critérios rigorosos** que permitem distinguir uma boa explicação de uma falsificação. (Uma boa resposta deve citar ao menos: papel das fontes, crítica documental e critério de melhor fundamentação.)
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- BLOCH, Marc. *Apologia da história, ou o ofício de historiador* [@bloch2001]. Um clássico curto e luminoso, escrito por um historiador da Escola dos Annales que morreu fuzilado pela Gestapo em 1944. A melhor introdução ao que é, afinal, o trabalho do historiador.
+- FEBVRE, Lucien. *Combates pela história* [@febvre1989]. Reúne textos programáticos do cofundador dos Annales sobre a virada da "história narrativa" para a "história-problema".
+- BURKE, Peter. *A Escola dos Annales (1929–1989): a Revolução Francesa da historiografia* [@burke2010]. Panorama acessível da corrente que transformou a maneira de escrever História no século XX.
+- LE GOFF, Jacques. *História e memória* [@leGoff2013]. Discute conceitos fundamentais — tempo, memória, documento, periodização — que retornarão nos próximos capítulos.
+- GINZBURG, Carlo. *O queijo e os vermes* [@ginzburg2006]. Obra-prima da micro-história: a partir de processos inquisitoriais, reconstrói a visão de mundo de um moleiro do século XVI e prova que a gente comum também tem história.
+- HARARI, Yuval Noah. *Sapiens: uma breve história da humanidade* [@harari2015]. Uma narrativa de longuíssima duração, útil para exercitar a escala macro do tempo histórico — a ser lida com espírito crítico, comparando-a com a historiografia especializada.
+
+**Filmes e documentários**
+
+- *Narradores de Javé* (2003), dir. Eliane Caffé. Uma pequena cidade tenta escrever a própria história para salvar-se de uma barragem: uma fábula brilhante sobre memória, oralidade, fonte e poder.
+- *Amistad* (1997), dir. Steven Spielberg. A partir de uma revolta de africanos escravizados, discute quem tem voz e como o passado é disputado nos tribunais e na memória.
+- Série *Guns, Germs and Steel* (2005, PBS), baseada na obra de Jared Diamond [@diamond2013]. Bom disparador de debate sobre explicações de longa duração — e sobre seus limites.
