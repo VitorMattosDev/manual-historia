@@ -1,5 +1,208 @@
 # Hominização e evolução humana {#sec-hominizacao}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Em 1974, no vale do rio Awash, na Etiópia, uma equipe de paleontólogos desenterrou o esqueleto parcial de uma fêmea que teria vivido há cerca de 3,2 milhões de anos. Naquela noite, no acampamento, tocava sem parar a canção *Lucy in the Sky with Diamonds*, dos Beatles — e foi assim que o fóssil ganhou o apelido de **Lucy**. Baixinha, com pouco mais de um metro, cérebro do tamanho do de um chimpanzé, Lucy tinha, porém, uma característica decisiva: ela andava **ereta**, sobre duas pernas. Diante de seus ossos, uma pergunta antiga ganha carne: em que momento, e por quê, um grupo de primatas africanos começou a se tornar humano? Este capítulo trata desse processo — a **hominização** — e mostra que a resposta não é uma linha reta rumo a nós, mas um arbusto cheio de galhos, becos sem saída e surpresas que os cientistas ainda debatem.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- definir **hominização** e explicar por que ela é um processo **biológico e cultural** ao mesmo tempo;
+- reconhecer a **evolução por seleção natural** como o mecanismo que explica a diversificação dos hominídeos, sem cair na ideia de "progresso" ou finalidade;
+- situar no tempo e no espaço as principais espécies do gênero *Homo* e identificar a **África** como berço da humanidade;
+- descrever marcos como o **bipedismo**, o aumento do cérebro, a produção de ferramentas, o domínio do **fogo** e o surgimento da **linguagem**;
+- avaliar o debate entre as hipóteses **"Out of Africa"** e **multirregional** sobre a origem do *Homo sapiens*.
 :::
+
+## O que é hominização {#sec-o-que-e-hominizacao}
+
+**Hominização** é o longo processo pelo qual ancestrais primatas se transformaram, ao longo de milhões de anos, nos seres humanos atuais. Note bem: não se trata de um salto súbito, de um dia em que um macaco "virou gente". Trata-se de uma sucessão de pequenas mudanças acumuladas ao longo de um tempo quase inimaginável — a escala da **longa duração** biológica, que você conheceu no @sec-tempo-historico e que aqui se conta em milhões de anos.
+
+Esse processo tem duas faces inseparáveis. Há uma dimensão **biológica** (mudanças no corpo: a postura ereta, as mãos livres, o crescimento do cérebro) e uma dimensão **cultural** (a fabricação de ferramentas, o uso do fogo, a linguagem, os enterros, a arte). As duas se alimentam mutuamente: mãos livres permitem fabricar instrumentos; instrumentos melhores favorecem indivíduos de cérebro maior; cérebros maiores inventam mais cultura. Os cientistas chamam essa retroalimentação de **coevolução** entre corpo e cultura.
+
+::: {.callout-note title="Conceito-chave: hominídeos e hominíneos"}
+A linguagem científica distingue vários níveis. Os **hominídeos** (família *Hominidae*) incluem hoje os grandes primatas — gorilas, chimpanzés, orangotangos e humanos. Os **hominíneos** (ou homininos) são o ramo que leva especificamente até nós, depois da separação em relação aos chimpanzés, há cerca de 6 a 7 milhões de anos. Para não sobrecarregar o texto, usaremos "hominídeos" no sentido corrente de "ancestrais e parentes próximos do ser humano" — mas guarde a distinção: o parente vivo mais próximo de você é o chimpanzé, com quem você compartilha quase 99% do DNA.
+:::
+
+## Evolução, não progresso: como funciona a seleção natural {#sec-selecao-natural}
+
+Antes de percorrer as espécies, é preciso desarmar um mal-entendido que atravessa livros, filmes e aquela famosa imagem do "macaco que vai ficando de pé até virar um homem de terno". Essa figura sugere que a evolução é uma **marcha do pior para o melhor**, com direção e destino. Não é.
+
+O naturalista inglês **Charles Darwin** (1809–1882), em *A origem das espécies* (1859), propôs um mecanismo bem diferente: a **seleção natural**. Em qualquer população, os indivíduos variam entre si (por causa das mutações genéticas, que hoje sabemos serem aleatórias). Alguns, por acaso, nascem com características que os ajudam a sobreviver e a se reproduzir naquele ambiente específico; esses tendem a deixar mais descendentes, e a característica se torna mais comum ao longo das gerações. Não há "objetivo": há apenas variação, ambiente e reprodução diferencial.
+
+::: {.callout-important title="Armadilha comum: a 'escala do progresso'"}
+Dizer que o ser humano é o "ápice da evolução" é um erro conceitual, não apenas de gosto. A evolução não tem cume: uma bactéria, perfeitamente adaptada, é tão "bem-sucedida" quanto nós — e existe há muito mais tempo. Também é falso dizer que "descendemos do macaco" como se o chimpanzé fosse nosso avô: chimpanzés e humanos são **primos**, descendentes de um ancestral comum já extinto. E cuidado com a palavra "elo perdido": a evolução humana não é uma corrente linear, mas um **arbusto ramificado** em que várias espécies conviveram — às vezes na mesma época e região.
+:::
+
+Aplicada aos nossos ancestrais, a seleção natural explica por que, em determinado ambiente africano, características como andar sobre duas pernas ou ter um cérebro maior se tornaram vantajosas — sem que ninguém "planejasse" tornar-se humano.
+
+## O berço africano e a marcha do bipedismo {#sec-bipedismo}
+
+Todas as evidências fósseis e genéticas apontam para o mesmo lugar de nascimento: a **África**. Foi lá, sobretudo na região do **Vale do Rift**, no leste do continente, que surgiram os primeiros hominídeos, há cerca de 6 a 7 milhões de anos. Uma mudança ambiental ajudou: o clima africano ficou mais seco, e parte das florestas densas deu lugar a **savanas** — campos abertos com árvores esparsas. Nesse cenário, ficar de pé trouxe vantagens.
+
+O **bipedismo** — a locomoção sobre dois pés — é considerado o primeiro grande marco da hominização, anterior ao aumento do cérebro. Lucy, do *Australopithecus afarensis*, já andava ereta há 3,2 milhões de anos, mesmo com cérebro pequeno. Isso prova que **primeiro viemos os pés, depois a cabeça**: não foi a inteligência que nos pôs de pé, foi o andar ereto que abriu caminho para o resto.
+
+::: {.callout-note title="Conceito-chave: por que o bipedismo foi vantajoso?"}
+Os pesquisadores levantam várias hipóteses, provavelmente combinadas: andar sobre dois pés **libera as mãos** para carregar alimentos, filhotes e objetos; permite **enxergar mais longe** sobre o capim alto da savana; **gasta menos energia** em longas caminhadas do que andar apoiado nos nós dos dedos; e expõe **menos corpo** ao sol do meio-dia, ajudando a regular a temperatura. Nenhuma dessas explicações é definitiva — é um debate científico em aberto.
+:::
+
+Da postura ereta derivaram outras transformações do corpo: a bacia mudou de forma, a coluna adquiriu curvas, o polegar tornou-se plenamente **opositor** (capaz de tocar os outros dedos, tornando a mão uma ferramenta de precisão) e a laringe desceu na garganta, o que mais tarde seria decisivo para a fala.
+
+## Do *Australopithecus* ao *Homo sapiens*: um arbusto, não uma escada {#sec-arbusto-humano}
+
+A partir dos australopitecos, o arbusto humano se ramificou. Surgiu, há cerca de 2,5 milhões de anos, o gênero ***Homo***, marcado por cérebros maiores e pela fabricação sistemática de ferramentas. A @fig-linha-do-tempo-hominizacao situa os principais marcos.
+
+::: {#fig-linha-do-tempo-hominizacao}
+
+```{.tikz}
+%%| filename: fig-linha-do-tempo-hominizacao
+%%| alt: Linha do tempo da hominização, do surgimento dos hominídeos há 7 milhões de anos ao Homo sapiens, fora de escala.
+\begin{tikzpicture}[>=stealth]
+  \draw[eixo] (0,0) -- (13.5,0);
+  \node[eixo, gray] at (13.5,-0.5) {\scriptsize passado $\rightarrow$ presente (fora de escala)};
+
+  \node[ponto] at (0.8,0) {};
+  \node[below] at (0.8,-0.15) {\scriptsize 7 Ma};
+  \node[above, align=center, text=manualgreen] at (0.8,0.2) {\scriptsize primeiros\\\scriptsize hominídeos};
+
+  \node[ponto] at (3.4,0) {};
+  \node[below] at (3.4,-0.15) {\scriptsize 3,2 Ma};
+  \node[above, align=center, text=manualgreen] at (3.4,0.2) {\scriptsize \textit{A. afarensis}\\\scriptsize (Lucy)};
+
+  \node[ponto] at (6.0,0) {};
+  \node[below] at (6.0,-0.15) {\scriptsize 2,5 Ma};
+  \node[above, align=center, text=manualblue] at (6.0,0.2) {\scriptsize \textit{Homo habilis}\\\scriptsize 1as ferramentas};
+
+  \node[ponto] at (8.6,0) {};
+  \node[below] at (8.6,-0.15) {\scriptsize 1,8 Ma};
+  \node[above, align=center, text=manualblue] at (8.6,0.2) {\scriptsize \textit{H. erectus}\\\scriptsize fogo, migração};
+
+  \node[ponto] at (11.0,0) {};
+  \node[below] at (11.0,-0.15) {\scriptsize 400 mil};
+  \node[above, align=center, text=manualred] at (11.0,0.2) {\scriptsize \textit{H. neander-}\\\scriptsize \textit{thalensis}};
+
+  \node[ponto] at (12.9,0) {};
+  \node[below] at (12.9,-0.15) {\scriptsize 300 mil};
+  \node[above, align=center, text=manualred] at (12.9,0.2) {\scriptsize \textit{H. sapiens}};
+\end{tikzpicture}
+```
+
+Marcos da hominização (Ma = milhões de anos atrás). A escala **não** é linear: repare como quase toda a "ação" — cérebro grande, fogo, linguagem — se concentra nos últimos 2 milhões de anos.
+:::
+
+- ***Homo habilis*** ("homem habilidoso", c. 2,4–1,6 milhões de anos): associado às primeiras ferramentas de pedra lascada intencionalmente (a chamada **indústria Olduvaiense**). O nome celebra justamente essa habilidade manual.
+- ***Homo erectus*** ("homem ereto", c. 1,9 milhão–110 mil anos): o grande viajante. Foi o primeiro a **sair da África** e povoar a Ásia e a Europa, o primeiro a dominar o **fogo** de forma controlada e a fabricar o **bifaz** (machado de mão simétrico). Seu corpo já era muito parecido com o nosso.
+- ***Homo neanderthalensis*** (os **neandertais**, c. 400 mil–40 mil anos): adaptados ao frio da Europa glacial, robustos, caçadores de grandes animais. Enterravam seus mortos e cuidavam de doentes — sinais de vida simbólica e social. Não eram os "brutamontes" do estereótipo.
+- ***Homo sapiens*** ("homem sábio", surgido há cerca de 300 mil anos na África): a nossa espécie. Cérebro grande, linguagem complexa, arte, capacidade de cooperar em grandes grupos.
+
+Um ponto que costuma surpreender: essas espécies **não** se sucederam em fila indiana. Houve épocas, há 50 ou 60 mil anos, em que o planeta abrigava ao mesmo tempo *sapiens*, neandertais, os **denisovanos** (conhecidos sobretudo por DNA) e o minúsculo *Homo floresiensis* da Indonésia. Estudos de genética mostram, inclusive, que houve **cruzamento**: a maioria das pessoas fora da África carrega hoje de 1% a 2% de DNA neandertal. Nós somos, em parte, o resultado desses encontros.
+
+## Ferramentas, fogo e linguagem: a virada cultural {#sec-cultura-material}
+
+Se o bipedismo foi o marco biológico inicial, três conquistas **culturais** transformaram o rumo da espécie.
+
+A **fabricação de ferramentas** de pedra, osso e madeira ampliou enormemente o que o corpo humano podia fazer: cortar carne, raspar peles, quebrar ossos, cavar. A tecnologia lítica (de pedra) evoluiu de lascas grosseiras a instrumentos cada vez mais refinados — um tema que você estudará no @sec-paleolitico.
+
+O **domínio do fogo** — provavelmente controlado pelo *Homo erectus* há mais de um milhão de anos — foi revolucionário. O fogo aquecia contra o frio, afastava predadores, iluminava a noite e permitia **cozinhar**. Alimentos cozidos são mais fáceis de mastigar e digerir e liberam mais energia: há pesquisadores que defendem que **cozinhar** ajudou a financiar, em termos de calorias, o crescimento do nosso cérebro — um órgão que, em repouso, consome cerca de um quinto de toda a nossa energia.
+
+A **linguagem** simbólica é talvez a característica mais decisivamente humana. Falar não serve só para dar recados: permite **planejar** o futuro, transmitir conhecimento entre gerações, contar histórias, inventar deuses, leis e nações. O historiador Yuval Harari [@harari2015] chama de **revolução cognitiva** o momento (há 70 mil a 30 mil anos) em que o *Homo sapiens* passou a cooperar, por meio da linguagem, em grupos muito maiores e mais flexíveis do que qualquer outro animal — a chave, para ele, de nosso domínio sobre o planeta.
+
+::: {.callout-tip title="Dica de prova: os marcos, em ordem"}
+Uma sequência que ajuda a memorizar e cai em vestibular: **bipedismo → mãos livres → ferramentas → fogo/cozinha → cérebro maior → linguagem → cultura simbólica**. Guarde também as três "saídas da África": o *Homo erectus* (primeira grande migração, ~1,8 milhão de anos) e, muito depois, o *Homo sapiens* (a partir de ~70 mil anos), que acabaria por povoar todos os continentes.
+:::
+
+## 🔎 Historiografia em Foco {#sec-historiografia-hominizacao}
+
+Se há um consenso robusto de que a humanidade nasceu na África, a pergunta *como* e *onde* exatamente surgiu o *Homo sapiens* **moderno** dividiu os pesquisadores por décadas. Duas grandes hipóteses se enfrentaram — e a disputa é um belo exemplo de como a ciência muda quando surgem **fontes novas**.
+
+**A hipótese "Out of Africa" (origem africana recente).** Defendida por paleoantropólogos e, sobretudo, por geneticistas a partir dos anos 1980, sustenta que o *Homo sapiens* moderno surgiu **uma única vez**, na África, há cerca de 200 a 300 mil anos, e de lá migrou pelo mundo, **substituindo** as populações humanas mais antigas (como os neandertais) que encontrava. A prova mais forte veio de uma fonte impensável para os historiadores tradicionais: o **DNA**. Estudos do DNA mitocondrial (transmitido pela linhagem materna) apontaram que todas as pessoas vivas descendem de uma população africana comum e relativamente recente — a chamada, de modo um tanto sensacionalista, "Eva mitocondrial".
+
+**A hipótese multirregional.** Defendida por outros paleontólogos, propunha que o *Homo sapiens* teria evoluído **em paralelo**, em várias regiões do mundo, a partir das populações locais de *Homo erectus*, mantidas conectadas por fluxo genético. Nessa leitura, os traços "raciais" atuais teriam raízes muito antigas, de centenas de milhares de anos, em cada continente.
+
+**Por que divergiam — e como o debate avançou.** As duas escolas partiam de **evidências diferentes**: os multirregionalistas davam peso à **continuidade dos fósseis** em cada região; os defensores do "Out of Africa" davam peso à **genética** das populações vivas. Nos anos 2000 e 2010, uma terceira fonte reconciliou parcialmente as posições: o **sequenciamento do genoma neandertal**. Ele confirmou o essencial do modelo africano (nossa espécie surgiu na África e de lá se espalhou), mas revelou uma surpresa que dava razão parcial aos multirregionalistas: houve **cruzamento** entre *sapiens* e neandertais (e denisovanos). Ou seja, não houve substituição pura e simples — houve substituição **com mistura**. Hoje fala-se em um modelo de "**Out of Africa** com assimilação". A lição historiográfica é preciosa: uma tecnologia nova (o sequenciamento de DNA antigo) reabriu um debate que parecia fechado e obrigou os dois lados a revisar suas certezas — exatamente como no ofício do historiador, em que novas perguntas e novas fontes reescrevem o conhecimento (@sec-oficio-do-historiador).
+
+::: {.callout-warning title="Controvérsia: 'raças humanas' não têm base biológica"}
+A antiga hipótese multirregional, em algumas versões, foi usada para sustentar a ideia de "raças humanas" biologicamente distintas e antigas. A genética contemporânea desmontou essa ideia: a espécie humana é geneticamente **muito homogênea** (há mais variação dentro de um mesmo grupo do que entre grupos), e todos compartilhamos uma origem africana recente. "Raça", quando aplicada a seres humanos, é uma **categoria social e histórica** — construída para justificar hierarquias, como veremos ao estudar o racismo e a escravidão —, e não uma realidade biológica. Este é um ponto em que rigor científico e combate ao preconceito caminham juntos.
+:::
+
+## Resumo do capítulo {#sec-resumo-hominizacao}
+
+- **Hominização** é o processo, de milhões de anos, pelo qual primatas ancestrais se tornaram humanos; tem uma face **biológica** (corpo) e uma **cultural** (ferramentas, fogo, linguagem), que coevoluem.
+- A **evolução por seleção natural** (Darwin) explica esse processo sem ideia de progresso ou destino: há variação genética aleatória, e o ambiente "seleciona" quem deixa mais descendentes. A evolução humana é um **arbusto ramificado**, não uma escada.
+- Todas as evidências apontam a **África** (Vale do Rift) como berço da humanidade. O **bipedismo** foi o primeiro grande marco — anterior ao cérebro grande (Lucy, *A. afarensis*, 3,2 milhões de anos, já andava ereta).
+- Principais espécies do gênero *Homo*: ***habilis*** (primeiras ferramentas), ***erectus*** (fogo, primeira saída da África), ***neanderthalensis*** (Europa glacial, enterrava seus mortos) e ***sapiens*** (nossa espécie, ~300 mil anos, linguagem e arte).
+- As espécies **conviveram** e até **cruzaram**: humanos fora da África carregam 1–2% de DNA neandertal.
+- Três viradas culturais: **ferramentas**, **domínio do fogo** (que permitiu cozinhar e "financiou" o cérebro) e **linguagem** simbólica (base da cooperação em larga escala — a "revolução cognitiva").
+- No debate historiográfico, a hipótese **"Out of Africa"** (origem africana recente, com base na **genética**) prevaleceu sobre a **multirregional**, mas o **DNA antigo** revelou cruzamentos: hoje fala-se em "Out of Africa com assimilação". "Raças humanas" **não** têm base biológica.
+
+## Exercícios {#sec-exercicios-hominizacao}
+
+**1.** Explique por que a hominização é considerada um processo ao mesmo tempo **biológico** e **cultural**. Dê um exemplo de cada dimensão.
+
+::: {.callout-tip collapse="true" title="Solução"}
+É **biológico** porque envolve mudanças no corpo, herdadas geneticamente e moldadas pela seleção natural — por exemplo, a postura **bípede** (com a transformação da bacia e da coluna) ou o **aumento do cérebro**. É **cultural** porque envolve saberes e práticas aprendidos e transmitidos socialmente — por exemplo, a **fabricação de ferramentas**, o **domínio do fogo** ou a **linguagem**. As duas dimensões se retroalimentam (coevolução): mãos livres pelo bipedismo permitem fazer ferramentas; cozinhar com fogo fornece energia para um cérebro maior; um cérebro maior inventa mais cultura.
+:::
+
+**2.** Por que é um erro dizer que "o ser humano é o ápice da evolução" ou que "descendemos dos macacos"? Reescreva as duas frases de forma cientificamente correta.
+
+::: {.callout-tip collapse="true" title="Solução"}
+A evolução **não tem ápice nem direção**: a seleção natural apenas adapta populações a ambientes, sem "melhorar" rumo a um alvo. E não "descendemos dos macacos" atuais: humanos e chimpanzés são **primos**, descendentes de um ancestral comum já extinto. Versões corretas: "O ser humano é **uma** espécie entre milhões, bem adaptada ao seu modo de vida, mas não superior no sentido evolutivo" e "Humanos e demais primatas **compartilham um ancestral comum**; não descendemos das espécies de macaco que existem hoje".
+:::
+
+**3.** Ordene cronologicamente e associe cada espécie ao seu marco: *Homo erectus*, *Australopithecus afarensis*, *Homo sapiens*, *Homo habilis*. Marcos: (I) primeiras ferramentas de pedra lascada; (II) bipedismo com cérebro ainda pequeno; (III) domínio do fogo e primeira saída da África; (IV) linguagem complexa e arte.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Ordem cronológica e associação:
+
+1. *Australopithecus afarensis* (Lucy, ~3,2 Ma) — **(II)** bipedismo com cérebro pequeno;
+2. *Homo habilis* (~2,4 Ma) — **(I)** primeiras ferramentas de pedra lascada;
+3. *Homo erectus* (~1,8 Ma) — **(III)** domínio do fogo e saída da África;
+4. *Homo sapiens* (~300 mil anos) — **(IV)** linguagem complexa e arte.
+:::
+
+**4.** O domínio do fogo é frequentemente chamado de "revolução". Explique **três** consequências desse domínio para os hominídeos.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Entre as consequências (bastam três bem explicadas): (1) **cozinhar** os alimentos, tornando-os mais fáceis de digerir e mais energéticos — o que pode ter "financiado" o crescimento do cérebro; (2) **proteção**: o fogo aquecia contra o frio (permitindo ocupar regiões mais geladas) e afastava predadores; (3) **vida social e temporal**: a fogueira iluminava a noite, estendendo as horas de convívio, e tornou-se um centro em torno do qual o grupo se reunia; (4) tecnologicamente, o calor permitiu **endurecer madeira** e, muito mais tarde, trabalhar cerâmica e metais.
+:::
+
+**5.** Estudos genéticos mostram que a maioria das pessoas fora da África possui de 1% a 2% de DNA neandertal. O que essa descoberta revela sobre a relação entre *Homo sapiens* e *Homo neanderthalensis*, e por que ela obrigou os cientistas a revisar a hipótese "Out of Africa"?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Revela que as duas espécies **coexistiram e cruzaram** quando o *Homo sapiens* saiu da África e encontrou os neandertais na Eurásia — logo, não eram grupos totalmente isolados nem houve simples "extinção" dos neandertais sem contato. Isso obrigou a corrigir a versão **pura** do "Out of Africa" (segundo a qual os *sapiens* teriam **substituído** as populações antigas **sem mistura**): o modelo atual admite substituição **com assimilação/cruzamento**. É um exemplo de como uma **fonte nova** (o sequenciamento de DNA antigo) reabre debates aparentemente encerrados.
+:::
+
+**6.** (Estilo ENEM) Leia o texto.
+
+> Durante muito tempo, imaginou-se a evolução humana como uma linha reta, em que uma espécie se transformava na seguinte até chegar ao homem atual. As descobertas das últimas décadas mostraram, porém, que diferentes espécies humanas conviveram no mesmo período, algumas delas cruzando entre si, sem que houvesse um único caminho predeterminado.
+
+A substituição da imagem da "linha reta" pela imagem de um "arbusto ramificado" na explicação da evolução humana indica que
+
+**(a)** a ciência abandonou a teoria da evolução por falta de provas.
+**(b)** o ser humano atual é o objetivo para o qual a natureza sempre caminhou.
+**(c)** a evolução ocorre por diversificação e coexistência de espécies, sem finalidade predeterminada.
+**(d)** as espécies humanas mais antigas eram todas inferiores e por isso desapareceram.
+**(e)** todas as espécies humanas surgiram simultaneamente em diferentes continentes.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (c).** A metáfora do "arbusto" expressa que a evolução se dá por **ramificação** (várias espécies surgindo e coexistindo) e sem **finalidade** predeterminada — contra a ideia teleológica de uma marcha rumo ao ser humano atual.
+
+Erros das demais: (a) o texto pressupõe a teoria da evolução, não a nega; (b) reafirma a teleologia que o texto rejeita; (d) julga as espécies antigas como "inferiores" (anacronismo/preconceito, e a extinção não implica inferioridade); (e) contraria a origem africana comum apontada pelas evidências.
+:::
+
+**7.** (Estilo vestibular — dissertativa) Explique por que a afirmação "existem raças humanas biologicamente distintas" é rejeitada pela ciência atual, relacionando sua resposta com a origem africana do *Homo sapiens*.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Resposta esperada: a espécie *Homo sapiens* surgiu **recentemente** (algumas centenas de milhares de anos) e a partir de uma **origem africana comum**, tendo se espalhado pelo mundo há relativamente pouco tempo — período curto demais para produzir "raças" biologicamente distintas. A genética mostra que a humanidade é **geneticamente homogênea**: a variação dentro de qualquer grupo é maior do que a variação entre grupos, e as diferenças visíveis (como a cor da pele) são adaptações superficiais a fatores como a radiação solar. Portanto, "raça" **não** é uma categoria biológica válida para humanos; é uma **construção social e histórica**, criada para justificar hierarquias e desigualdades — tema que retornará no estudo da escravidão e do racismo. Uma boa resposta deve articular: origem comum recente + homogeneidade genética + caráter social do conceito de raça.
+:::
+
+## Para saber mais {#sec-para-saber-mais-hominizacao}
+
+**Livros**
+
+- LEAKEY, Richard. *A origem da humanidade* [@leakey1995]. Introdução clara à paleoantropologia por um dos maiores caçadores de fósseis do século XX.
+- HARARI, Yuval Noah. *Sapiens: uma breve história da humanidade* [@harari2015]. Os primeiros capítulos discutem a revolução cognitiva e a convivência entre espécies humanas — leitura envolvente, a confrontar com a bibliografia especializada.
+- DIAMOND, Jared. *Armas, germes e aço* [@diamond2013]. Ajuda a pensar por que diferentes populações humanas seguiram trajetórias tão distintas depois da mesma origem.
+
+**Filmes e documentários**
+
+- *A Espécie Humana* (série *Human*, produções diversas) e documentários sobre Lucy e a Garganta de Olduvai: bons disparadores visuais da paleoantropologia.
+- *A Guerra do Fogo* (1981), dir. Jean-Jacques Annaud. Ficção sobre grupos humanos pré-históricos disputando o domínio do fogo — imperfeita cientificamente, mas ótima para debater o que separa o "biológico" do "cultural".
