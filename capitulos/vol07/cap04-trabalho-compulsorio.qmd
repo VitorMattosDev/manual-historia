@@ -1,0 +1,5 @@
+# Trabalho compulsório: encomienda, mita e escravidão {#sec-trabalho-compulsorio}
+
+::: {.callout-note title="Capítulo em construção"}
+Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+:::

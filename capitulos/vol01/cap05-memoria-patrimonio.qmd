@@ -1,0 +1,5 @@
+# Memória, patrimônio e história pública {#sec-memoria-patrimonio}
+
+::: {.callout-note title="Capítulo em construção"}
+Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+:::

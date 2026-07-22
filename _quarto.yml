@@ -1,0 +1,179 @@
+project:
+  type: book
+  output-dir: _book
+
+lang: pt
+
+book:
+  title: "Manual de História"
+  subtitle: "Um manual aberto e abrangente — série Manuais de Ciências"
+  author: "Série Manuais de Ciências"
+  date: today
+  date-format: "YYYY"
+  language: pt
+  search: true
+  repo-url: https://github.com/VitorMattosDev/manual-historia
+  repo-actions: [edit, issue]
+  sidebar:
+    style: docked
+    collapse-level: 1
+  page-footer:
+    left: "Manual de História — conteúdo aberto (CC BY-SA)."
+    right: "Feito com [Quarto](https://quarto.org)."
+  chapters:
+    - index.qmd
+    - part: "Volume 1 — Introdução aos Estudos Históricos"
+      chapters:
+        - capitulos/vol01/cap01-o-que-e-historia.qmd
+        - capitulos/vol01/cap02-fontes-historicas.qmd
+        - capitulos/vol01/cap03-periodizacao.qmd
+        - capitulos/vol01/cap04-correntes-historiograficas.qmd
+        - capitulos/vol01/cap05-memoria-patrimonio.qmd
+        - capitulos/vol01/cap06-historia-e-ciencias.qmd
+    - part: "Volume 2 — Pré-História e as Primeiras Sociedades"
+      chapters:
+        - capitulos/vol02/cap01-hominizacao.qmd
+        - capitulos/vol02/cap02-paleolitico.qmd
+        - capitulos/vol02/cap03-revolucao-neolitica.qmd
+        - capitulos/vol02/cap04-idade-dos-metais.qmd
+        - capitulos/vol02/cap05-pre-historia-brasil-america.qmd
+        - capitulos/vol02/cap06-debates-pre-historia.qmd
+    - part: "Volume 3 — Antiguidade Oriental"
+      chapters:
+        - capitulos/vol03/cap01-mesopotamia.qmd
+        - capitulos/vol03/cap02-egito.qmd
+        - capitulos/vol03/cap03-hebreus-fenicios-persas.qmd
+        - capitulos/vol03/cap04-india-china.qmd
+        - capitulos/vol03/cap05-africa-antiga.qmd
+        - capitulos/vol03/cap06-modo-de-producao-asiatico.qmd
+    - part: "Volume 4 — Antiguidade Clássica"
+      chapters:
+        - capitulos/vol04/cap01-grecia-polis-democracia.qmd
+        - capitulos/vol04/cap02-esparta-helenismo.qmd
+        - capitulos/vol04/cap03-cultura-grega.qmd
+        - capitulos/vol04/cap04-roma-monarquia-republica.qmd
+        - capitulos/vol04/cap05-imperio-romano.qmd
+        - capitulos/vol04/cap06-crise-de-roma-cristianismo.qmd
+    - part: "Volume 5 — Idade Média"
+      chapters:
+        - capitulos/vol05/cap01-formacao-do-feudalismo.qmd
+        - capitulos/vol05/cap02-sociedade-feudal.qmd
+        - capitulos/vol05/cap03-imperio-bizantino.qmd
+        - capitulos/vol05/cap04-islamismo.qmd
+        - capitulos/vol05/cap05-reinos-africanos.qmd
+        - capitulos/vol05/cap06-baixa-idade-media.qmd
+    - part: "Volume 6 — Renascimento, Reformas e Mundo Moderno"
+      chapters:
+        - capitulos/vol06/cap01-renascimento.qmd
+        - capitulos/vol06/cap02-monarquias-nacionais-mercantilismo.qmd
+        - capitulos/vol06/cap03-expansao-maritima.qmd
+        - capitulos/vol06/cap04-reforma-contrarreforma.qmd
+        - capitulos/vol06/cap05-revolucao-cientifica.qmd
+        - capitulos/vol06/cap06-absolutismo.qmd
+    - part: "Volume 7 — América Pré-Colombiana, Conquista e Colonização"
+      chapters:
+        - capitulos/vol07/cap01-povos-da-america.qmd
+        - capitulos/vol07/cap02-conquista-da-america.qmd
+        - capitulos/vol07/cap03-colonizacao-espanhola.qmd
+        - capitulos/vol07/cap04-trabalho-compulsorio.qmd
+        - capitulos/vol07/cap05-colonizacao-inglesa-francesa.qmd
+        - capitulos/vol07/cap06-antigo-sistema-colonial.qmd
+    - part: "Volume 8 — Brasil Colônia"
+      chapters:
+        - capitulos/vol08/cap01-chegada-portuguesa-pau-brasil.qmd
+        - capitulos/vol08/cap02-sociedade-acucareira.qmd
+        - capitulos/vol08/cap03-escravidao-e-resistencia.qmd
+        - capitulos/vol08/cap04-administracao-uniao-iberica-invasoes.qmd
+        - capitulos/vol08/cap05-expansao-territorial.qmd
+        - capitulos/vol08/cap06-mineracao-sociedade-do-ouro.qmd
+        - capitulos/vol08/cap07-crise-colonial-inconfidencias.qmd
+    - part: "Volume 9 — Iluminismo e Revoluções"
+      chapters:
+        - capitulos/vol09/cap01-iluminismo.qmd
+        - capitulos/vol09/cap02-revolucao-inglesa.qmd
+        - capitulos/vol09/cap03-revolucao-industrial.qmd
+        - capitulos/vol09/cap04-independencia-eua.qmd
+        - capitulos/vol09/cap05-revolucao-francesa.qmd
+        - capitulos/vol09/cap06-era-napoleonica.qmd
+    - part: "Volume 10 — O Século XIX: Nações, Indústria e Império"
+      chapters:
+        - capitulos/vol10/cap01-liberalismo-nacionalismo-1848.qmd
+        - capitulos/vol10/cap02-unificacoes-italia-alemanha.qmd
+        - capitulos/vol10/cap03-segunda-revolucao-industrial-socialismo.qmd
+        - capitulos/vol10/cap04-imperialismo.qmd
+        - capitulos/vol10/cap05-independencias-america-latina.qmd
+        - capitulos/vol10/cap06-eua-seculo-xix.qmd
+    - part: "Volume 11 — Brasil Império"
+      chapters:
+        - capitulos/vol11/cap01-independencia.qmd
+        - capitulos/vol11/cap02-primeiro-reinado.qmd
+        - capitulos/vol11/cap03-periodo-regencial.qmd
+        - capitulos/vol11/cap04-segundo-reinado.qmd
+        - capitulos/vol11/cap05-escravidao-abolicao-imigracao.qmd
+        - capitulos/vol11/cap06-crise-do-imperio.qmd
+    - part: "Volume 12 — O Mundo em Guerra (1900–1945)"
+      chapters:
+        - capitulos/vol12/cap01-primeira-guerra-mundial.qmd
+        - capitulos/vol12/cap02-revolucao-russa.qmd
+        - capitulos/vol12/cap03-crise-de-1929-entreguerras.qmd
+        - capitulos/vol12/cap04-totalitarismos.qmd
+        - capitulos/vol12/cap05-segunda-guerra-mundial.qmd
+        - capitulos/vol12/cap06-holocausto-balanco.qmd
+    - part: "Volume 13 — Brasil República"
+      chapters:
+        - capitulos/vol13/cap01-republica-velha.qmd
+        - capitulos/vol13/cap02-anos-1920-tenentismo-22.qmd
+        - capitulos/vol13/cap03-era-vargas.qmd
+        - capitulos/vol13/cap04-republica-de-1946.qmd
+        - capitulos/vol13/cap05-ditadura-militar.qmd
+        - capitulos/vol13/cap06-redemocratizacao-nova-republica.qmd
+    - part: "Volume 14 — Guerra Fria e Descolonização"
+      chapters:
+        - capitulos/vol14/cap01-ordem-bipolar.qmd
+        - capitulos/vol14/cap02-conflitos-guerra-fria.qmd
+        - capitulos/vol14/cap03-descolonizacao-africa-asia.qmd
+        - capitulos/vol14/cap04-america-latina-ditaduras.qmd
+        - capitulos/vol14/cap05-crise-do-socialismo-real.qmd
+        - capitulos/vol14/cap06-oriente-medio.qmd
+    - part: "Volume 15 — O Mundo Contemporâneo e a História do Tempo Presente"
+      chapters:
+        - capitulos/vol15/cap01-globalizacao-neoliberalismo.qmd
+        - capitulos/vol15/cap02-nova-ordem-mundial.qmd
+        - capitulos/vol15/cap03-movimentos-por-direitos.qmd
+        - capitulos/vol15/cap04-sociedade-em-rede.qmd
+        - capitulos/vol15/cap05-historia-indigena-afrobrasileira.qmd
+        - capitulos/vol15/cap06-desafios-do-presente.qmd
+
+bibliography: referencias.bib
+csl: referencias-abnt.csl
+
+filters:
+  - danmackinlay/tikz
+  - quarto
+
+tikz:
+  svg-engine: dvisvgm
+  cache: true
+
+format:
+  html:
+    theme: [cosmo, styles.css]
+    toc: true
+    toc-depth: 3
+    toc-title: "Nesta página"
+    number-sections: true
+    fig-align: center
+    code-copy: true
+    smooth-scroll: true
+    html-math-method: mathjax
+  pdf:
+    documentclass: scrbook
+    papersize: a4
+    number-sections: true
+    toc: true
+    toc-depth: 2
+    colorlinks: true
+    keep-tex: false
+    include-in-header:
+      text: |
+        \usepackage{amsmath,amssymb}

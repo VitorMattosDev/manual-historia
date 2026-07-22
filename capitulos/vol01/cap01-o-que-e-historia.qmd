@@ -1,0 +1,5 @@
+# O que é História: tempo, sujeito e sociedade {#sec-o-que-e-historia}
+
+::: {.callout-note title="Capítulo em construção"}
+Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md` (GABARITO — escrever integralmente primeiro).
+:::

@@ -1,0 +1,5 @@
+# Povos e civilizações da América: maias, astecas e incas {#sec-povos-da-america}
+
+::: {.callout-note title="Capítulo em construção"}
+Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+:::

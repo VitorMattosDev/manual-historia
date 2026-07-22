@@ -1,0 +1,5 @@
+# O processo de Independência do Brasil (1808–1822) {#sec-independencia}
+
+::: {.callout-note title="Capítulo em construção"}
+Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+:::

@@ -1,0 +1,5 @@
+# Movimentos por direitos: civis, feministas e ambientais {#sec-movimentos-por-direitos}
+
+::: {.callout-note title="Capítulo em construção"}
+Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+:::

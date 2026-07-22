@@ -1,0 +1,5 @@
+# A Era Vargas (1930–1945) {#sec-era-vargas}
+
+::: {.callout-note title="Capítulo em construção"}
+Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+:::

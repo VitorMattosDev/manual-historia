@@ -1,0 +1,5 @@
+# Crise de Roma, cristianismo e a Antiguidade Tardia {#sec-crise-de-roma-cristianismo}
+
+::: {.callout-note title="Capítulo em construção"}
+Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+:::

@@ -1,0 +1,5 @@
+# O Segundo Reinado: política e café {#sec-segundo-reinado}
+
+::: {.callout-note title="Capítulo em construção"}
+Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+:::

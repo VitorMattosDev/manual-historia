@@ -1,0 +1,5 @@
+# A Era Napoleônica e o Congresso de Viena {#sec-era-napoleonica}
+
+::: {.callout-note title="Capítulo em construção"}
+Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+:::

@@ -1,0 +1,5 @@
+# As unificações da Itália e da Alemanha {#sec-unificacoes-italia-alemanha}
+
+::: {.callout-note title="Capítulo em construção"}
+Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+:::

@@ -1,0 +1,40 @@
+/*-- scss:rules --*/
+
+/* Manual de História — camada de estilo sobre o tema "cosmo".
+   O marcador na primeira linha acima é obrigatório: o Quarto trata este
+   arquivo como camada SCSS por estar listado em theme: [cosmo, styles.css]. */
+
+:root {
+  --manual-blue: #2780E3;
+  --manual-red: #D7433B;
+  --manual-green: #3FB618;
+  --manual-orange: #FF7518;
+  --manual-gray: #6C757D;
+}
+
+/* Blocos de figura TikZ (linhas do tempo, mapas) centralizados e responsivos. */
+figure svg,
+.quarto-figure svg,
+p svg {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Título das seções "Historiografia em Foco" com um toque visual. */
+h2#historiografia-em-foco,
+h2[id^="historiografia-em-foco"] {
+  border-bottom: 3px solid var(--manual-orange);
+  padding-bottom: 0.2rem;
+}
+
+/* Soluções de exercícios com leve recuo visual. */
+.callout.callout-style-default.callout-tip {
+  border-left-width: 5px;
+}
+
+/* Legenda das figuras em cinza discreto. */
+figcaption,
+.figure-caption {
+  color: var(--manual-gray);
+  font-size: 0.9rem;
+}

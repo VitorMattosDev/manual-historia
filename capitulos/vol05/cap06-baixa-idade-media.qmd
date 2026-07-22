@@ -1,0 +1,5 @@
+# Baixa Idade Média: cidades, cruzadas e a crise do século XIV {#sec-baixa-idade-media}
+
+::: {.callout-note title="Capítulo em construção"}
+Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+:::

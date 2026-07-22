@@ -1,0 +1,5 @@
+# Mineração e a sociedade do ouro {#sec-mineracao-sociedade-do-ouro}
+
+::: {.callout-note title="Capítulo em construção"}
+Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+:::

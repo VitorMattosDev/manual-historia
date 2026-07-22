@@ -1,0 +1,5 @@
+# Imperialismo e neocolonialismo na África e na Ásia {#sec-imperialismo}
+
+::: {.callout-note title="Capítulo em construção"}
+Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+:::

@@ -1,0 +1,41 @@
+# Apresentação {.unnumbered}
+
+Bem-vindo ao **Manual de História**, um livro-texto aberto, gratuito e em português brasileiro, parte da série *Manuais de Ciências*. Ele foi escrito para acompanhar você das primeiras pegadas humanas na savana africana até os dilemas do mundo em rede do século XXI — sem exigir nenhum conhecimento prévio, apenas curiosidade sobre como chegamos até aqui.
+
+## Para quem é este manual
+
+- **O leitor curioso** que quer entender por que o mundo é como é: de onde vêm as fronteiras, as religiões, as desigualdades e as ideias que disputamos hoje.
+- **O estudante do ensino médio e de pré-vestibular** que precisa de fundamentos sólidos e bem explicados, com atenção aos temas e ao estilo de questões dos vestibulares e do **ENEM**.
+- **O universitário** de História e das demais Humanidades que busca uma referência única, rigorosa e em português, integrando História Geral e História do Brasil.
+
+Não há pré-requisitos. Cada capítulo situa você no tempo e no espaço antes de aprofundar.
+
+## Como o manual está organizado
+
+O manual tem **15 volumes** e **91 capítulos**, em ordem cronológica e distribuídos em três fases. Cada fase pressupõe a anterior, mas os volumes de **História do Brasil** (Colônia, Império, República) podem ser lidos em diálogo com os volumes de História Geral do mesmo período.
+
+```{mermaid}
+%%| label: fig-prerequisitos
+%%| fig-cap: "As três fases do manual, em ordem cronológica."
+flowchart TD
+  F1["<b>Fase 1 — Fundamentos e Antiguidade</b><br/>Vols. 1–4<br/>Métodos da História, Pré-História,<br/>Antiguidade Oriental e Clássica"]
+  F2["<b>Fase 2 — Medieval, Moderna e Colonial</b><br/>Vols. 5–9<br/>Idade Média, mundo moderno, América<br/>colonial, Brasil Colônia, Revoluções"]
+  F3["<b>Fase 3 — Contemporânea e Brasil</b><br/>Vols. 10–15<br/>Século XIX, Brasil Império e República,<br/>guerras mundiais, Guerra Fria, mundo atual"]
+  F1 --> F2 --> F3
+```
+
+Você está começando pelo **Volume 1 — Introdução aos Estudos Históricos**, que apresenta as ferramentas do ofício do historiador: o que é a História, como se trabalha com fontes, como o tempo é dividido e como diferentes correntes interpretam o passado.
+
+## Como cada capítulo funciona
+
+Cada capítulo segue a mesma anatomia, pensada para o estudo autônomo:
+
+- **Abertura** que conecta o tema a uma cena concreta ou ao presente;
+- **Objetivos de aprendizagem** explícitos;
+- **Desenvolvimento** com contexto, processo, causas e consequências, definições em destaque e figuras (linhas do tempo, mapas esquemáticos, diagramas);
+- uma seção **🔎 Historiografia em Foco**, que mostra como os historiadores **debatem e interpretam** o tema — porque História não é uma lista fechada de fatos, mas uma construção do conhecimento;
+- **Resumo**, **Exercícios** com soluções completas (incluindo questões no estilo ENEM/vestibular) e sugestões de leitura, filmes e documentários.
+
+## Convite
+
+Estudar História não é decorar datas: é aprender a fazer perguntas ao passado e a desconfiar das respostas fáceis. Toda geração reescreve a História com as perguntas do seu tempo. Este manual foi escrito para que você aprenda a pensar historicamente — a situar processos, comparar interpretações e reconhecer que compreender o passado é uma forma de agir sobre o presente. Vamos começar.

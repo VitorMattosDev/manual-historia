@@ -1,0 +1,5 @@
+# O Paleolítico: caçadores-coletores {#sec-paleolitico}
+
+::: {.callout-note title="Capítulo em construção"}
+Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+:::

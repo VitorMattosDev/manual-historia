@@ -1,0 +1,5 @@
+# As fontes históricas e a crítica documental {#sec-fontes-historicas}
+
+::: {.callout-note title="Capítulo em construção"}
+Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+:::

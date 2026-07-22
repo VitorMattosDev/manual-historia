@@ -1,0 +1,5 @@
+# O Renascimento cultural e científico {#sec-renascimento}
+
+::: {.callout-note title="Capítulo em construção"}
+Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+:::

@@ -1,0 +1,5 @@
+# O modo de produção asiático: conceito e crítica {#sec-modo-de-producao-asiatico}
+
+::: {.callout-note title="Capítulo em construção"}
+Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+:::

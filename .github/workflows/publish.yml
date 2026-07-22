@@ -1,0 +1,58 @@
+name: Publicar Manual de História
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Instalar Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          tinytex: true
+
+      - name: Instalar chrome-headless-shell (mermaid no PDF)
+        run: quarto install chrome-headless-shell
+
+      - name: Preparar TeX (PATH do TinyTeX + pacotes TikZ)
+        run: |
+          set -e
+          # A extensão TikZ chama pdflatex/dvisvgm pelo nome, então esses
+          # binários PRECISAM estar no PATH visto pelo processo de render.
+          # Localiza o pdflatex (é symlink -> NÃO usar -type f). Prefere o PATH.
+          PDFLATEX=$(command -v pdflatex || true)
+          [ -n "$PDFLATEX" ] || PDFLATEX=$(find ~ /root /opt /usr -name pdflatex 2>/dev/null | head -n1)
+          TEXBIN=$(cd "$(dirname "$PDFLATEX")" && pwd)
+          echo "TeX bin: $TEXBIN"
+          echo "$TEXBIN" >> "$GITHUB_PATH"
+          export PATH="$TEXBIN:$PATH"
+          # TeX Live novo: tlmgr recusa instalar até se atualizar. Isso é o que
+          # impedia pgfplots/dvisvgm de instalarem (mensagem "tlmgr needs update").
+          tlmgr update --self || true
+          # Agora as instalações funcionam (sem mascarar erro).
+          tlmgr install standalone pgf pgfplots dvisvgm xcolor amsmath amsfonts
+          # Rede de segurança: linka binários para /usr/local/bin (sempre no PATH).
+          for b in pdflatex latex dvisvgm kpsewhich; do
+            [ -e "$TEXBIN/$b" ] && sudo ln -sf "$TEXBIN/$b" "/usr/local/bin/$b" || true
+          done
+          # Verificação: falha alto se algo essencial ainda faltar.
+          kpsewhich standalone.cls
+          kpsewhich pgfplots.sty
+          dvisvgm --version | head -n1
+
+      - name: Renderizar e publicar (HTML + PDF)
+        uses: quarto-dev/quarto-actions/publish@v2
+        with:
+          target: gh-pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
