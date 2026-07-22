@@ -1,5 +1,186 @@
 # Memória, patrimônio e história pública {#sec-memoria-patrimonio}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Na noite de 2 de setembro de 2018, o Rio de Janeiro assistiu, incrédulo, ao **Museu Nacional** arder em chamas. Em poucas horas, o fogo consumiu boa parte de um acervo de 20 milhões de itens reunidos ao longo de dois séculos: o crânio de Luzia, um dos mais antigos fósseis humanos das Américas; múmias egípcias; registros de línguas indígenas já extintas; o maior meteorito já encontrado em solo brasileiro. Muito daquilo era **insubstituível** — não havia cópia, backup ou segunda via. O incêndio provocou uma dor coletiva difícil de explicar: por que a perda de objetos antigos nos comove tanto? Porque não eram "só" objetos. Eram suportes da nossa **memória** — âncoras materiais que ligam quem somos hoje a quem fomos. Este capítulo trata dessas âncoras: de como as sociedades lembram e esquecem, do que decidem preservar como **patrimônio** e de como a História circula muito além dos livros escolares, no que hoje se chama **história pública**.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- distinguir **memória** de **História**, compreendendo a memória como fenômeno **coletivo** e **seletivo**;
+- reconhecer as **disputas de memória** e a noção de **lugares de memória**;
+- conceituar **patrimônio** (material e imaterial) e entender que preservá-lo envolve **escolhas** e poder;
+- explicar o que é **história pública** e por que os usos do passado importam para a cidadania e para a democracia.
 :::
+
+## Memória e História: parentes, não gêmeas {#sec-memoria-e-historia}
+
+No dia a dia, tratamos "memória" e "História" como sinônimos. Não são. A **memória** é a faculdade de reter e reviver o passado; ela é **vivida, afetiva e seletiva**. Lembramos com emoção, esquecemos o que dói ou o que não nos importa, embelezamos algumas cenas e apagamos outras. A **História**, como você já viu, é uma operação **crítica e disciplinada**: submete os vestígios do passado a método, desconfia dos testemunhos, busca explicar. Jacques Le Goff resumiu bem a relação: a História deve **trabalhar sobre** a memória, sem se confundir com ela — usá-la como fonte, mas também criticá-la [@leGoff2013].
+
+Um passo decisivo para entender a memória foi dado pelo sociólogo **Maurice Halbwachs** (1877–1945): a memória, mesmo a mais íntima, é **social**. Lembramos como membros de grupos — a família, a escola, a nação, a religião. São esses grupos que nos fornecem as referências (datas, lugares, histórias) com que organizamos nossas lembranças. Por isso Halbwachs falou em **memória coletiva**: um passado partilhado que dá identidade a um grupo e que é continuamente reconstruído no presente [@halbwachs2006]. Sua tese central é surpreendente: a memória não é um arquivo fixo do que ocorreu, mas uma **reconstrução**, sempre feita a partir das necessidades de agora.
+
+::: {.callout-note title="Conceito-chave: memória coletiva"}
+**Memória coletiva** é o conjunto de lembranças partilhadas por um grupo, que sustentam sua identidade e são transmitidas e reconstruídas ao longo do tempo (por festas, monumentos, relatos, datas comemorativas). Diferentemente da História, a memória coletiva não busca a crítica das fontes: ela busca **coesão e sentido** para o presente do grupo.
+:::
+
+A @fig-memoria-historia sintetiza as diferenças — que não são uma oposição hostil, mas uma divisão de tarefas: a memória fornece à História boa parte de suas fontes; a História, em troca, oferece à memória o filtro da crítica.
+
+::: {#fig-memoria-historia}
+
+```{.tikz}
+%%| filename: fig-memoria-historia
+%%| alt: Diagrama comparando memória e História em duas colunas, quanto à natureza, ao objetivo e à relação com o tempo.
+\begin{tikzpicture}[
+    col/.style={draw, thick, rounded corners, align=center, text width=4.3cm,
+                minimum height=3.6cm, anchor=north}]
+  \node[col, fill=manualyellow!15] (m) at (0,0)
+     {\textbf{MEMÓRIA}\\[3pt]\scriptsize vivida e afetiva\\\scriptsize seletiva (lembra e esquece)\\\scriptsize coletiva (Halbwachs)\\\scriptsize busca identidade e coesão\\\scriptsize reconstrói o passado\\\scriptsize não critica as fontes};
+  \node[col, fill=manualblue!15] (h) at (5,0)
+     {\textbf{HISTÓRIA}\\[3pt]\scriptsize crítica e disciplinada\\\scriptsize busca explicar\\\scriptsize apoiada em método\\\scriptsize busca conhecimento\\\scriptsize interpreta o passado\\\scriptsize submete as fontes à crítica};
+  \draw[<->, very thick, manualgray] (m.east) -- (h.west)
+     node[midway, above, black]{\scriptsize fonte} node[midway, below, black]{\scriptsize crítica};
+\end{tikzpicture}
+```
+
+Memória e História: distintas, mas interdependentes. A memória é matéria-prima e objeto de estudo da História; a História é o olhar crítico que a memória, sozinha, não exerce.
+:::
+
+## Memória coletiva e disputas de memória {#sec-disputas-de-memoria}
+
+Se a memória é seletiva e serve à identidade dos grupos, então **lembrar é também uma forma de poder**. Toda sociedade escolhe o que celebrar e o que calar: ergue estátuas a certos personagens (e não a outros), batiza ruas e feriados, constrói monumentos e museus. Essa **memória oficial**, promovida pelo Estado e pelos grupos dominantes, nunca é a única. Ao lado dela existem o que o historiador Michael Pollak chamou de **memórias subterrâneas**: as lembranças dos grupos vencidos ou silenciados — escravizados e seus descendentes, povos indígenas, vítimas de ditaduras —, que resistem, guardadas na tradição oral e nas margens, e às vezes emergem para disputar a versão oficial.
+
+Foi pensando nesse elo entre lugar e lembrança que o historiador francês **Pierre Nora** propôs o conceito de **lugares de memória** (*lieux de mémoire*): pontos de ancoragem — um monumento, um museu, um arquivo, uma data, uma canção — em que a memória coletiva se cristaliza e se protege do esquecimento [@nora1993]. Nora partia de um diagnóstico: nas sociedades modernas, aceleradas, perdemos a memória **espontânea**, aquela transmitida naturalmente pela tradição; por isso precisamos criar deliberadamente esses lugares para não esquecer. As estátuas derrubadas de que falamos no primeiro capítulo são, exatamente, lugares de memória em disputa: mexer nelas é mexer na versão do passado que uma sociedade decide manter à vista.
+
+::: {.callout-important title="Anacronismo e memória: cuidado com os dois extremos"}
+Diante de um monumento incômodo (a um escravocrata, por exemplo), há dois erros opostos. Um é **julgar o passado apenas com os valores de hoje**, como se os contemporâneos devessem pensar como nós (anacronismo). O outro é usar o "contexto da época" como **desculpa** para não analisar criticamente a violência e para blindar a memória oficial. A postura histórica madura faz as duas coisas: **compreende** por que o monumento foi erguido *e* **questiona** criticamente o que ele celebra e silencia — inclusive discutindo, no presente, o que fazer com ele.
+:::
+
+## Patrimônio: o que uma sociedade decide guardar {#sec-patrimonio}
+
+Quando uma sociedade decide preservar oficialmente certos bens por seu valor histórico, artístico ou cultural, ela constitui um **patrimônio**. O ato jurídico que protege um bem material chama-se **tombamento**. No Brasil, a política de patrimônio nasceu em **1937**, com a criação do órgão federal hoje conhecido como **IPHAN** (Instituto do Patrimônio Histórico e Artístico Nacional). Em escala mundial, a **UNESCO** mantém a lista do **Patrimônio Mundial** (o Brasil tem vários sítios, como Ouro Preto e o Centro Histórico de Salvador).
+
+O patrimônio se divide em dois grandes tipos (@fig-tipos-patrimonio). O **patrimônio material** são os bens físicos: **móveis** (objetos, obras de arte, documentos) e **imóveis** (edifícios, sítios arqueológicos, conjuntos urbanos, paisagens). O **patrimônio imaterial** — reconhecido oficialmente no Brasil pela Constituição de 1988 e regulamentado a partir de 2000 — são os saberes, práticas e expressões: festas, danças, músicas, modos de fazer, línguas. São patrimônio imaterial brasileiro, por exemplo, a **roda de capoeira**, o **samba de roda** do Recôncavo Baiano, o ofício das **baianas de acarajé** e as expressões gráficas dos **Wajãpi**. Esse alargamento foi decisivo para incluir a cultura **afro-brasileira** e **indígena**, tantas vezes ignorada quando "patrimônio" significava apenas igrejas e palácios coloniais (um cuidado afinado com as Leis 10.639/2003 e 11.645/2008).
+
+::: {#fig-tipos-patrimonio}
+
+```{.tikz}
+%%| filename: fig-tipos-patrimonio
+%%| alt: Organograma dos tipos de patrimônio cultural, dividido em material (móvel e imóvel) e imaterial.
+\begin{tikzpicture}[
+    >=stealth,
+    n/.style={draw, thick, rounded corners, align=center},
+    linha/.style={-, thick, manualgray}]
+  \node[n, fill=manualblue!20, text width=3.2cm, minimum height=0.9cm] (r) at (0,3) {\textbf{Patrimônio cultural}};
+  \node[n, fill=manualgreen!15, text width=2.6cm, minimum height=0.9cm] (mat) at (-2.6,1.6) {\textbf{Material}};
+  \node[n, fill=manualyellow!18, text width=2.6cm, minimum height=1.3cm] (imat) at (2.6,1.6) {\textbf{Imaterial}\\\scriptsize festas, danças,\\\scriptsize saberes, línguas};
+  \node[n, fill=manualgreen!10, text width=2.6cm, minimum height=1.3cm] (movel) at (-4.9,-0.1) {\textbf{Móvel}\\\scriptsize objetos, obras\\\scriptsize de arte, documentos};
+  \node[n, fill=manualgreen!10, text width=2.6cm, minimum height=1.3cm] (imovel) at (-1.8,-0.1) {\textbf{Imóvel}\\\scriptsize edifícios, sítios,\\\scriptsize conjuntos urbanos};
+  \draw[linha] (r) -- (mat); \draw[linha] (r) -- (imat);
+  \draw[linha] (mat) -- (movel); \draw[linha] (mat) -- (imovel);
+\end{tikzpicture}
+```
+
+Tipos de patrimônio cultural. O reconhecimento do patrimônio **imaterial** ampliou o conceito para além dos monumentos de pedra e cal, incluindo os saberes e as expressões dos povos.
+:::
+
+Nenhum patrimônio é "natural": ele é o resultado de uma **seleção**. Alguém, com poder de decisão, escolhe o que merece ser guardado em nome de todos — e essa escolha revela quais grupos e quais versões do passado uma sociedade valoriza. Por muito tempo, o patrimônio brasileiro foi quase só o barroco das cidades mineiras e as igrejas coloniais; as senzalas, os terreiros e as aldeias raramente entravam na lista. Perguntar **quem** decide o que é patrimônio, e **em nome de quem**, é aplicar ao presente a mesma crítica que fazemos às fontes do passado.
+
+## História pública: o passado fora dos livros {#sec-historia-publica}
+
+A História não circula apenas na escola e na universidade. Ela está nos museus e memoriais, nas séries e filmes históricos, nos documentários, nos videogames, nas reconstituições, nas efemérides comemoradas pela imprensa, nos perfis de redes sociais que "contam o passado". A esse vasto conjunto de práticas que levam o conhecimento histórico ao grande público — e que envolvem o próprio público na produção desse conhecimento — dá-se o nome de **história pública**.
+
+A história pública tem um enorme potencial democrático: aproxima a pesquisa da população, valoriza memórias locais e comunitárias, dá voz a grupos silenciados. Mas traz também responsabilidades. O passado é constantemente mobilizado no espaço público para **legitimar posições do presente** — governos evocam heróis nacionais, movimentos sociais reivindicam ancestralidades, grupos disputam o sentido de datas como 7 de setembro, 13 de maio ou 20 de novembro (Dia da Consciência Negra). Nesse terreno, o historiador tem um papel cívico: oferecer **rigor** onde há simplificação, **complexidade** onde há mito, e resistir aos **usos abusivos** do passado.
+
+O caso mais grave desses abusos é o **negacionismo**: a negação deliberada de fatos históricos bem estabelecidos — como o Holocausto, a escravidão ou a ditadura militar brasileira — em geral a serviço de projetos políticos. Aqui a distinção do capítulo inicial é vital: reconhecer que a História é interpretação **não** autoriza inventar ou negar fatos comprovados. Contra o negacionismo, a defesa é sempre a mesma: fontes, método e o debate público informado. Por isso, políticas de **memória** — como as **comissões da verdade** que, em vários países e no Brasil (Comissão Nacional da Verdade, 2012–2014), investigaram crimes de Estado — cumprem uma função dupla: fazer justiça e **preservar a memória** para que certos horrores não se repitam. Lembrar, aqui, é um ato político e ético.
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+O que devemos fazer com a memória: cultivá-la sem limites ou submetê-la à crítica? E de quem é a memória que vale a pena guardar? Esses debates dividem os estudiosos.
+
+**A memória como reconstrução social (Halbwachs).** Para Maurice Halbwachs, não existe memória puramente individual: lembramos sempre a partir de **quadros sociais** fornecidos pelos grupos a que pertencemos [@halbwachs2006]. A memória coletiva é funcional — serve à identidade e à coesão do grupo — e por isso é **reconstruída** no presente, selecionando o que convém. Nessa visão, a memória é, antes de tudo, um fenômeno **social e vivo**.
+
+**A memória em crise e os "lugares de memória" (Nora).** Pierre Nora parte de um diagnóstico diferente: as sociedades modernas **perderam** a memória espontânea, aquela que a tradição transmitia sem esforço. Restam apenas os **lugares de memória** — arquivos, monumentos, comemorações — que criamos deliberadamente para não esquecer [@nora1993]. Onde Halbwachs vê uma memória coletiva pulsante, Nora vê uma memória que já morreu como experiência viva e sobrevive apenas em suportes artificiais. Para Nora, é justamente porque não temos mais memória "de verdade" que multiplicamos museus e datas comemorativas.
+
+**Por que divergem — e o que está em jogo.** As duas leituras respondem a **perguntas** e **contextos** distintos: Halbwachs, no início do século XX, quer entender *como* os grupos lembram; Nora, no fim do século, quer diagnosticar *por que* parecemos obcecados por preservar o passado numa época que o descarta cada vez mais rápido. A esse debate soma-se uma terceira questão, política: **de quem é a memória?** A memória oficial dos vencedores ou as **memórias subterrâneas** dos vencidos? Aqui entra o papel crítico da História, tal como Le Goff o definiu: não cultivar cegamente a memória, mas **trabalhá-la** — desnaturalizar a memória oficial, dar visibilidade às memórias silenciadas e distinguir a lembrança fundada em fatos da mera invenção [@leGoff2013]. A lição para você é que memória e patrimônio nunca são neutros: são campos de disputa em que se decide, no presente, qual passado terá futuro.
+
+## Resumo do capítulo {#sec-resumo}
+
+- **Memória** e **História** são parentes, não gêmeas: a memória é **vivida, afetiva e seletiva**; a História é **crítica e disciplinada**. A História trabalha *sobre* a memória — usa-a como fonte e a submete à crítica (Le Goff).
+- A memória, mesmo a íntima, é **social** (Halbwachs): lembramos como membros de grupos. A **memória coletiva** sustenta identidades e é sempre **reconstruída** no presente.
+- **Lembrar é poder**: há uma **memória oficial** (Estado, dominantes) e **memórias subterrâneas** (grupos silenciados). Os **lugares de memória** (Nora) — monumentos, museus, datas — cristalizam a lembrança e são objeto de **disputa**.
+- **Patrimônio** é o que uma sociedade decide preservar: **material** (móvel e imóvel) e **imaterial** (festas, saberes, línguas). No Brasil: **IPHAN** (1937) e o reconhecimento do imaterial (Constituição de 1988). Todo patrimônio resulta de uma **seleção** — importa perguntar quem decide e em nome de quem.
+- **História pública** é a circulação do passado fora da academia (museus, mídia, redes, memoriais). Tem potencial democrático, mas exige rigor diante dos **usos abusivos** do passado, como o **negacionismo**. Políticas de memória (comissões da verdade) unem justiça e prevenção.
+- **Debate**: Halbwachs (memória coletiva viva e social) × Nora (memória em crise, sobrevivendo só em "lugares de memória"). Ao fundo, a questão política: **de quem** é a memória que se preserva.
+
+## Exercícios {#sec-exercicios}
+
+**1.** Explique a diferença entre **memória** e **História**. Por que se diz que a História "trabalha sobre" a memória?
+
+::: {.callout-tip collapse="true" title="Solução"}
+A **memória** é a faculdade de reter e reviver o passado; é **vivida, afetiva e seletiva** (lembramos com emoção, esquecemos o que não convém) e busca **identidade e coesão** para um grupo. A **História** é uma operação **crítica e metódica**, que submete os vestígios do passado à crítica das fontes e busca **explicar**. Diz-se que a História "trabalha sobre" a memória porque a memória é, ao mesmo tempo, **fonte** da História (os testemunhos, as tradições, os monumentos) e **objeto** de estudo (a História investiga *como* e *por que* as sociedades lembram e esquecem), sempre aplicando a crítica que a memória, sozinha, não faz.
+:::
+
+**2.** O que Maurice Halbwachs quis dizer ao afirmar que a memória é **coletiva**? Dê um exemplo do seu cotidiano.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Halbwachs afirmou que mesmo as lembranças mais pessoais são organizadas a partir de **quadros sociais** fornecidos pelos grupos a que pertencemos (família, escola, religião, nação): são esses grupos que nos dão as referências (datas, lugares, relatos) com que estruturamos e evocamos as lembranças. Exemplo válido: lembramo-nos da própria infância em boa parte por meio das histórias que a **família** conta e reconta, das fotos que ela guarda e das datas que celebra — ou seja, nossa memória "individual" é sustentada e reconstruída pelo grupo familiar. (Outros exemplos: festas nacionais, memória escolar, memória religiosa.)
+:::
+
+**3.** Conceitue **lugar de memória** (Pierre Nora) e explique por que uma estátua pode se tornar objeto de disputa.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Lugar de memória** é um ponto de ancoragem — material (monumento, museu, arquivo) ou simbólico (uma data, uma canção) — em que a memória coletiva se cristaliza e se protege do esquecimento, sobretudo em sociedades modernas que perderam a memória transmitida espontaneamente pela tradição. Uma estátua é um lugar de memória porque **fixa publicamente** uma versão do passado, elegendo quem deve ser lembrado e homenageado. Ela vira objeto de disputa quando grupos questionam essa escolha — por exemplo, ao apontar que o homenageado praticou escravização ou violência —, pois mexer no monumento é disputar **qual passado** a sociedade quer manter à vista e valorizar no presente.
+:::
+
+**4.** Diferencie **patrimônio material** e **patrimônio imaterial**, dando um exemplo brasileiro de cada. Por que a ampliação para o imaterial foi importante?
+
+::: {.callout-tip collapse="true" title="Solução"}
+O **patrimônio material** são os bens físicos: móveis (ex.: obras de arte e documentos de um museu) e imóveis (ex.: o conjunto arquitetônico de **Ouro Preto**). O **patrimônio imaterial** são práticas, saberes e expressões culturais (ex.: a **roda de capoeira**, o **samba de roda** do Recôncavo, o ofício das **baianas de acarajé**). A ampliação para o imaterial (reconhecida no Brasil pela Constituição de 1988) foi importante porque permitiu proteger a cultura de grupos — sobretudo **afro-brasileiros** e **indígenas** — que raramente eram contemplados quando "patrimônio" significava apenas igrejas e palácios. Tornou o patrimônio mais **plural e representativo** da diversidade do país (em sintonia com as Leis 10.639/2003 e 11.645/2008).
+:::
+
+**5.** Por que se afirma que "todo patrimônio resulta de uma seleção"? Que perguntas críticas essa ideia sugere?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque nenhum bem é patrimônio "por natureza": alguém, com poder de decisão (o Estado, órgãos como o IPHAN), **escolhe** o que preservar em nome da coletividade — e escolher implica também **deixar de fora**. Essa constatação sugere perguntas críticas: **Quem** decide o que é patrimônio? **Em nome de quem** e segundo quais valores? **O que**, e **de quem**, ficou de fora dessa seleção? Historicamente, por exemplo, o patrimônio brasileiro privilegiou o barroco e as igrejas coloniais, enquanto senzalas, terreiros e aldeias foram por muito tempo ignorados — o que revela quais grupos e versões do passado eram valorizados.
+:::
+
+**6.** (Estilo ENEM) Leia o texto.
+
+> Após períodos de violência de Estado, várias sociedades criaram comissões para investigar e tornar públicos os crimes cometidos, ouvir vítimas e reunir documentos. No Brasil, a Comissão Nacional da Verdade (2012–2014) investigou graves violações de direitos humanos ocorridas entre 1946 e 1988, com destaque para o período da ditadura militar.
+
+Iniciativas como essa cumprem, sobretudo, a função de
+
+**(a)** substituir a pesquisa histórica pela memória oficial do Estado.
+**(b)** preservar a memória e promover justiça, prevenindo a repetição dos crimes.
+**(c)** apagar o passado conflituoso em nome da reconciliação nacional.
+**(d)** comprovar que fatos históricos podem ser livremente negados.
+**(e)** eliminar as disputas de memória entre diferentes grupos sociais.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (b).** Comissões da verdade investigam e **tornam públicos** crimes de Estado, dão voz às vítimas e reúnem documentos: cumprem a dupla função de **preservar a memória** (para que os horrores não sejam esquecidos nem negados) e **promover justiça e reparação**, contribuindo para que tais violações **não se repitam**.
+
+Por que as demais estão erradas:
+- (a) elas se apoiam em pesquisa e documentos, não substituem a História pela memória oficial — ao contrário, questionam versões oficiais;
+- (c) o objetivo é **enfrentar** o passado conflituoso, não apagá-lo;
+- (d) contraria seu propósito: elas **comprovam** fatos, opondo-se ao negacionismo;
+- (e) elas não "eliminam" disputas de memória — inserem-se nelas em favor das vítimas.
+:::
+
+**7.** (Reflexão) Um político afirma: "Como a memória é sempre uma construção seletiva, todas as versões do passado valem igualmente, e cada um pode escolher a sua". Usando os conceitos do capítulo, mostre o problema desse raciocínio.
+
+::: {.callout-tip collapse="true" title="Solução"}
+O raciocínio confunde **memória** com **História** e escorrega para o relativismo que abre a porta ao **negacionismo**. É verdade que a **memória** é seletiva e socialmente construída (Halbwachs) — mas daí não se segue que "tudo vale". A **História** submete as versões do passado à **crítica das fontes e ao método**: há afirmações **comprovadas** por evidências (a escravidão existiu; houve tortura na ditadura) que **não** podem ser negadas, por mais que a memória as embeleze ou omita. Dizer que "todas as versões valem igualmente" equivale a autorizar a negação de fatos estabelecidos — exatamente o que fazem os discursos negacionistas. A pluralidade de **interpretações** (por que ocorreu, que sentido tem) é legítima; a negação dos **fatos** comprovados não é. A liberdade de "escolher a sua versão" não se aplica à existência dos fatos, mas apenas ao debate sobre seu significado.
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- LE GOFF, Jacques. *História e memória* [@leGoff2013]. Obra de referência sobre a relação entre memória, documento e História.
+- HALBWACHS, Maurice. *A memória coletiva* [@halbwachs2006]. O clássico que mostrou o caráter social de toda lembrança.
+- NORA, Pierre. "Entre memória e história: a problemática dos lugares" [@nora1993]. Artigo fundador do conceito de "lugares de memória".
+
+**Filmes e documentários**
+
+- *A História Oficial* (1985), dir. Luis Puenzo: sobre a Argentina da ditadura, uma professora de História descobre a verdade ocultada — um estudo sobre memória, silêncio e verdade.
+- *Que Bom Te Ver Viva* (1989), dir. Lúcia Murat: memória de mulheres sobreviventes da ditadura brasileira.
+- Documentários sobre o incêndio do **Museu Nacional** (2018): discutem o valor do patrimônio e o custo do seu abandono.
+- Reportagens e vídeos sobre bens de **patrimônio imaterial** brasileiro (capoeira, samba de roda, ofício das baianas de acarajé): mostram o patrimônio vivo dos povos.
