@@ -1,5 +1,199 @@
 # A Idade dos Metais e o surgimento das cidades {#sec-idade-dos-metais}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Por volta de 3200 a.C., nas planícies entre os rios Tigre e Eufrates, um funcionário de um templo apertou uma ponta de junco na superfície mole de uma tábua de argila. Não estava desenhando: estava **registrando** quantos sacos de cevada haviam entrado no celeiro do deus. Aquele gesto burocrático, aparentemente banal, mudou a história — pois ali, na cidade suméria de Uruk, nascia a **escrita**. E a escrita não surgiu num vazio: surgiu numa **cidade**, com muralhas, templos, mercadores, reis, exércitos e uma multidão que já não se conhecia toda pelo nome. Entre a aldeia neolítica e essa primeira cidade, dois processos correram juntos: a descoberta de que a pedra podia ser substituída pelo **metal** e a concentração de milhares de pessoas em **centros urbanos** governados por um poder central. Este capítulo trata dessa passagem — da aldeia à cidade, da pedra ao bronze e ao ferro — e do momento em que, com a escrita, a Pré-História cede lugar à História.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- explicar o que foi a **metalurgia** e distinguir as idades do **Cobre**, do **Bronze** e do **Ferro**;
+- relacionar o **excedente agrícola**, a metalurgia e a irrigação ao surgimento das primeiras **cidades**;
+- caracterizar a **Revolução Urbana** e o nascimento do **Estado**, da estratificação social e da escrita;
+- compreender por que a invenção da **escrita** (c. 3500–3000 a.C.) marca, por convenção, o fim da Pré-História e o início da História;
+- avaliar criticamente o conceito de "**civilização**" e a divisão Pré-História / História.
 :::
+
+## Do cobre ao ferro: a metalurgia transforma o trabalho e a guerra {#sec-metalurgia}
+
+Durante todo o Paleolítico e o Neolítico, a matéria-prima das ferramentas foi a **pedra**. A grande novidade técnica que se soma à agricultura é a **metalurgia**: a arte de extrair metais dos minérios (por meio do calor, herança do domínio do fogo) e moldá-los em objetos. O metal tem vantagens enormes sobre a pedra: pode ser **fundido**, moldado em qualquer forma, **afiado**, e — decisivo — **refundido** quando quebra. Ferramentas e armas de metal são mais eficientes e duráveis.
+
+Os arqueólogos costumam dividir a **Idade dos Metais** em três fases sucessivas, embora, como sempre, as datas variem muito de região para região (@fig-idade-metais):
+
+::: {#fig-idade-metais}
+
+```{.tikz}
+%%| filename: fig-idade-metais
+%%| alt: Linha do tempo das idades do Cobre, do Bronze e do Ferro, do sexto milênio antes de Cristo em diante.
+\begin{tikzpicture}[>=stealth]
+  \draw[eixo] (0,0) -- (13.2,0);
+  \node[eixo, gray] at (13.2,-0.5) {\scriptsize tempo (aprox., varia por região)};
+
+  \fill[manualyellow!30] (0.6,-0.12) rectangle (4.4,0.12);
+  \node[above, align=center, text=manualyellow!60!black] at (2.5,0.2) {\scriptsize \textbf{Idade do Cobre}};
+  \node[below] at (0.6,-0.2) {\scriptsize $\sim$6000 a.C.};
+
+  \fill[manualred!30] (4.4,-0.12) rectangle (8.8,0.12);
+  \node[above, align=center, text=manualred] at (6.6,0.2) {\scriptsize \textbf{Idade do Bronze}\\\scriptsize cobre + estanho};
+  \node[below] at (4.4,-0.2) {\scriptsize $\sim$3300 a.C.};
+
+  \fill[manualgray!40] (8.8,-0.12) rectangle (12.6,0.12);
+  \node[above, align=center] at (10.7,0.2) {\scriptsize \textbf{Idade do Ferro}};
+  \node[below] at (8.8,-0.2) {\scriptsize $\sim$1200 a.C.};
+  \node[below] at (12.6,-0.2) {\scriptsize $\rightarrow$};
+\end{tikzpicture}
+```
+
+As idades dos metais. As faixas se sobrepõem e não são simultâneas em todo o mundo: o ferro, por exemplo, chegou muito mais tarde à África subsaariana e à América.
+:::
+
+- **Idade do Cobre** (Calcolítico, a partir de c. 6000 a.C.): o cobre, encontrado quase puro na natureza, foi o primeiro metal trabalhado. Mole demais para boas ferramentas, servia sobretudo para adornos e objetos rituais.
+- **Idade do Bronze** (a partir de c. 3300 a.C.): a grande descoberta foi a **liga** — misturar cobre com **estanho** produz o **bronze**, muito mais duro. Armas e ferramentas de bronze deram enorme vantagem a quem as possuía. Como o estanho é raro, seu comércio a longa distância estimulou rotas mercantis e a riqueza das primeiras cidades.
+- **Idade do Ferro** (a partir de c. 1200 a.C.): o ferro exige temperaturas muito mais altas para ser trabalhado, mas seu minério é **abundante**. Uma vez dominada a técnica, ferramentas e armas de ferro se **democratizaram** — não eram mais privilégio de elites com acesso ao estanho —, o que teve enormes consequências militares e agrícolas.
+
+::: {.callout-important title="Armadilha comum: as 'idades' não são um relógio mundial"}
+Cuidado com a ideia de que toda a humanidade passou pelas mesmas idades ao mesmo tempo. Enquanto a Suméria já vivia a Idade do Bronze, grande parte do mundo seguia no Neolítico. Muitos povos da África, da Oceania e da América **nunca** passaram por uma "Idade do Bronze" nos moldes do Oriente Médio, e alguns trabalharam o ferro sem ter tido bronze antes. Essa periodização foi criada a partir da experiência **europeia e do Oriente Próximo** e não deve ser aplicada como lei universal — um problema que aprofundaremos no @sec-debates-pre-historia.
+:::
+
+## A Revolução Urbana: da aldeia à cidade {#sec-revolucao-urbana}
+
+Foi de novo **V. Gordon Childe** quem nomeou o segundo grande salto: a **Revolução Urbana**, o processo pelo qual, por volta de **3500 a.C.**, algumas aldeias do Oriente Próximo cresceram e se transformaram em **cidades** — centros com milhares de habitantes, poder político organizado e forte divisão social. Não foi um acaso que isso ocorreu nos **vales de grandes rios**: o Tigre e o Eufrates na **Mesopotâmia**, o Nilo no **Egito**, o Indo na Índia, o Amarelo na China. Esses rios ofereciam água e solos férteis, mas exigiam **obras coletivas** de irrigação, drenagem e diques.
+
+Aqui está um elo causal importante: controlar as águas exigia **organizar e comandar** milhares de trabalhadores, construir e manter canais, distribuir a produção. Essa necessidade de coordenação em larga escala favoreceu o surgimento de um **poder central** forte — reis e sacerdotes que dirigiam as obras, cobravam tributos e mandavam nos exércitos. O excedente agrícola, agora muito maior graças à irrigação, sustentava essa máquina.
+
+::: {.callout-note title="Conceito-chave: o Estado"}
+**Estado** é uma forma de organização política com poder centralizado que se impõe sobre um território e uma população, dispondo de meios para cobrar **tributos**, ditar **leis**, organizar a **guerra** e administrar a **justiça**. Nas primeiras cidades, o Estado nasce entrelaçado à religião (o **rei-sacerdote**, ou o rei visto como representante ou encarnação de um deus) e a uma burocracia que registra, cobra e distribui. É o Estado que transforma um simples aglomerado urbano em uma sociedade politicamente comandada.
+:::
+
+A cidade abrigava uma sociedade profundamente **estratificada** — muito mais desigual que a aldeia neolítica. No topo, o rei e os sacerdotes; abaixo, funcionários, escribas, guerreiros e mercadores; depois, a massa de camponeses e artesãos; e, na base, os **escravizados** (prisioneiros de guerra, devedores). A @fig-piramide-urbana esquematiza essa hierarquia — o primeiro dos muitos organogramas sociais que você encontrará neste manual.
+
+::: {#fig-piramide-urbana}
+
+```{.tikz}
+%%| filename: fig-piramide-urbana
+%%| alt: Pirâmide social esquemática das primeiras cidades: rei e sacerdotes no topo, escravizados na base.
+\begin{tikzpicture}
+  % pirâmide
+  \draw[thick, manualgray] (0,0) -- (6,0) -- (3,5) -- cycle;
+  \draw[thick, manualgray] (0.9,1.5) -- (5.1,1.5);
+  \draw[thick, manualgray] (1.8,3.0) -- (4.2,3.0);
+  \draw[thick, manualgray] (2.4,4.0) -- (3.6,4.0);
+
+  \node at (3,4.45) {\scriptsize \textbf{Rei / sacerdotes}};
+  \node[align=center] at (3,3.45) {\scriptsize funcionários, escribas,\\\scriptsize guerreiros, mercadores};
+  \node[align=center] at (3,2.2) {\scriptsize artesãos e comerciantes};
+  \node[align=center] at (3,0.75) {\scriptsize camponeses (a maioria)};
+  \node[align=center, text=white] at (3,0.15) {};
+  \node[right=0.3cm of {(6,0)}, align=left, text=manualred] at (6.2,0.4)
+        {\scriptsize escravizados: prisioneiros\\\scriptsize de guerra e devedores};
+
+  \draw[->, manualgray, thick] (3,-0.4) -- (3,-1.1)
+        node[below, black, align=center] {\scriptsize \textbf{poder e riqueza} concentram-se no topo};
+\end{tikzpicture}
+```
+
+A pirâmide social das primeiras cidades. A **Revolução Urbana** aprofundou a desigualdade que a Revolução Neolítica havia iniciado.
+:::
+
+Com a cidade vieram, ainda, a **especialização** levada ao extremo (ofícios inteiros dedicados à cerâmica, à metalurgia, à tecelagem, ao comércio), o **comércio de longa distância**, os **exércitos** profissionais, os grandes **templos** e palácios e a **religião** organizada por um clero. A humanidade entrava numa nova escala de complexidade.
+
+## A escrita: a fronteira entre Pré-História e História {#sec-escrita}
+
+A cidade, com seus tributos, estoques, dívidas e leis, gerou um problema prático: como **registrar** e **controlar** tudo isso sem depender apenas da memória? A resposta foi a **escrita**, inventada de forma independente em alguns lugares — na **Suméria** (escrita **cuneiforme**, em placas de argila, c. 3500–3200 a.C.), no **Egito** (**hieróglifos**), depois na China e na Mesoamérica.
+
+::: {.callout-note title="Conceito-chave: por que a escrita divide a Pré-História da História?"}
+Por **convenção acadêmica**, chama-se **Pré-História** o longuíssimo período **anterior à escrita** e **História** (em sentido estrito) o período **posterior** a ela. A razão é metodológica: a partir da escrita, os historiadores passam a contar com **documentos escritos** — leis, contratos, cartas, crônicas —, um tipo de fonte riquíssimo que não existia antes. Note bem: **não** é que "a história começa com a escrita" no sentido de que só então passa a acontecer algo importante. Tudo o que você estudou nos capítulos anteriores é história humana plena. A fronteira marca uma mudança nas **fontes disponíveis**, não no valor ou na existência dos acontecimentos — e, como veremos, essa própria divisão é hoje criticada.
+:::
+
+A primeira escrita não nasceu para a poesia nem para registrar feitos de reis: nasceu para a **contabilidade** dos templos e palácios — quantos animais, quantos sacos de grão, quantas dívidas. Só depois foi usada para leis (como o famoso *Código de Hamurábi*, séc. XVIII a.C.), tratados, mitos e literatura (a *Epopeia de Gilgámesh*). O poder de registrar deu enorme força ao Estado e a um novo grupo social prestigiado: os **escribas**, os poucos que dominavam a arte de escrever.
+
+Com a escrita, encerra-se a Pré-História e abre-se o mundo das primeiras **civilizações** históricas — a Mesopotâmia, o Egito e as demais —, que serão o tema dos próximos volumes deste manual.
+
+## 🔎 Historiografia em Foco {#sec-historiografia-metais}
+
+Duas noções que usamos o tempo todo neste capítulo — "**civilização**" e a divisão entre "**Pré-História**" e "**História**" — parecem neutras, mas carregam uma longa disputa. Aqui, o debate historiográfico é sobre os **próprios conceitos** com que organizamos o passado.
+
+**A visão tradicional: a escrita e a cidade como marco da "civilização".** No pensamento dos séculos XIX e início do XX, muito influente ainda hoje nos manuais, "civilização" era o estágio superior alcançado quando um povo desenvolvia cidades, Estado, metalurgia e, sobretudo, **escrita**. Childe descreveu essa passagem com admiração, e a divisão Pré-História / História consagrou a escrita como a grande fronteira. Nessa lógica, povos **sem escrita** seriam "pré-históricos" ou "sem história" — e, num deslize perigoso, "menos civilizados". Foi essa hierarquia que, durante o colonialismo europeu, serviu para classificar africanos, indígenas americanos e outros povos como "atrasados", justificando sua dominação.
+
+**A crítica contemporânea: uma fronteira eurocêntrica e injusta.** A historiografia atual questiona duramente esses conceitos. Primeiro, dizer que povos sem escrita "não têm história" é um erro: eles têm história riquíssima, transmitida pela **oralidade**, pela **memória** e pela **cultura material**, que a arqueologia e a história oral hoje sabem investigar (lembre-se do @sec-oficio-do-historiador). Segundo, a palavra "civilização", quando usada como **elogio hierárquico** (uns são "civilizados", outros "bárbaros" ou "selvagens"), reproduz o preconceito eurocêntrico que serviu ao colonialismo. Por isso muitos historiadores preferem falar em "**sociedades complexas**", "primeiras cidades" ou "sociedades urbanas", evitando ranquear culturas. Terceiro, a própria divisão **Pré-História / História** é criticada por sugerir que a "verdadeira" história só começa com a escrita — quando os capítulos anteriores mostraram quanta história decisiva (hominização, agricultura, arte) ocorreu **antes** dela. Alguns preferem falar em "história sem escrita" e "história com escrita", sem a carga de inferioridade da palavra "pré".
+
+**Por que o debate importa?** Porque os conceitos com que dividimos o tempo **não são neutros**: eles carregam a visão de mundo de quem os criou. A periodização da "Idade da Pedra / Bronze / Ferro" e a fronteira da escrita nasceram na Europa do século XIX, num contexto de expansão colonial e de fé no progresso — e tenderam a colocar a própria Europa no topo de uma escada evolutiva. Reconhecer isso não significa jogar fora os conceitos (eles ainda são úteis para organizar o estudo), mas **usá-los com consciência crítica**, sabendo o que escondem. Como sempre neste manual: a História é uma construção, e até as suas "gavetas" de tempo são objeto de disputa. Esse é justamente o tema do próximo e último capítulo do volume (@sec-debates-pre-historia).
+
+::: {.callout-warning title="Controvérsia: 'povos sem história'?"}
+A expressão "povos sem história", comum no século XIX, é hoje considerada equivocada e ofensiva. **Todos** os povos têm história — o que alguns não têm (ou não tinham) é **escrita**, o que apenas muda o tipo de **fonte** que o historiador precisa usar. As Leis 10.639/2003 e 11.645/2008, que tornaram obrigatório o ensino das histórias e culturas afro-brasileira e indígena, apoiam-se justamente nesse princípio: sociedades de tradição oral, como muitos povos africanos e indígenas, produziram formas sofisticadas de conhecimento, organização e memória, e merecem ser estudadas como **sujeitos históricos** plenos.
+:::
+
+## Resumo do capítulo {#sec-resumo-metais}
+
+- A **metalurgia** (extrair e moldar metais com o calor) sucede a tecnologia da pedra. A **Idade dos Metais** divide-se em **Cobre** (c. 6000 a.C.), **Bronze** (cobre + estanho, c. 3300 a.C.) e **Ferro** (c. 1200 a.C., mais abundante e "democrático"). As datas variam muito por região.
+- Por volta de **3500 a.C.**, no Oriente Próximo, a **Revolução Urbana** (Childe) transformou aldeias em **cidades** nos vales de grandes rios (Tigre-Eufrates, Nilo, Indo, rio Amarelo). A **irrigação** exigia trabalho coletivo coordenado, favorecendo um **poder central** forte.
+- Surge o **Estado**: poder centralizado que cobra **tributos**, faz **leis**, organiza a **guerra** e a **justiça**, muitas vezes ligado à religião (rei-sacerdote). A sociedade urbana é fortemente **estratificada** (rei e sacerdotes → funcionários → artesãos → camponeses → escravizados).
+- A **escrita** (cuneiforme suméria, c. 3500–3200 a.C.; hieróglifos egípcios) nasceu da necessidade de **contabilidade** do Estado e deu origem aos **escribas**. Por convenção, ela marca o fim da **Pré-História** e o início da **História** — uma fronteira de **fontes**, não de valor.
+- Historiograficamente, os conceitos de "**civilização**" e a divisão **Pré-História / História** são hoje criticados por seu viés **eurocêntrico** e por sugerirem que povos sem escrita seriam "sem história" ou "atrasados" — ideia que serviu ao colonialismo. Todos os povos têm história (Leis 10.639/2003 e 11.645/2008).
+
+## Exercícios {#sec-exercicios-metais}
+
+**1.** Explique por que o **bronze** representou um avanço em relação ao **cobre**, e por que a difusão do **ferro** teve efeitos sociais mais amplos que a do bronze.
+
+::: {.callout-tip collapse="true" title="Solução"}
+O **cobre** puro é mole demais para boas ferramentas e armas; ao ligá-lo ao **estanho**, obtém-se o **bronze**, muito mais **duro e resistente** — logo, ferramentas e armas mais eficientes. Mas o estanho é **raro**, o que tornava o bronze caro e concentrava seu uso nas **elites** com acesso ao comércio de longa distância. O **ferro**, ao contrário, tem minério **abundante**; uma vez dominada a técnica (que exige temperaturas mais altas), armas e ferramentas de ferro **se democratizaram**, chegando a camponeses e a exércitos numerosos. Por isso o ferro teve efeitos sociais e militares mais amplos: não dependia de um recurso escasso controlado por poucos.
+:::
+
+**2.** Por que as primeiras cidades surgiram em **vales de grandes rios**? Relacione geografia, irrigação e poder central.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Os vales de rios como o Tigre, o Eufrates e o Nilo ofereciam **água** e **solos férteis** (renovados pelas cheias), ideais para uma agricultura muito produtiva. Mas aproveitá-los exigia **obras coletivas** de irrigação, drenagem e controle das cheias (canais, diques, reservatórios), que só grandes grupos organizados podiam construir e manter. Coordenar milhares de trabalhadores, distribuir a água e armazenar a produção exigia **comando centralizado** — o que favoreceu o surgimento de um **poder central** forte (reis e sacerdotes). Assim, geografia (rio fértil) + necessidade técnica (irrigação) + coordenação em larga escala convergiram para o nascimento do **Estado** e da cidade.
+:::
+
+**3.** Defina **Estado** e explique por que ele nasce associado à religião nas primeiras cidades.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Estado** é a organização política de poder **centralizado** sobre um território e uma população, capaz de cobrar **tributos**, editar **leis**, organizar a **guerra** e administrar a **justiça**. Nas primeiras cidades, ele nasce ligado à **religião** porque a autoridade do governante era legitimada por sua relação com os deuses: o rei aparecia como **sacerdote supremo**, representante ou até encarnação de uma divindade, e os grandes **templos** eram, ao mesmo tempo, centros religiosos, econômicos (celeiros, redistribuição) e administrativos. A religião fornecia a **justificativa sagrada** para a obediência ao poder e para a cobrança de tributos.
+:::
+
+**4.** Explique por que a **escrita** foi inventada e por que ela marca, por convenção, o fim da Pré-História. Essa fronteira significa que "nada de importante aconteceu antes"? Justifique.
+
+::: {.callout-tip collapse="true" title="Solução"}
+A escrita foi inventada, antes de tudo, para a **contabilidade** e a administração dos templos e palácios das primeiras cidades: registrar estoques de grãos, animais, tributos e dívidas — tarefas que a memória não dava conta de controlar. Ela marca, **por convenção acadêmica**, o fim da Pré-História porque, a partir dela, os historiadores passam a dispor de **documentos escritos**, um tipo de fonte novo e riquíssimo. Mas isso **não** significa que nada de importante ocorreu antes: a hominização, o domínio do fogo, a linguagem, a arte, a agricultura e as primeiras cidades — tudo isso é história humana decisiva e **anterior** à escrita. A fronteira diz respeito ao **tipo de fonte** disponível, não ao valor ou à existência dos acontecimentos.
+:::
+
+**5.** Compare a estrutura social de uma **aldeia neolítica** com a de uma **cidade** da Idade do Bronze. O que aumentou?
+
+::: {.callout-tip collapse="true" title="Solução"}
+A aldeia neolítica já conhecia desigualdade e especialização, mas em grau **moderado**: grupos ligados por parentesco, algumas centenas de pessoas, hierarquias ainda pouco rígidas. A cidade da Idade do Bronze é muito mais **complexa e estratificada**: milhares de habitantes, um **Estado** com rei e sacerdotes no topo, uma burocracia de escribas e funcionários, guerreiros, mercadores, uma grande massa de camponeses e, na base, **escravizados** (prisioneiros de guerra e devedores). Aumentaram a **escala populacional**, a **especialização** do trabalho (ofícios inteiros), a **concentração de poder e riqueza** no topo e a **desigualdade** social, agora sustentada pela força do Estado e pela religião.
+:::
+
+**6.** (Estilo ENEM) Leia o texto.
+
+> Costuma-se dizer que a História começa com a escrita e que, antes dela, havia apenas "pré-história". Essa divisão, criada por estudiosos europeus do século XIX, tende a apresentar os povos que não desenvolveram a escrita como povos "sem história" ou "atrasados".
+
+A crítica contida no texto à divisão entre "Pré-História" e "História" fundamenta-se no argumento de que
+
+**(a)** a escrita nunca existiu nas primeiras cidades do Oriente Próximo.
+**(b)** os povos de tradição oral não produziram nenhuma forma de conhecimento.
+**(c)** todos os povos têm história, ainda que nem todos tenham desenvolvido a escrita.
+**(d)** apenas a Europa foi capaz de produzir civilizações verdadeiras.
+**(e)** a arqueologia é incapaz de estudar sociedades sem documentos escritos.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (c).** A crítica sustenta que **todos os povos têm história** — inclusive os de tradição **oral** —, e que a ausência de escrita muda apenas o **tipo de fonte** necessário (oralidade, cultura material, arqueologia), não a existência de uma história. A divisão eurocêntrica é criticada justamente por hierarquizar povos.
+
+Erros: (a) a escrita **surgiu** nas primeiras cidades, o texto não nega isso; (b) inverte a crítica — os povos orais **produziram** conhecimento; (d) é exatamente o preconceito que o texto combate; (e) a arqueologia **é capaz** de estudar sociedades sem escrita — o oposto do que a crítica supõe.
+:::
+
+**7.** (Estilo vestibular — dissertativa) Muitos historiadores preferem falar em "sociedades complexas" ou "primeiras cidades" em vez de usar a palavra "civilização". Explique por que essa escolha de vocabulário tem importância historiográfica e política.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Resposta esperada: a palavra "**civilização**", como foi usada nos séculos XIX e XX, frequentemente funcionava como um **juízo de valor hierárquico** — separava povos "civilizados" (com cidades, Estado e escrita) de "bárbaros" ou "selvagens" (sem esses traços) e colocava a Europa no topo de uma suposta escada evolutiva. Esse vocabulário serviu para **justificar o colonialismo**, classificando africanos, indígenas e outros povos como "atrasados" e, portanto, passíveis de dominação. Ao preferir termos como "**sociedades complexas**" ou "**primeiras cidades**", os historiadores evitam esse **ranqueamento eurocêntrico** e reconhecem que diferentes povos organizaram-se de maneiras diversas, todas legítimas e dignas de estudo. A escolha é historiográfica (mais rigor, menos preconceito embutido) e **política** (recusa a hierarquização que legitimou a dominação colonial e o racismo). Uma boa resposta deve articular: caráter valorativo/eurocêntrico do termo "civilização", seu uso colonial e a busca por conceitos mais neutros e plurais.
+:::
+
+## Para saber mais {#sec-para-saber-mais-metais}
+
+**Livros**
+
+- CHILDE, V. Gordon. *O que aconteceu na história* [@childe1981]. O clássico que formulou a "Revolução Urbana" e descreveu a passagem da aldeia à cidade e à escrita.
+- DIAMOND, Jared. *Armas, germes e aço* [@diamond2013]. Discute por que a metalurgia, a escrita e o Estado surgiram antes em certas regiões, e os perigos de confundir "vantagem geográfica" com "superioridade".
+- HARARI, Yuval Noah. *Sapiens* [@harari2015]. Bons capítulos sobre a escrita, a burocracia e o surgimento das hierarquias imaginadas.
+
+**Filmes e documentários**
+
+- Documentários sobre **Uruk**, a **escrita cuneiforme** e a *Epopeia de Gilgámesh*: mostram o nascimento da cidade e do registro escrito.
+- Série *Civilizações* (BBC/PBS) e materiais do Museu Britânico sobre a Mesopotâmia: úteis para visualizar a cultura material das primeiras cidades — que você estudará em detalhe no próximo volume.
