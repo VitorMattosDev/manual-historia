@@ -1,5 +1,179 @@
 # O Paleolítico: caçadores-coletores {#sec-paleolitico}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Em 1940, quatro adolescentes e um cachorro exploravam uma gruta na região de Lascaux, no sudoeste da França, quando se depararam com uma parede coberta de touros, cavalos e veados pintados em ocre e carvão. As figuras tinham cerca de 17 mil anos. Diante daquelas imagens vívidas, feitas à luz bruxuleante de lamparinas de gordura animal, é impossível não se perguntar: quem eram essas pessoas? Do que viviam? No que acreditavam? Elas pertenciam ao **Paleolítico** — a "Idade da Pedra Lascada" —, o período mais longo da história humana, que cobre mais de **99% do tempo** em que existimos. Foi nesse imenso arco de tempo, e não nos poucos milênios recentes, que se formou quase tudo o que nos define: a linguagem, a técnica, a arte, a religião, a vida em grupo. Este capítulo é sobre esse mundo de **caçadores-coletores** — e sobre por que ele merece muito mais respeito do que a palavra "primitivo" sugere.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- caracterizar o **Paleolítico** e justificar por que ele corresponde à maior parte da existência humana;
+- descrever o modo de vida **caçador-coletor**: nomadismo, bandos, divisão do trabalho e economia de subsistência;
+- explicar a evolução da **tecnologia lítica** e o papel das ferramentas, do fogo e das peles;
+- interpretar a **arte rupestre** e as práticas simbólicas (sepultamentos, ritos) como evidências de pensamento abstrato;
+- discutir criticamente a imagem do caçador-coletor, contrastando a visão da "vida miserável" com a tese da "sociedade da abundância original".
 :::
+
+## O período mais longo da nossa história {#sec-paleolitico-tempo}
+
+O **Paleolítico** (do grego *palaiós*, "antigo", + *líthos*, "pedra") é o primeiro e mais longo período da **Pré-História**, definido pelo uso de instrumentos de **pedra lascada**. Começa com as primeiras ferramentas, há cerca de 2,5 milhões de anos, e termina por volta de 10 mil a.C., quando a agricultura inaugura o Neolítico (@sec-revolucao-neolitica).
+
+Para sentir a desproporção: se comprimíssemos toda a história humana em um único ano, a agricultura, as cidades, os impérios, a escrita e tudo o que costumamos chamar de "civilização" caberiam apenas nos **últimos dois ou três dias de dezembro**. Todo o resto do ano é Paleolítico. Isso tem uma consequência importante: o corpo e a mente que você tem hoje foram esculpidos por esse longuíssimo período de vida caçadora-coletora, não pelo mundo urbano e agrícola, que é recentíssimo.
+
+::: {.callout-note title="Conceito-chave: as divisões do Paleolítico"}
+Os arqueólogos subdividem o período conforme o refinamento das ferramentas:
+
+- **Paleolítico Inferior** (c. 2,5 milhões–200 mil anos): ferramentas simples (choppers, bifazes); *Homo habilis* e *erectus*.
+- **Paleolítico Médio** (c. 200 mil–40 mil anos): lascas mais elaboradas; neandertais e primeiros *sapiens*.
+- **Paleolítico Superior** (c. 40 mil–10 mil anos): lâminas finas, agulhas de osso, arte rupestre; *Homo sapiens*.
+
+Essas datas variam entre regiões — a Pré-História não anda no mesmo ritmo em toda parte, um ponto que será decisivo no @sec-debates-pre-historia.
+:::
+
+## Nômades da caça e da coleta {#sec-modo-de-vida}
+
+O modo de vida paleolítico era o de **caçadores-coletores**: os grupos obtinham alimento **caçando** animais, **pescando** e **coletando** frutos, raízes, sementes, mel e ovos, sem produzir seu próprio alimento. Como dependiam do que a natureza oferecia em cada estação e lugar, precisavam se **deslocar** — eram **nômades**. Quando um território se esgotava ou os rebanhos migravam, o grupo migrava junto.
+
+Viviam em **bandos** pequenos, em geral de algumas dezenas de pessoas, unidos por laços de parentesco. Não havia Estado, cidades, propriedade da terra nem, na maior parte dos casos, grandes desigualdades de riqueza — afinal, quem se muda o tempo todo não acumula bens. As decisões eram tomadas de modo relativamente **igualitário**, e a liderança tendia a ser temporária, baseada em prestígio (um bom caçador, uma anciã sábia), não em poder herdado.
+
+Havia uma **divisão do trabalho**, com frequência organizada por sexo e idade, embora seus contornos exatos sejam objeto de debate (veja o quadro adiante). Tradicionalmente, atribuiu-se a caça de grandes animais aos homens e a coleta às mulheres — mas é preciso cautela com essa imagem, porque a **coleta** costumava fornecer a maior parte das calorias, e descobertas recentes mostram mulheres caçadoras em vários grupos. Idosos guardavam a memória e o conhecimento do território; crianças aprendiam observando.
+
+::: {.callout-important title="Armadilha comum: 'primitivo' não é 'burro'"}
+É tentador olhar para os caçadores-coletores com condescendência, como seres "atrasados" que ainda não tinham "evoluído" para a agricultura. Isso é **anacronismo** e **teleologia** (@sec-tempo-historico): projeta nosso modo de vida como meta natural da história. Na verdade, um caçador-coletor precisava dominar um saber imenso — reconhecer centenas de plantas, ler rastros, prever o clima, fabricar ferramentas, orientar-se por estrelas. Seu cérebro era idêntico ao nosso. Eles não eram uma versão inferior de nós; eram humanos plenos vivendo de outro modo.
+:::
+
+## Pedra, osso e fogo: a tecnologia paleolítica {#sec-tecnologia-paleolitica}
+
+A tecnologia que dá nome ao período é a da **pedra lascada**: golpeava-se uma pedra (em geral sílex) com outra para arrancar lascas e obter bordas cortantes. Ao longo de milhões de anos, essa técnica se sofisticou enormemente, como mostra a @fig-tecnologia-litica.
+
+::: {#fig-tecnologia-litica}
+
+```{.tikz}
+%%| filename: fig-tecnologia-litica
+%%| alt: Fluxo esquemático da evolução da tecnologia lítica, do chopper ao propulsor e arco, ao longo do Paleolítico.
+\begin{tikzpicture}[
+    >=stealth,
+    etapa/.style={draw, thick, rounded corners, align=center, text width=2.4cm,
+                  minimum height=1.35cm, fill=manualblue!10},
+    seta/.style={->, very thick, manualgray}]
+  \node[etapa, fill=manualgreen!12] (a) {\small \textbf{Inferior}\\\scriptsize \textit{chopper}, bifaz\\\scriptsize (lascas grossas)};
+  \node[etapa, right=0.7cm of a, fill=manualblue!12] (b) {\small \textbf{Médio}\\\scriptsize lascas retocadas\\\scriptsize pontas, raspadores};
+  \node[etapa, right=0.7cm of b, fill=manualred!12] (c) {\small \textbf{Superior}\\\scriptsize lâminas finas,\\\scriptsize agulhas de osso};
+  \node[etapa, right=0.7cm of c, fill=manualyellow!25] (d) {\small \textbf{Armas de arremesso}\\\scriptsize propulsor, arco\\\scriptsize e flecha};
+
+  \draw[seta] (a) -- (b);
+  \draw[seta] (b) -- (c);
+  \draw[seta] (c) -- (d);
+  \node[eixo, gray, below=0.15cm of b.south east] {\scriptsize $\longrightarrow$ maior eficiência e especialização};
+\end{tikzpicture}
+```
+
+Da lasca grosseira do Paleolítico Inferior às armas de arremesso do Superior: cada avanço técnico ampliava o alcance e a segurança da caça.
+:::
+
+No **Paleolítico Superior**, a criatividade técnica explode. Surgem lâminas longas e finas, **agulhas de osso** (que permitem costurar peles e produzir roupas ajustadas — essenciais para sobreviver ao frio da Era Glacial), arpões, anzóis e, sobretudo, armas que atacam **à distância**: o **propulsor** (uma haste que multiplica a força do braço ao arremessar uma lança) e, mais tarde, o **arco e flecha**. Atacar de longe significava caçar animais grandes e perigosos com muito menos risco — uma revolução na segurança e na eficiência da subsistência.
+
+Some-se a isso o **fogo**, já dominado desde o *Homo erectus* (@sec-cultura-material): ele cozinhava, aquecia, protegia e permitia ocupar as regiões frias da Europa e da Ásia durante as glaciações. Peles costuradas, fogueiras e abrigos (cavernas, tendas de couro sobre ossos de mamute) formavam o "pacote de sobrevivência" do caçador-coletor no gelo.
+
+## Arte, símbolos e o mundo invisível {#sec-arte-rupestre}
+
+Aqui chegamos ao que há de mais comovente no Paleolítico: a evidência de que aquelas pessoas **pensavam simbolicamente**, imaginavam, criavam e, provavelmente, acreditavam em algo além do visível.
+
+A **arte rupestre** — pinturas e gravuras em paredes de cavernas e paredões — é a prova mais espetacular. Em **Lascaux** (França) e **Altamira** (Espanha), há cavalos, bisões e cervos pintados com domínio impressionante do movimento e do volume, há cerca de 17 a 36 mil anos. No Brasil, o parque de **Serra da Capivara** (Piauí) guarda milhares de painéis com cenas de caça, dança e ritos, alguns muito antigos (você estudará esse sítio no @sec-pre-historia-brasil-america).
+
+::: {.callout-note title="Conceito-chave: para que servia a arte rupestre?"}
+Não sabemos ao certo, e as hipóteses convivem: (1) **magia da caça** — pintar o animal para "capturá-lo" simbolicamente e garantir sucesso na caçada; (2) **ritos de iniciação** e xamanismo, ligados a estados alterados de consciência; (3) **registro e comunicação** — marcar territórios, transmitir saberes, contar histórias; (4) **expressão estética** e identitária. Provavelmente havia várias funções ao mesmo tempo. O importante é o que a arte **prova**: capacidade de abstração, planejamento e pensamento simbólico plenamente humanos.
+:::
+
+Além das pinturas, há as pequenas esculturas conhecidas como **"Vênus" paleolíticas** — estatuetas femininas com formas fartas, como a *Vênus de Willendorf* (c. 25 mil anos), possivelmente ligadas à fertilidade. E há os **sepultamentos**: enterrar os mortos com cuidado, às vezes com objetos, flores ou pigmento vermelho (ocre), sugere crença em alguma forma de continuidade após a morte — ou, no mínimo, laços afetivos e rituais. Neandertais e *sapiens* enterravam seus mortos. Cuidar de um doente que não pode mais caçar, ou de um velho sem dentes, também revela **solidariedade** e vida social complexa.
+
+Tudo isso desmente a caricatura do "homem das cavernas" bruto e solitário. O caçador-coletor do Paleolítico Superior cantava, dançava (provável função das flautas de osso encontradas), pintava, enterrava seus mortos e contava histórias em torno do fogo. A **cultura**, no sentido pleno, já estava aqui.
+
+## 🔎 Historiografia em Foco {#sec-historiografia-paleolitico}
+
+Como devemos avaliar a vida no Paleolítico: era uma existência **miserável** de fome e medo, ou havia nela uma forma de **abundância** que perdemos? Essa é uma das controvérsias mais instigantes da antropologia — e ela mudou por completo ao longo do século XX.
+
+**A visão tradicional: a vida "solitária, pobre, sórdida, brutal e curta".** Por muito tempo dominou a ideia, que remonta ao filósofo Thomas Hobbes (séc. XVII) e foi reforçada pela crença oitocentista no **progresso**, de que a vida antes da agricultura era uma luta constante e desesperada pela sobrevivência. Nessa leitura, o caçador-coletor viveria à beira da fome, trabalhando exaustivamente só para não morrer, até que a agricultura o "libertasse". A história era contada como uma **ascensão** contínua da barbárie à civilização.
+
+**A virada: a "sociedade da abundância original".** Em 1966, num célebre simpósio, o antropólogo **Marshall Sahlins** provocou a academia com uma tese oposta. Baseando-se em estudos de grupos caçadores-coletores que sobreviveram até o século XX (como os San, do deserto do Kalahari), ele mostrou que essas pessoas trabalhavam **poucas horas por dia** para obter alimento suficiente — muito menos do que um camponês ou um operário —, dispondo do resto do tempo para o descanso, o convívio e os rituais. Sahlins chamou isso de "**sociedade da abundância original**": abundância não por ter muito, mas por **desejar pouco** e conseguir satisfazer as necessidades com facilidade. Nessa leitura, foi a **agricultura** que trouxe trabalho mais duro, dietas menos variadas, novas doenças e desigualdade (tese que você reencontrará no @sec-revolucao-neolitica).
+
+**Por que as interpretações divergem?** Em parte, por causa das **fontes e do contexto de cada autor**. A visão tradicional nasceu numa Europa industrial confiante no progresso, que projetava sua própria trajetória como destino universal (**teleologia**, @sec-tempo-historico). A revisão de Sahlins nasceu nos anos 1960, num clima de crítica ao consumismo e ao "desenvolvimento", e se apoiou em **etnografia** de campo, e não em suposições. Hoje, os especialistas evitam os dois extremos: nem paraíso, nem inferno. A vida paleolítica tinha **vulnerabilidades reais** (mortalidade infantil alta, riscos da caça, secas) e **vantagens reais** (dieta variada, menos doenças infecciosas, mais igualdade, mais tempo livre). O debate ensina uma lição de método: nossas imagens do passado dizem muito sobre **as ansiedades do presente** de quem as constrói.
+
+::: {.callout-warning title="Cuidado com as fontes: povos atuais não são 'fósseis vivos'"}
+Um limite importante: usamos grupos caçadores-coletores **contemporâneos** (como San, Hadza, alguns povos amazônicos) para imaginar o Paleolítico — mas eles **não** são "homens das cavernas congelados no tempo". São povos com história própria, muitas vezes empurrados para terras marginais pela expansão de vizinhos agricultores e coloniais. A analogia é útil, mas deve ser feita com prudência: eles nos ajudam a levantar hipóteses, não a "fotografar" o passado.
+:::
+
+## Resumo do capítulo {#sec-resumo-paleolitico}
+
+- O **Paleolítico** ("Idade da Pedra Lascada") vai de c. 2,5 milhões de anos a c. 10 mil a.C. e cobre mais de **99%** da existência humana. Divide-se em Inferior, Médio e Superior.
+- O modo de vida era o de **caçadores-coletores**: **nômades**, viviam em **bandos** pequenos e igualitários, praticavam **economia de subsistência** (não produziam alimento) e tinham divisão do trabalho por sexo e idade — embora a rígida associação "homem caça / mulher coleta" seja hoje questionada, e a **coleta** fornecesse a maior parte das calorias.
+- A **tecnologia lítica** evoluiu da lasca grosseira (choppers, bifazes) às lâminas finas, agulhas de osso e **armas de arremesso** (propulsor, arco e flecha) do Paleolítico Superior. O **fogo** permitiu cozinhar, aquecer e ocupar regiões frias.
+- A **arte rupestre** (Lascaux, Altamira, Serra da Capivara), as **"Vênus"** e os **sepultamentos** provam pensamento **simbólico**, abstração e vida espiritual/social complexa. "Primitivo" **não** significa incapaz.
+- Historiograficamente, opõem-se a visão tradicional da vida pré-agrícola **miserável** (herança de Hobbes e do ideal de progresso) e a tese de **Marshall Sahlins** da "**sociedade da abundância original**" (pouco trabalho, muito tempo livre, poucas necessidades). O consenso atual recusa os dois extremos e destaca como cada imagem reflete o **presente** de quem a formula.
+
+## Exercícios {#sec-exercicios-paleolitico}
+
+**1.** Por que se afirma que o Paleolítico corresponde a mais de 99% da história humana? Que implicação isso tem para entender o ser humano de hoje?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque o período que usa pedra lascada e o modo de vida caçador-coletor duraram cerca de **2,5 milhões de anos**, ao passo que a agricultura, as cidades e a escrita têm, no máximo, **10 mil anos** — uma fração ínfima do total. A implicação é que o corpo, os instintos e boa parte da mente humana foram moldados pela **vida caçadora-coletora**, e não pelo mundo urbano-agrícola recente. Compreender o Paleolítico é, portanto, compreender as condições em que "fomos fabricados" como espécie.
+:::
+
+**2.** Defina "economia de subsistência" e explique por que o modo de vida caçador-coletor implicava **nomadismo** e baixa desigualdade.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Economia de subsistência** é aquela em que o grupo obtém apenas o necessário para viver, sem produzir excedente para acumular ou comercializar. Como os caçadores-coletores dependiam do que a natureza oferecia em cada estação, precisavam **deslocar-se** atrás de caça, peixe e plantas — daí o **nomadismo**. E como quem se muda constantemente não pode acumular bens nem cercar terras, havia pouca base para grandes **desigualdades** de riqueza e para poder político hereditário; a organização tendia a ser **igualitária**, com liderança baseada em prestígio.
+:::
+
+**3.** Explique a importância das **armas de arremesso** (propulsor, arco e flecha) surgidas no Paleolítico Superior. O que elas mudaram na prática da caça?
+
+::: {.callout-tip collapse="true" title="Solução"}
+As armas de arremesso permitiram atacar a presa **à distância**, em vez de enfrentá-la de perto com lanças de mão. Isso (1) **aumentou a segurança** do caçador, reduzindo o risco de ferimentos ao lidar com animais grandes e perigosos; (2) **ampliou o alcance e a eficiência** da caça, permitindo abater presas velozes ou arredias; e (3) exigiu maior **planejamento e habilidade técnica** (o propulsor multiplica a força do braço; o arco armazena energia). Foram, portanto, um salto tecnológico que tornou a subsistência mais eficiente e menos arriscada.
+:::
+
+**4.** A arte rupestre é considerada uma das principais provas do pensamento simbólico paleolítico. Apresente **duas** hipóteses sobre sua função e explique o que, independentemente da função, essa arte demonstra sobre quem a produziu.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Duas hipóteses (entre outras): (1) **magia da caça** — representar o animal para garantir sucesso na caçada, uma forma de controle simbólico sobre o mundo; (2) **função ritual/xamânica** — ligada a cerimônias, iniciações e experiências religiosas; (também: registro/comunicação, expressão estética). Independentemente da função, a arte rupestre demonstra **capacidade de abstração, planejamento, domínio técnico e pensamento simbólico** — ou seja, mentes plenamente humanas, idênticas às nossas, capazes de representar o mundo e atribuir-lhe significados.
+:::
+
+**5.** Compare a associação tradicional (homem caça / mulher coleta) com as revisões recentes. Por que os historiadores hoje tratam essa divisão com mais cautela?
+
+::: {.callout-tip collapse="true" title="Solução"}
+A visão tradicional atribuía a caça de grandes animais aos homens e a coleta às mulheres, tomando essa divisão como natural e universal. As revisões recentes questionam isso por duas razões: (1) a **coleta** (majoritariamente feminina, na visão tradicional) fornecia **a maior parte das calorias**, o que contraria a ideia de que a caça masculina era o centro econômico; e (2) evidências arqueológicas e etnográficas mostram **mulheres caçadoras** em diversos grupos. Assim, a divisão sexual do trabalho existia, mas era mais **flexível e variável** do que o estereótipo sugeria — e parte da imagem antiga refletia mais os preconceitos dos pesquisadores (em geral homens) do que os dados. É um exemplo de como a **História plural** corrige o registro.
+:::
+
+**6.** (Estilo ENEM) Leia o texto.
+
+> Os caçadores-coletores estudados no século XX obtinham alimento suficiente trabalhando poucas horas por dia, dispondo de bastante tempo para o descanso e a vida social. Suas necessidades eram poucas e facilmente satisfeitas. Por isso, o antropólogo Marshall Sahlins chamou esses grupos de "a primeira sociedade da abundância".
+
+A tese de Sahlins, ao caracterizar as sociedades caçadoras-coletoras como "abundantes", tem como principal efeito
+
+**(a)** confirmar que a vida antes da agricultura era miserável e desesperada.
+**(b)** provar que os caçadores-coletores viviam em cidades organizadas.
+**(c)** questionar a ideia de que a história humana é uma marcha contínua de progresso material.
+**(d)** demonstrar que a agricultura foi adotada por ser mais fácil que a caça.
+**(e)** afirmar que esses grupos não conheciam nenhuma forma de arte ou religião.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (c).** Ao mostrar que os caçadores-coletores trabalhavam pouco e satisfaziam suas necessidades com facilidade, Sahlins **contesta a narrativa do progresso** segundo a qual cada etapa (agricultura, indústria) representaria automaticamente uma vida melhor. A "abundância" não vem de possuir muito, mas de **desejar pouco**.
+
+Erros: (a) é justamente a visão que Sahlins **combate**; (b) caçadores-coletores eram nômades, sem cidades; (d) a agricultura, ao contrário, trouxe **mais** trabalho, e não menos; (e) o texto nada diz que negue arte/religião — e sabemos que existiam.
+:::
+
+**7.** (Estilo vestibular — dissertativa) "A palavra *primitivo*, aplicada aos caçadores-coletores, é imprecisa e carregada de preconceito." Comente essa afirmação, mobilizando os conceitos de **anacronismo** e **teleologia**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Resposta esperada: chamar os caçadores-coletores de "primitivos" no sentido de **inferiores** ou **atrasados** comete dois erros. É **anacronismo** porque julga aquelas sociedades pelos padrões e valores do presente (a vida urbana, agrícola e tecnológica), como se elas devessem ser medidas por uma régua que não era a delas. E é **teleologia** porque supõe que a história caminha necessariamente rumo à "civilização", tratando o modo de vida caçador-coletor como mero degrau provisório rumo a um destino — quando, na verdade, ele foi uma forma de vida plena, bem-sucedida e duradoura (mais de 99% da nossa história), com saberes sofisticados, arte, religião e organização social próprios. Uma boa resposta deve explicitar os dois conceitos e concluir que "primitivo" só é aceitável em sentido **cronológico** ("o mais antigo"), nunca como juízo de valor sobre a capacidade daquelas pessoas.
+:::
+
+## Para saber mais {#sec-para-saber-mais-paleolitico}
+
+**Livros**
+
+- HARARI, Yuval Noah. *Sapiens* [@harari2015]. Os capítulos sobre a vida dos caçadores-coletores e a "revolução cognitiva" dialogam diretamente com este capítulo.
+- CHILDE, V. Gordon. *A evolução cultural do homem* [@childe1978]. Clássico que ajuda a situar o Paleolítico dentro da longa trajetória técnica da humanidade.
+- DIAMOND, Jared. *Armas, germes e aço* [@diamond2013]. Discute as vantagens e limites da vida caçadora-coletora frente à agricultura.
+
+**Filmes e documentários**
+
+- *A Caverna dos Sonhos Esquecidos* (2010), dir. Werner Herzog. Documentário deslumbrante sobre a gruta de Chauvet e suas pinturas de mais de 30 mil anos — a melhor porta de entrada visual para a arte rupestre.
+- *Altamira* (2016), dir. Hugh Hudson. Dramatiza a polêmica em torno da descoberta das pinturas de Altamira e a resistência da ciência do século XIX em aceitá-las.
