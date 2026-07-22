@@ -42,12 +42,12 @@
 
 | # | Capítulo | Arquivo | Status |
 |---|----------|---------|--------|
-| 1 | Hominização e evolução humana | `capitulos/vol02/cap01-hominizacao.qmd` | ⬜ |
-| 2 | O Paleolítico: caçadores-coletores | `capitulos/vol02/cap02-paleolitico.qmd` | ⬜ |
-| 3 | A Revolução Neolítica: agricultura e sedentarização | `capitulos/vol02/cap03-revolucao-neolitica.qmd` | ⬜ |
-| 4 | A Idade dos Metais e o surgimento das cidades | `capitulos/vol02/cap04-idade-dos-metais.qmd` | ⬜ |
-| 5 | Pré-História no Brasil e na América | `capitulos/vol02/cap05-pre-historia-brasil-america.qmd` | ⬜ |
-| 6 | Debates: povoamento, difusão e a noção de "pré-história" | `capitulos/vol02/cap06-debates-pre-historia.qmd` | ⬜ |
+| 1 | Hominização e evolução humana | `capitulos/vol02/cap01-hominizacao.qmd` | ✅ |
+| 2 | O Paleolítico: caçadores-coletores | `capitulos/vol02/cap02-paleolitico.qmd` | ✅ |
+| 3 | A Revolução Neolítica: agricultura e sedentarização | `capitulos/vol02/cap03-revolucao-neolitica.qmd` | ✅ |
+| 4 | A Idade dos Metais e o surgimento das cidades | `capitulos/vol02/cap04-idade-dos-metais.qmd` | ✅ |
+| 5 | Pré-História no Brasil e na América | `capitulos/vol02/cap05-pre-historia-brasil-america.qmd` | ✅ |
+| 6 | Debates: povoamento, difusão e a noção de "pré-história" | `capitulos/vol02/cap06-debates-pre-historia.qmd` | ✅ |
 
 ### Volume 3 — Antiguidade Oriental
 

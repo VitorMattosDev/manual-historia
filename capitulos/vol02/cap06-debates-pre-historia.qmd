@@ -1,5 +1,181 @@
 # Debates: povoamento, difusão e a noção de "pré-história" {#sec-debates-pre-historia}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Em 2018, um crânio guardado no Museu Nacional do Rio de Janeiro virou notícia mundial — não por uma descoberta, mas por uma tragédia. No incêndio que destruiu o museu, temeu-se que "**Luzia**", o esqueleto humano mais antigo das Américas (@sec-pre-historia-brasil-america), tivesse sido perdido para sempre. Semanas depois, veio o alívio: fragmentos do crânio foram resgatados dos escombros. O episódio revelou algo importante: um punhado de ossos de 12 mil anos pode mobilizar uma nação inteira, porque o que está em jogo não é só o passado — é **quem** conta a história, **como** e **com que palavras**. Este capítulo fecha o volume voltando-se para os próprios **debates** e as próprias **palavras** da Pré-História. Em vez de novos fatos, examinaremos as controvérsias que atravessaram todo o volume: quando o ser humano chegou à América? As ideias se espalharam ou se reinventaram? E faz sentido continuar chamando tudo isso de "pré-história"?
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- reconstruir o **debate do povoamento da América** (Clovis first × povoamento antigo; rota terrestre × costeira);
+- distinguir as teses **difusionista** e **evolucionista/independente** sobre a origem das técnicas e instituições;
+- analisar criticamente a noção de "**pré-história**" e as periodizações herdadas do século XIX;
+- compreender a Pré-História como um campo **científico vivo**, em que as interpretações mudam com novas fontes e tecnologias;
+- aplicar os conceitos de **anacronismo**, **eurocentrismo** e **construção do conhecimento** à leitura do passado remoto.
 :::
+
+## Debate 1: quando (e como) chegaram os primeiros americanos? {#sec-debate-povoamento}
+
+Nenhuma controvérsia da Pré-História americana é mais acesa do que a do **povoamento**. Recapitulemos as posições, agora frente a frente.
+
+De um lado, o modelo **"Clovis first"**, dominante até os anos 1990: os primeiros humanos teriam entrado pela **Beríngia** há cerca de **13 mil anos**, difundido a cultura Clovis (identificada por um tipo característico de ponta de lança) e povoado rapidamente as Américas. É um modelo **elegante e econômico**: uma entrada, uma rota, uma data.
+
+De outro lado, o modelo do **povoamento antigo** (ou "pré-Clovis"): achados na América do Sul — a **Serra da Capivara** (PI), com datações defendidas por Niède Guidon de mais de 30 mil anos [@guidon1986], e sítios como Monte Verde, no Chile (c. 14,5 mil anos) — sugerem presença humana **anterior** a Clovis. Some-se a hipótese da **rota costeira**: em vez de (ou além de) atravessar a pé o interior gelado, grupos teriam descido de **barco** pelo litoral do Pacífico, o que explicaria a chegada rápida ao sul e a antiguidade dos sítios sul-americanos.
+
+::: {.callout-note title="Conceito-chave: por que datar é tão difícil?"}
+A idade de um vestígio é estabelecida por métodos como a **datação por radiocarbono** (carbono-14), que mede o decaimento de um isótopo em restos orgânicos. Mas o método tem limites: funciona melhor até ~50 mil anos, pode ser **contaminado**, e é preciso provar que o material datado (carvão, osso) foi de fato produzido ou usado por **humanos**, e não por causas naturais (um incêndio florestal, por exemplo, também deixa carvão). Por isso o debate de Pedra Furada é tão árduo: discute-se se as "fogueiras" e "ferramentas" muito antigas seriam mesmo obra humana. Datar é interpretar — e interpretar admite divergência.
+:::
+
+Qual posição está certa? A honestidade científica manda dizer: **o debate continua aberto**. O consenso avançou no sentido de **abandonar a versão estrita de "Clovis first"** — quase ninguém hoje defende que nada é anterior a 13 mil anos —, mas não há acordo sobre **quão** antigo é o povoamento nem sobre as rotas exatas. Novas técnicas (análise de **DNA antigo**, datação de sedimentos) trazem dados a cada ano. Este é um exemplo perfeito de **ciência em construção**: você está estudando um problema que os pesquisadores ainda estão resolvendo.
+
+## Debate 2: as ideias se espalham ou se reinventam? {#sec-debate-difusao}
+
+Uma segunda grande controvérsia, mais teórica, atravessa toda a Pré-História mundial: quando duas sociedades distantes têm práticas semelhantes (agricultura, pirâmides, cerâmica), isso ocorre porque uma **ensinou** a outra ou porque cada uma **inventou** por conta própria?
+
+::: {#fig-difusao-independente}
+
+```{.tikz}
+%%| filename: fig-difusao-independente
+%%| alt: Esquema comparando o modelo difusionista (uma origem que se espalha) e o modelo de invenção independente (vários focos).
+\begin{tikzpicture}[>=stealth]
+  % Difusionismo
+  \node[align=center, font=\bfseries\small] at (3,4.4) {Difusionismo};
+  \node[ponto, fill=manualblue] (o) at (3,3.4) {};
+  \node[below, text=manualblue] at (3,3.25) {\scriptsize 1 origem};
+  \foreach \x in {1.2,2.4,3.6,4.8} {
+    \draw[vetor, manualblue] (o) -- (\x,2.0);
+    \node[ponto, fill=manualblue!40] at (\x,2.0) {};
+  }
+  \node[align=center] at (3,1.4) {\scriptsize a ideia \textbf{se espalha}\\\scriptsize a partir de um foco};
+
+  % linha divisória
+  \draw[gray, dashed] (6,1.0) -- (6,4.6);
+
+  % Invenção independente
+  \node[align=center, font=\bfseries\small] at (9.4,4.4) {Invenção independente};
+  \foreach \x in {7.6,8.8,10.0,11.2} {
+    \node[ponto, fill=manualgreen] at (\x,3.4) {};
+    \node[align=center, text=manualgreen!60!black] at (\x,2.8) {\scriptsize $\ast$};
+  }
+  \node[align=center] at (9.4,1.4) {\scriptsize cada sociedade \textbf{reinventa}\\\scriptsize por conta própria};
+\end{tikzpicture}
+```
+
+Dois modos de explicar semelhanças entre culturas distantes. A Pré-História real combina os dois — houve difusão **e** invenção independente, conforme o caso.
+:::
+
+O **difusionismo** foi muito forte no início do século XX. Em suas versões extremas, supunha que a "civilização" teria nascido num único lugar (com frequência apontava-se o Egito) e se **espalhado** dali para o resto do mundo — como se os demais povos fossem incapazes de inventar sozinhos. Essa visão, hoje se percebe, estava contaminada de **preconceito**: negava criatividade às sociedades não europeias.
+
+A posição hoje dominante é a da **invenção independente** (ligada ao evolucionismo cultural): como você viu no @sec-neolitico-plural, a **agricultura** surgiu de forma independente em pelo menos sete regiões, com plantas diferentes; a **escrita**, em pelo menos três (Suméria, China, Mesoamérica); a **metalurgia**, em vários pontos. Populações sem qualquer contato chegaram às mesmas soluções porque enfrentavam **problemas parecidos** com **capacidades mentais idênticas** — as de qualquer *Homo sapiens*.
+
+::: {.callout-important title="Nem tudo é um ou outro: o meio-termo"}
+Cuidado com o "ou tudo, ou nada". A verdade histórica é **mista**: houve, sim, muita **difusão** real (o alfabeto, por exemplo, se espalhou a partir dos fenícios; a agricultura do Crescente Fértil difundiu-se pela Europa), e houve muita **invenção independente** (o milho na América, o arroz na China). O erro do difusionismo clássico não foi acreditar em difusão — que existe —, mas **negar** aos povos não europeus a capacidade de criar. Cada caso deve ser avaliado com suas evidências: às vezes a semelhança revela contato; às vezes, apenas a inventividade comum da espécie humana.
+:::
+
+## Debate 3: a palavra "pré-história" ainda serve? {#sec-debate-pre-historia}
+
+Chegamos ao debate que dá nome ao capítulo — e que questiona o próprio rótulo deste volume. A expressão "**Pré-História**" foi cunhada no século XIX para nomear o período **anterior à escrita**. À primeira vista, é apenas técnica. Olhada de perto, carrega problemas sérios.
+
+O primeiro problema é o prefixo "**pré**". Ele sugere que aquilo seria um **antes** da história de verdade — uma sala de espera, um rascunho da humanidade. Mas, como vimos ao longo de todo o volume, os processos "pré-históricos" (a hominização, o domínio do fogo, a linguagem, a arte, a agricultura, as primeiras cidades) estão entre os **mais decisivos** de toda a trajetória humana. Chamar de "pré-história" o que dura mais de **99% do tempo** humano e nos constituiu como espécie é, no mínimo, desproporcional.
+
+O segundo problema é o **eurocentrismo**. Se "História" começa com a **escrita**, então os povos que não desenvolveram escrita — muitos povos africanos, indígenas americanos, da Oceania — ficariam eternamente na "pré-história", como se fossem povos "**sem história**" (@sec-historiografia-metais). Ora, isso é falso e injusto: esses povos têm histórias longas e complexas, registradas na **oralidade**, na **memória** e na **cultura material**. A régua da escrita foi definida a partir da experiência do Oriente Próximo e da Europa e transformada, indevidamente, em critério universal do que "conta" como História.
+
+::: {.callout-warning title="Controvérsia: manter, substituir ou ressignificar o termo?"}
+Diante desses problemas, os historiadores se dividem. Alguns **abandonam** o termo, falando em "**história indígena**", "**história antiga**" ou "**arqueologia**". Outros propõem alternativas como "**história sem escrita**" e "**história com escrita**", que preservam a distinção metodológica (o tipo de fonte) sem a carga de inferioridade do prefixo "pré". Outros ainda **mantêm** "Pré-História" por comodidade e tradição, mas **ressignificado** — deixando claro que é apenas um marco de **fontes**, não de valor. Este manual usa "Pré-História" nesse último sentido, sempre alertando para seus limites. O importante não é a palavra em si, mas a **consciência crítica** de que toda periodização é uma **construção** (@sec-o-que-e-historia), carregada da visão de quem a criou.
+:::
+
+## 🔎 Historiografia em Foco {#sec-historiografia-debates}
+
+Este capítulo é, por inteiro, um exercício de historiografia — então aqui aprofundamos a **lição de método** que dele se extrai, contrastando duas maneiras de encarar as controvérsias que estudamos.
+
+**A ciência como acúmulo de certezas.** Uma visão ingênua imagina a ciência (e a história) como uma escada em que cada geração acrescenta um degrau de **verdade definitiva** ao edifício do conhecimento: primeiro descobrimos X, depois Y, e assim por diante, sem voltar atrás. Nessa imagem, o debate seria um sinal de **atraso** — algo a ser eliminado assim que "a resposta certa" aparecesse. Quem pensa assim se incomoda com um livro que diz "não sabemos ao certo quando o ser humano chegou à América".
+
+**A ciência como construção revisável.** A visão mais madura — defendida por historiadores da ciência e coerente com tudo o que este manual sustenta — vê o conhecimento como uma **construção coletiva e provisória**, que avança justamente **pelo debate** e pela revisão. As mudanças que você acompanhou neste volume ilustram isso: a hipótese "Out of Africa" foi corrigida pelo **DNA neandertal** (@sec-historiografia-hominizacao); a imagem miserável do caçador-coletor foi contestada por **Sahlins** (@sec-historiografia-paleolitico); a agricultura-progresso foi relativizada pela **bioarqueologia** (@sec-historiografia-neolitica); "Clovis first" foi abalado por novos sítios. Em cada caso, **fontes novas** (fósseis, DNA, esqueletos, datações) e **perguntas novas** (influenciadas pelo presente de cada geração) reescreveram o que parecia estabelecido.
+
+**Por que essa diferença importa para você?** Porque ela muda o que significa "estudar História". Se o conhecimento fosse um estoque fixo de verdades, estudar seria **decorar** respostas. Como ele é uma construção em disputa, estudar é **aprender a avaliar interpretações**: quais evidências as sustentam? que perguntas as movem? de que época e lugar fala quem as propõe? O paleoantropólogo que insiste no "Clovis first" e a arqueóloga que defende Pedra Furada não são um "certo" e um "errado" a ser memorizados: são duas leituras que você deve saber **comparar**, entendendo as fontes e os limites de cada uma. Esse é o pensamento histórico que este manual quer formar — e que retornará em cada volume, dos faraós ao mundo contemporâneo. A Pré-História, longe de ser o capítulo "mais fácil" e "mais distante", é onde melhor se aprende que **a História é uma pergunta viva, não uma lista de respostas mortas**.
+
+::: {.callout-tip title="Síntese do volume: cinco lições que ficam"}
+1. A humanidade é **jovem** e **africana**: surgimos há pouco, num só continente, e nos espalhamos depois.
+2. Somos, quase todo o tempo, **caçadores-coletores**: a vida agrícola e urbana é recentíssima.
+3. A **agricultura** e a **cidade** trouxeram excedente, complexidade e desigualdade — progresso e custo ao mesmo tempo.
+4. "Sem escrita" **não** é "sem história": todos os povos, inclusive os do Brasil pré-1500, são sujeitos históricos.
+5. A Pré-História é **ciência viva**: suas grandes questões estão em aberto, e as respostas mudam com novas fontes e perguntas.
+:::
+
+## Resumo do capítulo {#sec-resumo-debates}
+
+- O **debate do povoamento da América** opõe o modelo **"Clovis first"** (entrada única pela Beríngia há ~13 mil anos) ao **povoamento antigo/pré-Clovis** (sítios como Serra da Capivara e Monte Verde sugerem datas anteriores) e à hipótese da **rota costeira** (de barco, pelo Pacífico). O consenso abandonou a versão estrita de "Clovis first", mas o problema **segue aberto**.
+- **Datar é interpretar**: o radiocarbono tem limites e exige provar que o vestígio é de origem **humana** — daí as divergências.
+- **Difusionismo** (as técnicas nascem num lugar e se espalham) × **invenção independente** (cada sociedade reinventa). A posição atual valoriza a **invenção independente** (agricultura, escrita e metalurgia surgiram em vários focos), mas reconhece que houve **também** difusão real. O difusionismo clássico errou ao **negar criatividade** aos povos não europeus.
+- A noção de "**Pré-História**" é criticada por dois motivos: o prefixo "**pré**" rebaixa o período mais longo e formador da humanidade; e o critério da **escrita** é **eurocêntrico**, deixando povos de tradição oral como supostos "sem história". Alternativas: "história sem/com escrita", "história indígena". Este manual mantém o termo, mas **ressignificado** (marco de fontes, não de valor).
+- **Lição de método:** a História (e a ciência) é uma **construção revisável**, que avança pelo **debate** e pela revisão à luz de **novas fontes** e **novas perguntas**. Estudar História é aprender a **comparar interpretações**, não decorar respostas.
+
+## Exercícios {#sec-exercicios-debates}
+
+**1.** Compare os modelos "**Clovis first**" e "**povoamento antigo**". Que tipo de evidência sustenta cada um e por que o debate ainda não foi encerrado?
+
+::: {.callout-tip collapse="true" title="Solução"}
+O modelo "**Clovis first**" sustenta uma **entrada única** pela Beríngia há cerca de **13 mil anos**, apoiando-se na ampla distribuição das pontas Clovis na América do Norte e na aparente ausência de sítios mais antigos bem aceitos. O modelo do "**povoamento antigo**" (pré-Clovis) aponta **sítios sul-americanos** com datações mais recuadas — Serra da Capivara (PI), Monte Verde (Chile) — e admite **rotas costeiras** (de barco). O debate não se encerrou porque **datar é difícil e interpretativo**: é preciso provar que os vestígios muito antigos (carvão, "ferramentas") são de origem **humana**, e não natural, e as técnicas de datação têm limites e margens de erro. Novas evidências (DNA antigo, novas datações) surgem a cada ano, mantendo a questão em aberto.
+:::
+
+**2.** Explique a diferença entre **difusionismo** e **invenção independente**. Dê um exemplo histórico de cada um.
+
+::: {.callout-tip collapse="true" title="Solução"}
+O **difusionismo** explica semelhanças entre culturas distantes supondo que uma técnica ou instituição nasceu em **um lugar** e se **espalhou** para os demais por contato. A **invenção independente** explica as mesmas semelhanças supondo que **cada sociedade** desenvolveu a solução por conta própria, ao enfrentar problemas parecidos com capacidades mentais idênticas. Exemplos: **difusão** — o **alfabeto**, que se espalhou a partir dos fenícios; ou a agricultura do Crescente Fértil, difundida pela Europa. **Invenção independente** — o cultivo do **milho** na Mesoamérica e do **arroz** na China, domesticados sem qualquer contato entre si; ou a escrita, criada separadamente na Suméria, na China e na Mesoamérica.
+:::
+
+**3.** Por que o difusionismo, em suas versões extremas do início do século XX, é considerado uma teoria **preconceituosa**?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque, ao supor que a "civilização" teria nascido em **um único lugar** (com frequência o Egito ou o Oriente Próximo) e se espalhado dali para o mundo, o difusionismo extremo **negava aos demais povos** — especialmente os não europeus — a **capacidade de inventar** por conta própria. Implicitamente, tratava a maioria da humanidade como passiva e incapaz de criatividade, apenas receptora de ideias alheias. Essa visão refletia o **eurocentrismo** e o clima **colonialista** da época, servindo para hierarquizar culturas. As evidências de **invenção independente** (agricultura, escrita e metalurgia surgindo em vários focos) desmentem essa premissa e restituem a criatividade a todos os povos.
+:::
+
+**4.** A expressão "Pré-História" é criticada por dois motivos principais. Explique cada um.
+
+::: {.callout-tip collapse="true" title="Solução"}
+(1) **O prefixo "pré"**: sugere que o período seria um mero "antes" da história verdadeira — uma antecâmara ou rascunho —, quando, na realidade, ele abrange os processos **mais longos e formadores** da humanidade (hominização, fogo, linguagem, arte, agricultura, primeiras cidades) e corresponde a mais de **99%** do tempo humano. É desproporcional rebaixar assim o período mais decisivo.
+
+(2) **O eurocentrismo do critério da escrita**: definir "História" como o período posterior à **escrita** deixa os povos de tradição **oral** (muitos africanos, indígenas, da Oceania) eternamente na "pré-história", como se fossem "sem história". Isso é falso — esses povos têm histórias ricas registradas na oralidade e na cultura material — e reproduz um preconceito que serviu ao colonialismo. A régua da escrita, criada a partir da experiência europeia e do Oriente Próximo, foi indevidamente universalizada.
+:::
+
+**5.** "A afirmação 'não sabemos ao certo quando o ser humano chegou à América' é um sinal de fraqueza da ciência." Você concorda? Justifique com base na ideia de **construção do conhecimento**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Não. A afirmação é um sinal de **honestidade** e de **maturidade** científica, não de fraqueza. O conhecimento histórico e científico é uma **construção coletiva e provisória**, que avança pelo **debate** e pela **revisão** à luz de novas evidências. Reconhecer o que ainda **não** se sabe — e explicitar as hipóteses em disputa — é mais rigoroso do que fingir uma certeza que os dados não sustentam. A própria história da questão mostra isso: o modelo "Clovis first" parecia sólido e foi revisado diante de novos sítios e técnicas (como o DNA antigo). A ciência forte é aquela que **assume suas incertezas** e continua investigando, não a que esconde as divergências sob falsas certezas.
+:::
+
+**6.** (Estilo ENEM) Leia o texto.
+
+> Durante muito tempo, acreditou-se que a agricultura, a escrita e a metalurgia haviam sido inventadas em um único centro e, dali, transmitidas ao restante do mundo. As pesquisas posteriores mostraram, porém, que essas inovações surgiram de maneira independente em diferentes regiões, cada uma com seus próprios cultivos, sinais e técnicas.
+
+A superação da explicação baseada em um "único centro" inventor permite concluir que
+
+**(a)** nenhuma técnica jamais se espalhou de um povo para outro.
+**(b)** apenas os povos do Oriente Próximo foram capazes de inovar.
+**(c)** diferentes sociedades humanas possuíam capacidade criativa semelhante.
+**(d)** a escrita foi inventada antes da agricultura em todo o mundo.
+**(e)** as semelhanças entre culturas provam sempre que houve contato entre elas.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (c).** Se agricultura, escrita e metalurgia surgiram **independentemente** em várias regiões, isso demonstra que **diferentes povos tinham capacidade criativa semelhante** — nenhum deles era "incapaz de inventar", como supunha o difusionismo extremo.
+
+Erros: (a) exagera — houve, sim, difusão em muitos casos (ex.: o alfabeto); (b) é justamente o preconceito que o texto refuta; (d) a cronologia real é a inversa (agricultura antes da escrita) e varia por região; (e) semelhança **nem sempre** prova contato — pode resultar de invenção independente, que é o ponto do texto.
+:::
+
+**7.** (Estilo vestibular — dissertativa) Ao longo deste volume, várias "certezas" sobre a Pré-História foram revistas (a origem do *Homo sapiens*, a vida dos caçadores-coletores, os efeitos da agricultura, o povoamento da América). Redija um texto explicando o que esses casos, em conjunto, ensinam sobre a **natureza do conhecimento histórico**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Resposta esperada: os casos citados mostram que o conhecimento histórico é uma **construção coletiva, provisória e revisável**, e não um conjunto de verdades fixas. Em cada exemplo, uma interpretação consolidada foi **corrigida** pela chegada de **novas fontes** e pela formulação de **novas perguntas**: o modelo "Out of Africa" foi ajustado pelo **DNA neandertal**; a imagem miserável do caçador-coletor foi contestada pela etnografia (**Sahlins**); a agricultura-progresso foi relativizada pela **bioarqueologia**; o "Clovis first" foi abalado por novos sítios sul-americanos e pela hipótese costeira. Isso não indica fragilidade da ciência, mas seu **método**: a História avança pelo **debate**, pela crítica das fontes e pela disposição de revisar o que se pensava saber. Além disso, cada interpretação é **filha de seu tempo** — reflete as perguntas e preocupações de quem a formula. Conclui-se que estudar História não é **decorar respostas prontas**, mas aprender a **comparar interpretações**, avaliar as evidências que as sustentam e reconhecer que o passado é uma **pergunta sempre aberta**. Uma boa resposta deve articular: caráter provisório/revisável do conhecimento, papel de novas fontes e perguntas, exemplos do volume e a conclusão metodológica sobre o que é estudar História.
+:::
+
+## Para saber mais {#sec-para-saber-mais-debates}
+
+**Livros**
+
+- NEVES, Walter; PILÓ, Luís Beethoven. *O povo de Luzia* [@nevesPilo2008]. Acompanha, por dentro, o debate científico sobre o povoamento da América.
+- PROUS, André. *O Brasil antes dos brasileiros* [@prous2006]. Discute com equilíbrio as controvérsias da arqueologia brasileira, incluindo Pedra Furada.
+- DIAMOND, Jared. *Armas, germes e aço* [@diamond2013]. Um grande argumento contra o difusionismo racista: explica as diferenças entre povos por fatores **geográficos**, não por capacidade.
+- LE GOFF, Jacques. *História e memória* [@leGoff2013]. Sobre como as periodizações (inclusive "Pré-História") são construções historicamente situadas.
+
+**Filmes e documentários**
+
+- Documentários sobre o incêndio do **Museu Nacional** (2018) e o resgate de **Luzia**: mostram por que o passado remoto ainda mobiliza tanto o presente.
+- *A Caverna dos Sonhos Esquecidos* (2010), dir. Werner Herzog: encerra o volume lembrando, diante das pinturas de Chauvet, quanto ainda há para compreender sobre quem fomos.
