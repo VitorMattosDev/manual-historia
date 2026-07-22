@@ -1,5 +1,185 @@
 # Pré-História no Brasil e na América {#sec-pre-historia-brasil-america}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+No sertão do Piauí, na **Serra da Capivara**, paredões de arenito guardam mais de mil sítios arqueológicos e dezenas de milhares de pinturas rupestres: caçadores empunhando lanças, casais, danças em roda, uma cena de parto, fileiras de figuras que parecem celebrar algo que já não sabemos nomear. Algumas dessas imagens têm milhares de anos. Elas nos obrigam a uma pergunta que ainda divide os cientistas: **há quanto tempo há gente na América?** E, no caso do Brasil, quem eram esses povos, como viviam e por que sua história costuma ser ignorada ou reduzida a uma nota de rodapé antes de 1500? Este capítulo recupera a longa história humana do continente americano e do território que hoje é o Brasil — uma história de dezenas de milhares de anos, protagonizada pelos ancestrais dos povos indígenas, e cujo estudo é hoje uma exigência legal e ética (Lei 11.645/2008).
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- explicar as principais hipóteses sobre o **povoamento da América** e por que elas são debatidas;
+- situar no tempo e no espaço os sítios arqueológicos mais importantes do Brasil (**Serra da Capivara**, **Lagoa Santa**, sambaquis);
+- descrever a diversidade dos povos que habitavam o Brasil às vésperas de 1500 (troncos **tupi** e **macro-jê**, entre outros);
+- reconhecer a **cultura material** (sambaquis, cerâmica, pinturas) como fonte para a história dos povos sem escrita;
+- compreender por que a história indígena anterior à chegada europeia é parte constitutiva — e não apêndice — da história do Brasil.
 :::
+
+## Como o ser humano chegou à América? {#sec-povoamento-america}
+
+A América foi o **último grande continente** povoado pelo *Homo sapiens* — não havia hominídeos anteriores por aqui, de modo que todos os povos americanos descendem de migrantes vindos de fora, sobretudo da Ásia. O **como** e o **quando** dessa chegada, porém, estão longe de ser consenso.
+
+A hipótese mais tradicional é a do **estreito de Bering**. Durante a última Era Glacial, boa parte da água do planeta estava presa em geleiras, e o nível do mar era muito mais baixo. Isso deixou exposta uma ponte de terra, a **Beríngia**, ligando a Sibéria ao Alasca. Por ali, caçadores asiáticos teriam passado a pé, seguindo rebanhos, e depois descido pelo continente. A versão clássica dessa teoria, chamada "**Clóvis first**" (por causa do sítio de Clovis, nos EUA), datava essa entrada em cerca de **13 mil anos atrás**.
+
+::: {#fig-rotas-povoamento}
+
+```{.tikz}
+%%| filename: fig-rotas-povoamento
+%%| alt: Mapa esquemático das rotas de povoamento da América, da Beríngia ao sul do continente, com sítios brasileiros.
+\begin{tikzpicture}[>=stealth]
+  \draw[eixo, rounded corners] (0,0) rectangle (8.5,6);
+  \node[eixo, gray] at (6.7,5.7) {\scriptsize esquemático (fora de escala)};
+
+  % Ásia / Beríngia
+  \node[ponto] at (0.8,5.4) {};
+  \node[right, text=manualblue] at (1.0,5.4) {\scriptsize Sibéria (Ásia)};
+  \node[ponto] at (2.0,5.2) {};
+  \node[below, text=manualblue] at (2.0,5.05) {\scriptsize Beríngia};
+
+  % rota principal descendo
+  \draw[vetor, manualblue, very thick] (2.0,5.2) to[bend left=15] (3.0,3.6);
+  \draw[vetor, manualblue, very thick] (3.0,3.6) to[bend right=20] (4.2,1.0);
+
+  % América do Norte
+  \node[align=center] at (3.2,4.2) {\scriptsize América\\\scriptsize do Norte};
+  % sítio Clovis (EUA)
+  \node[ponto, fill=manualgray] at (3.0,3.6) {};
+  \node[right, text=gray] at (3.1,3.6) {\scriptsize Clóvis (EUA)};
+
+  % Brasil
+  \node[align=center] at (5.6,2.2) {\scriptsize América\\\scriptsize do Sul};
+  \node[ponto, fill=manualred] at (5.4,3.1) {};
+  \node[right, text=manualred] at (5.5,3.1) {\scriptsize Serra da Capivara (PI)};
+  \node[ponto, fill=manualred] at (5.2,2.2) {};
+  \node[right, text=manualred] at (5.3,2.2) {\scriptsize Lagoa Santa (MG)};
+  \node[ponto, fill=manualgreen] at (5.0,1.2) {};
+  \node[right, text=manualgreen!60!black] at (5.1,1.2) {\scriptsize sambaquis (litoral S/SE)};
+
+  \draw[vetor, manualred, thick] (4.2,1.0) to[bend left=10] (5.2,2.2);
+\end{tikzpicture}
+```
+
+Rota clássica de povoamento (Beríngia → sul) e principais sítios brasileiros. Hipóteses recentes propõem entradas **mais antigas** e também rotas **costeiras**, de barco, ao longo do Pacífico.
+:::
+
+Essa versão clássica, porém, foi abalada. Achados na própria América do Sul — inclusive no Brasil — sugerem presença humana **anterior** a 13 mil anos, o que criou o **debate do povoamento** (que aprofundaremos no @sec-debates-pre-historia): teria havido entradas mais antigas? Por rotas **costeiras**, de barco, além da terrestre? A tendência atual reconhece que o povoamento foi **mais antigo, mais diverso e mais complexo** do que a teoria "Clovis first" admitia — embora o consenso sobre datas muito recuadas ainda não exista.
+
+## Os sítios do Brasil profundo {#sec-sitios-brasil}
+
+O território brasileiro guarda alguns dos sítios mais importantes — e polêmicos — das Américas.
+
+**Serra da Capivara (Piauí).** Estudada desde os anos 1970 pela arqueóloga **Niède Guidon** (1933–2025), é hoje Patrimônio Mundial da UNESCO e abriga a maior concentração de arte rupestre das Américas. No sítio do **Boqueirão da Pedra Furada**, Guidon defendeu datações que chegam a **mais de 30 mil anos** [@guidon1986], desafiando frontalmente a teoria de que os humanos só chegaram há 13 mil. Essas datas são contestadas por parte da comunidade científica (que discute se as "ferramentas" e vestígios de fogo seriam mesmo de origem humana), mas as pinturas mais recentes e a longa ocupação do local são inquestionáveis.
+
+**Lagoa Santa (Minas Gerais).** Nessa região de cavernas calcárias, pesquisas iniciadas no século XIX pelo naturalista dinamarquês Peter Lund encontraram esqueletos humanos muito antigos associados a animais já extintos. O mais célebre é o crânio de "**Luzia**", com cerca de **11 a 12 mil anos**, um dos esqueletos humanos mais antigos das Américas. O estudo de Luzia pelo bioantropólogo **Walter Neves** [@nevesPilo2008] alimentou o debate sobre a existência de **mais de uma leva** de povoamento, com características físicas distintas — outra controvérsia em aberto.
+
+**Os sambaquis do litoral.** Ao longo da costa do Sul e do Sudeste, sobretudo entre 8 mil e 2 mil anos atrás, grupos de pescadores-coletores construíram os **sambaquis**: enormes montes formados por camadas e camadas de conchas, ossos de peixe, restos de fogueiras e **sepultamentos** humanos [@gaspar2003]. Alguns têm dezenas de metros de altura e resultaram do acúmulo ao longo de milhares de anos. Não eram meros "lixões": muitos funcionavam como **monumentos funerários** e marcos territoriais, sinal de sociedades numerosas, sedentárias e com vida ritual complexa — bem diferentes da imagem do "índio errante e primitivo".
+
+::: {.callout-note title="Conceito-chave: cultura material e a história dos povos sem escrita"}
+Como estudar a história de povos que **não** deixaram documentos escritos? Pela **cultura material**: tudo o que fizeram e deixaram — ferramentas de pedra, cerâmica, pinturas, restos de alimentos, ossos, sepultamentos, os próprios sambaquis. A **arqueologia** interroga esses vestígios (quando? como viviam? o que comiam? em que acreditavam?), muitas vezes em diálogo com a **memória oral** dos povos indígenas atuais. É a prova viva de que "sem escrita" não significa "sem história" (@sec-escrita).
+:::
+
+## Os povos do Brasil às vésperas de 1500 {#sec-povos-1500}
+
+Quando as caravelas portuguesas chegaram, em 1500, o território que viria a se chamar Brasil **não** era um vazio à espera de ser "descoberto". Era habitado por uma população estimada, pelas pesquisas mais recentes, em **milhões** de pessoas (as estimativas variam muito, de 1 a mais de 5 milhões), distribuídas em **centenas de povos**, falando mais de mil línguas diferentes. Chamar todos de "índios" — nome que nasce de um equívoco de Colombo, que julgava ter chegado às Índias — apaga uma diversidade imensa.
+
+Os historiadores e linguistas costumam agrupar esses povos em grandes **troncos linguísticos**, entre os quais se destacam:
+
+- o tronco **Tupi** (com a família tupi-guarani), de povos como os **Tupinambá** e **Tupiniquim**, que ocupavam boa parte do litoral e foram os primeiros a ter contato intenso com os portugueses;
+- o tronco **Macro-Jê**, de povos do interior e dos planaltos, como os **Kaingang** e os **Xavante**;
+- além de numerosas famílias e povos isolados, sobretudo na Amazônia, como os de línguas **Aruák**, **Karíb** e **Pano**.
+
+::: {.callout-important title="Armadilha comum: povos indígenas não eram 'todos iguais' nem 'parados no tempo'"}
+Dois erros frequentes: (1) tratar os indígenas como um bloco homogêneo — quando havia enorme **diversidade** de línguas, economias e organizações sociais, de pequenos grupos caçadores a sociedades agrícolas populosas; (2) imaginá-los como sociedades "sem história", "congeladas" antes de 1500 — quando esses povos **tinham** uma longa história de migrações, guerras, alianças, trocas e transformações culturais. A arqueologia amazônica, por exemplo, revela grandes aldeias, terras cultivadas (a fértil **terra preta de índio**) e manejo florestal sofisticado, indicando sociedades muito mais complexas e numerosas do que se pensava.
+:::
+
+A maioria desses povos praticava uma agricultura de **coivara** (roça combinada com queimada controlada), cultivando sobretudo a **mandioca**, além de milho, feijão, batata-doce e tabaco, complementada por caça, pesca e coleta. Viviam em aldeias, organizados por parentesco, com liderança política em geral pouco centralizada e rica vida ritual. Essa é a história que a chegada europeia interromperia violentamente — tema dos volumes sobre a América colonial e o Brasil Colônia. Mas guarde o ponto central: **a história do Brasil não começa em 1500**. Ela tem milhares de anos, e seus primeiros protagonistas são os povos indígenas.
+
+## 🔎 Historiografia em Foco {#sec-historiografia-brasil-america}
+
+Quando começa a história do território brasileiro — e de quem é o protagonismo dessa história? A resposta mudou radicalmente, e o contraste entre a historiografia tradicional e a atual é revelador.
+
+**A visão tradicional: a história do Brasil "começa" com os portugueses.** Durante quase todo o século XX, os manuais escolares e boa parte da historiografia tratavam o período anterior a 1500 como uma espécie de **antecâmara** irrelevante — mencionavam os "índios" de passagem, muitas vezes de forma genérica e estereotipada ("nômades", "primitivos", "canibais"), e faziam a história "de verdade" começar com a **chegada dos portugueses** e a escrita europeia. O indígena aparecia como **objeto** (aquilo que foi encontrado, catequizado ou combatido), não como **sujeito** com história própria. Essa visão refletia tanto o **eurocentrismo** quanto a antiga divisão que só reconhecia como história o que estivesse documentado por escrito (@sec-escrita) — e servia, ainda, para naturalizar a colonização como um "início".
+
+**A revisão atual: milhares de anos de história indígena.** A partir do avanço da **arqueologia brasileira** (com nomes como **André Prous** [@prous2006; @prous1992] e **Niède Guidon**), da **etno-história** e da **história indígena**, essa moldura ruiu. Hoje se afirma que o território brasileiro tem uma história humana de **pelo menos 12 mil anos** — possivelmente muito mais —, protagonizada por povos diversos, criativos e em constante transformação. Pesquisadores como **Pedro Paulo Funari** e **Francisco Noelli** [@funariNoelli2018] mostram como a cultura material (sambaquis, cerâmicas, pinturas, terra preta) permite reconstruir essa história longa. O indígena deixa de ser cenário e volta a ser **sujeito histórico**. Essa virada não é só acadêmica: ela se traduziu na **Lei 11.645/2008**, que tornou obrigatório o ensino de história e cultura indígena nas escolas — reconhecendo que uma história do Brasil que ignore seus primeiros habitantes é **factualmente incompleta**, como argumentamos desde o @sec-sujeito-historico.
+
+**Por que a interpretação mudou?** Por três razões que se somam. Primeiro, **fontes novas**: décadas de escavações produziram evidências que antes não existiam. Segundo, **perguntas novas**: influenciada pela Nova História e pela crítica ao eurocentrismo, uma geração de historiadores passou a **perguntar** pelos silenciados, e não só pelos colonizadores. Terceiro, o **presente** de quem pesquisa: o fortalecimento do movimento indígena e das lutas por direitos, sobretudo após a Constituição de 1988, deu urgência e legitimidade a essa história. Como sempre, novas fontes, novas perguntas e um novo contexto reescreveram o passado (@sec-oficio-do-historiador).
+
+::: {.callout-warning title="Cuidado com as fontes: quem descreveu os indígenas em 1500?"}
+Quase tudo o que sabemos sobre os povos indígenas no momento do contato vem de fontes **europeias** — cartas (como a de Pero Vaz de Caminha), crônicas de viajantes, relatos de missionários. São fontes preciosas, mas **enviesadas**: escritas por estrangeiros que não falavam as línguas, tinham interesses (comerciais, religiosos, coloniais) e enxergavam os indígenas pela lente de seus próprios preconceitos (daí o exagero sobre o "canibalismo", por exemplo). O historiador precisa **cruzar** essas fontes com a **arqueologia** e com o conhecimento dos próprios povos indígenas atuais para não repetir, sem crítica, o olhar do colonizador.
+:::
+
+## Resumo do capítulo {#sec-resumo-brasil-america}
+
+- A América foi o **último grande continente** povoado pelo *Homo sapiens*; todos os povos americanos descendem de migrantes, sobretudo asiáticos. A rota clássica é a da **Beríngia** (estreito de Bering), na última Era Glacial.
+- A teoria "**Clovis first**" (entrada há ~13 mil anos) foi contestada por achados sul-americanos que sugerem povoamento **mais antigo** e por **rotas costeiras** — debate ainda em aberto (@sec-debates-pre-historia).
+- Sítios brasileiros fundamentais: **Serra da Capivara** (PI; arte rupestre e datações polêmicas de Niède Guidon), **Lagoa Santa** (MG; o crânio de "**Luzia**", ~11–12 mil anos, estudado por Walter Neves) e os **sambaquis** do litoral S/SE (montes de conchas e sepultamentos de pescadores-coletores).
+- A **cultura material** e a **arqueologia** permitem reconstruir a história de povos **sem escrita** — prova de que "sem escrita" não é "sem história".
+- Em 1500, o território abrigava **milhões** de pessoas em **centenas de povos** e mais de mil línguas, agrupados em troncos como o **Tupi** e o **Macro-Jê**. Praticavam agricultura de coivara (mandioca, milho), caça, pesca e coleta, com rica vida social e ritual. **Não** eram homogêneos nem "parados no tempo".
+- Historiograficamente, superou-se a ideia de que "a história do Brasil começa em 1500": hoje se reconhece uma história indígena de **milhares de anos**, fruto de **novas fontes**, **novas perguntas** e do **movimento indígena** — reconhecimento consagrado pela **Lei 11.645/2008**.
+
+## Exercícios {#sec-exercicios-brasil-america}
+
+**1.** Explique a hipótese do povoamento da América pelo **estreito de Bering** e por que ela só foi possível durante a Era Glacial.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Segundo essa hipótese, grupos de caçadores asiáticos teriam entrado na América vindos da **Sibéria**, atravessando para o **Alasca**. Isso só foi possível porque, durante a última **Era Glacial**, grande parte da água estava retida em geleiras, o que **rebaixou o nível dos mares** e expôs uma ponte de terra, a **Beríngia**, onde hoje há o estreito de Bering. Por essa passagem seca, seguindo rebanhos de caça, os migrantes teriam entrado no continente e, ao longo de milhares de anos, descido até o extremo sul. Com o fim da glaciação e a subida do mar, a ponte submergiu.
+:::
+
+**2.** Por que a teoria "Clovis first" foi questionada? O que sítios brasileiros têm a ver com isso?
+
+::: {.callout-tip collapse="true" title="Solução"}
+A teoria "**Clovis first**" afirmava que os primeiros americanos chegaram há cerca de **13 mil anos** e que nenhuma ocupação seria anterior a isso. Ela foi questionada porque surgiram evidências de presença humana **mais antiga**, sobretudo na América do Sul. No Brasil, a **Serra da Capivara** (PI), estudada por Niède Guidon, apresentou datações que chegam a **mais de 30 mil anos**, e o crânio de **Luzia**, em Lagoa Santa (MG), tem cerca de 11–12 mil anos. Esses achados sugerem que o povoamento pode ter sido **mais antigo e mais diverso** (inclusive por rotas costeiras) do que a teoria clássica admitia — embora as datas mais recuadas ainda sejam contestadas.
+:::
+
+**3.** O que são os **sambaquis** e por que eles desmentem a imagem do "índio nômade e primitivo"?
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Sambaquis** são grandes montes construídos ao longo do litoral Sul e Sudeste, entre cerca de 8 mil e 2 mil anos atrás, formados por camadas acumuladas de **conchas**, ossos de peixe, restos de fogueiras e **sepultamentos** humanos. Eles desmentem a imagem do "índio nômade e primitivo" porque revelam grupos de **pescadores-coletores relativamente sedentários**, numerosos, que ocupavam o mesmo local por **milhares de anos** e ali enterravam seus mortos — usando os sambaquis como **monumentos funerários** e marcos territoriais. Isso indica sociedades com organização social, vida ritual complexa e forte ligação com o território, muito distantes do estereótipo do grupo errante e simples.
+:::
+
+**4.** Como é possível estudar a história de povos que **não** deixaram documentos escritos? Explique o papel da cultura material e da arqueologia.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Estuda-se pela **cultura material**: o conjunto de objetos e vestígios que esses povos produziram e deixaram — ferramentas de pedra, **cerâmica**, **pinturas rupestres**, restos de alimentos, ossos, sepultamentos, sambaquis, aldeias. A **arqueologia** é a ciência que escava, analisa e **interpreta** esses vestígios, respondendo a perguntas sobre quando viveram, o que comiam, como se organizavam e em que acreditavam. Muitas vezes ela dialoga com a **memória oral** dos povos indígenas atuais e com fontes escritas posteriores. Assim, a ausência de escrita não impede o conhecimento histórico: apenas exige **outros tipos de fonte** e métodos — o que confirma que povos sem escrita **têm** história.
+:::
+
+**5.** Explique por que chamar todos os povos que viviam no Brasil em 1500 de "índios" é problemático. O que essa palavra apaga?
+
+::: {.callout-tip collapse="true" title="Solução"}
+O termo "índio" nasce de um **equívoco**: Cristóvão Colombo, ao chegar à América em 1492, julgava ter alcançado as **Índias** (Ásia) e chamou seus habitantes de "índios". Aplicá-lo a todos os povos do Brasil é problemático porque **homogeneíza** uma realidade extremamente **diversa**: havia **centenas de povos**, falando mais de mil línguas, agrupados em troncos distintos (Tupi, Macro-Jê e outros), com economias, organizações sociais e culturas muito diferentes entre si. A palavra apaga essa **diversidade** e trata como bloco único povos que se viam como distintos (e muitas vezes rivais). Por isso, hoje se prefere usar os **nomes específicos** de cada povo (Tupinambá, Kaingang, Xavante etc.) ou o termo "povos indígenas", no plural.
+:::
+
+**6.** (Estilo ENEM) Leia o texto.
+
+> As pesquisas arqueológicas das últimas décadas revelaram, no território brasileiro, sítios com pinturas rupestres, sepultamentos e vestígios de ocupação humana com milhares de anos de idade. Diante disso, tornou-se insustentável a ideia de que a história do Brasil teria começado com a chegada dos portugueses em 1500.
+
+O texto permite concluir que a chegada dos portugueses ao território brasileiro representou
+
+**(a)** o início absoluto da presença humana no território.
+**(b)** o encontro com povos que já habitavam a região havia milhares de anos.
+**(c)** a descoberta de uma terra completamente desabitada.
+**(d)** a prova de que os povos indígenas não possuíam nenhuma cultura.
+**(e)** a comprovação de que a escrita já existia entre os povos indígenas.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (b).** As evidências arqueológicas (pinturas, sepultamentos, ocupação de milhares de anos) mostram que os portugueses **encontraram** povos que já viviam ali havia muito tempo — a colonização foi um **encontro** (violento), não um "início" da história do território.
+
+Erros: (a) e (c) negam a longa ocupação indígena comprovada; (d) é um preconceito, contrariado pela rica cultura material; (e) os povos do Brasil eram de tradição **oral**, não tinham escrita — o que não os torna "sem história".
+:::
+
+**7.** (Estilo vestibular — dissertativa) Explique por que se afirma que "a história do Brasil não começa em 1500", relacionando essa afirmação com o conceito de **sujeito histórico** e com a Lei 11.645/2008.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Resposta esperada: a afirmação se sustenta porque o território brasileiro foi habitado por povos indígenas há **pelo menos 12 mil anos** (sítios como Serra da Capivara, Lagoa Santa e os sambaquis comprovam ocupação, arte e vida ritual muito anteriores a 1500). Esses povos são **sujeitos históricos** plenos (@sec-sujeito-historico): agiram, criaram, migraram, guerrearam, cultivaram e transformaram o ambiente e suas culturas ao longo de milênios — não eram cenário passivo à espera dos europeus. Fazer a história do Brasil "começar" com os portugueses reduz os indígenas a **objeto** (o que foi "encontrado") e comete um erro de **rigor**, pois omite a maior parte da história humana do território. A **Lei 11.645/2008**, que tornou obrigatório o ensino de história e cultura indígena, responde a esse problema: reconhece os povos originários como parte **constitutiva** da história nacional e busca corrigir séculos de silenciamento. Uma boa resposta deve articular: a longa ocupação pré-1500 (com exemplos), a noção de indígena como sujeito histórico e o sentido reparador e de rigor da Lei 11.645/2008.
+:::
+
+## Para saber mais {#sec-para-saber-mais-brasil-america}
+
+**Livros**
+
+- PROUS, André. *O Brasil antes dos brasileiros: a pré-história do nosso país* [@prous2006]. Síntese acessível e atualizada da arqueologia brasileira por um de seus maiores nomes.
+- FUNARI, Pedro Paulo; NOELLI, Francisco. *Pré-história do Brasil* [@funariNoelli2018]. Panorama didático dos povos e culturas do Brasil antes de 1500.
+- NEVES, Walter; PILÓ, Luís Beethoven. *O povo de Luzia: em busca dos primeiros americanos* [@nevesPilo2008]. Conta a história de Luzia e do debate sobre o povoamento da América.
+- GASPAR, Madu. *Sambaqui: arqueologia do litoral brasileiro* [@gaspar2003]. Introdução clara ao mundo dos construtores de sambaquis.
+
+**Filmes e documentários**
+
+- Documentários sobre o **Parque Nacional Serra da Capivara** (PI) e o trabalho de **Niède Guidon**: mostram a arte rupestre e a polêmica das datações.
+- *Brava Gente Brasileira* (2000), dir. Lúcia Murat, e *Hans Staden* (1999), dir. Luiz Alberto Pereira: ficções sobre o contato entre europeus e povos indígenas — úteis para discutir o olhar (enviesado) das fontes europeias.
