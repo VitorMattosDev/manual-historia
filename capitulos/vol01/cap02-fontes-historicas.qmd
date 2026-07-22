@@ -1,5 +1,243 @@
 # As fontes históricas e a crítica documental {#sec-fontes-historicas}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+No século XV, os papas exibiam um documento poderosíssimo: a **Doação de Constantino**. Nele, o imperador romano Constantino (c. 272–337) supostamente transferira ao papa o poder político sobre Roma e todo o Ocidente. Durante séculos, esse pergaminho justificou a autoridade temporal da Igreja. Até que, por volta de 1440, um estudioso chamado **Lorenzo Valla** examinou o texto com atenção e reparou em algo estranho: ele usava palavras em latim que **não existiam** no tempo de Constantino, além de citar instituições que só surgiriam muito depois. A conclusão foi demolidora: a Doação era uma **falsificação**, fabricada séculos após a morte do imperador. Valla não tinha câmeras, testemunhas ou laboratório — tinha apenas um método: interrogar o documento em vez de acreditar nele. Esse método tem um nome, e é o coração do ofício do historiador: a **crítica documental**. Neste capítulo, você vai aprender a fazer com qualquer fonte o que Valla fez com a Doação de Constantino.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- definir **fonte histórica** no sentido amplo que a historiografia adotou no século XX;
+- **classificar** as fontes segundo diferentes critérios (escritas, materiais, orais; primárias e secundárias; voluntárias e involuntárias);
+- aplicar as etapas da **crítica documental** (crítica externa e interna) a um documento;
+- compreender a ideia de que todo **documento é também um monumento** — produto de relações de poder — e o problema dos **silêncios** das fontes;
+- refletir sobre os desafios das fontes na **era digital** (documentos nascidos digitais, falsificações e checagem).
 :::
+
+## O que é uma fonte histórica {#sec-o-que-e-fonte}
+
+No capítulo anterior, vimos que o historiador não acessa o passado diretamente: ele trabalha com o que sobrou. Esses vestígios do passado são as **fontes históricas** (ou **documentos**, no sentido amplo). Fonte é tudo aquilo que, tendo sido produzido no passado ou sobre ele, permite ao historiador conhecê-lo: uma lei, uma carta, um osso, um utensílio de cozinha, uma música, uma fotografia, uma sepultura, um recenseamento, a lembrança de quem viveu um acontecimento.
+
+Nem sempre foi assim. No século XIX, a chamada **escola metódica** — muitas vezes confundida com o positivismo — identificava fonte quase exclusivamente com o **documento escrito e oficial**: leis, tratados, atas de Estado. A máxima era severa: "sem documentos, não há história". O problema é que essa definição estreita deixava mudos justamente os que não escreviam — a imensa maioria: camponeses, escravizados, mulheres, iletrados.
+
+A **Escola dos Annales**, a partir de 1929, promoveu uma verdadeira **revolução documental**. Lucien Febvre resumiu o novo espírito numa frase célebre: a história se faz com documentos escritos, sem dúvida — *quando há*; mas pode e deve fazer-se com tudo o que o engenho do ser humano é capaz de produzir e usar: palavras, signos, paisagens, telhas, formas de campo, ervas daninhas, eclipses da lua [@febvre1989]. A partir daí, praticamente **qualquer vestígio** passou a ser fonte potencial — desde que o historiador saiba lhe fazer as perguntas certas.
+
+::: {.callout-note title="Conceito-chave: fonte histórica"}
+**Fonte histórica** é todo registro ou vestígio, produzido por seres humanos ou relacionado à sua ação, que serve de base para o conhecimento do passado. A fonte não é o passado: é um **rastro** dele, sempre parcial, que só se transforma em conhecimento quando submetido a método e interpretação.
+:::
+
+## Uma tipologia das fontes {#sec-tipologia}
+
+Fontes podem ser classificadas de vários modos, que se combinam. Os mais úteis para você são três (@fig-tipologia-fontes).
+
+**Quanto à natureza do suporte:**
+
+- **Fontes escritas**: leis, cartas, jornais, diários, contratos, crônicas, inscrições. Foram as privilegiadas pela história tradicional.
+- **Fontes materiais** (ou arqueológicas): objetos, ferramentas, construções, ossos, cerâmicas, moedas, roupas. São decisivas para períodos sem escrita — mas úteis em todos.
+- **Fontes iconográficas**: pinturas, gravuras, fotografias, mapas, cartazes, charges, esculturas.
+- **Fontes orais**: depoimentos, entrevistas, tradições transmitidas pela fala, canções. A **história oral** deu voz a quem não deixou registro escrito.
+- **Fontes imateriais**: festas, rituais, danças, receitas, saberes — o **patrimônio imaterial**, que retomaremos no capítulo sobre memória e patrimônio.
+
+::: {#fig-tipologia-fontes}
+
+```{.tikz}
+%%| filename: fig-tipologia-fontes
+%%| alt: Organograma classificando as fontes históricas por natureza do suporte em escritas, materiais, iconográficas, orais e imateriais.
+\begin{tikzpicture}[
+    >=stealth,
+    raiz/.style={draw, thick, rounded corners, align=center, fill=manualblue!20,
+                 text width=3cm, minimum height=1cm},
+    ramo/.style={draw, thick, rounded corners, align=center, fill=manualgreen!15,
+                 text width=2.3cm, minimum height=1.5cm},
+    linha/.style={-, thick, manualgray}]
+  \node[raiz] (r) at (0,2.6) {\textbf{Fontes}\\\textbf{históricas}};
+  \node[ramo] (a) at (-5.1,0) {\textbf{Escritas}\\\scriptsize leis, cartas,\\\scriptsize jornais};
+  \node[ramo] (b) at (-2.55,0) {\textbf{Materiais}\\\scriptsize objetos, ossos,\\\scriptsize construções};
+  \node[ramo] (c) at (0,0) {\textbf{Iconográficas}\\\scriptsize pinturas,\\\scriptsize fotos, mapas};
+  \node[ramo] (d) at (2.55,0) {\textbf{Orais}\\\scriptsize depoimentos,\\\scriptsize canções};
+  \node[ramo] (e) at (5.1,0) {\textbf{Imateriais}\\\scriptsize festas, rituais,\\\scriptsize saberes};
+  \foreach \n in {a,b,c,d,e} \draw[linha] (r.south) -- (\n.north);
+\end{tikzpicture}
+```
+
+Uma tipologia das fontes pela natureza do suporte. Um bom trabalho histórico costuma **cruzar** fontes de tipos diferentes.
+:::
+
+**Quanto à proximidade do fato — primárias e secundárias:**
+
+- **Fontes primárias** são produzidas no próprio contexto estudado (a Carta de Pero Vaz de Caminha é fonte primária para 1500).
+- **Fontes secundárias** são interpretações posteriores, produzidas por quem estuda o fato (um livro de historiador sobre 1500). Atenção: a classificação é **relativa ao problema**. Um manual escolar dos anos 1950 é fonte secundária sobre o Brasil colonial, mas **fonte primária** para quem estuda *como se ensinava História nos anos 1950*.
+
+**Quanto à intenção — voluntárias e involuntárias:**
+
+- **Fontes voluntárias** foram feitas para deixar um testemunho (uma crônica, um monumento comemorativo, uma autobiografia). Tendem a ser tendenciosas: querem passar uma imagem.
+- **Fontes involuntárias** não pretendiam informar o futuro (uma lista de compras, um registro de batismo, o lixo de uma casa). Por isso, paradoxalmente, muitas vezes são **mais confiáveis** para reconstruir o cotidiano: ninguém as maquiou pensando na posteridade.
+
+::: {.callout-tip title="Dica de prova"}
+Bancas de vestibular adoram pedir para **classificar** uma fonte apresentada no enunciado. Treine perguntando sempre três coisas: (1) qual o **suporte**? (2) é **primária ou secundária** *em relação ao problema*? (3) foi **voluntária ou involuntária**? Uma foto de propaganda oficial, por exemplo, é iconográfica, primária e voluntária — logo, deve ser lida com atenção redobrada à intenção de quem a produziu.
+:::
+
+## A crítica documental: interrogar, não acreditar {#sec-critica-documental}
+
+Ter uma fonte não é ter conhecimento. Entre uma e outro está a **crítica documental** (ou crítica das fontes): o conjunto de procedimentos que avalia se e como uma fonte pode ser usada. Tradicionalmente, divide-se em duas etapas (@fig-critica-documental).
+
+A **crítica externa** (ou crítica de autenticidade) pergunta: este documento é **autêntico**? Quem o produziu, quando e onde? É original ou cópia? Foi adulterado? Foi exatamente aqui que Lorenzo Valla desmascarou a Doação de Constantino: o **latim anacrônico** denunciou a falsificação. A crítica externa examina o suporte, a escrita, a linguagem, a datação.
+
+A **crítica interna** (ou crítica de credibilidade) pergunta: **o que** o documento diz, e quanto disso é confiável? Qual a intenção do autor? Que interesses ele defende? O que ele exagera, omite ou distorce? Um relatório de um general sobre a batalha que ele mesmo comandou é autêntico (passa na crítica externa), mas provavelmente **parcial** (a crítica interna nos põe em alerta).
+
+::: {#fig-critica-documental}
+
+```{.tikz}
+%%| filename: fig-critica-documental
+%%| alt: Fluxograma das etapas da crítica documental, da fonte bruta à interpretação, passando pela crítica externa e interna.
+\begin{tikzpicture}[
+    >=stealth,
+    et/.style={draw, thick, rounded corners, align=center, text width=2.6cm,
+               minimum height=1.5cm},
+    seta/.style={->, very thick, manualgray}]
+  \node[et, fill=manualgray!15] (f) {\textbf{Fonte bruta}\\\scriptsize um vestígio qualquer};
+  \node[et, fill=manualred!12, right=0.8cm of f] (ext) {\textbf{Crítica externa}\\\scriptsize é autêntica?\\\scriptsize quem, quando, onde};
+  \node[et, fill=manualyellow!18, right=0.8cm of ext] (int) {\textbf{Crítica interna}\\\scriptsize é confiável?\\\scriptsize intenção, silêncios};
+  \node[et, fill=manualgreen!15, right=0.8cm of int] (i) {\textbf{Interpretação}\\\scriptsize cruzamento de fontes};
+  \draw[seta] (f) -- (ext);
+  \draw[seta] (ext) -- (int);
+  \draw[seta] (int) -- (i);
+\end{tikzpicture}
+```
+
+As etapas da crítica documental. Nenhuma fonte deve ser usada "crua": autenticidade e credibilidade são filtros distintos e igualmente necessários.
+:::
+
+Na prática, a crítica se resume a um roteiro de perguntas que você deve fazer a **qualquer** fonte:
+
+- **Quem** produziu? (autor, grupo, instituição — que lugar social ocupa)
+- **Quando** e **onde**? (a datação e o lugar mudam o sentido)
+- **Para quem** e **por quê**? (destinatário e intenção)
+- **Como** chegou até nós? (foi conservada por quê? por quem?)
+- **O que a fonte silencia?** (o não dito é, muitas vezes, o mais revelador)
+
+## O documento como monumento: o silêncio dos arquivos {#sec-documento-monumento}
+
+Há um passo final, mais sutil, que a Nova História acrescentou. O historiador **Jacques Le Goff** mostrou que não existe documento **inocente**: todo documento é também um **monumento** [@leGoff2013]. A palavra "monumento" vem do latim *monere*, "fazer lembrar": um monumento é algo erguido para **perpetuar** uma certa memória. Ora, dizia Le Goff, todo documento chegou até nós porque **alguém, com algum poder, decidiu produzi-lo e conservá-lo** — e, ao fazê-lo, escolheu o que seria lembrado e o que seria esquecido.
+
+Isso tem uma consequência incômoda: os arquivos não são neutros. Eles guardam, em abundância, a voz de quem tinha poder — reis, Igreja, Estado, senhores — e, em escassez, a voz dos dominados. O historiador precisa, então, **ler as fontes a contrapelo**: extrair, de documentos produzidos pelos poderosos, informações sobre aqueles que eles dominavam. É lendo processos da Inquisição (produzidos para condenar) que se recupera a visão de mundo de um camponês; é lendo anúncios de fuga de escravizados (produzidos pelos senhores) que se documenta a resistência negra. O **silêncio** de uma fonte, portanto, não é ausência de história: é, frequentemente, o rastro de uma exclusão que também precisa ser explicada.
+
+::: {.callout-important title="Erro comum: confundir 'fonte' com 'verdade'"}
+Uma fonte nunca é a "prova final" que encerra o debate. Ela é um **testemunho interessado**, produzido de um ponto de vista. Citar um documento sem criticá-lo — "está escrito aqui, logo é verdade" — é o oposto do método histórico. A força de uma interpretação vem do **cruzamento crítico de várias fontes**, não da autoridade isolada de uma só.
+:::
+
+## Fontes na era digital {#sec-fontes-digitais}
+
+O historiador do futuro estudará o nosso presente com fontes que Valla não imaginaria: e-mails, posts, mensagens, vídeos, bancos de dados — documentos **nascidos digitais** (*born-digital*). Isso traz abundância inédita, mas também problemas novos. A informação digital é **volátil** (sites saem do ar, formatos ficam obsoletos) e facilmente **manipulável**: montagens, textos fora de contexto e, cada vez mais, imagens e vídeos falsos gerados por inteligência artificial (os *deepfakes*).
+
+A boa notícia é que o método continua valendo. Diante de uma imagem viral ou de uma "notícia" alarmante, a pergunta do historiador é a mesma da crítica documental: **quem** produziu isto, **quando**, **com que intenção**, e **o que outras fontes confirmam**? Aprender crítica das fontes, portanto, não é só uma técnica acadêmica: é uma ferramenta de **cidadania** num mundo saturado de desinformação. O leitor crítico do século XXI é, em certo sentido, um herdeiro de Lorenzo Valla.
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+O que conta como fonte legítima? Essa pergunta dividiu profundamente os historiadores — e a resposta mudou o que era possível conhecer sobre o passado.
+
+**A restrição metódica (fim do século XIX).** Os franceses Charles-Victor Langlois e Charles Seignobos, autores de um influente manual de método (1898), fixaram a doutrina da escola metódica: o conhecimento histórico deriva **do documento escrito**, submetido a rigorosa crítica de autenticidade. Sua contribuição foi imensa — sistematizaram a crítica externa e o cuidado filológico. Mas sua definição de fonte era estreita: privilegiava textos oficiais e, com eles, a história política dos Estados e dos grandes homens. Onde não havia arquivo escrito, parecia não haver história possível.
+
+**A revolução documental dos Annales (a partir de 1929).** Lucien Febvre e, depois, Jacques Le Goff romperam esse limite. Se a nova pergunta era sobre a vida material, as crenças, o cotidiano da gente comum — temas para os quais quase não há documentos escritos —, então era preciso **alargar a noção de fonte** para incluir todo vestígio: pólen, ossos, utensílios, imagens, ex-votos, paisagens [@febvre1989]. Le Goff acrescentou a virada crítica decisiva: o documento não é um dado neutro a ser "extraído", mas um **monumento** a ser desmontado, pois carrega as relações de poder que o produziram e conservaram [@leGoff2013]. A história oral, por sua vez, transformou o **depoimento dos vencidos** em fonte legítima.
+
+**Por que divergiram?** Porque a definição de fonte **depende da pergunta**. Enquanto a pergunta central foi "como os Estados se formaram e negociaram?", o documento oficial bastava. Quando a pergunta passou a ser "como viviam, sentiam e resistiam os que não escreviam?", o documento oficial tornou-se insuficiente — e o objeto (uma panela, uma sepultura, uma canção) virou fonte. A ampliação do conceito de fonte não foi um capricho: foi a condição para dar história a quem a historiografia tradicional havia deixado mudo. É por isso que hoje se pode escrever a história dos escravizados, das mulheres e dos povos indígenas — sujeitos que os arquivos oficiais registravam apenas de passagem, e sempre de fora.
+
+::: {.callout-warning title="Controvérsia: a fonte oral é confiável?"}
+Críticos da história oral alegam que a memória falha, se reconstrói e se contamina com o presente. É verdade — mas isso não a invalida, e sim **muda o que ela nos ensina**. Como argumentou o historiador Alessandro Portelli, os "erros" da memória são eles próprios documentos: revelam como as pessoas **dão sentido** à sua experiência. Uma data lembrada errado pode ser um péssimo dado cronológico e, ao mesmo tempo, um ótimo dado sobre a subjetividade de quem lembra. Toda fonte tem seus limites; conhecê-los é usá-la bem, não descartá-la.
+:::
+
+## Resumo do capítulo {#sec-resumo}
+
+- **Fonte histórica** é todo vestígio do passado que permite conhecê-lo. Ela não é o passado nem a verdade: é um **rastro parcial e interessado**, que só vira conhecimento após crítica e interpretação.
+- No século XIX, a **escola metódica** restringia fonte ao **documento escrito e oficial** ("sem documentos, não há história"). A **Escola dos Annales** (a partir de 1929) promoveu a **revolução documental**: qualquer vestígio pode ser fonte (Febvre).
+- Tipologias úteis: por **suporte** (escritas, materiais, iconográficas, orais, imateriais); por **proximidade** (primárias × secundárias — relativa ao problema); por **intenção** (voluntárias × involuntárias — as involuntárias muitas vezes são mais confiáveis sobre o cotidiano).
+- A **crítica documental** tem duas etapas: **crítica externa** (autenticidade — foi assim que Valla desmascarou a Doação de Constantino) e **crítica interna** (credibilidade, intenção, silêncios).
+- Roteiro para qualquer fonte: **quem, quando, onde, para quem, por quê, como chegou até nós, o que silencia**.
+- **Documento é monumento** (Le Goff): nenhum documento é neutro; foi produzido e conservado por quem tinha poder. Daí a importância de **ler a contrapelo** e de investigar os **silêncios dos arquivos**.
+- Na **era digital**, as fontes nascem digitais, voláteis e manipuláveis (*deepfakes*). O método da crítica documental é hoje também uma ferramenta de **cidadania** contra a desinformação.
+
+## Exercícios {#sec-exercicios}
+
+**1.** Explique por que a afirmação "sem documentos escritos, não há história" foi superada pela historiografia do século XX. O que se passou a entender por "fonte"?
+
+::: {.callout-tip collapse="true" title="Solução"}
+A afirmação, típica da escola metódica do século XIX, restringia a fonte ao documento escrito e oficial — deixando sem história todos os povos e grupos que não escreviam (a maioria: iletrados, escravizados, mulheres, sociedades sem escrita). A **Escola dos Annales** (Febvre, Le Goff) promoveu a **revolução documental**: passou-se a entender por **fonte** qualquer vestígio produzido pela ação humana — objetos, ossos, imagens, canções, paisagens, depoimentos orais —, desde que o historiador saiba interrogá-lo. Assim tornou-se possível estudar a vida material, as mentalidades e os sujeitos antes silenciados.
+:::
+
+**2.** Classifique cada fonte quanto ao suporte, quanto a ser primária/secundária (para o estudo do Brasil colonial) e quanto a ser voluntária/involuntária: (a) a Carta de Caminha (1500); (b) um livro de história do Brasil publicado em 2015; (c) restos de louça encontrados nas ruínas de um engenho do século XVII.
+
+::: {.callout-tip collapse="true" title="Solução"}
+- (a) **Carta de Caminha**: escrita; **primária** (produzida em 1500); **voluntária** (foi escrita para informar o rei — logo, tem intenção, deve ser lida com cuidado).
+- (b) **Livro de 2015**: escrita; **secundária** (interpretação posterior); não se aplica bem voluntária/involuntária no mesmo sentido — é obra interpretativa (se o problema fosse "como se escreve história hoje", ela seria fonte primária e voluntária).
+- (c) **Louça de engenho**: material/arqueológica; **primária**; **involuntária** (ninguém guardou a louça para contar algo à posteridade — por isso é ótima para reconstruir o cotidiano, sem maquiagem).
+:::
+
+**3.** Diferencie **crítica externa** e **crítica interna**. Em qual das duas se enquadra a descoberta de Lorenzo Valla sobre a Doação de Constantino? Justifique.
+
+::: {.callout-tip collapse="true" title="Solução"}
+A **crítica externa** avalia a **autenticidade** do documento (autor, data, local, se é original ou adulterado); a **crítica interna** avalia a **credibilidade** do conteúdo (intenção, parcialidade, omissões). A descoberta de Valla é um caso clássico de **crítica externa**: ao notar que o texto empregava um latim e citava instituições **anacrônicos** — impossíveis no tempo de Constantino —, ele provou que o documento era uma **falsificação** posterior. Não discutiu se o conteúdo era "bom" ou "ruim"; provou que a fonte não era autêntica.
+:::
+
+**4.** O que Jacques Le Goff quis dizer com a fórmula "todo documento é um monumento"? Que consequência isso traz para o estudo dos grupos dominados?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Le Goff quis dizer que **nenhum documento é neutro**: ele chegou até nós porque alguém com poder decidiu produzi-lo e conservá-lo, escolhendo o que seria lembrado e o que seria esquecido (monumento vem de *monere*, "fazer lembrar"). Consequência: os arquivos registram sobretudo a voz dos poderosos (Estado, Igreja, senhores) e silenciam os dominados. Para estudar estes últimos, o historiador precisa **ler as fontes a contrapelo** — extrair, de documentos produzidos *pelos* dominadores (processos, anúncios de fuga, inventários), informações sobre os dominados — e tratar os **silêncios** dos arquivos como um problema histórico a ser explicado, não como ausência de história.
+:::
+
+**5.** (Análise de fonte) Leia o trecho da Carta de Pero Vaz de Caminha ao rei de Portugal (1500), sobre os indígenas:
+
+> "A feição deles é serem pardos, maneira de avermelhados, de bons rostos e bons narizes, bem-feitos. […] E não fazem menção de nenhum recato, nem de o cobrir, e estão acerca disso com tanta inocência como têm em mostrar o rosto."
+
+(a) Que tipo de fonte é esta (suporte, primária/secundária, voluntária/involuntária)? (b) Que cuidados a crítica interna exige na leitura? (c) O que a fonte revela mais sobre: os indígenas, ou o olhar de quem escreve?
+
+::: {.callout-tip collapse="true" title="Solução"}
+- (a) Fonte **escrita**, **primária** (1500) e **voluntária** (escrita para informar o rei, com intenção clara).
+- (b) A crítica interna alerta que Caminha é um **observador externo**, europeu e cristão, que descreve o desconhecido a partir dos seus próprios valores (a "inocência", a nudez lida como falta de "recato"). Ele não fala a língua, permanece pouco tempo e escreve para agradar ao rei e justificar a empresa. Logo, sua descrição é **interessada** e culturalmente enviesada.
+- (c) A fonte revela **tanto quanto — ou mais — sobre o olhar do observador** do que sobre os indígenas em si: mostra as categorias europeias (nudez/pecado, "inocência") com que os portugueses tentaram enquadrar o que viam. Ler a contrapelo permite recuperar alguns dados sobre os povos originários, mas sempre filtrados por esse olhar. É um exemplo perfeito de por que "está escrito, logo é verdade" não funciona.
+:::
+
+**6.** (Estilo ENEM) Leia o texto.
+
+> Durante muito tempo, a história dos escravizados no Brasil foi escrita quase só a partir de documentos produzidos pelos senhores e pelo Estado: inventários, anúncios de fuga em jornais, processos criminais, registros de compra e venda. Mais recentemente, cruzando essas fontes com registros de batismo, cartas de alforria e a cultura material dos quilombos, os historiadores passaram a evidenciar estratégias de resistência, formação de famílias e negociação por parte dos próprios cativos.
+
+O procedimento descrito no texto ilustra que o conhecimento histórico sobre os grupos dominados avança quando o historiador
+
+**(a)** aceita os documentos oficiais como relato imparcial dos fatos.
+**(b)** descarta as fontes produzidas pelos senhores por serem tendenciosas.
+**(c)** cruza criticamente fontes diversas e lê os documentos "a contrapelo".
+**(d)** limita-se às fontes escritas, únicas consideradas confiáveis.
+**(e)** substitui a pesquisa documental pela imaginação sobre o passado.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (c).** O texto mostra que a história dos escravizados avançou justamente pelo **cruzamento crítico** de fontes variadas (documentos senhoriais e estatais + registros de batismo, alforrias, cultura material) e pela leitura **a contrapelo** — extrair, de documentos feitos pelos dominadores, informações sobre a agência dos dominados (resistência, famílias, negociação).
+
+Por que as demais estão erradas:
+- (a) contraria a crítica documental: nenhum documento é imparcial;
+- (b) exagera — não se **descartam** as fontes senhoriais; elas são criticadas e reaproveitadas a contrapelo;
+- (d) reproduz a restrição metódica já superada; o texto valoriza também a cultura material;
+- (e) opõe-se ao método: história não é imaginação livre, mas interpretação ancorada em fontes.
+:::
+
+**7.** (Tempo presente) Você recebe, numa rede social, uma foto impactante com a legenda: "Isto aconteceu ontem no Brasil". Descreva **três** perguntas da crítica documental que você faria antes de compartilhar, explicando o que cada uma ajuda a verificar.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Resposta esperada (exemplos válidos):
+1. **Quem produziu e publicou?** — verifica a origem e a possível intenção (a conta é confiável? tem histórico de desinformação?). Corresponde à crítica externa/credibilidade.
+2. **Quando e onde a imagem foi realmente feita?** — uma busca reversa pode revelar que a foto é **antiga** ou de **outro país/contexto** (fonte autêntica, mas usada fora de contexto). Crítica externa de datação/localização.
+3. **O que outras fontes independentes confirmam?** — o cruzamento com veículos e checadores confiáveis testa a credibilidade do conteúdo (crítica interna). Se nenhuma fonte séria confirma, é sinal de alerta.
+
+O exercício mostra que a crítica documental — quem, quando, onde, por quê, o que confirma — é a mesma ferramenta do historiador e do cidadão diante da desinformação digital.
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- LE GOFF, Jacques. *História e memória* [@leGoff2013]. Contém o ensaio seminal "Documento/Monumento", base da ideia de que nenhuma fonte é neutra.
+- FEBVRE, Lucien. *Combates pela história* [@febvre1989]. Onde se lê o manifesto da ampliação do conceito de fonte ("a história se faz com tudo o que o engenho humano pode utilizar").
+- BLOCH, Marc. *Apologia da história* [@bloch2001]. O capítulo sobre a observação histórica e a crítica das fontes é um roteiro insuperável do método.
+- GINZBURG, Carlo. *O queijo e os vermes* [@ginzburg2006]. Demonstração prática de como ler "a contrapelo" processos inquisitoriais para recuperar a voz de um homem comum.
+
+**Filmes e documentários**
+
+- *A Prova* (documentários sobre perícia e falsificação de arte, disponíveis em plataformas de streaming): úteis para pensar a **crítica de autenticidade** fora da História acadêmica.
+- *Narradores de Javé* (2003), dir. Eliane Caffé: uma comunidade sem documentos escritos tenta transformar sua **tradição oral** em "documento" para salvar a cidade — uma aula sobre fonte, oralidade e poder.
+- Séries e reportagens sobre **checagem de fatos** (agências de *fact-checking*): mostram a crítica documental aplicada à desinformação digital.
