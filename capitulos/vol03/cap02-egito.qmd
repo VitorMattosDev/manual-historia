@@ -1,5 +1,238 @@
 # O Egito Antigo {#sec-egito}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Em novembro de 1922, o arqueólogo britânico Howard Carter espiava, à luz de uma vela, uma pequena abertura na parede de uma tumba no **Vale dos Reis**. Atrás de si, o financiador da escavação, Lorde Carnarvon, perguntou impaciente: "Está vendo alguma coisa?". Carter, sem palavras diante do brilho do ouro na escuridão, respondeu: "Sim — coisas maravilhosas". Acabara de encontrar, quase intacta, a tumba de **Tutancâmon**, um faraó menino morto por volta de **1323 a.C.** O tesouro — máscara de ouro, tronos, carros, alimentos, joias — não era exceção de riqueza, mas a regra de uma civilização que preparava seus mortos para a eternidade. Por trás daquele ouro havia um Estado com mais de mil e quinhentos anos de existência, capaz de mobilizar dezenas de milhares de trabalhadores, medir o tempo pelas estrelas, escrever em hieróglifos e erguer, no deserto, montanhas de pedra que ainda hoje nos desafiam. É essa civilização do **Nilo** que estudaremos agora — irmã e rival da Mesopotâmia (@sec-mesopotamia) no berço da história escrita.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- explicar por que o **Nilo** foi a base material da civilização egípcia e o que Heródoto quis dizer ao chamar o Egito de "dádiva do Nilo";
+- situar no tempo a **unificação** do Egito e os grandes períodos (Antigo, Médio e Novo Império), reconhecendo o papel dos Períodos Intermediários;
+- caracterizar o **poder do faraó**, a religião politeísta, a crença na vida após a morte e a estrutura social;
+- analisar realizações culturais egípcias — **escrita hieroglífica**, arquitetura, ciência — como fontes históricas;
+- discutir o **debate sobre a identidade africana** do Egito Antigo e por que ele mobiliza tanto a historiografia.
 :::
+
+## A dádiva do Nilo {#sec-nilo-egito}
+
+Por volta de 450 a.C., o historiador grego **Heródoto** (c. 484–425 a.C.) percorreu o Egito e cunhou a frase que o resume: o país é uma **"dádiva do Nilo"**. A observação é geográfica antes de ser poética. O **Nilo**, o rio mais longo do mundo, corre de sul para norte e desemboca no Mediterrâneo formando um amplo **delta**. Todo verão, alimentado pelas chuvas nas terras altas da Etiópia, ele **transbordava** com regularidade quase matemática, inundando as margens e depositando, ao recuar, uma camada de **limo** escuro e fértil — os egípcios chamavam sua terra de *Kemet*, "a terra negra", em oposição a *Deshret*, "a terra vermelha" do deserto que a cercava.
+
+Aqui está uma diferença decisiva em relação à Mesopotâmia. Enquanto o Tigre e o Eufrates transbordavam de modo **imprevisível e destruidor**, a cheia do Nilo era **previsível e benfazeja**. Essa regularidade permitiu prever o calendário agrícola, planejar a semeadura e a colheita e sustentar uma população numerosa numa estreita faixa verde encravada no deserto. O deserto, por sua vez, funcionava como uma **muralha natural**: protegia o Egito de invasões e favoreceu uma continuidade política e cultural muito maior que a mesopotâmica. Não por acaso, a mesma civilização, com a mesma religião e a mesma escrita, durou aqui **quase três mil anos**.
+
+::: {#fig-mapa-egito}
+
+```{.tikz}
+%%| filename: fig-mapa-egito
+%%| alt: Mapa esquemático do Egito antigo, com o Nilo correndo do sul para o delta no Mediterrâneo, separando Alto e Baixo Egito.
+\begin{tikzpicture}[>=stealth]
+  % Mediterrâneo
+  \fill[manualblue!25] (0,6) rectangle (5,6.7);
+  \node[manualblue] at (2.5,6.4) {\scriptsize Mar Mediterrâneo};
+  % delta
+  \fill[manualgreen!30] (1.7,5.9) -- (3.3,5.9) -- (2.5,4.6) -- cycle;
+  % Nilo
+  \draw[manualblue, very thick] (2.5,4.6) -- (2.5,0.4);
+  \node[manualblue, rotate=90] at (2.15,2.5) {\scriptsize Rio Nilo};
+  % faixa fértil
+  \fill[manualgreen!20] (2.15,0.4) rectangle (2.85,4.6);
+  % desertos
+  \node[text=manualyellow!70!black] at (0.9,2.5) {\scriptsize deserto};
+  \node[text=manualyellow!70!black] at (4.1,2.5) {\scriptsize deserto};
+  % rótulos
+  \node[align=center, text=manualred] at (2.5,5.2) {\scriptsize \textbf{BAIXO EGITO}\\\scriptsize (delta, norte)};
+  \node[ponto] at (2.5,4.9) {}; \node[right] at (2.65,4.9) {\scriptsize Mênfis};
+  \node[align=center, text=manualgreen] at (3.7,1.6) {\scriptsize \textbf{ALTO}\\\scriptsize \textbf{EGITO}\\\scriptsize (sul)};
+  \node[ponto] at (2.5,1.5) {}; \node[right] at (2.65,1.5) {\scriptsize Tebas};
+  % rumo a Núbia
+  \draw[->, manualgray] (2.5,0.4) -- (2.5,-0.3) node[below] {\scriptsize $\rightarrow$ Núbia/Cuxe};
+  \draw[->, thick] (4.6,5.4) -- (4.6,6.0) node[above] {\scriptsize N};
+\end{tikzpicture}
+```
+
+Mapa esquemático do Egito (não cartográfico). O rio corre do **sul** (Alto Egito) para o **norte** (Baixo Egito, o delta) — por isso "Alto" fica ao sul. A sul, a fronteira com a **Núbia** (@sec-africa-antiga).
+:::
+
+## Do Estado unificado aos grandes Impérios {#sec-periodos-egito}
+
+Por volta de **3100 a.C.**, a tradição atribui a um rei chamado **Menés** (identificado por muitos com **Narmer**) a **unificação** do Alto e do Baixo Egito num só reino, com capital em **Mênfis**. Nascia um dos Estados mais duradouros da história, governado por dinastias que os historiadores agrupam em três grandes períodos de esplendor, separados por fases de crise e fragmentação — os **Períodos Intermediários** (@fig-linha-tempo-egito).
+
+::: {#fig-linha-tempo-egito}
+
+```{.tikz}
+%%| filename: fig-linha-tempo-egito
+%%| alt: Linha do tempo do Egito antigo, da unificação por volta de 3100 a.C. à conquista por Alexandre e depois por Roma.
+\begin{tikzpicture}[>=stealth]
+  \draw[eixo] (0,0) -- (13.6,0);
+  \node[eixo, gray] at (13.6,-0.5) {\scriptsize tempo (fora de escala)};
+
+  \node[ponto] at (0.7,0) {};
+  \node[below] at (0.7,-0.15) {\scriptsize 3100 a.C.};
+  \node[above, align=center, text=manualblue] at (0.9,0.2) {\scriptsize unificação\\\scriptsize (Menés)};
+
+  \node[ponto] at (3.0,0) {};
+  \node[below] at (3.0,-0.15) {\scriptsize 2686--2181};
+  \node[above, align=center, text=manualgreen] at (3.0,0.2) {\scriptsize Antigo Império\\\scriptsize (pirâmides)};
+
+  \node[ponto] at (6.0,0) {};
+  \node[below] at (6.0,-0.15) {\scriptsize 2055--1650};
+  \node[above, align=center, text=manualgreen] at (6.0,0.2) {\scriptsize Médio\\\scriptsize Império};
+
+  \node[ponto] at (9.0,0) {};
+  \node[below] at (9.0,-0.15) {\scriptsize 1550--1070};
+  \node[above, align=center, text=manualred] at (9.0,0.2) {\scriptsize Novo Império\\\scriptsize (expansão)};
+
+  \node[ponto] at (11.6,0) {};
+  \node[below] at (11.6,-0.15) {\scriptsize 332 a.C.};
+  \node[above, align=center, text=manualblue] at (11.6,0.2) {\scriptsize Alexandre};
+
+  \node[ponto] at (13.1,0) {};
+  \node[below] at (13.1,-0.15) {\scriptsize 30 a.C.};
+  \node[above, align=center, text=manualgray] at (13.1,0.25) {\scriptsize Roma\\\scriptsize (Cleópatra)};
+\end{tikzpicture}
+```
+
+Linha do tempo do Egito. As faixas de esplendor (Antigo, Médio, Novo Império) são separadas pelos **Períodos Intermediários**, de crise e divisão.
+:::
+
+**Antigo Império (c. 2686–2181 a.C.).** É a época das grandes **pirâmides**. Os faraós da IV dinastia — **Quéops**, **Quéfren** e **Miquerinos** — ergueram, em **Gizé**, os túmulos monumentais que se tornaram símbolo do Egito. Construí-las exigiu organização administrativa, cálculo, logística de alimentação e uma força de trabalho enorme — não de escravos acorrentados, como imaginava o cinema, mas sobretudo de **camponeses recrutados** nos meses de cheia, quando os campos ficavam alagados. O poder do faraó atingia aqui seu ápice de concentração.
+
+**Médio Império (c. 2055–1650 a.C.).** Após um Primeiro Período Intermediário de desordem, os faraós reunificaram o país, com capital em **Tebas**. Foi uma era de expansão comercial rumo à **Núbia** (fonte de ouro) e de florescimento literário. O período terminou com a invasão dos **hicsos**, povos vindos da Ásia que introduziram no Egito o **carro de guerra** e o cavalo.
+
+**Novo Império (c. 1550–1070 a.C.).** Expulsos os hicsos, o Egito tornou-se um **império militar e conquistador**, dominando a Núbia e disputando o Oriente Próximo com os hititas (batalha de **Kadesh**, c. 1274 a.C., sob **Ramsés II**). É a época dos faraós mais célebres — **Tutmés III**, **Hatshepsut**, **Akhenaton**, **Tutancâmon**, **Ramsés II** — e dos templos colossais de **Karnak** e **Abu Simbel**. Depois vieram séculos de decadência e domínio estrangeiro (líbios, núbios, assírios, persas), até a conquista de **Alexandre, o Grande**, em **332 a.C.**, e, por fim, a anexação a **Roma** em **30 a.C.**, após a morte de **Cleópatra VII**, a última faraó.
+
+## Um deus no trono: poder, religião e sociedade {#sec-faraó-egito}
+
+No centro de tudo estava o **faraó**. Diferentemente do rei mesopotâmico, que governava *em nome* dos deuses, o faraó era ele próprio considerado **divino** — um deus vivo, encarnação de **Hórus** e filho de **Rá**, o deus-sol. Dele dependia, na crença egípcia, a própria ordem cósmica, a **Maat** (a justiça, a verdade, o equilíbrio do mundo). Essa **teocracia** — governo em que a autoridade política se confunde com a religiosa — dava ao faraó poder sobre a terra, os impostos, o exército, as obras públicas e o culto.
+
+::: {.callout-note title="Conceito-chave: teocracia e Maat"}
+**Teocracia** é o regime em que o poder político é exercido em nome (ou na pessoa) do divino. No Egito, o faraó era um **deus-rei**, garantidor da **Maat** — o princípio de ordem, verdade e justiça que mantinha o cosmos funcionando. Governar bem era "fazer a Maat"; o caos (*Isfet*) era o inimigo a conter. Note a diferença com a Mesopotâmia: lá o rei recebia a lei dos deuses; aqui, o rei *era* um deus.
+:::
+
+A religião egípcia era **politeísta** e povoada de divindades muitas vezes representadas com corpo humano e cabeça de animal: **Rá** (sol), **Osíris** (senhor dos mortos e da ressurreição), **Ísis** (esposa de Osíris, maternidade e magia), **Hórus** (realeza), **Anúbis** (embalsamamento), **Tot** (escrita e saber). A crença mais marcante era a da **vida após a morte**: os egípcios acreditavam que a pessoa sobreviveria no além, desde que o corpo fosse preservado. Daí a prática da **mumificação** e a construção de túmulos abastecidos de alimentos, objetos e fórmulas mágicas — o *Livro dos Mortos*. No julgamento de Osíris, o coração do morto era pesado contra a **pena da Maat**: se fosse leve (isto é, justo), o morto ganhava a eternidade.
+
+A sociedade egípcia era rigidamente **estratificada** (@fig-piramide-egito), mas não imóvel: um filho de escriba podia ascender pelo domínio da escrita.
+
+::: {#fig-piramide-egito}
+
+```{.tikz}
+%%| filename: fig-piramide-egito
+%%| alt: Pirâmide social do Egito antigo, do faraó no topo aos escravizados na base.
+\begin{tikzpicture}
+  \draw[thick, manualgray] (0,0) -- (6,0) -- (3,4.8) -- cycle;
+  \draw[thick, manualgray] (0.6,0.95) -- (5.4,0.95);
+  \draw[thick, manualgray] (1.25,2.0) -- (4.75,2.0);
+  \draw[thick, manualgray] (2.05,3.3) -- (3.95,3.3);
+  \node[align=center] at (3,3.9) {\scriptsize \textbf{faraó}};
+  \node[align=center] at (3,2.6) {\scriptsize sacerdotes, nobres,\\\scriptsize altos funcionários};
+  \node[align=center] at (3,1.4) {\scriptsize \textbf{escribas}, sacerdotes menores,\\\scriptsize militares, comerciantes, artesãos};
+  \node[align=center] at (3,0.45) {\scriptsize camponeses (a maioria) e escravizados};
+  \draw[->, manualgreen, thick] (6.3,3.0) -- (6.3,0.5)
+        node[midway, right, black, align=left] {\scriptsize camponeses\\\scriptsize sustentavam\\\scriptsize o Estado};
+\end{tikzpicture}
+```
+
+A pirâmide social egípcia. Os **escribas** — os poucos que dominavam a escrita — ocupavam posição privilegiada na administração.
+:::
+
+Duas observações sobre **história plural**. Primeiro, as **mulheres** egípcias tinham direitos raros no mundo antigo: podiam possuir bens, herdar, testemunhar e mover ações na justiça; algumas governaram como faraós, casos de **Hatshepsut** (c. 1479–1458 a.C.), uma das mais bem-sucedidas, e de **Cleópatra VII**. Segundo, o Egito manteve intensa relação — comercial, militar e cultural — com a **Núbia/Cuxe**, ao sul, africana, que chegou a **conquistar e governar** o próprio Egito na XXV dinastia (os "faraós negros"), assunto do @sec-africa-antiga.
+
+## Escrita, ciência e legado {#sec-cultura-egito}
+
+Os egípcios desenvolveram a escrita **hieroglífica** (do grego "escrita sagrada"), um sistema de centenas de sinais que combinava desenhos (ideogramas) e sons (fonogramas), usado em monumentos e textos religiosos. Para o dia a dia, criaram formas cursivas mais rápidas, a **hierática** e a **demótica**. Durante séculos, ninguém soube ler hieróglifos — até que, em **1822**, o francês **Jean-François Champollion** os decifrou graças à **Pedra de Roseta**, um decreto gravado em três escritas (hieroglífica, demótica e grega), verdadeira "chave" que permitiu comparar o conhecido ao desconhecido.
+
+Movidos pelas exigências práticas do Nilo e da administração, os egípcios avançaram na **matemática** (geometria para remedir campos após as cheias, cálculo para as obras), na **medicina** (o papiro de Edwin Smith descreve cirurgias e diagnósticos), na **astronomia** (um calendário solar de 365 dias, base do nosso) e na **engenharia**. Escreviam em **papiro**, feito de uma planta do Nilo — palavra que originou nosso "papel".
+
+::: {.callout-warning title="A fonte e seus limites: por que conhecemos tão bem os mortos?"}
+Grande parte do que sabemos sobre o Egito vem de **túmulos e templos** — construções de pedra feitas para durar a eternidade — enquanto as casas comuns, de tijolo de barro, desapareceram. Isso cria um **viés documental** (@sec-critica-documental): a fonte sobrevivente ilumina sobretudo a elite, os rituais funerários e a religião oficial, e ilumina muito menos o cotidiano dos camponeses, das mulheres pobres e dos escravizados. Ao ler que "os egípcios acreditavam na vida após a morte", lembre-se de que os textos foram escritos por e para uma **minoria letrada**. A História do Egito que chega até nós é, em boa medida, a História que o Egito **quis** deixar de si.
+:::
+
+## 🔎 Historiografia em Foco {#sec-historiografia-egito}
+
+O Egito é africano? A pergunta parece óbvia — o país fica na África —, mas foi, por quase dois séculos, um dos debates mais acalorados (e politicamente carregados) da história antiga.
+
+**A tese afrocentrista: o Egito como civilização negra e africana.** O historiador senegalês **Cheikh Anta Diop** (1923–1986), em obras como *The African Origin of Civilization* [@diop1974], sustentou que o Egito faraônico foi, em suas origens e em sua população, uma **civilização negra africana**, integrada culturalmente ao continente e fonte de muito do que a Grécia depois herdaria. Diop reagia a uma longa tradição da erudição europeia dos séculos XIX e XX que, imersa no racismo científico e no colonialismo, **"retirava" o Egito da África** — tratando-o como uma civilização "branca", "mediterrânea" ou "asiática" excepcional, cercada por uma África supostamente "sem história". Para Diop, reconhecer a africanidade do Egito era um ato de justiça histórica e de descolonização do saber. Sua argumentação mobilizava fontes antigas (as descrições de Heródoto), evidências linguísticas, culturais e físicas.
+
+**As críticas e as ressalvas.** Boa parte dos egiptólogos aceita hoje o **ponto central e correto** de Diop: o Egito era uma civilização **africana**, em contínua troca com o restante do continente, e a tentativa colonial de "embranquecê-lo" foi ideológica. Mas muitos historiadores fazem ressalvas a *como* Diop formulou a tese. Primeiro, aplicar ao Egito antigo as categorias raciais **modernas** ("negro", "branco") seria um **anacronismo**: os próprios egípcios não se classificavam por "raça" no sentido do século XX, mas por cultura, língua e território; a população do vale do Nilo era, provavelmente, **diversa** e mestiça, mudando do sul (mais próximo da Núbia) ao delta (mais próximo do Mediterrâneo). Segundo, críticos apontam que, ao inverter o eurocentrismo, certas versões do afrocentrismo correm o risco de reproduzir seu erro — buscar uma "raça fundadora" da civilização.
+
+**Por que o debate importa?** Porque ele mostra que perguntas sobre o passado remoto respondem a urgências do **presente**. A negação da africanidade do Egito serviu, no auge do imperialismo, para negar à África uma história de grandeza; sua reafirmação, no século XX, integrou as lutas anticoloniais e antirracistas. No Brasil, esse debate ganha peso legal e pedagógico com a **Lei 10.639/2003**, que tornou obrigatório o ensino de História e Cultura Afro-Brasileira e Africana. A lição metodológica, válida para todo este volume, é dupla: desconfie das teses que projetam **categorias do presente** sobre o passado (o anacronismo racial) *e* das que, sob aparência de neutralidade, escondem interesses **ideológicos** (o eurocentrismo colonial).
+
+## Resumo do capítulo {#sec-resumo-egito}
+
+- O **Nilo**, com suas cheias **regulares** e o **limo** fertilizante, foi a base da civilização egípcia — a "dádiva do Nilo" de **Heródoto**. O deserto funcionou como muralha, favorecendo quase **três mil anos** de continuidade.
+- Por volta de **3100 a.C.**, **Menés/Narmer** unificou o Alto e o Baixo Egito. A história egípcia divide-se em **Antigo** (pirâmides de Gizé), **Médio** (expansão à Núbia; invasão hicsa) e **Novo Império** (império militar; Ramsés II), separados por **Períodos Intermediários**.
+- O **faraó** era um **deus-rei** (teocracia), garantidor da **Maat**. A religião era **politeísta** (Rá, Osíris, Ísis, Hórus) e centrada na **vida após a morte**, daí a **mumificação** e os túmulos.
+- A sociedade era **estratificada** (faraó → sacerdotes e nobres → escribas e artesãos → camponeses e escravizados). As **mulheres** tinham direitos incomuns e algumas governaram (**Hatshepsut**, **Cleópatra**).
+- Os egípcios criaram a escrita **hieroglífica** (decifrada por **Champollion** em 1822 via **Pedra de Roseta**), o **papiro**, um **calendário solar** de 365 dias e avanços em geometria, medicina e astronomia.
+- Historiograficamente, o **debate sobre a africanidade do Egito** opõe o afrocentrismo de **Cheikh Anta Diop** (Egito como civilização negra e africana) às ressalvas que alertam contra o **anacronismo racial**, num tema ligado à **Lei 10.639/2003**.
+
+## Exercícios {#sec-exercicios-egito}
+
+**1.** Explique a frase de Heródoto — o Egito é "uma dádiva do Nilo" — e aponte **duas diferenças** entre o regime do Nilo e o dos rios da Mesopotâmia.
+
+::: {.callout-tip collapse="true" title="Solução"}
+A frase resume a dependência total do Egito em relação ao rio: sem o Nilo, o vale seria deserto. Todo ano a cheia depositava **limo** fértil, permitindo a agricultura que sustentava o país. **Diferenças** em relação à Mesopotâmia: (1) a cheia do Nilo era **regular e previsível** (ligada às chuvas na Etiópia), enquanto o Tigre e o Eufrates transbordavam de forma **irregular e violenta**; (2) por isso a cheia egípcia era **benfazeja** e planejável, ao passo que a mesopotâmica era frequentemente **destruidora**. Some-se o **deserto** como muralha natural, que deu ao Egito uma continuidade política muito maior.
+:::
+
+**2.** Diferencie o caráter do poder real no Egito e na Mesopotâmia.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Na **Mesopotâmia**, o rei governava **em nome** dos deuses e recebia deles a lei (como Hamurábi, que diz ter recebido as leis de Shamash): era um representante do divino, não o próprio divino. No **Egito**, o **faraó** era considerado **ele mesmo um deus** (encarnação de Hórus, filho de Rá) e garantidor da **Maat**, a ordem cósmica — uma **teocracia** em sentido forte. A divinização do governante era, portanto, mais radical no Egito.
+:::
+
+**3.** Coloque em ordem e caracterize com um traço cada período: Novo Império, Antigo Império, Médio Império.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Antigo Império** (c. 2686–2181 a.C.): auge do poder faraônico e era das grandes **pirâmides** de Gizé. **Médio Império** (c. 2055–1650 a.C.): reunificação com capital em **Tebas**, expansão comercial rumo à **Núbia**, encerrado pela invasão dos **hicsos**. **Novo Império** (c. 1550–1070 a.C.): **império militar** e conquistador (Núbia, disputa com hititas em Kadesh), época de Hatshepsut, Akhenaton e Ramsés II. Entre eles, os **Períodos Intermediários** de crise.
+:::
+
+**4.** O que a prática da **mumificação** revela sobre as crenças religiosas dos egípcios?
+
+::: {.callout-tip collapse="true" title="Solução"}
+A mumificação revela a crença na **vida após a morte**: os egípcios acreditavam que a pessoa continuaria a existir no além, mas para isso o **corpo precisava ser preservado**. Por isso embalsamavam os mortos, sepultavam-nos com alimentos, objetos e fórmulas mágicas (o *Livro dos Mortos*) e associavam a ressurreição ao mito de **Osíris**. A morte era vista como passagem, e a eternidade dependia tanto da conservação do corpo quanto de uma vida **justa** (o coração pesado contra a pena da Maat).
+:::
+
+**5.** Por que os historiadores dizem que nosso conhecimento do Egito tem um **viés** em favor da elite e da religião?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque as fontes que **sobreviveram** são majoritariamente **túmulos e templos de pedra**, feitos para durar, ligados à realeza, aos deuses e aos rituais funerários — enquanto as casas comuns, de tijolo de barro, desapareceram. Além disso, os textos foram produzidos por uma **minoria letrada** (escribas e sacerdotes) a serviço do poder. Assim, sabemos muito sobre faraós, deuses e a morte, e muito menos sobre o **cotidiano** dos camponeses, das mulheres pobres e dos escravizados. É um caso claro da necessidade de **crítica documental**: perguntar sempre quem produziu a fonte e o que ela silencia.
+:::
+
+**6.** (Estilo ENEM) Leia o texto.
+
+> Durante o século XIX, boa parte da erudição europeia tratava o Egito faraônico como uma civilização excepcional, mais próxima do Mediterrâneo ou da Ásia do que da África "negra", vista então como um continente sem história. A partir do século XX, historiadores africanos, como Cheikh Anta Diop, contestaram essa visão e reivindicaram o Egito como parte integrante da história africana.
+
+Essa mudança de interpretação evidencia que
+
+**(a)** o estudo do passado é neutro e imune às disputas políticas de cada época.
+**(b)** as interpretações históricas podem refletir e combater visões de mundo, inclusive o racismo e o colonialismo.
+**(c)** o Egito antigo situava-se, de fato, fora do continente africano.
+**(d)** a africanidade do Egito nunca foi objeto de debate historiográfico.
+**(e)** apenas fontes escritas em grego permitem conhecer o Egito antigo.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (b).** O texto mostra como uma interpretação (o Egito "retirado" da África) refletia o **racismo e o colonialismo** do século XIX, e como outra (a de Diop) surgiu para **combatê-los**, reivindicando a africanidade do Egito. Isso evidencia que o conhecimento histórico dialoga com as visões de mundo e as lutas de cada época. Erros: (a) o próprio caso prova que o estudo do passado **não** é neutro; (c) o Egito **está** na África; (d) houve, sim, intenso debate; (e) há fontes egípcias (hieróglifos), decifradas por Champollion.
+:::
+
+**7.** (Estilo vestibular — dissertativa) Explique o debate sobre a **identidade africana do Egito Antigo**, apresentando a posição de Cheikh Anta Diop e **uma ressalva** que a historiografia lhe faz.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Resposta esperada. **A posição de Diop:** contra a tradição colonial que "embranquecia" o Egito e negava à África uma história de grandeza, o historiador senegalês **Cheikh Anta Diop** afirmou que o Egito faraônico foi uma **civilização negra e africana**, em contínua troca cultural com o restante do continente — um argumento de descolonização do saber. **Ressalva** (basta uma): aplicar ao Egito antigo as **categorias raciais modernas** ("negro"/"branco") é um **anacronismo**, pois os egípcios não se classificavam por raça no sentido atual e sua população era diversa, variando do sul (próximo à Núbia) ao delta; alguns críticos alertam ainda que inverter o eurocentrismo pode reproduzir seu erro (buscar uma "raça fundadora"). Uma boa resposta reconhece o **acerto central** de Diop (o Egito é africano) e situa o debate no combate ao racismo, ligando-o, no Brasil, à **Lei 10.639/2003**.
+:::
+
+**8.** As **mulheres** no Egito antigo tinham direitos incomuns para o mundo da época. Cite dois desses direitos e um exemplo de mulher que exerceu o poder.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Direitos (bastam dois): possuir e administrar **bens**, **herdar**, **testemunhar** e **mover ações na justiça** — capacidades raras no mundo antigo. Exemplos de mulheres no poder: **Hatshepsut** (c. 1479–1458 a.C.), uma das faraós mais bem-sucedidas, e **Cleópatra VII**, a última a governar o Egito antes da anexação romana. O caso egípcio é um bom exemplo de **história plural**: reconhecer as mulheres como sujeitos históricos, e não como apêndice da história dos faraós homens.
+:::
+
+## Para saber mais {#sec-para-saber-mais-egito}
+
+**Livros**
+
+- CARDOSO, Ciro Flamarion. *O Egito antigo* [@cardoso1982]. Síntese brasileira clássica, curta e crítica, atenta à economia e à sociedade.
+- PINSKY, Jaime. *As primeiras civilizações* [@pinsky2017]. Capítulos acessíveis sobre o Egito e o Oriente Próximo.
+- DIOP, Cheikh Anta. *The African Origin of Civilization* [@diop1974]. A obra-chave do debate sobre a africanidade do Egito — leitura fundamental para discutir a Lei 10.639/2003.
+
+**Filmes e documentários**
+
+- *Egito* (série documental da BBC) e os acervos do **Museu Britânico** e do **Museu Egípcio do Cairo**, com peças, múmias e a reconstituição de Gizé.
+- Documentários sobre a decifração da **Pedra de Roseta** e o trabalho de Champollion ajudam a entender como se "lê" uma civilização perdida.
