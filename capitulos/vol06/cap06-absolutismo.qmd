@@ -1,5 +1,192 @@
 # O Absolutismo: teoria e prática {#sec-absolutismo}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+"**O Estado sou eu.**" A frase, atribuída ao rei francês **Luís XIV** (r. 1643–1715), resume como poucas o auge do poder monárquico na Europa moderna. Luís reinou por 72 anos, mandou construir o deslumbrante palácio de **Versalhes**, escolheu o Sol como seu símbolo pessoal — o "Rei Sol" — e governou sem convocar nenhuma assembleia que limitasse sua vontade. Nele, o processo de centralização que você acompanhou desde o fim da Idade Média chegou ao ponto máximo: o **Absolutismo**, o regime em que o soberano concentra em suas mãos, sem contrapesos formais, todo o poder do Estado. Mas atenção: por trás da imagem de um rei "onipotente" havia limites, negociações e contradições — e foi justamente das tensões acumuladas sob o Absolutismo que nasceriam, no século seguinte, as grandes **revoluções** que fundariam o mundo contemporâneo. Este capítulo, que encerra o volume do mundo moderno, examina a **teoria** que justificava o poder absoluto e a **prática** de quem o exerceu — e abre a porta para as revoluções que virão.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- definir o **Absolutismo** como forma de organização política e distingui-lo do totalitarismo moderno;
+- explicar as principais **teorias** que justificaram o poder absoluto (Bossuet, Hobbes, Bodin);
+- caracterizar a **prática** absolutista, sobretudo na **França de Luís XIV** (Versalhes, a corte);
+- relacionar o Absolutismo ao **mercantilismo**, à sociedade de ordens e às tensões que levariam às revoluções;
+- discutir o debate historiográfico sobre a natureza do Estado absolutista (a quem ele servia? era mesmo "absoluto"?).
 :::
+
+## O que foi o Absolutismo {#sec-o-que-foi}
+
+O **Absolutismo** foi o sistema político predominante na Europa entre os séculos XVI e XVIII, no qual o **rei** concentrava em sua pessoa os poderes que hoje consideramos separados — fazer as leis, executá-las e julgar —, sem estar submetido a nenhuma assembleia, parlamento ou constituição que os limitasse formalmente. Ele é o **ponto culminante** do processo de centralização iniciado com as monarquias nacionais (@sec-centralizacao): se antes o rei submetera a nobreza e unificara o território, agora reivindicava um poder **uno, indivisível e supremo**. A palavra vem do latim *absolutus*, "solto", "desligado" — o poder do rei estava "desligado" de qualquer amarra.
+
+::: {#fig-concentracao-poder}
+
+```{.tikz}
+%%| filename: fig-concentracao-poder
+%%| alt: Diagrama da concentração dos poderes executivo, legislativo e judiciário nas mãos do rei absolutista.
+\begin{tikzpicture}[>=stealth]
+  \node[draw, very thick, circle, fill=manualyellow!25, align=center, font=\scriptsize\bfseries, minimum size=2cm] (rei) at (0,0) {REI\\absoluto};
+  \node[draw, fill=manualblue!16, rounded corners, align=center, font=\scriptsize, text width=2.4cm] (l) at (-4,0) {\textbf{Legislativo}\\faz as leis};
+  \node[draw, fill=manualgreen!16, rounded corners, align=center, font=\scriptsize, text width=2.4cm] (e) at (0,2.3) {\textbf{Executivo}\\governa, exército};
+  \node[draw, fill=manualred!14, rounded corners, align=center, font=\scriptsize, text width=2.4cm] (j) at (4,0) {\textbf{Judiciário}\\julga};
+  \node[draw, fill=manualgray!20, rounded corners, align=center, font=\scriptsize, text width=2.4cm] (r) at (0,-2.3) {\textbf{Religião}\\legitimação divina};
+  \draw[vetor] (l) -- (rei); \draw[vetor] (e) -- (rei);
+  \draw[vetor] (j) -- (rei); \draw[vetor] (r) -- (rei);
+\end{tikzpicture}
+```
+
+No Absolutismo, os poderes convergem para o **rei**. A futura crítica iluminista proporá justamente o contrário: **separar** esses poderes para limitar o soberano (Volume 9).
+:::
+
+::: {.callout-important title="Armadilha comum: Absolutismo não é totalitarismo"}
+Um erro grave é imaginar o rei absolutista como um ditador **totalitário** ao estilo do século XX, controlando toda a vida dos súditos. Não é o caso. O poder absoluto era **absoluto em teoria**, mas na prática esbarrava em vários **limites**: os **costumes** e as "leis fundamentais" do reino, os **privilégios** da nobreza e do clero (que o rei respeitava), a **religião** (o rei devia governar como bom cristão), os poderes locais e regionais, e a simples **falta de meios** técnicos para vigiar todos. O Absolutismo não pretendia **transformar** a sociedade nem controlar as consciências (como o totalitarismo), mas **manter a ordem** existente sob o comando do monarca. Confundir os dois é um **anacronismo** clássico — e frequentemente cobrado.
+:::
+
+## A teoria: como se justificava o poder absoluto {#sec-teoria-absolutismo}
+
+Um poder tão concentrado precisava de **justificação**. Diversos pensadores, entre os séculos XVI e XVII, ofereceram teorias para legitimá-lo — por caminhos bem diferentes (@fig-teoricos). Vale distinguir duas grandes vias.
+
+::: {#fig-teoricos}
+
+```{.tikz}
+%%| filename: fig-teoricos
+%%| alt: Diagrama comparando as duas justificativas do absolutismo: direito divino (Bossuet) e contrato social (Hobbes).
+\begin{tikzpicture}[>=stealth]
+  \node[draw, very thick, rounded corners, fill=manualblue!14, align=center, font=\scriptsize, text width=4.5cm, minimum height=3cm] (b) at (-3.2,0)
+    {\textbf{DIREITO DIVINO}\\ (Bossuet)\\[3pt] \raggedright o poder do rei vem de \textbf{Deus}\\ o rei responde só a Deus\\ obedecer ao rei = obedecer a Deus\\ desobedecer = pecado};
+  \node[draw, very thick, rounded corners, fill=manualred!14, align=center, font=\scriptsize, text width=4.5cm, minimum height=3cm] (h) at (3.2,0)
+    {\textbf{CONTRATO SOCIAL}\\ (Hobbes)\\[3pt] \raggedright estado de natureza = guerra de todos\\ homens cedem seus direitos ao soberano\\ em troca de \textbf{segurança e ordem}\\ poder absoluto por \textbf{necessidade}};
+  \node[font=\scriptsize, align=center, text=manualgray] at (0,-2.3) {duas justificativas, um mesmo fim:\\ o \textbf{poder absoluto} do soberano};
+  \draw[vetor, manualgray] (b.south) -- (0,-2.0); \draw[vetor, manualgray] (h.south) -- (0,-2.0);
+\end{tikzpicture}
+```
+
+Duas justificativas do Absolutismo: a **religiosa** (o direito divino de Bossuet) e a **racional/contratual** (Hobbes). Chegam ao mesmo destino — o poder absoluto — por argumentos opostos.
+:::
+
+A primeira via era a do **direito divino dos reis**, de fundamento **religioso**. Seu maior teórico foi o bispo francês **Jacques Bossuet** (1627–1704), preceptor do próprio Luís XIV. Para Bossuet, o poder do rei vinha **diretamente de Deus**: o monarca era o representante divino na Terra, respondia **apenas a Deus** por seus atos, e por isso obedecer ao rei era um **dever religioso** — desobedecer-lhe, um **pecado**. Essa teoria envolvia o trono numa aura sagrada e tornava a rebelião não só um crime, mas uma ofensa a Deus.
+
+A segunda via era **racional e contratual**, e seu nome maior foi o filósofo inglês **Thomas Hobbes** (1588–1679), autor de *O Leviatã* (1651). Hobbes não recorreu a Deus, mas à **razão** e a uma hipótese sobre a natureza humana. Imaginou um **"estado de natureza"** anterior à sociedade, em que, sem um poder comum, os homens viveriam numa **"guerra de todos contra todos"** (*bellum omnium contra omnes*), pois seriam naturalmente egoístas e a vida seria "solitária, pobre, sórdida, embrutecida e curta". Para escapar desse caos, os homens fariam um **contrato**, cedendo todos os seus direitos a um **soberano** todo-poderoso (o "Leviatã") em troca de **segurança e ordem**. Por essa via, Hobbes justificava o poder **absoluto** não pela vontade de Deus, mas pela **necessidade** de evitar a barbárie. (Guarde bem esse raciocínio do **contrato social**: no próximo volume, Locke e Rousseau usarão a mesma ideia para chegar a conclusões **opostas** — a favor da liberdade e contra o absolutismo.)
+
+Antes deles, o francês **Jean Bodin** (1530–1596) já havia formulado o conceito jurídico de **soberania** — o poder supremo, perpétuo e indivisível do Estado, que residiria no rei —, e o florentino **Maquiavel** (@sec-letras-ciencia) havia dado à política uma análise realista e laica que também servia à afirmação do poder do príncipe.
+
+## A prática: a França de Luís XIV {#sec-luis-xiv}
+
+Nenhum reino encarnou o Absolutismo de forma tão completa quanto a **França de Luís XIV**, o "**Rei Sol**", o modelo imitado por toda a Europa. Como Luís, na prática, "domesticou" o poder e reinou sem contrapesos? Por meio de um conjunto de instrumentos.
+
+O mais engenhoso foi o palácio de **Versalhes**, para onde Luís transferiu a corte. Não era só luxo: era um **instrumento político**. Ao atrair para Versalhes a alta **nobreza** — antes turbulenta e rebelde (Luís vivera na infância a revolta da **Fronda**) —, o rei a transformou em **cortesãos** dependentes, ocupados com a etiqueta, os rituais e a disputa por favores régios, longe de suas bases regionais de poder. Uma nobreza entretida em quem entregaria a camisa ao rei pela manhã era uma nobreza **desarmada** politicamente. Além disso, Luís governou apoiado numa **burocracia** de funcionários (muitos oriundos da burguesia, a "nobreza de toga"), num **exército permanente** poderoso e na política econômica **mercantilista** de seu ministro **Colbert** (@sec-variantes-mercantilismo), que enchia os cofres para sustentar as guerras e o esplendor da corte. Em matéria religiosa, revogou o **Édito de Nantes** (1685), retirando a tolerância aos protestantes (huguenotes) e impondo a unidade católica — "**um rei, uma lei, uma fé**".
+
+::: {.callout-note title="Conceito-chave: a sociedade de corte"}
+O sociólogo **Norbert Elias**, em *A Sociedade de Corte* [@eliasCorte2001], mostrou que Versalhes foi uma verdadeira **engenharia social**. A **etiqueta** rígida (quem se senta, quem fala primeiro, quem acompanha o rei) não era frivolidade: era um **mecanismo de poder** que hierarquizava a nobreza e a mantinha na dependência do monarca, competindo por sinais de prestígio. Elias ligou esse processo ao que chamou de "**processo civilizador**": o autocontrole das emoções, as boas maneiras e o refinamento cortesão seriam formas de **disciplinar** a antiga nobreza guerreira, transformando o cavaleiro violento em cortesão polido. Assim, o luxo aparentemente inútil de Versalhes cumpria uma função **política** precisa: converter uma aristocracia perigosa numa aristocracia domesticada.
+:::
+
+O modelo francês espalhou-se, com variações, por outras monarquias. Antes de Luís XIV, a **Espanha** de **Filipe II** (r. 1556–1598) fora a grande potência absolutista, sustentada pela prata americana. No **Leste europeu**, o Absolutismo assumiria formas próprias no século XVIII: a **Rússia** de **Pedro, o Grande** (que modernizou o Estado à força e fundou São Petersburgo) e a **Prússia** dos Hohenzollern. A **Inglaterra**, porém, seguiria caminho **diferente e decisivo**: ali, a tentativa dos reis **Stuart** de impor o absolutismo chocou-se com um Parlamento forte, provocando as **Revoluções Inglesas do século XVII** (Volume 9), que **limitaram** o poder real e inauguraram a **monarquia parlamentar** — o embrião do liberalismo político. Enquanto o continente aprofundava o Absolutismo, a Inglaterra abria a via oposta.
+
+## As contradições do Absolutismo {#sec-contradicoes}
+
+O Absolutismo carregava uma **contradição** que acabaria por destruí-lo. Ele nascera, em parte, de uma aliança com a **burguesia**, que apoiara o rei em busca de **ordem, unidade e proteção** para seus negócios (@sec-centralizacao). Mas, à medida que a burguesia crescia em riqueza e ambição, o Absolutismo passou a lhe parecer um **estorvo**: os impostos pesados, os monopólios régios, os privilégios da nobreza e do clero (que não pagavam tributos), a ausência de liberdade econômica e de participação política tornaram-se cada vez mais **insuportáveis** para a classe que produzia a riqueza. Ao mesmo tempo, o **Iluminismo** (Volume 9) forneceria as armas intelectuais para questionar o direito divino e defender a **liberdade**, a **igualdade jurídica** e a **separação dos poderes**. Da tensão entre uma sociedade em transformação e um Estado que insistia em manter privilégios arcaicos nasceriam as grandes **revoluções burguesas** — a Inglesa, a Americana e, sobretudo, a **Francesa** de 1789, que derrubaria justamente a monarquia absoluta de Versalhes. O Absolutismo foi, assim, ao mesmo tempo, o **auge** do poder monárquico e o **prenúncio** de sua queda.
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+O Estado absolutista é um dos temas mais debatidos da história moderna. Duas grandes questões organizam a discussão.
+
+**A quem servia o Estado absolutista?** Aqui reencontramos o debate aberto no capítulo 2. Uma tradição, ligada ao marxismo clássico (e a Friedrich Engels), viu o Estado absolutista como um Estado de **equilíbrio**: um poder que, num momento em que a velha **nobreza** feudal declinava e a nova **burguesia** ainda não era forte o bastante para governar, teria se **erguido acima** das duas classes, arbitrando entre elas. Já o historiador **Perry Anderson**, em *Linhagens do Estado Absolutista* [@anderson2004], recusou a ideia de neutralidade: para ele, o absolutismo foi essencialmente um **aparelho da nobreza** — uma forma reorganizada de dominação **feudal**, um instrumento com que a aristocracia, após o fim da servidão, manteve seu domínio sobre os camponeses por meios políticos centralizados. A burguesia teria sido **tolerada e usada** (pelo comércio, pelos empréstimos), mas o Estado seria, no fundo, **aristocrático**. A divergência é fundamental: o Absolutismo foi um Estado **acima** das classes, um Estado da **nobreza** ou já um Estado a serviço do **capital** nascente? A resposta muda toda a leitura da transição para o mundo contemporâneo.
+
+**O poder absoluto era mesmo "absoluto"?** Uma corrente **revisionista** mais recente questionou a própria imagem do rei todo-poderoso. Estudando de perto o funcionamento concreto dos Estados — como o historiador português **António Manuel Hespanha**, em obras sobre o poder no Portugal do século XVII [@hespanha1994] —, esses autores mostraram que a monarquia estava longe de controlar tudo: o poder real era, na prática, **negociado, partilhado e limitado** por uma miríade de poderes locais, corporações, senhorios, tribunais, cidades e privilégios. O rei "absoluto" dependia da **cooperação** de elites regionais e frequentemente **recuava** diante delas. Nessa leitura, o Absolutismo teria sido mais um **ideal** e um **discurso** (uma teoria da soberania) do que uma realidade efetivamente centralizada; a expressão "monarquia absoluta" descreveria melhor a **pretensão** dos reis do que o **funcionamento** de seus reinos.
+
+::: {.callout-warning title="Controvérsia: um conceito em xeque?"}
+Levada ao extremo, a crítica revisionista chega a sugerir que o próprio conceito de "Absolutismo" deveria ser **abandonado** ou muito relativizado, por dar uma impressão falsa de poder ilimitado. Outros historiadores respondem que o conceito continua **útil**, desde que compreendido corretamente: o Absolutismo designa um **projeto** e uma **tendência** de concentração do poder e uma **teoria** da soberania (Bossuet, Hobbes, Bodin), não a afirmação ingênua de que os reis controlavam de fato cada aldeia. O debate é um ótimo exemplo de como os historiadores **revisam** os grandes conceitos herdados: nem os aceitam sem crítica, nem os descartam por completo, mas os **refinam** à luz de novas pesquisas e novas fontes. Ao estudar o Absolutismo, guarde as duas coisas: a **teoria** grandiosa do poder absoluto **e** a **prática** cheia de limites e negociações.
+:::
+
+## Resumo do capítulo {#sec-resumo}
+
+- O **Absolutismo** (séc. XVI–XVIII) foi o sistema político em que o **rei** concentrava, sem contrapesos formais, os poderes de legislar, executar e julgar — o **auge** da centralização iniciada com as monarquias nacionais.
+- **Não** é totalitarismo: o poder era absoluto **em teoria**, mas limitado na prática por **costumes**, "leis fundamentais", **privilégios** de nobreza e clero, religião e poderes locais. Buscava **manter a ordem**, não transformar a sociedade.
+- **Teorias** justificadoras: **direito divino** (Bossuet — o poder vem de Deus, o rei só responde a Deus, desobedecer é pecado) e **contrato social** (Hobbes, *O Leviatã* — do "estado de natureza"/"guerra de todos contra todos", os homens cedem seus direitos ao soberano por **segurança**). Também **Bodin** (soberania) e **Maquiavel** (política realista).
+- **Prática**: a **França de Luís XIV** ("Rei Sol", "O Estado sou eu") — **Versalhes** como instrumento de domesticação da **nobreza** (sociedade de corte, Norbert **Elias**), burocracia, exército permanente, **mercantilismo** de Colbert, revogação do **Édito de Nantes** (1685). Modelos: Espanha de Filipe II, Rússia de Pedro o Grande, Prússia. A **Inglaterra** seguiu o caminho **oposto** (Revoluções do séc. XVII → monarquia parlamentar).
+- **Contradição**: o Absolutismo apoiara-se na **burguesia** (que queria ordem), mas os impostos, monopólios e privilégios tornaram-se um **estorvo** para ela; somados ao **Iluminismo**, geraram as **revoluções burguesas** (Inglesa, Americana, **Francesa** de 1789).
+- Historiografia: a quem servia o Estado absolutista — Estado de **equilíbrio** entre classes (Engels), aparelho da **nobreza** (Perry Anderson) ou do **capital**? E era mesmo "absoluto"? A crítica **revisionista** (Hespanha) mostra um poder **negociado e limitado** — o Absolutismo como **projeto/teoria** mais do que realidade plena.
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Três focos garantem a prova: (1) a diferença entre **direito divino** (Bossuet) e **contrato social** (Hobbes); (2) **Versalhes** e a domesticação da nobreza (Luís XIV); (3) a **contradição** que liga o Absolutismo às futuras revoluções. E nunca confunda Absolutismo com totalitarismo.
+:::
+
+**1.** Defina o **Absolutismo** e explique por que ele **não** deve ser confundido com o totalitarismo moderno.
+
+::: {.callout-tip collapse="true" title="Solução"}
+O **Absolutismo** foi o sistema político (séc. XVI–XVIII) em que o **rei concentrava** em sua pessoa os poderes de legislar, executar e julgar, sem submeter-se a assembleias ou constituições — o ponto culminante da centralização monárquica. Ele **não** se confunde com o **totalitarismo** do século XX porque, embora o poder fosse absoluto **em teoria**, na prática esbarrava em vários **limites**: os **costumes** e "leis fundamentais" do reino, os **privilégios** da nobreza e do clero, a **religião** (o rei devia ser bom cristão), os poderes locais e a falta de meios técnicos para controlar tudo. Além disso, o Absolutismo pretendia **manter a ordem** social existente sob o comando do rei, e **não transformar** a sociedade nem controlar as consciências e a vida privada dos súditos (como fará o totalitarismo). Igualar os dois é um **anacronismo**.
+:::
+
+**2.** Compare a justificativa do poder absoluto por **Bossuet** e por **Hobbes**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+- **Bossuet** (direito divino, fundamento **religioso**): o poder do rei vem **diretamente de Deus**; o monarca é o representante divino na Terra e responde **apenas a Deus** por seus atos. Por isso, obedecer ao rei é um **dever religioso** e desobedecer-lhe é **pecado**. A monarquia é envolvida numa aura **sagrada**.
+- **Hobbes** (contrato social, fundamento **racional**): parte de uma hipótese sobre a natureza humana. No **"estado de natureza"**, sem um poder comum, haveria uma "**guerra de todos contra todos**", pois os homens são egoístas. Para escapar do caos, fariam um **contrato**, cedendo seus direitos a um **soberano** todo-poderoso (o "Leviatã") em troca de **segurança e ordem**.
+
+**Diferença de fundo:** ambos chegam ao **mesmo destino** (o poder absoluto), mas por caminhos **opostos** — Bossuet pela **vontade de Deus**, Hobbes pela **necessidade racional** de evitar a barbárie. Curiosamente, a ideia hobbesiana de **contrato social** seria depois usada por Locke e Rousseau para defender o **oposto**: a liberdade e a limitação do poder.
+:::
+
+**3.** Explique como o palácio de **Versalhes** funcionou como um **instrumento político** nas mãos de Luís XIV.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Versalhes não era apenas luxo: foi um **instrumento de controle da nobreza**. Ao transferir a corte para o palácio e atrair para lá a alta **nobreza** — antes turbulenta e rebelde (Luís vivera a revolta da Fronda na infância) —, o rei transformou os nobres em **cortesãos** dependentes, ocupados com a **etiqueta**, os rituais e a disputa por favores e sinais de prestígio régio, **longe** de suas bases regionais de poder. Uma nobreza entretida em cerimônias e dependente do rei era uma nobreza **desarmada politicamente**. Como mostrou **Norbert Elias** (*A Sociedade de Corte*), a etiqueta rígida era um **mecanismo de poder** que hierarquizava e disciplinava a aristocracia, "domesticando" a antiga nobreza guerreira. Assim, o esplendor de Versalhes cumpria uma função política precisa: **neutralizar** a nobreza e concentrar o poder no monarca.
+:::
+
+**4.** Por que a **Inglaterra** seguiu um caminho político diferente do Absolutismo continental?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque, na Inglaterra, a tentativa dos reis da dinastia **Stuart** de impor um poder absoluto ao estilo francês **chocou-se com um Parlamento forte** e com uma tradição de limitação do poder real. Esse conflito desencadeou as **Revoluções Inglesas do século XVII** (a Revolução Puritana e a Revolução Gloriosa — tema do Volume 9), que **derrotaram** o projeto absolutista e **limitaram** o poder do rei, submetendo-o ao Parlamento. O resultado foi a **monarquia parlamentar**, na qual o soberano reina mas não governa sozinho — o embrião do **liberalismo político**. Assim, enquanto o continente (França, Espanha, Prússia, Rússia) aprofundava o Absolutismo, a Inglaterra abriu a **via oposta**, tornando-se a referência para os críticos do poder absoluto e para as revoluções seguintes.
+:::
+
+**5.** Explique a **contradição interna** do Absolutismo que ajuda a entender as revoluções do século seguinte.
+
+::: {.callout-tip collapse="true" title="Solução"}
+O Absolutismo nascera em parte de uma **aliança com a burguesia**, que apoiara a centralização régia em busca de **ordem, unidade e proteção** para seus negócios. A contradição é que, à medida que a burguesia **crescia** em riqueza e ambição, o Absolutismo passou a lhe parecer um **obstáculo**: os **impostos pesados**, os **monopólios** régios, os **privilégios** fiscais da nobreza e do clero (que quase não pagavam tributos) e a **ausência de liberdade econômica e de participação política** tornaram-se insuportáveis para a classe que produzia a riqueza. Somando-se a isso as ideias do **Iluminismo** (liberdade, igualdade jurídica, separação dos poderes, crítica ao direito divino), formou-se o caldo das **revoluções burguesas** — a Inglesa, a Americana e sobretudo a **Francesa de 1789**, que derrubaria a monarquia absoluta. Por isso se diz que o Absolutismo foi, ao mesmo tempo, o **auge** do poder monárquico e o **prenúncio** de sua queda.
+:::
+
+**6.** (Estilo ENEM) Leia o texto.
+
+> "Os príncipes agem como ministros de Deus e seus lugar-tenentes na Terra. É por meio deles que Deus exerce seu império. [...] Por isso, o trono real não é o trono de um homem, mas o trono do próprio Deus. Vê-se, disso, que a pessoa dos reis é sagrada, e que atentar contra eles é um sacrilégio." — Jacques Bossuet, *Política extraída das Sagradas Escrituras* (1709)
+
+O texto fundamenta o poder absoluto com base
+
+**(a)** no contrato social firmado entre os indivíduos.
+**(b)** na soberania popular e na vontade geral.
+**(c)** na teoria do direito divino dos reis.
+**(d)** na separação entre os poderes do Estado.
+**(e)** na igualdade natural entre governantes e governados.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (c).** Bossuet afirma que os príncipes são "**ministros de Deus**" e "lugar-tenentes na Terra", que o trono é "o trono do próprio Deus" e que a pessoa dos reis é "**sagrada**" — exatamente a **teoria do direito divino dos reis**, que legitima o poder absoluto por origem **divina**.
+
+Por que as demais estão erradas: (a) o contrato social é a via de **Hobbes** (e depois Locke/Rousseau), não de Bossuet; (b) a soberania popular e a vontade geral são ideias **iluministas** (Rousseau), opostas ao direito divino; (d) a separação dos poderes é proposta de **Montesquieu**, crítica do absolutismo; (e) o texto afirma o contrário — a natureza **sagrada e superior** do rei.
+:::
+
+**7.** (Estilo vestibular — dissertativa) Discuta a afirmação: "O poder do rei absolutista era, na prática, menos absoluto do que a teoria proclamava". Use argumentos da historiografia.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Resposta esperada (síntese): a afirmação é **amplamente sustentada** pela historiografia recente, sobretudo **revisionista**. Na **teoria**, o Absolutismo proclamava um poder **uno, indivisível e supremo**, "desligado" de qualquer amarra (Bossuet, Hobbes, Bodin). Na **prática**, porém, o poder do rei era **limitado e negociado** por diversos fatores: os **costumes** e "leis fundamentais" do reino; os **privilégios** da nobreza, do clero, das cidades e das corporações, que o rei respeitava; a força de **poderes locais e regionais** (senhorios, tribunais, elites provinciais); e a simples **falta de meios técnicos** para administrar e vigiar todo o território. Historiadores como **António Manuel Hespanha** mostraram que a monarquia dependia da **cooperação** das elites locais e frequentemente **recuava** diante delas — de modo que o poder era **partilhado**, não concentrado de fato. Nessa leitura, o Absolutismo teria sido mais um **projeto**, um **ideal** e um **discurso** de soberania do que uma realidade plenamente centralizada. Isso **não** significa abandonar o conceito, mas compreendê-lo corretamente: o Absolutismo designa uma **tendência** e uma **teoria** de concentração do poder, não a afirmação de que os reis controlavam cada aldeia. Uma boa resposta deve **contrastar teoria e prática** e citar a crítica revisionista (poder negociado/limitado), reconhecendo que o conceito segue útil se bem entendido. (Deve mencionar ao menos: os limites concretos ao poder real e a distinção entre teoria/projeto e prática.)
+:::
+
+**8.** Compare as interpretações de **Perry Anderson** e do **marxismo clássico (Engels)** sobre a quem servia o Estado absolutista.
+
+::: {.callout-tip collapse="true" title="Solução"}
+- **Marxismo clássico (Engels) — Estado de equilíbrio**: o Estado absolutista teria surgido num momento em que a velha **nobreza** feudal declinava e a **burguesia** ainda não era forte o bastante para governar; nesse impasse, o Estado teria se **erguido acima** das duas classes, **arbitrando** entre elas — um poder relativamente **autônomo** e equilibrador.
+- **Perry Anderson** (*Linhagens do Estado Absolutista*) — **aparelho da nobreza**: recusa a ideia de neutralidade. Para ele, o Absolutismo foi essencialmente um **instrumento da nobreza feudal** reorganizado — uma nova forma de dominação **aristocrática** com que a nobreza, após o fim da servidão, manteve seu domínio sobre os camponeses por meios políticos centralizados. A burguesia foi **tolerada e usada** (comércio, empréstimos), mas o Estado seria, no fundo, **aristocrático**.
+
+**Diferença de fundo:** o Estado absolutista foi um poder **acima das classes** (equilíbrio) ou um instrumento **da nobreza** (Anderson)? A questão é central para entender a transição ao mundo contemporâneo: se o Estado servia à nobreza, as revoluções burguesas aparecem como ruptura necessária; se era um equilíbrio, a leitura muda. O exercício mostra como uma mesma instituição admite **interpretações divergentes** conforme o referencial teórico e as fontes de cada historiador.
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- ANDERSON, Perry. *Linhagens do Estado absolutista* [@anderson2004]. Análise marxista de referência sobre a natureza dos Estados absolutistas europeus.
+- ELIAS, Norbert. *A sociedade de corte* [@eliasCorte2001]. Estudo clássico sobre Versalhes e a domesticação da nobreza — indispensável para entender a corte de Luís XIV.
+- HESPANHA, António Manuel. *As vésperas do Leviathan* [@hespanha1994]. Referência da crítica revisionista sobre os limites concretos do poder na monarquia moderna.
+- SKINNER, Quentin. *As fundações do pensamento político moderno* [@skinner1996]. Sobre as teorias do poder e da soberania que sustentaram o Estado moderno.
+
+**Filmes e documentários**
+
+- *Vatel* (2000), dir. Roland Joffé. Retrata a vida na corte francesa e a lógica do fausto a serviço do rei.
+- *A Tomada do Poder por Luís XIV* (1966), dir. Roberto Rossellini. Reconstituição precisa de como o jovem rei consolidou seu poder absoluto e criou o "teatro" de Versalhes.
+- *A Favorita* (2018), dir. Yorgos Lanthimos. Ambientado na corte inglesa do início do século XVIII — útil para discutir intrigas e o poder cortesão (com liberdades ficcionais).

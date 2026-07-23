@@ -90,12 +90,12 @@
 
 | # | Capítulo | Arquivo | Status |
 |---|----------|---------|--------|
-| 1 | O Renascimento cultural e científico | `capitulos/vol06/cap01-renascimento.qmd` | ⬜ |
-| 2 | Monarquias nacionais e mercantilismo | `capitulos/vol06/cap02-monarquias-nacionais-mercantilismo.qmd` | ⬜ |
-| 3 | A expansão marítima europeia | `capitulos/vol06/cap03-expansao-maritima.qmd` | ⬜ |
-| 4 | Reforma Protestante e Contrarreforma | `capitulos/vol06/cap04-reforma-contrarreforma.qmd` | ⬜ |
-| 5 | A Revolução Científica | `capitulos/vol06/cap05-revolucao-cientifica.qmd` | ⬜ |
-| 6 | O Absolutismo: teoria e prática | `capitulos/vol06/cap06-absolutismo.qmd` | ⬜ |
+| 1 | O Renascimento cultural e científico | `capitulos/vol06/cap01-renascimento.qmd` | ✅ |
+| 2 | Monarquias nacionais e mercantilismo | `capitulos/vol06/cap02-monarquias-nacionais-mercantilismo.qmd` | ✅ |
+| 3 | A expansão marítima europeia | `capitulos/vol06/cap03-expansao-maritima.qmd` | ✅ |
+| 4 | Reforma Protestante e Contrarreforma | `capitulos/vol06/cap04-reforma-contrarreforma.qmd` | ✅ |
+| 5 | A Revolução Científica | `capitulos/vol06/cap05-revolucao-cientifica.qmd` | ✅ |
+| 6 | O Absolutismo: teoria e prática | `capitulos/vol06/cap06-absolutismo.qmd` | ✅ |
 
 ### Volume 7 — América Pré-Colombiana, Conquista e Colonização
 
