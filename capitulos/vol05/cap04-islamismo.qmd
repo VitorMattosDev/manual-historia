@@ -1,5 +1,239 @@
 # O Islã e o mundo árabe medieval {#sec-islamismo}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+No início do século VII, a Península Arábica era uma região periférica: um vasto deserto habitado por tribos beduínas em conflito, à margem dos dois grandes impérios da época (o Bizantino e o Persa). Cem anos depois, um novo poder nascido nesse deserto havia conquistado um território que ia da Península Ibérica, no Ocidente, até as fronteiras da Índia e da China, no Oriente — um dos impérios mais extensos que o mundo já vira, erguido em velocidade espantosa. No centro dessa transformação estava uma nova religião, o **Islã**, e a mensagem de um homem, **Maomé**. Enquanto a Europa ocidental vivia a ruralização feudal, o mundo islâmico construía cidades esplêndidas, traduzia os filósofos gregos, avançava na medicina, na matemática e na astronomia, e conectava três continentes pelo comércio. Este capítulo investiga o surgimento do Islã, sua fulminante expansão e o florescimento de uma civilização que foi, por séculos, a mais dinâmica do mundo — e cujo legado, dos algarismos que usamos à palavra "álgebra", está presente no seu cotidiano.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- caracterizar a **Arábia pré-islâmica** e o contexto do surgimento do Islã;
+- explicar a mensagem de **Maomé**, os pilares do Islã e o significado da **Hégira**;
+- descrever a **expansão** islâmica e a divisão entre **sunitas** e **xiitas**;
+- analisar o florescimento **cultural e científico** do mundo islâmico medieval e sua presença na **Península Ibérica** (Al-Andalus);
+- discutir criticamente estereótipos e o conceito de **orientalismo** na interpretação do Islã.
 :::
+
+## A Arábia antes do Islã {#sec-arabia-pre-islamica}
+
+Antes do Islã, a **Península Arábica** era povoada sobretudo por tribos **árabes**, muitas delas de **beduínos** nômades, que criavam camelos e cabras e cruzavam o deserto, ao lado de populações sedentárias nos oásis e nas cidades comerciais. A sociedade era **tribal**, organizada por laços de parentesco e clã, e marcada por frequentes conflitos entre as tribos. Em religião, predominava o **politeísmo**: cada tribo cultuava seus próprios deuses e ídolos.
+
+O centro religioso e comercial mais importante era **Meca**, cidade situada numa rota de caravanas. Ali ficava a **Caaba**, um santuário que abrigava ídolos de numerosas tribos e atraía peregrinos — o que fazia de Meca também um próspero centro de comércio, controlado por poderosas famílias de mercadores. Era, portanto, uma sociedade **em contato** com o mundo: pelas caravanas circulavam mercadorias, ideias e influências das religiões **monoteístas** vizinhas, o **judaísmo** e o **cristianismo**, já presentes na região. É nesse cruzamento de comércio, tribos e monoteísmos que surgirá a pregação de Maomé.
+
+## Maomé e o nascimento do Islã {#sec-maome}
+
+**Maomé** (em árabe, *Muhammad*, c. 570–632) nasceu em Meca, numa família de mercadores. Segundo a tradição islâmica, por volta dos 40 anos passou a receber **revelações** do anjo Gabriel, transmitindo-lhe a palavra de **Alá** (Deus, em árabe). Maomé começou então a pregar uma mensagem revolucionária para aquela sociedade: havia **um único Deus** (o **monoteísmo**), diante do qual todos os homens eram iguais; era preciso abandonar os ídolos, praticar a caridade, cuidar dos pobres e submeter-se à vontade divina. A própria palavra **Islã** significa "**submissão**" (a Deus), e **muçulmano** é "aquele que se submete".
+
+A pregação monoteísta de Maomé ameaçava interesses poderosos em Meca: se os ídolos fossem abandonados, a Caaba perderia os peregrinos, e com eles o comércio e o prestígio das elites locais. Perseguido, Maomé e seus seguidores **fugiram** de Meca para a cidade de **Iatreb** (depois chamada **Medina**, "a cidade do Profeta") em **622**. Essa fuga, chamada **Hégira**, é o marco fundador do Islã.
+
+::: {.callout-note title="Conceito-chave: a Hégira e o calendário muçulmano"}
+A **Hégira** (a "emigração" de Maomé de Meca para Medina, em 622) marca o **início do calendário muçulmano** — o ano 1 da era islâmica. Em Medina, Maomé não foi apenas líder religioso, mas também **político e militar**: organizou a primeira **comunidade de crentes** (a *umma*), unindo religião, lei e governo numa só estrutura. Essa **fusão entre fé e poder político** desde a origem é um traço distintivo do Islã, diferente da separação entre "César" e "Deus" que marcaria (com tensões) o Ocidente cristão. De Medina, Maomé retornou vitorioso a Meca em 630, destruiu os ídolos da Caaba e a consagrou ao Deus único.
+:::
+
+Quando Maomé morreu, em **632**, quase toda a Arábia estava unificada sob o Islã — pela primeira vez, as tribos antes dispersas e em guerra achavam-se reunidas por uma fé e uma comunidade comuns. Os ensinamentos revelados a Maomé foram compilados no livro sagrado do Islã, o **Alcorão** (*Qur'an*, "recitação"), complementado pela **Suna** (o conjunto de ditos e feitos do Profeta). A vida do muçulmano estrutura-se em torno dos **Cinco Pilares** (@fig-pilares-isla).
+
+::: {#fig-pilares-isla}
+
+```{.tikz}
+%%| filename: fig-pilares-isla
+%%| alt: Esquema dos cinco pilares do Islã sustentando a fé muçulmana.
+\begin{tikzpicture}
+  % base e teto
+  \draw[thick, manualgreen] (-0.5,0) -- (11.5,0);
+  \draw[thick, manualgreen] (-0.5,3.4) -- (11.5,3.4);
+  \node[above, font=\small\bfseries, text=manualgreen] at (5.5,3.5) {ISLÃ (submissão a Deus)};
+
+  \foreach \x/\t in {0/{\textbf{Chahada}\\profissão\\de fé}, 2.75/{\textbf{Salat}\\oração\\5×/dia}, 5.5/{\textbf{Zakat}\\esmola aos\\pobres}, 8.25/{\textbf{Saum}\\jejum no\\Ramadã}, 11/{\textbf{Hajj}\\peregrinação\\a Meca}} {
+    \draw[very thick, manualgreen!70] (\x,0.1) -- (\x,3.3);
+    \node[align=center, font=\scriptsize, fill=white] at (\x,1.7) {\t};
+  }
+\end{tikzpicture}
+```
+
+Os **Cinco Pilares** do Islã: a profissão de fé (Chahada), a oração cinco vezes ao dia (Salat), a esmola (Zakat), o jejum do Ramadã (Saum) e a peregrinação a Meca (Hajj).
+:::
+
+## A expansão islâmica e o cisma {#sec-expansao-cisma}
+
+Após a morte de Maomé, o Islã lançou-se numa **expansão** militar e religiosa extraordinária. Sob a liderança dos **califas** (os "sucessores" do Profeta) e, em seguida, das dinastias **omíada** e **abássida**, os exércitos árabes conquistaram, em pouco mais de um século, um território imenso (@fig-expansao-isla): a Pérsia, a Síria, o Egito, todo o norte da África e a **Península Ibérica** (a partir de 711). A leste, o Islã alcançou a Ásia Central e as portas da Índia. Na Europa, o avanço muçulmano só foi contido na **Batalha de Poitiers (732)**, na Gália, pelos francos de Carlos Martel (@sec-carolingios).
+
+Por que uma expansão tão rápida? Vários fatores combinaram-se: o **enfraquecimento** dos dois grandes impérios vizinhos (o Bizantino e o Persa Sassânida), exauridos por guerras mútuas; a **força unificadora** da nova fé, capaz de mobilizar as energias das tribos árabes; a promessa de **espólios e terras**; e uma política de **relativa tolerância** com os "povos do Livro" (judeus e cristãos), que, mediante o pagamento de um imposto, podiam manter sua religião — o que facilitava a administração dos territórios conquistados. Nem todos se converteram à força; a conversão, muitas vezes, foi um processo gradual, atraído pelas vantagens de pertencer à comunidade dominante.
+
+::: {#fig-expansao-isla}
+
+```{.tikz}
+%%| filename: fig-expansao-isla
+%%| alt: Mapa esquemático da expansão islâmica, de Meca até a Península Ibérica e a Ásia Central, com setas de deslocamento.
+\begin{tikzpicture}
+  \draw[eixo, gray] (0,0) rectangle (12,5);
+  \node[gray] at (6,5.35) {\scriptsize Expansão islâmica, séc. VII--VIII (esquemático)};
+
+  % núcleo
+  \node[draw, fill=manualgreen!25, circle, font=\scriptsize] (meca) at (7,2) {Meca};
+  \node[draw, fill=manualyellow!20, rounded corners, font=\scriptsize, align=center] (ib) at (1.3,3.6) {Península\\Ibérica\\(711)};
+  \node[draw, fill=manualyellow!20, rounded corners, font=\scriptsize, align=center] (naf) at (3.2,1.4) {N. da África};
+  \node[draw, fill=manualyellow!20, rounded corners, font=\scriptsize, align=center] (eg) at (5.5,1) {Egito};
+  \node[draw, fill=manualyellow!20, rounded corners, font=\scriptsize, align=center] (sir) at (8.2,3.4) {Síria};
+  \node[draw, fill=manualyellow!20, rounded corners, font=\scriptsize, align=center] (per) at (10.3,2.6) {Pérsia};
+  \node[draw, fill=manualyellow!20, rounded corners, font=\scriptsize, align=center] (as) at (11,4) {Ásia\\Central};
+
+  \draw[vetor, manualgreen!70] (meca) -- (sir); \draw[vetor, manualgreen!70] (meca) -- (eg);
+  \draw[vetor, manualgreen!70] (eg) -- (naf); \draw[vetor, manualgreen!70] (naf) -- (ib);
+  \draw[vetor, manualgreen!70] (meca) -- (per); \draw[vetor, manualgreen!70] (per) -- (as);
+\end{tikzpicture}
+```
+
+Em pouco mais de um século, o Islã expandiu-se de Meca até a **Península Ibérica** (Ocidente) e a **Ásia Central** (Oriente). O mapa é esquemático: as setas indicam sentidos de expansão, não trajetos precisos.
+:::
+
+A questão da **sucessão** de Maomé, porém, provocou a mais profunda divisão do Islã, que persiste até hoje: o cisma entre **sunitas** e **xiitas**.
+
+::: {.callout-note title="Conceito-chave: sunitas e xiitas"}
+A divisão nasceu de uma disputa **política** sobre quem deveria suceder Maomé como líder (**califa**) da comunidade:
+
+- os **sunitas** (de *Suna*, a tradição) defendiam que o líder deveria ser escolhido por consenso entre os mais capazes da comunidade, não precisando ser parente do Profeta. Formam a **maioria** dos muçulmanos até hoje (cerca de 85–90%).
+- os **xiitas** (de *Shiat Ali*, "o partido de Ali") sustentavam que a liderança pertencia por direito aos **descendentes de Maomé**, pela linhagem de seu genro e primo **Ali**. São **minoria**, concentrados sobretudo no atual **Irã** e no Iraque.
+
+A raiz da divisão é, portanto, mais **política** (quem tem legitimidade para governar a comunidade) do que doutrinária — embora, com o tempo, tenham se acumulado diferenças de rito e tradição. Compreender esse cisma é essencial para entender conflitos do Oriente Médio contemporâneo (Volume 14).
+:::
+
+## O florescimento cultural e científico {#sec-florescimento}
+
+Entre os séculos VIII e XIII, enquanto boa parte da Europa ocidental vivia sua fase rural e fragmentada, o mundo islâmico protagonizou um dos maiores **florescimentos culturais e científicos** da história — uma verdadeira "**era de ouro**". As grandes cidades islâmicas — **Bagdá** (capital abássida), **Córdoba** (na Península Ibérica), **Cairo**, **Damasco** — eram metrópoles cosmopolitas, com centenas de milhares de habitantes, bibliotecas, hospitais, universidades e observatórios, num tempo em que as maiores cidades europeias eram modestas.
+
+Esse florescimento teve bases materiais e culturais claras. O império islâmico **conectava** três continentes e controlava as grandes rotas comerciais entre o Mediterrâneo, a África, a Índia e a China — dessa posição vinham a riqueza e o intercâmbio de ideias. A língua **árabe** funcionava como idioma comum do saber, de Portugal à Ásia Central. E havia um **estímulo à busca do conhecimento**, valorizado pela própria tradição islâmica. Em Bagdá, a **Casa da Sabedoria** (*Bayt al-Hikma*) tornou-se um grande centro de **tradução**: para o árabe verteram-se as obras dos filósofos e cientistas **gregos** (Aristóteles, Platão, Galeno, Ptolomeu), **persas** e **indianos**, que assim foram **preservadas** e desenvolvidas — e, mais tarde, retransmitidas à Europa.
+
+As contribuições foram imensas (@fig-legado-isla). Na **matemática**, os sábios islâmicos difundiram os **algarismos** (que chamamos "arábicos", embora de origem indiana) e o conceito de **zero**, e desenvolveram a **álgebra** — palavra que vem do árabe *al-jabr*, do título de uma obra do matemático **Al-Khwarizmi** (de cujo nome, latinizado, deriva "algoritmo"). Na **medicina**, **Avicena** (Ibn Sina) escreveu o *Cânone da Medicina*, usado como manual nas universidades europeias por séculos. Na **filosofia**, **Averróis** (Ibn Rushd), em Córdoba, comentou Aristóteles e influenciou profundamente o pensamento cristão medieval (inclusive Tomás de Aquino). Houve avanços notáveis também na **astronomia**, na **óptica**, na **química** (a própria palavra "álcool" e "alquimia" são árabes), na geografia e na arquitetura (as mesquitas, os arcos, os pátios e jardins).
+
+::: {#fig-legado-isla}
+
+```{.tikz}
+%%| filename: fig-legado-isla
+%%| alt: Diagrama do legado científico e cultural islâmico em matemática, medicina, filosofia e outras áreas.
+\begin{tikzpicture}[>=stealth]
+  \node[draw, very thick, circle, fill=manualblue!14, align=center, font=\scriptsize\bfseries, minimum size=1.9cm] (c) at (0,0) {Era de ouro\\islâmica};
+  \node[draw, fill=manualyellow!22, rounded corners, align=center, font=\scriptsize, text width=2.7cm] at (-3.9,1.7) {\textbf{Matemática}\\álgebra, algarismos,\\zero, "algoritmo"};
+  \node[draw, fill=manualred!15, rounded corners, align=center, font=\scriptsize, text width=2.7cm] at (3.9,1.7) {\textbf{Medicina}\\Avicena, hospitais,\\\textit{Cânone}};
+  \node[draw, fill=manualgreen!16, rounded corners, align=center, font=\scriptsize, text width=2.7cm] at (-3.9,-1.7) {\textbf{Filosofia}\\Averróis, tradução\\de Aristóteles};
+  \node[draw, fill=manualgray!22, rounded corners, align=center, font=\scriptsize, text width=2.7cm] at (3.9,-1.7) {\textbf{Astronomia,\\óptica, química}\\álcool, alquimia};
+  \draw[vetor] (c) -- (-2.6,1.2); \draw[vetor] (c) -- (2.6,1.2);
+  \draw[vetor] (c) -- (-2.6,-1.2); \draw[vetor] (c) -- (2.6,-1.2);
+\end{tikzpicture}
+```
+
+Um legado que atravessa o cotidiano: álgebra, algarismos, "algoritmo", "álcool", a medicina de Avicena, a filosofia de Averróis. A civilização islâmica **preservou e ampliou** o saber antigo.
+:::
+
+Na **Península Ibérica**, esse esplendor tem um nome: **Al-Andalus**. Sob domínio muçulmano por quase oito séculos (711–1492), a região — com **Córdoba** à frente — tornou-se um dos centros mais brilhantes do mundo, onde por longos períodos **muçulmanos, cristãos e judeus** conviveram e colaboraram (a chamada *convivencia*), traduzindo obras e trocando conhecimentos. Foi em boa medida por essa ponte ibérica (e pela Sicília) que a filosofia grega e a ciência árabe **chegaram à Europa cristã**, alimentando o florescimento das universidades e, mais tarde, o Renascimento. A **Reconquista** cristã da Península, concluída em 1492, encerraria esse mundo — mas seu legado ficou impresso na língua (milhares de palavras portuguesas de origem árabe, como "azeite", "alface", "algodão", "oxalá"), na arquitetura e na cultura ibérica e, por ela, brasileira.
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+Poucos temas foram tão distorcidos por preconceitos quanto a história do Islã — e a própria discussão sobre esses preconceitos tornou-se um marco da historiografia contemporânea.
+
+**A visão eurocêntrica tradicional.** Durante séculos, a historiografia europeia tratou o Islã de forma **hostil e caricatural**: herdeira das Cruzadas e da rivalidade religiosa, tendia a apresentar os muçulmanos como "infiéis" fanáticos, a religião como intrinsecamente violenta ("expansão pela espada") e a civilização islâmica como estática ou parasitária — no máximo, uma mera "guardiã" que teria conservado o saber grego sem nada acrescentar. Nessa visão, o Islã era o **"outro"** ameaçador do Ocidente, definido por oposição.
+
+**A crítica do orientalismo (Edward Said).** Em 1978, o crítico palestino-americano **Edward Said**, em *Orientalismo* [@said2007], desferiu um golpe decisivo nessa tradição. Said mostrou que o "**Oriente**" (incluindo o mundo islâmico) foi, em larga medida, uma **invenção do Ocidente**: um conjunto de imagens e estereótipos (o Oriente como exótico, sensual, despótico, irracional, imutável) que dizia mais sobre os **interesses e a fantasia dos europeus** — sobretudo no contexto do **imperialismo** — do que sobre as sociedades reais que pretendia descrever. O **orientalismo**, para Said, era um discurso a serviço do **poder**: conhecer o Oriente de forma caricatural era também uma forma de **dominá-lo**. Historiadores como **Albert Hourani** [@hourani2006], por sua vez, procuraram escrever a história dos povos árabes **a partir de suas próprias fontes e dinâmicas**, e não como apêndice da história europeia.
+
+**Por que a divergência importa?** Porque ensina a desconfiar das imagens **prontas** sobre "os outros". Quando um manual antigo descrevia o Islã como fanático e a Europa como racional, não estava simplesmente descrevendo fatos — estava **construindo uma oposição** interessada, muitas vezes para justificar a superioridade e a dominação ocidentais. A lição vale para o presente: boa parte dos estereótipos atuais sobre muçulmanos (associá-los, em bloco, ao terrorismo ou ao atraso) repete velhos esquemas orientalistas. Estudar a era de ouro islâmica com rigor — reconhecendo suas conquistas científicas, sua diversidade interna e suas trocas com outras culturas — é também um exercício de **crítica aos preconceitos** que ainda circulam. Como sempre, a pergunta que fazemos ao passado revela de que lado estamos: descrever o Islã como "ameaça" ou como "civilização" não é neutro.
+
+::: {.callout-warning title="Controvérsia: 'expansão pela espada'?"}
+A ideia de que o Islã se espalhou **exclusivamente pela força** é uma simplificação. A expansão teve, sim, uma dimensão **militar** (as conquistas de territórios), como praticamente todos os grandes impérios da história — inclusive os cristãos. Mas a **conversão religiosa** das populações conquistadas foi, em geral, **gradual e não forçada**: judeus e cristãos (os "povos do Livro") podiam manter sua fé mediante um imposto, e muitos permaneceram não muçulmanos por séculos. A adesão ao Islã deveu-se tanto às **vantagens** de pertencer à comunidade dominante quanto ao **apelo** da própria mensagem. Reduzir tudo à "espada" reproduz o velho estereótipo; ignorar a violência das conquistas seria o erro oposto. A boa História, como sempre, foge dos dois extremos.
+:::
+
+## Resumo do capítulo {#sec-resumo}
+
+- A **Arábia pré-islâmica** era tribal, politeísta e comercial (Meca, a **Caaba**), em contato com o judaísmo e o cristianismo pelas rotas de caravanas.
+- **Maomé** (c. 570–632) pregou o **monoteísmo** (um só Deus, **Alá**) e a igualdade dos crentes. **Islã** = "submissão"; **muçulmano** = "aquele que se submete".
+- A **Hégira** (fuga de Meca para Medina, **622**) marca o início do calendário muçulmano e a fundação da *umma* (comunidade que funde fé e poder político). Livro sagrado: o **Alcorão**. Vida estruturada nos **Cinco Pilares** (Chahada, Salat, Zakat, Saum, Hajj).
+- Após 632, expansão **fulminante** (Pérsia, Egito, norte da África, Península Ibérica em 711; contida em **Poitiers, 732**), favorecida pelo enfraquecimento de Bizâncio e Pérsia, pela força unificadora da fé e pela relativa tolerância com os "povos do Livro".
+- Cisma **sunitas × xiitas**: disputa **política** sobre a sucessão de Maomé (consenso da comunidade × descendência de Ali). Sunitas são maioria; xiitas, minoria (Irã, Iraque).
+- **Era de ouro** (séc. VIII–XIII): Bagdá, Córdoba, Cairo; a **Casa da Sabedoria** traduziu e preservou o saber grego; avanços em **álgebra**, algarismos, **medicina** (Avicena), **filosofia** (Averróis), astronomia, química. Em **Al-Andalus** (Ibéria), a *convivencia* entre muçulmanos, cristãos e judeus foi ponte do saber para a Europa.
+- Historiografia: da visão **eurocêntrica** hostil (Islã como fanático e estático) à crítica do **orientalismo** (Edward Said): o "Oriente" como invenção interessada do Ocidente, a serviço da dominação.
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Cuidado com dois estereótipos frequentes em provas mal formuladas: o de que o Islã "só se expandiu pela espada" e o de que teria sido apenas "guardião" do saber grego. Saber **matizar** esses pontos rende respostas de alto nível.
+:::
+
+**1.** O que foi a **Hégira** e por que ela é considerada o marco fundador do Islã?
+
+::: {.callout-tip collapse="true" title="Solução"}
+A **Hégira** foi a **fuga de Maomé e seus seguidores de Meca para Medina**, em **622**, escapando da perseguição das elites mecanas (que se sentiam ameaçadas pela pregação monoteísta, prejudicial ao comércio de peregrinação da Caaba). É o marco fundador porque: (1) marca o **ano 1 do calendário muçulmano**; e (2) foi em **Medina** que Maomé organizou a primeira **comunidade de crentes** (a *umma*), tornando-se líder não só religioso, mas também **político e militar** — inaugurando a fusão entre fé, lei e governo que caracteriza o Islã. Foi a partir de Medina que a nova religião se estruturou e se expandiu, culminando no retorno vitorioso a Meca (630).
+:::
+
+**2.** Explique a origem da divisão entre **sunitas** e **xiitas**. Ela é de natureza sobretudo doutrinária ou política?
+
+::: {.callout-tip collapse="true" title="Solução"}
+A divisão nasceu de uma disputa sobre a **sucessão de Maomé** como líder (**califa**) da comunidade — portanto, de natureza sobretudo **política**, e não doutrinária de origem. Os **sunitas** defendiam que o líder poderia ser escolhido por **consenso** entre os mais capazes da comunidade, sem precisar ser parente do Profeta (formam a **maioria**). Os **xiitas** sustentavam que a liderança pertencia por direito aos **descendentes de Maomé**, pela linhagem de seu genro **Ali** (são **minoria**, concentrados no Irã e no Iraque). Com o tempo, acumularam-se também diferenças de rito e tradição, mas a **raiz** do cisma é a questão da legitimidade para **governar** a comunidade.
+:::
+
+**3.** Cite e explique três contribuições da "era de ouro" islâmica que estão presentes no nosso cotidiano.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Exemplos (bastam três): (1) os **algarismos** que usamos (ditos "arábicos", de origem indiana) e o conceito de **zero**, difundidos pelos matemáticos islâmicos — base de todo o nosso sistema numérico; (2) a **álgebra** (do árabe *al-jabr*) e a palavra "**algoritmo**" (do nome de **Al-Khwarizmi**), fundamentais na matemática e na computação; (3) avanços na **medicina**, como o *Cânone* de **Avicena**, manual das universidades europeias por séculos; (4) palavras e técnicas da **química** ("álcool", "alquimia"); (5) na língua portuguesa, milhares de palavras de origem árabe ("azeite", "algodão", "alface", "oxalá"). Todas mostram que a civilização islâmica não apenas preservou, mas **ampliou** o saber, com efeitos até hoje.
+:::
+
+**4.** Leia o trecho do Alcorão e responda.
+
+> "Não há compulsão na religião. Já se distingue a boa direção do descaminho." — @alcorao2012 (Alcorão, 2:256)
+
+(a) Que princípio esse versículo enuncia? (b) Como ele se relaciona com o debate sobre a "expansão pela espada"? (c) Por que é preciso cautela ao usar um único versículo para caracterizar toda uma religião?
+
+::: {.callout-tip collapse="true" title="Solução"}
+- (a) O versículo enuncia o princípio de que **não deve haver coação na fé** — a adesão religiosa deveria ser um ato de convicção, não de força.
+- (b) Ele oferece um contraponto ao estereótipo da "**expansão pela espada**": embora a expansão **territorial** islâmica tenha tido dimensão militar, a **conversão** das populações foi, em geral, **gradual e não forçada** (os "povos do Livro" podiam manter sua fé mediante imposto). O versículo ajuda a matizar a caricatura.
+- (c) É preciso cautela porque **nenhuma religião** se reduz a um único versículo: textos sagrados são vastos, contêm passagens diversas e são **interpretados** de formas variadas ao longo do tempo e conforme o contexto. Selecionar um trecho isolado — para condenar **ou** para defender — é um uso frágil da fonte. A crítica documental exige considerar o conjunto, o contexto histórico e as **interpretações** reais das comunidades, em vez de tomar um fragmento como "essência" eterna da religião.
+:::
+
+**5.** O que foi **Al-Andalus** e qual sua importância para a Europa? Explique o papel da Península Ibérica como "ponte" cultural.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Al-Andalus** era o nome do território da **Península Ibérica sob domínio muçulmano** (711–1492), tendo **Córdoba** como um de seus centros mais brilhantes. Sua importância: foi um dos polos mais avançados do mundo em ciência, filosofia e cultura, onde, em vários períodos, **muçulmanos, cristãos e judeus** conviveram e colaboraram (a *convivencia*), traduzindo e produzindo conhecimento. Al-Andalus (junto com a Sicília) funcionou como **"ponte"**: foi por ela que a **filosofia grega** (preservada e comentada em árabe, por exemplo por Averróis) e a **ciência árabe** (matemática, medicina, astronomia) **chegaram à Europa cristã**, alimentando as universidades medievais e, mais tarde, o Renascimento. Seu legado permanece na língua, na arquitetura e na cultura ibérica — e, por extensão, brasileira.
+:::
+
+**6.** (Estilo ENEM) Leia o texto.
+
+> "Enquanto na Europa cristã o saber se refugiava em poucos mosteiros, Bagdá reunia, na Casa da Sabedoria, tradutores que vertiam para o árabe as obras de gregos, persas e indianos. Ali, o conhecimento antigo não apenas foi conservado, mas expandido em novas direções — da álgebra à medicina." — texto elaborado para fins didáticos
+
+O texto evidencia que a civilização islâmica medieval
+
+**(a)** rejeitava todo conhecimento produzido por povos não muçulmanos.
+**(b)** limitou-se a copiar o saber grego, sem produzir nada de novo.
+**(c)** atuou como preservadora e também produtora de conhecimento científico.
+**(d)** era culturalmente inferior à Europa cristã da mesma época.
+**(e)** manteve-se isolada das demais culturas do mundo antigo.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (c).** O texto afirma que, na Casa da Sabedoria, o conhecimento antigo "não apenas foi **conservado**, mas **expandido** em novas direções" — ou seja, a civilização islâmica foi tanto **preservadora** quanto **produtora** de ciência.
+
+Por que as demais estão erradas: (a) e (e) contrariam o texto, que mostra os islâmicos **traduzindo** gregos, persas e indianos (abertura, não isolamento nem rejeição); (b) nega justamente a parte "expandido em novas direções"; (d) inverte a comparação — o texto sugere que, naquele momento, o mundo islâmico era **mais dinâmico** culturalmente que a Europa cristã.
+:::
+
+**7.** (Estilo vestibular — dissertativa) Explique o que Edward Said chamou de **orientalismo** e por que esse conceito é importante para estudar a história do Islã de forma crítica.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Resposta esperada (síntese): **orientalismo**, para **Edward Said** (*Orientalismo*, 1978), designa o conjunto de **imagens, estereótipos e discursos** por meio dos quais o **Ocidente inventou o "Oriente"** — incluindo o mundo islâmico — como um "outro" exótico, sensual, despótico, irracional e imutável. Segundo Said, essas representações diziam mais sobre os **interesses e as fantasias dos europeus** (especialmente no contexto do **imperialismo**) do que sobre as sociedades reais, e funcionavam a serviço do **poder**: descrever o Oriente como inferior e atrasado ajudava a **justificar** sua dominação. O conceito é importante para estudar o Islã criticamente porque nos ensina a **desconfiar das imagens prontas**: quando o Islã é retratado, em bloco, como fanático, violento ou estático, muitas vezes se repete um esquema orientalista, e não uma descrição rigorosa. Uma boa resposta deve concluir que estudar o Islã sem preconceito — reconhecendo sua diversidade, suas conquistas e suas trocas com outras culturas — é também um exercício de crítica ao eurocentrismo, com implicações para o combate a estereótipos atuais.
+:::
+
+**8.** Compare, em linhas gerais, a situação do **Ocidente cristão feudal** e a do **mundo islâmico** entre os séculos VIII e XI (economia, cidades, ciência).
+
+::: {.callout-tip collapse="true" title="Solução"}
+- **Ocidente cristão feudal:** economia **rural** e de subsistência, com pouco comércio e quase nenhuma moeda; **cidades encolhidas**; poder **fragmentado** (feudalismo); o saber refugiado em poucos **mosteiros**; produção científica modesta.
+- **Mundo islâmico:** economia **comercial e monetária** vibrante, conectando três continentes; **grandes cidades** cosmopolitas (Bagdá, Córdoba, Cairo) com bibliotecas, hospitais e observatórios; **florescimento científico** (álgebra, medicina, filosofia, astronomia) e tradução/preservação do saber antigo.
+
+**Síntese:** entre os séculos VIII e XI, o mundo islâmico era, em vários aspectos, **mais urbanizado, mais rico e mais avançado** cientificamente que a Europa ocidental — que só retomaria fôlego a partir do século XI, em parte graças ao contato com o saber islâmico (via Al-Andalus e Sicília). O exercício ajuda a **descentralizar** a narrativa eurocêntrica: no auge da Idade Média, o dinamismo estava, em boa medida, fora da Europa cristã.
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- HOURANI, Albert. *Uma história dos povos árabes* [@hourani2006]. A grande síntese moderna, que conta a história do mundo árabe a partir de suas próprias dinâmicas — leitura de referência.
+- LEWIS, Bernard. *Os árabes na história* [@lewis1982]. Panorama clássico e acessível da civilização árabe-islâmica (a ser lido também com espírito crítico quanto a certas ênfases).
+- SAID, Edward. *Orientalismo: o Oriente como invenção do Ocidente* [@said2007]. A obra que reconfigurou o debate: indispensável para pensar criticamente como o Ocidente representou o Islã.
+- *O Alcorão Sagrado* [@alcorao2012]. A fonte primária essencial — leia trechos para formar juízo próprio, em vez de depender de estereótipos.
+
+**Filmes e documentários**
+
+- *O Destino* (*Al-Massir*, 1997), dir. Youssef Chahine. Ambientado na Córdoba de **Averróis**, discute razão, fé e tolerância no auge de Al-Andalus.
+- Série documental *O Islã: Império da Fé* (PBS). Panorama da ascensão do Islã, de Maomé à era de ouro de Bagdá.
+- Documentário *Ciência e Islã* (BBC, com Jim Al-Khalili). Excelente sobre as contribuições científicas do mundo islâmico medieval.
