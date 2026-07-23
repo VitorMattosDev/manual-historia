@@ -1,5 +1,246 @@
 # Reforma Protestante e Contrarreforma {#sec-reforma-contrarreforma}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+No Brasil de hoje, quase um terço da população se declara **evangélica**, distribuída por centenas de igrejas diferentes; outra parcela é **católica**; e há espíritas, praticantes de religiões de matriz africana, judeus, muçulmanos, sem-religião. Essa pluralidade religiosa nos parece natural. Mas por mil anos, na Europa ocidental, houve **uma só** Igreja cristã — a **Católica**, com o papa em Roma —, e discordar dela publicamente podia levar à fogueira. Como se rompeu essa unidade? A resposta está num acontecimento decisivo do século XVI: a **Reforma Protestante**, iniciada em 1517 por um monge alemão chamado **Martinho Lutero**. Ao pregar suas ideias, Lutero dividiu para sempre a cristandade ocidental, provocou guerras que ensanguentaram a Europa por mais de um século e, sem pretender, contribuiu para moldar a mentalidade do mundo moderno — inclusive a relação entre religião, trabalho e dinheiro. Este capítulo conta essa ruptura e a reação da Igreja Católica, a **Contrarreforma** — cujos missionários, os jesuítas, logo cruzariam o Atlântico para catequizar os indígenas do Brasil.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- explicar as **causas** da Reforma (religiosas, econômicas, políticas e culturais);
+- caracterizar as ideias de **Lutero** e os princípios do protestantismo;
+- distinguir as principais vertentes reformadas: **luteranismo**, **calvinismo** e **anglicanismo**;
+- entender a **Contrarreforma** católica (Concílio de Trento, Inquisição, Índice, jesuítas);
+- discutir o debate historiográfico sobre a relação entre **protestantismo e capitalismo** (a tese de Weber).
 :::
+
+## As causas da Reforma {#sec-causas-reforma}
+
+A Reforma não foi obra do acaso nem de um só homem: foi o resultado de tensões acumuladas havia muito tempo (@fig-causas-reforma). A causa mais direta foi a **crise da Igreja Católica**. Ao longo da Baixa Idade Média, a Igreja acumulara enorme **riqueza e poder terreno**, e parte de seu clero mergulhara na **corrupção**: a **simonia** (venda de cargos religiosos), o **nepotismo** (favorecimento de parentes), o luxo dos altos prelados e, sobretudo, a **venda de indulgências** — o comércio do "perdão dos pecados" em troca de dinheiro. Muitos fiéis sinceros sentiam-se escandalizados: a Igreja parecia mais preocupada com o ouro do que com a salvação das almas.
+
+::: {#fig-causas-reforma}
+
+```{.tikz}
+%%| filename: fig-causas-reforma
+%%| alt: Diagrama das causas religiosas, econômicas, políticas e culturais da Reforma Protestante.
+\begin{tikzpicture}[>=stealth]
+  \node[draw, very thick, circle, fill=manualred!16, align=center, font=\scriptsize\bfseries, minimum size=1.9cm] (c) at (0,0) {REFORMA\\1517};
+  \node[draw, fill=manualblue!16, rounded corners, align=center, font=\scriptsize, text width=3cm] at (-4.3,1.7) {\textbf{Religiosas}\\corrupção do clero, venda de indulgências};
+  \node[draw, fill=manualgreen!16, rounded corners, align=center, font=\scriptsize, text width=3cm] at (4.3,1.7) {\textbf{Econômicas}\\burguesia x condenação do lucro e da usura};
+  \node[draw, fill=manualyellow!22, rounded corners, align=center, font=\scriptsize, text width=3cm] at (-4.3,-1.7) {\textbf{Políticas}\\reis e príncipes querem poder e bens da Igreja};
+  \node[draw, fill=manualgray!20, rounded corners, align=center, font=\scriptsize, text width=3cm] at (4.3,-1.7) {\textbf{Culturais}\\humanismo crítico (Erasmo), imprensa};
+  \draw[vetor] (c) -- (-2.7,1.2); \draw[vetor] (c) -- (2.7,1.2);
+  \draw[vetor] (c) -- (-2.7,-1.2); \draw[vetor] (c) -- (2.7,-1.2);
+\end{tikzpicture}
+```
+
+As causas da Reforma. O estopim foi religioso (as indulgências), mas ele só produziu uma ruptura tão profunda porque encontrou interesses **econômicos** e **políticos** prontos para apoiá-lo.
+:::
+
+A essa crise religiosa somaram-se outras causas. **Economicamente**, a **burguesia** em ascensão sentia-se incomodada com a doutrina católica, que condenava o **lucro** e a **usura** (o empréstimo a juros) como pecados — obstáculos ideológicos à mentalidade dos negócios. **Politicamente**, muitos **reis e príncipes** desejavam **libertar-se da tutela do papa** e, de quebra, apoderar-se das **vastas terras e rendas** da Igreja em seus territórios. **Culturalmente**, o **Humanismo** cristão de **Erasmo** (@sec-letras-ciencia) já vinha criticando os abusos do clero e defendendo um retorno à pureza dos Evangelhos, enquanto a **imprensa** (@sec-letras-ciencia) permitiria que as ideias reformadoras se espalhassem numa velocidade jamais vista. Estava armado o barril de pólvora — faltava a fagulha.
+
+## Lutero e a ruptura {#sec-lutero}
+
+A fagulha veio de **Martinho Lutero** (1483–1546), um monge agostiniano e professor de teologia na Alemanha. Angustiado com a questão da salvação, Lutero chegou a uma convicção que mudaria a história: a de que o ser humano se salva **pela fé**, e não pela compra de indulgências ou pela acumulação de "boas obras" e rituais. Em **31 de outubro de 1517**, indignado com a venda de indulgências promovida pelo frei Tetzel (para financiar a construção da Basílica de São Pedro, em Roma), Lutero teria afixado na porta da igreja de **Wittenberg** suas **95 Teses**, um documento que questionava a prática. Graças à imprensa, as teses se espalharam pela Alemanha em semanas.
+
+O que começou como um debate teológico tornou-se rapidamente uma ruptura. Convocado a se retratar diante do imperador na **Dieta de Worms** (1521), Lutero recusou-se: "Não posso e não quero retratar-me de nada". Excomungado pelo papa e condenado pelo imperador, foi salvo por **príncipes alemães** que o protegeram — muitos deles interessados nas terras da Igreja e em maior autonomia frente ao imperador e ao papa. Refugiado, Lutero **traduziu a Bíblia para o alemão**, tornando-a acessível ao povo (e, de passagem, ajudando a fixar a língua alemã moderna). Os princípios centrais de sua doutrina podem ser resumidos assim:
+
+- **Salvação pela fé** (*sola fide*): o ser humano é justificado diante de Deus pela fé, não pelas obras ou pela mediação da Igreja;
+- **A Bíblia como única autoridade** (*sola scriptura*): cada fiel deve poder ler e interpretar as Escrituras, sem depender exclusivamente do clero;
+- **Sacerdócio universal**: todos os crentes são "sacerdotes" diante de Deus — o que reduz o papel intermediário do clero;
+- **Redução dos sacramentos**: apenas dois (batismo e eucaristia), contra os sete católicos;
+- **Rejeição** do culto às imagens, do celibato clerical e da autoridade do papa.
+
+::: {.callout-important title="Armadilha comum: a Guerra dos Camponeses e o conservadorismo de Lutero"}
+Um erro comum é imaginar Lutero como um revolucionário social. Não foi. Quando suas ideias de liberdade cristã inspiraram a **Guerra dos Camponeses** (1524–1525) — uma grande revolta dos servos alemães contra os senhores —, Lutero **condenou** os camponeses com veemência, conclamando os príncipes a esmagá-los ("matai-os como a cães raivosos"). A Reforma foi radical no plano **religioso**, mas Lutero era **conservador** no plano **social e político**: pregava a obediência às autoridades. Essa distinção — ruptura religiosa, mas aliança com os poderes estabelecidos — é essencial para não anacronizar o personagem.
+:::
+
+## As vertentes do protestantismo {#sec-vertentes}
+
+A Reforma não gerou uma única igreja, mas **várias** — e essa fragmentação é uma de suas marcas (@fig-ramos-cristianismo). Além do **luteranismo**, que se firmou na Alemanha e na Escandinávia, surgiram outras vertentes importantes.
+
+::: {#fig-ramos-cristianismo}
+
+```{.tikz}
+%%| filename: fig-ramos-cristianismo
+%%| alt: Diagrama em árvore da divisão do cristianismo ocidental na Reforma: catolicismo, luteranismo, calvinismo e anglicanismo.
+\begin{tikzpicture}[>=stealth]
+  \node[draw, very thick, rounded corners, fill=manualgray!18, align=center, font=\scriptsize\bfseries, text width=3.2cm] (r) at (0,3) {CRISTIANISMO OCIDENTAL\\(Igreja Católica)};
+  \node[draw, rounded corners, fill=manualred!14, align=center, font=\scriptsize, text width=2.3cm] (cat) at (-4.6,0.6) {\textbf{Católicos}\\permanecem com o papa};
+  \node[draw, rounded corners, fill=manualblue!16, align=center, font=\scriptsize, text width=2.3cm] (lut) at (-1.6,0.6) {\textbf{Luteranismo}\\Lutero — Alemanha};
+  \node[draw, rounded corners, fill=manualgreen!16, align=center, font=\scriptsize, text width=2.3cm] (cal) at (1.6,0.6) {\textbf{Calvinismo}\\Calvino — Genebra};
+  \node[draw, rounded corners, fill=manualyellow!22, align=center, font=\scriptsize, text width=2.3cm] (ang) at (4.6,0.6) {\textbf{Anglicanismo}\\Henrique VIII — Inglaterra};
+  \draw[vetor] (r) -- (cat); \draw[vetor] (r) -- (lut);
+  \draw[vetor] (r) -- (cal); \draw[vetor] (r) -- (ang);
+\end{tikzpicture}
+```
+
+A Reforma **fragmentou** o cristianismo ocidental. Ao contrário da Igreja Católica, unificada sob o papa, o protestantismo multiplicou-se em ramos autônomos — uma consequência do princípio da livre interpretação da Bíblia.
+:::
+
+O **calvinismo** foi fundado pelo francês **João Calvino** (1509–1564), que a partir de **Genebra** (Suíça) desenvolveu uma doutrina rigorosa. Seu ponto mais distintivo é a **predestinação**: a ideia de que Deus já **escolheu de antemão** quem será salvo e quem será condenado. Como saber se você é um "eleito"? Calvino sugeria que o **sucesso** no trabalho e a **prosperidade material**, alcançados com esforço, disciplina e vida regrada, poderiam ser **sinais** da graça divina. Essa valorização do trabalho, da poupança e do êxito econômico agradou enormemente à **burguesia** — e o calvinismo espalhou-se pela Europa comercial: **França** (onde os calvinistas eram os **huguenotes**), **Países Baixos**, **Escócia** (os presbiterianos) e **Inglaterra** (os **puritanos**, que depois colonizariam a Nova Inglaterra, na América do Norte — Volume 7).
+
+O **anglicanismo** teve origem peculiar, mais **política** do que teológica. O rei **Henrique VIII** (r. 1509–1547) rompeu com Roma porque o papa se recusou a anular seu casamento (ele queria um herdeiro homem e um novo casamento). Pelo **Ato de Supremacia** (**1534**), Henrique declarou-se **chefe supremo da Igreja da Inglaterra**, confiscou os bens da Igreja Católica e criou uma igreja nacional — a **anglicana** —, que manteve muito da estrutura e dos ritos católicos, mas subordinada ao **rei**, não ao papa. Consolidou-se sob sua filha, a rainha **Elizabeth I** (r. 1558–1603).
+
+## A Contrarreforma: a reação católica {#sec-contrarreforma}
+
+A Igreja Católica não assistiu passiva à sua fragmentação. A partir de meados do século XVI, empreendeu a **Contrarreforma** (ou Reforma Católica): um movimento que teve dois lados — **reagir** ao protestantismo e **reformar-se** internamente. Seu centro foi o **Concílio de Trento** (**1545–1563**), uma longa assembleia de bispos que (@fig-linha-reforma):
+
+- **reafirmou os dogmas** católicos contestados pelos protestantes (a autoridade do papa, os sete sacramentos, o valor das boas obras, o culto aos santos, a Bíblia interpretada pela Igreja);
+- **combateu a corrupção** interna: proibiu a venda de indulgências, exigiu a formação do clero em **seminários** e maior disciplina;
+- reafirmou a **hierarquia** e a autoridade eclesiástica.
+
+::: {#fig-linha-reforma}
+
+```{.tikz}
+%%| filename: fig-linha-reforma
+%%| alt: Linha do tempo da Reforma e da Contrarreforma, de 1517 a 1563.
+\begin{tikzpicture}[>=stealth]
+  \draw[eixo] (0,0) -- (13.5,0);
+  \node[eixo, gray] at (13.5,-0.45) {\scriptsize tempo};
+
+  \node[ponto] at (1.3,0) {};
+  \node[below] at (1.3,-0.15) {\scriptsize 1517};
+  \node[above, align=center, text=manualred] at (1.3,0.2) {\scriptsize 95 Teses\\\scriptsize (Lutero)};
+
+  \node[ponto] at (4.0,0) {};
+  \node[below] at (4.0,-0.15) {\scriptsize 1534};
+  \node[above, align=center, text=manualyellow] at (4.0,0.25) {\scriptsize Ato de Supremacia\\\scriptsize (anglicanismo)};
+
+  \node[ponto] at (7.0,0) {};
+  \node[below] at (7.0,-0.15) {\scriptsize 1536};
+  \node[above, align=center, text=manualgreen] at (7.0,0.2) {\scriptsize Calvino\\\scriptsize em Genebra};
+
+  \node[ponto] at (9.7,0) {};
+  \node[below] at (9.7,-0.15) {\scriptsize 1545--63};
+  \node[above, align=center, text=manualblue] at (9.7,0.2) {\scriptsize Concílio de\\\scriptsize Trento};
+
+  \node[ponto] at (12.3,0) {};
+  \node[below] at (12.3,-0.15) {\scriptsize 1540};
+  \node[above, align=center, text=manualblue] at (12.3,0.2) {\scriptsize Jesuítas\\\scriptsize (Loyola)};
+\end{tikzpicture}
+```
+
+Da ruptura à reação: as 95 Teses (1517) abrem a Reforma; o Concílio de Trento (1545–1563) e os jesuítas organizam a Contrarreforma. (Os marcos não estão em escala rigorosa.)
+:::
+
+A Contrarreforma teve ainda três instrumentos poderosos. O **Tribunal do Santo Ofício** (a **Inquisição**) foi reativado para perseguir "hereges". O **Índice de Livros Proibidos** (*Index*) listava as obras que os católicos não podiam ler, num esforço de controle sobre a explosão de impressos. E, sobretudo, criou-se em **1540** a **Companhia de Jesus** — os **jesuítas** —, ordem fundada pelo espanhol **Inácio de Loyola** (1491–1556), organizada com disciplina quase militar e dedicada à **educação** (fundando colégios por toda a Europa) e às **missões**. Foram os jesuítas que se espalharam pelo mundo com a expansão marítima, catequizando na Ásia, na América espanhola e, com destaque, no **Brasil** — onde chegaram em 1549, com Manuel da Nóbrega e, depois, José de Anchieta, e onde teriam papel central na colonização e na relação com os indígenas (Volume 8).
+
+::: {.callout-note title="Conceito-chave: as guerras religiosas"}
+A divisão religiosa não foi pacífica: mergulhou a Europa em mais de um século de **guerras de religião**. Na **França**, católicos e huguenotes (calvinistas) se massacraram, com episódios terríveis como a **Noite de São Bartolomeu** (1572), em que milhares de protestantes foram assassinados em Paris. O conflito só se acalmou com o **Édito de Nantes** (1598), que concedeu tolerância aos huguenotes. Mais tarde, a **Guerra dos Trinta Anos** (1618–1648) — que começou como conflito religioso na Alemanha e se tornou uma disputa de potências — devastaria a Europa central, encerrando-se com a **Paz de Vestfália** (1648), marco da tolerância e do moderno sistema de Estados soberanos. Religião e política, no início da Idade Moderna, eram **inseparáveis**.
+:::
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+O debate historiográfico mais célebre sobre a Reforma não é teológico, mas **sociológico**: qual foi a relação entre o **protestantismo** e o surgimento do **capitalismo**?
+
+**A tese de Max Weber: a ética protestante e o "espírito" do capitalismo.** Em uma das obras mais influentes das ciências sociais, *A Ética Protestante e o Espírito do Capitalismo* (1905), o sociólogo alemão **Max Weber** [@weber2004] observou que, nos países de maioria **protestante** (sobretudo **calvinista**), o capitalismo se desenvolveu mais cedo e mais forte. Por quê? Weber argumentou que a doutrina calvinista da **predestinação** criara uma **mentalidade** peculiar: como o sucesso material podia ser lido como **sinal** da graça divina, o protestante era levado a trabalhar arduamente, viver de modo **disciplinado e ascético**, evitar o desperdício e **reinvestir** os lucros (em vez de gastá-los em luxo, como a nobreza católica). Essa "ética" — trabalho como vocação, poupança, disciplina — teria fornecido o "**espírito**" necessário à acumulação capitalista. Atenção: Weber **não** disse que o protestantismo "criou" o capitalismo, nem que os calvinistas *queriam* enriquecer por ganância; disse que uma certa **mentalidade religiosa** teve, sem querer, **afinidade** com o comportamento econômico capitalista.
+
+**As críticas: causa ou correlação?** A tese de Weber foi muito debatida. Críticos apontaram que o **capitalismo comercial** já florescia em cidades **católicas** (Veneza, Florença, os banqueiros italianos) muito antes da Reforma — logo, o protestantismo não seria condição necessária. O historiador **R. H. Tawney** argumentou que a relação era inversa ou mais complexa: não foi tanto a religião que moldou a economia, mas as **transformações econômicas** (a ascensão da burguesia) que moldaram também a religião — a Reforma teria sido, em parte, **efeito** da ascensão burguesa, não sua causa. Outros lembram que Weber correlaciona, mas é difícil **provar** a direção da causalidade. O debate permanece aberto, e é um belo exemplo de um problema que atravessa toda a História: **as ideias (religião) movem a economia, ou a economia molda as ideias?** Provavelmente há **influência mútua** — mas a pergunta de Weber é tão fértil que continua a gerar pesquisas mais de um século depois.
+
+::: {.callout-warning title="Controvérsia: a Contrarreforma foi só 'reação'?"}
+Durante muito tempo, a historiografia (sobretudo protestante) tratou a **Contrarreforma** como mera **reação defensiva** e repressiva ao protestantismo — resumida à Inquisição e ao Índice. Historiadores como **Jean Delumeau** [@delumeau1989] contestaram essa visão: mostraram que houve uma autêntica **Reforma Católica**, com raízes **anteriores** a Lutero (movimentos de renovação espiritual, novas ordens religiosas), e que Trento produziu uma profunda **revitalização** da fé, da educação e da vida paroquial católicas, não apenas repressão. Por isso muitos preferem o termo "**Reforma Católica**" a "Contrarreforma", que sugere pura reação. É mais um caso em que o **nome** que damos a um processo já embute uma **interpretação** — e em que a perspectiva do historiador (aqui, católica ou protestante) influencia o retrato que ele pinta.
+:::
+
+## Resumo do capítulo {#sec-resumo}
+
+- A **Reforma Protestante** (a partir de **1517**) rompeu a unidade do cristianismo ocidental. **Causas**: **religiosas** (corrupção do clero, venda de **indulgências**), **econômicas** (burguesia × condenação do lucro e da usura), **políticas** (reis/príncipes querendo poder e bens da Igreja) e **culturais** (humanismo de **Erasmo**, **imprensa**).
+- **Lutero** (95 Teses, Wittenberg, 1517): salvação **pela fé** (*sola fide*), **Bíblia** como única autoridade (*sola scriptura*), **sacerdócio universal**, dois sacramentos, rejeição do papa e das imagens. Traduziu a Bíblia ao alemão. Foi **conservador** no social (condenou a Guerra dos Camponeses, 1525).
+- **Vertentes**: **luteranismo** (Alemanha, Escandinávia); **calvinismo** (Calvino, Genebra; **predestinação**; valorização do trabalho; huguenotes, presbiterianos, puritanos); **anglicanismo** (Henrique VIII, **Ato de Supremacia** de 1534; rei como chefe da Igreja — ruptura política).
+- **Contrarreforma / Reforma Católica**: **Concílio de Trento** (1545–1563: reafirma dogmas, combate a corrupção, cria seminários), **Inquisição**, **Índice de Livros Proibidos** e a **Companhia de Jesus** (jesuítas; Inácio de Loyola, 1540; educação e missões — chegaram ao **Brasil** em 1549).
+- **Guerras religiosas**: Noite de São Bartolomeu (1572), Édito de Nantes (1598), **Guerra dos Trinta Anos** (1618–1648) e Paz de **Vestfália** (1648).
+- Historiografia: **Weber** — a **ética protestante** (calvinista, disciplina e reinvestimento) teve **afinidade** com o "espírito do capitalismo"; críticos (**Tawney**) invertem ou complexificam a causalidade (economia molda a religião). **Delumeau**: a Contrarreforma foi também **renovação**, não só reação.
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Foque em três eixos: (1) as **causas múltiplas** da Reforma (não só as indulgências); (2) as **diferenças** entre luteranismo, calvinismo e anglicanismo; (3) a **Contrarreforma** e os jesuítas (que ligam este capítulo ao Brasil). A tese de **Weber** rende ótimas questões dissertativas.
+:::
+
+**1.** Explique as **causas** da Reforma Protestante, mostrando que ela não se deveu apenas a motivos religiosos.
+
+::: {.callout-tip collapse="true" title="Solução"}
+A Reforma teve **causas múltiplas** e entrelaçadas:
+- **Religiosas** (estopim): a **corrupção** do clero (simonia, nepotismo, luxo) e, sobretudo, a **venda de indulgências** — o comércio do perdão —, que escandalizavam os fiéis.
+- **Econômicas**: a **burguesia** em ascensão incomodava-se com a doutrina católica que condenava o **lucro** e a **usura** (juros) como pecados.
+- **Políticas**: **reis e príncipes** queriam **libertar-se da tutela do papa** e apoderar-se das **terras e rendas** da Igreja em seus territórios.
+- **Culturais**: o **humanismo** crítico de **Erasmo** já denunciava os abusos do clero, e a **imprensa** permitiu que as ideias reformadoras se difundissem rapidamente.
+
+Assim, embora o gatilho tenha sido religioso, a Reforma só produziu uma ruptura tão profunda porque **interesses econômicos e políticos** a apoiaram.
+:::
+
+**2.** Quais são os princípios centrais da doutrina de **Lutero**? Cite pelo menos três.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Os princípios centrais do luteranismo são: (1) **salvação pela fé** (*sola fide*) — o ser humano se justifica diante de Deus pela fé, não pelas obras nem pela compra de indulgências; (2) **a Bíblia como única autoridade** (*sola scriptura*) — cada fiel pode ler e interpretar as Escrituras, sem depender exclusivamente do clero (por isso Lutero traduziu a Bíblia ao alemão); (3) **sacerdócio universal** — todos os crentes são sacerdotes diante de Deus, reduzindo o papel intermediário do clero; (4) **redução dos sacramentos** a dois (batismo e eucaristia); e (5) **rejeição** da autoridade do papa, do culto às imagens e do celibato clerical.
+:::
+
+**3.** Compare o **calvinismo** e o **anglicanismo** quanto às suas origens e características principais.
+
+::: {.callout-tip collapse="true" title="Solução"}
+- **Calvinismo**: fundado por **João Calvino** a partir de **Genebra**, tinha origem **teológica** e doutrina rigorosa. Seu traço distintivo é a **predestinação** (Deus já escolheu os salvos); o **sucesso no trabalho** podia ser sinal da graça, o que valorizava a disciplina, a poupança e o esforço — atraindo a **burguesia**. Espalhou-se pela Europa comercial (huguenotes na França, presbiterianos na Escócia, puritanos na Inglaterra, Países Baixos).
+- **Anglicanismo**: teve origem **política**, não teológica. O rei **Henrique VIII** rompeu com Roma porque o papa negou a anulação de seu casamento; pelo **Ato de Supremacia** (1534), declarou-se **chefe da Igreja da Inglaterra**, confiscou bens católicos e criou uma igreja **nacional** subordinada ao rei — mantendo, porém, muito da estrutura e dos ritos católicos.
+
+**Diferença de fundo:** o calvinismo nasceu de uma **convicção doutrinária** e tinha teologia própria e radical; o anglicanismo nasceu de uma **conveniência política** do monarca e foi, no início, mais uma mudança de **comando** (do papa para o rei) do que de doutrina.
+:::
+
+**4.** O que foi a **Contrarreforma** e quais seus principais instrumentos?
+
+::: {.callout-tip collapse="true" title="Solução"}
+A **Contrarreforma** (ou Reforma Católica) foi o movimento com que a Igreja Católica, a partir de meados do século XVI, **reagiu** ao protestantismo e **reformou-se** internamente. Seus principais instrumentos foram:
+- o **Concílio de Trento** (1545–1563), que **reafirmou os dogmas** católicos (papa, sete sacramentos, valor das obras, culto aos santos), **combateu a corrupção** (proibiu a venda de indulgências, criou **seminários** para formar o clero) e reforçou a hierarquia;
+- a **Inquisição** (Tribunal do Santo Ofício), reativada para perseguir "hereges";
+- o **Índice de Livros Proibidos** (*Index*), que censurava as obras perigosas;
+- a **Companhia de Jesus** (jesuítas), fundada por **Inácio de Loyola** (1540), dedicada à **educação** (colégios) e às **missões** — inclusive no **Brasil**.
+:::
+
+**5.** Por que os **jesuítas** ligam este capítulo à história do Brasil?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque a **Companhia de Jesus** (jesuítas), criada em 1540 como instrumento da **Contrarreforma**, dedicou-se às **missões** de catequização pelo mundo, acompanhando a expansão marítima. Foram os jesuítas que chegaram ao **Brasil em 1549** (com Manuel da Nóbrega e, depois, José de Anchieta) e ali desempenharam papel **central** na colonização: catequizaram os **indígenas**, fundaram aldeamentos (missões) e colégios, aprenderam e registraram línguas nativas, e frequentemente entraram em conflito com os colonos que queriam escravizar os índios. Assim, um desdobramento da Contrarreforma europeia — a ação missionária jesuítica — tornou-se peça fundamental da formação do Brasil colonial (tema do Volume 8).
+:::
+
+**6.** (Estilo ENEM) Leia o texto.
+
+> "As indulgências não podem remir nenhuma culpa. [...] Ensina-se falsamente que, tão logo a moeda soa na caixa, a alma escapa do purgatório. [...] Os cristãos devem ser ensinados que aquele que dá ao pobre ou empresta ao necessitado faz melhor do que se comprasse indulgências." — adaptado das *95 Teses*, de Martinho Lutero (1517)
+
+A crítica de Lutero no texto dirige-se diretamente
+
+**(a)** ao princípio da salvação pela fé, que ele rejeitava.
+**(b)** à venda de indulgências pela Igreja, vista como abuso e comércio da salvação.
+**(c)** à tradução da Bíblia para as línguas nacionais.
+**(d)** à criação dos seminários pelo Concílio de Trento.
+**(e)** à doutrina calvinista da predestinação.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (b).** O texto ataca a ideia de que "tão logo a moeda soa na caixa, a alma escapa do purgatório" — ou seja, a **venda de indulgências**, o comércio do perdão dos pecados, que Lutero denunciava como abuso. Foi justamente essa prática o **estopim** da Reforma.
+
+Por que as demais estão erradas: (a) Lutero **defendia** a salvação pela fé, não a rejeitava; (c) a tradução da Bíblia foi obra do próprio Lutero, não alvo de sua crítica; (d) os seminários vieram **depois**, na Contrarreforma; (e) a predestinação é doutrina de **Calvino**, posterior e distinta.
+:::
+
+**7.** (Estilo vestibular — dissertativa) Explique a tese de **Max Weber** sobre a relação entre a ética protestante e o espírito do capitalismo e apresente uma crítica a ela.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Resposta esperada (síntese): **Max Weber**, em *A Ética Protestante e o Espírito do Capitalismo* (1905), observou que o capitalismo se desenvolveu mais cedo e mais fortemente em países de maioria **protestante** (sobretudo **calvinista**) e buscou explicar essa **afinidade**. Segundo ele, a doutrina calvinista da **predestinação** gerou uma **mentalidade** particular: como a prosperidade material podia ser lida como **sinal** de estar entre os "eleitos" de Deus, o protestante era levado a **trabalhar arduamente** (o trabalho como vocação), viver de forma **disciplinada e ascética**, evitar o desperdício e **reinvestir os lucros** em vez de gastá-los em luxo. Essa "ética" teria fornecido o "**espírito**" adequado à **acumulação capitalista**. Weber **não** afirmou que o protestantismo "criou" o capitalismo, mas que houve **afinidade** entre a mentalidade religiosa e o comportamento econômico.
+
+**Uma crítica** (por exemplo, de R. H. Tawney): o **capitalismo comercial** já florescia em cidades **católicas** (Veneza, Florença, banqueiros italianos) **antes** da Reforma, o que enfraquece a ideia de que o protestantismo seria condição necessária; e a causalidade pode ser **inversa** — não a religião moldando a economia, mas as transformações econômicas (a ascensão da burguesia) moldando também a religião. O debate ilustra a grande questão: **as ideias movem a economia ou a economia molda as ideias?** — provavelmente há influência **mútua**. (Uma boa resposta deve expor a tese de Weber com precisão e apresentar ao menos uma crítica consistente.)
+:::
+
+**8.** Por que muitos historiadores, como Jean Delumeau, preferem o termo "Reforma Católica" a "Contrarreforma"?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque o termo "**Contrarreforma**" sugere que a renovação católica foi apenas uma **reação defensiva e repressiva** ao protestantismo — reduzida à Inquisição e ao Índice. Historiadores como **Jean Delumeau** mostraram que isso é insuficiente: houve uma autêntica **Reforma Católica**, com raízes **anteriores** a Lutero (movimentos de renovação espiritual, novas ordens religiosas), e o Concílio de Trento promoveu uma profunda **revitalização** da fé, da educação (seminários) e da vida paroquial — não só repressão. Por isso "**Reforma Católica**" descreveria melhor o **caráter positivo e renovador** do movimento, enquanto "Contrarreforma" enfatiza apenas seu lado reativo. O debate mostra como o **nome** dado a um processo histórico já carrega uma **interpretação** — e como a perspectiva (católica ou protestante) do historiador influencia o retrato que ele constrói.
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- WEBER, Max. *A ética protestante e o espírito do capitalismo* [@weber2004]. Um dos livros mais influentes das ciências sociais — desafiador, mas incontornável.
+- FEBVRE, Lucien. *Martinho Lutero, um destino* [@febvre2012]. Biografia clássica do reformador por um dos fundadores dos Annales.
+- DELUMEAU, Jean. *Nascimento e afirmação da Reforma* [@delumeau1989]. Panorama equilibrado da Reforma e da renovação católica.
+- ELLIOTT, John H. *A Europa dividida (1559–1598)* [@elliott1984]. Sobre a Europa das guerras religiosas na segunda metade do século XVI.
+
+**Filmes e documentários**
+
+- *Lutero* (2003), dir. Eric Till. Biografia cinematográfica do reformador, de Wittenberg à Dieta de Worms.
+- *A Rainha Margot* (1994), dir. Patrice Chéreau. Ambientado na Noite de São Bartolomeu (1572), retrata a violência das guerras religiosas na França.
+- *Um Homem para a Eternidade* (1966), dir. Fred Zinnemann. Sobre Thomas More e o rompimento de Henrique VIII com Roma.
