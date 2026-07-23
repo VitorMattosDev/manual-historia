@@ -1,5 +1,222 @@
 # A Revolução Científica {#sec-revolucao-cientifica}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Em 1633, um velho de quase setenta anos ajoelhou-se diante dos juízes da Inquisição, em Roma, e leu, tremendo, um texto em que renegava tudo o que ensinara: que a Terra não estava parada no centro do universo, mas **girava em torno do Sol**. Chamava-se **Galileu Galilei**, e a lenda conta que, ao se levantar, murmurou entre dentes: "*Eppur si muove*" — "E, no entanto, ela se move". Verdadeira ou não, a frase capta um dos maiores dramas da história do pensamento: o choque entre uma **nova forma de conhecer o mundo**, baseada na observação, na experiência e na matemática, e uma visão milenar sustentada pela autoridade dos antigos e da Igreja. Esse choque foi a **Revolução Científica** dos séculos XVI e XVII — o processo que inventou a **ciência moderna** e mudou, para sempre, a maneira como os seres humanos entendem a natureza. Sem ela, não haveria vacinas, foguetes, computadores nem o próprio método com que hoje distinguimos conhecimento de superstição. Este capítulo conta como um punhado de pensadores ousou olhar o céu — e a própria razão — com olhos novos.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- contrastar a **visão de mundo medieval** (geocentrismo, autoridade) com a **ciência moderna** (observação, experimento, matemática);
+- explicar a **revolução astronômica** de Copérnico, Kepler, Galileu e Newton;
+- caracterizar o **método científico** e os dois grandes caminhos: o **empirismo** (Bacon) e o **racionalismo** (Descartes);
+- relacionar a Revolução Científica ao Renascimento, ao Iluminismo e à modernidade;
+- discutir o debate historiográfico sobre a natureza dessa "revolução" (Koyré, Kuhn, Shapin).
 :::
+
+## A velha visão de mundo e sua ruptura {#sec-velha-visao}
+
+Para entender a revolução, é preciso conhecer o que ela derrubou. Até o século XVI, a visão de mundo europeia era, no essencial, a herdada da Antiguidade (**Aristóteles**, **Ptolomeu**) e chancelada pela **Igreja**. Ela era **geocêntrica**: a **Terra**, imóvel, ocupava o **centro** do universo, e ao seu redor giravam o Sol, a Lua, os planetas e as estrelas, presos a esferas de cristal. O cosmos era **fechado, hierárquico e finito**: o mundo "sublunar" (a Terra), corruptível e imperfeito, opunha-se ao mundo celeste, perfeito e eterno. Mais importante: o conhecimento sobre a natureza baseava-se na **autoridade** — o que Aristóteles, a Bíblia ou os grandes sábios haviam dito —, e não na observação direta ou na experiência.
+
+A ciência moderna nasceu da inversão desses princípios (@fig-visoes-mundo). Em vez da **autoridade** dos antigos, a **observação** e a **experiência**; em vez de aceitar tradições, a **dúvida** metódica; em vez de descrições qualitativas, a **matematização** da natureza (medir, calcular, expressar as leis do mundo em números e equações). Foi uma mudança não apenas de conclusões, mas de **método** — uma nova maneira de perguntar e de buscar respostas.
+
+::: {#fig-visoes-mundo}
+
+```{.tikz}
+%%| filename: fig-visoes-mundo
+%%| alt: Quadro comparativo entre a visão de mundo medieval e a ciência moderna.
+\begin{tikzpicture}[>=stealth]
+  \node[draw, very thick, rounded corners, fill=manualgray!18, align=center, font=\scriptsize, text width=4.4cm, minimum height=2.9cm] (a) at (-3.1,0)
+    {\textbf{VISÃO MEDIEVAL}\\[2pt] \raggedright geocentrismo (Terra no centro)\\ cosmos fechado e hierárquico\\ autoridade dos antigos e da Igreja\\ descrição qualitativa};
+  \node[draw, very thick, rounded corners, fill=manualblue!14, align=center, font=\scriptsize, text width=4.4cm, minimum height=2.9cm] (b) at (3.1,0)
+    {\textbf{CIÊNCIA MODERNA}\\[2pt] \raggedright heliocentrismo (Sol no centro)\\ universo infinito e homogêneo\\ observação e experimento\\ matematização da natureza};
+  \draw[vetor, very thick, manualred] (a) -- (b) node[midway, above, black, font=\scriptsize]{Revolução};
+  \node[font=\scriptsize, text=manualred] at (0,-0.35) {Científica};
+\end{tikzpicture}
+```
+
+A Revolução Científica foi uma mudança de **método** e de **cosmovisão**: da autoridade à observação, do geocentrismo ao heliocentrismo, do cosmos fechado ao universo infinito.
+:::
+
+## A revolução dos céus: de Copérnico a Newton {#sec-revolucao-astronomica}
+
+A ponta de lança da revolução foi a **astronomia**. Tudo começou, como vimos (@sec-letras-ciencia), com o polonês **Nicolau Copérnico** (1473–1543), que em **1543** publicou o modelo **heliocêntrico**: o **Sol**, e não a Terra, no centro; a Terra, apenas mais um planeta a girar. Cauteloso, Copérnico apresentou a ideia como hipótese matemática — mas ela abalava a posição central e privilegiada do ser humano no cosmos. A revolução avançou por etapas, resumidas na @fig-linha-cientistas.
+
+::: {#fig-linha-cientistas}
+
+```{.tikz}
+%%| filename: fig-linha-cientistas
+%%| alt: Linha do tempo dos principais cientistas da Revolução Científica, de Copérnico a Newton.
+\begin{tikzpicture}[>=stealth]
+  \draw[eixo] (0,0) -- (13.5,0);
+  \node[eixo, gray] at (13.5,-0.45) {\scriptsize tempo};
+
+  \node[ponto] at (1.2,0) {};
+  \node[below] at (1.2,-0.15) {\scriptsize 1543};
+  \node[above, align=center, text=manualblue] at (1.2,0.2) {\scriptsize \textbf{Copérnico}\\\scriptsize heliocentrismo};
+
+  \node[ponto] at (4.0,0) {};
+  \node[below] at (4.0,-0.15) {\scriptsize c. 1609};
+  \node[above, align=center, text=manualgreen] at (4.0,0.2) {\scriptsize \textbf{Kepler}\\\scriptsize órbitas elípticas};
+
+  \node[ponto] at (6.6,0) {};
+  \node[below] at (6.6,-0.15) {\scriptsize 1610};
+  \node[above, align=center, text=manualred] at (6.6,0.2) {\scriptsize \textbf{Galileu}\\\scriptsize luneta, experimento};
+
+  \node[ponto] at (9.4,0) {};
+  \node[below] at (9.4,-0.15) {\scriptsize 1637};
+  \node[above, align=center, text=manualgray] at (9.4,0.25) {\scriptsize \textbf{Descartes}\\\scriptsize método, razão};
+
+  \node[ponto] at (12.2,0) {};
+  \node[below] at (12.2,-0.15) {\scriptsize 1687};
+  \node[above, align=center, text=manualblue] at (12.2,0.2) {\scriptsize \textbf{Newton}\\\scriptsize gravitação};
+\end{tikzpicture}
+```
+
+De Copérnico a Newton: um século e meio de descobertas que reconstruíram, peça por peça, a imagem do universo.
+:::
+
+O alemão **Johannes Kepler** (1571–1630), usando as precisas observações de Tycho Brahe, descobriu que os planetas não descrevem círculos perfeitos (como se acreditava desde a Antiguidade), mas **órbitas elípticas**, e formulou as **leis matemáticas** de seu movimento. Foi, porém, o italiano **Galileu Galilei** (1564–1642) quem se tornou o símbolo da nova ciência. Galileu apontou uma **luneta** (telescópio) para o céu e **viu** o que nenhuma autoridade previra: as crateras da Lua (logo, os céus não eram "perfeitos"), as luas de Júpiter, as fases de Vênus, as manchas solares — evidências que confirmavam Copérnico. Além disso, Galileu foi pioneiro do **método experimental**: em vez de especular, **media** e **experimentava** (estudou a queda dos corpos, o pêndulo, o movimento) e insistia que "o livro da natureza está escrito em linguagem **matemática**". Por defender o heliocentrismo, foi processado pela **Inquisição** (1633) e obrigado a se retratar — o episódio mais célebre do conflito entre a nova ciência e a autoridade religiosa.
+
+A grande **síntese** veio com o inglês **Isaac Newton** (1643–1727). Em sua obra monumental *Princípios Matemáticos da Filosofia Natural* (os *Principia*, **1687**), Newton formulou a **lei da gravitação universal** — a mesma força que faz a maçã cair da árvore mantém a Lua em órbita e os planetas em torno do Sol — e as **leis do movimento**. Com isso, unificou a física dos céus e a da Terra numa só teoria matemática, revelando um **universo mecânico**, regido por **leis** precisas e cognoscíveis, "como um relógio". A obra de Newton foi o coroamento da Revolução Científica e a base da física pelos dois séculos seguintes.
+
+::: {.callout-important title="Armadilha comum: 'ciência versus religião' não é toda a história"}
+O julgamento de Galileu é real e importante, mas cuidado com a caricatura de uma guerra total entre "ciência iluminada" e "religião obscurantista". A maioria dos cientistas da época — **Copérnico** (cônego), **Kepler**, **Newton** — era **profundamente religiosa** e via na descoberta das "leis da natureza" uma forma de revelar a obra e a racionalidade de **Deus**. Para muitos, estudar o universo era um ato de fé, não de negação dela. O conflito existiu (sobretudo quando a ciência contrariava interpretações literais da Bíblia ou a autoridade da Igreja), mas a relação entre ciência e religião no início da modernidade foi mais **complexa** do que a imagem de puro antagonismo. Fugir dessa caricatura é um exercício contra o anacronismo.
+:::
+
+## O método científico: empirismo e racionalismo {#sec-metodo-cientifico}
+
+A Revolução Científica não foi só um conjunto de descobertas: foi, sobretudo, a criação de um **método** para produzir conhecimento confiável. Dois filósofos fundaram as duas grandes correntes desse método (@fig-empirismo-racionalismo).
+
+O inglês **Francis Bacon** (1561–1626) foi o profeta do **empirismo** e do **método indutivo**. Para Bacon, o conhecimento verdadeiro parte da **experiência** e da **observação**: reúnem-se muitos fatos particulares, por meio de experimentos, e deles se **induzem** (generalizam) as leis gerais. Bacon defendia que a ciência deveria ter uma finalidade **prática** — dominar a natureza para melhorar a vida humana —, resumida em sua célebre frase "**saber é poder**". O francês **René Descartes** (1596–1650) fundou o **racionalismo** e o **método dedutivo**. Para ele, o ponto de partida do conhecimento é a **razão**, não os sentidos (que podem enganar). Descartes propôs a **dúvida metódica**: duvidar de tudo até encontrar uma verdade indubitável — que ele achou no próprio pensamento ("penso, logo existo", *cogito, ergo sum*) — e, a partir dela, **deduzir** logicamente as demais verdades, como na matemática.
+
+::: {#fig-empirismo-racionalismo}
+
+```{.tikz}
+%%| filename: fig-empirismo-racionalismo
+%%| alt: Diagrama comparando o empirismo indutivo de Bacon e o racionalismo dedutivo de Descartes.
+\begin{tikzpicture}[>=stealth]
+  \node[draw, very thick, rounded corners, fill=manualgreen!16, align=center, font=\scriptsize, text width=4.3cm, minimum height=2.6cm] (b) at (-3.1,0)
+    {\textbf{EMPIRISMO} (Bacon)\\[2pt] \raggedright ponto de partida: \textbf{experiência}\\ método \textbf{indutivo}\\ do particular ao geral\\ ``saber é poder''};
+  \node[draw, very thick, rounded corners, fill=manualblue!14, align=center, font=\scriptsize, text width=4.3cm, minimum height=2.6cm] (d) at (3.1,0)
+    {\textbf{RACIONALISMO} (Descartes)\\[2pt] \raggedright ponto de partida: \textbf{razão}\\ método \textbf{dedutivo}\\ do geral ao particular\\ ``penso, logo existo''};
+  \node[font=\scriptsize, align=center, text=manualgray] at (0,-2) {as duas correntes se combinam no\\ \textbf{método científico} moderno};
+  \draw[vetor, manualgray] (b.south) -- (0,-1.7); \draw[vetor, manualgray] (d.south) -- (0,-1.7);
+\end{tikzpicture}
+```
+
+Os dois caminhos do conhecimento moderno: o **empirismo** parte dos fatos; o **racionalismo**, da razão. A ciência moderna acabaria por **combinar** os dois — observação/experimento *e* raciocínio matemático.
+:::
+
+Na prática, a ciência moderna combinou os dois caminhos: parte da **observação** e do **experimento** (empirismo), mas organiza os dados com o **raciocínio** e a **matemática** (racionalismo), formulando **hipóteses** que são testadas e podem ser refutadas. Esse novo saber precisou também de novas **instituições**: surgiram as **academias científicas**, como a **Royal Society** de Londres (1660) e a Academia de Ciências de Paris, onde os sábios trocavam descobertas, publicavam e submetiam suas ideias à crítica dos pares — o embrião da comunidade científica de hoje.
+
+## As consequências: um mundo desencantado {#sec-consequencias-cientificas}
+
+As consequências da Revolução Científica foram imensas e de longa duração. No plano **intelectual**, ela consolidou a confiança na **razão** e no **método** como caminhos para o conhecimento — confiança que, no século seguinte, alimentaria diretamente o **Iluminismo** (@sec-iluminismo), quando pensadores aplicariam o "método científico" também à política, à economia e à sociedade. No plano da **mentalidade**, promoveu o que o sociólogo Max Weber chamou de "**desencantamento do mundo**": a natureza deixava de ser vista como um domínio de forças mágicas ou de intervenções divinas diretas e passava a ser entendida como um **mecanismo** regido por leis naturais, que a razão humana podia descobrir e a técnica, dominar. No plano **material**, a nova ciência e a valorização baconiana do saber prático lançaram as bases que, a longo prazo, tornariam possível a **Revolução Industrial** (Volume 9). Nascia a ideia — tão poderosa quanto controversa — de que o conhecimento científico traz **progresso** e poder sobre a natureza.
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+Até a expressão "Revolução Científica" é objeto de debate. Os historiadores da ciência divergem sobre **o que**, exatamente, aconteceu — e se foi mesmo uma "revolução".
+
+**A revolução como transformação conceitual (Koyré).** O historiador **Alexandre Koyré**, em obras clássicas como *Do Mundo Fechado ao Universo Infinito* [@koyre2010], defendeu que a Revolução Científica foi, antes de tudo, uma profunda **mudança conceitual e filosófica** — uma nova maneira de *pensar* o universo. Para Koyré, o essencial não foram os novos instrumentos ou experimentos, mas a **matematização** do real e a substituição do cosmos fechado e hierárquico dos gregos por um **universo infinito e homogêneo**. Nessa leitura **internalista**, a revolução se explica pela história das **ideias** — foi uma revolução na mente antes de ser no laboratório.
+
+**A revolução como construção social (Shapin).** Uma geração posterior de historiadores deslocou o foco das ideias para o **contexto social**. O historiador **Steven Shapin** abre seu livro *A Revolução Científica* [@shapin1999] com uma provocação famosa: "**Não existiu tal coisa como a Revolução Científica** — e este é um livro sobre ela". Com isso, quer dizer que a ideia de uma "revolução" súbita, coerente e inevitável é em parte uma **construção posterior**: na prática, houve muita **continuidade** com o pensamento medieval e renascentista, muitos caminhos que não deram em nada, e o "método científico" não caiu pronto do céu. Shapin e outros enfatizam **quem** fazia a ciência, **onde**, **com que apoio** (mecenas, academias, Estados) e **como** a autoridade do conhecimento era socialmente **negociada** — por que se passou a acreditar mais no experimento de um cavalheiro da Royal Society do que na palavra de Aristóteles. É uma leitura **externalista**: a ciência é também um **fenômeno social**, não só intelectual.
+
+**E Thomas Kuhn, no meio do caminho.** Entre esses polos, o físico e filósofo **Thomas Kuhn**, em *A Estrutura das Revoluções Científicas* [@kuhn2013], ofereceu um conceito que se tornou universal: o de **paradigma**. Para Kuhn, a ciência não avança de forma linear e cumulativa; ela trabalha longos períodos dentro de um **paradigma** (um conjunto de teorias e práticas aceitas — como o geocentrismo), até que o acúmulo de **anomalias** (fatos que o paradigma não explica) provoca uma **crise** e uma **revolução científica**, com a adoção de um novo paradigma (o heliocentrismo, depois a física newtoniana). A passagem de Ptolomeu a Copérnico e Newton seria justamente uma dessas **mudanças de paradigma**. O modelo de Kuhn ajudou a entender por que os cientistas às vezes **resistem** tanto às novas ideias: mudar de paradigma é quase mudar de mundo.
+
+::: {.callout-warning title="Controvérsia: interna ou externa, das ideias ou da sociedade?"}
+O debate Koyré × Shapin ilustra uma tensão que percorre toda a **história da ciência**: as descobertas científicas se explicam sobretudo pela **lógica interna das ideias** (uma teoria melhor substitui uma pior porque é mais verdadeira) ou também pelo **contexto social, econômico e político** em que os cientistas viviam (quem os financiava, que interesses serviam, que instituições os legitimavam)? A posição **internalista** valoriza o conteúdo e a verdade das teorias; a **externalista**, o contexto social de sua produção. Hoje, a maioria dos historiadores reconhece que os **dois** fatores importam: a ciência produz conhecimento genuíno sobre a natureza **e** é uma atividade humana, situada numa sociedade e numa época. Recusar tanto a ideia de uma ciência "pura", fora da história, quanto a de que ela seria "só" construção social, é o caminho mais equilibrado.
+:::
+
+## Resumo do capítulo {#sec-resumo}
+
+- A **Revolução Científica** (séc. XVI–XVII) criou a **ciência moderna**, substituindo a **visão medieval** (geocentrismo, cosmos fechado, autoridade dos antigos, descrição qualitativa) por uma nova cosmovisão e um novo **método** (observação, experimento, **matematização**, dúvida).
+- **Revolução astronômica**: **Copérnico** (heliocentrismo, 1543) → **Kepler** (órbitas **elípticas**) → **Galileu** (luneta, método **experimental**; processado pela Inquisição, 1633) → **Newton** (*Principia*, 1687: **gravitação universal** e leis do movimento; universo mecânico).
+- **Método científico** e suas correntes: **empirismo** (Francis **Bacon**: experiência, indução, "saber é poder") e **racionalismo** (**Descartes**: razão, dúvida metódica, dedução, "penso, logo existo"). A ciência moderna **combina** os dois. Novas instituições: **academias** (Royal Society, 1660).
+- **Consequências**: confiança na razão (base do **Iluminismo**); "**desencantamento do mundo**" (natureza como mecanismo regido por leis); bases para a técnica e a futura **Revolução Industrial**; ideia de **progresso**.
+- Cuidado: **ciência × religião** não foi guerra total — muitos cientistas (Copérnico, Kepler, Newton) eram religiosos e viam nas leis naturais a obra de Deus.
+- Historiografia: **Koyré** (revolução **conceitual**, "do mundo fechado ao universo infinito", leitura **internalista**) × **Shapin** (a "Revolução Científica" é em parte **construção**; foco **social/externalista**); **Kuhn** (ciência avança por **mudanças de paradigma**, não linearmente).
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Concentre-se em: (1) o contraste **visão medieval × ciência moderna** (método!); (2) a sequência **Copérnico → Kepler → Galileu → Newton**; (3) a diferença **empirismo (Bacon) × racionalismo (Descartes)**. E lembre: a relação ciência-religião é mais **complexa** que a caricatura.
+:::
+
+**1.** Contraste a **visão de mundo medieval** com a **ciência moderna**, destacando a mudança de **método**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+A **visão medieval**, herdada de Aristóteles e Ptolomeu e chancelada pela Igreja, era **geocêntrica** (Terra imóvel no centro), concebia um cosmos **fechado, finito e hierárquico**, e baseava o conhecimento na **autoridade** dos antigos e das Escrituras, com descrições **qualitativas**. A **ciência moderna** inverteu esses princípios: adotou o **heliocentrismo** (depois, um universo **infinito**), e — o mais importante — trocou a **autoridade** pela **observação** e pela **experiência**, a aceitação da tradição pela **dúvida** metódica, e a descrição qualitativa pela **matematização** da natureza (medir, calcular, formular leis). A mudança essencial foi de **método**: uma nova maneira de perguntar e de buscar respostas, testando ideias contra a realidade em vez de deduzi-las de autoridades.
+:::
+
+**2.** Descreva a contribuição de **Galileu** para a Revolução Científica e explique por que ele entrou em conflito com a Inquisição.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Galileu Galilei** (1564–1642) deu duas contribuições decisivas. Primeiro, usou a **luneta** (telescópio) para **observar** o céu e reuniu evidências que confirmavam o heliocentrismo: crateras na Lua (os céus não eram "perfeitos"), as **luas de Júpiter**, as fases de Vênus, manchas solares. Segundo, foi pioneiro do **método experimental**: em vez de especular, **media e experimentava** (queda dos corpos, pêndulo), sustentando que a natureza está escrita em linguagem **matemática**. Entrou em conflito com a **Inquisição** porque **defendia publicamente o heliocentrismo** de Copérnico, que contrariava a leitura literal da Bíblia (Terra imóvel) e a autoridade da Igreja. Julgado em **1633**, foi obrigado a **retratar-se** — episódio que se tornou o símbolo do choque entre a nova ciência e a autoridade religiosa.
+:::
+
+**3.** Qual foi a importância de **Isaac Newton** para o coroamento da Revolução Científica?
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Isaac Newton** (1643–1727), em sua obra *Princípios Matemáticos da Filosofia Natural* (os *Principia*, **1687**), realizou a grande **síntese** da Revolução Científica. Formulou a **lei da gravitação universal** — a mesma força que faz um corpo cair na Terra mantém a Lua e os planetas em suas órbitas — e as **leis do movimento**. Com isso, **unificou** a física dos céus e a da Terra numa única teoria **matemática**, revelando um **universo mecânico**, regido por **leis precisas e cognoscíveis** ("como um relógio"). Sua obra encerrou o ciclo aberto por Copérnico e tornou-se a base da física pelos dois séculos seguintes, além de reforçar a confiança na razão que alimentaria o Iluminismo.
+:::
+
+**4.** Diferencie o **empirismo** de Bacon do **racionalismo** de Descartes.
+
+::: {.callout-tip collapse="true" title="Solução"}
+- **Empirismo (Francis Bacon)**: o conhecimento verdadeiro parte da **experiência** e da **observação**. Reúnem-se muitos fatos particulares (por experimentos) e deles se **induzem** (generalizam) as leis gerais — é o **método indutivo**, do particular ao geral. Bacon defendia a ciência **prática**, para dominar a natureza: "**saber é poder**".
+- **Racionalismo (René Descartes)**: o ponto de partida é a **razão**, não os sentidos (que enganam). Propôs a **dúvida metódica** (duvidar de tudo até achar uma verdade indubitável — "**penso, logo existo**") e, a partir dela, **deduzir** logicamente as demais verdades — é o **método dedutivo**, do geral ao particular, à maneira da matemática.
+
+Na prática, a ciência moderna **combinou** os dois: parte da observação/experimento (empirismo) e organiza os dados com raciocínio e matemática (racionalismo).
+:::
+
+**5.** Explique o que significou o "**desencantamento do mundo**" provocado pela Revolução Científica.
+
+::: {.callout-tip collapse="true" title="Solução"}
+O "**desencantamento do mundo**" (expressão de Max Weber) designa a mudança de **mentalidade** pela qual a natureza deixou de ser vista como um domínio de **forças mágicas, espíritos ou intervenções divinas diretas** e passou a ser entendida como um **mecanismo** regido por **leis naturais** — precisas, impessoais e cognoscíveis pela razão. Em vez de explicar os fenômenos (uma peste, um eclipse, o movimento dos astros) por vontades sobrenaturais, a nova ciência buscava suas **causas naturais** e as expressava matematicamente. O universo passou a ser concebido "como um relógio", que a razão humana podia **compreender** e a técnica, **dominar**. Esse desencantamento é uma das raízes da mentalidade **moderna** e **secular**, e preparou o terreno para o Iluminismo e a fé no **progresso** — embora também tenha alimentado debates, até hoje, sobre os limites de uma visão puramente mecânica da natureza e da vida.
+:::
+
+**6.** (Estilo ENEM) Leia o texto.
+
+> "A filosofia [a natureza] está escrita neste grandíssimo livro que continuamente se abre ante os nossos olhos (isto é, o universo), mas não se pode entendê-lo se antes não se aprende a entender a língua e a conhecer os caracteres com os quais está escrito. Ele está escrito em língua matemática." — Galileu Galilei, *O Ensaiador* (1623)
+
+O texto expressa um princípio fundamental da ciência moderna, a saber:
+
+**(a)** o conhecimento da natureza deve basear-se na autoridade dos filósofos antigos.
+**(b)** a natureza é incognoscível e escapa a qualquer compreensão humana.
+**(c)** a natureza pode ser compreendida por meio da linguagem matemática.
+**(d)** o estudo da natureza deve subordinar-se à interpretação literal da Bíblia.
+**(e)** apenas a fé, e não a razão, permite conhecer o universo.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (c).** Galileu afirma que o "livro" do universo "está escrito em língua **matemática**" e só pode ser entendido por quem aprende essa linguagem — expressando o princípio da **matematização da natureza**, central na ciência moderna.
+
+Por que as demais estão erradas: (a) o texto rompe com a **autoridade** dos antigos, valorizando a leitura direta da natureza; (b) o texto diz que a natureza **pode** ser entendida (pela matemática), não que é incognoscível; (d) e (e) subordinam o conhecimento à Bíblia ou à fé, ao passo que Galileu defende a razão matemática e a observação.
+:::
+
+**7.** (Estilo vestibular — dissertativa) Explique por que a relação entre "ciência e religião" na Revolução Científica é mais complexa do que a imagem de uma simples guerra entre razão e fé.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Resposta esperada (síntese): embora o **julgamento de Galileu** pela Inquisição (1633) seja um episódio real de conflito, reduzir a Revolução Científica a uma "guerra" total entre ciência e religião é uma **caricatura anacrônica**. Vários argumentos sustentam isso. Primeiro, a **maioria dos grandes cientistas** da época era **profundamente religiosa**: Copérnico era cônego; Kepler e Newton viam na descoberta das "leis da natureza" a revelação da **racionalidade e da obra de Deus** — para eles, estudar o universo era um ato de fé, não de negação dela. Segundo, o conflito ocorreu em **casos específicos**, sobretudo quando a ciência contrariava a **interpretação literal** da Bíblia (a Terra imóvel) ou a **autoridade** institucional da Igreja, e não como oposição de princípio entre "razão" e "fé". Terceiro, muitas instituições religiosas **apoiaram** e praticaram a ciência (astrônomos jesuítas, por exemplo). Portanto, o quadro correto é de uma relação **complexa e ambivalente**: houve tensões e repressão, mas também profunda imbricação entre a busca científica e a fé. Uma boa resposta deve evitar tanto a glorificação da "ciência libertadora contra a religião obscurantista" quanto a negação dos conflitos reais — reconhecendo a **complexidade** histórica. (Deve citar: a religiosidade dos cientistas, o caráter pontual dos conflitos e o risco de anacronismo.)
+:::
+
+**8.** Compare as interpretações de **Koyré** e **Shapin** sobre a Revolução Científica. O que está em jogo nesse debate?
+
+::: {.callout-tip collapse="true" title="Solução"}
+- **Koyré** (*Do Mundo Fechado ao Universo Infinito*): a Revolução Científica foi antes de tudo uma **transformação conceitual e filosófica** — uma nova maneira de **pensar** o universo, marcada pela **matematização** do real e pela passagem do cosmos fechado dos gregos ao **universo infinito e homogêneo**. É uma leitura **internalista**: a revolução se explica pela **história das ideias**.
+- **Shapin** (*A Revolução Científica*): abre com a provocação "**não existiu tal coisa como a Revolução Científica**", para dizer que a ideia de uma revolução **súbita, coerente e inevitável** é em parte uma **construção posterior**; houve muita **continuidade** e caminhos sem saída. Enfatiza o **contexto social**: quem fazia ciência, onde, com que apoio (mecenas, academias) e como a autoridade do conhecimento era socialmente **negociada**. É uma leitura **externalista**.
+
+**O que está em jogo:** as descobertas científicas se explicam sobretudo pela **lógica interna das ideias** (Koyré) ou também pelo **contexto social** de sua produção (Shapin)? O debate reflete a tensão **internalismo × externalismo** na história da ciência. A posição equilibrada, hoje dominante, reconhece que **ambos** os fatores importam: a ciência produz conhecimento genuíno sobre a natureza **e** é uma atividade humana situada numa sociedade e numa época.
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- KOYRÉ, Alexandre. *Do mundo fechado ao universo infinito* [@koyre2010]. Clássico sobre a revolução conceitual que transformou a imagem do cosmos.
+- SHAPIN, Steven. *A revolução científica* [@shapin1999]. Síntese moderna e provocadora, atenta ao contexto social da ciência.
+- KUHN, Thomas S. *A estrutura das revoluções científicas* [@kuhn2013]. Introduziu o conceito de "paradigma"; leitura fundamental para entender como a ciência muda.
+
+**Filmes e documentários**
+
+- *Galileu Galilei* (várias adaptações da peça de Bertolt Brecht). Sobre o drama do cientista diante da Inquisição.
+- Série *Cosmos* (1980, Carl Sagan; e 2014, Neil deGrasse Tyson). Episódios sobre Kepler, Newton e a revolução da astronomia — divulgação científica de alta qualidade.
+- Documentário *The Day the Universe Changed* (1985, James Burke). Sobre como as ideias científicas transformaram a visão de mundo ocidental.
