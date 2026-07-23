@@ -1,5 +1,245 @@
 # O Renascimento cultural e científico {#sec-renascimento}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Todos os dias, milhares de pessoas se espremem numa sala do Museu do Louvre, em Paris, para fotografar um pequeno quadro protegido por um vidro à prova de balas: a *Mona Lisa*, pintada por **Leonardo da Vinci** por volta de 1503. Poucos param para pensar no que aquele sorriso enigmático representa. Séculos antes, a arte medieval quase não retratava indivíduos comuns: pintavam-se santos rígidos, dourados, sem profundidade nem perspectiva, voltados para o céu. Leonardo fez o contrário — pintou uma mulher real, com volume, sombra e um olhar que parece nos acompanhar. Esse deslocamento do olhar, do céu para o ser humano concreto, é o coração do **Renascimento**: um movimento cultural que, entre os séculos XIV e XVI, colocou o **homem** no centro da reflexão, redescobriu a Antiguidade greco-romana e lançou as sementes da ciência e da mentalidade modernas. Este capítulo abre o volume dedicado ao mundo moderno — e começa exatamente onde o anterior terminou: nas ruínas do mundo feudal, de onde brotou uma nova forma de ver o mundo.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- explicar o **contexto** do Renascimento e por que ele começou nas **cidades italianas**;
+- caracterizar o **Humanismo** e os valores renascentistas (antropocentrismo, racionalismo, individualismo, valorização da Antiguidade);
+- identificar as principais fases e obras das **artes**, das **letras** e da **ciência** renascentistas;
+- relacionar o Renascimento ao **mecenato** e às transformações econômicas e sociais da época;
+- discutir o debate historiográfico sobre a **originalidade** do Renascimento (a tese de Burckhardt e suas críticas).
 :::
+
+## O contexto: por que na Itália, por que então? {#sec-contexto-renascimento}
+
+O **Renascimento** (do italiano *rinascita*, "renascer") foi o florescimento cultural, artístico e científico que se iniciou na **Itália** no **século XIV** e se espalhou pela Europa até o fim do **século XVI**. O nome traduz a autopercepção de seus protagonistas: eles acreditavam estar **fazendo renascer** a cultura clássica greco-romana, depois de um período que consideravam de "trevas" — a Idade Média. (Como veremos, essa imagem de uma Idade Média "sombria" é injusta e foi construída pelos próprios renascentistas.)
+
+Por que a Itália foi o berço? A resposta reúne fatores encadeados (@fig-por-que-italia). Primeiro, a Itália era a região mais **urbanizada e rica** da Europa: suas cidades — **Florença**, **Veneza**, **Gênova**, Milão, Roma — haviam liderado o renascimento comercial (@sec-cidade-burguesia) e concentravam uma **burguesia** enriquecida pelo comércio e pelas finanças. Segundo, essa riqueza sustentava o **mecenato**: banqueiros e governantes financiavam artistas e intelectuais como forma de prestígio. Terceiro, a Itália era o **coração do antigo Império Romano** — suas ruínas, esculturas e textos estavam por toda parte, tornando a Antiguidade uma presença viva. Por fim, a **queda de Constantinopla** em 1453 (@sec-queda) fez muitos sábios bizantinos fugirem para a Itália, trazendo manuscritos gregos e o conhecimento para lê-los.
+
+::: {#fig-por-que-italia}
+
+```{.tikz}
+%%| filename: fig-por-que-italia
+%%| alt: Diagrama das causas que fizeram do Renascimento um fenômeno inicialmente italiano.
+\begin{tikzpicture}[>=stealth]
+  \node[draw, very thick, circle, fill=manualyellow!22, align=center, font=\scriptsize\bfseries, minimum size=1.9cm] (c) at (0,0) {RENASCIMENTO\\\scriptsize na Itália};
+  \node[draw, fill=manualgreen!16, rounded corners, align=center, font=\scriptsize, text width=2.8cm] at (-4,1.7) {\textbf{Riqueza urbana}\\cidades e burguesia do comércio};
+  \node[draw, fill=manualblue!16, rounded corners, align=center, font=\scriptsize, text width=2.8cm] at (4,1.7) {\textbf{Mecenato}\\banqueiros e príncipes financiam artistas};
+  \node[draw, fill=manualred!14, rounded corners, align=center, font=\scriptsize, text width=2.8cm] at (-4,-1.7) {\textbf{Herança romana}\\ruínas e textos da Antiguidade por toda parte};
+  \node[draw, fill=manualgray!20, rounded corners, align=center, font=\scriptsize, text width=2.8cm] at (4,-1.7) {\textbf{Sábios bizantinos}\\fuga de 1453 traz manuscritos gregos};
+  \draw[vetor] (c) -- (-2.6,1.2); \draw[vetor] (c) -- (2.6,1.2);
+  \draw[vetor] (c) -- (-2.6,-1.2); \draw[vetor] (c) -- (2.6,-1.2);
+\end{tikzpicture}
+```
+
+Por que o Renascimento nasceu na Itália: um encontro de riqueza urbana, mecenato, herança clássica e a chegada de sábios gregos. Nenhum fator isolado basta — é a **combinação** que explica.
+:::
+
+Entre as famílias mecenas, nenhuma foi mais célebre que os **Médici**, banqueiros que governaram Florença por gerações. **Lorenzo de Médici** (1449–1492), o "Magnífico", transformou a cidade num imã de talentos, patrocinando artistas como Botticelli e o jovem Michelangelo. O mecenato revela algo importante: o Renascimento **não** foi um movimento popular, e sim uma cultura de **elite**, produzida para as cortes, os palácios e a Igreja — que, aliás, foi uma das maiores mecenas de todas, cobrindo Roma de obras-primas.
+
+## O Humanismo e os valores renascentistas {#sec-humanismo}
+
+No centro da nova mentalidade estava o **Humanismo**: um movimento intelectual que colocava o **ser humano** e suas capacidades no foco da reflexão, em contraste com o **teocentrismo** medieval (Deus no centro de tudo). Os humanistas dedicavam-se ao estudo das *studia humanitatis* — gramática, retórica, poesia, história e filosofia moral —, buscando nas obras **clássicas** de Grécia e Roma modelos de sabedoria e beleza. O primeiro grande humanista foi o poeta **Francesco Petrarca** (1304–1374), caçador incansável de manuscritos antigos esquecidos em mosteiros.
+
+Do Humanismo derivam os grandes valores que definem o espírito renascentista (@fig-valores-renascimento):
+
+- **Antropocentrismo**: o ser humano — sua razão, seu corpo, suas realizações — torna-se a medida das coisas. Não se abandona a religião, mas o olhar se volta para o mundo terreno.
+- **Racionalismo**: valoriza-se a **razão** e a observação como caminhos para o conhecimento, ao lado (e às vezes contra) a autoridade da tradição.
+- **Individualismo**: exalta-se o **gênio individual** e a fama pessoal. Não por acaso, é no Renascimento que o artista deixa de ser um artesão anônimo e passa a **assinar** suas obras e a ser celebrado como criador.
+- **Valorização da Antiguidade clássica**: Grécia e Roma tornam-se o padrão de perfeição a ser imitado e superado.
+- **Naturalismo e hedonismo**: valoriza-se a natureza, a beleza do corpo humano e o prazer da vida terrena, rompendo com o ascetismo medieval.
+
+::: {#fig-valores-renascimento}
+
+```{.tikz}
+%%| filename: fig-valores-renascimento
+%%| alt: Mapa mental dos valores do Humanismo renascentista em torno de um núcleo central.
+\begin{tikzpicture}[>=stealth]
+  \node[draw, very thick, circle, fill=manualblue!18, align=center, font=\scriptsize\bfseries, minimum size=1.9cm] (h) at (0,0) {HUMANISMO};
+  \node[draw, fill=manualyellow!22, rounded corners, align=center, font=\scriptsize, text width=2.5cm] at (-3.6,1.5) {\textbf{Antropocentrismo}\\o homem no centro};
+  \node[draw, fill=manualgreen!16, rounded corners, align=center, font=\scriptsize, text width=2.5cm] at (3.6,1.5) {\textbf{Racionalismo}\\razão e observação};
+  \node[draw, fill=manualred!14, rounded corners, align=center, font=\scriptsize, text width=2.5cm] at (-4.1,-0.9) {\textbf{Individualismo}\\o gênio e a fama};
+  \node[draw, fill=manualgray!20, rounded corners, align=center, font=\scriptsize, text width=2.5cm] at (4.1,-0.9) {\textbf{Antiguidade}\\Grécia e Roma como modelo};
+  \node[draw, fill=manualblue!12, rounded corners, align=center, font=\scriptsize, text width=2.7cm] at (0,-2.3) {\textbf{Naturalismo e hedonismo}\\beleza do corpo, prazer terreno};
+  \draw[vetor] (h) -- (-2.4,1.1); \draw[vetor] (h) -- (2.4,1.1);
+  \draw[vetor] (h) -- (-2.7,-0.7); \draw[vetor] (h) -- (2.7,-0.7);
+  \draw[vetor] (h) -- (0,-1.6);
+\end{tikzpicture}
+```
+
+Os valores que orbitam o Humanismo. Repare que **antropocentrismo não é ateísmo**: a maioria dos renascentistas era cristã, mas deslocava o olhar para as capacidades humanas.
+:::
+
+::: {.callout-important title="Armadilha comum: o Renascimento não foi 'o fim da religião'"}
+Um erro frequente em provas é imaginar que o antropocentrismo renascentista significou o abandono da fé cristã. Não foi assim. Michelangelo pintou o teto da **Capela Sistina** com cenas bíblicas; Rafael pintou madonas; a Igreja foi a maior mecena. O que mudou foi o **acento**: valorizar o ser humano, a razão e o mundo terreno **sem** negar Deus. Julgar o Renascimento como "laico" no sentido atual é um **anacronismo**.
+:::
+
+## As artes: da perspectiva ao gênio universal {#sec-artes-renascimento}
+
+É nas artes plásticas que o Renascimento deixou sua marca mais espetacular. Os artistas renascentistas revolucionaram a maneira de representar o mundo com três inovações técnicas: a **perspectiva** (que cria a ilusão de profundidade num plano), o **naturalismo** (a representação fiel do corpo e da natureza, baseada até em estudos de anatomia) e o uso da **luz e sombra** (o *sfumato* de Leonardo). Costuma-se dividir o movimento em três fases, resumidas na @fig-fases-renascimento.
+
+::: {#fig-fases-renascimento}
+
+```{.tikz}
+%%| filename: fig-fases-renascimento
+%%| alt: Linha do tempo das três fases do Renascimento italiano, do Trecento ao Cinquecento.
+\begin{tikzpicture}[>=stealth]
+  \draw[eixo] (0,0) -- (13.5,0);
+  \node[eixo, gray] at (13.5,-0.45) {\scriptsize tempo};
+
+  \node[ponto] at (1.8,0) {};
+  \node[below] at (1.8,-0.15) {\scriptsize séc. XIV};
+  \node[above, align=center, text=manualblue] at (1.8,0.2) {\scriptsize \textbf{Trecento}\\\scriptsize Giotto, Dante,\\\scriptsize Petrarca, Boccaccio};
+
+  \node[ponto] at (6.4,0) {};
+  \node[below] at (6.4,-0.15) {\scriptsize séc. XV};
+  \node[above, align=center, text=manualgreen] at (6.4,0.2) {\scriptsize \textbf{Quattrocento}\\\scriptsize Botticelli, Donatello,\\\scriptsize Brunelleschi};
+
+  \node[ponto] at (11.2,0) {};
+  \node[below] at (11.2,-0.15) {\scriptsize séc. XVI};
+  \node[above, align=center, text=manualred] at (11.2,0.2) {\scriptsize \textbf{Cinquecento}\\\scriptsize Leonardo, Michelangelo,\\\scriptsize Rafael (apogeu)};
+\end{tikzpicture}
+```
+
+As três fases do Renascimento italiano. O apogeu (Alto Renascimento) concentra-se no início do **Cinquecento**, com o "trio" Leonardo, Michelangelo e Rafael.
+:::
+
+O **Trecento** (século XIV) foi a aurora. **Giotto** (c. 1267–1337) rompeu com a rigidez bizantina, dando volume e emoção às figuras. Na literatura, **Dante Alighieri** (1265–1321) escreveu a *Divina Comédia* — ainda medieval em muitos aspectos, mas já em língua vulgar (o italiano) —, e Petrarca e **Giovanni Boccaccio** (1313–1375, autor do *Decameron*) fundaram o Humanismo literário.
+
+O **Quattrocento** (século XV) foi o amadurecimento, sobretudo em Florença. **Filippo Brunelleschi** (1377–1446) ergueu a imensa cúpula da catedral de Florença e formulou as leis matemáticas da **perspectiva**. **Donatello** (c. 1386–1466) esculpiu um *Davi* em bronze, o primeiro nu masculino desde a Antiguidade. **Sandro Botticelli** (1445–1510) pintou *O Nascimento de Vênus* e *A Primavera*, recuperando temas da mitologia pagã.
+
+O **Cinquecento** (século XVI) foi o **apogeu** (o "Alto Renascimento"), dominado por três gênios. **Leonardo da Vinci** (1452–1519) encarnou o ideal do **"homem universal"** (*uomo universale*): pintor (*Mona Lisa*, *A Última Ceia*), mas também anatomista, engenheiro, inventor e cientista, que projetou máquinas voadoras e dissecou cadáveres para entender o corpo. **Michelangelo Buonarroti** (1475–1564) esculpiu o *Davi* e a *Pietà* e pintou o teto da **Capela Sistina**. **Rafael Sanzio** (1483–1520) sintetizou a harmonia clássica em obras como *A Escola de Atenas*, em que reúne, num mesmo cenário, os grandes filósofos da Antiguidade — uma verdadeira declaração de amor renascentista à Grécia.
+
+## As letras, a política e a ciência {#sec-letras-ciencia}
+
+O Renascimento também renovou o **pensamento**. Na política, o florentino **Nicolau Maquiavel** (1469–1527) escreveu *O Príncipe* (1513), fundando a análise **realista** e laica do poder: separou a política da moral e da religião, perguntando não como o governante *deveria* agir idealmente, mas como ele *precisa* agir para **conquistar e manter o poder**. A frase que lhe atribuem — "os fins justificam os meios" — sintetiza (e simplifica) essa ruptura.
+
+Fora da Itália, o **Humanismo** ganhou tom mais crítico e religioso. O holandês **Erasmo de Roterdã** (c. 1466–1536), o "príncipe dos humanistas", satirizou os vícios do clero em *O Elogio da Loucura* e defendeu um cristianismo mais simples e interior — preparando, sem querer, o terreno para a Reforma (@sec-reforma-contrarreforma). O inglês **Thomas More** (1478–1535) imaginou, em *Utopia*, uma sociedade ideal e igualitária, criando uma palavra que usamos até hoje. Mais tarde, o francês **Montaigne** (1533–1592) inventou o gênero do **ensaio**, e o espanhol **Cervantes** (*Dom Quixote*, 1605) e o inglês **Shakespeare** (1564–1616) levaram a literatura a novos ares.
+
+No campo da **ciência**, o Renascimento cultivou o **espírito de observação** e a confiança na razão que, no século seguinte, floresceriam na Revolução Científica (@sec-revolucao-cientifica). Um marco decisivo foi a publicação, em **1543**, de *Sobre as revoluções dos orbes celestes*, do polonês **Nicolau Copérnico** (1473–1543), que propôs o modelo **heliocêntrico** — o Sol, e não a Terra, no centro do universo —, desafiando mil e quinhentos anos de astronomia. Some-se a isso um instrumento revolucionário: a **imprensa de tipos móveis** de **Johannes Gutenberg** (c. 1450), que **multiplicou os livros**, barateou o conhecimento e permitiu que as ideias novas — humanistas, científicas e, logo, religiosas — circulassem com uma velocidade jamais vista.
+
+::: {.callout-note title="Conceito-chave: a imprensa e a difusão das ideias"}
+Antes de Gutenberg, cada livro era **copiado à mão**, num processo lento e caríssimo; havia poucos exemplares, guardados em mosteiros e universidades. A **imprensa de tipos móveis** (por volta de 1450, em Mainz) permitiu produzir centenas de cópias idênticas em pouco tempo. As consequências foram imensas: o preço dos livros despencou, a **alfabetização** cresceu, e as ideias passaram a se espalhar depressa demais para serem controladas. Sem a imprensa, nem o Renascimento teria alcançado toda a Europa, nem a Reforma de Lutero teria se propagado como um incêndio. É um dos maiores exemplos de como uma **tecnologia** pode transformar a história.
+:::
+
+## Do outro lado dos Alpes: o Renascimento fora da Itália {#sec-renascimento-fora}
+
+A partir do fim do século XV, o Renascimento cruzou os Alpes e ganhou traços próprios em cada região. No norte da Europa, ele foi mais **realista** e **religioso**: os flamengos **Jan van Eyck** e, depois, **Pieter Bruegel** retrataram com minúcia a vida cotidiana e as paisagens; o alemão **Albrecht Dürer** (1471–1528) elevou a gravura a arte maior. Enquanto o Renascimento italiano celebrava a mitologia pagã e a harmonia clássica, o Renascimento **nórdico** manteve um tom mais crítico e espiritual, ligado ao humanismo de Erasmo — do qual sairiam muitas das inquietações que levariam à Reforma Protestante. Assim, o florescimento cultural que começou nas cidades italianas tornou-se, ao fim do século XVI, um fenômeno **europeu**, com muitos rostos.
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+Poucos conceitos históricos foram tão debatidos quanto o próprio "Renascimento". O debate central é este: o Renascimento foi uma **ruptura** radical, o nascimento do mundo moderno — ou é, em boa parte, uma **invenção** posterior, que exagerou sua novidade e caluniou a Idade Média?
+
+**A tese clássica: o Renascimento como berço do indivíduo moderno.** A interpretação mais influente veio do historiador suíço **Jacob Burckhardt** (1818–1897), em *A Cultura do Renascimento na Itália* (1860) [@burckhardt2009]. Para ele, o Renascimento italiano foi o momento em que o ser humano se tornou, pela primeira vez, um **indivíduo** consciente de si — enquanto na Idade Média, dizia, o homem só se reconhecia como membro de um grupo (a família, a corporação, a Igreja). Burckhardt cunhou a célebre fórmula: o Renascimento foi a **"descoberta do mundo e do homem"**. Nessa visão, ali começa a modernidade: o individualismo, o Estado como "obra de arte", o espírito laico e crítico.
+
+**A crítica dos medievalistas: continuidade e "renascimentos" no plural.** Historiadores do século XX, sobretudo os ligados à valorização da Idade Média, contestaram Burckhardt. Argumentaram que a imagem de uma Idade Média "escura" era uma **caricatura** — inventada pelos próprios humanistas para se valorizarem. Mostraram que houve **outros "renascimentos"** antes (o "renascimento carolíngio" do século IX, o "renascimento do século XII", com as universidades e o reencontro com Aristóteles). **Jacques Le Goff** chegou a propor uma "**longa Idade Média**" que se estenderia até o século XVIII, diluindo a fronteira nítida entre medieval e moderno [@leGoffLonga2008]. Nessa leitura, o Renascimento não foi um salto abrupto, mas o **amadurecimento** de processos que vinham de longe — e sua ruptura com o mundo medieval foi menos completa do que ele mesmo alardeava.
+
+**Uma terceira pergunta: e as mulheres?** A historiadora **Joan Kelly** deu à discussão um giro decisivo com um ensaio de título provocador: "As mulheres tiveram um Renascimento?". Sua resposta foi **não** — ou, ao menos, não o mesmo Renascimento dos homens. Ela mostrou que, justamente no período em que os homens da elite ganhavam autonomia e projeção individual, muitas mulheres da nobreza **perderam** poder, autonomia e espaço público em relação à Idade Média. O exemplo ensina uma lição valiosa: uma mesma época pode ser de **libertação para uns e de restrição para outros**. Periodizações otimistas como "Renascimento" precisam sempre da pergunta: **renascimento para quem?**
+
+::: {.callout-warning title="Controvérsia: 'Idade das Trevas' é um mito"}
+A expressão "Idade das Trevas" para designar a Idade Média foi cunhada por **Petrarca** e reforçada pelos iluministas — não por historiadores modernos. Ela é hoje rejeitada pela historiografia: a Idade Média produziu as universidades, as catedrais góticas, a filosofia escolástica, avanços técnicos (o moinho, o arado) e o próprio renascimento urbano que tornou possível o Renascimento. Repetir que a Idade Média foi "mil anos de trevas" é reproduzir, sem perceber, a **propaganda** que os renascentistas fizeram de si mesmos. Compreender isso é um exercício de crítica das fontes: até a divisão do tempo em "eras" carrega interpretações e interesses.
+:::
+
+## Resumo do capítulo {#sec-resumo}
+
+- O **Renascimento** (séc. XIV–XVI) foi o florescimento cultural, artístico e científico que redescobriu a **Antiguidade clássica** e colocou o **ser humano** no centro (antropocentrismo), em contraste com o teocentrismo medieval.
+- Começou na **Itália** por uma combinação de fatores: **riqueza urbana** e burguesia comercial, **mecenato** (os **Médici** em Florença), a **herança romana** presente no território e a chegada de **sábios bizantinos** após 1453.
+- O **Humanismo** (Petrarca) valorizava as *studia humanitatis* e a Antiguidade. Valores centrais: **antropocentrismo, racionalismo, individualismo, naturalismo e hedonismo** — sem abandonar a religião.
+- **Artes** em três fases: **Trecento** (Giotto, Dante, Petrarca, Boccaccio), **Quattrocento** (Brunelleschi, Donatello, Botticelli) e **Cinquecento**/apogeu (Leonardo, Michelangelo, Rafael). Inovações: **perspectiva**, naturalismo, luz e sombra.
+- **Letras e ideias**: Maquiavel (*O Príncipe*, política realista e laica), Erasmo (*Elogio da Loucura*), Thomas More (*Utopia*), Montaigne, Cervantes, Shakespeare. **Ciência**: Copérnico e o **heliocentrismo** (1543); a **imprensa** de Gutenberg (c. 1450) multiplicou os livros e difundiu as ideias.
+- O Renascimento **nórdico** (Van Eyck, Dürer) foi mais realista e religioso, ligado a Erasmo — preparando a Reforma.
+- Historiografia: **Burckhardt** (o Renascimento como "descoberta do mundo e do homem" e berço do indivíduo moderno) × os **medievalistas** (continuidade, vários "renascimentos", "Idade das Trevas" é mito). **Joan Kelly**: as mulheres *não* tiveram o mesmo Renascimento — "renascimento para quem?".
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Renascimento cai muito em prova associado a **duas ideias-força**: o **antropocentrismo/Humanismo** e as **causas** de ter começado na Itália. Não confunda antropocentrismo com ateísmo, e saiba relacionar mecenato, burguesia e imprensa.
+:::
+
+**1.** Explique o que foi o **Humanismo** e por que o **antropocentrismo** renascentista não significou o fim da religião.
+
+::: {.callout-tip collapse="true" title="Solução"}
+O **Humanismo** foi o movimento intelectual do Renascimento que colocou o **ser humano** e suas capacidades no centro da reflexão, dedicando-se ao estudo das *studia humanitatis* (gramática, retórica, poesia, história, filosofia moral) e buscando na **Antiguidade** greco-romana modelos de sabedoria e beleza (Petrarca foi o pioneiro). O **antropocentrismo** — o homem no centro — contrasta com o **teocentrismo** medieval, mas **não** equivale a ateísmo: a maioria dos renascentistas era cristã, a Igreja foi grande mecena e obras como a Capela Sistina são religiosas. O que mudou foi o **acento**: valorizar a razão, o corpo e o mundo terreno **sem** negar Deus. Interpretar o Renascimento como "laico" no sentido de hoje é **anacronismo**.
+:::
+
+**2.** Por que o Renascimento começou nas **cidades italianas**? Cite pelo menos três fatores.
+
+::: {.callout-tip collapse="true" title="Solução"}
+A Itália reunia condições que se combinaram:
+- **Riqueza urbana e burguesia**: suas cidades (Florença, Veneza, Gênova) haviam liderado o renascimento comercial e concentravam capital.
+- **Mecenato**: famílias ricas, como os **Médici** de Florença, e a Igreja financiavam artistas e intelectuais por prestígio.
+- **Herança romana**: a Itália era o coração do antigo Império Romano, com ruínas, esculturas e textos da Antiguidade por toda parte.
+- **Sábios bizantinos**: após a **queda de Constantinopla** (1453), muitos eruditos gregos migraram para a Itália trazendo manuscritos e o conhecimento para lê-los.
+
+O ponto é que nenhum fator isolado explica: foi a **combinação** deles que fez da Itália o berço do movimento.
+:::
+
+**3.** Relacione as três fases do Renascimento italiano — **Trecento, Quattrocento, Cinquecento** — a artistas e obras representativos.
+
+::: {.callout-tip collapse="true" title="Solução"}
+- **Trecento** (séc. XIV): a aurora — **Giotto** (rompe com a rigidez bizantina na pintura), **Dante** (*Divina Comédia*), **Petrarca** e **Boccaccio** (*Decameron*) na literatura/Humanismo.
+- **Quattrocento** (séc. XV): o amadurecimento em Florença — **Brunelleschi** (cúpula de Florença, perspectiva), **Donatello** (*Davi* em bronze), **Botticelli** (*O Nascimento de Vênus*).
+- **Cinquecento** (séc. XVI): o **apogeu** (Alto Renascimento) — **Leonardo da Vinci** (*Mona Lisa*, o "homem universal"), **Michelangelo** (*Davi*, Capela Sistina) e **Rafael** (*A Escola de Atenas*).
+:::
+
+**4.** Explique a importância da **imprensa** de Gutenberg para a difusão da cultura renascentista e, mais tarde, da Reforma.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Antes de Gutenberg (c. 1450), os livros eram **copiados à mão**, o que os tornava raros e caríssimos. A **imprensa de tipos móveis** permitiu produzir muitas cópias idênticas rapidamente, **barateando** o livro e ampliando o acesso ao conhecimento e a **alfabetização**. Com isso, as ideias — humanistas, científicas e religiosas — passaram a circular numa velocidade inédita e **difícil de controlar**. Sem a imprensa, o Renascimento dificilmente teria se tornado um fenômeno europeu, e a **Reforma** de Lutero (a partir de 1517) não teria se propagado como um incêndio, pois seus panfletos e sua tradução da Bíblia dependeram justamente da impressão em massa. É um exemplo clássico de como a **tecnologia** transforma a história.
+:::
+
+**5.** Em *O Príncipe*, Maquiavel afirma que "é muito mais seguro ser temido que amado". Que ruptura de método esse tipo de afirmação representa no pensamento político?
+
+::: {.callout-tip collapse="true" title="Solução"}
+A afirmação representa a ruptura de **separar a política da moral e da religião**. O pensamento político medieval perguntava como o bom governante *deveria* agir segundo os valores cristãos. **Maquiavel** inverte a pergunta: analisa de forma **realista** como o governante *precisa* agir para **conquistar e manter o poder**, ainda que isso contrarie a moral comum (por isso "é mais seguro ser temido que amado"). Ele estuda a política como ela **é**, não como **deveria** ser — fundando uma análise laica e pragmática do poder. Daí a fórmula que resume (e simplifica) sua obra: "os fins justificam os meios". É uma expressão do **racionalismo** e do espírito laico renascentistas aplicados à política.
+:::
+
+**6.** (Estilo ENEM) Leia o texto.
+
+> "Que obra-prima é o homem! Quão nobre em sua razão! Quão infinito em suas faculdades! [...] Nas suas ações, como se parece com um anjo! Na sua inteligência, como se parece com um deus! A beleza do mundo! O modelo dos seres!" — William Shakespeare, *Hamlet* (c. 1600)
+
+O trecho, típico da cultura renascentista, expressa
+
+**(a)** o teocentrismo medieval, que subordinava o homem à vontade divina.
+**(b)** o antropocentrismo, que exaltava a razão e as capacidades humanas.
+**(c)** o ascetismo cristão, que valorizava a renúncia aos prazeres terrenos.
+**(d)** o ceticismo radical, que negava qualquer valor à condição humana.
+**(e)** o predomínio da fé sobre a razão como fonte do conhecimento.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (b).** O texto exalta o homem como "obra-prima", "nobre em sua razão", "infinito em suas faculdades" e "beleza do mundo" — uma celebração das **capacidades humanas** e da **razão** que caracteriza o **antropocentrismo** renascentista.
+
+Por que as demais estão erradas: (a) e (c) descrevem a mentalidade **medieval** (teocentrismo, ascetismo), oposta ao tom do texto; (d) o texto **exalta**, não nega, a condição humana; (e) o texto valoriza a **razão** ("nobre em sua razão"), não a subordinação da razão à fé.
+:::
+
+**7.** (Estilo vestibular — dissertativa) A historiadora Joan Kelly perguntou: "As mulheres tiveram um Renascimento?". Explique por que essa pergunta é relevante e o que ela revela sobre o cuidado necessário ao usar periodizações.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Resposta esperada (síntese): a pergunta de **Joan Kelly** é relevante porque desafia a imagem otimista e universal do Renascimento como época de "libertação" e afirmação do indivíduo. Kelly mostrou que, justamente no período em que **homens da elite** ganhavam autonomia, projeção e individualidade, muitas **mulheres da nobreza perderam** poder, autonomia e espaço público em relação à Idade Média — de modo que, para elas, não houve o mesmo "Renascimento". Isso revela um cuidado essencial ao usar **periodizações**: rótulos como "Renascimento", "progresso" ou "modernidade" costumam descrever a experiência de um **grupo dominante** (aqui, homens ricos e letrados) e podem **ocultar** que o mesmo período foi de restrição ou perda para outros grupos (mulheres, pobres, escravizados). A boa análise histórica sempre pergunta: **libertação e renascimento para quem?** — evitando generalizar a experiência de poucos como se fosse a de todos.
+:::
+
+**8.** Compare a interpretação de **Burckhardt** sobre o Renascimento com a crítica dos **medievalistas**. Por que os dois divergem?
+
+::: {.callout-tip collapse="true" title="Solução"}
+- **Burckhardt** (1860): o Renascimento italiano foi uma **ruptura** decisiva — a "**descoberta do mundo e do homem**" e o nascimento do **indivíduo moderno**, do Estado laico e do espírito crítico. Na Idade Média, dizia, o homem só se via como membro de um grupo; no Renascimento, torna-se consciente de si como indivíduo. Aqui começaria a modernidade.
+- **Medievalistas** (séc. XX, como **Le Goff**): criticam essa imagem, mostrando que a "Idade das Trevas" é uma **caricatura** inventada pelos próprios humanistas; que houve **outros "renascimentos"** antes (carolíngio, do século XII); e que a ruptura foi menos abrupta — o Renascimento **amadureceu** processos medievais. Le Goff fala numa "**longa Idade Média**".
+
+**Por que divergem?** Porque partem de **ênfases** e **perguntas** diferentes: Burckhardt busca as **origens da modernidade** e enxerga rupturas; os medievalistas valorizam a **continuidade** e desconfiam da propaganda que os renascentistas fizeram de si mesmos. É um bom exemplo de como a periodização é **interpretação**, não fato natural: até dividir o tempo em "Idade Média" e "Renascimento" já embute uma tese.
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- BURCKHARDT, Jacob. *A cultura do Renascimento na Itália* [@burckhardt2009]. O clássico fundador dos estudos sobre o Renascimento — a ser lido criticamente, à luz dos debates posteriores.
+- SKINNER, Quentin. *As fundações do pensamento político moderno* [@skinner1996]. Rigorosa análise do Humanismo cívico e de Maquiavel no contexto das cidades italianas.
+- LE GOFF, Jacques. *A civilização do Ocidente medieval* [@leGoffOcidente2005]. Útil para perceber quanto o Renascimento deve à Idade Média que dizia superar.
+- HARARI, Yuval Noah. *Sapiens* [@harari2015]. Traz páginas estimulantes sobre a curiosidade moderna e a revolução do conhecimento — a comparar com a historiografia especializada.
+
+**Filmes e documentários**
+
+- *O Agonia e o Êxtase* (1965), dir. Carol Reed. A relação tempestuosa entre Michelangelo e o papa Júlio II durante a pintura da Capela Sistina.
+- Série *Medici: Masters of Florence* (2016, Netflix). Dramatiza o mecenato dos Médici — envolvente, mas a assistir com senso crítico quanto às liberdades históricas.
+- Documentário *Leonardo da Vinci* (2024), dir. Ken Burns. Retrato do "homem universal" e de seu tempo.
