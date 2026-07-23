@@ -1,5 +1,229 @@
 # O Império Bizantino {#sec-imperio-bizantino}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Enquanto o Ocidente romano se despedaçava em reinos germânicos e mergulhava na ruralização feudal (@sec-formacao-do-feudalismo), a metade **oriental** do antigo Império Romano seguiu de pé — e não por pouco tempo: por mais **mil anos**. De sua capital, **Constantinopla**, a maior e mais rica cidade da Europa cristã por séculos, imperadores que se diziam romanos governaram um mundo de comércio faustoso, mosaicos dourados, teologia sutil e intrigas de palácio. Nós o chamamos de **Império Bizantino**, mas seus habitantes jamais usaram esse nome: chamavam a si mesmos de *rhomaioi* — **romanos**. Compreender Bizâncio é entender que "Roma" não caiu em 476: ela se transformou, falou grego, tornou-se profundamente cristã e sobreviveu no Oriente até **1453**, quando os canhões otomanos finalmente derrubaram suas muralhas milenares. Este capítulo conta a história desse império-ponte, guardião da herança clássica e matriz da civilização ortodoxa que floresceria na Rússia e nos Bálcãs.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- explicar a **origem** do Império Bizantino na divisão do Império Romano e por que o Oriente sobreviveu ao Ocidente;
+- caracterizar o **auge sob Justiniano** (século VI): reconquistas, o *Corpus Juris Civilis* e Santa Sofia;
+- compreender o **cesaropapismo**, a centralidade religiosa e a **Questão Iconoclasta**;
+- analisar o **Cisma do Oriente (1054)** e a formação do cristianismo **ortodoxo**;
+- descrever a **queda de Constantinopla (1453)** e o **legado** cultural de Bizâncio para o Ocidente e para o mundo eslavo.
 :::
+
+## Por que o Oriente sobreviveu {#sec-por-que-sobreviveu}
+
+Você viu que o imperador **Constantino** fundou, em 330, uma nova capital no Oriente sobre a antiga colônia grega de **Bizâncio**, rebatizando-a **Constantinopla** ("cidade de Constantino"). Em 395, o imperador **Teodósio** dividiu definitivamente o império entre seus dois filhos: o **Império Romano do Ocidente** (capital em Ravena) e o **Império Romano do Oriente** (capital em Constantinopla). O Ocidente ruiu em 476; o Oriente prosperou. Por quê?
+
+Vários fatores explicam a sobrevivência oriental (@fig-ocidente-oriente). O Oriente era **mais rico e populoso**: concentrava as cidades mais antigas, o comércio mais intenso e as províncias mais produtivas (Egito, Síria, Anatólia). Tinha uma **posição estratégica** privilegiada — Constantinopla, situada no estreito do **Bósforo**, controlava a passagem entre a Europa e a Ásia e entre o Mediterrâneo e o Mar Negro, além de ser protegida por **muralhas** formidáveis, quase inexpugnáveis por mil anos. Dispunha de uma **burocracia e um Estado** mais sólidos e centralizados, capazes de arrecadar impostos e manter exércitos. E, geograficamente, as grandes pressões germânicas se concentraram sobre o Ocidente, mais exposto; o Oriente, quando pressionado, muitas vezes **desviava** os invasores para o lado ocidental ou comprava a paz com seu ouro abundante.
+
+::: {#fig-ocidente-oriente}
+
+```{.tikz}
+%%| filename: fig-ocidente-oriente
+%%| alt: Esquema comparando o Império Romano do Ocidente e do Oriente após a divisão de 395.
+\begin{tikzpicture}
+  \node[draw, fill=manualred!12, rounded corners, align=center, font=\scriptsize, text width=4.6cm, minimum height=3cm] (oc) at (0,0)
+    {\textbf{Império do Ocidente}\\(capital: Ravena)\\[3pt]
+     economia ruralizada\\menos cidades e comércio\\mais exposto aos germânicos\\[3pt]
+     \textbf{cai em 476}};
+  \node[draw, fill=manualblue!12, rounded corners, align=center, font=\scriptsize, text width=4.6cm, minimum height=3cm] (or) at (6.4,0)
+    {\textbf{Império do Oriente (Bizâncio)}\\(capital: Constantinopla)\\[3pt]
+     rico, urbano, comercial\\burocracia forte, muralhas\\posição estratégica (Bósforo)\\[3pt]
+     \textbf{sobrevive até 1453}};
+  \node[above, font=\scriptsize, text=manualgray] at (3.2,1.7) {Divisão do Império Romano (395)};
+  \draw[eixo] (3.2,1.5) -- (3.2,-1.5);
+\end{tikzpicture}
+```
+
+Após 395, os dois impérios seguiram destinos opostos. A riqueza, a urbanização e a defesa do Oriente explicam por que Bizâncio sobreviveu **quase mil anos** ao Ocidente.
+:::
+
+O resultado foi uma civilização **híbrida** e original: politicamente herdeira de **Roma** (o imperador, o direito, a ideia de império universal), culturalmente **grega** (a língua oficial passou do latim ao grego no século VII) e espiritualmente **cristã oriental**. Dessa tríplice raiz — romana, grega e cristã — nasceu o mundo bizantino.
+
+## O auge sob Justiniano (527–565) {#sec-justiniano}
+
+O ponto mais alto do Império Bizantino foi o reinado de **Justiniano I** (r. 527–565), ao lado da imperatriz **Teodora** (c. 500–548), figura notável que, de origem humilde (fora atriz), tornou-se a mais influente conselheira do trono — e foi decisiva, por exemplo, para convencer Justiniano a não fugir durante a **Revolta de Nika** (532), que quase o derrubou. Sob Justiniano, Bizâncio brilhou em três frentes (@fig-obra-justiniano).
+
+**As reconquistas.** Movido pelo sonho de **restaurar o Império Romano** em toda a sua extensão (a *renovatio imperii*), Justiniano lançou seus generais (sobretudo **Belisário**) à reconquista do Ocidente. Retomou o norte da África (dos vândalos), a Itália (dos ostrogodos) e parte da Hispânia (dos visigodos), transformando de novo o Mediterrâneo, por um breve momento, num "lago romano". Mas as conquistas foram **efêmeras e caríssimas**: esgotaram o tesouro, e logo após sua morte quase tudo se perdeu para lombardos e outros povos. O sonho de reunificar Roma revelou-se um peso insustentável.
+
+**O direito romano.** Aqui está o legado mais duradouro. Justiniano ordenou a **compilação e organização** de todo o direito romano, disperso em séculos de leis e sentenças, no chamado **Corpus Juris Civilis** ("Corpo de Direito Civil"). Essa monumental codificação **salvou** a tradição jurídica romana do esquecimento e, redescoberta no Ocidente a partir do século XI, tornou-se a **base do direito** de boa parte do mundo ocidental — inclusive do direito brasileiro, de tradição romano-germânica. Poucas obras da Antiguidade tardia tiveram efeito tão longo.
+
+**Santa Sofia.** No plano cultural e religioso, Justiniano mandou erguer em Constantinopla a igreja de **Santa Sofia** (*Hagia Sophia*, "Sagrada Sabedoria"), concluída em 537. Sua imensa **cúpula**, que parecia flutuar sobre uma cascata de luz e mosaicos dourados, foi a maior do mundo por quase mil anos e é considerada a obra-prima da **arquitetura bizantina**. Diz a lenda que Justiniano, ao entrar nela, exclamou: "Salomão, eu te superei!". Santa Sofia condensa o espírito bizantino: a fusão entre poder imperial, fé cristã e esplendor artístico.
+
+::: {#fig-obra-justiniano}
+
+```{.tikz}
+%%| filename: fig-obra-justiniano
+%%| alt: Diagrama das três grandes realizações do reinado de Justiniano: reconquistas, Corpus Juris Civilis e Santa Sofia.
+\begin{tikzpicture}[>=stealth]
+  \node[draw, very thick, circle, fill=manualyellow!22, align=center, font=\small\bfseries, minimum size=1.9cm] (j) at (0,0) {Justiniano\\\scriptsize 527--565};
+  \node[draw, fill=manualred!16, rounded corners, align=center, font=\scriptsize, text width=3.1cm] (rec) at (-4,0) {\textbf{Reconquistas}\\N. África, Itália,\\S. Hispânia\\(efêmeras, caras)};
+  \node[draw, fill=manualblue!16, rounded corners, align=center, font=\scriptsize, text width=3.1cm] (dir) at (4,1.4) {\textbf{Corpus Juris Civilis}\\codificação do\\direito romano\\(legado duradouro)};
+  \node[draw, fill=manualgreen!16, rounded corners, align=center, font=\scriptsize, text width=3.1cm] (ss) at (4,-1.4) {\textbf{Santa Sofia}\\obra-prima da\\arquitetura\\bizantina};
+  \draw[vetor] (j) -- (rec); \draw[vetor] (j) -- (dir); \draw[vetor] (j) -- (ss);
+\end{tikzpicture}
+```
+
+As três grandes realizações do reinado de Justiniano. O direito (*Corpus Juris Civilis*) foi o legado mais duradouro; as reconquistas, o mais frágil.
+:::
+
+## Poder, fé e economia: a máquina bizantina {#sec-poder-fe-economia}
+
+O Estado bizantino era marcado por uma **centralização** extrema em torno do **imperador** (o *basileus*), visto não apenas como chefe político, mas como **representante de Deus na Terra**, chefe supremo tanto do Estado quanto da Igreja. Essa fusão entre poder político e religioso recebe o nome de **cesaropapismo**.
+
+::: {.callout-note title="Conceito-chave: cesaropapismo"}
+**Cesaropapismo** é o sistema em que o **imperador** (o "César") concentra também a autoridade sobre a **Igreja** (o papel do "papa"), subordinando o poder religioso ao poder político. Em Bizâncio, o *basileus* nomeava o **patriarca** de Constantinopla, convocava concílios e intervinha em questões de fé. Compare com o Ocidente, onde **papa** e **imperador** eram poderes **separados** que disputavam a primazia (lembre-se da Querela das Investiduras, @sec-igreja-medieval): essa é uma diferença estrutural decisiva entre as duas cristandades. No Oriente, trono e altar tendiam a se **confundir**; no Ocidente, a se **enfrentar**.
+:::
+
+A **religião** era o centro nervoso da vida bizantina — a ponto de disputas teológicas mobilizarem multidões nas ruas. A mais grave dessas disputas foi a **Questão Iconoclasta** (séculos VIII–IX): o conflito entre os **iconoclastas** ("quebradores de imagens"), que consideravam o culto às imagens sagradas (**ícones**) uma forma de idolatria proibida pela Bíblia, e os **iconódulos** (defensores dos ícones), que viam nelas um instrumento legítimo de devoção. Por mais de um século, imperadores mandaram destruir imagens e perseguiram seus defensores, até a vitória final dos iconódulos (843). A controvérsia — que envolvia poder imperial, teologia e influência da vizinha crítica muçulmana às imagens — mostra o quanto, em Bizâncio, **política e religião eram inseparáveis**.
+
+Economicamente, Bizâncio era uma **potência comercial**. Constantinopla era o grande **entreposto** entre o Ocidente, o mundo islâmico, a Ásia e as estepes: por ela passavam a seda, as especiarias, o marfim, o âmbar. O Estado controlava setores estratégicos — como a fabricação da seda, cujo segredo os bizantinos roubaram da China — e cunhava uma moeda de ouro estável, o **soldo** (ou *nomisma*), que foi por séculos o "dólar" do Mediterrâneo, aceito de Roma à Índia. Essa riqueza sustentava a burocracia, o exército e o esplendor artístico do império.
+
+## O Cisma do Oriente (1054) {#sec-cisma}
+
+Ao longo dos séculos, as duas metades da cristandade — a **latina** (Ocidente, com o papa em Roma) e a **grega** (Oriente, com o patriarca em Constantinopla) — foram se **distanciando**. As causas foram acumulando-se: diferenças de **língua** (latim × grego), de **rito** e de costumes (como o uso de pão fermentado ou não na eucaristia, ou o celibato clerical), divergências **teológicas** (a célebre disputa do *Filioque*, sobre a origem do Espírito Santo) e, sobretudo, uma disputa de **autoridade**: o papa reivindicava primazia sobre toda a Igreja, o que o patriarca e o imperador do Oriente recusavam.
+
+Em **1054**, essa longa deriva culminou no **Cisma do Oriente** (ou Grande Cisma): o legado do papa e o patriarca de Constantinopla **excomungaram-se mutuamente**, rompendo a unidade da Igreja cristã. Dessa ruptura nasceram as duas grandes vertentes que persistem até hoje: a **Igreja Católica Romana**, no Ocidente, e a **Igreja Ortodoxa**, no Oriente (@fig-cisma).
+
+::: {#fig-cisma}
+
+```{.tikz}
+%%| filename: fig-cisma
+%%| alt: Diagrama do Cisma do Oriente de 1054, separando a Igreja Católica Romana da Igreja Ortodoxa.
+\begin{tikzpicture}[>=stealth]
+  \node[draw, fill=manualgray!18, rounded corners, align=center, font=\scriptsize, text width=3.6cm] (uni) at (0,0) {\textbf{Cristandade unida}\\(até 1054)};
+  \node[draw, fill=manualblue!16, rounded corners, align=center, font=\scriptsize, text width=3.8cm] (cat) at (6,1.3) {\textbf{Igreja Católica Romana}\\Ocidente · latim · \textbf{papa}\\em Roma · celibato clerical};
+  \node[draw, fill=manualgreen!16, rounded corners, align=center, font=\scriptsize, text width=3.8cm] (ort) at (6,-1.3) {\textbf{Igreja Ortodoxa}\\Oriente · grego · \textbf{patriarca}\\em Constantinopla · ícones};
+  \draw[vetor] (uni) -- node[above, font=\scriptsize, text=manualred, pos=0.55]{1054} (cat);
+  \draw[vetor] (uni) -- (ort);
+\end{tikzpicture}
+```
+
+O Cisma de 1054 separou definitivamente a Igreja **Católica** (latina) da Igreja **Ortodoxa** (grega), divisão que persiste até hoje.
+:::
+
+O cristianismo **ortodoxo** teve enorme irradiação. A partir do século IX, missionários bizantinos como **Cirilo e Metódio** evangelizaram os povos **eslavos**, criando um alfabeto (o **cirílico**, base da escrita russa atual) para traduzir a Bíblia. Assim, a fé, a cultura e a arte de Bizâncio foram transplantadas para os **Bálcãs** e para a **Rússia** — que, após a queda de Constantinopla, se proclamaria a "**Terceira Roma**", herdeira da tradição ortodoxa. O legado bizantino, portanto, sobreviveu geograficamente muito além das muralhas de sua capital.
+
+## A queda de Constantinopla (1453) {#sec-queda}
+
+Nos seus últimos séculos, o Império Bizantino **encolheu** dramaticamente. Foi golpeado por várias frentes: pelo avanço dos **turcos** (primeiro os seljúcidas, depois os otomanos) na Anatólia, seu coração territorial; pelas próprias **Cruzadas** — na **Quarta Cruzada (1204)**, os cruzados ocidentais, em vez de combater os muçulmanos, **saquearam e ocuparam a própria Constantinopla** cristã, um golpe do qual o império nunca se recuperou plenamente; e pela ascensão de uma nova potência, o **Império Otomano**, que foi cercando o que restava de Bizâncio até reduzi-lo, no fim, praticamente à cidade de Constantinopla.
+
+O desfecho veio em **29 de maio de 1453**. Após um cerco de semanas, o sultão otomano **Maomé II** (Mehmed II), usando gigantescos **canhões** — a nova tecnologia da pólvora que tornava obsoletas até as muralhas milenares —, tomou **Constantinopla**. O último imperador, Constantino XI, morreu lutando. A queda de Constantinopla é uma das datas mais importantes da história: por convenção, marca o **fim da Idade Média** e o início da **Idade Moderna**.
+
+::: {.callout-tip title="Dica de prova: 1453 e o início da Idade Moderna"}
+A **tomada de Constantinopla pelos turcos otomanos (1453)** é a data que a periodização tradicional adota para encerrar a Idade Média. A conexão mais cobrada em vestibulares: com os otomanos controlando Constantinopla e as rotas terrestres entre a Europa e o Oriente, o comércio de **especiarias** e artigos de luxo ficou mais caro e difícil para os europeus. Isso **estimulou** a busca de **novos caminhos marítimos** para as Índias — impulso direto para a **Expansão Marítima** de portugueses e espanhóis (Volume 6). Guarde a cadeia: queda de Constantinopla → obstáculo ao comércio oriental → Grandes Navegações.
+:::
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+Poucos impérios foram tão **maltratados pela historiografia** quanto Bizâncio — e o modo como sua imagem mudou é uma lição sobre como o presente molda a leitura do passado.
+
+**A visão depreciativa: Bizâncio como decadência.** Durante muito tempo, sobretudo do Iluminismo ao século XIX, predominou uma imagem **negativa** do Império Bizantino. O historiador inglês **Edward Gibbon** [@gibbon2005], no século XVIII, tratou toda a história bizantina como um longo e monótono processo de **decadência** — "mil anos de declínio" —, um império supersticioso, afeminado, entregue a intrigas de palácio e a estéreis disputas teológicas. Até hoje, o adjetivo "**bizantino**" carrega esse sentido pejorativo de "complicado", "burocrático", "labiríntico". Essa visão refletia o **preconceito** de uma Europa ocidental, iluminista e depois nacionalista, que se via como herdeira legítima de Roma e desprezava o Oriente grego e ortodoxo.
+
+**A revisão: Bizâncio como civilização criativa e essencial.** A historiografia do século XX, com estudiosos como **Georg Ostrogorsky** [@ostrogorsky2007], desmontou essa caricatura. Longe de mil anos de pura decadência, Bizâncio foi uma civilização **dinâmica e resiliente**, que várias vezes se reergueu de quase colapsos, defendeu a Europa por séculos contra invasões (persas, árabes, turcos), preservou e transmitiu a herança **clássica greco-romana** (foi lendo manuscritos bizantinos que o Ocidente redescobriu Platão e Aristóteles), codificou o direito romano e gerou uma arte e uma espiritualidade próprias, irradiadas para todo o mundo eslavo. A "decadência" de Gibbon dizia mais sobre os valores de seu tempo do que sobre Bizâncio.
+
+**Por que a divergência importa?** Porque revela como categorias como "**decadência**" e "**civilização**" não são neutras: elas dependem do ponto de vista de quem julga. Gibbon media Bizâncio pela régua da Roma clássica e do racionalismo iluminista, e por isso só via declínio. Ostrogorsky e os bizantinistas modernos perguntaram, em vez disso, como aquele império **funcionava** nos seus próprios termos — e enxergaram adaptação, criatividade e continuidade. É o velho princípio: mudar a **pergunta** muda o **retrato**. Ler Bizâncio como "decadência" ou como "resiliência" não é escolher entre verdade e mentira, mas entre duas perspectivas historicamente situadas — e a segunda, hoje, se mostra bem mais fundamentada.
+
+::: {.callout-warning title="Controvérsia: onde termina 'Roma' e começa 'Bizâncio'?"}
+O próprio nome "**Império Bizantino**" é uma **invenção de historiadores modernos** (do século XVI em diante) — seus habitantes se chamavam **romanos** (*rhomaioi*) e viam seu Estado como a continuação ininterrupta de Roma. Não há uma data ou um fato único que separe "o Império Romano" do "Império Bizantino": a transição foi **gradual** (mudança de capital, de língua, de religião). Alguns historiadores marcam o início em 330 (fundação de Constantinopla), outros em 395 (divisão), outros em 476 (fim do Ocidente) ou no século VII (grecização). Essa dificuldade ilustra bem que **periodizar é interpretar**: as fronteiras entre "impérios" e "idades" são construções nossas, úteis mas artificiais, e não recortes que a própria história traçou.
+:::
+
+## Resumo do capítulo {#sec-resumo}
+
+- Com a divisão do Império Romano (395), o **Oriente** (Bizâncio, capital **Constantinopla**) sobreviveu à queda do Ocidente (476) por ser mais **rico, urbano, comercial e defensável** (muralhas, posição no Bósforo, burocracia forte).
+- Bizâncio foi uma síntese **romana** (imperador, direito), **grega** (língua) e **cristã oriental**. Seus habitantes se chamavam **romanos** (*rhomaioi*).
+- O auge foi sob **Justiniano** (527–565) e **Teodora**: **reconquistas** efêmeras no Ocidente, o **Corpus Juris Civilis** (codificação do direito romano, legado duradouro) e a construção de **Santa Sofia**.
+- O poder era centralizado no **imperador** (*basileus*), chefe do Estado e da Igreja — o **cesaropapismo**, diferente do Ocidente (papa × imperador separados). A **Questão Iconoclasta** (séc. VIII–IX) revela a fusão entre política e religião.
+- Bizâncio foi **potência comercial** (Constantinopla como entreposto; a moeda de ouro *soldo*).
+- O **Cisma do Oriente (1054)** separou a Igreja **Católica Romana** (Ocidente) da **Ortodoxa** (Oriente). Missionários como Cirilo e Metódio levaram a fé e o alfabeto **cirílico** aos **eslavos** (Bálcãs, Rússia).
+- A **queda de Constantinopla (1453)**, tomada pelos **otomanos** de Maomé II com canhões, marca o **fim da Idade Média** e estimulou a busca europeia por **novas rotas marítimas**.
+- Historiografia: da visão **depreciativa** (Gibbon: "mil anos de decadência") à **revisão** (Ostrogorsky: civilização resiliente que preservou a herança clássica). "Bizantino" é nome criado por modernos.
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Sempre que possível, **contraste Bizâncio com o Ocidente feudal**: economia (urbana × rural), religião (cesaropapismo × papa e imperador separados), destino político. Esse contraste é a espinha dorsal das melhores respostas.
+:::
+
+**1.** Explique pelo menos três motivos pelos quais o Império Romano do **Oriente** sobreviveu enquanto o do **Ocidente** ruiu.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Entre os motivos: (1) **riqueza e urbanização** — o Oriente concentrava as províncias mais ricas (Egito, Síria, Anatólia), cidades antigas e comércio intenso, ao passo que o Ocidente se ruralizava; (2) **posição estratégica e defesa** — Constantinopla, no estreito do **Bósforo**, controlava rotas cruciais e era protegida por **muralhas** quase inexpugnáveis; (3) **Estado e burocracia mais fortes**, capazes de arrecadar impostos e manter exércitos; (4) **menor exposição** às invasões germânicas, que se concentraram no Ocidente — e Bizâncio muitas vezes desviava os invasores ou comprava a paz com seu ouro. Some-se a isso a estabilidade dinástica relativamente maior.
+:::
+
+**2.** O que foi o **Corpus Juris Civilis** e por que é considerado o principal legado de Justiniano?
+
+::: {.callout-tip collapse="true" title="Solução"}
+O **Corpus Juris Civilis** ("Corpo de Direito Civil") foi a grande **compilação e organização** do direito romano, ordenada por Justiniano no século VI, reunindo em obras sistemáticas séculos de leis, sentenças e doutrina jurídica dispersas. É considerado seu principal legado porque **salvou a tradição jurídica romana** do esquecimento e, ao ser **redescoberto** no Ocidente a partir do século XI (nas universidades, como Bolonha), tornou-se a **base do direito** de grande parte do mundo ocidental — inclusive da tradição romano-germânica que fundamenta o direito brasileiro. Diferentemente das reconquistas militares de Justiniano, que se desfizeram logo, o direito codificado teve efeito de **longa duração**.
+:::
+
+**3.** Explique o conceito de **cesaropapismo** e contraste-o com a relação entre poder e religião no Ocidente medieval.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Cesaropapismo** é o sistema em que o **imperador** concentra também a autoridade sobre a **Igreja**, subordinando o religioso ao político. Em Bizâncio, o *basileus* nomeava o **patriarca**, convocava concílios e intervinha em questões de fé — trono e altar tendiam a se **confundir** na mesma pessoa. No **Ocidente**, ao contrário, **papa** e **imperador/rei** eram poderes **distintos e frequentemente rivais**, que disputavam a primazia (como na **Querela das Investiduras** e no episódio de **Canossa**). Essa é uma diferença **estrutural** entre as duas cristandades: no Oriente, o poder religioso era um **braço** do imperial; no Ocidente, era um **contrapeso** a ele — o que teve consequências profundas para a história política das duas regiões.
+:::
+
+**4.** Analise o texto e responda.
+
+> "Após 1054, a excomunhão mútua entre Roma e Constantinopla consumou uma separação que vinha de longe: diferenças de língua, de rito, de doutrina e, acima de tudo, a recusa do Oriente em aceitar a supremacia do papa. Nasciam ali duas Igrejas que jamais voltariam a se unir." — texto elaborado para fins didáticos
+
+(a) Que evento o texto descreve? (b) Cite duas causas apontadas para a ruptura. (c) Que duas Igrejas resultaram dele?
+
+::: {.callout-tip collapse="true" title="Solução"}
+- (a) O **Cisma do Oriente** (Grande Cisma) de **1054**, a ruptura definitiva entre as cristandades latina e grega.
+- (b) Entre as causas citadas: diferenças de **língua** (latim × grego), de **rito** e de **doutrina** (ex.: o *Filioque*), e — "acima de tudo" — a **recusa do Oriente em aceitar a supremacia do papa** (disputa de autoridade).
+- (c) Resultaram a **Igreja Católica Romana** (Ocidente, sob o papa) e a **Igreja Ortodoxa** (Oriente, sob o patriarca de Constantinopla), divisão que persiste até hoje.
+:::
+
+**5.** Relacione a **queda de Constantinopla (1453)** com a Expansão Marítima europeia. Explique a cadeia de causas.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Em 1453, os **turcos otomanos** tomaram **Constantinopla**, passando a controlar a cidade e as **rotas terrestres** que ligavam a Europa ao Oriente. Com isso, o comércio de **especiarias**, seda e outros artigos de luxo asiáticos — que os europeus tanto valorizavam — ficou mais **caro, difícil e sujeito a intermediários** (otomanos e mercadores italianos). Essa dificuldade **estimulou** as monarquias ibéricas (Portugal e Espanha) a buscar **novas rotas marítimas** que chegassem às Índias sem depender do Mediterrâneo oriental — contornando a África (Portugal) ou navegando para o Ocidente (a viagem de Colombo). Assim, a queda de Constantinopla é um dos **impulsos** das Grandes Navegações e da Expansão Marítima (Volume 6). Cadeia: 1453 → bloqueio/encarecimento do comércio oriental → busca de novos caminhos → navegações.
+:::
+
+**6.** (Estilo ENEM) Leia o texto.
+
+> "Durante quase mil anos, Constantinopla foi a guardiã dos manuscritos gregos. Quando, no século XV, sábios bizantinos fugiram para a Itália levando consigo obras de Platão, Aristóteles e dos autores clássicos, contribuíram para acender o movimento que os italianos chamariam de renascimento das letras antigas." — texto elaborado para fins didáticos
+
+O texto destaca, como legado do Império Bizantino,
+
+**(a)** a invenção da imprensa de tipos móveis na Europa ocidental.
+**(b)** a preservação e a transmissão da herança cultural clássica greco-romana.
+**(c)** a criação do sistema feudal de suserania e vassalagem.
+**(d)** a difusão do islamismo pelo norte da África e pela Península Ibérica.
+**(e)** o fim das disputas religiosas entre católicos e ortodoxos.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (b).** O texto ressalta que Constantinopla **guardou os manuscritos gregos** por séculos e que sábios bizantinos os levaram à Itália, ajudando a "acender" o Renascimento — ou seja, o legado destacado é a **preservação e transmissão da herança clássica greco-romana**.
+
+Por que as demais estão erradas: (a) a imprensa foi invenção de Gutenberg, não é o tema do texto; (c) o feudalismo é fenômeno do Ocidente, não legado bizantino; (d) o islamismo não é obra de Bizâncio (que, aliás, o combateu); (e) o texto não fala em fim de disputas religiosas — o Cisma, aliás, jamais foi revertido.
+:::
+
+**7.** (Estilo vestibular — dissertativa) O adjetivo "bizantino" é usado, no português corrente, com sentido pejorativo ("discussão bizantina" = complicada, inútil). Explique a **origem historiográfica** desse preconceito e por que a historiografia atual o rejeita.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Resposta esperada (síntese): o sentido pejorativo de "bizantino" vem da **visão depreciativa** que a Europa ocidental — sobretudo do Iluminismo ao século XIX — construiu sobre o Império Bizantino. Historiadores como **Edward Gibbon** retrataram Bizâncio como **mil anos de decadência**: um império supersticioso, burocrático e entregue a "estéreis" disputas teológicas (daí "discussão bizantina"). Essa imagem refletia o **preconceito** de uma Europa que se via como herdeira legítima de Roma e desprezava o Oriente grego e ortodoxo. A historiografia atual (Ostrogorsky e os bizantinistas modernos) **rejeita** essa caricatura, mostrando que Bizâncio foi uma civilização **resiliente e criativa**, que defendeu a Europa por séculos, **preservou a herança clássica**, codificou o direito romano e irradiou cultura para o mundo eslavo. Uma boa resposta deve concluir que categorias como "decadência" dependem do **ponto de vista** de quem julga — e que a visão negativa dizia mais sobre os valores do observador do que sobre o objeto observado.
+:::
+
+**8.** Explique o papel de **Cirilo e Metódio** e a importância da irradiação da cultura bizantina para o mundo eslavo.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Cirilo e Metódio** foram missionários bizantinos que, a partir do século IX, evangelizaram os povos **eslavos**. Para traduzir a Bíblia e a liturgia, criaram um **alfabeto** adaptado às línguas eslavas — na origem do **cirílico**, base da escrita usada até hoje no russo, no ucraniano, no sérvio, no búlgaro, entre outras. Sua importância: por meio deles, a **fé ortodoxa**, a **cultura**, a arte e a organização eclesiástica de Bizâncio foram transplantadas para os **Bálcãs** e para a **Rússia**. Assim, mesmo após a queda de Constantinopla (1453), o legado bizantino **sobreviveu** geograficamente: a Rússia se proclamaria a "**Terceira Roma**", herdeira da tradição ortodoxa — o que ajuda a explicar, até hoje, traços religiosos e culturais do mundo eslavo oriental.
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- OSTROGORSKY, Georg. *História do Estado Bizantino* [@ostrogorsky2007]. A grande síntese clássica, que reabilitou Bizâncio como objeto sério de estudo. Densa, mas de referência.
+- LE GOFF, Jacques. *A civilização do Ocidente medieval* [@leGoffOcidente2005]. Útil para **contrastar** o Ocidente feudal com o mundo bizantino.
+- PROCÓPIO DE CESAREIA. *História secreta* [@procopio2000]. Fonte primária fascinante (e maliciosa): o historiador oficial de Justiniano expõe, nos bastidores, as intrigas da corte e retratos ferozes de Justiniano e Teodora — ótimo para discutir crítica documental.
+- GIBBON, Edward. *Declínio e queda do Império Romano* [@gibbon2005]. O clássico do século XVIII que fixou a imagem de "decadência" — leitura obrigatória para entender o preconceito que a historiografia depois combateu.
+
+**Filmes e documentários**
+
+- Documentário *Bizâncio: O Brilho Perdido* (BBC, com Simon Sebag Montefiore). Panorama acessível e visualmente rico da história de Constantinopla.
+- Documentário *Império Otomano* (Netflix, *Rise of Empires: Ottoman*). Encena o cerco e a queda de Constantinopla em 1453 do ponto de vista otomano e bizantino.
+- Registros e reconstituições de **Santa Sofia** (hoje em Istambul): pesquise imagens da cúpula e dos mosaicos para visualizar a arquitetura bizantina.
