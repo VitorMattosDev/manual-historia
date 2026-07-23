@@ -1,5 +1,234 @@
 # Mesopotâmia: cidades-Estado e impérios {#sec-mesopotamia}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Em 1901, arqueólogos franceses que escavavam a cidade persa de Susa desenterraram um enorme bloco de pedra escura, com mais de dois metros de altura. No topo, uma cena esculpida: um rei em pé diante de um deus sentado num trono. Abaixo, cobrindo toda a coluna, milhares de sinais em forma de cunha — a escrita **cuneiforme**. Traduzido, o texto revelou-se um dos documentos mais extraordinários da história humana: o **Código de Hamurábi**, um conjunto de quase trezentas leis promulgado por volta de **1750 a.C.** pelo rei da Babilônia. "Se um homem quebrar o osso de outro homem, quebrar-se-á o seu osso" — dizia uma delas. Aquele monumento, hoje no Museu do Louvre, não é apenas um catálogo de punições: é a prova de que, mais de mil anos antes de Roma, uma sociedade complexa na **terra entre os rios** já organizava a justiça por leis escritas, cobrava impostos, media terras, emprestava a juros e disputava o poder em grandes cidades. É a essa civilização — a primeira a deixar arquivos escritos — que dedicamos este capítulo.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- localizar a **Mesopotâmia** no espaço e no tempo e explicar por que sua geografia moldou sua história;
+- caracterizar as **cidades-Estado sumérias** e a passagem delas aos grandes **impérios** (Acádio, Babilônico, Assírio, Neobabilônico);
+- descrever a **organização social, econômica e política** mesopotâmica, incluindo o papel do templo, do rei e da escravidão;
+- analisar o **Código de Hamurábi** como fonte histórica, reconhecendo o que ele revela sobre a sociedade que o produziu;
+- discutir o conceito de "**despotismo hidráulico**" e por que os historiadores divergem sobre a natureza do Estado mesopotâmico.
 :::
+
+## A terra entre os rios {#sec-terra-entre-rios-meso}
+
+A palavra **Mesopotâmia** vem do grego *mésos* (meio) e *potamós* (rio): a "terra entre rios". Os rios são o **Tigre** e o **Eufrates**, que nascem nas montanhas da atual Turquia e descem para o sudeste até desaguar no golfo Pérsico, atravessando o território que corresponde, hoje, sobretudo ao **Iraque**. Essa faixa fértil integra o chamado **Crescente Fértil**, o arco de terras produtivas onde, como você viu no @sec-revolucao-neolitica, a agricultura nasceu.
+
+Mas a Mesopotâmia era uma dádiva ambígua. Diferentemente do Nilo egípcio, o Tigre e o Eufrates transbordavam de forma **irregular e violenta**, muitas vezes na época errada para as plantações, arrasando campos e aldeias. A planície não tinha pedra para construir, nem madeira de qualidade, nem metais — tudo precisava ser importado. Sobreviver ali exigia **domar as águas**: cavar canais de irrigação, erguer diques, drenar pântanos, armazenar água para a estação seca. Essas obras não podiam ser feitas por uma família isolada; exigiam o trabalho **coordenado de milhares de pessoas** — e, portanto, um poder capaz de organizá-las. Guarde esse elo: ele estará no centro do debate historiográfico deste capítulo.
+
+::: {#fig-mapa-mesopotamia}
+
+```{.tikz}
+%%| filename: fig-mapa-mesopotamia
+%%| alt: Mapa esquemático da Mesopotâmia, mostrando os rios Tigre e Eufrates descendo até o golfo Pérsico, com as regiões da Assíria, Babilônia e Suméria.
+\begin{tikzpicture}[>=stealth]
+  % rios (esquemáticos)
+  \draw[manualblue, very thick] (1,6) .. controls (2.5,4.5) and (2,3) .. (3.4,0.6);
+  \node[manualblue] at (0.5,6) {\scriptsize Eufrates};
+  \draw[manualblue, very thick] (3,6) .. controls (3.8,4) and (3.6,2.5) .. (3.9,0.7);
+  \node[manualblue] at (3.4,6) {\scriptsize Tigre};
+  % golfo
+  \fill[manualblue!25] (2.8,0.2) rectangle (5.5,-0.6);
+  \node[manualblue] at (4.6,-0.3) {\scriptsize Golfo Pérsico};
+  % regiões
+  \node[align=center, text=manualgray] at (2.6,5.2) {\scriptsize \textbf{ASSÍRIA}\\\scriptsize (norte)};
+  \node[align=center, text=manualred] at (2.4,3.2) {\scriptsize \textbf{BABILÔNIA}\\\scriptsize Babilônia $\bullet$};
+  \node[align=center, text=manualgreen] at (3.0,1.4) {\scriptsize \textbf{SUMÉRIA}\\\scriptsize (sul)};
+  % cidades
+  \node[ponto] at (3.2,1.0) {}; \node[right] at (3.3,1.0) {\scriptsize Ur};
+  \node[ponto] at (2.7,1.7) {}; \node[left] at (2.6,1.7) {\scriptsize Uruk};
+  \node[ponto] at (3.05,5.0) {}; \node[right] at (3.15,5.0) {\scriptsize Nínive};
+  % seta norte
+  \draw[->, thick] (5.2,5) -- (5.2,5.8) node[above] {\scriptsize N};
+\end{tikzpicture}
+```
+
+Mapa esquemático da Mesopotâmia (não cartográfico). No sul, a **Suméria**, berço das primeiras cidades; ao centro, a **Babilônia**; ao norte, a **Assíria**.
+:::
+
+## As cidades-Estado sumérias {#sec-sumerios-meso}
+
+Foi no **sul** da Mesopotâmia, região chamada **Suméria**, que floresceram, a partir de cerca de **3500 a.C.**, as primeiras cidades da história — o processo que você conheceu como Revolução Urbana (@sec-revolucao-urbana). **Uruk**, **Ur**, **Lagash**, **Eridu**, **Nippur**: cada uma era uma **cidade-Estado**, isto é, uma cidade politicamente independente que governava os campos ao seu redor.
+
+::: {.callout-note title="Conceito-chave: cidade-Estado"}
+Uma **cidade-Estado** é uma unidade política soberana formada por uma cidade e seu território agrícola próximo, com governo, exército, leis e deuses próprios. Na Suméria, cada cidade tinha seu **deus protetor** e era, na origem, considerada propriedade dele; o governante administrava a cidade em nome da divindade. As cidades-Estado sumérias eram **rivais**, disputando terras e água — uma fragmentação política que só mais tarde os impérios superariam. Você reencontrará esse modelo na Grécia antiga (a *pólis*).
+:::
+
+No centro de cada cidade erguia-se o **zigurate**, um templo em forma de torre escalonada, morada do deus e, ao mesmo tempo, o maior centro **econômico** da cidade: nele se armazenavam grãos, distribuíam-se rações, guardavam-se os registros. A religião suméria era **politeísta** (muitos deuses, ligados às forças da natureza) e os sacerdotes formavam um grupo poderoso. À frente da cidade estava o **ensi** ou o **lugal** (rei), que comandava as obras de irrigação, a guerra e a justiça.
+
+Foi na Suméria que nasceu a **escrita cuneiforme** (@sec-escrita), feita com um estilete de junco pressionado em placas de argila úmida. Dela nos chegou a **Epopeia de Gilgámesh** [@gilgamesh2011], o mais antigo grande poema da humanidade, que narra a busca de um rei por um sentido diante da morte — prova de que aquela civilização não pensava só em celeiros e impostos, mas também nas grandes questões da existência.
+
+## Dos reinos aos impérios {#sec-imperios-meso}
+
+A rivalidade entre as cidades-Estado abriu caminho para um novo tipo de poder: o **império**, que reúne muitos povos e territórios sob um único comando. A @fig-linha-tempo-mesopotamia organiza essa sucessão de potências ao longo de quase três milênios.
+
+::: {#fig-linha-tempo-mesopotamia}
+
+```{.tikz}
+%%| filename: fig-linha-tempo-mesopotamia
+%%| alt: Linha do tempo da Mesopotâmia, das cidades-Estado sumérias por volta de 3500 a.C. ao Império Neobabilônico e à conquista persa em 539 a.C.
+\begin{tikzpicture}[>=stealth]
+  \draw[eixo] (0,0) -- (13.4,0);
+  \node[eixo, gray] at (13.4,-0.5) {\scriptsize tempo (fora de escala)};
+
+  \node[ponto] at (0.8,0) {};
+  \node[below] at (0.8,-0.15) {\scriptsize 3500 a.C.};
+  \node[above, align=center, text=manualgreen] at (1.1,0.2) {\scriptsize cidades-Estado\\\scriptsize sumérias};
+
+  \node[ponto] at (3.6,0) {};
+  \node[below] at (3.6,-0.15) {\scriptsize 2334 a.C.};
+  \node[above, align=center, text=manualblue] at (3.6,0.2) {\scriptsize Império Acádio\\\scriptsize (Sargão)};
+
+  \node[ponto] at (6.4,0) {};
+  \node[below] at (6.4,-0.15) {\scriptsize 1792 a.C.};
+  \node[above, align=center, text=manualred] at (6.4,0.2) {\scriptsize Império Babilônico\\\scriptsize (Hamurábi)};
+
+  \node[ponto] at (9.4,0) {};
+  \node[below] at (9.4,-0.15) {\scriptsize séc. IX--VII a.C.};
+  \node[above, align=center, text=manualred] at (9.4,0.2) {\scriptsize Império Assírio};
+
+  \node[ponto] at (12.0,0) {};
+  \node[below] at (12.0,-0.15) {\scriptsize 539 a.C.};
+  \node[above, align=center, text=manualblue] at (12.0,0.2) {\scriptsize conquista\\\scriptsize persa};
+\end{tikzpicture}
+```
+
+Linha do tempo da Mesopotâmia. A cada império, o centro do poder se desloca — mas a cultura suméria (escrita, direito, religião) permanece como base comum.
+:::
+
+**Os acádios (a partir de c. 2334 a.C.).** O rei **Sargão de Acád** conquistou as cidades sumérias e formou o que muitos consideram o **primeiro império** da história, unificando o centro e o sul da Mesopotâmia sob um só governo e uma língua semítica, o acádio.
+
+**Os babilônios (auge com Hamurábi, 1792–1750 a.C.).** Após séculos de instabilidade, a cidade de **Babilônia** ascendeu sob o rei **Hamurábi**, que unificou a Mesopotâmia e promulgou o célebre **Código** que abre este capítulo. A Babilônia tornou-se um dos maiores centros urbanos do mundo antigo.
+
+**Os assírios (auge nos séculos IX–VII a.C.).** Vindos do norte, os **assírios** construíram um império militarista, temido por sua cavalaria, seus arqueiros e o uso sistemático do **terror** (deportações em massa, cidades arrasadas) como instrumento de dominação. De sua capital, **Nínive**, o rei Assurbanípal reuniu uma imensa **biblioteca** de tábuas de argila, fonte preciosa para nós.
+
+**Os caldeus, ou neobabilônios (séc. VI a.C.).** Depois da queda assíria, a Babilônia reviveu sob **Nabucodonosor II**, responsável pelos lendários **Jardins Suspensos** e pelo **cativeiro dos hebreus** (que você estudará no @sec-hebreus). Em **539 a.C.**, a cidade caiu diante do persa **Ciro**, o Grande, encerrando a autonomia política mesopotâmica.
+
+## Sociedade, economia e direito {#sec-sociedade-meso}
+
+A sociedade mesopotâmica era rígida e **estratificada** (@fig-piramide-meso). No topo, o **rei** e sua família, os **sacerdotes** e os altos funcionários. Abaixo, os **homens livres** — escribas, comerciantes, artesãos, camponeses proprietários. Na base, os **dependentes** e os **escravizados**, em geral prisioneiros de guerra ou devedores que haviam perdido a liberdade.
+
+::: {#fig-piramide-meso}
+
+```{.tikz}
+%%| filename: fig-piramide-meso
+%%| alt: Pirâmide social da Mesopotâmia, com o rei e os sacerdotes no topo e os escravizados na base.
+\begin{tikzpicture}
+  \draw[thick, manualgray] (0,0) -- (6,0) -- (3,4.6) -- cycle;
+  \draw[thick, manualgray] (0.75,1.15) -- (5.25,1.15);
+  \draw[thick, manualgray] (1.65,2.5) -- (4.35,2.5);
+  \node[align=center] at (3,3.4) {\scriptsize \textbf{rei, sacerdotes,}\\\scriptsize \textbf{altos funcionários}};
+  \node[align=center] at (3,1.75) {\scriptsize homens livres: escribas,\\\scriptsize mercadores, artesãos, camponeses};
+  \node[align=center] at (3,0.5) {\scriptsize dependentes e \textbf{escravizados}};
+  \draw[->, manualred, thick] (6.3,3.3) -- (6.3,0.5)
+        node[midway, right, black, align=left] {\scriptsize a base\\\scriptsize sustentava\\\scriptsize o topo};
+\end{tikzpicture}
+```
+
+A pirâmide social mesopotâmica. As leis de Hamurábi tratavam os grupos de forma **desigual**: a punição dependia da posição social da vítima e do agressor.
+:::
+
+A economia girava em torno da **agricultura irrigada** (cevada, tâmaras, trigo), da **criação** (ovelhas, cabras) e de um intenso **comércio** de longa distância, necessário para importar o que a planície não tinha (madeira, pedra, metais, estanho para o bronze). Os **templos** e o **palácio** eram grandes proprietários de terras e organizavam boa parte da produção e da redistribuição.
+
+::: {.callout-warning title="A fonte e seus limites: lendo o Código de Hamurábi"}
+O Código de Hamurábi é uma fonte riquíssima — mas exige **crítica documental** (@sec-oficio-do-historiador). Primeiro, era também uma peça de **propaganda**: no prólogo, Hamurábi diz ter recebido as leis do deus **Shamash** para "fazer brilhar a justiça" e proteger o fraco do forte — legitimando seu poder como sagrado. Segundo, a lei revela uma sociedade **profundamente desigual**: a pena variava conforme a posição da vítima. Ferir um homem livre custava caro; ferir um escravizado, apenas uma indenização ao seu dono. A famosa **lei de talião** ("olho por olho") valia entre iguais, não entre desiguais. Ler o Código, portanto, é aprender tanto sobre o direito quanto sobre a **hierarquia** que ele protegia.
+:::
+
+## 🔎 Historiografia em Foco {#sec-historiografia-meso}
+
+Por que, na Mesopotâmia (e também no Egito, na China, na Índia), o Estado surgiu tão **forte**, concentrando terras, obras públicas e poder religioso numa escala que a Europa antiga não conheceria? Uma das respostas mais influentes — e mais controversas — ligou esse poder à **água**.
+
+**A tese do "despotismo hidráulico".** Em 1957, o historiador teuto-americano **Karl Wittfogel** (1896–1988) publicou *Oriental Despotism* [@wittfogel1957], onde defendia que as grandes civilizações de irrigação — Mesopotâmia, Egito, China, Índia — teriam gerado um tipo específico de poder. O raciocínio: a agricultura nesses vales dependia de **obras hidráulicas gigantescas** (canais, diques, reservatórios) que exigiam mobilizar e comandar multidões. Quem controlasse a água controlaria a vida e a produção. Disso teria nascido, segundo Wittfogel, um **Estado despótico** e centralizado — uma burocracia todo-poderosa a serviço de um soberano absoluto —, capaz de submeter uma população dispersa e desarmada. Essa tese dialogava com a velha ideia europeia de um "**despotismo oriental**" imutável e retomava o conceito marxista de **modo de produção asiático**, que você estudará em detalhe no @sec-modo-de-producao-asiatico.
+
+**As críticas: causa ou consequência?** A partir dos anos 1960–1970, arqueólogos e historiadores contestaram duramente Wittfogel. A objeção central inverte a flecha do tempo: escavações mostraram que, em muitos lugares, o **Estado já existia antes** dos grandes sistemas de irrigação — ou seja, a burocracia hidráulica teria sido **consequência**, e não **causa**, do surgimento do Estado. Além disso, boa parte da irrigação suméria era feita e mantida em escala **local**, pelas próprias comunidades, sem um comando central onipotente. Críticos também apontaram o viés **político** e **eurocêntrico** da tese: escrita em plena Guerra Fria, ela projetava sobre todo o "Oriente" a imagem de sociedades naturalmente propensas ao autoritarismo, em oposição a um Ocidente "livre" — uma generalização que apaga as enormes diferenças entre Egito, China e Mesopotâmia.
+
+**Por que o debate importa?** Porque ele mostra como uma pergunta aparentemente técnica ("de onde veio o Estado?") carrega uma visão de mundo. A tese hidráulica seduz por sua simplicidade — água explica poder —, mas simplifica demais processos que foram diversos e locais. Hoje, a maioria dos especialistas prefere explicações **múltiplas** para o surgimento do Estado: guerra, comércio, religião, crescimento populacional *e* irrigação, combinados de formas diferentes em cada região. Fica a lição, válida para todo o volume: desconfie das explicações de **fator único**, sobretudo quando elas classificam civilizações inteiras sob um mesmo rótulo.
+
+## Resumo do capítulo {#sec-resumo-meso}
+
+- A **Mesopotâmia** ("terra entre rios") situava-se entre o **Tigre** e o **Eufrates**, no atual Iraque, parte do **Crescente Fértil**. As cheias eram irregulares e violentas, exigindo **irrigação** e trabalho coletivo.
+- No sul, a **Suméria** foi berço das primeiras **cidades-Estado** (Ur, Uruk, Lagash), politicamente independentes, cada uma com seu deus, seu **zigurate** e seu rei. Ali nasceram a **escrita cuneiforme** e a *Epopeia de Gilgámesh*.
+- Sucederam-se grandes **impérios**: **Acádio** (Sargão, primeiro império), **Babilônico** (Hamurábi), **Assírio** (militarista, capital Nínive) e **Neobabilônico** (Nabucodonosor), até a **conquista persa em 539 a.C.**
+- A sociedade era **estratificada** (rei e sacerdotes → homens livres → escravizados) e a economia baseava-se na **agricultura irrigada**, na criação e no **comércio** de longa distância, com templos e palácio como grandes proprietários.
+- O **Código de Hamurábi** (c. 1750 a.C.) é fonte central: mostra o direito escrito, a **lei de talião** entre iguais, a legitimação religiosa do poder e a **desigualdade** jurídica entre grupos sociais.
+- Historiograficamente, a tese do "**despotismo hidráulico**" de **Wittfogel** (o controle da água gerando um Estado despótico) foi criticada por **inverter causa e efeito** e por seu viés **eurocêntrico**. Hoje se preferem explicações **múltiplas** para a origem do Estado.
+
+## Exercícios {#sec-exercicios-meso}
+
+**1.** Explique por que a geografia da Mesopotâmia tornava a **irrigação** indispensável e como essa necessidade se relaciona com a organização política.
+
+::: {.callout-tip collapse="true" title="Solução"}
+O Tigre e o Eufrates transbordavam de forma **irregular e violenta**, muitas vezes fora da época adequada para as plantações, e a planície carecia de chuvas regulares. Para transformar a região num celeiro, era preciso **controlar as águas**: canais de irrigação, diques, drenagem e reservatórios. Essas obras exigiam o trabalho **coordenado de milhares de pessoas**, o que favorecia a existência de um **poder capaz de organizar, comandar e sustentar** essa mão de obra — reforçando a autoridade de reis e sacerdotes. Assim, geografia e necessidade técnica ajudam a explicar (embora não sozinhas — ver a Historiografia em Foco) a força do Estado mesopotâmico.
+:::
+
+**2.** O que é uma **cidade-Estado**? Cite duas cidades sumérias e explique o papel do **zigurate**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Uma **cidade-Estado** é uma cidade politicamente **independente** que governa os campos ao seu redor, com governo, exército, leis e deus próprios. Exemplos sumérios: **Ur**, **Uruk**, **Lagash**, **Eridu**, **Nippur** (bastam dois). O **zigurate** era o templo em forma de torre escalonada, morada do deus protetor da cidade e, simultaneamente, o principal **centro econômico e administrativo**: armazenava grãos, redistribuía rações e guardava os registros. Concentrava, portanto, poder **religioso e econômico**.
+:::
+
+**3.** Coloque em ordem cronológica e associe cada império ao seu marco: Assírio, Acádio, Babilônico (de Hamurábi), Neobabilônico.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Ordem cronológica: **Acádio** (Sargão, c. 2334 a.C., primeiro império) → **Babilônico** (Hamurábi, 1792–1750 a.C., o Código de leis) → **Assírio** (auge séc. IX–VII a.C., militarismo e a capital Nínive) → **Neobabilônico/Caldeu** (Nabucodonosor, séc. VI a.C., Jardins Suspensos e cativeiro dos hebreus), até a **conquista persa de 539 a.C.**
+:::
+
+**4.** A partir do trecho do prólogo do Código de Hamurábi, explique como a lei também servia para **legitimar o poder** do rei.
+
+> "[Os deuses] chamaram Hamurábi, o príncipe piedoso e temente a deus, para fazer brilhar a justiça no país, para destruir o mau e o perverso, para que o forte não oprima o fraco […]." — Prólogo do Código de Hamurábi
+
+::: {.callout-tip collapse="true" title="Solução"}
+O prólogo apresenta Hamurábi como **escolhido pelos deuses** e movido por piedade religiosa, com a missão de "fazer brilhar a justiça" e proteger o fraco do forte. Ao associar sua autoridade a uma **vontade divina** e a um ideal de justiça, o texto transforma a obediência às leis (e ao rei) em um **dever sagrado**: contestar o rei seria contestar os deuses. A lei, portanto, não apenas regula condutas — ela **legitima** o poder real, funcionando como peça de propaganda que sacraliza o governante. É por isso que a crítica documental pede que se pergunte sempre *quem* produziu a fonte e *com que interesse*.
+:::
+
+**5.** A "**lei de talião**" é frequentemente resumida como "olho por olho, dente por dente". Por que é impreciso dizer que ela se aplicava igualmente a todos na Babilônia?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque a punição no Código de Hamurábi **dependia da posição social** da vítima e do agressor. A reciprocidade exata ("olho por olho") valia sobretudo **entre iguais** — homens livres de mesma condição. Quando a vítima era de posição inferior (por exemplo, uma pessoa escravizada), a reparação costumava ser apenas uma **indenização em prata** paga ao seu dono, e não a mesma mutilação. Ou seja, a sociedade babilônica era **juridicamente desigual**: o valor de um dano dependia de *quem* era ferido. Dizer que o talião valia "para todos igualmente" ignora essa hierarquia.
+:::
+
+**6.** (Estilo ENEM) Leia o texto.
+
+> Nas planícies da Mesopotâmia, o aproveitamento agrícola dependia de um vasto sistema de canais e diques. Alguns estudiosos sustentaram que a necessidade de comandar essas grandes obras hidráulicas teria dado origem a Estados extremamente centralizados e despóticos. Pesquisas arqueológicas posteriores, porém, indicaram que, em várias regiões, o Estado já existia antes dos grandes sistemas de irrigação, muitas vezes mantidos localmente pelas próprias comunidades.
+
+A confrontação entre as duas interpretações apresentadas no texto evidencia que
+
+**(a)** as descobertas arqueológicas confirmaram plenamente a tese do despotismo hidráulico.
+**(b)** o conhecimento histórico é revisado quando novas evidências desafiam explicações anteriores.
+**(c)** a irrigação foi irrelevante para a organização das sociedades mesopotâmicas.
+**(d)** as sociedades da Mesopotâmia nunca desenvolveram formas de Estado centralizado.
+**(e)** a arqueologia é incapaz de contribuir para o estudo das civilizações antigas.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (b).** O texto contrasta uma explicação antiga (o "despotismo hidráulico", que faz da água a causa do Estado) com **novas evidências arqueológicas** que a desafiam (o Estado anterior à grande irrigação; canais mantidos localmente). Isso ilustra exatamente como o **conhecimento histórico é revisado** à luz de novas fontes e perguntas.
+
+Erros: (a) as pesquisas **desafiaram**, não confirmaram, a tese; (c) o texto não diz que a irrigação foi irrelevante, apenas que não foi a causa única; (d) a Mesopotâmia **teve** Estados centralizados (impérios); (e) a arqueologia é justamente quem trouxe as novas evidências.
+:::
+
+**7.** (Estilo vestibular — dissertativa) Explique a tese do "**despotismo hidráulico**" de Karl Wittfogel e apresente **duas críticas** que a historiografia posterior lhe dirigiu.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Resposta esperada. **A tese:** Wittfogel (*Oriental Despotism*, 1957) sustentou que as civilizações de irrigação (Mesopotâmia, Egito, China, Índia) teriam gerado um **Estado despótico e centralizado** porque a agricultura dependia de **grandes obras hidráulicas** (canais, diques) que exigiam mobilizar e comandar multidões; quem controlasse a água controlaria a produção e a vida, criando uma burocracia todo-poderosa a serviço de um soberano absoluto. **Críticas** (bastam duas): (1) a **inversão de causa e efeito** — a arqueologia mostrou que, em muitos lugares, o Estado **já existia antes** dos grandes sistemas de irrigação, que teriam sido consequência, não causa; (2) boa parte da irrigação era **local**, mantida pelas próprias comunidades, sem comando central onipotente; (3) o **viés eurocêntrico e político** — escrita na Guerra Fria, a tese projetava sobre todo o "Oriente" uma vocação natural ao autoritarismo, apagando as diferenças entre as várias civilizações. Uma boa resposta deve explicar a tese e articular pelo menos duas dessas objeções, concluindo que hoje se preferem explicações **múltiplas** para a origem do Estado.
+:::
+
+**8.** Muitos elementos criados na Suméria (escrita, direito escrito, matemática de base 60, mitos) sobreviveram a impérios que se sucederam por milênios. O que isso sugere sobre a relação entre **permanências** e **rupturas** na história mesopotâmica?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Sugere que, sob as evidentes **rupturas políticas** (a queda de um império e a ascensão de outro — acádios, babilônios, assírios, caldeus), houve fortes **permanências culturais**: a escrita cuneiforme, o direito escrito, a religião politeísta, o sistema numérico sexagesimal (que herdamos nos 60 minutos e 360 graus) e a literatura (Gilgámesh) atravessaram séculos e foram **adotados pelos novos dominadores**. Isso mostra, na prática, a lição do @sec-o-que-e-historia: a boa análise histórica segura as duas pontas — reconhece a mudança no poder político sem perder de vista as continuidades de longa duração na cultura e nas instituições.
+:::
+
+## Para saber mais {#sec-para-saber-mais-meso}
+
+**Livros**
+
+- BOTTÉRO, Jean. *Mesopotâmia: a escrita, a razão e os deuses* [@bottero2001]. Um dos maiores especialistas do mundo apresenta, com clareza, a cultura, a religião e a razão mesopotâmicas.
+- PINSKY, Jaime. *As primeiras civilizações* [@pinsky2017]. Introdução acessível e crítica ao Oriente Próximo antigo, muito usada no Brasil.
+- CARDOSO, Ciro Flamarion. *Sociedades do Antigo Oriente Próximo* [@cardoso1990]. Ótima síntese, com atenção especial aos debates sobre o Estado e o modo de produção asiático.
+- *Epopeia de Gilgámesh* [@gilgamesh2011]. Vale ler a fonte primária: o mais antigo grande poema da humanidade, sobre amizade, poder e a angústia da morte.
+
+**Filmes e documentários**
+
+- Documentários do **Museu Britânico** e do **Louvre** sobre a Mesopotâmia, a escrita cuneiforme e o Código de Hamurábi (peça que pode ser vista online no acervo do Louvre).
+- Série *Civilizações* (BBC/PBS): episódios sobre as primeiras cidades ajudam a visualizar zigurates, arte e cultura material do Oriente Próximo.
