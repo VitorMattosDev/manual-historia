@@ -1,5 +1,227 @@
 # Reinos e impérios africanos: Gana, Mali e Songai {#sec-reinos-africanos}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Em 1324, o imperador **Mansa Musa**, do **Mali**, atravessou o deserto do Saara em peregrinação a Meca acompanhado de uma caravana descrita pelos cronistas como uma cidade em movimento: milhares de pessoas, camelos carregados de ouro, escravos vestidos de seda. Ao passar pelo **Cairo**, distribuiu tanto ouro que — segundo os relatos árabes — o preço do metal na cidade despencou e levou anos para se recuperar. Mansa Musa é lembrado por historiadores como possivelmente **o homem mais rico que já viveu**. E, no entanto, quantas vezes você ouviu falar dele na escola? Por muito tempo, ensinou-se que a África "não tinha história" antes da chegada dos europeus — uma das mentiras mais persistentes e prejudiciais já contadas. Este capítulo desmente essa ideia, apresentando os grandes **impérios africanos** medievais do Sudão Ocidental — **Gana**, **Mali** e **Songai** —, sociedades ricas, letradas e organizadas, que comerciavam ouro e sal, ergueram cidades como **Tombuctu** e produziram conhecimento muito antes de qualquer caravela portuguesa avistar a costa africana.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- criticar o mito de que "a África não tem história" e reconhecer a diversidade das sociedades africanas medievais;
+- explicar a base econômica do Sudão Ocidental: o **comércio transaariano** de ouro e sal;
+- caracterizar os impérios de **Gana**, **Mali** e **Songai** e sua sucessão histórica;
+- analisar o papel do **Islã**, das cidades e dos centros de saber como **Tombuctu**;
+- relacionar esse passado africano à formação do **Brasil** e à Lei 10.639/2003, valorizando a herança africana.
 :::
+
+## "A África não tem história"? Desmontando um mito {#sec-mito-africa}
+
+Comece por uma frase que fez escola. Em 1830, o filósofo alemão **Hegel** afirmou que a África "não é uma parte histórica do mundo"; e ainda em 1965, um historiador britânico chegou a dizer que só havia "a história dos europeus na África" — o resto seria "escuridão". Essas frases não descreviam a realidade: **justificavam** uma visão de mundo. Negar história à África foi, historicamente, uma forma de **legitimar** o tráfico de escravizados e o colonialismo — afinal, é mais fácil dominar e escravizar quem se retrata como "povo sem passado, sem civilização, sem Estado".
+
+::: {.callout-important title="Cuidado com um duplo preconceito"}
+O mito de que "a África não tem história" combina dois erros. O primeiro é **confundir história com escrita**: como muitas sociedades africanas transmitiam seu passado pela **oralidade** (e não por documentos escritos), concluiu-se, erradamente, que não teriam história — quando, na verdade, faltavam a elas apenas certos **tipos de fonte** valorizados pelos europeus. O segundo é **ignorar as fontes que existem**: crônicas árabes, relatos de viajantes, achados arqueológicos, a rica **tradição oral** dos **griôs** e, no caso do Sudão, até documentos escritos em árabe. Como você aprendeu no Volume 1, a ausência de um tipo de fonte não é ausência de história — é um desafio de método. A historiografia africana e africanista (reunida, por exemplo, na monumental *História Geral da África*, da UNESCO) desmontou por completo esse mito.
+:::
+
+::: {.callout-note title="Conceito-chave: os griôs e a tradição oral"}
+Nas sociedades da África Ocidental, os **griôs** (*djeli*) eram — e ainda são — **guardiões da memória**: contadores de histórias, genealogistas, músicos e conselheiros que memorizavam e transmitiam, de geração em geração, a história dos reis, das famílias e dos povos. A **tradição oral** que preservam é uma **fonte histórica** legítima e riquíssima (a epopeia de Sundiata Keita, fundador do Mali, chegou até nós assim). O historiador **Amadou Hampâté Bâ** resumiu seu valor numa frase célebre: "**na África, quando um velho morre, é uma biblioteca que se queima**". Valorizar a oralidade é ampliar a própria noção de fonte.
+:::
+
+Longe de ser um vazio, a África medieval abrigava **grande diversidade**: reinos e impérios no Sudão Ocidental, cidades-Estado swahilis no litoral do Índico (comerciando com a Índia e a China), o reino cristão da **Etiópia**, os povos da floresta e das savanas, cada qual com suas formas de organização. Neste capítulo, focaremos os três grandes impérios do **Sudão Ocidental** — a região de savanas ao sul do Saara, entre os rios Senegal e Níger —, cuja riqueza nasceu de um comércio extraordinário.
+
+## A base econômica: o comércio transaariano {#sec-comercio-transaariano}
+
+A prosperidade dos impérios do Sudão Ocidental repousava sobre uma rota comercial que ligava a **África subsaariana** ao **norte da África** e, por ele, ao Mediterrâneo e ao mundo islâmico: o **comércio transaariano** (através do deserto do Saara). Grandes **caravanas de camelos** cruzavam o deserto levando e trazendo mercadorias, num fluxo que enriqueceu quem controlava suas rotas e mercados.
+
+Os dois produtos centrais dessa troca eram o **ouro** e o **sal** (@fig-comercio-transaariano). O **ouro** vinha das minas do sul (regiões como Bambuk e Bure), era abundante na África Ocidental e altamente cobiçado no norte da África e na Europa — boa parte do ouro que cunhava as moedas do Mediterrâneo medieval saía dali. O **sal**, por sua vez, vinha das minas do **deserto** (como Taghaza) e era escasso e vital no sul, onde o calor tornava sua reposição indispensável para a conservação de alimentos e para a saúde. Assim, invertia-se a intuição: no Saara, o sal chegava a ser trocado quase que **peso por peso em ouro**. Além de ouro e sal, circulavam por essas rotas o **cobre**, tecidos, tâmaras, cavalos, livros e também **pessoas escravizadas**.
+
+::: {#fig-comercio-transaariano}
+
+```{.tikz}
+%%| filename: fig-comercio-transaariano
+%%| alt: Esquema do comércio transaariano, com o sal descendo do norte e o ouro subindo do sul através do deserto do Saara.
+\begin{tikzpicture}[>=stealth]
+  \draw[eixo, gray] (0,0) rectangle (11,5.4);
+  % faixas
+  \fill[manualyellow!18] (0.05,3.7) rectangle (10.95,5.35);
+  \node[font=\scriptsize, text=manualgray] at (5.5,4.9) {\textbf{Norte da África / Mediterrâneo}};
+  \node[font=\scriptsize] at (5.5,4.2) {minas de \textbf{sal} (Taghaza) · mercados · mundo islâmico};
+
+  \fill[manualgray!18] (0.05,2) rectangle (10.95,3.5);
+  \node[font=\scriptsize, text=manualgray] at (5.5,2.75) {\textbf{Deserto do Saara} — caravanas de camelos};
+
+  \fill[manualgreen!16] (0.05,0.05) rectangle (10.95,1.8);
+  \node[font=\scriptsize, text=manualgray] at (5.5,1.35) {\textbf{Sudão Ocidental (savana)}};
+  \node[font=\scriptsize] at (5.5,0.6) {impérios de \textbf{Gana, Mali, Songai} · minas de \textbf{ouro} (Bambuk, Bure)};
+
+  \draw[vetor, manualred, very thick] (3,3.6) -- (3,1.9) node[midway, left, font=\scriptsize]{SAL $\downarrow$};
+  \draw[vetor, manualyellow!80!black, very thick] (8,1.9) -- (8,3.6) node[midway, right, font=\scriptsize]{OURO $\uparrow$};
+\end{tikzpicture}
+```
+
+O motor econômico do Sudão Ocidental: o **sal** descia do deserto e o **ouro** subia da savana, cruzando o Saara em caravanas. Quem controlava as rotas e cobrava impostos sobre elas enriquecia.
+:::
+
+Aqui está a chave para entender esses impérios: eles não eram ricos apenas por **produzir** ouro, mas sobretudo por **controlar e taxar** o comércio que passava por seu território. Os soberanos cobravam **impostos** sobre a entrada e a saída de mercadorias, e desse controle vinham o ouro, o poder militar e a grandeza de suas cortes. Comércio, poder político e prestígio caminhavam juntos.
+
+## Gana, Mali e Songai: três impérios em sucessão {#sec-tres-imperios}
+
+Ao longo de cerca de oito séculos, três grandes impérios se sucederam no controle dessa região e de suas rotas (@fig-timeline-imperios-africanos), cada um mais extenso que o anterior.
+
+**O Império de Gana** (c. séculos VIII–XII) foi o primeiro grande Estado da região a se tornar conhecido — atenção: não confunda com o país **atual** chamado Gana, que fica mais ao sul e adotou esse nome em homenagem ao antigo império. O Gana medieval, do povo **soninquê**, ficou célebre entre os árabes como "**a terra do ouro**". Seus reis controlavam o comércio transaariano e mantinham exércitos numerosos. O contato com os mercadores muçulmanos do norte introduziu o **Islã**, que foi sendo adotado sobretudo pela elite comercial, ao lado das religiões tradicionais. O declínio de Gana, por volta do século XII, abriu espaço para a ascensão de um novo poder.
+
+**O Império de Mali** (c. séculos XIII–XV) foi o maior e mais célebre. Segundo a tradição oral dos griôs, foi fundado por **Sundiata Keita** (Sundjata), que por volta de 1235 unificou os povos **mandingas** e derrotou seus rivais — sua epopeia é um dos grandes monumentos da literatura oral africana. O Mali levou ao auge o controle das rotas do ouro e alcançou enorme prestígio internacional, sobretudo sob **Mansa Musa** (r. c. 1312–1337), cuja peregrinação a Meca (1324), com sua fabulosa exibição de ouro, colocou o Mali nos **mapas europeus** e o tornou lendário no mundo islâmico. Sob o Mali, a cidade de **Tombuctu** (Timbuktu) floresceu como grande centro comercial e, sobretudo, **intelectual**.
+
+**O Império Songai** (c. séculos XV–XVI) sucedeu o Mali como potência dominante, tornando-se o **maior** dos três em extensão. A partir da cidade de **Gao**, soberanos como **Sonni Ali** e, sobretudo, **Askia Maomé** (Askia Muhammad, r. 1493–1528) expandiram e reorganizaram o império, com administração centralizada, exército profissional e forte apoio ao Islã e ao saber. Sob os Songai, **Tombuctu** e **Djené** viveram seu apogeu cultural. O fim do Songai veio em **1591**, com uma invasão vinda do **Marrocos**, cujos soldados dispunham de **armas de fogo** — uma superioridade tecnológica decisiva —, o que fragmentou o grande império em poderes menores.
+
+::: {#fig-timeline-imperios-africanos}
+
+```{.tikz}
+%%| filename: fig-timeline-imperios-africanos
+%%| alt: Linha do tempo da sucessão dos impérios de Gana, Mali e Songai, do século VIII ao XVI.
+\begin{tikzpicture}[>=stealth]
+  \draw[eixo] (0,0) -- (13.4,0);
+  \node[eixo, gray] at (13.4,-0.5) {\scriptsize tempo};
+
+  % faixas de duração
+  \fill[manualyellow!30] (0.5,-0.18) rectangle (4.2,0.18);
+  \node[above, font=\scriptsize, text=manualyellow!60!black] at (2.35,0.25) {\textbf{GANA} (séc. VIII--XII)};
+  \fill[manualgreen!30] (4.4,-0.18) rectangle (8.8,0.18);
+  \node[below, font=\scriptsize, text=manualgreen!60!black] at (6.6,-0.28) {\textbf{MALI} (séc. XIII--XV)};
+  \fill[manualblue!30] (9.0,-0.18) rectangle (12.6,0.18);
+  \node[above, font=\scriptsize, text=manualblue] at (10.8,0.25) {\textbf{SONGAI} (séc. XV--XVI)};
+
+  \node[ponto] at (6.3,0) {};
+  \node[below, font=\scriptsize, align=center] at (6.3,-0.9) {1324\\Mansa Musa\\vai a Meca};
+  \node[ponto] at (12.4,0) {};
+  \node[below, font=\scriptsize, align=center] at (12.4,-0.9) {1591\\invasão\\marroquina};
+\end{tikzpicture}
+```
+
+A sucessão dos três grandes impérios do Sudão Ocidental, cada um herdando e ampliando o controle das rotas do ouro. As datas são aproximadas.
+:::
+
+## Cidades, saber e fé: Tombuctu {#sec-tombuctu}
+
+Se um único lugar simboliza a grandeza intelectual da África medieval, é **Tombuctu**. Situada perto do rio Níger, na confluência das rotas do deserto e da savana, a cidade tornou-se, entre os séculos XIV e XVI, muito mais que um entreposto comercial: foi um dos maiores **centros de saber** do mundo islâmico. Sua **Universidade de Sankoré** e suas numerosas escolas reuniam milhares de estudantes que vinham estudar teologia, direito, astronomia, matemática, medicina e retórica. Havia em Tombuctu um intenso **comércio de livros** — dizia-se que os manuscritos eram mercadoria mais valiosa que o ouro —, e a cidade produziu e guardou **centenas de milhares de manuscritos** em árabe, muitos dos quais **sobrevivem até hoje** e vêm sendo estudados e digitalizados.
+
+Esse florescimento estava ligado à difusão do **Islã**, que trouxe consigo a **escrita árabe**, as escolas e as redes de intercâmbio intelectual do mundo muçulmano. Vale, porém, uma observação importante: o Islã, no Sudão Ocidental, adotou-se sobretudo entre as **elites urbanas e comerciais** e nas cortes, muitas vezes **convivendo** com as religiões e os costumes tradicionais africanos das populações rurais — uma síntese original, e não uma simples substituição. Djené, com sua imensa **mesquita de adobe** (barro), e outras cidades também floresceram nesse ambiente.
+
+::: {.callout-tip title="Dica de prova: Tombuctu contra o estereótipo"}
+Tombuctu é o melhor "contra-argumento" de prova ao estereótipo da "África sem cultura". Guarde alguns pontos de impacto: (1) enquanto se dizia que a África "não tinha história", a cidade abrigava **universidades** e **bibliotecas** com **centenas de milhares de manuscritos**; (2) esses manuscritos **existem** e são hoje patrimônio estudado por pesquisadores; (3) havia ali produção **própria** de conhecimento (direito, astronomia, medicina), e não mera importação. Um bom parágrafo dissertativo sobre a herança africana quase sempre pode citar Tombuctu.
+:::
+
+## Do Sudão Ocidental ao Brasil {#sec-africa-brasil}
+
+Estudar esses impérios não é um exercício distante: é conhecer parte das **raízes do Brasil**. A partir do século XVI, o tráfico atlântico traria à força para o Brasil milhões de africanos, muitos deles oriundos justamente dessas regiões da África Ocidental (mandingas, entre outros povos) e de suas culturas. Eles chegaram **não** como "povos sem história", mas como portadores de tradições milenares: técnicas agrícolas e de mineração, conhecimentos metalúrgicos, formas de organização, religiosidades, línguas, música e culinária que se tornariam constitutivas da cultura brasileira.
+
+É por isso que a **Lei 10.639/2003** tornou **obrigatório**, nas escolas brasileiras, o ensino de **história e cultura afro-brasileira e africana**. Não se trata de um acréscimo "compensatório", mas de uma correção de **rigor histórico**: contar a formação do Brasil ignorando os povos africanos e seu passado — como o dos impérios de Gana, Mali e Songai — é, simplesmente, contar mal essa história. Reconhecer a grandeza da África medieval é reconhecer a dignidade histórica de milhões de brasileiros e brasileiras (tema retomado no Volume 8 e no Volume 15).
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+O estudo da história africana é, ele próprio, um campo de **disputa** — e entendê-la ilumina como o conhecimento histórico se constrói e se corrige.
+
+**A negação eurocêntrica.** Por muito tempo, a historiografia ocidental **negou** à África uma história própria. Baseada num duplo preconceito — a identificação de "história" com "documento escrito" e uma visão **racista** herdada do tráfico e do colonialismo —, essa tradição (de Hegel a certos historiadores do século XX) tratava a África subsaariana como um continente "sem Estado, sem escrita, sem história", cujo passado só teria começado com a chegada dos europeus. Essa negação **não era neutra**: servia para justificar a escravização e a dominação colonial.
+
+**A afirmação da história africana.** A partir de meados do século XX, sobretudo com a **descolonização** da África, uma nova geração de historiadores — muitos deles **africanos** — reescreveu esse quadro. O senegalês **Cheikh Anta Diop** [@diop1974] reivindicou o protagonismo africano e as raízes africanas da civilização; o historiador do Burkina Faso **Joseph Ki-Zerbo** [@kiZerbo2009] escreveu uma influente *História da África Negra* e coordenou parte da monumental *História Geral da África* [@unescoIV2010], projeto da UNESCO que mobilizou dezenas de especialistas para reconstruir o passado do continente **a partir de suas próprias fontes** — inclusive a **tradição oral**, reabilitada como documento legítimo. No Brasil, **Alberto da Costa e Silva** [@costaESilva2006] tornou-se referência ao narrar "a África antes dos portugueses".
+
+**Por que a divergência importa?** Porque é um caso exemplar de como a História **se corrige** ao mudar as **perguntas** e ao **ampliar a noção de fonte**. Enquanto se aceitou que só valia como fonte o documento escrito ao modo europeu, a África "não tinha história". Quando os historiadores passaram a valorizar a **arqueologia**, as **crônicas árabes**, os **manuscritos de Tombuctu** e a **oralidade** dos griôs, um passado riquíssimo emergiu. A mudança revela algo que atravessa todo este manual: o que se enxerga do passado depende do que se aceita como **evidência** — e as regras sobre "o que conta como fonte" nunca foram neutras. Reescrever a história da África foi, também, um ato de **descolonização** do próprio conhecimento.
+
+::: {.callout-warning title="Controvérsia: os limites das fontes africanas"}
+Reconhecer a grandeza dos impérios africanos não significa idealizá-los acriticamente. Há **limites e debates** reais nas fontes. Boa parte do que sabemos vem de **cronistas árabes** externos (como Al-Bakri e, no século XIV, **Ibn Battuta**), que traziam seus próprios preconceitos; a **tradição oral**, valiosíssima, também se transforma a cada geração e exige crítica cuidadosa; e datas e fronteiras são muitas vezes aproximadas. Além disso, esses impérios eram **sociedades desiguais**, que praticavam elas mesmas formas de **escravidão** (parte dos escravizados do tráfico transaariano e, depois, atlântico saía dessas guerras e hierarquias internas). Fazer boa história da África é, portanto, o mesmo que fazer boa história de qualquer lugar: com base em fontes criticadas, sem mitos — nem o mito racista da "África sem história", nem o mito oposto de uma África idealizada e sem conflitos.
+:::
+
+## Resumo do capítulo {#sec-resumo}
+
+- O mito de que "**a África não tem história**" combina dois erros — confundir história com escrita e ignorar as fontes existentes (arqueologia, crônicas árabes, manuscritos, **tradição oral** dos **griôs**) — e serviu para **justificar** o tráfico e o colonialismo.
+- A África medieval era **diversa** (Sudão Ocidental, cidades swahilis, Etiópia cristã etc.). O foco do capítulo é o **Sudão Ocidental**.
+- A economia baseava-se no **comércio transaariano**: **sal** (do deserto) trocado por **ouro** (da savana), em caravanas de camelos. Os impérios enriqueciam **controlando e taxando** as rotas.
+- **Gana** (séc. VIII–XII, povo soninquê, "terra do ouro"); **Mali** (séc. XIII–XV, fundado por **Sundiata Keita**, auge com **Mansa Musa** e sua peregrinação de 1324); **Songai** (séc. XV–XVI, o maior, com **Askia Maomé**, fim com a invasão marroquina de **1591**, decidida pelas armas de fogo).
+- **Tombuctu**: grande centro **comercial e intelectual**, com a Universidade de **Sankoré** e centenas de milhares de **manuscritos**. O **Islã** difundiu-se sobretudo nas elites urbanas, convivendo com tradições africanas.
+- Muitos africanos trazidos ao **Brasil** vinham dessas regiões e culturas: reconhecer sua história é exigência de rigor, base da **Lei 10.639/2003**.
+- Historiografia: da **negação eurocêntrica** (Hegel) à **afirmação da história africana** (Diop, **Ki-Zerbo**, *História Geral da África* da UNESCO, Costa e Silva), possível ao ampliar a noção de **fonte** (incluindo a oralidade).
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Este é um tema em alta no ENEM e nos vestibulares (Lei 10.639/2003). Treine especialmente a **crítica ao mito** da "África sem história" e a explicação do **comércio transaariano** — os dois pontos mais cobrados.
+:::
+
+**1.** Explique por que é **falsa** a afirmação de que "a África não tinha história antes dos europeus". Aponte os dois erros embutidos nessa ideia.
+
+::: {.callout-tip collapse="true" title="Solução"}
+A afirmação é falsa porque combina dois erros. (1) **Confunde história com escrita:** como muitas sociedades africanas transmitiam seu passado pela **oralidade**, concluiu-se erradamente que não tinham história — quando lhes faltavam apenas certos **tipos de fonte** valorizados pelos europeus; história existe onde há seres humanos em sociedade, com ou sem escrita. (2) **Ignora as fontes que existem:** há abundante documentação sobre a África medieval — arqueologia, crônicas árabes, relatos de viajantes (como Ibn Battuta), os **manuscritos de Tombuctu** e a rica **tradição oral** dos **griôs**. Além disso, é preciso lembrar que essa negação **não era inocente**: servia para **justificar** o tráfico de escravizados e o colonialismo, retratando os africanos como "povos sem passado".
+:::
+
+**2.** Descreva o **comércio transaariano** e explique por que o sal podia valer tanto quanto o ouro.
+
+::: {.callout-tip collapse="true" title="Solução"}
+O **comércio transaariano** era a troca de mercadorias entre a **África subsaariana** e o **norte da África** (e, por ele, o Mediterrâneo e o mundo islâmico), realizada por **caravanas de camelos** que cruzavam o deserto do Saara. Os dois produtos centrais eram o **ouro** (abundante nas minas do sul, muito cobiçado no norte e na Europa) e o **sal** (extraído das minas do deserto, escasso e vital no sul). O **sal** valia tanto porque era **indispensável e raro** na savana quente: necessário para conservar alimentos e para a saúde, tinha de ser trazido de longe, do deserto. Assim, num contexto de grande escassez ao sul, o sal chegava a ser trocado quase **peso por peso em ouro** — um exemplo perfeito de como o **valor** depende da relação entre oferta e necessidade, e não de uma qualidade "intrínseca" do produto.
+:::
+
+**3.** Quem foi **Mansa Musa** e por que sua peregrinação de 1324 é tão lembrada?
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Mansa Musa** (r. c. 1312–1337) foi o mais célebre imperador do **Mali**, no auge do controle das rotas do ouro. Sua **peregrinação a Meca em 1324** é lembrada por dois motivos: (1) a **exibição fabulosa de riqueza** — sua caravana levava milhares de pessoas e enorme quantidade de ouro, que ele distribuiu com tal generosidade (por exemplo, no Cairo) que teria **derrubado o preço do ouro** por anos, indício concreto da riqueza do Mali; e (2) o **impacto internacional**: a viagem tornou Mansa Musa e o Mali **famosos no mundo islâmico** e fez o império aparecer em **mapas europeus** (como o Atlas Catalão de 1375, que o retrata segurando uma pepita de ouro). Ele é hoje citado por historiadores como possivelmente o **homem mais rico da história** — símbolo perfeito contra o mito da "África pobre e sem história".
+:::
+
+**4.** Analise o relato do viajante **Ibn Battuta**, que visitou o Mali em 1352–1353, e responda.
+
+> "Entre as belas qualidades desse povo [do Mali]… está a pequena quantidade de injustiça, pois de todos os povos são os que menos a praticam. O sultão não perdoa a ninguém que a cometa. Há, ainda, a segurança geral em seu país: nem o viajante nem o habitante têm o que temer de ladrões ou salteadores." — adaptado de @ibnBattuta2002
+
+(a) Que aspectos da organização do Mali o viajante destaca? (b) O que isso revela sobre o Estado maliano? (c) Que cuidado de **crítica documental** devemos ter ao usar esse relato?
+
+::: {.callout-tip collapse="true" title="Solução"}
+- (a) Ibn Battuta destaca a **justiça** (pouca injustiça, punida pelo sultão) e a **segurança** (viajantes e moradores livres do medo de ladrões).
+- (b) Revela um **Estado organizado e forte**, capaz de **impor a lei e a ordem** em seu território — o que era condição, aliás, para o florescimento do comércio de longa distância (rotas seguras atraíam mercadores). Contradiz frontalmente a imagem de uma África "sem Estado" ou caótica.
+- (c) É preciso lembrar que Ibn Battuta era um **viajante muçulmano estrangeiro**, com seus próprios valores e pontos de vista (elogia mais o que lhe parecia familiar, como a prática do Islã, e critica costumes que estranhava). Seu relato é uma fonte **valiosa**, mas **parcial**: reflete o olhar de um observador externo, num momento e lugar específicos, e deve ser **cruzado** com outras fontes (arqueologia, tradição oral, outras crônicas). Como toda fonte, informa tanto sobre o objeto descrito quanto sobre quem o descreve.
+:::
+
+**5.** Qual foi a importância de **Tombuctu**? Por que ela é um argumento forte contra o estereótipo da "África sem cultura"?
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Tombuctu**, entre os séculos XIV e XVI, foi um dos maiores **centros comerciais e intelectuais** do mundo islâmico. Abrigava a **Universidade de Sankoré** e numerosas escolas, reunindo milhares de estudantes de teologia, direito, astronomia, matemática e medicina; tinha um intenso **comércio de livros** e produziu e guardou **centenas de milhares de manuscritos** em árabe — muitos ainda **hoje existentes** e estudados. É um argumento forte contra o estereótipo da "África sem cultura" porque mostra, com **evidências concretas e sobreviventes**, que houve na África medieval **produção própria de conhecimento**, escolas, bibliotecas e vida intelectual sofisticada — exatamente no período em que a Europa (segundo o mesmo estereótipo, aplicado ao contrário) supostamente "iluminava" o mundo. Tombuctu prova que o preconceito diz respeito ao **olhar** de quem julga, não à realidade africana.
+:::
+
+**6.** (Estilo ENEM) Leia o texto.
+
+> "Durante muito tempo, a história da África foi escrita como se ela começasse com a chegada dos europeus. Reconstruir os impérios de Gana, Mali e Songai exigiu que os historiadores levassem a sério fontes antes desprezadas — a arqueologia, as crônicas árabes e a memória transmitida pelos griôs." — texto elaborado para fins didáticos
+
+O texto associa a reescrita da história africana
+
+**(a)** ao abandono de qualquer critério de rigor na pesquisa histórica.
+**(b)** à ampliação da noção de fonte histórica, incluindo a tradição oral.
+**(c)** à comprovação de que a África não possuía Estados organizados.
+**(d)** à superioridade das fontes europeias sobre as africanas.
+**(e)** à ideia de que só a escrita permite conhecer o passado.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (b).** O texto afirma que reconstruir os impérios africanos exigiu "levar a sério fontes antes desprezadas — a arqueologia, as crônicas árabes e a memória transmitida pelos griôs" — isto é, **ampliar a noção de fonte histórica**, incluindo a **tradição oral**.
+
+Por que as demais estão erradas: (a) inverte o sentido — usar novas fontes com crítica é **mais** rigor, não menos; (c) contraria o texto, que **reconstrói** impérios (portanto Estados) africanos; (d) e (e) reproduzem justamente o preconceito (superioridade das fontes europeias; identificação de história com escrita) que o texto está **criticando**.
+:::
+
+**7.** (Estilo vestibular — dissertativa) Explique a relação entre o estudo dos impérios africanos medievais e a **Lei 10.639/2003**. Por que se pode dizer que reconhecer essa história é uma questão de **rigor**, e não apenas de "correção política"?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Resposta esperada (síntese): a **Lei 10.639/2003** tornou **obrigatório**, nas escolas brasileiras, o ensino de **história e cultura afro-brasileira e africana**. Sua relação com o estudo de Gana, Mali e Songai é direta: milhões de africanos trazidos à força para o Brasil pelo **tráfico atlântico** provinham de regiões da África Ocidental e eram **portadores de tradições milenares** — técnicas agrícolas e metalúrgicas, formas de organização, religiosidades, línguas, música, culinária —, e não "povos sem história". Reconhecer esse passado é uma questão de **rigor histórico** (e não mera "correção política") porque **contar a formação do Brasil ignorando os povos africanos e sua história é, simplesmente, contá-la mal**: seria uma explicação **factualmente incompleta e distorcida** de uma sociedade construída, em grande parte, pelo trabalho e pela cultura de origem africana. Assim, como você viu já no Volume 1, incluir sujeitos historicamente silenciados **melhora a precisão** da explicação histórica. Uma boa resposta deve articular: origem africana de parte da população brasileira + grandeza das civilizações de origem + rigor histórico (explicação mais completa) + combate ao preconceito.
+:::
+
+**8.** Por que se afirma que os impérios do Sudão Ocidental eram ricos por **controlar** o comércio, mais do que por **produzir** ouro? Que consequência isso teve para sua organização política?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Embora houvesse ouro em suas terras, a riqueza principal desses impérios vinha de **controlar e taxar** o **comércio transaariano** que atravessava seu território — cobrando **impostos** sobre a entrada e a saída de mercadorias (ouro, sal, cobre, tecidos, escravizados). Quem dominava as **rotas e os mercados** acumulava ouro e poder, independentemente de extrair o metal diretamente. **Consequência política:** isso estimulou a formação de **Estados fortes e centralizados**, com **exércitos** capazes de garantir a **segurança das rotas** (rotas seguras atraíam mais mercadores e mais impostos) e de **conquistar** os pontos estratégicos do comércio. A grandeza militar e administrativa de Mali e Songai está diretamente ligada a essa lógica: controlar o fluxo comercial era a base do poder — daí também que a perda desse controle (e o choque com as **armas de fogo** marroquinas em 1591) tenha sido tão desestabilizadora.
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- KI-ZERBO, Joseph. *História da África Negra* [@kiZerbo2009]. Panorama pioneiro e influente, escrito por um dos maiores historiadores africanos — fundamental para superar o eurocentrismo.
+- COSTA E SILVA, Alberto da. *A enxada e a lança: a África antes dos portugueses* [@costaESilva2006]. Vasta e envolvente reconstrução das sociedades africanas às vésperas do contato com a Europa, por um mestre brasileiro do tema.
+- UNESCO. *História Geral da África* [@unescoIV2010]. Obra coletiva monumental (vários volumes, disponíveis gratuitamente on-line), referência maior para a história do continente a partir de fontes africanas.
+- DIOP, Cheikh Anta. *The African Origin of Civilization* [@diop1974]. Clássico combativo que reivindicou o protagonismo africano — leitura instigante, a ser discutida criticamente.
+- IBN BATTUTA. *Viagens* [@ibnBattuta2002]. Fonte primária: o relato do grande viajante que visitou o Mali no século XIV — ótimo para exercitar a crítica documental.
+
+**Filmes e documentários**
+
+- Série documental *África: uma história* (BBC, apresentada por Zeinab Badawi). Panorama recente e cuidadoso da história africana contada a partir do continente.
+- *Sundiata Keita: o despertar do leão* e adaptações da **epopeia de Sundiata** — para conhecer a tradição oral fundadora do Mali.
+- Documentários sobre os **manuscritos de Tombuctu** (vários, ligados aos esforços de preservação): mostram o acervo real que desmente o mito da "África sem escrita".
