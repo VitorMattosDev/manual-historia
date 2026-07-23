@@ -1,5 +1,171 @@
 # Índia e China antigas {#sec-india-china}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Quando você faz uma pausa para respirar fundo numa aula de ioga, recita um mantra ou ouve falar em "carma", está em contato com heranças de uma civilização que floresceu às margens de um rio a milhares de quilômetros de Roma e da Grécia. Quando come com **hashi**, admira a **Muralha da China** numa foto ou repete que "quem tem um amigo tem tudo", ecoa a sabedoria de **Confúcio**. Longe demais dos gregos e romanos para caber nos velhos manuais eurocêntricos, a **Índia** e a **China** antigas construíram, cada uma a seu modo, civilizações tão complexas, populosas e duradouras quanto as do Oriente Próximo — e legaram ao mundo religiões, filosofias, invenções e formas de organizar a sociedade que atravessaram milênios. Este capítulo desloca o olhar para o **Oriente asiático** e mostra que a "Antiguidade" foi muito maior do que o Mediterrâneo.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- caracterizar a **civilização do Vale do Indo** e a chegada dos povos indo-europeus (arianos) à Índia;
+- explicar o **sistema de castas** e as religiões indianas — **hinduísmo** e **budismo**;
+- descrever as grandes **dinastias chinesas** antigas e o conceito de **Mandato do Céu**;
+- comparar as três grandes correntes de pensamento chinês — **confucionismo**, **taoísmo** e **legalismo**;
+- discutir o debate historiográfico sobre a **origem do sistema de castas** e sobre a chamada "invasão ariana".
 :::
+
+## A Índia antiga: do Indo às castas {#sec-india}
+
+Por volta de **2600 a.C.**, no vale do rio **Indo** (hoje entre o Paquistão e o noroeste da Índia), floresceu uma das mais antigas civilizações urbanas do mundo, contemporânea da Suméria e do Egito: a **civilização Harappa**, também chamada **do Vale do Indo**. Suas cidades — **Harappa** e **Mohenjo-Daro** — surpreendem pelo **planejamento**: ruas em traçado quadriculado, casas de tijolo padronizado, sistemas de **esgoto e banho** avançadíssimos para a época, celeiros públicos. Comerciavam à distância e usavam uma escrita que **até hoje não foi decifrada** — o que limita muito o que sabemos sobre sua política e religião. Por volta de **1900 a.C.**, essa civilização entrou em declínio, por razões ainda debatidas (mudanças no curso dos rios, secas, alterações climáticas).
+
+Séculos depois, chegaram ao norte da Índia povos **indo-europeus** que se autodenominavam **arianos** ("nobres"), trazendo o cavalo, o ferro e um conjunto de hinos sagrados, os **Vedas** — daí o nome **período védico**. Da fusão entre esses recém-chegados e as populações locais foram se formando os traços mais duradouros da sociedade indiana: a língua **sânscrita**, o **hinduísmo** e o **sistema de castas**.
+
+::: {.callout-note title="Conceito-chave: sistema de castas"}
+O **sistema de castas** é uma forma de organização social **hereditária e hierárquica**: a pessoa nasce, vive e morre no grupo (casta) de seus pais, com ocupações, deveres e regras de convívio definidos. Na base religiosa hindu, havia quatro grandes **varnas**: os **brâmanes** (sacerdotes), os **xátrias** (guerreiros e governantes), os **vaixás** (comerciantes e agricultores) e os **sudras** (servos e trabalhadores). Abaixo de todos, os **"intocáveis"** (dálits), excluídos do sistema e destinados às tarefas consideradas impuras. A mobilidade entre castas era, em princípio, **impossível** — o que fazia da posição social um destino de nascimento.
+:::
+
+O sistema de castas apoiava-se na religião **hinduísta**, politeísta e riquíssima, com deuses como **Brahma** (criador), **Vishnu** (preservador) e **Shiva** (destruidor e transformador). Dois conceitos são centrais: o **carma** (a soma das ações de cada um, que determina o destino) e a **reencarnação** (o ciclo de renascimentos, o *samsara*), do qual se busca a libertação (*moksha*). Cumprir o **dharma** — o dever próprio de sua casta — era o caminho para renascer em condição melhor.
+
+Foi como **crítica** a esse sistema, no século VI a.C., que nasceu o **budismo**. **Sidarta Gautama** (c. 563–483 a.C.), o **Buda** ("o desperto"), um príncipe que abandonou o palácio ao descobrir o sofrimento humano, ensinou que a origem da dor está no **desejo** e que é possível alcançar a paz (o **nirvana**) por um caminho de equilíbrio, ética e meditação — **sem depender de castas nem de sacerdotes**. Por pregar uma via aberta a todos, o budismo teve enorme apelo e se espalhou pela Ásia. No plano político, a Índia antiga chegou a se unificar sob o **Império Máuria**, cujo maior soberano, **Ashoka** (c. 268–232 a.C.), converteu-se ao budismo após uma guerra sangrenta e passou a promover a não violência e a tolerância.
+
+## A China antiga: dinastias e o Mandato do Céu {#sec-china}
+
+Do outro lado do continente, ao longo dos rios **Amarelo** (Huang He) e **Azul** (Yangtzé), formou-se uma civilização de continuidade impressionante, organizada em **dinastias** — famílias que se sucediam no poder (@fig-linha-tempo-china). A tradição fala de uma primeira dinastia **Xia**; a primeira comprovada por documentos é a **Shang** (c. 1600–1046 a.C.), já com escrita, bronze e cidades. Seguiu-se a longa dinastia **Zhou** (1046–256 a.C.), sob a qual amadureceu uma ideia política decisiva: o **Mandato do Céu**.
+
+::: {.callout-note title="Conceito-chave: Mandato do Céu"}
+O **Mandato do Céu** (*Tianming*) era a crença de que o imperador governava por autorização do **Céu**, enquanto fosse **justo e capaz**. Se um governante se tornasse tirânico ou incompetente — sinalizado por desastres, fomes e revoltas —, ele **perdia o mandato**, e o Céu o transferia a outra dinastia. Diferentemente do faraó egípcio (um deus em si), o imperador chinês era um **mediador** entre o Céu e os homens, sujeito a ser destituído. O Mandato do Céu justificava tanto a obediência quanto, paradoxalmente, a **rebelião** contra o mau governante — e serviu para legitimar cada troca de dinastia.
+:::
+
+::: {#fig-linha-tempo-china}
+
+```{.tikz}
+%%| filename: fig-linha-tempo-china
+%%| alt: Linha do tempo das dinastias chinesas antigas, da dinastia Shang à unificação Qin e à dinastia Han.
+\begin{tikzpicture}[>=stealth]
+  \draw[eixo] (0,0) -- (13.2,0);
+  \node[eixo, gray] at (13.2,-0.5) {\scriptsize tempo (fora de escala)};
+
+  \node[ponto] at (1.0,0) {};
+  \node[below] at (1.0,-0.15) {\scriptsize c. 1600 a.C.};
+  \node[above, align=center, text=manualgreen] at (1.2,0.2) {\scriptsize dinastia Shang\\\scriptsize (bronze, escrita)};
+
+  \node[ponto] at (4.6,0) {};
+  \node[below] at (4.6,-0.15) {\scriptsize 1046 a.C.};
+  \node[above, align=center, text=manualblue] at (4.6,0.2) {\scriptsize dinastia Zhou\\\scriptsize (Mandato do Céu)};
+
+  \node[ponto] at (8.6,0) {};
+  \node[below] at (8.6,-0.15) {\scriptsize 221 a.C.};
+  \node[above, align=center, text=manualred] at (8.6,0.2) {\scriptsize unificação Qin\\\scriptsize (Shi Huang Di)};
+
+  \node[ponto] at (11.4,0) {};
+  \node[below] at (11.4,-0.15) {\scriptsize 206 a.C.--220 d.C.};
+  \node[above, align=center, text=manualgreen] at (11.4,0.2) {\scriptsize dinastia Han\\\scriptsize (Rota da Seda)};
+\end{tikzpicture}
+```
+
+Linha do tempo das dinastias chinesas antigas. Note a **continuidade** milenar: apesar das trocas de dinastia, a civilização e a escrita chinesas persistiram.
+:::
+
+Os séculos finais da dinastia Zhou foram de guerras entre reinos rivais — mas também de extraordinária efervescência intelectual, a era das "cem escolas de pensamento". Três correntes marcaram para sempre a China (veja o contraste na @tbl-escolas-china). Em **221 a.C.**, após séculos de divisão, o rei do estado de **Qin** venceu os rivais e se proclamou **Shi Huang Di**, o **primeiro imperador** de uma China unificada. Governou pelo **legalismo**: padronizou a escrita, as moedas, os pesos e as medidas, construiu estradas e ligou muralhas anteriores no que viria a ser a **Grande Muralha**; mas foi implacável, queimando livros e enterrando opositores (dele é o famoso **exército de terracota**). Sua dinastia caiu logo, dando lugar à **Han** (206 a.C.–220 d.C.), a era clássica que adotou o **confucionismo** como filosofia oficial do Estado e abriu a **Rota da Seda**, ligando a China ao Ocidente pelo comércio.
+
+| Escola | Fundador/ideia central | Como governar |
+|--------|------------------------|---------------|
+| **Confucionismo** | Confúcio (551–479 a.C.): ordem, hierarquia, respeito, ética | Pelo **exemplo moral** e pela educação dos governantes |
+| **Taoísmo** | Lao-Tsé: harmonia com o *Tao* (a via natural), simplicidade | Pelo **não agir** forçado (*wu wei*); governo mínimo |
+| **Legalismo** | Han Fei: os homens são movidos por medo e interesse | Por **leis rígidas** e punições severas; Estado forte |
+
+: As três grandes escolas do pensamento chinês antigo. {#tbl-escolas-china}
+
+A China antiga legou ao mundo invenções decisivas — o **papel**, a **bússola**, a **seda**, a **porcelana** e, mais tarde, a **pólvora** e a **impressão** — muitas delas séculos antes de a Europa as conhecer.
+
+## 🔎 Historiografia em Foco {#sec-historiografia-india-china}
+
+De onde veio o **sistema de castas** — e quem eram os "arianos"? Poucos temas da história antiga foram tão distorcidos por interesses do presente. O debate mostra como uma questão sobre o passado remoto pode ser sequestrada pela **ideologia**.
+
+**A antiga "teoria da invasão ariana".** No século XIX, estudiosos europeus, ao perceberem o parentesco entre o sânscrito e as línguas europeias (o tronco **indo-europeu**), formularam a tese de uma **invasão ariana**: por volta de 1500 a.C., um povo "ariano" guerreiro teria **invadido** a Índia, subjugado as populações locais (mais escuras) e imposto as castas como forma de manter a separação entre vencedores e vencidos. O problema é o que se fez dessa tese na Europa: o termo "ariano" foi apropriado pelo **racismo científico** e pelo **nazismo** como suposta "raça superior" — uma deturpação sem nenhuma base nas fontes indianas, que usavam *arya* em sentido cultural e religioso, não racial.
+
+**As revisões recentes.** A historiografia e a arqueologia atuais **abandonaram a ideia de uma invasão** militar súbita. Fala-se hoje, com mais cautela, em **migrações graduais** de povos indo-europeus ao longo de séculos, que se **misturaram** às populações do subcontinente, num processo de fusão cultural — e não de conquista relâmpago. Estudos de genética populacional e de arqueologia sustentam essa imagem mais complexa. Quanto às castas, a maioria dos especialistas vê o sistema como uma construção **histórica e gradual**, ligada à religião védica e enrijecida ao longo do tempo — e não como resultado imediato de uma "invasão". Alguns historiadores acrescentam que o próprio rigor do sistema, tal como o Ocidente o descreveu, foi em parte **reforçado e catalogado pela administração colonial britânica**, no século XIX, ao fixar categorias que antes eram mais fluidas.
+
+**Por que o debate importa?** Porque ele é um caso-limite dos perigos do **anacronismo** e da **instrumentalização política** da história. Projetar categorias raciais modernas (a "raça ariana") sobre povos antigos que não pensavam em termos de raça produziu uma das maiores catástrofes do século XX. E tratar as castas como algo "eterno" e "essencialmente indiano" apaga sua **historicidade** — o fato de que se formaram, mudaram e foram até reconfiguradas por interesses coloniais. Fica a lição, coerente com todo este volume: desconfie das explicações que transformam **processos históricos** em **essências imutáveis** de um povo, e atente sempre para *quem* descreve uma sociedade e *com que interesse*.
+
+## Resumo do capítulo {#sec-resumo-india-china}
+
+- No **Vale do Indo** floresceu, por volta de 2600 a.C., a civilização **Harappa** (Harappa, Mohenjo-Daro), com cidades planejadas, esgotos e uma **escrita não decifrada**; entrou em declínio por volta de 1900 a.C.
+- Da chegada dos povos **indo-europeus (arianos)** e do período **védico** formaram-se o **sânscrito**, o **hinduísmo** e o **sistema de castas** (varnas: brâmanes, xátrias, vaixás, sudras; abaixo, os "intocáveis").
+- O **hinduísmo** ensina o **carma**, a **reencarnação** e o **dharma**; como crítica às castas nasceu o **budismo** de **Sidarta Gautama** (o Buda), aberto a todos. A Índia unificou-se sob o **Império Máuria** (Ashoka).
+- A **China** organizou-se em **dinastias** (Shang, Zhou, Qin, Han) sob o **Mandato do Céu** — o imperador governava enquanto fosse justo, podendo perdê-lo. **Shi Huang Di** (Qin, 221 a.C.) unificou o país; a **Han** adotou o confucionismo e abriu a **Rota da Seda**.
+- Três escolas marcaram o pensamento chinês: **confucionismo** (ordem e ética), **taoísmo** (harmonia com o *Tao*) e **legalismo** (leis rígidas). A China inventou papel, bússola, seda, porcelana e pólvora.
+- Historiograficamente, a antiga "**invasão ariana**" (deturpada pelo racismo) foi substituída pela ideia de **migrações graduais** e fusão cultural; as **castas** são vistas como construção **histórica** — em parte enrijecida pelo **colonialismo britânico** —, não como essência eterna.
+
+## Exercícios {#sec-exercicios-india-china}
+
+**1.** O que torna a civilização do **Vale do Indo** notável, e por que sabemos relativamente pouco sobre sua organização política e religiosa?
+
+::: {.callout-tip collapse="true" title="Solução"}
+A civilização **Harappa** (Vale do Indo) é notável pelo **planejamento urbano**: cidades com ruas em traçado quadriculado, casas de tijolo padronizado, sistemas avançados de **esgoto e banho** e celeiros públicos, além de comércio a distância. Sabemos pouco sobre sua política e religião porque sua **escrita ainda não foi decifrada** — sem poder ler seus textos, os historiadores dependem apenas da cultura material, o que limita as conclusões.
+:::
+
+**2.** Explique o **sistema de castas**, citando as quatro varnas, e mostre como ele se ligava à religião hindu.
+
+::: {.callout-tip collapse="true" title="Solução"}
+O sistema de castas é uma organização social **hereditária e hierárquica**: a pessoa pertence, por nascimento, ao grupo de seus pais, sem mobilidade. As quatro **varnas** são: **brâmanes** (sacerdotes), **xátrias** (guerreiros/governantes), **vaixás** (comerciantes/agricultores) e **sudras** (servos); abaixo estão os **"intocáveis"**. Ligava-se ao **hinduísmo** pelos conceitos de **carma** (as ações determinam o destino), **reencarnação** (ciclo de renascimentos) e **dharma** (o dever da própria casta): cumprir o dharma permitiria renascer em condição melhor, tornando a hierarquia uma questão religiosa, e não só social.
+:::
+
+**3.** Por que o **budismo** representou uma crítica ao sistema de castas?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque o **budismo**, pregado por **Sidarta Gautama** (o Buda) no século VI a.C., ensinava que a libertação do sofrimento (o **nirvana**) dependia de um caminho de ética, equilíbrio e meditação — **acessível a qualquer pessoa**, independentemente de casta, e **sem a mediação obrigatória dos brâmanes** (sacerdotes). Ao abrir a salvação a todos e questionar a autoridade sacerdotal, o budismo contestava a base religiosa que sustentava a hierarquia das castas.
+:::
+
+**4.** Explique o conceito de **Mandato do Céu** e a diferença em relação à divinização do faraó egípcio.
+
+::: {.callout-tip collapse="true" title="Solução"}
+O **Mandato do Céu** era a crença de que o imperador chinês governava por **autorização do Céu**, desde que fosse **justo e competente**; se se tornasse tirânico (o que se manifestaria em desastres e revoltas), **perderia** o mandato, transferido a outra dinastia. Diferença: o **faraó** egípcio era considerado ele mesmo um **deus**, ao passo que o imperador chinês era um **mediador** entre o Céu e os homens, **sujeito a ser destituído**. Por isso o Mandato do Céu justificava tanto a obediência quanto a **rebelião** contra o mau governante.
+:::
+
+**5.** Compare **confucionismo**, **taoísmo** e **legalismo** quanto à forma ideal de governar.
+
+::: {.callout-tip collapse="true" title="Solução"}
+- **Confucionismo** (Confúcio): governar pelo **exemplo moral**, pela educação e pelo respeito às hierarquias e aos ritos — o bom governante inspira ordem pela virtude.
+- **Taoísmo** (Lao-Tsé): governar o **mínimo possível**, em harmonia com o *Tao* (a via natural), pelo "não agir" forçado (*wu wei*) e pela simplicidade.
+- **Legalismo** (Han Fei): governar por **leis rígidas e punições severas**, pois os homens seriam movidos por medo e interesse; defende um Estado forte e centralizado. Foi a doutrina de Shi Huang Di na unificação Qin.
+:::
+
+**6.** (Estilo ENEM) Leia o texto.
+
+> No século XIX, estudiosos europeus formularam a ideia de uma "invasão ariana" da Índia por um povo guerreiro. O termo "ariano" foi então apropriado por teorias racistas como suposta designação de uma raça superior. A arqueologia e a genética mais recentes, porém, apontam para migrações graduais e para a mistura entre populações, e não para uma invasão súbita.
+
+O texto permite concluir que
+
+**(a)** as fontes indianas antigas usavam "ariano" como categoria racial, no sentido do século XX.
+**(b)** interpretações do passado podem ser distorcidas por ideologias do presente e revistas por novas evidências.
+**(c)** a genética confirmou integralmente a teoria da invasão ariana.
+**(d)** não houve qualquer contato entre povos indo-europeus e as populações da Índia.
+**(e)** o sistema de castas surgiu instantaneamente, por decisão de um único rei.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (b).** O texto mostra como a ideia de "invasão ariana" foi **distorcida** pelo racismo do século XIX–XX e depois **revista** por novas evidências (arqueologia e genética apontando migrações graduais e mistura). Isso ilustra que o conhecimento histórico é sensível às ideologias do presente e se corrige com novas provas. Erros: (a) as fontes indianas usavam *arya* em sentido **cultural/religioso**, não racial; (c) a genética **contesta** a invasão súbita; (d) houve, sim, **contato e mistura**; (e) as castas se formaram **gradualmente**, ao longo do tempo.
+:::
+
+**7.** (Estilo vestibular — dissertativa) Explique como a "teoria da invasão ariana" foi formulada no século XIX e por que a historiografia atual a revisou. Relacione o caso aos perigos do **anacronismo**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Resposta esperada. No século XIX, ao descobrir o parentesco entre o **sânscrito** e as línguas europeias (o tronco **indo-europeu**), estudiosos europeus imaginaram uma **invasão ariana**: um povo guerreiro teria conquistado a Índia por volta de 1500 a.C., imposto as castas e separado vencedores de vencidos. O termo "ariano" foi então **apropriado pelo racismo** e pelo nazismo como "raça superior". A historiografia atual **revisou** essa tese: fala em **migrações graduais** e **fusão cultural** (apoiada em arqueologia e genética), não em invasão súbita, e vê as castas como construção **histórica**, em parte enrijecida pela administração **colonial britânica**. O caso ilustra o **anacronismo** porque projetou sobre povos antigos — que usavam *arya* em sentido cultural — as **categorias raciais modernas**, com consequências trágicas no século XX. A lição é desconfiar de leituras que transformam processos históricos em **essências imutáveis** e que instrumentalizam o passado politicamente.
+:::
+
+**8.** A China antiga passou por várias trocas de dinastia, mas manteve forte **continuidade** civilizacional. Como o Mandato do Céu ajuda a entender essa combinação de rupturas e permanências?
+
+::: {.callout-tip collapse="true" title="Solução"}
+O **Mandato do Céu** explicava e legitimava a **queda de uma dinastia e a ascensão de outra** (a **ruptura** política): quando um governante se tornava injusto, perdia o mandato, que passava a quem restaurasse a boa ordem. Mas o próprio conceito — junto com a escrita, o confucionismo, a burocracia e os ritos — era uma **permanência** que atravessava as dinastias. Assim, as famílias no poder mudavam, mas o **arcabouço cultural e institucional** que dava sentido ao poder persistia, garantindo a impressionante continuidade da civilização chinesa. É um bom exemplo de como uma boa análise segura, ao mesmo tempo, a mudança e a continuidade.
+:::
+
+## Para saber mais {#sec-para-saber-mais-india-china}
+
+**Livros**
+
+- COTTERELL, Arthur. *A civilização chinesa clássica* (e sínteses equivalentes de história da Ásia). Introdução às dinastias, ao pensamento e às invenções chinesas.
+- PINSKY, Jaime. *As primeiras civilizações* [@pinsky2017]. Traz capítulos sobre Índia e China no conjunto das civilizações antigas.
+- Textos de **história global** (como os de Yuval Harari e outros) ajudam a situar Índia e China no mesmo plano das civilizações do Mediterrâneo, combatendo o eurocentrismo dos manuais tradicionais.
+
+**Filmes e documentários**
+
+- Documentários sobre o **exército de terracota** de Shi Huang Di e a construção da **Grande Muralha**.
+- Materiais sobre **Mohenjo-Daro** e as cidades do Vale do Indo, e sobre a difusão do **budismo** pela Ásia (do sul da Índia ao Japão).
