@@ -1,5 +1,289 @@
 # A formação do feudalismo {#sec-formacao-do-feudalismo}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Imagine um viajante que atravessasse a Europa ocidental por volta do ano 500 e outro que fizesse o mesmo trajeto por volta do ano 1000. O primeiro ainda encontraria estradas romanas em uso, cidades com mercados, moedas de ouro circulando, um imperador (em Constantinopla) reconhecido de longe. O segundo veria outra paisagem: cidades encolhidas, estradas tomadas pelo mato, quase nenhuma moeda, castelos de pedra recortando o horizonte e, sobretudo, um mundo sem Estado central — o poder havia se pulverizado nas mãos de milhares de senhores locais, cada um mandando em seu pedaço de terra. Entre esses dois viajantes está o processo que este capítulo investiga: a lenta e complexa **formação do feudalismo**, a ordem social que estruturou a Europa medieval por cerca de mil anos. Não houve um decreto, nem uma data de nascimento. O feudalismo foi o **resultado** de séculos de transformações — o encontro do que restou de Roma, das tradições dos povos germânicos e da força crescente da Igreja cristã.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- explicar o **caráter de síntese** do feudalismo, resultado da fusão de heranças **romanas**, **germânicas** e **cristãs**;
+- descrever os **reinos germânicos** e o papel do **Império Carolíngio** na formação da Europa medieval;
+- compreender as instituições centrais — **suserania e vassalagem**, **feudo** e **benefício** — e a relação entre elas;
+- caracterizar a **ruralização** da economia e o surgimento do **domínio senhorial**;
+- discutir os debates historiográficos sobre a periodização e a própria noção de "feudalismo" e de "Idade Média".
 :::
+
+## Da Antiguidade Tardia aos reinos germânicos {#sec-reinos-germanicos}
+
+Você viu no volume anterior (@sec-crise-de-roma-cristianismo) que a "queda" de Roma no Ocidente, em **476**, foi menos um desabamento súbito do que o desfecho de uma longa crise. Ao longo dos séculos IV e V, diversos povos que os romanos chamavam genericamente de **"bárbaros"** — francos, visigodos, ostrogodos, vândalos, burgúndios, anglos, saxões, lombardos — instalaram-se dentro das fronteiras do império. Alguns entraram como invasores; muitos, porém, foram admitidos como **aliados** (*foederati*), recrutados para defender as próprias fronteiras romanas que antes ameaçavam.
+
+::: {.callout-important title="Cuidado com a palavra 'bárbaro'"}
+Para os gregos e romanos, **bárbaro** designava simplesmente quem não falava sua língua nem partilhava sua cultura — não significava, originalmente, "selvagem" ou "atrasado". Chamar os germânicos de bárbaros e imaginá-los como hordas primitivas destruindo a civilização é um **anacronismo** herdado de uma visão preconceituosa. Muitos desses povos já mantinham contato havia séculos com Roma, adotavam seu direito, sua moeda e, frequentemente, sua religião. A palavra revela mais sobre quem a usava — a fronteira entre "nós" e "os outros" — do que sobre os povos descritos.
+:::
+
+Com o desaparecimento do poder imperial no Ocidente, formaram-se em seu lugar diversos **reinos germânicos** (@fig-reinos-germanicos): os **visigodos** na Península Ibérica, os **ostrogodos** e depois os **lombardos** na Itália, os **vândalos** no norte da África, os **anglos e saxões** na Britânia e, o mais duradouro de todos, o reino dos **francos** na Gália (a futura França). Esses reinos não eram cópias de Roma nem sua pura negação: neles convivia uma **fusão** de elementos. Do lado romano, permaneciam o **latim**, o direito escrito, a organização da Igreja e o ideal do próprio império; do lado germânico, vinham novas concepções de poder — mais pessoais, apoiadas na fidelidade guerreira — e novos costumes jurídicos.
+
+::: {#fig-reinos-germanicos}
+
+```{.tikz}
+%%| filename: fig-reinos-germanicos
+%%| alt: Mapa esquemático dos principais reinos germânicos formados sobre o antigo Império Romano do Ocidente por volta do ano 500.
+\begin{tikzpicture}
+  % moldura esquemática do Mediterrâneo ocidental
+  \draw[eixo, gray] (0,0) rectangle (11,6);
+  \node[gray] at (5.5,6.35) {\scriptsize Europa e Mediterrâneo ocidental — c. 500 (esquemático)};
+
+  % faixa do mar
+  \fill[manualblue!12] (0,0) rectangle (11,1.4);
+  \node[manualblue] at (5.5,0.7) {\scriptsize Mar Mediterrâneo};
+
+  \node[draw, fill=manualgreen!18, rounded corners, align=center, font=\scriptsize] at (2.1,4.6) {Francos\\(Gália)};
+  \node[draw, fill=manualyellow!25, rounded corners, align=center, font=\scriptsize] at (1.8,2.4) {Visigodos\\(Hispânia)};
+  \node[draw, fill=manualred!18, rounded corners, align=center, font=\scriptsize] at (5.2,3.0) {Ostrogodos\\/ Lombardos\\(Itália)};
+  \node[draw, fill=manualgray!25, rounded corners, align=center, font=\scriptsize] at (8.6,4.8) {Anglos e\\saxões};
+  \node[draw, fill=manualblue!18, rounded corners, align=center, font=\scriptsize] at (8.8,1.9) {Vândalos\\(N. da África)};
+  \node[draw, fill=white, rounded corners, align=center, font=\scriptsize] at (9.7,3.3) {Império\\Bizantino\\(a leste)};
+\end{tikzpicture}
+```
+
+Os principais reinos germânicos formados sobre o antigo Império Romano do Ocidente. O mapa é **esquemático**: as posições indicam regiões, não fronteiras precisas.
+:::
+
+## Os francos e o Império Carolíngio {#sec-carolingios}
+
+Entre todos os reinos germânicos, o dos **francos** foi o que teve papel decisivo na formação da Europa medieval. Sob a dinastia **merovíngia**, seu rei **Clóvis** (r. 481–511) realizou um gesto de enorme consequência: por volta de 496, converteu-se ao **cristianismo católico** — e não ao arianismo, versão do cristianismo adotada por outros povos germânicos e considerada herética por Roma. Essa escolha fez dos francos os **aliados privilegiados da Igreja** e da autoridade papal, uma parceria que moldaria os séculos seguintes.
+
+Com o tempo, os reis merovíngios se enfraqueceram (ficaram conhecidos como "reis indolentes"), e o poder real passou às mãos dos **mordomos do palácio**. Um deles, **Carlos Martel**, comandou os francos na **Batalha de Poitiers (732)**, contendo o avanço muçulmano vindo da Península Ibérica — episódio que a tradição consagrou como a defesa da Europa cristã (embora os historiadores hoje relativizem seu alcance). Seu filho, **Pepino, o Breve**, depôs o último merovíngio e, com a bênção do papa, fundou a dinastia **carolíngia** (751). A troca foi vantajosa para os dois lados: o rei ganhava legitimidade sagrada; o papa, um protetor armado.
+
+O auge veio com **Carlos Magno** (r. 768–814), que expandiu o reino franco até formar um vasto império abrangendo boa parte da Europa ocidental. No Natal do ano **800**, o papa Leão III coroou-o **imperador** em Roma — um gesto simbólico poderosíssimo: pela primeira vez desde 476, havia de novo um "imperador romano" no Ocidente, agora **cristão** e **germânico**. Nascia a ideia, que atravessaria toda a Idade Média, de uma **Cristandade** unificada sob o duplo comando do imperador e do papa.
+
+::: {.callout-note title="Conceito-chave: Renascimento Carolíngio"}
+Chama-se **Renascimento Carolíngio** o esforço de Carlos Magno para reavivar a cultura letrada. Ele reuniu sábios na corte de **Aachen** (como o monge Alcuíno), fundou escolas ligadas a mosteiros e catedrais e promoveu a cópia de manuscritos antigos. Foi então que se criou a **minúscula carolíngia**, uma escrita clara que está na origem das letras minúsculas que usamos até hoje. Graças a esse trabalho de cópia nos **scriptoria** dos mosteiros, boa parte da literatura clássica greco-romana chegou até nós. A Igreja, e sobretudo o **monasticismo** (a vida em mosteiros, organizada pela regra de São Bento — *ora et labora*, "reza e trabalha"), foi a grande guardiã do saber num mundo que se ruralizava.
+:::
+
+O império de Carlos Magno, porém, não sobreviveu à sua morte. Pelo **Tratado de Verdun (843)**, seus netos dividiram o território em três partes — esboço remoto da futura França, Alemanha e de uma faixa central disputada. Ao mesmo tempo, novas ondas de invasões — os **vikings** (normandos) vindos do norte, os **magiares** do leste e os **sarracenos** (muçulmanos) do sul — golpearam uma Europa já fragmentada (@fig-timeline-formacao-feudalismo). Incapaz de defender territórios tão vastos, o poder central desmoronou de vez. E é exatamente dessa **fragmentação** — da necessidade de proteção local num mundo sem Estado — que emerge o feudalismo.
+
+::: {#fig-timeline-formacao-feudalismo}
+
+```{.tikz}
+%%| filename: fig-timeline-formacao-feudalismo
+%%| alt: Linha do tempo da formação do feudalismo, de 476 a cerca de 1000, com marcos políticos e invasões.
+\begin{tikzpicture}[>=stealth]
+  \draw[eixo] (0,0) -- (13.4,0);
+  \node[eixo, gray] at (13.4,-0.5) {\scriptsize tempo};
+
+  \node[ponto] at (0.6,0) {};
+  \node[below] at (0.6,-0.15) {\scriptsize 476};
+  \node[above, align=center, text=manualblue] at (0.6,0.2) {\scriptsize Fim de\\\scriptsize Roma (Oc.)};
+
+  \node[ponto] at (2.6,0) {};
+  \node[below] at (2.6,-0.15) {\scriptsize 496};
+  \node[above, align=center, text=manualgreen] at (2.6,0.2) {\scriptsize Conversão\\\scriptsize de Clóvis};
+
+  \node[ponto] at (5.2,0) {};
+  \node[below] at (5.2,-0.15) {\scriptsize 732};
+  \node[above, align=center, text=manualred] at (5.2,0.2) {\scriptsize Poitiers\\\scriptsize (C. Martel)};
+
+  \node[ponto] at (7.6,0) {};
+  \node[below] at (7.6,-0.15) {\scriptsize 800};
+  \node[above, align=center, text=manualblue] at (7.6,0.2) {\scriptsize Coroação de\\\scriptsize Carlos Magno};
+
+  \node[ponto] at (9.6,0) {};
+  \node[below] at (9.6,-0.15) {\scriptsize 843};
+  \node[above, align=center, text=manualblue] at (9.6,0.2) {\scriptsize Tratado de\\\scriptsize Verdun};
+
+  \node[ponto] at (12.2,0) {};
+  \node[below] at (12.2,-0.15) {\scriptsize séc. IX--X};
+  \node[above, align=center, text=manualred] at (12.2,0.2) {\scriptsize Invasões: vikings,\\\scriptsize magiares, sarracenos};
+\end{tikzpicture}
+```
+
+Da queda de Roma às invasões dos séculos IX–X: os marcos que dissolveram o poder central e prepararam a fragmentação feudal.
+:::
+
+## As três heranças: a síntese feudal {#sec-tres-herancas}
+
+A melhor forma de entender o feudalismo é vê-lo como uma **síntese** — a fusão de três tradições que se combinaram ao longo de séculos (@fig-tres-herancas). Cada uma deixou marcas profundas.
+
+Da **herança romana** veio, sobretudo, o **colonato** (@sec-colonato) — o camponês preso à terra, embrião do servo — e o **latifúndio**, a grande propriedade rural (a *villa*) tendendo à autossuficiência. Veio também o próprio ideal de império e a língua latina, que se transformaria nas línguas românicas.
+
+Da **herança germânica** vieram os laços de **fidelidade pessoal** entre um chefe guerreiro e seus companheiros de armas. Entre os germanos existia o **comitatus**, o séquito de guerreiros que jurava lealdade a um líder em troca de proteção e de parte dos despojos. Essa relação pessoal, baseada na palavra empenhada e na honra, está na raiz dos vínculos de **vassalagem**. Veio ainda o **beneficium** — a concessão do uso de uma terra em troca de serviços.
+
+Da **herança cristã** veio o cimento cultural e moral de todo o edifício. A Igreja forneceu a única instituição de alcance universal que sobreviveu à queda de Roma, uma visão de mundo compartilhada, o calendário, a escrita e a legitimação sagrada do poder. Ela mesma tornou-se uma grande proprietária de terras e uma **potência feudal**.
+
+::: {#fig-tres-herancas}
+
+```{.tikz}
+%%| filename: fig-tres-herancas
+%%| alt: Diagrama mostrando as três heranças — romana, germânica e cristã — convergindo para formar o feudalismo.
+\begin{tikzpicture}[>=stealth]
+  \node[draw, fill=manualyellow!22, rounded corners, align=center, font=\scriptsize, text width=3cm, minimum height=1.4cm] (rom) at (0,3) {\textbf{Herança romana}\\colonato, latifúndio,\\latim, ideal de império};
+  \node[draw, fill=manualred!16, rounded corners, align=center, font=\scriptsize, text width=3cm, minimum height=1.4cm] (ger) at (0,1.5) {\textbf{Herança germânica}\\fidelidade pessoal\\(comitatus), benefício};
+  \node[draw, fill=manualblue!16, rounded corners, align=center, font=\scriptsize, text width=3cm, minimum height=1.4cm] (cri) at (0,0) {\textbf{Herança cristã}\\Igreja, cultura,\\legitimação sagrada};
+  \node[draw, very thick, fill=manualgreen!20, rounded corners, align=center, font=\small\bfseries, text width=2.6cm, minimum height=1.8cm] (feu) at (6,1.5) {FEUDALISMO\\\scriptsize\mdseries síntese medieval};
+  \draw[vetor] (rom.east) -- (feu.west);
+  \draw[vetor] (ger.east) -- (feu.west);
+  \draw[vetor] (cri.east) -- (feu.west);
+\end{tikzpicture}
+```
+
+O feudalismo como **síntese**: a fusão das heranças romana, germânica e cristã, decantada ao longo dos séculos V a X.
+:::
+
+## Suserania e vassalagem: os laços do poder {#sec-suserania-vassalagem}
+
+No coração das relações **políticas** do feudalismo estava um vínculo pessoal entre dois homens livres da nobreza: a relação de **suserania e vassalagem**. Diante da ausência de um Estado que garantisse a ordem, um nobre menos poderoso (o **vassalo**) colocava-se sob a proteção de um nobre mais poderoso (o **suserano**), comprometendo-se a servi-lo — sobretudo com serviço militar e conselho. Em troca, o suserano devia ao vassalo **proteção** e **sustento**, geralmente na forma de uma terra.
+
+Esse pacto era selado por uma cerimônia solene e carregada de simbolismo, a **homenagem**: ajoelhado, o vassalo colocava as mãos entre as mãos do suserano e jurava fidelidade (o **juramento de fidelidade**, feito sobre relíquias ou a Bíblia); em seguida, o suserano lhe entregava um objeto simbólico — um punhado de terra, um bastão, uma bandeira — que representava a concessão do **feudo** (a **investidura**). O elo assim criado era de mão dupla: quebrar a fidelidade — de parte a parte — era a **felonia**, a mais grave das faltas.
+
+::: {.callout-note title="Conceitos-chave: feudo e benefício"}
+O **feudo** (do latim *feudum*) era o bem concedido pelo suserano ao vassalo em troca de fidelidade e serviços — na maioria das vezes uma **porção de terra** com seus camponeses, mas podia também ser um cargo, um direito de cobrar impostos ou um rendimento. O feudo é o **benefício** por excelência. Atenção a uma distinção importante: o vassalo recebia o **direito de explorar** o feudo (e transmiti-lo aos herdeiros), mas não a sua **propriedade plena** no sentido romano — em tese, a terra continuava vinculada ao suserano. O feudalismo é, nesse aspecto, um sistema de **propriedade dividida** e de poder disperso.
+:::
+
+Como um mesmo nobre podia ser, ao mesmo tempo, vassalo de alguém mais poderoso e suserano de vários outros abaixo dele, formava-se uma imensa **cadeia de dependências** — uma teia de laços pessoais que ia, em tese, do rei (no topo) até o mais modesto cavaleiro. Na prática, porém, essa hierarquia era frouxa e cheia de conflitos: o rei muitas vezes tinha menos poder real que grandes senhores, e a fidelidade a um suserano podia entrar em choque com a fidelidade a outro. O resultado foi a **fragmentação política** característica da Europa feudal — não um Estado, mas um mosaico de poderes locais.
+
+## O domínio senhorial e a economia rural {#sec-dominio-senhorial}
+
+Se a suserania e a vassalagem organizavam as relações **entre os nobres**, era o **domínio senhorial** (ou *seigneurie*) que organizava a base **econômica** de tudo — a produção e o trabalho. O domínio era a grande propriedade rural onde vivia a imensa maioria da população: os **camponeses**, entre os quais se destacavam os **servos**. Numa economia que se tornara **ruralizada**, com pouquíssimo comércio e quase nenhuma moeda circulando, a terra era a única fonte real de riqueza e de poder.
+
+O domínio dividia-se, tipicamente, em três partes (@fig-dominio-senhorial): o **manso senhorial** (as terras exploradas diretamente em benefício do senhor, cujos frutos eram só dele); o **manso servil** (os lotes entregues às famílias camponesas para seu próprio sustento); e as **terras comunais** — bosques, pastos e águas de uso coletivo, onde os camponeses recolhiam lenha, apascentavam animais e caçavam. Trabalhando os lotes que recebiam, os camponeses deviam ao senhor uma série de **obrigações**: a **corveia** (dias de trabalho gratuito no manso senhorial), a **talha** (parte da colheita do próprio lote) e as **banalidades** (taxas pelo uso obrigatório do moinho, do forno e do lagar do senhor).
+
+::: {#fig-dominio-senhorial}
+
+```{.tikz}
+%%| filename: fig-dominio-senhorial
+%%| alt: Esquema das três partes do domínio senhorial: manso senhorial, manso servil e terras comunais.
+\begin{tikzpicture}
+  \draw[eixo, gray] (0,0) rectangle (12,4.2);
+  \node[gray] at (6,4.5) {\scriptsize O domínio senhorial (esquemático)};
+
+  \node[draw, fill=manualred!15, align=center, font=\scriptsize, text width=3.2cm, minimum height=2cm] at (2,2.1)
+    {\textbf{Manso senhorial}\\terras do senhor\\(trabalhadas via\\\textbf{corveia})};
+  \node[draw, fill=manualgreen!15, align=center, font=\scriptsize, text width=3.2cm, minimum height=2cm] at (6,2.1)
+    {\textbf{Manso servil}\\lotes das famílias\\camponesas\\(pagam a \textbf{talha})};
+  \node[draw, fill=manualblue!14, align=center, font=\scriptsize, text width=3.2cm, minimum height=2cm] at (10,2.1)
+    {\textbf{Terras comunais}\\bosques, pastos e\\águas de uso\\coletivo};
+
+  \node[align=center, font=\scriptsize] at (6,0.6) {O castelo (ou a casa senhorial) e a igreja da paróquia articulavam a vida do domínio.\\As \textbf{banalidades} — moinho, forno, lagar — eram monopólios do senhor.};
+\end{tikzpicture}
+```
+
+As três partes do domínio senhorial e as principais obrigações camponesas. A economia era **agrária, local e autossuficiente**.
+:::
+
+Era uma economia de **subsistência**: produzia-se, antes de tudo, para o consumo local, e não para vender. As técnicas eram rudimentares e a produtividade, baixa — o que ajuda a explicar as frequentes fomes. O domínio tendia a ser **autossuficiente**, fabricando internamente quase tudo de que precisava. Esse mundo rural, fechado e preso à terra, é o avesso da economia urbana e monetária que Roma conhecera — e será o ponto de partida para as transformações que, a partir do século XI, farão renascer as cidades e o comércio, tema dos próximos capítulos.
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+Poucos conceitos foram tão debatidos pelos historiadores quanto o de **feudalismo** — a ponto de alguns proporem abandoná-lo. Vale contrastar duas grandes maneiras de defini-lo, porque a escolha muda o que se enxerga.
+
+**O feudalismo como sistema jurídico-político (a visão "institucional").** Uma tradição mais antiga, ligada à história do direito e das instituições, define o feudalismo de forma **estrita**: seria o conjunto de laços de **vassalagem e feudo** entre os membros da nobreza — a homenagem, o juramento, a concessão do benefício. Nessa leitura, "feudalismo" designa sobretudo as relações **entre senhores**, e propriamente só existiu onde existiram esses vínculos (o coração da Europa carolíngia, entre os séculos IX e XIII).
+
+**O feudalismo como modo de produção e tipo de sociedade (a visão "ampla").** Uma segunda tradição, marcada pela Escola dos Annales e pela historiografia de inspiração marxista, define o feudalismo de forma muito mais **abrangente**. Para **Marc Bloch**, em *A sociedade feudal* [@blochFeudal2009], o essencial não eram só os contratos entre nobres, mas todo um **tipo de sociedade**: a servidão camponesa, a fragmentação do poder, o predomínio dos laços pessoais de dependência, a economia rural. Numa linha próxima, historiadores marxistas como **Perry Anderson** [@anderson1994] enxergam o feudalismo como um **modo de produção** definido pela relação entre o **senhor** e o **servo** — pela extração do excedente camponês por meio da coação extraeconômica. Aqui, o que define o feudalismo é a **base econômica e social**, e não apenas o laço de vassalagem.
+
+**Por que a divergência importa?** Porque muda o mapa e o calendário. Na visão estrita, o feudalismo é um fenômeno **europeu e limitado no tempo**; na visão ampla, sociedades com senhores, servos e poder fragmentado poderiam ser chamadas "feudais" em outras partes do mundo (o Japão dos samurais é o exemplo clássico) — o que gera intensa controvérsia entre os historiadores. Além disso, a periodização muda: alguns falam de um "primeiro feudalismo" (séculos IX–XI) e de um "feudalismo clássico" (séculos XII–XIII). Historiadores como **Jacques Le Goff** propuseram ainda uma **"longa Idade Média"** [@leGoffLonga2008], estendendo suas estruturas até o século XVIII. A lição é a de sempre: um conceito histórico não é uma etiqueta neutra colada na realidade — é uma **ferramenta** que ilumina certos aspectos e obscurece outros, e por isso mesmo é objeto de debate.
+
+::: {.callout-warning title="Controvérsia: a Idade Média foi mesmo uma 'idade das trevas'?"}
+A expressão **"Idade das Trevas"** foi cunhada, com desprezo, por humanistas do Renascimento (séculos XV–XVI), que viam o milênio medieval como um vale obscuro entre o esplendor da Antiguidade e o "renascimento" das luzes clássicas — uma leitura carregada de preconceito e de interesse em desqualificar o período anterior. A historiografia atual rejeita essa caricatura. Como mostraram Le Goff [@leGoffOcidente2005] e Régine Pernoud [@pernoud1979], a Idade Média foi um tempo de intensa criatividade: inventou a universidade, a catedral gótica, os relógios mecânicos, novas técnicas agrícolas (arado de ferro, moinhos), a polifonia musical. Chamá-la de "trevas" é menos uma descrição do passado do que um sintoma de como cada época constrói sua própria imagem projetando-a contra a anterior.
+:::
+
+## Resumo do capítulo {#sec-resumo}
+
+- O **feudalismo** não foi criado por decreto: formou-se lentamente (séculos V–X) como uma **síntese** de três heranças — **romana** (colonato, latifúndio, latim), **germânica** (fidelidade pessoal, comitatus, benefício) e **cristã** (a Igreja como cimento cultural e potência de terras).
+- Da queda de Roma (476) surgiram os **reinos germânicos**. Entre os francos, a conversão de **Clóvis** (c. 496) ao catolicismo selou a aliança com a Igreja.
+- A dinastia **carolíngia** culminou em **Carlos Magno**, coroado imperador em **800**, restaurando simbolicamente o Império no Ocidente e promovendo o **Renascimento Carolíngio** (cultura letrada nos mosteiros).
+- A morte de Carlos Magno, o **Tratado de Verdun (843)** e as novas **invasões** (vikings, magiares, sarracenos) dissolveram o poder central e produziram a **fragmentação política** que consolidou o feudalismo.
+- **Suserania e vassalagem** organizavam as relações **políticas** entre nobres: um pacto pessoal de proteção (do suserano) em troca de fidelidade e serviço militar (do vassalo), selado pela **homenagem** e pela **investidura** do **feudo**.
+- O **domínio senhorial** organizava a **economia**: dividido em manso senhorial, manso servil e terras comunais, sustentava-se no trabalho camponês (**corveia**, **talha**, **banalidades**). A economia era **rural, de subsistência e autossuficiente**.
+- Historiadores divergem sobre o conceito: visão **estrita** (laços jurídicos de vassalagem) *versus* visão **ampla** (modo de produção senhor–servo, à la Bloch e Anderson). A ideia de "Idade das Trevas" é hoje rejeitada como preconceito renascentista.
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Antes de olhar a solução, tente **encadear causas e consequências** e distinguir o plano **político** (suserania/vassalagem) do plano **econômico** (domínio senhorial) — uma confusão frequente nas provas.
+:::
+
+**1.** Explique por que se afirma que o feudalismo foi uma "síntese". Quais foram as três heranças e o que cada uma legou?
+
+::: {.callout-tip collapse="true" title="Solução"}
+O feudalismo é chamado de **síntese** porque não nasceu de uma única fonte, mas da **fusão** de três tradições ao longo de séculos: (1) a **herança romana**, que legou o **colonato** (o camponês preso à terra, embrião do servo), o **latifúndio** autossuficiente e o latim; (2) a **herança germânica**, que legou os laços de **fidelidade pessoal** entre chefe e guerreiros (o *comitatus*) e a prática do **benefício** (terra em troca de serviços); e (3) a **herança cristã**, que forneceu a Igreja como instituição universal, a cultura letrada e a **legitimação sagrada** do poder. O feudalismo é o produto decantado desse encontro.
+:::
+
+**2.** Diferencie **suserania e vassalagem** de **domínio senhorial**, indicando a que dimensão (política ou econômica) cada um pertence.
+
+::: {.callout-tip collapse="true" title="Solução"}
+- **Suserania e vassalagem** pertencem à dimensão **política**: são o vínculo pessoal entre dois nobres — o suserano (protetor) e o vassalo (que jura fidelidade e serviço militar) —, selado pela homenagem e pela concessão do feudo. Organizam as relações **entre os senhores**.
+- O **domínio senhorial** pertence à dimensão **econômica e social**: é a grande propriedade rural onde os **camponeses/servos** trabalham e devem obrigações (corveia, talha, banalidades) ao senhor. Organiza a relação **entre o senhor e os que trabalham a terra**.
+
+A confusão entre os dois é um erro comum: um é o pacto entre nobres; o outro, a estrutura de produção que sustenta esses nobres.
+:::
+
+**3.** Qual foi a importância da coroação de **Carlos Magno** em 800? Cite ao menos duas consequências.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Ao ser coroado **imperador** pelo papa no Natal de 800, Carlos Magno restaurou simbolicamente, pela primeira vez desde 476, a dignidade imperial no Ocidente — agora **cristã** e **germânica**. Consequências: (1) consolidou a **aliança entre o poder político e a Igreja** (o imperador como protetor da Cristandade, o papa como fonte de legitimidade sagrada), matriz de tensões e parcerias por toda a Idade Média; (2) reforçou a ideia de uma **Cristandade unificada**, referência ideal que sobreviveu mesmo depois da fragmentação; (3) impulsionou o **Renascimento Carolíngio**, preservando a cultura clássica nos mosteiros. Sua obra política, porém, não sobreviveu à divisão de 843.
+:::
+
+**4.** Analise o documento a seguir, um formulário de entrada em dependência do século VII (fórmula de Tours), e responda.
+
+> "Ao senhor magnífico [tal]. Como é sabido de todos que não tenho com que me alimentar e vestir, pedi à vossa piedade que me permitísseis entregar-me à vossa proteção. O que fiz nas seguintes condições: dever/eis ajudar-me e sustentar-me, tanto com alimento quanto com vestuário; e, enquanto eu viver, dever-vos-ei serviço e obediência, e não poderei subtrair-me ao vosso poder." — fórmula medieval de encomendação
+
+(a) Que relação social o documento descreve? (b) Que obrigações cada parte assume? (c) O que a frase "não tenho com que me alimentar" revela sobre as **causas** desses vínculos?
+
+::: {.callout-tip collapse="true" title="Solução"}
+- (a) Descreve uma relação de **dependência pessoal** (a *encomendação*), em que um homem se coloca sob a **proteção** de um senhor — o mesmo princípio que, no plano da nobreza, estrutura a **vassalagem**, e no plano do trabalho aproxima-se da entrada na servidão.
+- (b) O **senhor** obriga-se a proteger e sustentar (alimento e vestuário); o **dependente** obriga-se a servir, obedecer e não abandonar o vínculo enquanto viver.
+- (c) A frase revela a **causa material** desses laços: num mundo sem Estado, sem segurança e sem excedentes, a sobrevivência dependia de encontrar um protetor. A insegurança e a pobreza **empurravam** os mais fracos a trocar liberdade por proteção — mecanismo central na formação da sociedade feudal.
+:::
+
+**5.** Por que a expressão "Idade das Trevas" é considerada inadequada pela historiografia atual? Quem a cunhou e com que intenção?
+
+::: {.callout-tip collapse="true" title="Solução"}
+A expressão foi cunhada por **humanistas do Renascimento** (séculos XV–XVI), que desprezavam o milênio medieval, vendo-o como um vazio obscuro entre a grandeza da Antiguidade e o "renascer" das luzes clássicas — uma leitura **interessada** em valorizar o próprio tempo por contraste. É inadequada porque projeta um preconceito, não uma descrição: a Idade Média foi um período de intensa criação — a **universidade**, a **catedral gótica**, inovações agrícolas e técnicas (arado de ferro, moinhos), a polifonia musical. A crítica a essa expressão (feita por Le Goff, Pernoud e outros) é também uma lição de método: rótulos herdados carregam o ponto de vista de quem os criou e precisam ser examinados criticamente.
+:::
+
+**6.** (Estilo ENEM) Leia o texto.
+
+> "A Europa dos séculos IX e X viu ruir tudo o que restava do Estado. Não havia mais tesouro público, nem exército permanente, nem funcionários pagos. Diante das invasões e da insegurança, cada um buscou a proteção de quem estava mais próximo e era mais forte. A autoridade pública fragmentou-se em uma poeira de poderes locais." — adaptado de @franco2001
+
+O processo descrito no texto contribuiu diretamente para
+
+**(a)** o fortalecimento das monarquias centralizadas e da burocracia estatal.
+**(b)** a expansão do comércio marítimo e o crescimento das cidades.
+**(c)** a formação dos laços de dependência pessoal e a fragmentação política características do feudalismo.
+**(d)** a manutenção do modelo escravista romano em toda a Europa.
+**(e)** a separação entre poder político e propriedade da terra.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (c).** O texto descreve o **colapso do Estado** e da autoridade pública, que se "fragmentou em uma poeira de poderes locais". Diante da insegurança, "cada um buscou a proteção de quem estava mais próximo e era mais forte" — exatamente o mecanismo que gera os **laços de dependência pessoal** (vassalagem, encomendação) e a **fragmentação política** do feudalismo.
+
+Por que as demais estão erradas: (a) e (e) afirmam o oposto do texto (centralização; separação entre poder e terra — no feudalismo, poder e posse da terra se **fundem**); (b) o comércio e as cidades **retraíram-se** nesse período, renascendo só a partir do século XI; (d) o escravismo antigo já havia declinado, cedendo lugar à **servidão**.
+:::
+
+**7.** (Estilo vestibular — dissertativa) Um estudante escreveu: "No feudalismo, o rei era a autoridade máxima e mandava em todos os senhores e camponeses do reino, como um chefe de Estado moderno". Aponte **dois** equívocos históricos dessa frase e reescreva-a de modo correto.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Equívocos:** (1) Atribui ao rei feudal um poder **centralizado** que ele não tinha — na prática, muitos grandes senhores eram tão ou mais poderosos que o rei, e a autoridade real se limitava, na maior parte, a seus próprios domínios; a fidelidade dos vassalos ao rei era frágil e mediada pela cadeia de suserania. (2) Compara o rei feudal a um **"chefe de Estado moderno"**, projetando anacronicamente a ideia de Estado centralizado e soberano, que não existia — o poder era **fragmentado** e apoiado em **laços pessoais**, não em instituições impessoais.
+**Reescrita correta (síntese):** "No feudalismo, o rei ocupava o topo simbólico da cadeia de suserania e vassalagem, mas seu poder era, na prática, limitado: a autoridade estava **fragmentada** entre inúmeros senhores locais, ligados entre si por vínculos pessoais de fidelidade, e não por um Estado centralizado." (Espera-se que o aluno mobilize os conceitos de fragmentação política, suserania/vassalagem e crítica ao anacronismo.)
+:::
+
+**8.** Explique a diferença entre o **colonato** romano e a **escravidão** antiga, e por que o colonato é visto como uma "ponte" para a servidão feudal.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Na **escravidão** antiga, o escravo era juridicamente uma **coisa** — propriedade que podia ser comprada, vendida e não tinha direitos. No **colonato** (Baixo Império romano), o **colono** era um camponês **juridicamente livre**, mas **preso à terra** que cultivava: não podia abandoná-la e devia ao proprietário trabalho e parte da colheita. O colonato é uma **ponte** para a **servidão** feudal porque ocupa uma posição intermediária: o trabalhador já **não é uma coisa** (como o escravo), mas **também não é plenamente livre** (como o camponês independente). Essa condição — pessoa livre atada à terra, devendo obrigações ao senhor — é justamente a do **servo** medieval. Assim, a transição do escravismo antigo para a servidão medieval passa, historicamente, pelo colonato.
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- BLOCH, Marc. *A sociedade feudal* [@blochFeudal2009]. A obra fundadora, de um mestre dos Annales: define o feudalismo não como um conjunto de contratos, mas como um **tipo de sociedade**. Densa e indispensável.
+- LE GOFF, Jacques. *A civilização do Ocidente medieval* [@leGoffOcidente2005]. Panorama magistral da vida material, mental e religiosa da Idade Média, por um dos maiores medievalistas do século XX.
+- FRANCO JÚNIOR, Hilário. *A Idade Média: nascimento do Ocidente* [@franco2001]. Excelente síntese em português, clara e atualizada, ideal para o estudante.
+- ANDERSON, Perry. *Passagens da Antiguidade ao Feudalismo* [@anderson1994]. Uma interpretação marxista vigorosa da transição, útil para entender o feudalismo como **modo de produção**.
+- PERNOUD, Régine. *Idade Média: o que não nos ensinaram* [@pernoud1979]. Um ensaio combativo contra os preconceitos sobre o período — bom antídoto à ideia de "trevas".
+
+**Filmes e documentários**
+
+- *O Sétimo Selo* (1957), dir. Ingmar Bergman. Um cavaleiro que volta das Cruzadas atravessa uma Europa assolada pela peste: retrato inesquecível do imaginário religioso medieval.
+- *O Nome da Rosa* (1986), dir. Jean-Jacques Annaud, baseado em Umberto Eco. Ambientado num mosteiro do século XIV, encena o papel dos **scriptoria** na guarda do saber — e as tensões dentro da Igreja.
+- Série documental *A Idade Média* (BBC/vários). Bons panoramas visuais da vida cotidiana, dos castelos e da economia rural.
