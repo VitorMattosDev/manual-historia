@@ -1,5 +1,229 @@
 # Grécia: a pólis e a democracia ateniense {#sec-grecia-polis-democracia}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Toda vez que um brasileiro vota, participa de uma assembleia de bairro ou exige que uma decisão pública seja tomada "às claras", ecoa — ainda que sem saber — uma invenção nascida há cerca de 2.500 anos numa pequena cidade grega. A palavra **democracia** é grega (*dēmos*, povo; *kratía*, poder) e foi cunhada em **Atenas**, no século V a.C., para nomear algo então extraordinário: um regime em que os próprios cidadãos, reunidos em praça pública, faziam as leis e julgavam uns aos outros. Mas cuidado com o encanto: a democracia ateniense excluía mulheres, estrangeiros e a imensa massa de escravos — talvez metade da população. Este capítulo investiga como surgiu a **pólis**, a cidade-Estado grega, e como Atenas construiu — passo a passo, em meio a conflitos sociais — a primeira democracia da história. Ao longo do caminho, vamos separar o mito fundador ("o berço da democracia") daquilo que os gregos de fato viveram.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- situar no tempo e no espaço o mundo grego, do período **cretense-micênico** ao **período clássico**;
+- explicar o que é a **pólis** e por que ela é a célula da vida política grega;
+- descrever o processo de formação da **democracia ateniense** (Sólon, Clístenes, Péricles) e suas instituições;
+- identificar os **limites** dessa democracia (exclusão de mulheres, metecos e escravos) e o papel do escravismo;
+- discutir o debate historiográfico entre celebrar Atenas como "berço da democracia" e analisá-la criticamente em seu próprio contexto.
 :::
+
+## Um mundo de mares e montanhas {#sec-geografia-grega}
+
+A **Grécia** antiga não era um país, e sim uma **civilização** espalhada pelo mar Egeu: a península balcânica ao norte, as ilhas do Egeu no centro e a costa da **Ásia Menor** (atual Turquia) a leste. O relevo montanhoso fragmentava o território em pequenos vales isolados, e o mar convidava à navegação. Duas consequências decorrem dessa geografia. Primeira: a **fragmentação política** — em vez de um grande império unificado, como no Egito ou na Mesopotâmia (@sec-mesopotamia), os gregos organizaram-se em centenas de **cidades-Estado** independentes e rivais. Segunda: a **vocação marítima e colonizadora** — sem terra fértil suficiente, os gregos lançaram-se ao mar, fundando colônias por todo o Mediterrâneo, de Marselha (na atual França) a Bizâncio, e do mar Negro à Sicília.
+
+O que unia esses gregos dispersos e brigões? Não um Estado, mas uma **cultura comum**: a mesma língua (com dialetos), os mesmos deuses do Olimpo, os poemas de **Homero** (a *Ilíada* e a *Odisseia*, @homero2013), os **Jogos Olímpicos** (a partir de 776 a.C.) e os oráculos, como o de Delfos. Os gregos chamavam a si mesmos de **helenos** e ao seu mundo de **Hélade**; a todos os demais povos, chamavam de **bárbaros** — palavra que originalmente só imitava o "bar-bar" de quem falava uma língua incompreensível, sem a carga pejorativa que ganharia depois.
+
+## Da Idade do Bronze aos "séculos obscuros" {#sec-periodos-grecia}
+
+A história grega costuma ser dividida em grandes períodos (@fig-linha-do-tempo-grecia). Antes dos gregos "clássicos", floresceram no Egeu duas civilizações da Idade do Bronze: a **cretense** (ou **minoica**), na ilha de Creta, com seus palácios labirínticos como o de Cnossos (lembrado no mito do Minotauro), e a **micênica**, no continente, guerreira e fortificada, cujos reis teriam inspirado os heróis da guerra de Troia. Por volta de **1200 a.C.**, esse mundo palaciano ruiu, em meio a migrações e à misteriosa onda dos "povos do mar".
+
+Seguiu-se a **Época Homérica** (séculos XII–VIII a.C.), antes chamada de "séculos obscuros" porque a escrita micênica se perdeu e as fontes rareiam. A sociedade se ruralizou e se organizou em torno do **génos**, um grande clã familiar que dividia a terra em comum sob a autoridade de um patriarca. Foi a decomposição desses clãs — com o crescimento populacional, a divisão das terras e o surgimento de desigualdades — que abriu caminho, no **Período Arcaico** (séculos VIII–VI a.C.), para a grande invenção grega: a **pólis**.
+
+::: {#fig-linha-do-tempo-grecia}
+
+```{.tikz}
+%%| filename: fig-linha-do-tempo-grecia
+%%| alt: Linha do tempo da Grécia antiga, das civilizações cretense e micênica até o fim do período clássico.
+\begin{tikzpicture}[>=stealth]
+  \draw[eixo] (-0.3,0) -- (12.3,0);
+  % faixas de período
+  \fill[manualgray!20] (0,-0.18) rectangle (3,0.18);
+  \fill[manualblue!18] (3,-0.18) rectangle (6,0.18);
+  \fill[manualyellow!25] (6,-0.18) rectangle (8.5,0.18);
+  \fill[manualgreen!18] (8.5,-0.18) rectangle (11,0.18);
+  \node[text=manualgray, font=\scriptsize] at (1.5,-0.5) {Cretense/Micênica};
+  \node[font=\scriptsize] at (4.5,-0.5) {Homérico};
+  \node[font=\scriptsize] at (7.25,-0.5) {Arcaico};
+  \node[font=\scriptsize] at (9.75,-0.5) {Clássico};
+  % marcos
+  \node[ponto] at (3,0) {}; \node[above, font=\scriptsize] at (3,0.25) {\textasciitilde1200 a.C.};
+  \node[below, font=\scriptsize, text=manualgray] at (3,-0.9) {queda micênica};
+  \node[ponto] at (6.5,0) {}; \node[above, font=\scriptsize] at (6.5,0.25) {776 a.C.};
+  \node[below, font=\scriptsize, text=manualgray] at (6.5,-0.9) {1\textsuperscript{os} Jogos};
+  \node[ponto, fill=manualblue] at (8.5,0) {}; \node[above, font=\scriptsize] at (8.5,0.25) {508 a.C.};
+  \node[below, font=\scriptsize, text=manualblue] at (8.5,-0.9) {Clístenes};
+  \node[ponto, fill=manualred] at (9.6,0) {}; \node[above, font=\scriptsize] at (9.9,0.55) {431--404};
+  \node[below, font=\scriptsize, text=manualred] at (9.9,-1.3) {G.\ do Peloponeso};
+  \node[ponto] at (11,0) {}; \node[above, font=\scriptsize] at (11,0.25) {338 a.C.};
+  \node[below, font=\scriptsize, text=manualgray] at (11,-0.9) {Macedônia};
+\end{tikzpicture}
+```
+
+Linha do tempo da Grécia antiga: das civilizações da Idade do Bronze ao fim da independência das pólis, com a ascensão da Macedônia em 338 a.C.
+:::
+
+## A pólis: a cidade-Estado grega {#sec-polis}
+
+::: {.callout-note title="Conceito-chave: pólis"}
+**Pólis** (plural *póleis*) é a **cidade-Estado** grega: uma comunidade política autônoma, soberana, formada por um núcleo urbano e o campo ao redor. Tinha suas próprias leis, seu exército, seus cultos e sua moeda. Não era apenas um lugar: era, sobretudo, o **corpo de cidadãos** que a compunha. Para o grego, viver fora da pólis era não ser plenamente humano — daí a famosa definição de **Aristóteles** de que o homem é um "animal político" (*zoon politikón*), isto é, um ser feito para viver na pólis [@aristoteles1998].
+:::
+
+A pólis típica organizava-se em torno de dois espaços simbólicos: a **acrópole** (a "cidade alta"), colina fortificada onde ficavam os templos dos deuses protetores — como o **Partenon** de Atenas, dedicado a Atena —, e a **ágora**, a praça pública embaixo, coração da vida cívica, econômica e política, onde os cidadãos se reuniam, negociavam e debatiam. Essa passagem do poder que descia da acrópole (dos deuses e reis) para a ágora (dos cidadãos) resume, para o historiador **Jean-Pierre Vernant**, o nascimento da política como discussão pública entre iguais [@vernant2002].
+
+Nem toda pólis foi democrática — a maioria não foi. O Período Arcaico foi de intensos **conflitos sociais** entre a aristocracia proprietária de terras (os *eupátridas*, "bem-nascidos") e os pequenos camponeses endividados, muitos reduzidos à escravidão por dívida. Desses conflitos nasceram diferentes soluções: em **Esparta**, uma sociedade militarizada e oligárquica (que você verá no @sec-esparta-helenismo); em **Atenas**, ao longo de um século de reformas, a **democracia**.
+
+## Atenas: a longa marcha até a democracia {#sec-democracia-ateniense}
+
+A democracia ateniense não brotou pronta: foi construída aos poucos, geralmente sob a pressão das camadas populares e a mediação de reformadores. Vale a pena acompanhar os quatro grandes momentos (@fig-reformas-atenas).
+
+**Drácon (c. 621 a.C.)** deu o primeiro passo tímido: pôs por **escrito** as leis, até então guardadas e manipuladas oralmente pela aristocracia. Eram leis famosamente severas — daí nosso adjetivo "draconiano" —, mas o simples fato de estarem escritas e visíveis a todos já retirava dos nobres o monopólio da justiça.
+
+**Sólon (594 a.C.)**, escolhido como árbitro em meio a uma grave crise social, promoveu reformas decisivas. Aboliu a **escravidão por dívida** (a *seisáchtheia*, ou "alívio dos fardos"), libertando os atenienses que haviam perdido a liberdade por não pagar credores — uma medida que preservou um corpo de camponeses livres. E dividiu a população em **quatro classes segundo a renda** (não o nascimento), atribuindo direitos políticos proporcionais à riqueza. Foi uma reforma **timocrática** (poder baseado na renda), ainda não democrática, mas que rompeu o monopólio hereditário da aristocracia.
+
+**Clístenes (508–507 a.C.)** é considerado o verdadeiro **fundador da democracia**. Sua reforma genial atacou a raiz do poder aristocrático: reorganizou os cidadãos em **dez tribos** definidas por critério **territorial** (misturando gente da cidade, do litoral e do interior), quebrando as antigas lealdades de clã e de sangue. Criou a **Bulé**, um Conselho de 500 membros (50 de cada tribo) sorteados anualmente, e consolidou o princípio da **isonomia** — a igualdade de todos os cidadãos perante a lei. Atribui-se-lhe também o **ostracismo**, mecanismo pelo qual a assembleia podia **exilar** por dez anos um cidadão considerado ameaça à democracia, escrevendo seu nome em cacos de cerâmica (*óstraka*).
+
+**Péricles (c. 495–429 a.C.)** conduziu a democracia ao apogeu, na chamada "Era de Péricles" (século V a.C.). Instituiu a ***misthophoria***, um pagamento aos cidadãos pobres que exercessem funções públicas — sem isso, só os ricos poderiam dedicar-se à política. Sob sua liderança, Atenas embelezou-se (o Partenon é dessa época) e tornou-se a potência cultural da Hélade. É de Péricles, segundo o historiador **Tucídides** [@tucidides2001], o mais célebre elogio da democracia, no discurso fúnebre aos mortos de guerra: em Atenas, "o poder está nas mãos não de uma minoria, mas de todo o povo".
+
+::: {#fig-reformas-atenas}
+
+```{.tikz}
+%%| filename: fig-reformas-atenas
+%%| alt: Linha do tempo das reformas que construíram a democracia ateniense, de Drácon a Péricles.
+\begin{tikzpicture}[>=stealth]
+  \draw[eixo] (-0.3,0) -- (11.3,0);
+  \node[ponto] at (0.5,0) {}; \node[above, font=\scriptsize, align=center] at (0.5,0.2) {Drácon\\\textasciitilde621};
+  \node[below, font=\scriptsize, text=manualgray, align=center] at (0.5,-0.35) {leis\\escritas};
+  \node[ponto, fill=manualgreen] at (3.2,0) {}; \node[above, font=\scriptsize, align=center] at (3.2,0.2) {Sólon\\594};
+  \node[below, font=\scriptsize, text=manualgreen, align=center] at (3.2,-0.35) {fim da escravidão\\por dívida};
+  \node[ponto, fill=manualblue] at (6.4,0) {}; \node[above, font=\scriptsize, align=center] at (6.4,0.2) {Clístenes\\508};
+  \node[below, font=\scriptsize, text=manualblue, align=center] at (6.4,-0.35) {tribos + Bulé\\isonomia};
+  \node[ponto, fill=manualred] at (9.6,0) {}; \node[above, font=\scriptsize, align=center] at (9.6,0.2) {Péricles\\\textasciitilde450};
+  \node[below, font=\scriptsize, text=manualred, align=center] at (9.6,-0.35) {misthophoria\\apogeu};
+\end{tikzpicture}
+```
+
+As reformas que, ao longo de mais de um século e meio, construíram a democracia ateniense.
+:::
+
+## Como funcionava a democracia direta {#sec-instituicoes-democracia}
+
+A democracia ateniense era **direta**, não representativa: o cidadão não elegia deputados para decidir por ele; ele mesmo comparecia, votava e podia falar. Três instituições a sustentavam:
+
+- A **Eclésia** (Assembleia) era o órgão soberano. Todos os cidadãos podiam participar, reunindo-se dezenas de vezes por ano na colina da Pnyx para votar leis, decidir sobre a guerra e a paz e fiscalizar os magistrados. Qualquer cidadão tinha direito à ***isegoria*** — a igualdade no direito de falar.
+- A **Bulé** (Conselho dos 500), sorteada anualmente, preparava as pautas e cuidava da administração cotidiana.
+- Os **tribunais populares** (Helieia) contavam com jurados sorteados às centenas, sem juízes profissionais: eram os próprios cidadãos que julgavam.
+
+Note o traço mais radical: cargos preenchidos por **sorteio**, não por eleição. Para os gregos, a eleição favorecia os ricos e famosos e era, portanto, um mecanismo **aristocrático**; o **sorteio**, ao dar a cada cidadão a mesma chance de governar e ser governado, era o método verdadeiramente **democrático**.
+
+::: {.callout-important title="Anacronismo comum: 'democracia grega = democracia moderna'"}
+Não projete no passado a nossa democracia. Três diferenças são cruciais. **(1) Direta, não representativa:** os atenienses governavam pessoalmente, sem parlamento eleito. **(2) Restrita:** eram cidadãos apenas os homens adultos, filhos de pai e (após Péricles) mãe atenienses — algo entre 10% e 15% da população. **(3) Assentada no escravismo:** o tempo livre que permitia ao cidadão dedicar-se à política vinha, em grande parte, do trabalho de **escravos**. Chamar Atenas simplesmente de "berço da democracia" esconde tanto quanto revela.
+:::
+
+## Os excluídos: mulheres, metecos e escravos {#sec-excluidos-atenas}
+
+A cidadania ateniense era um **clube fechado**. Ficavam de fora três grandes grupos (@fig-sociedade-atenas). As **mulheres**, mesmo as de famílias cidadãs, não tinham direitos políticos, viviam sob a tutela do pai ou do marido e eram excluídas da ágora; sua esfera era o *oikos*, a casa. Os **metecos** (*métoikoi*) eram estrangeiros livres — muitos deles comerciantes e artesãos prósperos, essenciais à economia — que pagavam impostos e serviam no exército, mas jamais podiam votar ou possuir terras. E os **escravos**, a maior parcela, eram considerados "instrumentos animados": prisioneiros de guerra, comprados ou nascidos no cativeiro, sustentavam com seu trabalho as minas, os campos, as oficinas e as casas. Sem esse trabalho compulsório, a "democracia do ócio cívico" seria impensável.
+
+::: {#fig-sociedade-atenas}
+
+```{.tikz}
+%%| filename: fig-sociedade-atenas
+%%| alt: Pirâmide social de Atenas mostrando a minoria de cidadãos no topo e a maioria de excluídos (mulheres, metecos e escravos) na base.
+\begin{tikzpicture}
+  \draw[thick] (0,4) -- (-3.2,0) -- (3.2,0) -- cycle;
+  \draw[thick] (-0.8,1) -- (0.8,1);
+  \draw[thick] (-1.9,2.375) -- (1.9,2.375);
+  \node[align=center, font=\scriptsize] at (0,3.1) {\textbf{CIDADÃOS}\\homens adultos,\\filhos de atenienses};
+  \node[align=center, font=\scriptsize] at (0,1.65) {\textbf{MULHERES e METECOS}\\sem direitos políticos};
+  \node[align=center, font=\scriptsize] at (0,0.45) {\textbf{ESCRAVOS} — a maioria};
+  \node[right, font=\scriptsize, text=manualgray] at (3.4,3.1) {minoria};
+  \node[right, font=\scriptsize, text=manualgray] at (3.4,0.45) {maioria};
+\end{tikzpicture}
+```
+
+A sociedade ateniense: os direitos políticos concentravam-se numa minoria de cidadãos, sobre uma base majoritária de excluídos.
+:::
+
+## 🔎 Historiografia em Foco {#sec-historiografia-grecia}
+
+Poucos temas foram tão **idealizados** quanto a democracia ateniense — e poucos foram tão revistos criticamente. O debate opõe, no fundo, duas maneiras de olhar para Atenas.
+
+**A leitura celebratória: o "milagre grego".** Por séculos, e sobretudo a partir do século XIX, europeus e norte-americanos viram na Grécia clássica a **origem gloriosa** do Ocidente: o nascimento da razão, da filosofia, da arte harmoniosa e da liberdade política. Atenas seria o "berço da democracia", modelo a ser reverenciado. Essa visão tem um fundo verdadeiro — os gregos de fato inventaram a política como debate público e o vocabulário democrático que ainda usamos —, mas tende a **apagar os limites** (a exclusão das mulheres, o escravismo) e a tratar a Grécia como um milagre isolado, sem dívidas com o Egito e o Oriente Próximo.
+
+**A leitura crítica e contextual.** Historiadores do século XX, como **Moses Finley** [@finley1989], insistiram em analisar a democracia ateniense em seus **próprios termos**, e não como um rascunho imperfeito da nossa. Finley mostrou que a democracia antiga e a moderna são **coisas distintas**: a primeira é direta, exige a participação intensa de uma minoria de cidadãos e é indissociável do escravismo. Já o helenista **Jean-Pierre Vernant** [@vernant2002] estudou como a política grega nasceu de uma transformação mental — a passagem do poder do palácio para a praça, do segredo para o debate público. Nessa chave, o valor de Atenas não está em ser um "modelo" a copiar, mas em ter **inventado** o próprio espaço da discussão coletiva.
+
+**Por que as interpretações divergem?** Em parte porque cada época faz à Grécia as **perguntas do seu tempo**: o século XIX, que construía Estados nacionais e impérios, buscava em Atenas raízes nobres para a "civilização ocidental"; o século XX, marcado pela luta por direitos e pela crítica ao eurocentrismo, passou a perguntar *quem ficava de fora* e *sobre o trabalho de quem* aquela liberdade se erguia. A boa História não escolhe entre admirar e criticar: faz as duas coisas, reconhecendo a grandeza da invenção **e** os seus limites históricos.
+
+## Resumo do capítulo {#sec-resumo-grecia}
+
+- A **Grécia** antiga não era um Estado unificado, mas uma **civilização** de cidades-Estado dispersas pelo Egeu, unidas por língua, religião, Homero e os Jogos Olímpicos; a geografia montanhosa e marítima favoreceu a **fragmentação política** e a **colonização** do Mediterrâneo.
+- Antes dos gregos clássicos, floresceram as civilizações **cretense (minoica)** e **micênica** (Idade do Bronze), que ruíram por volta de 1200 a.C.; seguiu-se a **Época Homérica**, com a sociedade dos **génos**, cuja decomposição levou ao surgimento da **pólis** no Período Arcaico.
+- A **pólis** é a cidade-Estado autônoma, organizada em torno da **acrópole** (templos) e da **ágora** (praça pública); é, antes de tudo, o corpo de **cidadãos**.
+- A **democracia ateniense** foi construída em etapas: **Drácon** (leis escritas), **Sólon** (fim da escravidão por dívida; classes por renda), **Clístenes** (fundador: tribos territoriais, Bulé, isonomia, ostracismo) e **Péricles** (apogeu; *misthophoria*).
+- Era uma democracia **direta** (Eclésia, Bulé, tribunais populares), com cargos por **sorteio**; mas **excluía** mulheres, **metecos** (estrangeiros) e **escravos** — a maioria da população —, e apoiava-se no **escravismo**.
+- A historiografia oscila entre **celebrar** o "milagre grego" e **analisá-lo criticamente** (Finley, Vernant): a democracia antiga é diferente da moderna, e sua grandeza convive com limites profundos.
+
+## Exercícios {#sec-exercicios-grecia}
+
+**1.** Explique o que é uma **pólis** e por que se diz que ela é, antes de tudo, um corpo de cidadãos, e não apenas um lugar.
+
+::: {.callout-tip collapse="true" title="Solução"}
+A **pólis** é a **cidade-Estado** grega: uma comunidade política autônoma e soberana, com leis, exército, cultos e moeda próprios, formada por um núcleo urbano e o campo ao redor. Diz-se que é "antes de tudo um corpo de cidadãos" porque, para os gregos, a pólis não se reduzia ao território ou aos edifícios: ela **era** a comunidade dos cidadãos que a compunham e nela participavam. Por isso Aristóteles definia o ser humano como "animal político" (*zoon politikón*): um ser cuja natureza só se realiza plenamente na vida em comum da pólis.
+:::
+
+**2.** Relacione cada reformador à sua principal contribuição para a democracia ateniense: Drácon, Sólon, Clístenes e Péricles.
+
+::: {.callout-tip collapse="true" title="Solução"}
+- **Drácon** (c. 621 a.C.): pôs as leis **por escrito**, retirando da aristocracia o monopólio da justiça oral.
+- **Sólon** (594 a.C.): aboliu a **escravidão por dívida** e dividiu a população em **classes por renda** (reforma timocrática).
+- **Clístenes** (508 a.C.): **fundador da democracia** — criou as **tribos territoriais**, a **Bulé** dos 500 e consolidou a **isonomia** (igualdade perante a lei); a ele se atribui o **ostracismo**.
+- **Péricles** (século V a.C.): levou a democracia ao **apogeu**, instituindo a **misthophoria** (remuneração para o exercício de cargos), que permitiu a participação dos cidadãos pobres.
+:::
+
+**3.** Por que os gregos consideravam o **sorteio** um método mais democrático que a **eleição**?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque a **eleição** tende a favorecer os candidatos **ricos, famosos e bem relacionados**, funcionando como um mecanismo **aristocrático** (governo dos "melhores" ou mais notáveis). Já o **sorteio** dá a **cada cidadão a mesma chance** de ocupar cargos e participar do governo, realizando de forma mais plena o princípio de igualdade (isonomia) e o ideal de que todos devem, alternadamente, governar e ser governados. Por isso, em Atenas, a maioria das funções (como a Bulé e os tribunais) era preenchida por sorteio.
+:::
+
+**4.** Identifique os grupos **excluídos** da cidadania ateniense e explique a relação entre a democracia e o **escravismo**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Excluídos: **mulheres** (mesmo as de famílias cidadãs, sob tutela masculina e restritas ao *oikos*), **metecos** (estrangeiros livres, muitas vezes comerciantes e artesãos, que pagavam impostos e serviam no exército, mas não votavam nem possuíam terras) e **escravos** (a maioria da população). A relação com o escravismo é estrutural: o **tempo livre** que permitia ao cidadão frequentar a assembleia, os tribunais e a ágora dependia, em larga medida, do **trabalho compulsório dos escravos**, que sustentavam a economia. Sem esse trabalho, a "democracia do ócio cívico" seria inviável — por isso se diz que a democracia antiga era indissociável da escravidão.
+:::
+
+**5.** (Estilo ENEM) Leia o trecho do discurso atribuído a Péricles por Tucídides:
+
+> "Nossa constituição chama-se democracia porque o poder está nas mãos não de uma minoria, mas de todo o povo. Quando se trata de resolver conflitos privados, todos são iguais perante a lei."
+
+Considerando o contexto histórico de Atenas no século V a.C., a afirmação de que "o poder está nas mãos de todo o povo" deve ser entendida com a ressalva de que
+
+**(a)** as decisões eram tomadas por representantes eleitos pelo conjunto da população.
+**(b)** o termo "povo" (*dēmos*) incluía apenas os homens adultos reconhecidos como cidadãos, excluindo mulheres, estrangeiros e escravos.
+**(c)** Atenas havia abolido a escravidão, o que tornava todos os habitantes iguais.
+**(d)** o poder pertencia à aristocracia de nascimento, única autorizada a falar na assembleia.
+**(e)** a democracia ateniense funcionava por meio de um parlamento permanente, como as democracias atuais.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (b).** O "povo" (*dēmos*) da democracia ateniense correspondia apenas aos **homens adultos que eram cidadãos** (filhos de pais atenienses) — uma minoria da população total. **Mulheres, metecos e escravos** estavam excluídos. Erros: (a) a democracia era **direta**, sem representantes eleitos; (c) Atenas **não** aboliu a escravidão — ao contrário, dependia dela; (d) a igualdade de palavra (isegoria) valia para todos os cidadãos, não só a aristocracia; (e) não havia parlamento permanente, e sim a assembleia (Eclésia) reunida diretamente.
+:::
+
+**6.** (Estilo vestibular — dissertativa) Explique por que a expressão "Atenas, berço da democracia" é ao mesmo tempo **justificada** e **insuficiente** para caracterizar a experiência política ateniense.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Resposta esperada. É **justificada** porque foi de fato em Atenas que se inventaram o **conceito** e a **prática** da democracia: o governo do povo por meio da participação direta dos cidadãos (Eclésia, Bulé, tribunais), a igualdade perante a lei (isonomia), a igualdade no direito de falar (isegoria) e um vocabulário político que ainda usamos. É **insuficiente** porque a fórmula esconde os **limites** decisivos daquela democracia: era **restrita** a uma minoria de cidadãos (homens, filhos de atenienses), **excluía** mulheres, metecos e escravos, e apoiava-se no **escravismo**, que garantia o tempo livre para a política. Além disso, a democracia antiga era **direta**, e não representativa, portanto distinta da moderna. Uma boa resposta conclui que celebrar a invenção **e** reconhecer seus limites é o modo correto de compreendê-la historicamente, evitando tanto a idealização quanto o anacronismo.
+:::
+
+**7.** Explique como a geografia da Grécia ajuda a compreender duas características do mundo grego: a **fragmentação política** e a **colonização** do Mediterrâneo.
+
+::: {.callout-tip collapse="true" title="Solução"}
+O relevo **montanhoso** fragmentava o território grego em pequenos vales isolados, dificultando a formação de um grande Estado unificado e favorecendo o surgimento de centenas de **cidades-Estado independentes** e rivais — daí a fragmentação política. Ao mesmo tempo, a escassez de **terras férteis** e a proximidade do **mar** estimularam a navegação e o comércio: em busca de novas terras e recursos, os gregos fundaram **colônias** por todo o Mediterrâneo e mar Negro (da Sicília à Ásia Menor), difundindo sua cultura. Assim, montanhas e mar explicam, respectivamente, a dispersão em póleis e a expansão colonizadora.
+:::
+
+## Para saber mais {#sec-para-saber-mais-grecia}
+
+**Livros**
+
+- VERNANT, Jean-Pierre. *As origens do pensamento grego* [@vernant2002]. Curto e luminoso: mostra como a política nasceu da passagem do poder do palácio para a praça pública.
+- FINLEY, Moses I. *Democracia antiga e moderna* [@finley1989]. Um clássico que distingue, com rigor, a democracia dos gregos da nossa.
+- FUNARI, Pedro Paulo. *Grécia e Roma* [@funari2002]. Introdução brasileira acessível ao mundo clássico, atenta aos debates atuais.
+- TUCÍDIDES. *História da Guerra do Peloponeso* [@tucidides2001]. A fonte primária onde está o discurso de Péricles sobre a democracia.
+
+**Filmes e documentários**
+
+- Documentários sobre a **Acrópole** e o **Partenon** ajudam a visualizar o espaço cívico e religioso da pólis ateniense.
+- Séries e documentários sobre a **Grécia antiga** permitem ver reconstituições da ágora, da assembleia e da vida cotidiana — úteis desde que se mantenha o olhar crítico sobre a idealização.

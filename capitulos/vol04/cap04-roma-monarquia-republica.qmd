@@ -1,5 +1,218 @@
 # Roma: monarquia e república {#sec-roma-monarquia-republica}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Você já ouviu a expressão "todos os caminhos levam a Roma"? Ou usou palavras como *senado*, *república*, *cidadão*, *veto*, *plebeu*, *fórum*? O calendário que você segue, o alfabeto com que lê estas linhas, boa parte do direito que organiza a vida em sociedade e até a divisão dos poderes que estrutura os Estados modernos têm uma raiz comum: **Roma**. De uma pequena aldeia de pastores às margens do rio Tibre, na Itália, Roma tornou-se, ao longo de séculos, a maior potência do mundo antigo, dominando todo o Mediterrâneo. Este capítulo conta a **primeira metade** dessa trajetória: a lendária fundação, os três regimes que a organizaram — **Monarquia**, **República** e (no próximo capítulo) Império —, a longa luta entre **patrícios e plebeus** pela igualdade de direitos, e as guerras que transformaram Roma numa potência imperial. É a história de como uma cidade construiu instituições tão engenhosas que influenciam a política até hoje.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- distinguir a **lenda** e a **história** na fundação de Roma e situá-la no espaço e no tempo;
+- caracterizar os três grandes períodos: **Monarquia**, **República** e **Império**;
+- explicar a organização política da **República** e a luta entre **patrícios e plebeus**;
+- analisar a **expansão romana** (Guerras Púnicas) e suas consequências sociais;
+- compreender as causas da **crise da República** que abriria caminho ao Império.
 :::
+
+## Lenda e história da fundação {#sec-fundacao-roma}
+
+Segundo a **lenda**, Roma foi fundada em **753 a.C.** pelos gêmeos **Rômulo e Remo**, filhos do deus Marte, que teriam sido abandonados ainda bebês, amamentados por uma loba e criados por um pastor. A história — mais prosaica — mostra que Roma nasceu da fusão de pequenas aldeias de pastores e agricultores nas **colinas** à beira do rio **Tibre**, na região do **Lácio**, na península **Itálica**, ponto de passagem estratégico para o comércio. A península era habitada por diversos povos: os **latinos** (a que pertenciam os romanos), os **etruscos** ao norte (civilização avançada que dominou Roma em seus primórdios e lhe legou técnicas, o alfabeto e obras de engenharia) e colônias **gregas** ao sul (a "Magna Grécia"), que difundiram a cultura helênica.
+
+A história de Roma divide-se tradicionalmente em três grandes períodos, marcados pela forma de governo (@fig-periodos-roma).
+
+::: {#fig-periodos-roma}
+
+```{.tikz}
+%%| filename: fig-periodos-roma
+%%| alt: Linha do tempo dos três períodos da história de Roma: Monarquia, República e Império.
+\begin{tikzpicture}[>=stealth]
+  \draw[eixo] (-0.3,0) -- (12.3,0);
+  \fill[manualyellow!25] (0,-0.15) rectangle (2.5,0.15);
+  \fill[manualblue!18] (2.5,-0.15) rectangle (7.5,0.15);
+  \fill[manualred!18] (7.5,-0.15) rectangle (12,0.15);
+  \node[font=\scriptsize, align=center] at (1.25,-0.5) {MONARQUIA};
+  \node[font=\scriptsize, align=center] at (5,-0.5) {REPÚBLICA};
+  \node[font=\scriptsize, align=center] at (9.75,-0.5) {IMPÉRIO};
+  \node[ponto] at (0,0) {}; \node[above, font=\scriptsize] at (0,0.2) {753 a.C.};
+  \node[ponto, fill=manualblue] at (2.5,0) {}; \node[above, font=\scriptsize] at (2.5,0.2) {509 a.C.};
+  \node[ponto, fill=manualred] at (7.5,0) {}; \node[above, font=\scriptsize] at (7.5,0.2) {27 a.C.};
+  \node[ponto] at (12,0) {}; \node[above, font=\scriptsize] at (12,0.2) {476 d.C.};
+  \node[below, font=\scriptsize, text=manualgray] at (0,-0.85) {fundação};
+  \node[below, font=\scriptsize, text=manualgray] at (2.5,-0.85) {fim dos reis};
+  \node[below, font=\scriptsize, text=manualgray] at (7.5,-0.85) {Otávio Augusto};
+  \node[below, font=\scriptsize, text=manualgray] at (12,-0.85) {queda (Ocidente)};
+\end{tikzpicture}
+```
+
+Os três períodos da história romana. Este capítulo cobre a Monarquia e a República; o Império será tratado no @sec-imperio-romano.
+:::
+
+## A Monarquia (753–509 a.C.) {#sec-monarquia-romana}
+
+Nos primeiros dois séculos e meio, Roma foi governada por **reis** (sete, segundo a tradição, os últimos deles etruscos). O poder do rei era limitado por dois órgãos que atravessariam toda a história romana: o **Senado**, conselho dos chefes das famílias mais poderosas (os *patres*, "pais"), e as assembleias do povo. Já nessa época se desenhava a divisão social fundamental de Roma: de um lado, os **patrícios**, aristocracia proprietária de terras, descendentes dos fundadores, com monopólio dos direitos políticos e religiosos; de outro, os **plebeus**, a maioria da população — pequenos agricultores, artesãos e comerciantes — livres, mas **sem direitos políticos**. Havia ainda os **clientes** (homens livres ligados a um patrício por laços de proteção e dependência) e os **escravos**.
+
+A Monarquia terminou em **509 a.C.**, quando os patrícios, descontentes com o domínio dos reis etruscos e com o poder pessoal do último rei (Tarquínio, o Soberbo), o **expulsaram** e proclamaram a **República** (*res publica*, "coisa pública"). O poder deixava de pertencer a um rei e passava, ao menos em tese, à comunidade — na prática, à aristocracia patrícia.
+
+## A República (509–27 a.C.): as instituições {#sec-republica-instituicoes}
+
+A República romana foi um engenhoso sistema de **poderes divididos e mandatos temporários**, pensado justamente para **impedir a volta da tirania** de um homem só. Suas peças principais eram (@fig-republica-romana):
+
+- As **magistraturas**, cargos executivos **eletivos**, **temporários** (em geral anuais) e **colegiados** (exercidos por mais de uma pessoa, que podiam vetar-se mutuamente). A mais alta era a dos dois **cônsules**, que governavam e comandavam o exército por um ano. Havia ainda pretores (justiça), questores (finanças), edis (cidade) e os **censores** (recenseamento e costumes). Em situações de emergência, nomeava-se um **ditador**, com poderes absolutos, mas por prazo máximo de **seis meses**.
+- O **Senado**, órgão mais poderoso e permanente, formado por ex-magistrados (vitalícios), controlava as finanças, a política externa e a religião, e orientava toda a vida pública. Era o coração da influência patrícia.
+- As **assembleias populares** (comícios), onde os cidadãos votavam leis e elegiam magistrados — embora o peso do voto favorecesse os mais ricos.
+
+O historiador grego **Políbio** [@polibio1996], que viveu em Roma no século II a.C., admirou esse arranjo e o descreveu como uma **"constituição mista"**: os **cônsules** representariam o princípio monárquico (o comando de um); o **Senado**, o princípio aristocrático (o governo dos melhores); e as **assembleias**, o princípio democrático (o poder do povo). Para Políbio, era esse **equilíbrio** — em que cada poder controlava os outros — que explicava a estabilidade e a força de Roma. A ideia inspiraria, muitos séculos depois, a **separação de poderes** dos Estados modernos.
+
+::: {#fig-republica-romana}
+
+```{.tikz}
+%%| filename: fig-republica-romana
+%%| alt: Diagrama das instituições da República Romana: magistraturas, Senado e assembleias, com o mecanismo de equilíbrio.
+\begin{tikzpicture}[>=stealth]
+  \node[draw, fill=manualblue!18, align=center, font=\scriptsize, minimum width=3.2cm, minimum height=1.1cm] (mag) at (0,0) {\textbf{MAGISTRATURAS}\\cônsules, pretores...\\(eletivas, anuais,\\colegiadas)};
+  \node[draw, fill=manualred!15, align=center, font=\scriptsize, minimum width=3.2cm, minimum height=1.1cm] (sen) at (5,0) {\textbf{SENADO}\\ex-magistrados\\(vitalício; finanças,\\política externa)};
+  \node[draw, fill=manualgreen!15, align=center, font=\scriptsize, minimum width=3.2cm, minimum height=1.1cm] (ass) at (2.5,-2.2) {\textbf{ASSEMBLEIAS}\\(comícios): votam leis\\e elegem magistrados};
+  \draw[vetor] (mag) -- (sen);
+  \draw[vetor] (ass) -- (mag);
+  \draw[vetor] (ass) -- (sen);
+  \node[align=center, font=\scriptsize, text=manualgray] at (2.5,1.1) {"constituição mista" (Políbio):\\equilíbrio entre os poderes};
+\end{tikzpicture}
+```
+
+As instituições da República e seu equilíbrio de poderes, admirado por Políbio como "constituição mista".
+:::
+
+## A luta entre patrícios e plebeus {#sec-patricios-plebeus}
+
+A grande dinâmica interna da República foi o **conflito entre patrícios e plebeus** — uma longa luta (séculos V a III a.C.) por **igualdade de direitos**. No início, apenas os patrícios ocupavam magistraturas e sacerdócios, faziam e interpretavam as leis (não escritas) e proibiam casamentos com plebeus. Os plebeus, porém, eram indispensáveis: cultivavam a terra e, sobretudo, **compunham o exército**. Foi essa força que usaram como arma.
+
+A principal tática plebeia foi a **"greve" militar**: em momentos decisivos, os plebeus simplesmente **se retiravam** da cidade (as *secessões*), recusando-se a lutar, e assim arrancavam concessões. Passo a passo, conquistaram direitos fundamentais:
+
+- os **tribunos da plebe** (a partir de 494 a.C.), magistrados **invioláveis** que defendiam os plebeus e podiam **vetar** decisões prejudiciais a eles — origem da palavra *veto* ("eu proíbo");
+- a **Lei das Doze Tábuas** (c. 450 a.C.), primeira **codificação escrita** do direito romano, que tirou dos patrícios o monopólio da interpretação das leis;
+- o direito ao **casamento** entre patrícios e plebeus (Lei Canuleia, 445 a.C.);
+- o acesso ao **consulado** e às demais magistraturas (a partir de 367 a.C.);
+- o fim da **escravidão por dívida** (Lei Petélia-Papíria, 326 a.C.);
+- e a validade das decisões da assembleia plebeia para **todo** o povo (Lei Hortênsia, 287 a.C.).
+
+::: {.callout-important title="Cuidado: a plebe venceu, mas a igualdade foi limitada"}
+Não confunda a vitória jurídica dos plebeus com uma "democracia" ou uma sociedade igualitária. A luta secular garantiu **igualdade de direitos políticos formais**, mas o poder real continuou nas mãos de uma **elite**: fundiu-se uma nova aristocracia, a **nobreza** (*nobilitas*), formada pelos patrícios e pelas famílias plebeias ricas que passaram a ocupar as magistraturas. O pobre plebeu comum seguia sem influência real. Além disso, todas essas conquistas conviviam com uma base crescente de **escravos**, sem direito algum. A "República" era, na prática, uma **oligarquia** — o governo de poucos, ainda que com participação popular formal.
+:::
+
+## A expansão e as Guerras Púnicas {#sec-guerras-punicas}
+
+Enquanto resolvia seus conflitos internos, Roma **expandia-se**. Primeiro dominou toda a península Itálica (até c. 270 a.C.), integrando os povos vizinhos por meio de conquistas e alianças e concedendo — com inteligência política — graus variados de cidadania aos vencidos. Depois, lançou-se ao Mediterrâneo, onde encontrou sua grande rival: **Cartago**, poderosa cidade comercial fenícia no norte da África (atual Tunísia), que dominava o mar. O choque foi inevitável e resultou nas três **Guerras Púnicas** (*punicus* = fenício), entre 264 e 146 a.C.
+
+Na **Primeira** (264–241 a.C.), Roma tomou a Sicília e construiu sua primeira grande frota. A **Segunda** (218–201 a.C.) foi a mais dramática: o genial general cartaginês **Aníbal** cruzou os Alpes com elefantes de guerra e infligiu a Roma derrotas terríveis, como a de **Canas** (216 a.C.); mesmo assim, Roma resistiu e, sob o comando de Cipião, venceu Aníbal na África, em Zama (202 a.C.). Na **Terceira** (149–146 a.C.), Roma destruiu completamente Cartago, arrasando a cidade. Vitoriosa, Roma tornou-se **senhora do Mediterrâneo**, conquistando em seguida a Grécia, a Macedônia, a Hispânia e vastos territórios no Oriente. O Mediterrâneo virou um "lago romano", o *Mare Nostrum* ("nosso mar").
+
+## A crise da República {#sec-crise-republica}
+
+Paradoxalmente, foi a **vitória** que minou a República. A expansão trouxe consequências sociais profundas e desestabilizadoras (@fig-crise-republica). As conquistas despejaram em Roma uma **massa gigantesca de escravos**, que passaram a trabalhar nos grandes latifúndios (os *latifundia*) da aristocracia. O **pequeno agricultor** plebeu, que servira longos anos no exército, voltava e não conseguia competir com a produção escrava barata; endividado, vendia suas terras aos ricos e migrava para a cidade, engrossando uma multidão de **desempregados pobres** (a plebe urbana). Formou-se assim um quadro explosivo: de um lado, a concentração de terras e riquezas; de outro, uma massa empobrecida e revoltada, além dos escravos, que se rebelavam (a mais famosa revolta foi a de **Espártaco**, 73–71 a.C.).
+
+Foi nesse cenário que os irmãos **Tibério** e **Caio Graco** (tribunos da plebe, entre 133 e 121 a.C.) tentaram uma **reforma agrária** para redistribuir terras aos pobres — e foram assassinados pela reação da elite senatorial. Sua morte inaugurou um século de **violência política**, guerras civis e ascensão de **generais** que, apoiados em exércitos leais a eles (e não à República), disputaram o poder: **Mário e Sila**, depois **Pompeu, Crasso e Júlio César**. As instituições republicanas, feitas para uma cidade-Estado, já não davam conta de governar um **império**. A "coisa pública" caminhava para o governo de um homem só — o que será o tema do próximo capítulo.
+
+::: {#fig-crise-republica}
+
+```{.tikz}
+%%| filename: fig-crise-republica
+%%| alt: Fluxograma de causas e consequências da crise da República Romana, das conquistas às guerras civis.
+\begin{tikzpicture}[>=stealth, node distance=0.4cm]
+  \node[draw, fill=manualblue!15, align=center, font=\scriptsize, minimum width=3.4cm] (conq) at (0,3) {\textbf{Expansão / conquistas}\\(Guerras Púnicas)};
+  \node[draw, fill=manualgreen!15, align=center, font=\scriptsize, minimum width=3.4cm] (esc) at (0,1.6) {massa de \textbf{escravos} +\\\textbf{latifúndios}};
+  \node[draw, fill=manualyellow!20, align=center, font=\scriptsize, minimum width=3.4cm] (camp) at (0,0.2) {ruína do \textbf{pequeno agricultor}\\$\rightarrow$ plebe urbana pobre};
+  \node[draw, fill=manualred!18, align=center, font=\scriptsize, minimum width=3.4cm] (crise) at (5,1.6) {\textbf{Conflitos sociais}\\(Gracos, Espártaco)};
+  \node[draw, fill=manualred!25, align=center, font=\scriptsize, minimum width=3.4cm] (guerra) at (5,0.2) {\textbf{Guerras civis} e\\ascensão de generais};
+  \draw[vetor] (conq) -- (esc);
+  \draw[vetor] (esc) -- (camp);
+  \draw[vetor] (camp) -- (crise);
+  \draw[vetor] (crise) -- (guerra);
+\end{tikzpicture}
+```
+
+Como a expansão gerou a crise: escravismo e latifúndio arruinaram o campesinato, gerando conflitos sociais e guerras civis.
+:::
+
+## 🔎 Historiografia em Foco {#sec-historiografia-republica}
+
+Por que a República Romana, tão admirada por seu equilíbrio, entrou em colapso? O debate atravessa a história do pensamento político.
+
+**A leitura "moral": a decadência dos costumes.** Já os próprios romanos — como o historiador Salústio, no século I a.C. — explicavam a crise como uma **decadência moral**. Enquanto Roma era pobre e ameaçada, seus cidadãos teriam sido virtuosos, austeros e devotados ao bem comum; a riqueza trazida pelas conquistas os teria corrompido, semeando ambição, luxo e egoísmo, que destruíram a República por dentro. Essa interpretação **moralizante** foi enormemente influente e sobrevive no senso comum ("Roma caiu pela decadência").
+
+**A leitura "estrutural": as contradições sociais.** Historiadores modernos, sobretudo os de inspiração **marxista** e da história social (como Perry Anderson, @anderson1994), deslocam a explicação da moral para a **estrutura econômica e social**. A crise não teria sido causada pela perda de virtude, e sim pelas **contradições materiais** geradas pela expansão: a concentração de terras (latifúndio), a escravidão em massa, a ruína do campesinato livre e a formação de uma plebe urbana miserável. Some-se a isso um **descompasso institucional**: as instituições de uma cidade-Estado eram incapazes de administrar um vasto império. A luta pela reforma agrária dos Gracos e as guerras civis seriam a expressão política dessas tensões estruturais.
+
+**Por que as interpretações divergem?** Porque partem de **concepções diferentes do que move a história**: a leitura moral vê os valores e o caráter dos indivíduos como motor central; a estrutural busca as causas nas **relações econômicas e sociais**, tratando a "decadência dos costumes" mais como um **sintoma** do que como uma causa. Note como esse debate ecoa o do capítulo sobre o modo de produção asiático (@sec-modo-de-producao-asiatico): mais uma vez, a boa História desconfia das explicações de **fator único** — nem só moral, nem só economia — e busca articular processos sociais, econômicos, políticos e culturais. A crise da República não teve uma causa, mas um **feixe de causas** entrelaçadas.
+
+## Resumo do capítulo {#sec-resumo-republica}
+
+- Roma nasceu (lenda: **753 a.C.**, Rômulo e Remo) da fusão de aldeias no **Lácio**, à beira do **Tibre**, influenciada por **etruscos** e **gregos**; sua história divide-se em **Monarquia** (753–509 a.C.), **República** (509–27 a.C.) e **Império** (27 a.C.–476 d.C.).
+- Na **Monarquia**, sete reis governaram, limitados pelo **Senado**; já existia a divisão entre **patrícios** (aristocracia com direitos) e **plebeus** (maioria livre sem direitos políticos). Em 509 a.C., os patrícios expulsaram o último rei e proclamaram a **República**.
+- A **República** foi um sistema de **poderes divididos e mandatos temporários**: **magistraturas** (cônsules etc., eletivas, anuais, colegiadas; ditador só por 6 meses), **Senado** (permanente e mais poderoso) e **assembleias**. Políbio a descreveu como **"constituição mista"** (equilíbrio de poderes).
+- A **luta entre patrícios e plebeus** (séculos V–III a.C.), com as **secessões**, conquistou os **tribunos da plebe** (e o *veto*), a **Lei das Doze Tábuas** (direito escrito), o casamento misto, o acesso às magistraturas e o fim da escravidão por dívida — mas o poder real ficou com uma nova elite, a **nobilitas** (oligarquia).
+- A **expansão** (domínio da Itália e as três **Guerras Púnicas** contra **Cartago**, 264–146 a.C., com **Aníbal**) fez de Roma senhora do Mediterrâneo (*Mare Nostrum*).
+- A vitória gerou a **crise da República**: escravismo em massa, **latifúndios**, ruína do pequeno agricultor, plebe urbana pobre, revoltas (Gracos, Espártaco) e **guerras civis** entre generais — abrindo caminho ao Império.
+- A historiografia debate a causa da crise: a leitura **moral** (decadência dos costumes) e a **estrutural** (contradições sociais e econômicas; descompasso institucional).
+
+## Exercícios {#sec-exercicios-republica}
+
+**1.** Distinga **lenda** e **história** na fundação de Roma.
+
+::: {.callout-tip collapse="true" title="Solução"}
+A **lenda** atribui a fundação de Roma, em **753 a.C.**, aos gêmeos **Rômulo e Remo**, filhos do deus Marte, amamentados por uma loba — narrativa mítica que dava a Roma uma origem divina e gloriosa. A **história**, baseada na arqueologia, mostra que Roma surgiu da **fusão de pequenas aldeias** de pastores e agricultores nas colinas às margens do **Tibre**, na região do **Lácio**, num ponto estratégico de comércio, sofrendo forte influência dos **etruscos** (ao norte) e dos **gregos** (ao sul). A lenda tem valor como fonte sobre os **valores** que os romanos atribuíam a si mesmos, mas não como relato factual da fundação.
+:::
+
+**2.** Explique por que a República foi organizada com **magistraturas temporárias e colegiadas** e o que era o cargo de **ditador**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+As magistraturas eram **temporárias** (mandatos curtos, em geral de um ano) e **colegiadas** (exercidas por mais de uma pessoa, que podiam vetar-se) justamente para **impedir a concentração de poder** e o retorno da **tirania** de um rei, experiência que os romanos haviam rejeitado em 509 a.C. Assim, nenhum indivíduo permaneceria muito tempo no poder nem governaria sozinho. O **ditador** era uma exceção: em situações de **emergência** (guerra grave), nomeava-se um único homem com poderes absolutos — mas por prazo **máximo de seis meses**, findo o qual devia deixar o cargo.
+:::
+
+**3.** O que Políbio quis dizer ao chamar a República Romana de **"constituição mista"**?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Políbio observou que a República combinava, de forma **equilibrada**, os três princípios de governo que os gregos distinguiam: o **monárquico**, representado pelos **cônsules** (o comando de um); o **aristocrático**, representado pelo **Senado** (o governo dos melhores/mais experientes); e o **democrático**, representado pelas **assembleias populares** (o poder do povo). Para ele, era esse **equilíbrio** — em que cada poder controlava e limitava os outros — que dava a Roma sua notável **estabilidade** e força. Essa análise inspiraria, séculos depois, a ideia moderna de **separação de poderes**.
+:::
+
+**4.** Descreva três conquistas dos **plebeus** na luta contra os patrícios e explique a tática das **secessões**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Conquistas (bastam três): os **tribunos da plebe** (magistrados invioláveis que defendiam os plebeus e podiam **vetar** decisões — origem do *veto*); a **Lei das Doze Tábuas** (primeira codificação **escrita** do direito, fim do monopólio patrício sobre as leis); o direito ao **casamento** entre patrícios e plebeus; o acesso ao **consulado** e às magistraturas; o fim da **escravidão por dívida**. A tática das **secessões** era uma espécie de "greve": em momentos decisivos, os plebeus — que formavam o **exército** — **retiravam-se** da cidade e recusavam-se a lutar, paralisando Roma e forçando os patrícios a fazer concessões. Era o uso da sua indispensabilidade militar como arma política.
+:::
+
+**5.** Explique como a **expansão** de Roma (as Guerras Púnicas e conquistas) gerou a **crise da República**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+As conquistas trouxeram uma **massa enorme de escravos**, empregados nos grandes **latifúndios** da aristocracia. A produção escrava barata **arruinou o pequeno agricultor** plebeu, que, endividado após longos anos de serviço militar, vendia suas terras aos ricos e migrava para a cidade, formando uma **plebe urbana pobre e desempregada**. O resultado foi a **concentração de terras e riqueza** de um lado e a **miséria** de outro, gerando **conflitos sociais** (a reforma agrária dos **Gracos**, a revolta de escravos de **Espártaco**) e, por fim, **guerras civis** entre generais apoiados em exércitos pessoais. As instituições de uma cidade-Estado não davam conta de governar um império — daí a crise que levaria ao fim da República.
+:::
+
+**6.** (Estilo ENEM) Leia o texto.
+
+> Enquanto Roma foi pobre e cercada de inimigos, seus cidadãos foram austeros e devotados ao bem comum. Vieram então as conquistas e, com elas, a riqueza, o luxo e a ambição, que corromperam os costumes e arruinaram a República.
+
+A explicação para a crise da República apresentada no texto pode ser classificada como
+
+**(a)** estrutural, pois atribui a crise às contradições econômicas do escravismo.
+**(b)** moral, pois atribui a crise à decadência dos costumes provocada pela riqueza.
+**(c)** institucional, pois atribui a crise à inadequação das magistraturas.
+**(d)** militar, pois atribui a crise às derrotas nas Guerras Púnicas.
+**(e)** religiosa, pois atribui a crise ao abandono dos deuses romanos.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (b).** O texto explica a crise pela **decadência dos costumes**: a riqueza trazida pelas conquistas teria corrompido a virtude e a austeridade dos cidadãos, arruinando a República — é a interpretação **moral** (moralizante), típica de autores antigos como Salústio. Ela se distingue da leitura **estrutural** (a), que busca as causas nas contradições econômicas e sociais (latifúndio, escravismo, ruína do campesinato). As demais alternativas (c, d, e) não correspondem ao argumento do texto.
+:::
+
+**7.** (Estilo vestibular — dissertativa) Compare as explicações **moral** e **estrutural** para a crise da República Romana, indicando os limites de se explicar um processo histórico por um **fator único**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Resposta esperada. A explicação **moral** (defendida por romanos como Salústio e ainda presente no senso comum) atribui a crise à **decadência dos costumes**: a riqueza das conquistas teria corrompido a virtude cívica, gerando ambição e egoísmo. A explicação **estrutural** (historiadores modernos, de inspiração social e marxista) busca as causas nas **contradições materiais** da expansão: concentração de terras (latifúndio), escravidão em massa, ruína do pequeno agricultor, plebe urbana miserável e o **descompasso** entre instituições de cidade-Estado e a administração de um império. Uma boa resposta observa que **explicar por fator único** é sempre arriscado: a leitura puramente moral trata como *causa* aquilo que talvez seja *sintoma* (a mudança de costumes decorre de novas condições materiais); a puramente econômica pode negligenciar a dimensão política e cultural. O mais consistente é articular os diversos processos — sociais, econômicos, políticos e culturais —, entendendo a crise como um **feixe de causas** entrelaçadas.
+:::
+
+## Para saber mais {#sec-para-saber-mais-republica}
+
+**Livros**
+
+- FUNARI, Pedro Paulo. *Grécia e Roma* [@funari2002]. Boa síntese introdutória da história romana, atenta aos debates atuais.
+- GRIMAL, Pierre. *A civilização romana* [@grimal2009]. Panorama abrangente das instituições, da sociedade e da cultura de Roma.
+- POLÍBIO. *História* [@polibio1996]. A fonte antiga que analisou a "constituição mista" e a ascensão de Roma.
+
+**Filmes e documentários**
+
+- *Espártaco* (1960), de Stanley Kubrick, dramatiza a grande revolta de escravos do fim da República.
+- Documentários sobre as **Guerras Púnicas** e sobre **Aníbal** ajudam a visualizar a travessia dos Alpes e o embate entre Roma e Cartago.

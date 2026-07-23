@@ -1,5 +1,162 @@
 # Cultura, filosofia e religião gregas {#sec-cultura-grega}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Quando você usa as palavras *filosofia*, *teatro*, *política*, *matemática*, *história* ou *democracia*, está falando grego — literalmente. Boa parte do vocabulário com que o Ocidente pensa a si mesmo nasceu na Grécia antiga. Foi lá que, pela primeira vez de que temos registro, alguns homens deixaram de explicar o mundo apenas pelos mitos e pela vontade dos deuses e começaram a buscar explicações **racionais**, baseadas em argumentos e na observação. A esse deslocamento — do **mito** (*mythos*) para a **razão** (*logos*) — costuma-se dar o nome de "nascimento da filosofia". Mas seria um erro imaginar que os gregos abandonaram os deuses: a religião permeava tudo, dos Jogos Olímpicos ao teatro, das assembleias às guerras. Este capítulo percorre a **cultura grega**: sua religião e mitologia, o surgimento da filosofia, os grandes pensadores, o teatro, as artes e as ciências — e o modo como esse legado chegou até nós.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- caracterizar a **religião** e a **mitologia** gregas e seu papel na vida da pólis;
+- explicar a passagem do **mito ao logos** e o nascimento da **filosofia**;
+- distinguir as contribuições dos **pré-socráticos**, dos **sofistas** e de **Sócrates, Platão e Aristóteles**;
+- reconhecer a importância do **teatro** grego (tragédia e comédia) e das artes e ciências;
+- discutir criticamente a ideia de "milagre grego" e as dívidas da Grécia com o Oriente.
 :::
+
+## Deuses humanos: religião e mito {#sec-religiao-grega}
+
+A religião grega era **politeísta** e **antropomórfica**: seus deuses tinham forma humana e, mais ainda, **paixões humanas** — ciúme, raiva, amor, vaidade. Diferentemente do Deus único e transcendente dos hebreus (@sec-hebreus), os deuses gregos do **Olimpo** — Zeus, Hera, Atena, Apolo, Afrodite, Poseidon e tantos outros — eram imortais e poderosos, mas mesquinhos e falíveis, envolvendo-se nas disputas dos mortais. Não havia um livro sagrado nem um clero organizado como dogma: a religião era um conjunto de **cultos, rituais, festas e mitos** compartilhados.
+
+O **mito** (*mythos*) não era "mentira", mas uma forma de explicar o mundo, a origem das coisas, os fenômenos naturais e os valores da comunidade por meio de narrativas. Os poemas de **Homero** (*Ilíada* e *Odisseia*, @homero2013) e de Hesíodo (*Teogonia*) funcionavam quase como uma "escritura" comum a todos os gregos, transmitindo modelos de conduta, heroísmo e relação com o sagrado. A religião era também profundamente **cívica**: cada pólis tinha seus deuses protetores (Atena em Atenas), seus templos e festivais, e participar dos cultos fazia parte de ser cidadão. Havia ainda os **oráculos** (como o de Delfos, onde a sacerdotisa Pítia transmitia mensagens de Apolo), os **Jogos Olímpicos** — na origem, uma festa religiosa — e os **mistérios** (cultos iniciáticos que prometiam salvação, como os de Elêusis).
+
+## Do mito ao logos: o nascimento da filosofia {#sec-nascimento-filosofia}
+
+Por volta do século VI a.C., nas prósperas cidades gregas da **Jônia** (na Ásia Menor, em contato com as civilizações do Oriente), alguns homens começaram a fazer uma pergunta nova: de que é feito o mundo, e como ele funciona — não segundo os deuses, mas segundo uma **ordem natural** que a razão pudesse compreender? Esse é o gesto fundador da **filosofia**.
+
+::: {.callout-note title="Conceito-chave: do mito (mythos) ao logos"}
+A expressão "**do mito ao logos**" descreve a passagem de uma explicação do mundo baseada em **narrativas sobre os deuses** (o *mythos*) para uma explicação baseada na **razão, no argumento e na observação** (o *logos*). Não se trata de um abandono súbito nem total da religião — os filósofos continuavam vivendo num mundo repleto de deuses —, mas do surgimento de uma **nova atitude**: buscar causas naturais e coerência lógica, sujeitas ao debate e à crítica. O historiador **Jean-Pierre Vernant** [@vernant2002] mostrou que essa novidade não caiu do céu: nasceu junto com a **pólis**, onde o hábito da discussão pública entre iguais, na ágora, ensinou os gregos a argumentar, contestar e buscar razões.
+:::
+
+Os primeiros filósofos, os **pré-socráticos**, buscavam o *arché*: o princípio ou elemento originário de todas as coisas. **Tales de Mileto** apontou a água; **Anaximandro**, um princípio indefinido (o *ápeiron*); **Heráclito** afirmou que tudo flui e muda ("não se banha duas vezes no mesmo rio"); **Parmênides**, ao contrário, sustentou que o ser é imutável; **Pitágoras** viu na **matemática** e nos números a chave do cosmos; **Demócrito** propôs que tudo é feito de partículas minúsculas e indivisíveis, os **átomos** — uma intuição espantosa. O que todos têm em comum não são as respostas (muito diferentes), mas o **método**: procurar explicações racionais e debatê-las.
+
+## Sócrates, Platão e Aristóteles {#sec-socrates-platao-aristoteles}
+
+No século V a.C., em Atenas, a filosofia deslocou-se da natureza para o **ser humano**, a **ética** e a **política**. Nesse cenário atuavam os **sofistas** — mestres itinerantes que, mediante pagamento, ensinavam a **retórica** (a arte de argumentar e convencer), habilidade valiosíssima numa democracia onde tudo se decidia pela persuasão na assembleia e nos tribunais. Alguns sofistas, como Protágoras ("o homem é a medida de todas as coisas"), defendiam certo **relativismo**: a verdade dependeria de cada um. Foi contra esse relativismo que se ergueu a maior figura da filosofia ateniense (@fig-filosofos-gregos).
+
+**Sócrates (c. 469–399 a.C.)** nada escreveu; conhecemo-lo pelos diálogos de seu discípulo Platão. Percorria a ágora questionando as pessoas sobre o que julgavam saber (o que é a justiça? a coragem? a virtude?), mostrando, pelo diálogo, que muitas vezes **não sabiam** — método que chamava de **maiêutica** ("parto das ideias"). Sua célebre frase, "**só sei que nada sei**", exprime essa humildade investigativa. Buscava verdades **universais**, contra o relativismo dos sofistas. Incomodou o poder e foi acusado de corromper a juventude e desrespeitar os deuses da cidade; condenado à morte, bebeu cicuta em 399 a.C., tornando-se símbolo do pensador fiel às suas convicções.
+
+**Platão (c. 428–347 a.C.)**, discípulo de Sócrates, fundou a **Academia** e desenvolveu a **teoria das ideias** (ou das formas): o mundo sensível que percebemos seria apenas uma cópia imperfeita de um mundo superior e eterno de **ideias** perfeitas — a Ideia de justiça, de beleza, de bem. É o que ilustra o famoso **"mito da caverna"** (na obra *A República*, @platao2006): prisioneiros acorrentados numa caverna tomam as sombras projetadas na parede pela realidade, até que um deles se liberta e descobre o mundo verdadeiro lá fora. Na política, Platão desconfiava da democracia (que condenara seu mestre) e defendia o governo dos mais sábios, os **reis-filósofos**.
+
+**Aristóteles (384–322 a.C.)**, discípulo de Platão e mestre de Alexandre, fundou o **Liceu** e foi talvez a mente mais enciclopédica da Antiguidade: escreveu sobre lógica, física, biologia, ética, política, retórica e poética. Diferentemente de Platão, valorizava a **observação do mundo concreto** e a experiência — não há um mundo das ideias separado; a essência das coisas está **nelas mesmas**. Sistematizou a **lógica** (as regras do raciocínio válido) e, na *Política* [@aristoteles1998], analisou comparativamente as formas de governo, definindo o ser humano como "animal político". Seu pensamento influenciaria decisivamente a filosofia e a ciência por mais de dois mil anos.
+
+::: {#fig-filosofos-gregos}
+
+```{.tikz}
+%%| filename: fig-filosofos-gregos
+%%| alt: Genealogia intelectual dos filósofos gregos, dos pré-socráticos e sofistas a Sócrates, Platão e Aristóteles.
+\begin{tikzpicture}[>=stealth, node distance=0.5cm]
+  \node[draw, fill=manualgray!15, align=center, font=\scriptsize, minimum width=3cm] (pre) at (0,3) {\textbf{Pré-socráticos}\\(natureza, \textit{arché})\\Tales, Heráclito...};
+  \node[draw, fill=manualyellow!20, align=center, font=\scriptsize, minimum width=3cm] (sof) at (4.5,3) {\textbf{Sofistas}\\(retórica, relativismo)\\Protágoras...};
+  \node[draw, fill=manualblue!20, align=center, font=\scriptsize, minimum width=2.6cm] (soc) at (2.25,1.5) {\textbf{Sócrates}\\maiêutica; verdade\\universal};
+  \node[draw, fill=manualblue!20, align=center, font=\scriptsize, minimum width=2.6cm] (pla) at (0,0) {\textbf{Platão}\\teoria das ideias\\Academia};
+  \node[draw, fill=manualblue!20, align=center, font=\scriptsize, minimum width=2.6cm] (ari) at (4.5,0) {\textbf{Aristóteles}\\observação, lógica\\Liceu};
+  \draw[vetor] (soc) -- (pla);
+  \draw[vetor] (pla) -- (ari);
+  \draw[vetor, manualred] (sof) -- (soc) node[midway, right, font=\scriptsize, black] {contesta};
+\end{tikzpicture}
+```
+
+A linhagem da filosofia clássica: Sócrates reage ao relativismo dos sofistas; Platão é discípulo de Sócrates; Aristóteles, de Platão.
+:::
+
+## Teatro, artes e ciências {#sec-teatro-artes-ciencias}
+
+O **teatro** nasceu na Grécia, ligado às festas do deus **Dioniso**, e tornou-se instituição cívica: assistir às peças, nos grandes anfiteatros a céu aberto, era um ato coletivo e educativo, financiado pela cidade. Dois gêneros se destacaram. A **tragédia** — de **Ésquilo**, **Sófocles** (autor de *Édipo Rei* e *Antígona*) e **Eurípides** — encenava heróis diante de dilemas morais, do destino e dos deuses, provocando no público a *catarse* (purificação das emoções) e a reflexão sobre a justiça, o poder e a condição humana. A **comédia** — de **Aristófanes** — satirizava políticos, filósofos e os próprios costumes da cidade, exercendo uma espécie de crítica pública bem-humorada, possível numa democracia.
+
+Nas **artes plásticas** e na **arquitetura**, os gregos buscaram o **equilíbrio, a proporção e a harmonia**, tomando o corpo humano como medida da beleza. A escultura evoluiu da rigidez arcaica ao naturalismo idealizado do período clássico (Fídias, Míron, Policleto); os templos, como o **Partenon**, obedeciam a cânones matemáticos e às ordens arquitetônicas (dórica, jônica, coríntia). Na **ciência**, além da filosofia natural, os gregos e, sobretudo, o mundo helenístico produziram avanços notáveis: a **geometria** de Euclides, as descobertas de **Arquimedes** em física e matemática, a medicina de **Hipócrates** (que separou a doença de causas mágicas e é lembrado no juramento médico), a história crítica de **Heródoto** (@herodoto2006) e **Tucídides**.
+
+::: {.callout-important title="Não confunda: mito não é 'ignorância'"}
+É tentador — mas errado — imaginar que os gregos "primitivos" acreditavam em mitos e os "avançados" passaram a usar a razão, como se o mito fosse pura ignorância superada. Cuidado com esse **preconceito evolucionista**. O mito era uma forma sofisticada de organizar a experiência, transmitir valores e dar sentido ao mundo — e conviveu com a filosofia durante toda a Antiguidade (Platão, aliás, inventava mitos, como o da caverna, para ensinar). Razão e mito não são "atraso" e "progresso", mas **modos diferentes** de pensar, que coexistiram e dialogaram.
+:::
+
+## 🔎 Historiografia em Foco {#sec-historiografia-cultura-grega}
+
+A grande questão historiográfica deste capítulo é a do **"milagre grego"**: teria a filosofia e a razão surgido do nada, como um dom exclusivo do gênio grego?
+
+**A tese do "milagre grego".** Uma tradição influente, sobretudo no século XIX e início do XX, apresentava a Grécia como um **prodígio isolado**: um povo singularmente dotado que, sozinho, teria inventado a razão, a ciência, a arte perfeita e a liberdade, dando origem à "civilização ocidental". Nessa visão, a filosofia grega seria uma ruptura absoluta com todo o "Oriente místico" que a precedeu, e a Grécia, a infância gloriosa e autônoma da Europa.
+
+**A crítica: a Grécia devedora do Oriente.** Historiadores mais recentes desmontaram esse isolamento. Mostraram que os gregos **aprenderam muito** com as civilizações mais antigas do Oriente Próximo e do Egito: a escrita alfabética veio dos **fenícios**; a matemática e a astronomia deviam muito à **Babilônia** e ao **Egito**; a geometria, à agrimensura egípcia. Não por acaso, a filosofia nasceu na **Jônia**, região de intenso **contato** com o Oriente. Jean-Pierre Vernant [@vernant2002], por sua vez, mostrou que o surgimento do *logos* não foi um milagre inexplicável, mas um processo **histórico e social**, ligado à formação da **pólis** e ao hábito do debate público. O que os gregos tiveram de original não foi criar tudo do zero, mas **transformar** heranças diversas numa nova atitude crítica e argumentativa.
+
+**Por que o debate importa?** Porque a ideia de "milagre grego" carrega uma carga ideológica: ao apresentar a razão como invenção exclusiva e autônoma dos gregos-europeus, ela reforça uma hierarquia entre um Ocidente "racional" e um Oriente "místico" — o mesmo **eurocentrismo** que discutimos a propósito do orientalismo (@sec-modo-de-producao-asiatico). Reconhecer as **dívidas** da Grécia com o Egito, a Fenícia e a Babilônia não diminui sua grandeza: torna a história mais **verdadeira** e mostra que as grandes conquistas culturais nascem quase sempre do **encontro** e da troca entre povos, não do gênio isolado de um só.
+
+## Resumo do capítulo {#sec-resumo-cultura-grega}
+
+- A **religião grega** era **politeísta** e **antropomórfica** (deuses do Olimpo com paixões humanas), sem livro sagrado nem dogma; era profundamente **cívica** (deuses protetores, festas, oráculos, Jogos, mistérios). O **mito** era uma forma de explicar o mundo e transmitir valores, não "ignorância".
+- Por volta do século VI a.C., na **Jônia**, deu-se a passagem "**do mito ao logos**": o nascimento da **filosofia**, que busca explicações **racionais** e argumentadas. Vernant liga essa novidade à formação da **pólis** e ao debate público.
+- Os **pré-socráticos** buscaram o *arché* (Tales, Heráclito, Parmênides, Pitágoras, Demócrito e os átomos); os **sofistas** ensinavam **retórica** e defendiam certo **relativismo**.
+- **Sócrates** (maiêutica; verdade universal; "só sei que nada sei"; condenado à morte), **Platão** (teoria das ideias; mito da caverna; reis-filósofos) e **Aristóteles** (observação, lógica, análise das formas de governo) formam a linhagem central da filosofia clássica.
+- O **teatro** (tragédia e comédia), as **artes** (equilíbrio e proporção; o Partenon) e as **ciências** (Euclides, Arquimedes, Hipócrates, Heródoto) compõem o legado cultural grego.
+- A historiografia critica a ideia de **"milagre grego"**: a filosofia não surgiu do nada, mas de um processo histórico e do **contato** com o Oriente (escrita fenícia, matemática babilônica e egípcia). Negar essas dívidas é **eurocentrismo**.
+
+## Exercícios {#sec-exercicios-cultura-grega}
+
+**1.** Caracterize a religião grega quanto a três aspectos: número de deuses, forma dos deuses e relação com a pólis.
+
+::: {.callout-tip collapse="true" title="Solução"}
+A religião grega era **politeísta** (muitos deuses, os do Olimpo: Zeus, Atena, Apolo etc.); **antropomórfica** (os deuses tinham forma e paixões **humanas** — ciúme, raiva, amor —, sendo imortais e poderosos, mas falíveis); e profundamente **cívica** (cada pólis tinha seus deuses protetores, templos e festivais, e participar dos cultos fazia parte de ser cidadão). Não havia livro sagrado único nem clero dogmático: a religião era um conjunto de cultos, rituais, festas, mitos e oráculos compartilhados.
+:::
+
+**2.** Explique a expressão "**do mito ao logos**". Ela significa que os gregos abandonaram completamente a religião?
+
+::: {.callout-tip collapse="true" title="Solução"}
+"**Do mito ao logos**" designa a passagem de uma explicação do mundo baseada em **narrativas sobre os deuses** (*mythos*) para uma explicação baseada na **razão, no argumento e na observação** (*logos*) — o gesto que funda a filosofia. **Não** significa que os gregos abandonaram a religião: eles continuaram vivendo num mundo cheio de deuses, cultos e mitos (o próprio Platão criava mitos para ensinar). Trata-se do surgimento de uma **nova atitude** — buscar causas naturais e coerência lógica, sujeitas ao debate —, que **conviveu** com o pensamento mítico, e não de sua substituição total.
+:::
+
+**3.** Diferencie o método e os objetivos de **Sócrates** dos **sofistas**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Os **sofistas** eram mestres pagos que ensinavam a **retórica** (arte de persuadir), habilidade útil na democracia; alguns defendiam o **relativismo** (a verdade depende de cada um — "o homem é a medida de todas as coisas"). **Sócrates**, ao contrário, buscava **verdades universais** (o que é a justiça? a virtude?) e recusava o relativismo. Seu método era a **maiêutica**: pelo diálogo e por perguntas sucessivas, levava o interlocutor a perceber que **não sabia** o que julgava saber, "dando à luz" ideias mais consistentes. Não cobrava por isso e fazia da própria ignorância reconhecida ("só sei que nada sei") o ponto de partida.
+:::
+
+**4.** O que é a **teoria das ideias** de Platão? Relacione-a ao "mito da caverna".
+
+::: {.callout-tip collapse="true" title="Solução"}
+A **teoria das ideias** (ou das formas) sustenta que o mundo sensível que percebemos pelos sentidos é apenas uma **cópia imperfeita** de um mundo superior, eterno e perfeito de **ideias** (a Ideia de justiça, de beleza, de bem). O **mito da caverna** ilustra isso: prisioneiros acorrentados tomam as **sombras** projetadas na parede pela única realidade; quando um deles se liberta e sai, descobre o **mundo verdadeiro** iluminado pelo sol. As sombras representam o mundo sensível e ilusório; o mundo exterior, o das ideias, acessível pela razão e pela filosofia. É também uma alegoria do papel do filósofo, que se liberta da ignorância e tenta esclarecer os demais.
+:::
+
+**5.** Qual foi a principal diferença de método entre **Platão** e **Aristóteles**?
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Platão** valorizava o **mundo das ideias** — a verdadeira realidade estaria num plano superior, perfeito e imutável, apreensível pela razão, sendo o mundo sensível apenas sua cópia imperfeita. **Aristóteles**, seu discípulo, deu mais peso à **observação do mundo concreto** e à experiência: para ele, não há um mundo das ideias separado; a **essência das coisas está nelas mesmas**. Por isso Aristóteles dedicou-se a observar e classificar a natureza (biologia, física), sistematizou a **lógica** e analisou empiricamente as formas de governo. Em resumo: Platão parte das ideias para o mundo; Aristóteles parte do mundo observado.
+:::
+
+**6.** (Estilo ENEM) Leia o texto.
+
+> A escrita alfabética que os gregos usaram veio dos fenícios; muito de sua matemática e astronomia tinha raízes na Babilônia e no Egito. Não por acaso, a filosofia surgiu primeiro nas cidades gregas da Jônia, em intenso contato com o Oriente.
+
+O texto contribui para **questionar** a ideia de que
+
+**(a)** a cultura grega influenciou a civilização ocidental.
+**(b)** a filosofia grega foi um "milagre" surgido de forma isolada e sem dívidas com outros povos.
+**(c)** os fenícios desenvolveram uma escrita alfabética.
+**(d)** havia comércio e trocas culturais no Mediterrâneo antigo.
+**(e)** a matemática e a astronomia se desenvolveram na Antiguidade.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (b).** Ao lembrar que os gregos herdaram a **escrita dos fenícios** e a **matemática e astronomia** da Babilônia e do Egito, e que a filosofia nasceu na Jônia (em contato com o Oriente), o texto **questiona** a tese do "milagre grego" — a ideia de que a razão e a filosofia teriam surgido de forma **isolada e autônoma**, sem dívidas com outros povos. As demais alternativas afirmam fatos que o texto **confirma** (a, c, d, e), e não questiona.
+:::
+
+**7.** (Estilo vestibular — dissertativa) Explique por que a noção de "milagre grego" é criticada pela historiografia atual e o que se ganha ao reconhecer as **dívidas** da Grécia com o Oriente.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Resposta esperada. A ideia de "**milagre grego**" apresenta a Grécia como um **prodígio isolado**, um povo que teria inventado sozinho a razão, a ciência e a arte, em ruptura absoluta com o "Oriente místico". A crítica historiográfica mostra que isso é **falso e ideológico**: os gregos herdaram a **escrita alfabética** dos fenícios, a **matemática e a astronomia** da Babilônia e do Egito, e a filosofia surgiu justamente na **Jônia**, em contato com o Oriente. Vernant, além disso, explica o *logos* como processo **histórico e social** ligado à **pólis** e ao debate público, não como milagre. **Reconhecer essas dívidas** torna a história mais verdadeira, combate o **eurocentrismo** (a hierarquia entre um Ocidente "racional" e um Oriente "místico") e mostra que as grandes conquistas culturais nascem do **encontro** e da troca entre povos. Isso não diminui a originalidade grega — que esteve em **transformar** essas heranças numa nova atitude crítica.
+:::
+
+**8.** Explique o papel do **teatro** na democracia ateniense, distinguindo tragédia e comédia.
+
+::: {.callout-tip collapse="true" title="Solução"}
+O **teatro** era uma **instituição cívica** ligada às festas de Dioniso: assistir às peças, nos anfiteatros públicos, era um ato **coletivo e educativo**, financiado pela cidade. A **tragédia** (Ésquilo, Sófocles, Eurípides) encenava heróis diante de dilemas morais, do destino e dos deuses, provocando a *catarse* e a reflexão sobre justiça, poder e a condição humana. A **comédia** (Aristófanes) **satirizava** políticos, filósofos e costumes, exercendo uma crítica pública bem-humorada. Em ambos os casos, o teatro estimulava o debate e a reflexão dos cidadãos — função coerente com uma **democracia** que se sustentava na discussão pública.
+:::
+
+## Para saber mais {#sec-para-saber-mais-cultura-grega}
+
+**Livros**
+
+- VERNANT, Jean-Pierre. *As origens do pensamento grego* [@vernant2002]. A referência sobre o nascimento da filosofia a partir da pólis.
+- PLATÃO. *A República* [@platao2006]. Onde estão o mito da caverna e a teoria das ideias — leia ao menos o Livro VII.
+- ARISTÓTELES. *Política* [@aristoteles1998]. A análise clássica das formas de governo e da vida na pólis.
+- FUNARI, Pedro Paulo. *Grécia e Roma* [@funari2002]. Panorama acessível da cultura clássica.
+
+**Filmes e documentários**
+
+- Encenações modernas de *Antígona* e *Édipo Rei* (Sófocles) mostram a força permanente da tragédia grega.
+- Documentários sobre **filosofia grega** e sobre a **mitologia** ajudam a fixar personagens e conceitos — sempre com atenção crítica à ideia de "milagre grego".

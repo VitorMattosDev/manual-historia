@@ -1,5 +1,184 @@
 # Esparta, as guerras e o mundo helenístico {#sec-esparta-helenismo}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Em 480 a.C., num desfiladeiro chamado **Termópilas**, cerca de trezentos guerreiros espartanos e alguns milhares de aliados barraram, por dias, o gigantesco exército do Império Persa. Todos morreram — mas a resistência entrou para a lenda e, mais de dois mil anos depois, ainda inspira filmes e quadrinhos. Esparta virou sinônimo de disciplina militar levada ao extremo, de coragem e de austeridade. Mas quem eram, de fato, os espartanos? E por que uma cidade tão diferente de Atenas — sem democracia, sem grandes filósofos, sem teatro — tornou-se a outra face da Grécia clássica? Este capítulo apresenta **Esparta** e sua sociedade militarizada, narra as **Guerras Médicas** (gregos contra persas) e a **Guerra do Peloponeso** (Atenas contra Esparta), e termina com a ascensão da **Macedônia** e a expansão de **Alexandre, o Grande**, que fundiu o mundo grego ao Oriente e inaugurou uma nova era: o **Helenismo**.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- caracterizar a sociedade e a organização política de **Esparta**, contrastando-a com Atenas;
+- explicar as causas, os episódios e os resultados das **Guerras Médicas**;
+- analisar a **Guerra do Peloponeso** como conflito que enfraqueceu as pólis gregas;
+- descrever a ascensão da **Macedônia** e as conquistas de **Alexandre**;
+- compreender o que foi o **Helenismo** e por que ele representa a fusão das culturas grega e oriental.
 :::
+
+## Esparta: uma cidade-quartel {#sec-esparta}
+
+Enquanto Atenas se voltava para o mar, o comércio e a democracia, **Esparta**, na península do **Peloponeso**, seguiu caminho oposto: tornou-se uma sociedade **fechada, agrária e militarizada**. A origem dessa escolha está numa conquista. Ao ocupar a fértil região da **Lacônia** e, depois, a vizinha **Messênia**, os espartanos submeteram populações inteiras à servidão. Para dominar uma massa de subjugados muito maior que eles próprios, transformaram-se num **povo de soldados** em permanente estado de alerta.
+
+A sociedade espartana dividia-se em três grupos rígidos e desiguais (@fig-sociedade-esparta):
+
+- Os **espartanos** (ou *homoioi*, "iguais") eram a minoria dominante: cidadãos-soldados de plenos direitos, proprietários da terra, dedicados exclusivamente à guerra e à política.
+- Os **periecos** eram homens livres, porém sem direitos políticos: comerciantes e artesãos que habitavam a periferia e sustentavam a economia, servindo também no exército.
+- Os **hilotas** formavam a base e a maioria: servos do Estado, presos à terra, obrigados a cultivá-la e a entregar parte da produção aos espartanos. Não eram exatamente escravos privados, mas propriedade coletiva da pólis, submetidos a uma dominação brutal — periodicamente aterrorizados para que não se revoltassem.
+
+::: {#fig-sociedade-esparta}
+
+```{.tikz}
+%%| filename: fig-sociedade-esparta
+%%| alt: Pirâmide social de Esparta com espartanos no topo, periecos no meio e hilotas na base majoritária.
+\begin{tikzpicture}
+  \draw[thick] (0,4) -- (-3.2,0) -- (3.2,0) -- cycle;
+  \draw[thick] (-0.9,1.125) -- (0.9,1.125);
+  \draw[thick] (-1.75,2.5) -- (1.75,2.5);
+  \node[align=center, font=\scriptsize] at (0,3.15) {\textbf{ESPARTANOS}\\(\textit{homoioi})\\cidadãos-soldados};
+  \node[align=center, font=\scriptsize] at (0,1.75) {\textbf{PERIECOS}\\livres, sem direitos políticos};
+  \node[align=center, font=\scriptsize] at (0,0.5) {\textbf{HILOTAS} — servos do Estado (maioria)};
+\end{tikzpicture}
+```
+
+A rígida estrutura social espartana: uma pequena elite de guerreiros dominava a massa de hilotas.
+:::
+
+A vida do espartano pertencia ao Estado desde o nascimento. Bebês considerados fracos podiam ser abandonados; aos sete anos, os meninos deixavam a família para a **agogé**, uma educação coletiva dura, voltada à obediência, à resistência à dor e à guerra. As **mulheres espartanas**, por sua vez, tinham posição incomum no mundo grego: praticavam exercícios físicos, herdavam e administravam terras e gozavam de maior liberdade que as atenienses — não por feminismo, mas porque cabia a elas gerar filhos fortes e cuidar do patrimônio enquanto os homens guerreavam.
+
+Politicamente, Esparta era uma **oligarquia** (governo de poucos), com uma engenhosa mistura de instituições: **dois reis** simultâneos (função sobretudo militar e religiosa), um conselho de anciãos (a **Gerúsia**), uma assembleia de cidadãos (a **Ápela**) e cinco **éforos**, magistrados que fiscalizavam até os reis. Essa "**constituição mista**" — combinando elementos monárquicos, aristocráticos e populares — seria mais tarde admirada por pensadores como **Políbio** [@polibio1996], que a via como fonte de estabilidade.
+
+::: {.callout-warning title="Cuidado com o 'mito espartano'"}
+Boa parte do que "sabemos" sobre Esparta vem de autores **de fora** (muitos atenienses) e de épocas posteriores, que a idealizaram como modelo de virtude e disciplina — o chamado **"miragem espartana"**. Regimes autoritários modernos, inclusive o nazismo, exploraram essa imagem. O historiador deve desconfiar: Esparta real era menos "perfeita" e mais violenta do que a lenda, sustentada no terror sistemático contra os hilotas. Admirar a coragem das Termópilas não deve nos cegar para a opressão que estruturava aquela sociedade.
+:::
+
+## As Guerras Médicas: gregos contra persas {#sec-guerras-medicas}
+
+No início do século V a.C., o gigantesco **Império Persa** (o "medo", na linguagem grega, daí *guerras médicas*), que você conheceu no @sec-hebreus, dominava a Ásia Menor, onde havia cidades gregas. Quando essas cidades se revoltaram e Atenas as apoiou, o confronto tornou-se inevitável. As **Guerras Médicas** (490–479 a.C.) opuseram, pela primeira vez, o mundo das pólis ao maior império da época (@fig-guerras-gregas).
+
+Na **primeira invasão** (490 a.C.), o rei **Dario I** enviou uma expedição punitiva, derrotada pelos atenienses na planície de **Maratona** — feito comemorado, segundo a lenda, pela corrida de um mensageiro até Atenas (origem simbólica da prova de maratona). Na **segunda invasão** (480–479 a.C.), o rei **Xerxes** veio com força colossal. Os gregos, momentaneamente unidos, resistiram nas **Termópilas** (a batalha dos 300 espartanos, liderados por Leônidas), venceram no mar em **Salamina** — graças à frota ateniense montada por **Temístocles** — e, por fim, em terra, em **Plateias**. Contra todas as probabilidades, as pequenas e divididas cidades gregas derrotaram o Império Persa.
+
+A vitória teve enorme consequência: consagrou **Atenas** como potência naval e líder da **Liga de Delos**, uma aliança de cidades para continuar a guerra contra a Pérsia. Aos poucos, porém, Atenas transformou a liga em instrumento de seu próprio **imperialismo**, transferindo o tesouro comum de Delos para a Acrópole e tratando as aliadas como súditas. A grandeza da "Era de Péricles" foi financiada, em parte, por esse domínio sobre as demais gregas.
+
+## A Guerra do Peloponeso: gregos contra gregos {#sec-guerra-peloponeso}
+
+O poder crescente de Atenas assustou **Esparta** e suas aliadas, reunidas na **Liga do Peloponeso**. A rivalidade — política, econômica e entre modelos de sociedade (democracia marítima *versus* oligarquia militar) — desembocou na **Guerra do Peloponeso** (431–404 a.C.), longo e devastador conflito que envolveu quase todo o mundo grego. Foi narrada, quase em tempo real, pelo ateniense **Tucídides** [@tucidides2001], considerado por muitos o fundador da história crítica: ele buscava as **causas reais** dos acontecimentos, não a vontade dos deuses.
+
+A guerra teve reviravoltas: uma **peste** dizimou Atenas (matando o próprio Péricles em 429 a.C.), uma desastrosa expedição ateniense à **Sicília** fracassou, e a Pérsia acabou financiando Esparta, que construiu uma frota e cortou o abastecimento de Atenas. Em **404 a.C.**, Atenas capitulou. Mas a vitória espartana foi ilusória: décadas de guerra entre gregos **enfraqueceram todas as pólis**, esgotaram recursos e semearam instabilidade. Nas décadas seguintes, a hegemonia passou de Esparta a Tebas e de volta, num carrossel de conflitos. Exaustas e desunidas, as cidades gregas ficaram vulneráveis a uma potência ascendente ao norte: a **Macedônia**.
+
+::: {#fig-guerras-gregas}
+
+```{.tikz}
+%%| filename: fig-guerras-gregas
+%%| alt: Linha do tempo das guerras gregas, das Guerras Médicas à conquista macedônica e ao império de Alexandre.
+\begin{tikzpicture}[>=stealth]
+  \draw[eixo] (-0.3,0) -- (12.3,0);
+  \node[ponto, fill=manualred] at (0.5,0) {}; \node[above, font=\scriptsize, align=center] at (0.5,0.2) {490};
+  \node[below, font=\scriptsize, text=manualred, align=center] at (0.5,-0.35) {Maratona};
+  \node[ponto, fill=manualred] at (2.3,0) {}; \node[above, font=\scriptsize, align=center] at (2.3,0.2) {480};
+  \node[below, font=\scriptsize, text=manualred, align=center] at (2.3,-0.35) {Termópilas\\Salamina};
+  \node[ponto, fill=manualred] at (5.6,0) {}; \node[above, font=\scriptsize, align=center] at (5.6,0.2) {431--404};
+  \node[below, font=\scriptsize, text=manualred, align=center] at (5.6,-0.35) {G.\ do\\Peloponeso};
+  \node[ponto, fill=manualblue] at (8.6,0) {}; \node[above, font=\scriptsize, align=center] at (8.6,0.2) {338};
+  \node[below, font=\scriptsize, text=manualblue, align=center] at (8.6,-0.35) {Queroneia\\(Macedônia)};
+  \node[ponto, fill=manualgreen] at (10.8,0) {}; \node[above, font=\scriptsize, align=center] at (10.8,0.2) {334--323};
+  \node[below, font=\scriptsize, text=manualgreen, align=center] at (10.8,-0.35) {Alexandre\\(Helenismo)};
+\end{tikzpicture}
+```
+
+Das Guerras Médicas ao império de Alexandre: um século e meio de conflitos que redesenharam o mundo grego.
+:::
+
+## Alexandre e a era helenística {#sec-alexandre-helenismo}
+
+Ao norte da Grécia, o reino da **Macedônia**, antes visto como semibárbaro pelos gregos do sul, foi modernizado e militarizado pelo rei **Filipe II** (382–336 a.C.), que criou um exército profissional e a temível **falange macedônica** — formação de lanceiros com longas lanças (as *sarissas*). Aproveitando a exaustão das pólis, Filipe as derrotou na batalha de **Queroneia** (338 a.C.) e impôs sua hegemonia sobre a Grécia. Assassinado pouco depois, deixou o trono ao filho de vinte anos: **Alexandre** (356–323 a.C.).
+
+Discípulo do filósofo **Aristóteles**, Alexandre realizou uma das mais espantosas campanhas militares da história. Em pouco mais de dez anos (334–323 a.C.), conquistou todo o **Império Persa**, chegando ao **Egito** (onde fundou Alexandria) e às fronteiras da **Índia**, construindo um império imenso do Mediterrâneo à Ásia Central. Morreu jovem, aos 32 anos, na Babilônia, sem herdeiro à altura. Seu império foi então **repartido** entre seus generais (os *diádocos*), dando origem aos grandes **reinos helenísticos** — como o dos **Ptolomeus** no Egito (a que pertenceria, séculos depois, Cleópatra) e o dos **Selêucidas** na Ásia.
+
+::: {.callout-note title="Conceito-chave: Helenismo"}
+**Helenismo** é o nome dado ao período (do fim do século IV ao I a.C.) e à **cultura** que resultaram das conquistas de Alexandre: a **fusão** da cultura grega (helênica) com as culturas do Oriente (persa, egípcia, mesopotâmica). Difundiu-se uma língua grega comum, o ***koiné***, e surgiram grandes cidades cosmopolitas, como **Alexandria**, no Egito, cuja **Biblioteca** e cujo **Farol** simbolizaram uma era de florescimento científico e cultural. O saber helenístico avançou na matemática (Euclides), na física (Arquimedes), na geografia e na astronomia.
+:::
+
+O Helenismo mudou a escala do mundo grego. A pólis, comunidade pequena onde o cidadão participava diretamente, perdeu centralidade diante de vastos **reinos** governados por monarcas. O horizonte deixou de ser a cidade e passou a ser o ***oikoumene***, o "mundo habitado". Não por acaso, as filosofias helenísticas — o **estoicismo** e o **epicurismo**, que você verá no próximo capítulo — voltaram-se menos para a vida cívica e mais para a busca individual da tranquilidade e da felicidade num mundo maior e mais incerto. E foi esse mundo helenizado, do Mediterrâneo oriental, que Roma encontraria — e conquistaria — nos séculos seguintes, herdando e transmitindo a cultura grega ao Ocidente.
+
+## 🔎 Historiografia em Foco {#sec-historiografia-helenismo}
+
+A figura de **Alexandre** é um campo de batalha entre historiadores: herói civilizador ou conquistador sanguinário?
+
+**Alexandre, o idealista da "fusão de povos".** Uma tradição interpretativa antiga, retomada por historiadores dos séculos XIX e XX (com destaque para o alemão Johann Gustav Droysen, que cunhou o termo "helenismo"), vê em Alexandre um **visionário**: alguém que teria sonhado com a **união** entre gregos e persas, incentivando casamentos mistos, adotando costumes orientais e fundando cidades que espalhariam a civilização grega. Nessa leitura, o Helenismo é uma grande obra de **integração cultural**, um dos momentos mais fecundos da Antiguidade.
+
+**Alexandre, o conquistador implacável.** Historiadores mais recentes desconfiam desse retrato idealizado. Lembram que a expansão de Alexandre foi antes de tudo uma **guerra de conquista**, com cidades arrasadas (como Tiro e Persépolis), massacres e imensa violência. A "fusão de povos" teria sido menos um ideal humanista e mais uma **estratégia de poder** para governar territórios imensos com poucos gregos. Além disso, a difusão da cultura grega frequentemente significou a **imposição** de uma elite helenizada sobre populações locais, que mantiveram suas próprias línguas e crenças. O "cosmopolitismo" helenístico convivia com profundas desigualdades.
+
+**Por que as leituras divergem?** Em grande parte, por causa das **fontes**: quase tudo o que sabemos de Alexandre vem de autores **muito posteriores** (como Plutarco e Arriano, séculos depois), que já trabalhavam sobre uma lenda em formação — e cada época remodelou essa lenda à sua imagem. O século XIX imperialista projetou em Alexandre o ideal do europeu que "civiliza" o Oriente; o século XX, mais crítico do colonialismo, passou a enxergar a violência e a dominação por trás da "fusão". O caso ilustra uma lição central deste manual: figuras históricas grandiosas são também **construções** feitas por quem as narra, e devemos sempre perguntar *quem* conta a história e *com que interesses*.
+
+## Resumo do capítulo {#sec-resumo-helenismo}
+
+- **Esparta** foi uma sociedade **oligárquica, agrária e militarizada** do Peloponeso, organizada para dominar a maioria servil dos **hilotas**; sua estrutura tripartite reunia **espartanos** (*homoioi*), **periecos** e **hilotas**, com educação militar (**agogé**) e governo misto (dois reis, Gerúsia, Ápela, éforos).
+- As **Guerras Médicas** (490–479 a.C.) opuseram as pólis gregas ao **Império Persa**; vitórias em **Maratona**, **Salamina** e **Plateias** garantiram a independência grega e consagraram Atenas, que transformou a **Liga de Delos** em instrumento de seu **imperialismo**.
+- A **Guerra do Peloponeso** (431–404 a.C.) opôs **Atenas** (e a Liga de Delos) a **Esparta** (e a Liga do Peloponeso); narrada por **Tucídides**, terminou com a derrota ateniense, mas **enfraqueceu todas as pólis**, deixando-as vulneráveis.
+- A **Macedônia** de **Filipe II** dominou a Grécia em **Queroneia** (338 a.C.); seu filho **Alexandre** conquistou o Império Persa até a Índia (334–323 a.C.); após sua morte, o império foi repartido em **reinos helenísticos**.
+- O **Helenismo** foi a **fusão** das culturas grega e oriental, com o grego *koiné*, cidades cosmopolitas como **Alexandria** e grande florescimento científico; a **pólis** perdeu centralidade diante dos grandes **reinos**.
+- A historiografia debate se Alexandre foi um **idealista** da união de povos ou um **conquistador violento**, lembrando que sua imagem foi construída por fontes muito posteriores.
+
+## Exercícios {#sec-exercicios-helenismo}
+
+**1.** Compare Esparta e Atenas quanto à **organização política** e à **base econômica e social**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Atenas:** voltada para o **mar** e o comércio; evoluiu para a **democracia** (participação direta dos cidadãos); apoiava-se no trabalho de escravos e na atividade de metecos. **Esparta:** sociedade **agrária, fechada e militarizada** do interior do Peloponeso; regime **oligárquico** (governo de poucos: dois reis, Gerúsia, Ápela e éforos); economia sustentada pela servidão dos **hilotas**, que os espartanos dominavam pela força. Em síntese, Atenas = democracia marítima e comercial; Esparta = oligarquia agrária e militar.
+:::
+
+**2.** Quem eram os **hilotas** e qual era o seu papel na sociedade espartana?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Os **hilotas** eram servos do **Estado** espartano (não escravos de proprietários privados), presos à terra e originários das populações conquistadas (sobretudo da Messênia). Formavam a **maioria** da população e eram obrigados a **cultivar a terra** e entregar parte da produção aos espartanos, sustentando economicamente a cidade. Justamente por serem muito mais numerosos que a elite dominante, viviam sob **dominação brutal** e terror sistemático, para evitar revoltas — o que explica, em boa medida, a militarização permanente de Esparta.
+:::
+
+**3.** Explique as causas e os principais episódios das **Guerras Médicas**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Causa:** a expansão do **Império Persa**, que dominava as cidades gregas da Ásia Menor; quando estas se revoltaram com o apoio de Atenas, o confronto tornou-se inevitável. **Episódios:** na primeira invasão (490 a.C.), os atenienses venceram em **Maratona**; na segunda (480–479 a.C.), sob Xerxes, os gregos resistiram nas **Termópilas** (300 espartanos), venceram no mar em **Salamina** e em terra em **Plateias**. **Resultado:** a independência grega foi preservada e **Atenas** emergiu como potência naval, líder da **Liga de Delos**.
+:::
+
+**4.** Por que se diz que a **Guerra do Peloponeso** enfraqueceu o conjunto das cidades gregas, e não apenas a derrotada Atenas?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque foi um conflito **longo (27 anos) e generalizado**, que envolveu quase todo o mundo grego e consumiu recursos, vidas e estabilidade de **todas** as pólis, vencedoras e vencidas. Embora **Esparta** tenha vencido (404 a.C.), saiu também desgastada, e a hegemonia passou a oscilar entre Esparta, Tebas e outras cidades num ciclo de novos conflitos. O resultado foi uma Grécia **exausta e desunida**, incapaz de resistir à ascensão da **Macedônia**, que a dominaria em 338 a.C. Ou seja, a guerra fragilizou o próprio sistema das cidades-Estado.
+:::
+
+**5.** Explique o conceito de **Helenismo** e dê dois exemplos de suas realizações culturais ou científicas.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Helenismo** é o período e a cultura que resultaram das conquistas de **Alexandre**, marcados pela **fusão** da cultura grega com as culturas do Oriente (persa, egípcia, mesopotâmica) e pela difusão do grego comum (*koiné*). **Exemplos** (bastam dois): a cidade de **Alexandria**, no Egito, com sua célebre **Biblioteca** e o **Farol**; os avanços científicos de **Euclides** (geometria) e **Arquimedes** (física e matemática); a difusão de novas correntes filosóficas (estoicismo e epicurismo). Caracteriza-se pelo cosmopolitismo e pela substituição da pequena pólis por grandes reinos.
+:::
+
+**6.** (Estilo ENEM) Leia o texto.
+
+> Com as conquistas de Alexandre, o mundo grego deixou de ser o das pequenas cidades onde o cidadão decidia diretamente os rumos da comunidade. Surgiram vastos reinos, governados por monarcas, e o horizonte do indivíduo ampliou-se para o "mundo habitado". Não por acaso, as novas filosofias buscavam menos a virtude cívica e mais a tranquilidade pessoal diante de um mundo maior e mais incerto.
+
+O texto estabelece uma relação entre
+
+**(a)** o fortalecimento da democracia direta e o surgimento da filosofia.
+**(b)** a expansão territorial helenística e uma mudança no modo de o indivíduo se relacionar com a política e consigo mesmo.
+**(c)** a vitória de Esparta na Guerra do Peloponeso e o fim da escravidão.
+**(d)** a fragmentação das pólis e o retorno ao poder dos clãs familiares.
+**(e)** a resistência persa e o declínio da cultura grega no Oriente.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (b).** O texto associa a **expansão territorial** promovida por Alexandre (a passagem da pequena pólis aos grandes reinos helenísticos) a uma **mudança de mentalidade**: com o horizonte ampliado para o "mundo habitado" (*oikoumene*), o indivíduo se relaciona de outro modo com a política e passa a buscar, nas novas filosofias, a **tranquilidade pessoal** em vez da virtude cívica. Erros: (a) a democracia direta perdeu força, não se fortaleceu; (c) o texto não trata de Esparta nem do fim da escravidão; (d) não há retorno aos clãs; (e) a cultura grega se **difundiu** pelo Oriente, não declinou.
+:::
+
+**7.** (Estilo vestibular — dissertativa) Explique por que o historiador deve tratar com cautela tanto a imagem heroica de **Esparta** quanto a de **Alexandre**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Resposta esperada. Em ambos os casos, a **imagem** que herdamos foi **construída** por fontes parciais e posteriores. No caso de **Esparta**, boa parte do que se conta vem de autores de fora (muitos atenienses) e de épocas seguintes, que idealizaram sua disciplina e virtude — a chamada "miragem espartana", explorada até por regimes autoritários modernos; a Esparta real era mais violenta, sustentada no terror contra os **hilotas**. No caso de **Alexandre**, as principais fontes (Plutarco, Arriano) são de séculos depois e trabalham sobre uma lenda já formada, ora exaltando um "unificador de povos", ora ocultando a violência das conquistas. Uma boa resposta conclui que o historiador deve **criticar as fontes**, perguntar *quem* as produziu e *com que interesses*, e distinguir o mito do que é possível reconstituir criticamente.
+:::
+
+## Para saber mais {#sec-para-saber-mais-helenismo}
+
+**Livros**
+
+- FUNARI, Pedro Paulo. *Grécia e Roma* [@funari2002]. Sintetiza, de forma acessível, as guerras gregas e o mundo helenístico.
+- TUCÍDIDES. *História da Guerra do Peloponeso* [@tucidides2001]. A grande fonte primária sobre o conflito entre Atenas e Esparta, marco da história crítica.
+- POLÍBIO. *História* [@polibio1996]. O historiador que analisou a "constituição mista" e comparou os regimes antigos.
+
+**Filmes e documentários**
+
+- *300* (2006) recria a batalha das Termópilas — espetacular, mas **altamente estilizado e impreciso**: ótimo ponto de partida para discutir como o cinema constrói o "mito espartano".
+- Documentários sobre **Alexandre, o Grande** e sobre **Alexandria** ajudam a visualizar a escala do império e o mundo cosmopolita do Helenismo.

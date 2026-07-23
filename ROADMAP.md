@@ -64,12 +64,12 @@
 
 | # | Capítulo | Arquivo | Status |
 |---|----------|---------|--------|
-| 1 | Grécia: a pólis e a democracia ateniense | `capitulos/vol04/cap01-grecia-polis-democracia.qmd` | ⬜ |
-| 2 | Esparta, as guerras e o mundo helenístico | `capitulos/vol04/cap02-esparta-helenismo.qmd` | ⬜ |
-| 3 | Cultura, filosofia e religião gregas | `capitulos/vol04/cap03-cultura-grega.qmd` | ⬜ |
-| 4 | Roma: monarquia e república | `capitulos/vol04/cap04-roma-monarquia-republica.qmd` | ⬜ |
-| 5 | O Império Romano: expansão, escravismo e cotidiano | `capitulos/vol04/cap05-imperio-romano.qmd` | ⬜ |
-| 6 | Crise de Roma, cristianismo e a Antiguidade Tardia | `capitulos/vol04/cap06-crise-de-roma-cristianismo.qmd` | ⬜ |
+| 1 | Grécia: a pólis e a democracia ateniense | `capitulos/vol04/cap01-grecia-polis-democracia.qmd` | ✅ |
+| 2 | Esparta, as guerras e o mundo helenístico | `capitulos/vol04/cap02-esparta-helenismo.qmd` | ✅ |
+| 3 | Cultura, filosofia e religião gregas | `capitulos/vol04/cap03-cultura-grega.qmd` | ✅ |
+| 4 | Roma: monarquia e república | `capitulos/vol04/cap04-roma-monarquia-republica.qmd` | ✅ |
+| 5 | O Império Romano: expansão, escravismo e cotidiano | `capitulos/vol04/cap05-imperio-romano.qmd` | ✅ |
+| 6 | Crise de Roma, cristianismo e a Antiguidade Tardia | `capitulos/vol04/cap06-crise-de-roma-cristianismo.qmd` | ✅ |
 
 ---
 

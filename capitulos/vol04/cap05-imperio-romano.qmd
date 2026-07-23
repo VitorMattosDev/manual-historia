@@ -1,5 +1,190 @@
 # O Império Romano: expansão, escravismo e cotidiano {#sec-imperio-romano}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Estradas que ainda cruzam a Europa, aquedutos que atravessam vales, o Coliseu de Roma, anfiteatros e termas espalhados da Escócia ao deserto da Síria: o **Império Romano** deixou marcas físicas que você pode visitar até hoje. No seu apogeu, no século II d.C., um único Estado governava cerca de **60 milhões** de pessoas — talvez um quinto de toda a humanidade da época — num território que ia da Britânia ao Egito, das margens do Atlântico ao rio Eufrates. Mas por trás da grandeza dos monumentos havia uma realidade dura: um império sustentado por **conquistas militares**, pelo **trabalho de milhões de escravos** e por profundas desigualdades. Este capítulo mostra como Roma passou da República ao governo de um só homem, como funcionava a máquina imperial, o que foi a longa "paz romana", como era a vida cotidiana — do senador ao escravo — e como uma nova religião, o cristianismo, começou a se espalhar por esse mundo.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- explicar a passagem da **República ao Império** (Júlio César e Otávio Augusto);
+- caracterizar o **Principado**, o **Alto Império** e a **Pax Romana**;
+- analisar o papel do **escravismo** como base econômica do mundo romano;
+- descrever aspectos do **cotidiano**, da cultura e da urbanização romanas ("pão e circo");
+- compreender o legado de Roma (direito, língua, urbanismo, engenharia) para o Ocidente.
 :::
+
+## De César a Augusto: o nascimento do Império {#sec-cesar-augusto}
+
+Você viu, no capítulo anterior (@sec-crise-republica), que a República agonizava em meio a guerras civis e à ascensão de generais poderosos. **Júlio César** (100–44 a.C.) foi o que chegou mais perto de concentrar todo o poder. Brilhante militar (conquistou a Gália, a atual França, e narrou a campanha em *Comentários sobre a Guerra Gálica*), César venceu a guerra civil contra Pompeu, fez-se **ditador perpétuo** e concentrou em suas mãos as principais magistraturas. Popular entre a plebe e os soldados, tornou-se, aos olhos do Senado, uma ameaça ao regime republicano. Em **44 a.C.**, nos idos de março, foi **assassinado** por um grupo de senadores liderados por Bruto e Cássio, que diziam querer "salvar a República".
+
+Mas a República já não tinha salvação. Após novas guerras civis, o herdeiro de César, seu sobrinho-neto **Otávio**, derrotou o último rival, **Marco Antônio** (aliado de Cleópatra, do Egito), na batalha naval de **Áccio** (31 a.C.). Senhor absoluto de Roma, Otávio foi hábil onde César fora imprudente: em vez de se proclamar rei ou ditador — títulos odiados —, **fingiu restaurar a República**, devolvendo formalmente os poderes ao Senado, que, agradecido (e submisso), concedeu-lhe em **27 a.C.** o título de **Augusto** ("o venerável", "sagrado"). Na prática, concentrava em si todos os poderes; na aparência, era apenas o *princeps*, o "primeiro cidadão". Nascia assim o **Império Romano**, sob a forma do **Principado**.
+
+::: {.callout-note title="Conceito-chave: Principado"}
+**Principado** é a primeira fase do Império Romano (de Augusto, em 27 a.C., até o século III d.C.), em que o imperador governava disfarçado de **princeps** ("primeiro cidadão"), mantendo em **aparência** as instituições republicanas (Senado, magistraturas, assembleias), mas concentrando **de fato** o poder militar, político e religioso. Era uma **monarquia disfarçada de república**: Augusto evitou os títulos de "rei" ou "ditador", justamente para não repetir o erro fatal de Júlio César.
+:::
+
+## A Pax Romana e o Alto Império {#sec-pax-romana}
+
+O longo governo de Augusto (27 a.C.–14 d.C.) inaugurou um período de relativa estabilidade e prosperidade que se estenderia, com altos e baixos, por cerca de dois séculos: a ***Pax Romana*** ("paz romana"). Não que não houvesse guerras — havia, sobretudo nas fronteiras —, mas o interior do vasto império viveu uma era de **ordem, comércio florescente e intensa urbanização** (@fig-imperio-romano). Estradas pavimentadas ligavam as províncias; uma moeda comum circulava do Egito à Britânia; o latim (no Ocidente) e o grego (no Oriente) serviam de línguas francas. Cidades por todo o império reproduziam o modelo romano, com fórum, templos, teatros, termas (banhos públicos), aquedutos e anfiteatros.
+
+O império era administrado por meio de **províncias**, governadas por funcionários nomeados, e defendido pelas **legiões**, o exército profissional estacionado sobretudo nas fronteiras (o *limes*). A cidadania romana, antes restrita, foi sendo estendida, num processo que culminou no **Edito de Caracala** (212 d.C.), que a concedeu a quase todos os homens livres do império — medida que, ao mesmo tempo, uniformizava os súditos e ampliava a base de arrecadação de impostos. O apogeu territorial deu-se no início do século II d.C., sob os imperadores **Trajano** (maior extensão) e **Adriano**, no período dos chamados "cinco bons imperadores".
+
+::: {#fig-imperio-romano}
+
+```{.tikz}
+%%| filename: fig-imperio-romano
+%%| alt: Mapa esquemático do Império Romano em seu apogeu, com o Mediterrâneo ao centro e as províncias ao redor.
+\begin{tikzpicture}
+  % mediterraneo ao centro
+  \fill[manualblue!25] (0,0) ellipse (3.4 and 1.4);
+  \node[font=\scriptsize, text=manualblue!60!black] at (0,0) {\textit{Mare Nostrum}};
+  % blocos de provincias
+  \node[draw, fill=manualgray!12, font=\scriptsize, minimum width=1.6cm] at (-2.6,1.9) {Hispânia};
+  \node[draw, fill=manualgray!12, font=\scriptsize, minimum width=1.6cm] at (0,2.1) {Gália};
+  \node[draw, fill=manualgray!12, font=\scriptsize, minimum width=1.6cm] at (-1.4,2.8) {Britânia};
+  \node[draw, fill=manualred!12, font=\scriptsize, minimum width=1.6cm] (roma) at (0.4,1.0) {\textbf{ROMA}};
+  \node[draw, fill=manualgray!12, font=\scriptsize, minimum width=1.6cm] at (2.6,1.9) {Grécia};
+  \node[draw, fill=manualgray!12, font=\scriptsize, minimum width=1.6cm] at (3.4,0.4) {Ásia Menor};
+  \node[draw, fill=manualgray!12, font=\scriptsize, minimum width=1.6cm] at (2.4,-1.9) {Egito};
+  \node[draw, fill=manualgray!12, font=\scriptsize, minimum width=1.6cm] at (-0.6,-2.1) {África (Cartago)};
+  \node[font=\scriptsize, text=manualgray] at (0,-3.0) {\textasciitilde 60 milhões de habitantes no séc.\ II d.C.};
+\end{tikzpicture}
+```
+
+Mapa esquemático do Império Romano no apogeu: o Mediterrâneo (*Mare Nostrum*) ao centro, cercado pelas províncias. Não é um mapa de precisão, mas um esquema de escala e posição relativa.
+:::
+
+## Uma economia de escravos {#sec-escravismo-romano}
+
+A grandeza de Roma repousava sobre uma base que não devemos esquecer: o **escravismo**. O Império Romano foi uma das maiores **sociedades escravistas** da história. Milhões de pessoas — sobretudo **prisioneiros de guerra**, mas também vítimas da pirataria, condenados e filhos de escravas — eram compradas e vendidas como **mercadorias** e obrigadas a trabalhar sem remuneração e sem direitos.
+
+::: {.callout-note title="Conceito-chave: modo de produção escravista"}
+Historiadores marxistas descrevem a economia romana como um **modo de produção escravista**: aquele em que a produção de riqueza se baseia principalmente no trabalho de **escravos**, que são propriedade de outrem, considerados "coisas" (*res*) e não pessoas. Diferentemente do servo feudal (que veremos no Volume 5), o escravo não tinha **nenhum** direito, podia ser vendido, punido ou morto pelo dono, e nada do que produzia lhe pertencia. Essa mão de obra sustentava os grandes latifúndios (*latifundia*), as minas, as construções e o serviço doméstico das elites.
+:::
+
+O trabalho escravo estava em toda parte: no campo (nos latifúndios que produziam para o mercado), nas minas (em condições atrozes), nas oficinas, nas obras públicas e nas casas (como criados, cozinheiros, pedagogos — alguns escravos gregos eram cultos e educavam os filhos dos ricos). Havia enorme variação de condições: do escravo do campo, tratado como animal, ao escravo urbano de confiança, que às vezes conseguia comprar a própria liberdade e tornar-se **liberto**. Mas o sistema, como um todo, era mantido pela **violência**. As grandes revoltas — como a de **Espártaco** (73–71 a.C.), esmagada com a crucificação de milhares — mostram que os escravos jamais aceitaram passivamente sua condição. A dependência do trabalho escravo, aliás, teria consequências de longo prazo: quando as conquistas cessaram e a oferta de escravos diminuiu, a própria economia romana entraria em dificuldades (tema do próximo capítulo).
+
+## Pão e circo: o cotidiano romano {#sec-cotidiano-romano}
+
+A sociedade romana era profundamente **desigual e hierárquica** (@fig-sociedade-romana). No topo, a aristocracia senatorial e equestre, dona de terras e do poder, vivia no luxo, em grandes casas (*domus*) e vilas no campo. Na base livre, a **plebe urbana** — uma multidão de pobres, muitos desempregados — amontoava-se em prédios de aluguel precários e superlotados (as *insulae*). E, sustentando tudo, os **escravos**.
+
+Para controlar a imensa e potencialmente explosiva plebe urbana da capital, os imperadores adotaram uma política célebre, resumida na expressão do poeta Juvenal: ***panem et circenses***, "**pão e circo**". Distribuíam-se **alimentos gratuitos** (trigo, pão) e ofereciam-se **espetáculos** grandiosos e gratuitos — as corridas de bigas no Circo Máximo e, sobretudo, os combates de **gladiadores** e as lutas com feras no **Coliseu** (o Anfiteatro Flávio, inaugurado em 80 d.C.). Era uma forma de **manter a população entretida e controlada**, comprando sua passividade política com comida e diversão.
+
+::: {#fig-sociedade-romana}
+
+```{.tikz}
+%%| filename: fig-sociedade-romana
+%%| alt: Pirâmide da sociedade do Império Romano, do imperador e aristocracia no topo aos escravos na base.
+\begin{tikzpicture}
+  \draw[thick] (0,4) -- (-3.4,0) -- (3.4,0) -- cycle;
+  \draw[thick] (-0.55,1.35) -- (0.55,1.35);
+  \draw[thick] (-1.35,2.4) -- (1.35,2.4);
+  \node[align=center, font=\scriptsize] at (0,3.35) {\textbf{Imperador}};
+  \node[align=center, font=\scriptsize] at (0,2.75) {aristocracia (senadores, equites)};
+  \node[align=center, font=\scriptsize] at (0,1.8) {\textbf{plebe urbana} e libertos};
+  \node[align=center, font=\scriptsize] at (0,1.05) {\footnotesize (homens livres pobres)};
+  \node[align=center, font=\scriptsize] at (0,0.45) {\textbf{ESCRAVOS} (base da economia)};
+\end{tikzpicture}
+```
+
+A hierarquia social do Império: uma pequena elite no topo, a plebe livre no meio e a massa de escravos sustentando a base.
+:::
+
+Roma foi também uma grande civilização **urbana** e **construtora**. Sua **engenharia** ergueu estradas (algumas ainda existentes), pontes, aquedutos que levavam água a quilômetros de distância, sistemas de esgoto e edifícios monumentais, graças ao domínio do **arco**, da **abóbada** e de um material revolucionário: o **concreto romano** (*opus caementicium*). Na cultura, os romanos foram grandes herdeiros e divulgadores dos gregos, adaptando sua religião (Júpiter = Zeus, Marte = Ares), sua filosofia (o **estoicismo** foi muito popular, com Sêneca e o imperador Marco Aurélio; o **epicurismo**, com o poeta Lucrécio), sua arte e sua literatura (Virgílio, autor da *Eneida*; os historiadores Tito Lívio e Tácito).
+
+::: {.callout-important title="Legado que você usa todo dia"}
+O **direito romano** é talvez a maior herança de Roma: conceitos como o de **pessoa**, **contrato**, **propriedade**, **posse**, o princípio de que o acusado é inocente até prova em contrário, e boa parte do vocabulário jurídico ocidental vêm de lá — o direito brasileiro tem raízes romanas. Some-se a isso o **latim** (do qual descendem o português, o espanhol, o francês, o italiano), o **alfabeto latino** que você lê, o **calendário** (herança de Júlio César, o "juliano", base do nosso), o **urbanismo** e a **engenharia**. Estudar Roma é, em boa parte, estudar as fundações do mundo em que vivemos.
+:::
+
+## 🔎 Historiografia em Foco {#sec-historiografia-imperio}
+
+Como avaliar o Império Romano? O debate historiográfico opõe, aqui, o brilho da civilização à violência que a sustentava — e questiona uma frase famosa: a "**paz romana**".
+
+**A visão clássica: Roma, farol da civilização.** Uma longa tradição, do Renascimento ao século XIX, viu no Império Romano o **auge da civilização antiga**: a lei, a ordem, a engenharia, as cidades, a difusão da cultura greco-latina, a "paz" que teria permitido o florescimento do comércio e das artes de um oceano a outro. Nessa chave, mesmo a expansão violenta se justificaria pelos "benefícios" que Roma teria levado aos povos conquistados. Foi essa Roma idealizada que os impérios europeus modernos tomaram como **modelo** — inclusive para justificar seu próprio colonialismo, apresentando-se como herdeiros de uma missão "civilizadora".
+
+**A visão crítica: a paz dos vencedores.** Historiadores contemporâneos questionam essa idealização a partir do ponto de vista dos **conquistados** e dos **escravos**. A célebre frase que o historiador **Tácito** pôs na boca de um chefe bretão resume a crítica: os romanos "fazem um deserto e chamam isso de paz". A *Pax Romana* foi, para muitos povos, a paz **imposta pela força**, precedida de massacres, escravização e pilhagem. E a prosperidade das cidades e das elites repousava sobre a exploração brutal de **milhões de escravos** e das províncias, taxadas para sustentar Roma. Historiadores como **Moses Finley** [@finley1988] insistiram, ainda, em não projetar sobre a economia antiga as categorias do capitalismo moderno: era uma economia baseada na **agricultura** e no **trabalho compulsório**, não no mercado e no trabalho livre.
+
+**Por que o debate importa?** Porque ele nos ensina a olhar a história a partir de **diferentes sujeitos**. Contada do ponto de vista de Roma e de suas elites, a história do Império é uma epopeia de grandeza. Contada do ponto de vista dos povos submetidos, dos escravos e dos pobres, é uma história de **conquista, exploração e resistência**. Nenhuma das duas é "falsa": elas são **incompletas** isoladamente. A boa História reconhece simultaneamente as **realizações** de Roma (o direito, a engenharia, o legado cultural) e o **custo humano** sobre o qual elas se ergueram — sem idealizar nem demonizar, mas compreendendo a complexidade do processo histórico.
+
+## Resumo do capítulo {#sec-resumo-imperio}
+
+- A crise da República culminou na ascensão de **Júlio César** (ditador perpétuo, assassinado em 44 a.C.) e, depois, de seu herdeiro **Otávio**, que derrotou Marco Antônio em **Áccio** (31 a.C.) e, em **27 a.C.**, recebeu o título de **Augusto**, fundando o **Império**.
+- O **Principado** foi uma **monarquia disfarçada de república**: o imperador governava como *princeps* ("primeiro cidadão"), mantendo em aparência as instituições republicanas, mas concentrando o poder real. Augusto evitou o erro de César (os títulos de rei/ditador).
+- A ***Pax Romana*** (séc. I–II d.C.) foi uma era de **estabilidade, comércio e urbanização**; o império, administrado em **províncias** e defendido pelas **legiões**, atingiu seu apogeu com **Trajano** e **Adriano**; o **Edito de Caracala** (212 d.C.) estendeu a cidadania a quase todos os livres.
+- A economia romana baseava-se no **escravismo** (**modo de produção escravista**): milhões de escravos (sobretudo prisioneiros de guerra) sustentavam latifúndios, minas, obras e casas; a violência do sistema gerou revoltas, como a de **Espártaco**.
+- A sociedade era **desigual e hierárquica** (aristocracia, plebe urbana pobre, escravos); os imperadores controlavam a plebe com a política do "**pão e circo**" (*panem et circenses*): alimentos gratuitos e espetáculos (gladiadores, Coliseu, corridas).
+- Roma legou ao Ocidente o **direito romano**, o **latim** e as línguas românicas, o **alfabeto**, o **calendário**, o **urbanismo** e a **engenharia** (arco, aqueduto, concreto).
+- A historiografia debate o Império entre a visão **clássica** (farol da civilização) e a **crítica** (a paz imposta pela força, à custa de conquistados e escravos), mostrando a importância de olhar a história a partir de **diferentes sujeitos**.
+
+## Exercícios {#sec-exercicios-imperio}
+
+**1.** Explique por que **Otávio Augusto** teve êxito em concentrar o poder onde **Júlio César** havia fracassado.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Júlio César** concentrou o poder de forma **ostensiva**, fazendo-se **ditador perpétuo** e aproximando-se dos títulos e símbolos da realeza — o que assustou o Senado e levou ao seu **assassinato** (44 a.C.). **Otávio** aprendeu com esse erro: em vez de se proclamar rei ou ditador (títulos odiados pelos romanos desde 509 a.C.), **fingiu restaurar a República**, devolvendo formalmente os poderes ao Senado, que em troca lhe concedeu o título de **Augusto** (27 a.C.) e diversas atribuições. Assim, concentrou **de fato** todo o poder, mas com a **aparência** de apenas o "primeiro cidadão" (*princeps*), preservando as instituições republicanas como fachada — o que garantiu a aceitação e a durabilidade do novo regime.
+:::
+
+**2.** O que foi o **Principado** e por que se diz que era uma "monarquia disfarçada de república"?
+
+::: {.callout-tip collapse="true" title="Solução"}
+O **Principado** foi a primeira fase do Império Romano (de Augusto até o século III d.C.), na qual o imperador governava com o título de **princeps** ("primeiro cidadão"). Diz-se que era uma "**monarquia disfarçada de república**" porque **mantinha em aparência** as instituições republicanas — o Senado, as magistraturas, as assembleias continuavam a existir —, mas o imperador concentrava **de fato** todos os poderes: o comando militar, a autoridade política e as funções religiosas. Ou seja, na forma parecia República; na essência, era o governo de um só homem.
+:::
+
+**3.** Caracterize a ***Pax Romana***. Ela significava ausência total de guerras?
+
+::: {.callout-tip collapse="true" title="Solução"}
+A ***Pax Romana*** ("paz romana") foi um período de cerca de dois séculos (séc. I–II d.C.) de **relativa estabilidade interna, prosperidade comercial e intensa urbanização** no território do Império. **Não** significava ausência total de guerras: havia conflitos, sobretudo nas **fronteiras** (o *limes*), onde as legiões defendiam o império. O que caracterizava a Pax Romana era a **ordem no interior** do vasto território, permitindo o florescimento do comércio (estradas, moeda comum), das cidades e da cultura. Vista pelos **conquistados**, porém, essa "paz" foi muitas vezes uma **imposição pela força**.
+:::
+
+**4.** Explique o que é o **modo de produção escravista** e o papel do escravo na economia romana.
+
+::: {.callout-tip collapse="true" title="Solução"}
+O **modo de produção escravista** é a organização econômica em que a produção de riqueza se baseia principalmente no trabalho de **escravos** — pessoas que são **propriedade** de outrem, tratadas como "coisas" (*res*), sem direitos, e que nada recebem pelo que produzem. Na economia romana, os escravos (sobretudo **prisioneiros de guerra**) eram a principal força de trabalho: cultivavam os **latifúndios**, trabalhavam nas **minas**, nas **obras públicas**, nas oficinas e nas casas das elites. Toda a grandeza econômica de Roma — e o tempo livre de suas elites — dependia dessa mão de obra compulsória, mantida pela **violência**.
+:::
+
+**5.** Explique a política do "**pão e circo**" (*panem et circenses*) e seu objetivo.
+
+::: {.callout-tip collapse="true" title="Solução"}
+"**Pão e circo**" era a política pela qual os imperadores distribuíam **alimentos gratuitos** (trigo, pão) e ofereciam **espetáculos** grandiosos e gratuitos — corridas de bigas no Circo Máximo, combates de **gladiadores** e lutas com feras no **Coliseu** — à **plebe urbana** de Roma. O objetivo era **controlar politicamente** essa multidão pobre, numerosa e potencialmente revoltada, **entretendo-a e alimentando-a** para comprar sua passividade e evitar tumultos. Em vez de resolver as desigualdades, os imperadores "compravam" a paz social da capital com comida e diversão.
+:::
+
+**6.** (Estilo ENEM) Leia o texto, atribuído pelo historiador Tácito a um chefe bretão que resistia à conquista romana:
+
+> "Saqueiam, massacram, roubam, e a isso dão o falso nome de império; onde fazem um deserto, chamam a isso de paz."
+
+A crítica expressa no texto dirige-se principalmente
+
+**(a)** à decadência moral dos costumes romanos.
+**(b)** à face violenta da expansão e da "paz romana", vista do ponto de vista dos povos conquistados.
+**(c)** ao excesso de escravos importados para a cidade de Roma.
+**(d)** à concessão da cidadania romana pelo Edito de Caracala.
+**(e)** à substituição da República pelo Império.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (b).** A frase — atribuída por Tácito a um líder dos povos submetidos — denuncia a **violência** da conquista romana (saque, massacre, roubo) escondida sob o nome de "império" e de "paz". É a crítica à ***Pax Romana*** vista **do ponto de vista dos conquistados**: a paz de Roma foi, para eles, uma **imposição pela força**, precedida de destruição. As demais alternativas tratam de temas diferentes (decadência moral, escravos, cidadania, forma de governo) que não são o foco do texto.
+:::
+
+**7.** (Estilo vestibular — dissertativa) "A grandeza de Roma e o seu custo humano são duas faces do mesmo processo." Comente essa afirmação, articulando as **realizações** do Império e as **bases** sobre as quais elas se ergueram.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Resposta esperada. As **realizações** de Roma foram imensas: o **direito** (base do direito ocidental), a **engenharia** (estradas, aquedutos, o concreto), o **urbanismo**, a difusão da cultura greco-latina, o **latim** e o alfabeto, a "paz" que favoreceu o comércio na *Pax Romana*. Mas essas conquistas tiveram um **custo humano** enorme e estrutural: apoiavam-se na **expansão militar** (conquista violenta de povos, massacres, pilhagem), no **escravismo** (milhões de escravos sustentando latifúndios, minas e obras) e na **exploração das províncias** (tributadas para sustentar Roma e suas elites). São, portanto, **duas faces do mesmo processo**: a prosperidade e o brilho das cidades e das elites eram viabilizados pela exploração dos escravos, dos pobres e dos conquistados. Uma boa resposta conclui que compreender Roma exige olhar a história a partir de **diferentes sujeitos** — reconhecendo as realizações **sem** idealizá-las e o custo humano **sem** demonizar, para captar a complexidade do processo.
+:::
+
+**8.** Cite e explique três elementos do **legado** romano presentes no mundo atual.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Três exemplos (entre vários possíveis): **(1) O direito romano** — conceitos como pessoa, contrato, propriedade, posse e o princípio da presunção de inocência estruturam o direito ocidental, inclusive o brasileiro. **(2) O latim e as línguas românicas** — do latim descendem o português, o espanhol, o francês e o italiano, e o **alfabeto latino** é o que usamos para escrever. **(3) A engenharia e o urbanismo** — o domínio do arco, da abóbada e do concreto permitiu estradas, pontes e aquedutos, e o modelo de cidade (com ruas, praças, saneamento) influenciou o urbanismo posterior. Também se pode citar o **calendário** (o juliano, base do nosso).
+:::
+
+## Para saber mais {#sec-para-saber-mais-imperio}
+
+**Livros**
+
+- GRIMAL, Pierre. *A civilização romana* [@grimal2009]. Amplo painel da sociedade, da cultura e das instituições imperiais.
+- VEYNE, Paul. *História da vida privada 1: do Império Romano ao ano mil* [@veyne2009]. Explora o cotidiano, a família, o corpo e a intimidade no mundo romano.
+- FINLEY, Moses I. *A economia antiga* [@finley1988]. Fundamental para entender por que a economia romana **não** era um "capitalismo" antigo.
+- FUNARI, Pedro Paulo. *Grécia e Roma* [@funari2002]. Síntese acessível, com atenção ao cotidiano e aos grupos subalternos.
+
+**Filmes e documentários**
+
+- *Gladiador* (2000) recria — com liberdades — a Roma imperial, a arena e a política; ótimo para discutir o "pão e circo".
+- Documentários sobre o **Coliseu**, os **aquedutos** e a **engenharia romana** dão a dimensão material do império.

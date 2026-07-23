@@ -1,5 +1,193 @@
 # Crise de Roma, cristianismo e a Antiguidade Tardia {#sec-crise-de-roma-cristianismo}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Em **476 d.C.**, um chefe germânico chamado Odoacro depôs um adolescente, **Rômulo Augústulo**, o último imperador romano do Ocidente. O gesto costuma ser lembrado nos livros como a data da "queda do Império Romano" — e, por convenção, o fim da **Idade Antiga** e o início da **Idade Média**. Mas cuidado: nenhuma civilização desaba num único dia, e a "queda de Roma" é um dos temas mais debatidos — e mal compreendidos — de toda a história. O que realmente aconteceu? Por que o maior império do mundo antigo se desfez no Ocidente enquanto sobrevivia por mil anos no Oriente? E como uma pequena seita judaica perseguida, o **cristianismo**, tornou-se a religião oficial desse mesmo império que a crucificara? Este capítulo — que fecha o volume da Antiguidade Clássica e abre a ponte para o mundo medieval — investiga a longa **crise de Roma**, a ascensão do **cristianismo** e a rica transição que os historiadores hoje chamam de **Antiguidade Tardia**.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- explicar as causas **internas** e **externas** da crise do Império Romano (séculos III–V);
+- descrever a origem, a mensagem e a expansão do **cristianismo** no mundo romano;
+- compreender a **oficialização** do cristianismo e a divisão do Império;
+- analisar o significado da data de **476 d.C.** e do conceito de **Antiguidade Tardia**;
+- discutir o debate historiográfico entre "queda" (colapso) e "transformação" do mundo romano.
 :::
+
+## A crise do século III {#sec-crise-seculo-iii}
+
+A longa estabilidade da *Pax Romana* (@sec-pax-romana) começou a ruir no **século III d.C.**, numa profunda crise que combinou vários fatores (@fig-crise-roma). A raiz econômica estava no **fim da expansão**: quando Roma parou de conquistar novos territórios, secou a principal fonte de **escravos** e de saques que alimentava a economia. Sem escravos baratos e abundantes, os latifúndios entraram em dificuldade, a produção caiu, e o comércio, antes vibrante, retraiu-se. O Estado, para sustentar o gigantesco exército e a burocracia, **aumentou os impostos** e passou a **desvalorizar a moeda** (misturando metais menos nobres na cunhagem), o que gerou **inflação** e mais empobrecimento.
+
+À crise econômica somou-se a **instabilidade política**. No século III, o império mergulhou na chamada **"anarquia militar"**: em cerca de cinquenta anos, dezenas de imperadores foram proclamados e derrubados por suas próprias legiões, num carrossel de golpes e assassinatos. O poder deixara de depender do Senado ou de qualquer legitimidade e passara a repousar na força bruta dos exércitos. Ao mesmo tempo, cresciam as **pressões nas fronteiras**: os povos **germânicos** ao norte e o renovado Império **Persa** (Sassânida) a leste ameaçavam o *limes*, exigindo cada vez mais recursos militares.
+
+::: {#fig-crise-roma}
+
+```{.tikz}
+%%| filename: fig-crise-roma
+%%| alt: Fluxograma das causas internas e externas da crise do Império Romano.
+\begin{tikzpicture}[>=stealth]
+  \node[draw, fill=manualyellow!20, align=center, font=\scriptsize, minimum width=3.6cm] (fim) at (0,3) {\textbf{Fim da expansão}\\(menos escravos e saques)};
+  \node[draw, fill=manualgreen!15, align=center, font=\scriptsize, minimum width=3.6cm] (econ) at (0,1.5) {\textbf{Crise econômica}\\queda da produção,\\impostos, inflação};
+  \node[draw, fill=manualred!18, align=center, font=\scriptsize, minimum width=3.6cm] (pol) at (0,0) {\textbf{Anarquia militar}\\imperadores derrubados\\pelas legiões};
+  \node[draw, fill=manualblue!18, align=center, font=\scriptsize, minimum width=3.2cm] (front) at (5.2,1.5) {\textbf{Pressão nas fronteiras}\\germânicos + persas};
+  \draw[vetor] (fim) -- (econ);
+  \draw[vetor] (econ) -- (pol);
+  \draw[vetor] (front) -- (econ);
+  \draw[vetor] (front) -- (pol);
+\end{tikzpicture}
+```
+
+O nó da crise: fatores **internos** (fim da expansão, crise econômica, anarquia política) e **externos** (pressão nas fronteiras) reforçavam-se mutuamente.
+:::
+
+Diante do colapso iminente, dois imperadores tentaram **reformas** para salvar o império. **Diocleciano** (r. 284–305) reorganizou a administração, dividindo o poder entre quatro governantes (a **Tetrarquia**) para melhor defender as fronteiras, congelou preços e vinculou trabalhadores a suas funções. **Constantino** (r. 306–337) reunificou o poder, fundou uma nova capital no Oriente, **Constantinopla** (a antiga Bizâncio), e — decisivo — aproximou-se do **cristianismo**. Essas reformas deram sobrevida ao império, mas também o transformaram profundamente, tornando-o mais autoritário, burocrático e rural — traços que já anunciavam o mundo medieval.
+
+## O colonato: rumo ao mundo medieval {#sec-colonato}
+
+Uma das transformações mais importantes da crise foi nas **relações de trabalho**. Com a escassez de escravos e o esvaziamento das cidades, muitos grandes proprietários passaram a instalar em suas terras trabalhadores chamados **colonos** — homens em tese livres, mas **presos à terra** que cultivavam, obrigados a entregar parte da produção ao senhor e proibidos de sair. Esse sistema, o **colonato**, é fundamental para entender a passagem da Antiguidade à Idade Média.
+
+::: {.callout-note title="Conceito-chave: colonato"}
+O **colonato** foi um regime de trabalho que se difundiu no Baixo Império, no qual o **colono** — camponês juridicamente livre — ficava **atado à terra** (o *glebae adscriptus*, "preso à gleba") de um grande proprietário, a quem devia trabalho e parte da colheita, sem poder abandoná-la. O colonato representa uma **transição** entre o **escravismo** antigo e a **servidão** feudal (que você estudará no Volume 5): o trabalhador já não é uma "coisa" comprável como o escravo, mas também não é plenamente livre como o camponês. Nele se enxerga o embrião das relações que estruturariam o **feudalismo**.
+:::
+
+Enquanto isso, a vida se **ruralizava**. Diante da insegurança, da carga tributária e do enfraquecimento do Estado, muitos abandonavam as cidades e buscavam proteção nas **grandes propriedades rurais** (as *villae*) de senhores poderosos, que se tornavam quase autossuficientes e cada vez mais independentes do poder central. Esse movimento — de fragmentação do poder, ruralização da economia e vínculos pessoais de proteção e dependência — desenhava, aos poucos, a paisagem do futuro **feudalismo**.
+
+## O cristianismo: de seita perseguida a religião oficial {#sec-cristianismo}
+
+No meio dessa transformação, uma força nova ganhava terreno. O **cristianismo** nasceu no século I d.C. na **Judeia**, província romana, a partir da pregação de **Jesus de Nazaré** (c. 4 a.C.–30 d.C.), um judeu que anunciava um Deus único, o amor ao próximo, a igualdade de todos diante de Deus e a salvação e a vida eterna, sobretudo para os humildes e os sofredores. Considerado uma ameaça, Jesus foi condenado e **crucificado** pelas autoridades romanas. Seus seguidores, porém, acreditando em sua ressurreição, difundiram a mensagem — com destaque para **Paulo de Tarso**, que a levou aos não judeus (os "gentios") por todo o Mediterrâneo, transformando uma seita judaica numa religião **universal**.
+
+Por que o cristianismo se espalhou tão rapidamente? Vários fatores ajudam a explicar: a mensagem de **igualdade, esperança e consolo** atraía sobretudo os **pobres, os escravos e as mulheres** — os excluídos da sociedade romana; a promessa de **vida eterna** dava sentido ao sofrimento; a facilidade de circulação proporcionada pela própria **Pax Romana** (estradas, língua comum) favorecia a pregação; e a organização das comunidades cristãs oferecia solidariedade e pertencimento num mundo em crise.
+
+Durante quase três séculos, os cristãos foram **perseguidos** de forma intermitente pelo Estado romano — não tanto por sua fé em si, mas porque **recusavam-se a cultuar o imperador** e os deuses romanos, o que era visto como deslealdade e ameaça à ordem. Muitos foram martirizados. Mas as perseguições não detiveram o crescimento; ao contrário, os **mártires** fortaleciam a coesão e o prestígio da fé.
+
+A virada veio no século IV (@fig-cristianismo). Em **313 d.C.**, o imperador **Constantino** promulgou o **Édito de Milão**, que concedeu **liberdade religiosa** e pôs fim às perseguições. Constantino aproximou-se dos cristãos e convocou o **Concílio de Niceia** (325 d.C.) para unificar a doutrina. Finalmente, em **380 d.C.**, o imperador **Teodósio** tornou o cristianismo a **religião oficial** do Império, proibindo os cultos pagãos. Em menos de um século, a fé perseguida tornara-se a religião do Estado — e a Igreja, uma instituição cada vez mais poderosa, que herdaria parte da autoridade romana e atravessaria toda a Idade Média.
+
+::: {#fig-cristianismo}
+
+```{.tikz}
+%%| filename: fig-cristianismo
+%%| alt: Linha do tempo do cristianismo, da pregação de Jesus à oficialização por Teodósio e à queda de Roma.
+\begin{tikzpicture}[>=stealth]
+  \draw[eixo] (-0.3,0) -- (11.8,0);
+  \node[ponto] at (0.4,0) {}; \node[above, font=\scriptsize, align=center] at (0.4,0.2) {\textasciitilde30};
+  \node[below, font=\scriptsize, text=manualgray, align=center] at (0.4,-0.35) {Jesus\\crucificado};
+  \node[ponto, fill=manualgray] at (3.0,0) {}; \node[above, font=\scriptsize, align=center] at (3.0,0.2) {I--III};
+  \node[below, font=\scriptsize, text=manualgray, align=center] at (3.0,-0.35) {expansão e\\perseguições};
+  \node[ponto, fill=manualgreen] at (6.0,0) {}; \node[above, font=\scriptsize, align=center] at (6.0,0.2) {313};
+  \node[below, font=\scriptsize, text=manualgreen, align=center] at (6.0,-0.35) {Édito de Milão\\(Constantino)};
+  \node[ponto, fill=manualblue] at (8.6,0) {}; \node[above, font=\scriptsize, align=center] at (8.6,0.2) {380};
+  \node[below, font=\scriptsize, text=manualblue, align=center] at (8.6,-0.35) {religião oficial\\(Teodósio)};
+  \node[ponto, fill=manualred] at (11.2,0) {}; \node[above, font=\scriptsize, align=center] at (11.2,0.2) {476};
+  \node[below, font=\scriptsize, text=manualred, align=center] at (11.2,-0.35) {queda\\(Ocidente)};
+\end{tikzpicture}
+```
+
+Do Gólgota ao poder: em pouco mais de três séculos, o cristianismo passou de seita perseguida a religião oficial do Império.
+:::
+
+## 476: a divisão e a "queda" {#sec-queda-roma}
+
+Sentindo-se grande demais para ser governado de um só ponto, o Império foi definitivamente **dividido** em **395 d.C.**, à morte de Teodósio, entre seus dois filhos: o **Império Romano do Ocidente** (capital em Ravena/Roma) e o **Império Romano do Oriente** (capital em Constantinopla). Os destinos das duas metades seriam opostos.
+
+O **Ocidente**, mais rural, empobrecido e exposto, sucumbiu à pressão dos povos **germânicos** (godos, vândalos, francos, anglos, saxões, lombardos e outros). Pressionados por sua vez pela chegada dos **hunos** vindos da Ásia, esses povos — que os romanos chamavam de "**bárbaros**" — atravessaram as fronteiras, ora como invasores, ora como aliados instalados dentro do império. Em **410**, Roma foi saqueada pelos visigodos; em **455**, pelos vândalos. Aos poucos, o território ocidental fragmentou-se em **reinos germânicos**. Em **476 d.C.**, quando o chefe **Odoacro** depôs **Rômulo Augústulo** e nem se deu ao trabalho de nomear um sucessor, o Império do Ocidente simplesmente **deixou de existir** — mais um desfecho de um longo processo do que uma catástrofe súbita.
+
+Já o **Império do Oriente**, mais rico, urbanizado e defensável, **sobreviveu** por mais **mil anos**, sob o nome de **Império Bizantino**, até a queda de Constantinopla em **1453** (que você estudará no Volume 5). Por isso é impreciso falar da "queda do Império Romano" sem qualificação: caiu o Ocidente; o Oriente prosseguiu, cristão e helenizado.
+
+::: {.callout-important title="Anacronismo e preconceito: os 'bárbaros'"}
+A palavra **"bárbaro"** carrega um preconceito que devemos desarmar. Para os romanos, "bárbaro" era simplesmente o estrangeiro que não partilhava sua língua e cultura — não necessariamente um selvagem destruidor. Os povos germânicos tinham suas próprias leis, organização social, arte e religião; muitos já viviam **dentro** do império, serviam em suas legiões e admiravam sua civilização. A imagem dos "bárbaros" como hordas ignorantes que destruíram a civilização foi, em grande parte, construída **depois**, e reforçada no século XIX. Historicamente, a formação dos reinos germânicos foi menos uma "destruição" e mais uma **fusão** entre o mundo romano e o germânico — da qual nasceria a Europa medieval.
+:::
+
+## A Antiguidade Tardia: transição, não apenas ruína {#sec-antiguidade-tardia}
+
+Justamente para escapar da imagem catastrófica de uma "queda", os historiadores criaram o conceito de **Antiguidade Tardia** (aproximadamente dos séculos III a VII d.C.) — uma longa fase de **transição** entre o mundo antigo e o medieval, marcada não só por perdas, mas também por **criações**. Foi nesse período que o **cristianismo** se consolidou e criou instituições duradouras (a Igreja, o papado, o monaquismo); que a cultura clássica greco-romana se **fundiu** com as tradições cristã e germânica; que se formaram os **reinos** que dariam origem às nações europeias; e que o eixo do mundo se deslocou, com o florescimento de **Constantinopla** e, logo em seguida (Volume 5), o surgimento do **Islã**. A Antiguidade Tardia nos ensina a ver a história como **processo**, não como uma sucessão de auges e quedas abruptas.
+
+## 🔎 Historiografia em Foco {#sec-historiografia-queda}
+
+Nenhuma questão da história antiga gerou tantos livros quanto esta: **por que Roma caiu?** — e, mais recentemente, **Roma "caiu" mesmo?** O debate é um dos mais ricos exemplos de como as interpretações históricas mudam.
+
+**A tese clássica do "declínio e queda".** No século XVIII, o inglês **Edward Gibbon**, em sua monumental *Declínio e queda do Império Romano* [@gibbon2005], consagrou a imagem de um império que **decaiu** e **desabou**. Gibbon e uma longa tradição posterior buscaram as **causas da queda**: a decadência moral, o peso dos impostos, a crise econômica, as invasões bárbaras e — numa tese polêmica de Gibbon — o próprio **cristianismo**, que teria minado o vigor guerreiro e cívico dos romanos ao voltar as atenções para o além. Nessa chave, 476 marca uma verdadeira **catástrofe**, o mergulho da Europa nas "trevas" medievais.
+
+**A tese da "transformação" (Antiguidade Tardia).** A historiografia do século XX, com destaque para **Peter Brown** [@brown2017], deslocou radicalmente o olhar. Em vez de "declínio e queda", passou a falar em **transformação**: o mundo romano não teria simplesmente "acabado", mas se **metamorfoseado** lentamente num novo mundo, o medieval, num processo de longa duração que combinou continuidades e rupturas. A Antiguidade Tardia, nessa leitura, é uma época **criativa** — de vitalidade religiosa, artística e institucional —, e não apenas de ruína. Os "bárbaros" não destruíram Roma: **fundiram-se** a ela. E o Oriente, afinal, nem caiu.
+
+**Por que as interpretações mudaram?** Porque mudaram as **perguntas** e os **valores** de quem escreve. Gibbon, iluminista do século XVIII, via com desconfiança a religião e admirava a Roma cívica e racional; era natural que lesse o triunfo do cristianismo e a Idade Média como um **retrocesso**. Historiadores do século XX e XXI, mais atentos aos processos de longa duração (na esteira dos Annales, @sec-correntes-historiograficas) e menos presos à ideia de "civilização *versus* barbárie", passaram a valorizar as **continuidades** e a criatividade da transição. O caso ensina uma lição que atravessa todo este manual: as respostas do historiador dependem das **perguntas** que ele faz — e essas perguntas mudam com o tempo. "Queda" e "transformação" não são apenas descrições diferentes: são **modos distintos de pensar a própria história**.
+
+## Resumo do capítulo {#sec-resumo-queda}
+
+- A **crise do século III** combinou fatores **internos** — fim da expansão (menos escravos e saques), crise econômica (queda da produção, impostos, inflação, desvalorização da moeda) e **anarquia militar** (imperadores derrubados pelas legiões) — e **externos** (pressão de germânicos e persas nas fronteiras).
+- **Diocleciano** (Tetrarquia) e **Constantino** (nova capital, Constantinopla; aproximação com o cristianismo) tentaram **reformas** que salvaram temporariamente o império, mas o tornaram mais autoritário e rural.
+- O **colonato** (colono livre, mas preso à terra) e a **ruralização** (fuga para as *villae*, fragmentação do poder) anunciavam a transição do **escravismo** para a **servidão** feudal.
+- O **cristianismo** nasceu na Judeia (pregação de **Jesus**; universalização por **Paulo**), atraiu os excluídos com sua mensagem de igualdade e salvação, foi **perseguido** (recusa ao culto imperial) e depois oficializado: **Édito de Milão** (313, Constantino) → **Concílio de Niceia** (325) → **religião oficial** (380, Teodósio).
+- O Império foi **dividido** em 395; o **Ocidente** fragmentou-se em **reinos germânicos** e "caiu" em **476** (Odoacro depõe Rômulo Augústulo); o **Oriente** (**Bizâncio**) sobreviveu até **1453**.
+- A **Antiguidade Tardia** (séc. III–VII) é vista como fase de **transição** criativa entre o mundo antigo e o medieval, não apenas de ruína; a imagem dos "**bárbaros**" destruidores é um preconceito a desarmar (houve **fusão**, não só destruição).
+- A historiografia debate entre a tese do **"declínio e queda"** (Gibbon) e a da **"transformação"** (Peter Brown), mostrando como as **perguntas** e os valores de cada época moldam as respostas do historiador.
+
+## Exercícios {#sec-exercicios-queda}
+
+**1.** Explique como o **fim da expansão** territorial contribuiu para a crise econômica do Império Romano.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Enquanto Roma conquistava, as guerras forneciam um fluxo constante de **escravos** (prisioneiros) e de **saques/tributos** que alimentavam a economia. Quando a expansão **cessou** (a partir do século II–III d.C.), essa fonte **secou**: faltaram escravos baratos para os latifúndios e as minas, a produção caiu e o comércio retraiu-se. Para sustentar o enorme **exército** e a **burocracia**, o Estado **elevou os impostos** e **desvalorizou a moeda**, gerando **inflação** e empobrecimento generalizado. Assim, o fim das conquistas desorganizou toda a base econômica do império.
+:::
+
+**2.** O que foi a **anarquia militar** do século III?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Foi um período (grande parte do século III d.C.) de intensa **instabilidade política**, no qual dezenas de imperadores foram **proclamados e derrubados** por suas próprias **legiões** num curto intervalo, em meio a golpes e assassinatos. O poder deixou de depender do Senado ou de qualquer legitimidade institucional e passou a repousar na **força bruta dos exércitos**, que faziam e desfaziam imperadores conforme seus interesses. Essa instabilidade enfraqueceu ainda mais o Estado, justamente quando as fronteiras estavam sob crescente pressão externa.
+:::
+
+**3.** Explique o que foi o **colonato** e por que ele é considerado uma transição entre o escravismo e a servidão feudal.
+
+::: {.callout-tip collapse="true" title="Solução"}
+O **colonato** foi um regime de trabalho do Baixo Império em que o **colono** — camponês **juridicamente livre** — ficava **preso à terra** de um grande proprietário, a quem devia trabalho e parte da colheita, sem poder abandoná-la. É considerado uma **transição** porque situa-se **entre** dois sistemas: o colono já **não é** um escravo (não é uma "coisa" comprável e vendável, como no **escravismo** antigo), mas também **não é** plenamente livre (está atado à terra, como será o **servo** no **feudalismo**). Nele se enxerga, portanto, o **embrião** das relações de dependência que estruturariam o mundo medieval.
+:::
+
+**4.** Aponte três fatores que ajudam a explicar a **rápida expansão** do cristianismo no Império Romano.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Fatores (bastam três): **(1)** a **mensagem de igualdade, esperança e consolo**, que atraía sobretudo os **excluídos** — pobres, escravos e mulheres —, prometendo que todos são iguais diante de Deus; **(2)** a promessa de **salvação e vida eterna**, que dava sentido ao sofrimento terreno; **(3)** a facilidade de circulação proporcionada pela própria **Pax Romana** (estradas, moeda e línguas comuns), que ajudava a pregação a se espalhar; **(4)** a **organização e a solidariedade** das comunidades cristãs, que ofereciam pertencimento num mundo em crise. Pode-se citar ainda o efeito coesivo do **martírio** diante das perseguições.
+:::
+
+**5.** Descreva as três grandes etapas da oficialização do cristianismo, indicando o imperador e a data de cada uma.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**(1) 313 d.C. — Édito de Milão**, de **Constantino**: concedeu **liberdade religiosa** aos cristãos e pôs fim às perseguições. **(2) 325 d.C. — Concílio de Niceia**, convocado por **Constantino**: reuniu líderes cristãos para **unificar a doutrina** (definição do credo). **(3) 380 d.C. — Édito de Tessalônica**, de **Teodósio**: tornou o cristianismo a **religião oficial** do Império e proibiu os cultos pagãos. Em pouco menos de um século, portanto, o cristianismo passou de fé perseguida a religião do Estado.
+:::
+
+**6.** Por que é impreciso falar simplesmente na "queda do Império Romano" em 476?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque em **395** o Império fora **dividido** em duas metades, e apenas o **Império Romano do Ocidente** deixou de existir em **476** (quando Odoacro depôs Rômulo Augústulo). O **Império Romano do Oriente** (o **Império Bizantino**), mais rico e defensável, **sobreviveu por mais mil anos**, até a queda de Constantinopla em **1453**. Além disso, mesmo no Ocidente a "queda" não foi uma catástrofe súbita, mas o **desfecho de um longo processo** de crise, fragmentação e fusão com os povos germânicos. Por isso é mais preciso falar na queda **do Ocidente** — e entendê-la como transformação, não como um colapso instantâneo.
+:::
+
+**7.** (Estilo ENEM) Leia o texto.
+
+> Durante muito tempo, falou-se em "declínio e queda" de Roma, como se uma civilização gloriosa tivesse simplesmente desabado nas mãos de bárbaros. Hoje, muitos historiadores preferem falar em "Antiguidade Tardia" e em "transformação": o mundo romano não teria acabado de repente, mas se metamorfoseado lentamente num mundo novo, o medieval.
+
+A mudança de vocabulário descrita no texto ("queda" → "transformação") indica que
+
+**(a)** os fatos históricos mudaram com o tempo.
+**(b)** as interpretações históricas se modificam conforme as perguntas e os valores de cada época.
+**(c)** o Império Romano do Ocidente nunca chegou a acabar.
+**(d)** os historiadores atuais desconhecem as fontes sobre o período.
+**(e)** a Idade Média não existiu como período histórico.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (b).** A passagem de "queda" para "transformação" não significa que os **fatos** mudaram (a), mas que mudaram as **interpretações** — porque cada época faz perguntas diferentes e parte de valores diferentes (por exemplo, deixar de ver a Idade Média como "trevas"). Erros: (a) os fatos do passado não mudam, as leituras deles sim; (c) o Ocidente de fato deixou de existir como império em 476, embora por transformação; (d) e (e) são afirmações falsas que o texto não sustenta.
+:::
+
+**8.** (Estilo vestibular — dissertativa) Compare as teses do **"declínio e queda"** (Gibbon) e da **"transformação"** (Antiguidade Tardia) e explique por que interpretações tão diferentes puderam surgir sobre o mesmo período.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Resposta esperada. A tese do **"declínio e queda"**, consagrada por **Edward Gibbon** no século XVIII, vê o fim de Roma como uma **catástrofe**: um império glorioso que **decaiu** (por decadência moral, crise econômica, invasões e, para Gibbon, pela influência "enfraquecedora" do cristianismo) e **desabou** em 476, mergulhando a Europa nas "trevas" medievais. A tese da **"transformação"**, associada a historiadores como **Peter Brown** e ao conceito de **Antiguidade Tardia**, entende o período não como ruína súbita, mas como uma **metamorfose lenta e criativa**: o mundo romano se converteu, ao longo de séculos, num mundo novo (o medieval), com continuidades e rupturas, e os "bárbaros" **fundiram-se** a Roma em vez de simplesmente destruí-la; ademais, o Oriente sequer caiu. Interpretações tão diferentes surgiram porque mudaram as **perguntas e os valores** de quem as formula: Gibbon, iluminista, desconfiava da religião e admirava a Roma cívica, lendo o cristianismo e a Idade Média como retrocesso; os historiadores contemporâneos, atentos à **longa duração** e livres da oposição rígida entre "civilização e barbárie", valorizam as continuidades e a criatividade da transição. Uma boa resposta conclui que o debate mostra como o conhecimento histórico é uma **construção**, dependente das questões que cada época dirige ao passado.
+:::
+
+## Para saber mais {#sec-para-saber-mais-queda}
+
+**Livros**
+
+- BROWN, Peter. *A ascensão do cristianismo no Ocidente* [@brown2017]. A grande referência sobre a Antiguidade Tardia como transformação, e não apenas queda.
+- GIBBON, Edward. *Declínio e queda do Império Romano* (edição abreviada) [@gibbon2005]. O clássico do século XVIII que fundou o debate — leitura histórica e historiográfica.
+- GRIMAL, Pierre. *A civilização romana* [@grimal2009]. Útil para acompanhar as instituições romanas em sua fase final.
+
+**Filmes e documentários**
+
+- *A Queda do Império Romano* (1964) e a refilmagem temática em *Gladiador* dramatizam a crise imperial — bons pontos de partida para discutir o mito da "queda".
+- Documentários sobre **Constantino**, o **cristianismo primitivo** e as **migrações germânicas** ajudam a visualizar a transição para o mundo medieval, tema de abertura do próximo volume.
