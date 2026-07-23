@@ -1,5 +1,227 @@
 # A sociedade feudal: senhores, servos e a Igreja {#sec-sociedade-feudal}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Por volta do ano 1020, o bispo **Adalberão de Laon** escreveu ao rei da França uma frase que se tornaria célebre: a sociedade cristã, dizia ele, divide-se em três grupos — "uns rezam, outros combatem e outros trabalham" (*oratores*, *bellatores*, *laboratores*). Não era uma observação neutra: era um **modelo**, uma imagem ideal de como a sociedade *deveria* ser, com cada grupo cumprindo sua função e obedecendo a seu lugar. Essa visão de uma sociedade dividida em **três ordens**, hierárquica e imóvel, atravessou toda a Idade Média e ajuda a entender como os medievais enxergavam a si mesmos. Mas será que a realidade era assim tão ordenada? Neste capítulo, você vai conhecer por dentro a **sociedade feudal**: quem eram os senhores que combatiam, os servos que trabalhavam e os clérigos que rezavam — e também as tensões, as revoltas e as mulheres que esse belo esquema das "três ordens" costumava deixar na sombra.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- explicar o modelo das **três ordens** (*oratores*, *bellatores*, *laboratores*) e seu caráter **ideológico**;
+- caracterizar a **nobreza feudal**, a cavalaria e os valores da honra e da guerra;
+- descrever a condição dos **servos** e as relações de trabalho no campo, distinguindo servidão de escravidão;
+- analisar o papel central da **Igreja** — espiritual, econômico, cultural e político — na sociedade medieval;
+- reconhecer a presença e a ação das **mulheres** e das **revoltas camponesas**, muitas vezes silenciadas pelo modelo trifuncional.
 :::
+
+## As três ordens: a imagem ideal da sociedade {#sec-tres-ordens}
+
+Os pensadores medievais explicavam a organização social por meio de uma imagem poderosa: a sociedade era um **corpo** com três partes, cada uma com uma função indispensável querida por Deus (@fig-tres-ordens). Havia os que **rezam** (o clero, os *oratores*), encarregados da salvação das almas; os que **combatem** (a nobreza guerreira, os *bellatores*), encarregados da proteção; e os que **trabalham** (os camponeses, os *laboratores*), encarregados de sustentar a todos com seu trabalho. Nessa concepção, a desigualdade não era um problema a corrigir, mas a própria **ordem natural e divina** do mundo: cada um nascia num lugar e ali devia permanecer.
+
+::: {#fig-tres-ordens}
+
+```{.tikz}
+%%| filename: fig-tres-ordens
+%%| alt: Pirâmide social da sociedade feudal, do clero e da nobreza no topo aos camponeses e servos na base.
+\begin{tikzpicture}
+  % pirâmide
+  \draw[thick, manualgray] (0,0) -- (6,0) -- (3,5.2) -- cycle;
+  \draw[thick, manualgray] (1.15,2) -- (4.85,2);
+  \draw[thick, manualgray] (0.6,1) -- (5.4,1);
+
+  \node[align=center, font=\scriptsize] at (3,4.1) {\textbf{Clero}\\\textit{oratores}\\(os que rezam)};
+  \node[align=center, font=\scriptsize] at (3,1.45) {\textbf{Nobreza}\\\textit{bellatores} (os que combatem)};
+  \node[align=center, font=\scriptsize] at (3,0.42) {\textbf{Camponeses e servos} — \textit{laboratores}\\(os que trabalham e sustentam todos)};
+
+  % anotações laterais
+  \node[right, text width=4.2cm, font=\scriptsize, text=manualblue] at (6.4,4) {\textbf{Grupos privilegiados}: não pagavam a maioria dos tributos; viviam do trabalho alheio.};
+  \node[right, text width=4.2cm, font=\scriptsize, text=manualred] at (6.4,0.7) {\textbf{Maioria da população}: sustentava as outras duas ordens com talha, corveia e dízimo.};
+\end{tikzpicture}
+```
+
+O modelo das **três ordens**: uma sociedade **estamental**, hierárquica e, em tese, imóvel. Note que a base — os que trabalham — sustentava o topo.
+:::
+
+::: {.callout-note title="Conceito-chave: sociedade estamental"}
+A sociedade feudal era **estamental**: dividida em **estamentos** (ou ordens), grupos fechados definidos pelo **nascimento** e pela **função**, com direitos e deveres jurídicos distintos. A mobilidade entre eles era muito difícil: em regra, filho de servo nascia servo, filho de nobre nascia nobre. Isso a diferencia da sociedade de **classes** moderna, em que, ao menos em tese, a posição depende da riqueza e pode mudar. No estamento, a hierarquia era vista como **sagrada e permanente**.
+:::
+
+É crucial perceber que esse esquema era uma **ideologia** — uma representação interessada, produzida pelo próprio clero, que justificava a ordem existente e o lugar de cada um. Como mostrou o historiador **Georges Duby** em *As três ordens* [@duby1994], a imagem trifuncional servia para **conter** as tensões sociais: apresentava a desigualdade como harmonia e cooperação ("cada um faz sua parte"), ocultando que uma ordem (a que trabalhava) sustentava, com seu suor, o ócio e o poder das outras duas. A realidade social, veremos, era bem mais conflituosa do que o modelo sugeria.
+
+## Os que combatem: a nobreza e a cavalaria {#sec-nobreza-cavalaria}
+
+A **nobreza** era a ordem dos guerreiros, a elite que detinha as terras, o poder político local e o monopólio da violência armada. Ser nobre significava, antes de tudo, **não trabalhar com as mãos**: viver da renda da terra e dedicar-se à guerra, à caça e ao exercício do mando. A condição era, em regra, **hereditária**, transmitida pelo sangue.
+
+O guerreiro montado a cavalo, o **cavaleiro**, tornou-se a figura central desse mundo. Tornar-se cavaleiro exigia recursos consideráveis — o cavalo de guerra, a armadura, as armas e o longo treinamento eram caríssimos —, o que reforçava o caráter aristocrático da função. Em torno da cavalaria desenvolveu-se um **código de valores**, a **cavalaria** propriamente dita: ideais de **honra**, **coragem**, **lealdade** ao suserano, proteção aos fracos e, sob a influência da Igreja, defesa da fé. Esse ideal, é claro, contrastava muitas vezes com a violência real dos nobres — daí a Igreja ter tentado discipliná-la, como veremos.
+
+::: {.callout-tip title="Dica de prova: primogenitura e as Cruzadas"}
+Para manter o **patrimônio** familiar indiviso, a nobreza adotou a **primogenitura**: em geral, só o **filho mais velho** herdava as terras e o título. Isso criava um problema — o que fazer com os filhos mais novos, nobres sem herança? Muitos iam para a Igreja; outros buscavam terras e glória na guerra. Esse excedente de **cavaleiros sem feudo** é um dos fatores que ajudam a explicar a energia expansionista da Europa a partir do século XI, das **Cruzadas** à Reconquista (temas do @sec-baixa-idade-media). Guarde essa conexão: um costume de herança teve consequências geopolíticas enormes.
+:::
+
+## Os que trabalham: camponeses e servos {#sec-camponeses-servos}
+
+Na base da pirâmide, sustentando todo o edifício com seu trabalho, estava a **imensa maioria** da população: os **camponeses**. Nem todos tinham a mesma condição. Alguns eram **vilões** — camponeses juridicamente **livres**, que pagavam rendas ao senhor mas podiam, em tese, deixar a terra. A maioria, porém, era de **servos**, presos a uma condição de dependência que os prendia ao domínio.
+
+::: {.callout-note title="Conceito-chave: servidão"}
+A **servidão** era a condição do camponês **atado à terra** (à *gleba*): o servo não podia abandonar o domínio, e, se a terra fosse transferida a outro senhor, ele ia junto com ela. Devia ao senhor obrigações pesadas — **corveia** (trabalho gratuito), **talha** (parte da colheita), **banalidades** (taxas pelo uso do moinho, forno e lagar) — além do **dízimo** à Igreja. Mas atenção: o servo **não era escravo**. Ele **não podia ser comprado nem vendido** separadamente da terra, tinha família reconhecida, cultivava seu próprio lote e dispunha de alguns direitos costumeiros. A servidão é uma forma de **exploração**, mas distinta da escravidão antiga.
+:::
+
+::: {.callout-important title="Armadilha comum: servo não é escravo"}
+Um erro frequente em provas é tratar **servo** e **escravo** como sinônimos. Não são. O **escravo** (na Antiguidade) era **propriedade** — uma coisa comprável, vendável, sem direitos nem família reconhecida. O **servo** medieval era uma **pessoa** juridicamente reconhecida, com família, casa e lote próprios, presa **à terra** (não a um dono que o vende avulso). A relação servil baseava-se em **obrigações costumeiras** recíprocas — o servo devia trabalho e rendas; o senhor devia proteção. Confundir os dois apaga a diferença histórica entre o **escravismo** antigo e a **servidão** feudal.
+:::
+
+A vida camponesa era dura. As técnicas agrícolas eram rudimentares, a produtividade baixa, e uma má colheita significava **fome**. Doenças, guerras entre senhores e a insegurança geral tornavam a existência precária e curta. Ainda assim, ao longo dos séculos, os camponeses foram os autores de **inovações técnicas** decisivas — o **arado de ferro** com roda, a **charrua** puxada por cavalos com a nova **coelheira** (que não sufocava o animal), a **rotação trienal** de culturas e a difusão dos **moinhos** de água e de vento. Essas melhorias, lentas mas cumulativas, aumentaram a produção de alimentos e prepararam, a partir do século XI, o crescimento da população e o renascimento das cidades.
+
+## Os que rezam: a Igreja medieval {#sec-igreja-medieval}
+
+Nenhuma instituição foi tão poderosa e onipresente na Idade Média quanto a **Igreja Católica**. Seu poder era, ao mesmo tempo, **espiritual**, **econômico**, **cultural** e **político** (@fig-poder-igreja) — quatro dimensões que se reforçavam mutuamente.
+
+No plano **espiritual**, a Igreja controlava o acesso à **salvação**, o bem mais desejado por todos numa época de fé profunda. Do batismo à extrema-unção, os **sacramentos** marcavam cada etapa da vida, e só o clero podia administrá-los. As penas espirituais — a **excomunhão** (exclusão da comunidade dos fiéis) e o **interdito** (suspensão dos sacramentos numa região inteira) — eram armas temidas até por reis. No plano **econômico**, a Igreja era a maior **proprietária de terras** da Europa, uma verdadeira potência feudal, e recolhia o **dízimo** (a décima parte da produção) de toda a população. No plano **cultural**, deteve por séculos o quase monopólio da **escrita e do saber**: era nos **mosteiros** que se copiavam e guardavam os livros, e da Igreja saíram as primeiras **universidades** (Bolonha, Paris, Oxford) a partir do século XII. No plano **político**, sagrava os reis, mediava conflitos e, na figura do **papa**, aspirava a uma autoridade superior à de qualquer monarca.
+
+::: {#fig-poder-igreja}
+
+```{.tikz}
+%%| filename: fig-poder-igreja
+%%| alt: Diagrama das quatro dimensões do poder da Igreja medieval: espiritual, econômica, cultural e política.
+\begin{tikzpicture}[>=stealth]
+  \node[draw, very thick, circle, fill=manualblue!15, align=center, font=\small\bfseries, minimum size=1.9cm] (ig) at (0,0) {Igreja\\\scriptsize medieval};
+  \node[draw, fill=manualyellow!22, rounded corners, align=center, font=\scriptsize, text width=2.6cm] (esp) at (-3.6,1.9) {\textbf{Espiritual}\\salvação,\\sacramentos,\\excomunhão};
+  \node[draw, fill=manualgreen!18, rounded corners, align=center, font=\scriptsize, text width=2.6cm] (eco) at (3.6,1.9) {\textbf{Econômico}\\terras, dízimo,\\potência feudal};
+  \node[draw, fill=manualred!16, rounded corners, align=center, font=\scriptsize, text width=2.6cm] (cul) at (-3.6,-1.9) {\textbf{Cultural}\\escrita, mosteiros,\\universidades};
+  \node[draw, fill=manualgray!22, rounded corners, align=center, font=\scriptsize, text width=2.6cm] (pol) at (3.6,-1.9) {\textbf{Político}\\sagra reis,\\papado, mediação};
+  \draw[vetor] (ig) -- (esp); \draw[vetor] (ig) -- (eco);
+  \draw[vetor] (ig) -- (cul); \draw[vetor] (ig) -- (pol);
+\end{tikzpicture}
+```
+
+As quatro dimensões, interligadas, do poder da Igreja medieval. Controlar a salvação era também controlar terras, saber e reis.
+:::
+
+Dentro da Igreja, o **monasticismo** teve papel especial. Seguindo a regra de **São Bento** (*ora et labora*), os monges combinavam oração e trabalho, e mosteiros como os da ordem de **Cluny** (fundada em 910) tornaram-se centros de reforma, cultura e imensa riqueza. A tensão entre a **riqueza** acumulada pela Igreja e o **ideal de pobreza** do Evangelho seria fonte constante de crítica e de movimentos de reforma — inclusive de heresias, duramente combatidas, e, séculos depois, da própria Reforma Protestante (Volume 6).
+
+::: {.callout-warning title="Controvérsia: as relações entre a Igreja e o poder temporal"}
+A aliança entre trono e altar não era isenta de conflitos. O mais célebre foi a **Querela das Investiduras** (séculos XI–XII), disputa entre o **papa** e o **imperador** sobre quem tinha o direito de nomear os bispos — isto é, de controlar cargos que eram, ao mesmo tempo, espirituais e feudais (com terras e poder). O episódio de **Canossa** (1077), em que o imperador Henrique IV esperou três dias descalço na neve para obter o perdão do papa Gregório VII, virou símbolo da pretensão papal de superioridade. O conflito revela uma tensão estrutural da Cristandade medieval: **dois poderes universais** — o espiritual e o temporal — disputando a primazia.
+:::
+
+## O que o modelo silencia: mulheres e revoltas {#sec-silenciados}
+
+O esquema das três ordens é elegante, mas **enganoso**: ele deixa de fora boa parte da sociedade real e apresenta como harmonia o que era, muitas vezes, **conflito**. Vale recuperar duas ausências.
+
+**As mulheres.** O modelo trifuncional é masculino — fala de guerreiros, clérigos e trabalhadores homens. Mas as mulheres estavam em toda parte e eram essenciais. As **camponesas** trabalhavam no campo, fiavam, cuidavam dos animais e da casa, muitas vezes em jornada dupla. As **nobres**, embora subordinadas ao pai e ao marido e usadas como peças em alianças matrimoniais, podiam administrar o feudo na ausência do senhor (em guerra ou nas Cruzadas) e, como viúvas, exercer poder real. Nos **conventos**, as religiosas encontravam um dos poucos espaços de instrução e autonomia possíveis: a abadessa **Hildegarda de Bingen** (1098–1179), por exemplo, foi teóloga, compositora, médica e conselheira de papas e imperadores. A ideologia medieval oscilava entre desvalorizar a mulher (herdeira de Eva, "porta do pecado") e venerá-la (no culto crescente a **Maria**), mas em nenhum caso a excluía da história real.
+
+**As revoltas camponesas.** A imagem de camponeses submissos e conformados é falsa. A relação servil era marcada por **resistência** cotidiana — da sonegação de rendas à fuga — e, por vezes, por **revoltas** abertas contra o aumento das obrigações. As grandes explosões viriam sobretudo na Baixa Idade Média, com a crise do século XIV: a **Jacquerie** na França (1358) e a **revolta de Wat Tyler** na Inglaterra (1381), entre outras. Esses movimentos, geralmente esmagados com violência, provam que a "ordem harmoniosa" das três ordens era, na verdade, atravessada por **luta social**. Os camponeses não eram apenas o pedestal silencioso da pirâmide: eram **sujeitos históricos** que também disputavam sua condição.
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+Como interpretar o esquema das **três ordens**? Aqui os historiadores divergem de modo instrutivo, e o contraste ajuda a pensar toda a fonte medieval.
+
+**A leitura funcionalista: uma sociedade em harmonia.** Uma primeira interpretação, mais próxima de como os próprios medievais se descreviam, vê no modelo trifuncional o reflexo de uma sociedade de fato **orgânica e cooperativa**, em que cada ordem cumpria uma função necessária e a hierarquia era aceita como natural. Segundo essa visão, o esquema **descreve** uma realidade de interdependência: o clero salvava, o nobre protegia, o camponês alimentava — e todos precisavam uns dos outros.
+
+**A leitura crítica: uma ideologia de dominação.** Uma segunda interpretação, associada a **Georges Duby** [@duby1994] e à historiografia social, sustenta que o esquema não **descreve** a sociedade, mas a **prescreve** — é um **instrumento ideológico**. Produzido pelo clero num momento de tensões (por volta do ano 1000), o modelo servia para **legitimar** a ordem existente e conter ameaças: ao apresentar a desigualdade como vontade divina e cooperação harmoniosa, desqualificava toda contestação como rebelião contra Deus. Duby mostra que a "harmonia" das três ordens **ocultava** a exploração real de uma ordem pelas outras duas — e o silêncio sobre mulheres, mercadores e revoltas.
+
+**Por que a divergência importa?** Porque toca uma questão de método central: uma fonte medieval nos dá acesso à **realidade** ou às **representações** que uma época fazia de si mesma? A leitura funcionalista tende a **tomar a fonte ao pé da letra**; a leitura crítica pergunta **quem** produziu a fonte, **para quê** e **o que ela silencia** — exatamente a crítica documental que você aprendeu no Volume 1. O ponto não é que uma leitura seja "verdadeira" e a outra "falsa", mas que a segunda nos ensina a ler o discurso das três ordens como **ato de poder**, e não como fotografia neutra. Marc Bloch [@blochFeudal2009], por sua vez, já alertava que compreender a sociedade feudal exige captar tanto as **representações mentais** dos medievais quanto as **relações materiais** que as sustentavam — as duas coisas, não uma só.
+
+## Resumo do capítulo {#sec-resumo}
+
+- A sociedade feudal era **estamental**: dividida em **ordens** fechadas pelo nascimento e pela função, com hierarquia vista como sagrada e imóvel (baixa mobilidade social).
+- O modelo das **três ordens** — *oratores* (clero, que reza), *bellatores* (nobreza, que combate) e *laboratores* (camponeses, que trabalham) — era uma **ideologia**, produzida pelo clero, que justificava a desigualdade como harmonia divina (Duby).
+- A **nobreza** vivia da terra e da guerra; o **cavaleiro** encarnava seus valores (honra, lealdade, coragem). A **primogenitura** gerava cavaleiros sem herança, um dos fatores da expansão (Cruzadas, Reconquista).
+- Os **camponeses** eram a maioria; entre eles, os **servos** estavam **presos à terra**, devendo corveia, talha, banalidades e dízimo. Servo **não é escravo**: era pessoa juridicamente reconhecida, com família e lote, não comprável avulsa.
+- Inovações camponesas (arado de ferro, charrua, coelheira, rotação trienal, moinhos) elevaram a produção e prepararam o crescimento a partir do século XI.
+- A **Igreja** exercia poder **espiritual** (salvação, sacramentos, excomunhão), **econômico** (terras, dízimo), **cultural** (escrita, mosteiros, universidades) e **político** (sagração de reis, papado). A **Querela das Investiduras** e **Canossa** revelam a tensão entre poder espiritual e temporal.
+- O modelo trifuncional **silencia** as **mulheres** (camponesas, nobres administradoras, abadessas como Hildegarda) e as **revoltas camponesas** (Jacquerie, Wat Tyler), lembrando que a sociedade feudal era atravessada por **luta social**.
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Preste atenção à diferença entre o que uma sociedade **diz de si** (o modelo das três ordens) e como ela **de fato funciona** (exploração, conflito, sujeitos silenciados). Essa distinção rende ótimas respostas em provas dissertativas.
+:::
+
+**1.** Explique o que era o modelo das "três ordens" e por que os historiadores o consideram uma **ideologia**, e não uma simples descrição.
+
+::: {.callout-tip collapse="true" title="Solução"}
+O modelo das **três ordens** dividia a sociedade em *oratores* (clero, que reza), *bellatores* (nobreza, que combate) e *laboratores* (camponeses, que trabalham), cada ordem com uma função querida por Deus. É considerado uma **ideologia** porque não apenas descrevia a sociedade, mas a **justificava**: produzido pelo clero (por volta do ano 1000), apresentava a **desigualdade** como harmonia e vontade divina, tornando "natural" e "sagrada" a submissão dos que trabalhavam. Como mostrou Duby, o esquema servia para **conter** tensões sociais e **legitimar** o poder das ordens privilegiadas, ocultando a exploração e as ausências (mulheres, mercadores, revoltas). Ler a fonte criticamente é perguntar quem a produziu e a favor de quem.
+:::
+
+**2.** Diferencie **servo** de **escravo**. Cite ao menos três diferenças.
+
+::: {.callout-tip collapse="true" title="Solução"}
+1. **Natureza jurídica:** o escravo era **propriedade** (uma "coisa"); o servo era uma **pessoa** juridicamente reconhecida.
+2. **Compra e venda:** o escravo podia ser **comprado e vendido** avulso; o servo estava **preso à terra** e só mudava de senhor se a própria terra fosse transferida (não era vendido separadamente).
+3. **Família e bens:** o escravo não tinha família nem propriedade reconhecidas; o servo tinha **família, casa e lote** próprios e alguns direitos costumeiros.
+4. (Adicional) **Relação:** a escravidão era pura posse; a servidão baseava-se em **obrigações recíprocas** costumeiras (o servo devia rendas e trabalho; o senhor devia proteção).
+
+Ambas são formas de exploração, mas historicamente distintas — confundi-las apaga a diferença entre escravismo antigo e servidão feudal.
+:::
+
+**3.** Descreva as **quatro dimensões** do poder da Igreja medieval, dando um exemplo de cada.
+
+::: {.callout-tip collapse="true" title="Solução"}
+- **Espiritual:** controle da **salvação** e dos sacramentos; exemplo: a **excomunhão**, que excluía o fiel da comunidade e era temida até por reis.
+- **Econômico:** era a maior **proprietária de terras** e recolhia o **dízimo** (10% da produção) de toda a população.
+- **Cultural:** deteve o quase monopólio da **escrita e do saber**; exemplo: a cópia de livros nos **mosteiros** e a criação das primeiras **universidades** (Paris, Bolonha, Oxford).
+- **Político:** **sagrava reis**, mediava conflitos e, na figura do **papa**, disputava a primazia com o imperador (ex.: Canossa, 1077).
+
+As quatro dimensões se reforçavam: controlar a salvação era também controlar terras, saber e a legitimidade dos poderosos.
+:::
+
+**4.** Leia o texto de Adalberão de Laon (c. 1020) e responda.
+
+> "A casa de Deus, que julgamos una, está dividida em três: uns rezam, outros combatem e outros, enfim, trabalham. Estas três partes que coexistem não suportam ser separadas; os serviços prestados por uma são condição das obras das outras duas; cada qual, por sua vez, encarrega-se de aliviar o conjunto." — @duby1994
+
+(a) Que ordens o texto identifica? (b) Como ele apresenta a relação entre elas? (c) A serviço de que interesse esse discurso podia estar, considerando quem o escreveu?
+
+::: {.callout-tip collapse="true" title="Solução"}
+- (a) As três ordens: os que **rezam** (clero), os que **combatem** (nobreza) e os que **trabalham** (camponeses).
+- (b) Apresenta-as como **interdependentes e cooperativas** — "não suportam ser separadas", cada uma "alivia o conjunto" —, isto é, como uma **harmonia** funcional em que todos se beneficiam.
+- (c) O texto foi escrito por um **bispo** (membro do clero), justamente a ordem que se coloca no **topo** ("uns rezam" vem primeiro). O discurso serve ao interesse das ordens **privilegiadas**: ao dizer que a divisão é natural, harmônica e necessária, **legitima** a posição do clero e da nobreza e o dever de obediência e trabalho dos camponeses, desestimulando qualquer contestação. É um exemplo claro de fonte que precisa ser lida como **ato de poder**.
+:::
+
+**5.** Por que a **primogenitura** ajuda a explicar fenômenos como as Cruzadas? Explique a cadeia de causas.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Para evitar a fragmentação do **patrimônio** familiar, a nobreza fazia com que, em geral, apenas o **filho mais velho** herdasse as terras e o título (**primogenitura**). Consequência: os **filhos mais novos** eram nobres **sem herança**, com o treinamento e os valores guerreiros da cavalaria, mas sem feudo próprio. Esse **excedente de cavaleiros** buscava terra, renda e glória fora de casa — na Igreja, em guerras locais e, sobretudo, em empresas de **expansão** como as **Cruzadas** e a **Reconquista**, que ofereciam a promessa de conquista, saque e prestígio (além da salvação, no caso das Cruzadas). Assim, um **costume de herança** ajuda a explicar a energia expansionista da Europa a partir do século XI.
+:::
+
+**6.** (Estilo ENEM) Leia o texto.
+
+> "É falsa a imagem de uma Idade Média em que os camponeses aceitavam passivamente sua sorte. As fontes registram fugas, recusas de pagamento, ocupações de terras e grandes insurreições, como a Jacquerie francesa (1358) e a revolta inglesa de 1381. A submissão que o discurso dominante proclamava era, na prática, constantemente disputada." — texto elaborado para fins didáticos
+
+O texto permite concluir que, na sociedade feudal,
+
+**(a)** os camponeses não tinham qualquer forma de organização ou resistência.
+**(b)** a harmonia entre as três ordens correspondia fielmente à realidade social.
+**(c)** as relações entre senhores e camponeses eram atravessadas por conflito e resistência.
+**(d)** as revoltas camponesas alcançaram sempre seus objetivos e aboliram a servidão.
+**(e)** apenas a nobreza e o clero podem ser considerados sujeitos históricos.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (c).** O texto documenta fugas, recusas de pagamento e grandes insurreições, mostrando que "a submissão... era constantemente disputada" — ou seja, as relações entre senhores e camponeses eram marcadas por **conflito e resistência**.
+
+Por que as demais estão erradas: (a) e (e) negam a agência camponesa, contrariando o texto (os camponeses **resistiam** e são **sujeitos históricos**); (b) afirma a "harmonia" que o texto justamente desmente; (d) exagera — as revoltas foram, em regra, **esmagadas**, e não aboliram a servidão de imediato.
+:::
+
+**7.** (Estilo vestibular — dissertativa) Explique por que o modelo das "três ordens" pode ser considerado **incompleto** como retrato da sociedade feudal. Cite pelo menos dois grupos ou fenômenos que ele deixa na sombra.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Resposta esperada (síntese): o modelo é **incompleto** porque é uma **representação idealizada**, produzida pelo clero, que reduz a sociedade a três funções masculinas em harmonia e **omite** boa parte da realidade. Deixa na sombra, entre outros: (1) as **mulheres** — camponesas em jornada dupla, nobres que administravam feudos e exerciam poder como viúvas, e religiosas instruídas como Hildegarda de Bingen —, que não cabem no esquema masculino; (2) as **revoltas e a resistência camponesa** (fugas, sonegação, insurreições como a Jacquerie e a revolta de Wat Tyler), que revelam **conflito** onde o modelo afirma harmonia; e (3), conforme o caso, os **mercadores e artesãos urbanos**, que ganhariam peso com o renascimento das cidades e não se encaixam em nenhuma das três ordens rurais. Uma boa resposta deve concluir que o esquema serve mais para **conhecer as representações** e a ideologia dos medievais do que para descrever fielmente sua sociedade.
+:::
+
+**8.** Relacione as inovações técnicas do campo medieval (arado de ferro, charrua, coelheira, rotação trienal, moinhos) com transformações sociais de médio prazo.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Essas inovações **aumentaram a produtividade agrícola**: o arado de ferro e a charrua permitiam revolver solos mais pesados; a **coelheira** (peitoral que não sufocava o cavalo) tornou possível usar o cavalo, mais rápido que o boi; a **rotação trienal** deixava menos terra em pousio e diversificava as culturas; os **moinhos** de água e vento multiplicavam a energia disponível. **Consequências de médio prazo:** mais alimentos → menos fome e **crescimento populacional** → excedentes que podiam ser **trocados** → **renascimento do comércio e das cidades** (a partir do século XI) → surgimento de um grupo social novo, os **mercadores e artesãos urbanos** (a futura burguesia), que não cabia no esquema das três ordens. Assim, mudanças técnicas aparentemente modestas no campo dispararam, ao longo de gerações, uma profunda **transformação social** — tema dos próximos capítulos.
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- DUBY, Georges. *As três ordens ou o imaginário do feudalismo* [@duby1994]. A análise clássica de como o esquema trifuncional foi construído e a serviço de quem — leitura fundamental sobre ideologia e sociedade.
+- BLOCH, Marc. *A sociedade feudal* [@blochFeudal2009]. Reconstrói o mundo mental e material dos homens e mulheres da Idade Média feudal.
+- LE GOFF, Jacques. *A civilização do Ocidente medieval* [@leGoffOcidente2005]. Capítulos ricos sobre a Igreja, a vida cotidiana e as mentalidades.
+- FRANCO JÚNIOR, Hilário. *A Idade Média: nascimento do Ocidente* [@franco2001]. Boa síntese sobre as ordens sociais e a economia senhorial.
+
+**Filmes e documentários**
+
+- *O Nome da Rosa* (1986), dir. Jean-Jacques Annaud. Retrata a vida num mosteiro, o poder da Igreja, a Inquisição e a tensão entre riqueza eclesiástica e ideal de pobreza.
+- *Vision* (2009), dir. Margarethe von Trotta. Cinebiografia de **Hildegarda de Bingen**: excelente para discutir o lugar (e o poder possível) das mulheres na Igreja medieval.
+- *O Sétimo Selo* (1957), dir. Ingmar Bergman. Reflexão sobre fé, morte e o peso do imaginário religioso na vida medieval.
