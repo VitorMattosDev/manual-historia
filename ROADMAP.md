@@ -79,12 +79,12 @@
 
 | # | Capítulo | Arquivo | Status |
 |---|----------|---------|--------|
-| 1 | A formação do feudalismo | `capitulos/vol05/cap01-formacao-do-feudalismo.qmd` | ⬜ |
-| 2 | A sociedade feudal: senhores, servos e a Igreja | `capitulos/vol05/cap02-sociedade-feudal.qmd` | ⬜ |
-| 3 | O Império Bizantino | `capitulos/vol05/cap03-imperio-bizantino.qmd` | ⬜ |
-| 4 | O Islã e o mundo árabe medieval | `capitulos/vol05/cap04-islamismo.qmd` | ⬜ |
-| 5 | Reinos e impérios africanos: Gana, Mali e Songai | `capitulos/vol05/cap05-reinos-africanos.qmd` | ⬜ |
-| 6 | Baixa Idade Média: cidades, cruzadas e a crise do século XIV | `capitulos/vol05/cap06-baixa-idade-media.qmd` | ⬜ |
+| 1 | A formação do feudalismo | `capitulos/vol05/cap01-formacao-do-feudalismo.qmd` | ✅ |
+| 2 | A sociedade feudal: senhores, servos e a Igreja | `capitulos/vol05/cap02-sociedade-feudal.qmd` | ✅ |
+| 3 | O Império Bizantino | `capitulos/vol05/cap03-imperio-bizantino.qmd` | ✅ |
+| 4 | O Islã e o mundo árabe medieval | `capitulos/vol05/cap04-islamismo.qmd` | ✅ |
+| 5 | Reinos e impérios africanos: Gana, Mali e Songai | `capitulos/vol05/cap05-reinos-africanos.qmd` | ✅ |
+| 6 | Baixa Idade Média: cidades, cruzadas e a crise do século XIV | `capitulos/vol05/cap06-baixa-idade-media.qmd` | ✅ |
 
 ### Volume 6 — Renascimento, Reformas e Mundo Moderno
 

@@ -1,5 +1,224 @@
 # Baixa Idade Média: cidades, cruzadas e a crise do século XIV {#sec-baixa-idade-media}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Entre 1347 e 1351, uma doença vinda do Oriente atravessou a Europa e matou, em poucos anos, cerca de **um terço de sua população** — talvez 25 milhões de pessoas. A **Peste Negra** foi a maior catástrofe demográfica da história ocidental: cidades inteiras esvaziaram-se, campos ficaram sem quem os cultivasse, e o pânico dissolveu certezas antigas. Mas essa tragédia não caiu num mundo estável: ela golpeou uma Europa que, nos três séculos anteriores, havia **renascido** — crescido em população, ressuscitado suas cidades, reinventado o comércio e lançado seus cavaleiros à conquista de terras distantes nas **Cruzadas**. A Baixa Idade Média (séculos XI–XV) é, assim, uma história de **dois tempos**: primeiro a expansão e o florescimento; depois a crise, a fome, a peste e a guerra que, ao desmontarem o mundo feudal, prepararam o terreno para uma nova era. Este capítulo — que encerra o volume da Idade Média — narra essa passagem e mostra como, das ruínas do século XIV, começou a nascer o mundo moderno.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- explicar o **renascimento comercial e urbano** (séculos XI–XIII) e suas causas;
+- caracterizar a **cidade medieval**, as **corporações de ofício** e a **burguesia** emergente;
+- compreender as **Cruzadas**: motivações, desdobramentos e consequências;
+- analisar a **crise do século XIV** (fome, **Peste Negra**, Guerra dos Cem Anos, revoltas) e a **formação das monarquias nacionais**;
+- discutir o debate historiográfico sobre a **transição do feudalismo para o capitalismo**.
 :::
+
+## O renascimento comercial e urbano (séculos XI–XIII) {#sec-renascimento-urbano}
+
+A partir do **século XI**, a Europa ocidental viveu uma virada. Depois de séculos de economia rural e fechada, uma série de fatores encadeados relançou o **crescimento** (@fig-renascimento-urbano). Na base de tudo estavam as **inovações agrícolas** que você já conhece (arado de ferro, charrua com coelheira, rotação trienal, moinhos, @sec-camponeses-servos): elas **aumentaram a produção de alimentos**. Mais comida significou **menos fome** e **crescimento populacional**; mais gente e mais excedentes significaram **mais trocas**; o fim das grandes invasões trouxe **maior segurança** nas estradas. Reativava-se o **comércio**.
+
+Esse renascimento comercial teve dois grandes polos e um ponto de encontro. Ao **sul**, as cidades italianas — **Veneza**, **Gênova**, Pisa — dominavam o comércio no **Mediterrâneo**, intermediando os produtos de luxo do Oriente (especiarias, seda). Ao **norte**, as cidades de **Flandres** (atual Bélgica) e a **Liga Hanseática** (uma associação de cidades comerciais do Mar do Norte e do Báltico) controlavam o comércio de lã, tecidos, madeira e peixe. Entre os dois polos, nas **feiras de Champagne** (na França) e em outras, mercadores de toda a Europa se encontravam para negociar. Renasciam também os **instrumentos** do comércio: a **moeda** voltou a circular amplamente, surgiram as **letras de câmbio** (antepassadas do cheque), as primeiras práticas **bancárias** e de crédito, e novas formas de sociedade comercial.
+
+::: {#fig-renascimento-urbano}
+
+```{.tikz}
+%%| filename: fig-renascimento-urbano
+%%| alt: Fluxograma de causas e consequências do renascimento comercial e urbano a partir do século XI.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \node[draw, fill=manualgreen!16, rounded corners, align=center, text width=2.7cm] (a) at (0,0) {\textbf{Inovações agrícolas}\\(arado, rotação,\\moinhos)};
+  \node[draw, fill=manualgreen!16, rounded corners, align=center, text width=2.4cm] (b) at (3.5,0) {\textbf{Mais alimentos}\\menos fome};
+  \node[draw, fill=manualyellow!20, rounded corners, align=center, text width=2.4cm] (c) at (6.9,0) {\textbf{Crescimento\\populacional}};
+  \node[draw, fill=manualblue!16, rounded corners, align=center, text width=2.5cm] (d) at (3.5,-2.2) {\textbf{Renascimento\\comercial}\\(feiras, moeda,\\bancos)};
+  \node[draw, fill=manualred!14, rounded corners, align=center, text width=2.5cm] (e) at (6.9,-2.2) {\textbf{Renascimento\\urbano}\\(burgos, burguesia)};
+  \node[draw, fill=manualgray!18, rounded corners, align=center, text width=2.4cm] (f) at (0,-2.2) {\textbf{Mais segurança}\\(fim das invasões)};
+  \draw[vetor] (a) -- (b); \draw[vetor] (b) -- (c);
+  \draw[vetor] (c) -- (d); \draw[vetor] (f) -- (d); \draw[vetor] (d) -- (e);
+\end{tikzpicture}
+```
+
+O encadeamento do renascimento: inovações agrícolas → mais alimentos → crescimento populacional → renascimento comercial e urbano. Um exemplo de como a **longa duração** (técnicas) condiciona a **conjuntura** (economia).
+:::
+
+Com o comércio, renasceram as **cidades**. Mercadores e artesãos passaram a se instalar em pontos estratégicos — junto a castelos, mosteiros, portos e cruzamentos de estradas —, formando os **burgos** (daí **burguês**, "o habitante do burgo"). As cidades cresceram, ganharam muralhas, mercados e catedrais, e tornaram-se **ilhas de um mundo novo** dentro da ordem feudal rural.
+
+## A cidade medieval e a burguesia {#sec-cidade-burguesia}
+
+A cidade que renascia era, em vários sentidos, um **corpo estranho** ao feudalismo. Nela vivia e enriquecia um grupo social novo, que não cabia no esquema das três ordens (nem clero, nem nobreza, nem camponeses): a **burguesia** — mercadores, banqueiros, artesãos. Sua riqueza vinha do **comércio** e do **dinheiro**, não da posse da terra, e seus interesses eram distintos, muitas vezes opostos, aos da nobreza feudal.
+
+Por isso, as cidades lutaram por **autonomia** frente aos senhores feudais em cujas terras estavam. Muitas obtiveram **cartas de franquia** (ou forais) — documentos que lhes garantiam direitos, liberdades e autogoverno, às vezes após revoltas (os **movimentos comunais**). Consolidou-se a ideia, expressa num ditado alemão, de que "**o ar da cidade liberta**": em várias regiões, o servo que fugisse e vivesse na cidade por um ano e um dia tornava-se **livre**. A cidade era, assim, uma brecha de **liberdade** e de **mobilidade** num mundo estamental e preso à terra.
+
+::: {.callout-note title="Conceito-chave: corporações de ofício"}
+O trabalho artesanal urbano organizava-se em **corporações de ofício** (as *guildas*): associações que reuniam todos os que exerciam um mesmo ofício (sapateiros, tecelões, ferreiros). As corporações **regulamentavam** rigorosamente a produção — fixavam preços, salários, qualidade, técnicas e o número de oficinas —, controlando a concorrência e protegendo seus membros. Havia uma hierarquia interna: o **mestre** (dono da oficina), os **oficiais** (trabalhadores assalariados) e os **aprendizes** (jovens em formação). As corporações davam **segurança e identidade**, mas também **limitavam** a livre iniciativa e a expansão da produção — uma rigidez que, séculos depois, entraria em choque com o capitalismo industrial (Volume 9).
+:::
+
+O renascimento urbano teve efeitos culturais profundos. Nas cidades surgiram as **universidades** (Bolonha, Paris, Oxford, Coimbra), centros de um saber já não exclusivamente monástico. Floresceu a **escolástica** — o esforço de conciliar a **fé** cristã com a **razão** filosófica (sobretudo o Aristóteles reintroduzido via mundo islâmico), cujo maior nome foi **Tomás de Aquino** (1225–1274). E ergueram-se as grandes **catedrais góticas**, com suas vitrais, arcos ogivais e torres que pareciam desafiar a gravidade — monumentos, ao mesmo tempo, da fé e do **orgulho e da riqueza das cidades**.
+
+## As Cruzadas {#sec-cruzadas}
+
+A energia expansionista dessa Europa em crescimento manifestou-se também na guerra santa. As **Cruzadas** foram expedições **militares**, convocadas pela Igreja a partir de **1095** (Concílio de Clermont, com o papa Urbano II), com o objetivo declarado de **reconquistar dos muçulmanos a Terra Santa** — Jerusalém e os lugares sagrados do cristianismo. Ao grito de "Deus o quer!", multidões de cavaleiros, camponeses e mercadores tomaram a cruz (daí "cruzados") e partiram para o Oriente. Houve várias Cruzadas ao longo de dois séculos (séc. XI–XIII), com resultados militares oscilantes: a Primeira (1096–1099) chegou a **tomar Jerusalém** (1099), mas os reinos cruzados foram sendo reconquistados pelos muçulmanos, e ao fim as Cruzadas **fracassaram** em seu objetivo declarado.
+
+As **motivações**, porém, iam muito além da fé (@fig-cruzadas-causas). Havia razões **religiosas** (devoção, a promessa papal de **perdão dos pecados** — a indulgência — a quem partisse); **sociais** (o já mencionado excedente de **cavaleiros sem herança**, filhos segundos ávidos por terra e glória, @sec-nobreza-cavalaria); **econômicas** (o interesse das cidades italianas em abrir e controlar **rotas comerciais** com o Oriente, e a cobiça pelas riquezas orientais); e **políticas** (a Igreja buscando reafirmar sua **liderança** sobre a Cristandade e canalizar para fora a violência endêmica da nobreza).
+
+::: {#fig-cruzadas-causas}
+
+```{.tikz}
+%%| filename: fig-cruzadas-causas
+%%| alt: Diagrama das múltiplas causas das Cruzadas: religiosas, sociais, econômicas e políticas.
+\begin{tikzpicture}[>=stealth]
+  \node[draw, very thick, circle, fill=manualred!14, align=center, font=\scriptsize\bfseries, minimum size=1.8cm] (c) at (0,0) {CRUZADAS\\\scriptsize 1095--};
+  \node[draw, fill=manualblue!16, rounded corners, align=center, font=\scriptsize, text width=2.7cm] at (-3.8,1.6) {\textbf{Religiosas}\\Terra Santa,\\perdão dos pecados};
+  \node[draw, fill=manualyellow!22, rounded corners, align=center, font=\scriptsize, text width=2.7cm] at (3.8,1.6) {\textbf{Sociais}\\cavaleiros sem\\herança, busca de terra};
+  \node[draw, fill=manualgreen!16, rounded corners, align=center, font=\scriptsize, text width=2.7cm] at (-3.8,-1.6) {\textbf{Econômicas}\\rotas comerciais,\\riquezas do Oriente};
+  \node[draw, fill=manualgray!20, rounded corners, align=center, font=\scriptsize, text width=2.7cm] at (3.8,-1.6) {\textbf{Políticas}\\liderança da Igreja,\\canalizar a violência};
+  \draw[vetor] (c) -- (-2.5,1.1); \draw[vetor] (c) -- (2.5,1.1);
+  \draw[vetor] (c) -- (-2.5,-1.1); \draw[vetor] (c) -- (2.5,-1.1);
+\end{tikzpicture}
+```
+
+As Cruzadas tiveram **causas múltiplas**: o motivo religioso, declarado, entrelaçava-se a interesses sociais, econômicos e políticos. Explicá-las só pela fé é insuficiente.
+:::
+
+As **consequências** foram mais duradouras que as conquistas (que se perderam). As Cruzadas **reabriram e intensificaram o comércio** entre a Europa e o Oriente, enriquecendo sobretudo as cidades italianas e trazendo à Europa produtos, técnicas e conhecimentos (o contato com o mundo islâmico e bizantino). Contribuíram para **enfraquecer** parte da nobreza feudal (muitos senhores morreram ou se arruinaram) e para **fortalecer os reis**, que souberam aproveitar o movimento. Deixaram, porém, um legado sombrio: massacres (inclusive de judeus e de cristãos orientais — lembre a Quarta Cruzada saqueando Constantinopla, @sec-queda), intolerância e um **ódio** entre cristãos e muçulmanos cujas cicatrizes ecoam até hoje. É preciso, aqui, evitar tanto glorificar as Cruzadas quanto lê-las anacronicamente apenas com os olhos do presente: elas foram, a um só tempo, expressão da fé, da violência e dos interesses de sua época.
+
+## A crise do século XIV {#sec-crise-seculo-xiv}
+
+O crescimento dos séculos XI–XIII não era ilimitado. No início do **século XIV**, a Europa bateu num teto: a população havia crescido além do que as técnicas agrícolas podiam alimentar. O clima piorou (o início da chamada "Pequena Idade do Gelo"), as colheitas falharam, e vieram as **grandes fomes** (a de 1315–1317 foi devastadora). Uma população **enfraquecida** pela fome tornou-se presa fácil para o golpe seguinte — e ele foi terrível.
+
+::: {.callout-note title="Conceito-chave: a Peste Negra (1347–1351)"}
+A **Peste Negra** foi uma epidemia (provavelmente de peste bubônica, transmitida por pulgas de ratos) que chegou à Europa em 1347, vinda do Oriente pelas rotas comerciais, e em poucos anos matou cerca de **um terço da população europeia** (estimativas de 25 a 50 milhões de mortos). Sem compreender a causa, as pessoas atribuíam a peste a castigo divino, a "ares corrompidos" ou a bodes expiatórios — o que gerou explosões de **fanatismo** (os flagelantes) e de **violência**, sobretudo **perseguições e massacres de judeus**, acusados absurdamente de envenenar poços. Foi um trauma coletivo que marcou profundamente a **mentalidade** medieval, com uma obsessão pela morte (as danças macabras na arte) e um abalo na confiança na Igreja, incapaz de deter a catástrofe.
+:::
+
+À fome e à peste somou-se a **guerra**. A **Guerra dos Cem Anos** (1337–1453), longo conflito entre **França** e **Inglaterra** por questões dinásticas e territoriais, assolou sobretudo o campo francês por gerações. Foi nesse conflito que se destacou a figura de **Joana d'Arc** (c. 1412–1431), a jovem camponesa que, dizendo-se guiada por vozes divinas, liderou tropas francesas, virou o rumo da guerra — e acabou capturada, julgada e **queimada como herege** aos 19 anos (reabilitada e, séculos depois, canonizada). A guerra também acelerou uma revolução militar: a **pólvora** e os **canhões** começavam a tornar obsoletos os castelos e a cavalaria feudal.
+
+Fome, peste e guerra fizeram explodir as tensões sociais. Com a população dizimada, faltava **mão de obra**: os camponeses sobreviventes ganharam, paradoxalmente, mais **poder de barganha** (podiam exigir melhores condições ou fugir para as cidades). A tentativa dos senhores de **reapertar** as obrigações servis, num momento de escassez, provocou grandes **revoltas camponesas**: a **Jacquerie** na França (1358), a revolta de **Wat Tyler** na Inglaterra (1381), os **Ciompi** (trabalhadores têxteis) em Florença (1378). Todas foram esmagadas — mas a **servidão**, na Europa ocidental, saiu do século XIV profundamente **abalada e em declínio**.
+
+::: {.callout-important title="A crise como transição, não apenas destruição"}
+É tentador ver o século XIV só como catástrofe. Mas, do ponto de vista da **longa duração**, a crise foi também **transformadora e, em certo sentido, modernizadora**. Ela **abalou as estruturas feudais**: enfraqueceu a servidão e a velha nobreza guerreira; fortaleceu as cidades, a burguesia e o trabalho assalariado; e favoreceu a **centralização** do poder nas mãos dos reis. A escassez de mão de obra estimulou, no longo prazo, a busca por **inovações**. Em outras palavras, foi em boa parte **da crise do mundo feudal que nasceram as forças** — burguesia, Estados centralizados, economia monetária — que construiriam o **mundo moderno**. A destruição de uma ordem foi a gestação de outra.
+:::
+
+## A formação das monarquias nacionais {#sec-monarquias-nacionais}
+
+Uma das consequências mais importantes de toda essa transformação foi política: o lento **fortalecimento do poder real** e a formação das **monarquias nacionais** — o embrião dos Estados modernos. Ao longo da Baixa Idade Média, alguns reis conseguiram, aos poucos, **submeter a nobreza feudal** e **centralizar** a autoridade que estivera fragmentada.
+
+Como conseguiram isso? Com a ajuda de novos aliados e instrumentos. O rei aliou-se à **burguesia** urbana — que desejava **ordem, segurança nas estradas, moeda estável e leis uniformes** para prosperar no comércio — e que, em troca, financiava o monarca com seus impostos. Com esse dinheiro, o rei podia manter **exércitos profissionais** (com pólvora e canhões, já não dependia da cavalaria dos nobres) e uma **burocracia** própria. Assim se formou uma aliança decisiva: **rei + burguesia contra a fragmentação feudal**. Ao fim da Idade Média, **Portugal** (o primeiro Estado nacional moderno, já unificado no século XIII), a **Espanha** (unificada em 1492, com o fim da Reconquista), a **França** e a **Inglaterra** (após a Guerra dos Cem Anos) despontavam como monarquias cada vez mais centralizadas. Não por acaso, seriam justamente Portugal e Espanha os pioneiros da **Expansão Marítima** — tema que abre a Idade Moderna e o próximo volume deste manual.
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+Nenhum debate resume melhor o significado da Baixa Idade Média do que a grande discussão sobre a **transição do feudalismo para o capitalismo**: como, afinal, de um mundo rural, servil e fragmentado emergiu o mundo moderno, urbano e capitalista? Duas grandes interpretações se enfrentaram.
+
+**A tese da circulação (o comércio como motor).** Uma primeira linha, associada a historiadores como o belga **Henri Pirenne** [@pirenne2010] e, mais tarde, a Paul Sweezy, atribui o papel decisivo ao **renascimento do comércio e das cidades**. Segundo essa visão, o feudalismo era um sistema essencialmente **estático e agrário**; a mudança teria vindo **de fora**, do **comércio de longa distância** e das cidades, que introduziram o dinheiro, o mercado e a mentalidade mercantil, corroendo por dentro as relações feudais. O motor da transição, aqui, é a **circulação** (o comércio, a burguesia urbana).
+
+**A tese da produção (as relações no campo).** Uma segunda linha, de inspiração marxista — com historiadores como **Maurice Dobb** e, sobretudo, **Robert Brenner** —, desloca o foco do comércio para as **relações sociais no campo**. Para eles, o comércio existiu em muitas sociedades sem gerar capitalismo; o que foi decisivo foram as **transformações internas** das relações entre senhores e camponeses — a crise da servidão, as lutas de classe no campo (como as revoltas do século XIV), a maneira como, em regiões como a Inglaterra, a terra e o trabalho foram sendo **mercantilizados**. O motor da transição, aqui, é a **produção** e o conflito social, não a simples troca.
+
+**Por que a divergência importa?** Porque põe em jogo uma questão maior: as grandes transformações históricas vêm sobretudo do **comércio e das trocas** (a esfera da circulação) ou das **relações de trabalho e produção** e dos conflitos que elas geram? A resposta muda toda a narrativa — inclusive sobre o Brasil e a América, que se integrariam a esse mundo em transição justamente como fornecedores de riqueza para o comércio europeu em ascensão (Volumes 7 e 8). O debate, iniciado nos anos 1950 e conhecido como "**a transição do feudalismo ao capitalismo**", nunca foi encerrado — e é um belo exemplo de como uma pergunta bem formulada organiza décadas de pesquisa. A historiografia atual tende a **combinar** os fatores (comércio *e* mudanças na produção, demografia, poder político), reconhecendo que a transição foi **múltipla e desigual** conforme a região.
+
+::: {.callout-warning title="Controvérsia: quando termina a Idade Média?"}
+Já vimos que **periodizar é interpretar** (@sec-imperio-bizantino). O "fim da Idade Média" tem **várias datas candidatas**, cada uma enfatizando um processo: **1453** (queda de Constantinopla — critério político-militar), **1492** (chegada dos europeus à América — critério da expansão global), a invenção da **imprensa** por Gutenberg (c. 1450 — critério cultural) ou o início da **Reforma** (1517 — critério religioso). Nenhuma é "a" data verdadeira: são **recortes convencionais**, úteis para organizar o estudo, mas que não correspondem a uma ruptura súbita. As estruturas medievais **conviveram** com as modernas por muito tempo — daí Jacques Le Goff falar de uma "**longa Idade Média**" [@leGoffLonga2008] que se estenderia até o século XVIII. O importante é entender os **processos** (o declínio do feudalismo, a ascensão da burguesia e dos Estados), não decorar uma data mágica.
+:::
+
+## Resumo do capítulo {#sec-resumo}
+
+- A partir do **século XI**, o **renascimento comercial e urbano**: inovações agrícolas → mais alimentos → crescimento populacional → mais comércio (Mediterrâneo com **Veneza/Gênova**; norte com **Flandres** e **Liga Hanseática**; **feiras de Champagne**; moeda, letras de câmbio, bancos).
+- Renasceram as **cidades** (**burgos**) e surgiu a **burguesia** (mercadores, banqueiros, artesãos), grupo novo baseado no comércio, não na terra. Cidades buscaram **autonomia** (cartas de franquia); "o ar da cidade liberta". O artesanato organizou-se em **corporações de ofício** (mestres, oficiais, aprendizes). Surgiram **universidades**, a **escolástica** (Tomás de Aquino) e as **catedrais góticas**.
+- As **Cruzadas** (a partir de **1095**) tiveram **causas múltiplas** (religiosas, sociais, econômicas, políticas). Fracassaram no objetivo (retomar a Terra Santa), mas **intensificaram o comércio** com o Oriente, enfraqueceram a nobreza, fortaleceram os reis — e deixaram um legado de intolerância e violência.
+- A **crise do século XIV**: **fome** (a partir de 1315), **Peste Negra** (1347–1351, ~1/3 da população), **Guerra dos Cem Anos** (1337–1453; Joana d'Arc) e **revoltas camponesas** (Jacquerie, Wat Tyler, Ciompi). A **servidão** entrou em declínio no Ocidente.
+- A crise foi **transição**, não só destruição: abalou o feudalismo e favoreceu burguesia, trabalho assalariado, economia monetária e a **centralização** do poder real.
+- Formaram-se as **monarquias nacionais** (Portugal, Espanha, França, Inglaterra) pela aliança **rei + burguesia** contra a fragmentação feudal — embrião dos Estados modernos e base da futura **Expansão Marítima**.
+- Historiografia: o debate sobre a **transição do feudalismo ao capitalismo** — tese da **circulação** (comércio/cidades, Pirenne) × tese da **produção** (relações no campo, Dobb, Brenner). "Fim da Idade Média" é data **convencional** (1453, 1492…).
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Este capítulo é campeão de vestibular. Domine três cadeias causais: (1) inovações agrícolas → renascimento urbano; (2) causas **múltiplas** das Cruzadas; (3) crise do século XIV → declínio da servidão → monarquias nacionais → Expansão Marítima.
+:::
+
+**1.** Explique a cadeia de causas do **renascimento comercial e urbano** a partir do século XI.
+
+::: {.callout-tip collapse="true" title="Solução"}
+A cadeia começa nas **inovações agrícolas** (arado de ferro, charrua com coelheira, rotação trienal, moinhos), que **aumentaram a produção de alimentos**. Mais comida → **menos fome** e **crescimento populacional**. Mais gente e mais **excedentes** agrícolas → necessidade e possibilidade de **trocas**. Somando-se a **maior segurança** (com o fim das grandes invasões), reativou-se o **comércio** (Mediterrâneo, mar do Norte, feiras de Champagne) e ressurgiram a **moeda**, o crédito e os bancos. O comércio, por sua vez, fez renascer as **cidades** (burgos), onde se instalaram mercadores e artesãos, e surgir um grupo social novo, a **burguesia**. É um exemplo claro de como transformações na **base material** (técnica agrícola) desencadeiam, ao longo do tempo, profundas mudanças econômicas e sociais.
+:::
+
+**2.** O que eram as **corporações de ofício** e como se organizavam? Cite um aspecto positivo e um negativo.
+
+::: {.callout-tip collapse="true" title="Solução"}
+As **corporações de ofício** (guildas) eram associações que reuniam todos os que exerciam um mesmo ofício numa cidade (ex.: sapateiros, tecelões). Elas **regulamentavam** a produção: fixavam preços, salários, qualidade, técnicas e o número de oficinas, controlando a concorrência. A hierarquia interna ia do **mestre** (dono da oficina) aos **oficiais** (assalariados) e **aprendizes** (em formação). **Aspecto positivo:** davam **segurança, proteção e identidade** a seus membros, garantindo padrões de qualidade e certa estabilidade. **Aspecto negativo:** eram **rígidas** — limitavam a livre concorrência, a inovação e a expansão da produção, e dificultavam a ascensão de quem não fosse mestre —, rigidez que mais tarde se chocaria com o capitalismo industrial.
+:::
+
+**3.** Por que se afirma que as **Cruzadas** tiveram causas que iam "muito além da fé"? Cite causas de pelo menos três tipos.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Embora o objetivo **declarado** fosse religioso (reconquistar a Terra Santa), as Cruzadas tiveram causas **múltiplas**:
+- **Religiosas:** devoção, desejo de libertar Jerusalém e a promessa papal de **perdão dos pecados** (indulgência) a quem partisse.
+- **Sociais:** o **excedente de cavaleiros sem herança** (filhos segundos, por causa da primogenitura), ávidos por **terras** e glória.
+- **Econômicas:** o interesse das **cidades italianas** (Veneza, Gênova) em abrir e controlar **rotas comerciais** com o Oriente, e a cobiça pelas riquezas orientais.
+- **Políticas:** a **Igreja** buscando reafirmar sua **liderança** sobre a Cristandade e **canalizar para fora** a violência endêmica da nobreza.
+
+Explicar as Cruzadas só pela fé seria, portanto, insuficiente: elas resultaram do **entrelaçamento** desses fatores.
+:::
+
+**4.** Analise o texto sobre a Peste Negra e responda.
+
+> "Tal foi a multidão dos que morreram na cidade durante os meses de março a julho […] que não se podia acreditar sem ter visto. […] Muitos morriam nas ruas, de dia e de noite; muitos outros, mesmo morrendo em casa, só davam notícia da própria morte pelo cheiro dos corpos em decomposição. Irmão abandonava irmão […] e o pai e a mãe evitavam visitar e cuidar dos filhos, como se não fossem seus." — Giovanni Boccaccio, *Decameron* (c. 1350)
+
+(a) Que acontecimento o texto descreve? (b) Além da mortalidade, que efeito **social** o autor destaca? (c) Que consequências de **médio e longo prazo** essa catástrofe teve para a sociedade feudal?
+
+::: {.callout-tip collapse="true" title="Solução"}
+- (a) A **Peste Negra** (a epidemia de 1347–1351), aqui em uma cidade italiana por volta de 1348.
+- (b) Além da altíssima mortalidade, Boccaccio destaca a **desagregação dos laços sociais e familiares**: o pânico rompia a solidariedade — irmãos, pais e filhos se abandonavam por medo do contágio. O texto documenta o **colapso moral e social** que a peste provocou.
+- (c) Consequências de médio e longo prazo: a enorme mortalidade causou **escassez de mão de obra**, o que **aumentou o poder de barganha** dos camponeses sobreviventes e ajudou a **enfraquecer a servidão**; abalou a confiança na **Igreja** (incapaz de deter o mal) e transformou as **mentalidades** (obsessão com a morte, fanatismo, perseguição a judeus); e, no conjunto com a fome e a guerra, ajudou a **desestruturar o feudalismo** e a favorecer as cidades, a burguesia e a centralização monárquica. A catástrofe foi, também, um motor de **transição**.
+:::
+
+**5.** Explique como a crise do século XIV contribuiu para o **declínio da servidão** e para o **fortalecimento dos reis**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Declínio da servidão:** a **Peste Negra** e as fomes dizimaram a população, criando forte **escassez de mão de obra**. Com menos trabalhadores disponíveis, os camponeses sobreviventes ganharam **poder de barganha**: podiam exigir melhores condições, salários ou fugir para as cidades. As tentativas dos senhores de **reapertar** as obrigações servis provocaram grandes **revoltas** (Jacquerie, Wat Tyler), e o resultado, no Ocidente, foi o **enfraquecimento e o declínio da servidão**, substituída aos poucos por relações de arrendamento e trabalho assalariado.
+**Fortalecimento dos reis:** a crise **enfraqueceu a velha nobreza feudal** (empobrecida por guerras e pela queda das rendas) e **fortaleceu as cidades e a burguesia**. Os reis aliaram-se à **burguesia** (que queria ordem e segurança para o comércio e financiava o monarca com impostos), e com esse dinheiro puderam manter **exércitos profissionais** (com pólvora/canhões, independentes da cavalaria nobre) e uma **burocracia** própria — **centralizando** o poder. Assim se formaram as **monarquias nacionais**.
+:::
+
+**6.** (Estilo ENEM) Leia o texto.
+
+> "A cidade medieval ofereceu abrigo a um personagem novo, que não rezava como o clero nem guerreava como a nobreza, e cuja riqueza não vinha da terra, mas do comércio e do dinheiro. Dizia-se que 'o ar da cidade liberta': o servo fugido que ali vivesse por um ano e um dia tornava-se livre." — texto elaborado para fins didáticos
+
+O "personagem novo" e a lógica descritos no texto correspondem
+
+**(a)** ao servo, preso à terra e às obrigações do domínio senhorial.
+**(b)** à burguesia, cuja riqueza e liberdade destoavam da ordem feudal rural.
+**(c)** ao clero regular, dedicado à oração nos mosteiros.
+**(d)** à nobreza feudal, baseada na posse de terras e no serviço militar.
+**(e)** ao colono romano, típico da Antiguidade Tardia.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (b).** O texto descreve alguém que "não rezava como o clero nem guerreava como a nobreza" e cuja riqueza "não vinha da terra, mas do comércio e do dinheiro", vivendo na cidade sob a lógica de que "o ar da cidade liberta" — trata-se da **burguesia**, o grupo urbano novo cuja riqueza (comercial) e liberdade **destoavam** da ordem feudal rural (estamental e presa à terra).
+
+Por que as demais estão erradas: (a) o servo é justamente o oposto — **preso** à terra e às obrigações; (c) e (d) são as **outras duas ordens** (clero e nobreza), que o texto explicitamente contrasta com o "personagem novo"; (e) o colono romano é da Antiguidade, e também estava ligado à terra, não ao comércio urbano.
+:::
+
+**7.** (Estilo vestibular — dissertativa) Explique por que a crise do século XIV pode ser vista não apenas como destruição, mas como uma **transição** para o mundo moderno. Relacione-a com a formação das monarquias nacionais e a Expansão Marítima.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Resposta esperada (síntese): embora tenha sido uma catástrofe demográfica e humana (fome, **Peste Negra**, **Guerra dos Cem Anos**, revoltas), a crise do século XIV foi também **transformadora**, porque **desmontou as estruturas feudais** e liberou forças que construiriam a modernidade. Ela **enfraqueceu a servidão** (a escassez de mão de obra deu poder de barganha aos camponeses) e a **velha nobreza guerreira** (empobrecida, superada pela pólvora), ao mesmo tempo que **fortaleceu as cidades, a burguesia, o dinheiro e o trabalho assalariado**. Politicamente, favoreceu a **centralização** do poder: os reis, aliados à **burguesia** (que financiava o Estado em troca de ordem, segurança e leis uniformes), formaram exércitos e burocracias próprios, dando origem às **monarquias nacionais** (Portugal, Espanha, França, Inglaterra) — embriões dos Estados modernos. Essas monarquias centralizadas, dispondo de recursos e do apoio da burguesia mercantil, seriam justamente as que financiariam e lançariam a **Expansão Marítima** (Portugal e Espanha à frente), abrindo a Idade Moderna. Assim, uma boa resposta mostra a cadeia: **crise do feudalismo → declínio da servidão e da velha nobreza + ascensão da burguesia → monarquias nacionais → Grandes Navegações**. A destruição de uma ordem foi a **gestação** de outra.
+:::
+
+**8.** Compare, em linhas gerais, as duas grandes interpretações sobre a **transição do feudalismo para o capitalismo**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+- **Tese da circulação (o comércio como motor)** — associada a **Henri Pirenne** e a Paul Sweezy: o feudalismo era um sistema **estático e agrário**, e a mudança veio **de fora**, do **renascimento do comércio** e das **cidades**, que introduziram o dinheiro, o mercado e a mentalidade mercantil, corroendo por dentro as relações feudais. O motor é a **circulação** (comércio, burguesia urbana).
+- **Tese da produção (as relações no campo)** — de inspiração marxista, com **Maurice Dobb** e **Robert Brenner**: o comércio existiu em muitas sociedades sem gerar capitalismo; o decisivo foram as **transformações internas das relações sociais** entre senhores e camponeses — a crise da servidão, as lutas de classe (as revoltas do século XIV), a **mercantilização** da terra e do trabalho (sobretudo na Inglaterra). O motor é a **produção** e o conflito social.
+
+**Diferença de fundo:** as grandes mudanças históricas vêm sobretudo da **troca/comércio** ou das **relações de trabalho e produção**? A historiografia atual tende a **combinar** os fatores (comércio, produção, demografia, poder político), reconhecendo que a transição foi **múltipla e desigual** conforme a região. O exercício mostra como uma boa **pergunta** organiza décadas de debate historiográfico.
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- LE GOFF, Jacques. *A civilização do Ocidente medieval* [@leGoffOcidente2005]. Riquíssimo sobre as cidades, as universidades, a escolástica e as mentalidades da Baixa Idade Média.
+- FRANCO JÚNIOR, Hilário. *A Idade Média: nascimento do Ocidente* [@franco2001]. Boa síntese sobre o renascimento urbano, as Cruzadas e a crise do século XIV.
+- HUIZINGA, Johan. *O declínio da Idade Média* [@huizinga2010]. Clássico sobre a cultura e a mentalidade do outono medieval (séc. XIV–XV) — a obsessão com a morte, os ritos, as formas de vida.
+- TUCHMAN, Barbara. *Um espelho distante: o terrível século XIV* [@tuchman1990]. Narrativa histórica envolvente sobre a peste, a guerra e a crise, acessível ao grande público.
+- PIRENNE, Henri. *Maomé e Carlos Magno* [@pirenne2010]. A tese clássica sobre comércio, cidades e a formação da Europa — ponto de partida do debate sobre a transição.
+
+**Filmes e documentários**
+
+- *O Sétimo Selo* (1957), dir. Ingmar Bergman. A Peste Negra e a angústia existencial da Baixa Idade Média — uma obra-prima.
+- *Joana d'Arc* (1999), dir. Luc Besson, e *A Paixão de Joana d'Arc* (1928), dir. Carl Dreyer. Duas leituras da figura de Joana e da Guerra dos Cem Anos.
+- *O Nome da Rosa* (1986), dir. Jean-Jacques Annaud. Ambientado no século XIV, retrata mosteiros, cidades, heresias e as tensões do fim do mundo medieval.
