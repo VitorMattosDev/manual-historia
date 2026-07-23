@@ -1,5 +1,155 @@
-# Hebreus, fenícios e persas {#sec-hebreus-fenicios-persas}
+# Hebreus, fenícios e persas {#sec-hebreus}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Todo dia, ao escrever uma mensagem no celular, você usa uma invenção nascida há mais de três mil anos numa estreita faixa de terra à beira do Mediterrâneo. As letras deste livro descendem, em linha direta, do **alfabeto fenício** — um sistema de poucos sinais, cada um representando um som, que substituiu as centenas de sinais do cuneiforme e do hieróglifo e tornou a escrita acessível a muito mais gente. Ao lado dos grandes impérios de rio da Mesopotâmia e do Egito, floresceram no Oriente Próximo antigo povos **menores em território, mas imensos em legado**: os **hebreus**, que deram ao mundo o **monoteísmo** e um livro que moldaria três religiões; os **fenícios**, mercadores e navegadores que espalharam o alfabeto; e os **persas**, que ergueram o maior império que o mundo vira até então, governando dezenas de povos com uma tolerância incomum. Este capítulo é sobre como a periferia dos grandes impérios mudou a história.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- caracterizar os **hebreus** e explicar a novidade histórica do **monoteísmo** e de sua herança para o judaísmo, o cristianismo e o islamismo;
+- reconhecer a contribuição dos **fenícios** — comércio marítimo, colônias e o **alfabeto**;
+- descrever a formação e a organização do **Império Persa**, com suas satrapias, estradas e a religião de Zoroastro;
+- avaliar a **Bíblia** como fonte histórica, distinguindo relato religioso de reconstrução arqueológica;
+- discutir o debate entre a **arqueologia bíblica** "maximalista" e "minimalista" sobre a história de Israel.
 :::
+
+## Os hebreus e a invenção do monoteísmo {#sec-hebreus-monoteismo}
+
+Num mundo em que todos os povos eram **politeístas** — mesopotâmicos, egípcios, gregos —, um pequeno povo de pastores e agricultores da região de **Canaã** (a **Palestina** histórica, entre o rio Jordão e o Mediterrâneo) firmou uma crença revolucionária: a existência de **um único Deus**, invisível, criador e universal. É o **monoteísmo**, e é a maior contribuição dos **hebreus** à história.
+
+::: {.callout-note title="Conceito-chave: monoteísmo"}
+**Monoteísmo** é a crença em **um só Deus**, em oposição ao **politeísmo** (muitos deuses). Entre os hebreus, esse Deus (Javé) era tido como **único, invisível e universal**, não representado por imagens (proibição das imagens) nem preso a um lugar. Dessa raiz nasceram as três grandes **religiões monoteístas** — judaísmo, cristianismo e islamismo —, que juntas moldaram boa parte da história do Ocidente e do Oriente Médio.
+:::
+
+A principal fonte sobre a trajetória hebraica é a **Bíblia hebraica** (o Antigo Testamento dos cristãos), sobretudo a **Torá**. Segundo o relato bíblico, a história começa com os **patriarcas** — **Abraão**, que teria partido de Ur, na Mesopotâmia, rumo a Canaã, **Isaac** e **Jacó**. A fome teria levado os hebreus ao **Egito**, onde acabaram **escravizados**; sob a liderança de **Moisés**, teriam realizado o **Êxodo**, a saída do Egito, recebendo no monte Sinai a **Lei** (os Dez Mandamentos) e a **Aliança** com Javé.
+
+De volta a Canaã, os hebreus teriam formado, por volta do ano **1000 a.C.**, um **reino unificado** sob **Saul**, **Davi** (que fez de **Jerusalém** a capital) e **Salomão** (a quem se atribui o primeiro **Templo**). Após Salomão, o reino teria se dividido em dois: **Israel**, ao norte, e **Judá**, ao sul. Vieram então as grandes catástrofes: em **722 a.C.**, os **assírios** destruíram Israel; em **586 a.C.**, os **neobabilônios** de Nabucodonosor arrasaram Jerusalém e o Templo, levando parte da população ao **cativeiro da Babilônia**. Mais tarde, dispersos pelo mundo — a **Diáspora** —, os judeus preservaram sua identidade pela religião, pela Lei e pela memória, sem um Estado próprio por quase dois mil anos.
+
+## Os fenícios: o mar, o comércio e o alfabeto {#sec-fenicios}
+
+Ao norte de Canaã, na estreita faixa litorânea que corresponde hoje ao **Líbano**, viviam os **fenícios**. Encravados entre o mar e as montanhas, com pouca terra para a agricultura, voltaram-se para o **Mediterrâneo**: tornaram-se os maiores **navegadores e comerciantes** da Antiguidade. De suas cidades-porto — **Tiro**, **Sídon**, **Biblos** — partiam navios que percorriam todo o Mediterrâneo, trocando **madeira de cedro**, tecidos tingidos de **púrpura** (um corante caríssimo, extraído de moluscos), vidro, metais e manufaturas.
+
+Para administrar seu vasto comércio, os fenícios fundaram **colônias e feitorias** por todo o Mediterrâneo — a mais célebre foi **Cartago**, no norte da África (atual Tunísia), que séculos depois desafiaria Roma. E, para registrar contas e contratos com agilidade, aperfeiçoaram um **alfabeto fonético** de cerca de 22 sinais, cada um correspondendo a um **som consonantal**. Simples e prático, esse alfabeto foi **adotado e adaptado pelos gregos** (que acrescentaram as vogais) e, destes, pelos romanos — chegando, através do latino, até as letras que você lê agora. Poucos legados atravessaram tão intactos três mil anos.
+
+## Os persas: o império da tolerância {#sec-persas}
+
+Enquanto hebreus e fenícios brilhavam pela cultura e pelo comércio, foi um povo do planalto do **Irã** que construiu o **maior império** do Oriente antigo. Por volta de **550 a.C.**, **Ciro II, o Grande**, unificou medos e persas e lançou uma vertiginosa expansão: conquistou a **Lídia**, as cidades gregas da Ásia Menor e, em **539 a.C.**, a própria **Babilônia** — pondo fim à autonomia política mesopotâmica (@sec-mesopotamia) e libertando os judeus do cativeiro. Seus sucessores, **Cambises** (que tomou o Egito) e sobretudo **Dario I** (522–486 a.C.), estenderam o domínio persa do **rio Indo** ao Egito e às fronteiras da Grécia.
+
+::: {#fig-mapa-persia}
+
+```{.tikz}
+%%| filename: fig-mapa-persia
+%%| alt: Mapa esquemático da extensão do Império Persa, do Egito e da Ásia Menor a oeste até o rio Indo a leste.
+\begin{tikzpicture}[>=stealth]
+  % faixa do império
+  \fill[manualyellow!25] (0,0.5) rectangle (11,2.6);
+  \node[text=manualgray] at (5.5,3.0) {\scriptsize \textbf{IMPÉRIO PERSA} (auge sob Dario I)};
+  % pontos oeste-leste
+  \node[ponto] at (0.7,1.6) {}; \node[below] at (0.7,1.35) {\scriptsize Egito};
+  \node[ponto] at (2.4,1.6) {}; \node[below] at (2.4,1.35) {\scriptsize Ásia Menor};
+  \node[ponto] at (4.3,1.6) {}; \node[below] at (4.3,1.35) {\scriptsize Babilônia};
+  \node[ponto, fill=manualred] at (6.2,1.6) {}; \node[above] at (6.2,1.8) {\scriptsize \textbf{Susa/Persépolis}};
+  \node[ponto] at (8.4,1.6) {}; \node[below] at (8.4,1.35) {\scriptsize Bactria};
+  \node[ponto] at (10.3,1.6) {}; \node[below] at (10.3,1.35) {\scriptsize rio Indo};
+  % estrada real
+  \draw[vetor, manualblue] (0.7,1.6) -- (6.2,1.6);
+  \node[text=manualblue] at (3.2,2.15) {\scriptsize Estrada Real ($\approx$ 2500 km)};
+\end{tikzpicture}
+```
+
+Extensão esquemática do Império Persa. A **Estrada Real** ligava Susa a Sárdis; correios a cavalo percorriam-na em poucos dias.
+:::
+
+O segredo da coesão persa não foi só a força, mas a **administração**. Dario dividiu o império em cerca de vinte províncias, as **satrapias**, cada uma governada por um **sátrapa** (governador), fiscalizado por inspetores itinerantes — os "olhos e ouvidos do rei". Padronizou **moedas**, **pesos e medidas**, construiu a **Estrada Real** de mais de 2.500 km com postos de troca de cavalos (um serviço de correio veloz) e cobrou tributos de todos os povos. Sobretudo, praticou uma **política de tolerância**: em vez de arrasar os vencidos como os assírios, os persas **respeitavam as religiões, os costumes e as leis locais**. O célebre **Cilindro de Ciro** registra a libertação de povos deportados — entre eles os judeus, autorizados a voltar a Jerusalém e reconstruir o Templo.
+
+A religião persa era o **zoroastrismo**, fundado pelo profeta **Zoroastro** (Zaratustra). Ensinava a existência de dois princípios em luta permanente — o **bem** (Ahura Mazda, a luz) e o **mal** (Ahriman, as trevas) —, cabendo a cada pessoa **escolher** de que lado ficar, na expectativa de um juízo final. Esse **dualismo** e essas ideias de juízo, céu e inferno influenciariam o judaísmo tardio, o cristianismo e o islamismo.
+
+## 🔎 Historiografia em Foco {#sec-historiografia-hebreus}
+
+Quanto da história narrada na **Bíblia** aconteceu de fato? A pergunta divide os estudiosos e ilustra, melhor do que quase qualquer outra, a diferença entre **fé**, **memória** e **prova histórica**.
+
+**A leitura "maximalista".** Por muito tempo, historiadores e arqueólogos leram a Bíblia como um **relato substancialmente histórico**: a arqueologia deveria confirmar o texto, e o grande reino de **Davi e Salomão**, por volta do ano 1000 a.C., teria sido uma monarquia poderosa, com um Templo suntuoso, tal como descrito. Nessa visão, o texto guarda a memória fiel de acontecimentos reais.
+
+**A leitura "minimalista" e a arqueologia recente.** A partir do fim do século XX, arqueólogos como **Israel Finkelstein** [@finkelstein2018] passaram a confrontar o texto com as **evidências materiais** do terreno — e encontraram tensões. As escavações em Jerusalém não revelaram, para o século X a.C., os vestígios de uma capital grandiosa; muitos elementos do relato (o Êxodo em massa, a conquista relâmpago de Canaã) não deixaram traços arqueológicos correspondentes. Para essa corrente, boa parte da narrativa bíblica teria sido **redigida bem depois** dos fatos, sobretudo a partir do século VII a.C., no reino de **Judá**, com finalidades **religiosas e políticas** — construir uma identidade e legitimar um projeto —, e não como crônica factual. Davi e Salomão podem ter existido como **chefes locais**, mas o "grande reino unido" seria, em parte, uma **construção literária** posterior.
+
+**Por que o debate importa (e como não exagerá-lo).** Nem tudo é rejeitado: inscrições como a **estela de Tel Dan** (século IX a.C.) mencionam a "casa de Davi", indicando que uma dinastia davídica de fato existiu. O ponto metodológico é outro. A Bíblia é uma **fonte histórica preciosíssima** — talvez a mais influente já escrita —, mas, como toda fonte, precisa de **crítica documental** (@sec-critica-documental): foi produzida por autores com **intenções teológicas**, muitas vezes séculos após os eventos, e deve ser **cruzada** com a arqueologia e com documentos de outros povos. Ler a Bíblia como historiador não é decidir se ela é "verdadeira" ou "falsa", mas perguntar **quem** a escreveu, **quando** e **para quê** — e distinguir o que a fé afirma daquilo que a evidência sustenta. É a mesma lição que aprendemos com o Código de Hamurábi e com os túmulos egípcios: nenhuma fonte fala sozinha.
+
+## Resumo do capítulo {#sec-resumo-hebreus}
+
+- Os **hebreus**, em Canaã, criaram o **monoteísmo** — a crença em um Deus único, invisível e universal —, raiz do **judaísmo, do cristianismo e do islamismo**. A principal fonte é a **Bíblia hebraica**.
+- O relato bíblico narra os **patriarcas** (Abraão), o **Êxodo** do Egito sob **Moisés**, o **reino unificado** (Saul, Davi, Salomão, com o Templo de Jerusalém), a divisão em **Israel** e **Judá**, a destruição pelos assírios (722 a.C.) e babilônios (586 a.C.), o **cativeiro** e a **Diáspora**.
+- Os **fenícios** (Tiro, Sídon, Biblos, no atual Líbano) foram grandes **navegadores e comerciantes**, fundaram colônias (**Cartago**) e difundiram o **alfabeto fonético**, base do grego, do latino e do nosso.
+- Os **persas** construíram o maior império do Oriente antigo (Ciro, Dario), com **satrapias**, **Estrada Real**, moeda padronizada e **tolerância** religiosa e cultural (Cilindro de Ciro). Sua religião era o **zoroastrismo**, dualista (Ahura Mazda × Ahriman).
+- Historiograficamente, o debate entre **maximalistas** e **minimalistas** (Finkelstein) discute quanto da narrativa bíblica é histórico; a arqueologia sugere que boa parte do texto foi **redigida depois**, com fins religiosos e políticos, exigindo **crítica documental**.
+
+## Exercícios {#sec-exercicios-hebreus}
+
+**1.** Explique por que o **monoteísmo** hebraico foi uma novidade histórica e cite as três religiões que dele derivaram.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Foi uma novidade porque, num mundo inteiramente **politeísta** (mesopotâmicos, egípcios, gregos adoravam muitos deuses), os hebreus afirmaram a existência de **um único Deus** — invisível, criador e universal, não representado por imagens nem preso a um território. Dessa raiz monoteísta nasceram o **judaísmo**, o **cristianismo** e o **islamismo**, que moldaram boa parte da história do Ocidente e do Oriente Médio.
+:::
+
+**2.** Qual foi a principal contribuição dos **fenícios** para a história da escrita? Por que ela foi tão importante?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Os fenícios difundiram um **alfabeto fonético** de cerca de 22 sinais, cada um representando um **som** (consoante). Foi importante porque **simplificou** enormemente a escrita: em vez das centenas de sinais do cuneiforme e do hieróglifo, bastava dominar poucas letras, tornando a escrita mais **acessível**. Esse alfabeto foi adotado pelos **gregos** (que acrescentaram vogais) e pelos **romanos**, chegando, pelo latino, ao alfabeto que usamos hoje.
+:::
+
+**3.** Descreva **dois** instrumentos que os persas usaram para administrar seu vasto império.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Bastam dois: (1) as **satrapias** — cerca de vinte províncias, cada uma governada por um **sátrapa**, fiscalizado por inspetores itinerantes ("olhos e ouvidos do rei"); (2) a **Estrada Real**, com mais de 2.500 km e postos de troca de cavalos, que agilizava comunicações e o correio; (3) a **padronização** de moedas, pesos e medidas e a cobrança regular de tributos; (4) a **política de tolerância**, respeitando religiões e costumes locais para reduzir revoltas. Qualquer dois, bem explicados.
+:::
+
+**4.** Compare a forma como **assírios** e **persas** tratavam os povos conquistados.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Os **assírios** governavam pelo **terror**: deportações em massa, cidades arrasadas, punições exemplares para desencorajar revoltas. Os **persas**, ao contrário, praticavam a **tolerância**: respeitavam as religiões, os costumes e as leis locais, mantinham as elites regionais e chegaram a **libertar** povos deportados (como os judeus, autorizados por Ciro a voltar a Jerusalém — registrado no Cilindro de Ciro). Eram, portanto, estratégias opostas de manter a coesão de um império multiétnico.
+:::
+
+**5.** Explique o **dualismo** do zoroastrismo e aponte uma de suas influências sobre religiões posteriores.
+
+::: {.callout-tip collapse="true" title="Solução"}
+O **zoroastrismo**, fundado por **Zoroastro**, ensinava a luta permanente entre dois princípios opostos: o **bem** (Ahura Mazda, a luz) e o **mal** (Ahriman, as trevas), cabendo a cada pessoa **escolher** um lado, na expectativa de um **juízo final**. Esse **dualismo** e as ideias associadas de juízo, recompensa e castigo (céu e inferno) influenciaram o **judaísmo tardio**, o **cristianismo** e o **islamismo**.
+:::
+
+**6.** (Estilo ENEM) Leia o texto.
+
+> Escavações arqueológicas realizadas nas últimas décadas em Jerusalém e em outros sítios não encontraram, para o século X a.C., os vestígios de uma capital grandiosa como a descrita para o reino de Salomão. Vários pesquisadores passaram a sustentar que boa parte do relato bíblico teria sido redigida séculos depois dos acontecimentos, com finalidades religiosas e de afirmação de identidade.
+
+A partir do texto, conclui-se que
+
+**(a)** a Bíblia não possui nenhum valor como fonte para o historiador.
+**(b)** o relato bíblico deve ser confrontado com outras evidências e compreendido no contexto em que foi escrito.
+**(c)** a arqueologia comprovou integralmente a narrativa do reino de Salomão.
+**(d)** os personagens Davi e Salomão jamais existiram sob qualquer forma.
+**(e)** relatos religiosos e reconstruções históricas são exatamente a mesma coisa.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (b).** O texto mostra a **tensão** entre o relato bíblico e as evidências arqueológicas e defende que a narrativa seja entendida em seu **contexto de produção** (redigida depois, com fins religiosos e identitários). Logo, a Bíblia deve ser **confrontada** com outras fontes — sem ser descartada nem tomada ao pé da letra. Erros: (a) a Bíblia tem enorme valor como fonte, desde que criticada; (c) a arqueologia **não** confirmou a capital grandiosa; (d) inscrições como a estela de Tel Dan sugerem que a "casa de Davi" **existiu**; (e) relato religioso e reconstrução histórica **não** se equivalem.
+:::
+
+**7.** (Estilo vestibular — dissertativa) Explique o debate entre **maximalistas** e **minimalistas** na arqueologia bíblica e por que ele ilustra a necessidade de **crítica documental**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Resposta esperada. Os **maximalistas** leem a Bíblia como relato **substancialmente histórico**, esperando que a arqueologia confirme o texto — inclusive um grande reino de **Davi e Salomão** por volta de 1000 a.C. Os **minimalistas** (como **Israel Finkelstein**), confrontando o texto com as **evidências materiais**, argumentam que muitos episódios não deixaram traços arqueológicos e que boa parte da narrativa foi **redigida séculos depois**, sobretudo em Judá, com fins **religiosos e políticos**; Davi e Salomão teriam sido, talvez, chefes locais, e o "grande reino unido", em parte uma construção literária. O debate ilustra a **crítica documental** porque obriga a perguntar **quem** escreveu a fonte, **quando** e **com que intenção**, e a **cruzá-la** com a arqueologia e com documentos de outros povos (como a estela de Tel Dan, que menciona a "casa de Davi"). A conclusão equilibrada reconhece o valor da Bíblia como fonte **e** a necessidade de não a tomar como crônica factual.
+:::
+
+**8.** Por que se diz que os hebreus, os fenícios e os persas, embora "menores" que Egito e Mesopotâmia, tiveram legados duradouros? Dê um legado de cada um.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque suas contribuições **culturais e institucionais** ultrapassaram em muito seu tamanho territorial e sobreviveram por milênios. **Hebreus:** o **monoteísmo**, base do judaísmo, do cristianismo e do islamismo. **Fenícios:** o **alfabeto fonético**, base das escritas ocidentais. **Persas:** um **modelo de império tolerante e bem administrado** (satrapias, estradas, moeda, respeito aos costumes locais), além do **zoroastrismo**. É um bom exemplo de que a importância histórica de um povo não se mede só por suas conquistas militares ou pela extensão de seu território.
+:::
+
+## Para saber mais {#sec-para-saber-mais-hebreus}
+
+**Livros**
+
+- FINKELSTEIN, Israel; SILBERMAN, Neil Asher. *A Bíblia não tinha razão* [@finkelstein2018]. Apresenta, de forma acessível, o confronto entre a arqueologia e o relato bíblico — leitura central para a Historiografia em Foco deste capítulo.
+- PINSKY, Jaime. *As primeiras civilizações* [@pinsky2017]. Capítulos sobre hebreus, fenícios e persas no conjunto do Oriente antigo.
+- CARDOSO, Ciro Flamarion. *Sociedades do Antigo Oriente Próximo* [@cardoso1990]. Síntese crítica que situa esses povos entre os grandes impérios.
+
+**Filmes e documentários**
+
+- Documentários da BBC e do *National Geographic* sobre a **arqueologia bíblica** e as descobertas em Israel e no Líbano.
+- Materiais de museu sobre o **Cilindro de Ciro** (Museu Britânico), frequentemente apresentado como um dos primeiros documentos a tratar do respeito aos povos e às suas crenças.
