@@ -1,5 +1,146 @@
 # Civilizações africanas antigas: Núbia, Cuxe e Axum {#sec-africa-antiga}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Em 1834, um médico e explorador italiano, Giuseppe Ferlini, dinamitou o topo de dezenas de pirâmides no deserto do atual **Sudão**, à procura de tesouros. As pirâmides — mais numerosas, embora menores e mais íngremes que as do Egito — não eram egípcias: pertenciam ao reino de **Cuxe**, uma civilização **africana** que governou o Nilo por mais de mil anos e chegou a **conquistar o próprio Egito**. Que a maioria das pessoas nunca tenha ouvido falar de Cuxe, de **Meroé** ou de **Axum**, enquanto todas conhecem as pirâmides de Gizé, não é acaso: é resultado de séculos em que a história da **África** foi apagada, negada ou reduzida a apêndice da Europa e do Egito. Este capítulo repara parte dessa lacuna e apresenta civilizações africanas antigas que forjaram metais, escreveram em alfabetos próprios, cunharam moedas e teceram redes de comércio entre o Mediterrâneo, o Nilo e o oceano Índico.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- localizar e caracterizar as civilizações da **Núbia** e de **Cuxe** (Napata e Meroé) e sua relação com o Egito;
+- explicar o episódio dos **"faraós negros"** (XXV dinastia) e o significado histórico de Meroé;
+- descrever o reino de **Axum**, seu comércio e a adoção do cristianismo;
+- reconhecer as contribuições africanas — metalurgia do ferro, escrita, comércio de longa distância;
+- discutir o **apagamento da África** na historiografia e os esforços de reescrita, como a *História Geral da África* da UNESCO, à luz das Leis 10.639/2003 e 11.645/2008.
 :::
+
+## Núbia e Cuxe: os vizinhos do sul {#sec-nubia-cuxe}
+
+Ao **sul** do Egito, ao longo do Nilo, na região que os egípcios chamavam **Núbia** (hoje sul do Egito e norte do Sudão), desenvolveram-se, desde muito cedo, sociedades ricas e organizadas. Os egípcios a conheciam como terra do **ouro** (a palavra *nub* significava "ouro") e do marfim, do ébano e dos escravizados — e por isso alternaram, durante séculos, **comércio, conquista e disputa** com os povos do sul. A Núbia não foi mera "colônia" do Egito: foi um parceiro e rival com identidade própria.
+
+Dessa matriz surgiu o reino de **Cuxe**, com capital primeiro em **Napata** e depois em **Meroé**. Cuxe absorveu muito da cultura egípcia — deuses, escrita hieroglífica, o costume de erguer **pirâmides** para seus reis —, mas desenvolveu traços originais. O momento mais espetacular veio no **século VIII a.C.**: aproveitando a fragmentação do Egito, os reis de Cuxe **conquistaram o próprio Egito** e governaram-no como a **XXV dinastia** — os chamados **"faraós negros"**, entre eles **Piye** e **Taharqa**. Por cerca de um século, um poder **africano do sul** reunificou e governou o vale do Nilo, restaurando templos e cultos, até ser expulso pela invasão **assíria**.
+
+::: {#fig-mapa-africa-antiga}
+
+```{.tikz}
+%%| filename: fig-mapa-africa-antiga
+%%| alt: Mapa esquemático do nordeste da África, com o Egito ao norte, Núbia e Cuxe (Napata e Meroé) ao sul, e Axum junto ao mar Vermelho.
+\begin{tikzpicture}[>=stealth]
+  % mar Vermelho
+  \fill[manualblue!20] (4.2,0.4) -- (5.2,0.2) -- (5.4,4.5) -- (4.6,4.6) -- cycle;
+  \node[manualblue, rotate=-78] at (5.0,2.6) {\scriptsize Mar Vermelho};
+  % Nilo
+  \draw[manualblue, very thick] (2.6,5.4) -- (2.6,4.2) -- (3.0,2.2) -- (3.0,0.6);
+  \node[manualblue] at (2.2,4.8) {\scriptsize Nilo};
+  % regiões
+  \node[align=center, text=manualgray] at (2.6,5.0) {\scriptsize \textbf{EGITO}};
+  \node[ponto] at (2.6,4.7) {}; \node[left] at (2.5,4.7) {\scriptsize Tebas};
+  \node[align=center, text=manualyellow!70!black] at (2.0,3.3) {\scriptsize \textbf{NÚBIA}};
+  \node[align=center, text=manualred] at (2.2,2.3) {\scriptsize \textbf{CUXE}};
+  \node[ponto] at (2.9,2.5) {}; \node[left] at (2.8,2.5) {\scriptsize Napata};
+  \node[ponto, fill=manualred] at (3.0,1.6) {}; \node[left] at (2.9,1.6) {\scriptsize Meroé};
+  \node[align=center, text=manualgreen] at (4.0,1.0) {\scriptsize \textbf{AXUM}};
+  \node[ponto] at (4.4,1.3) {}; \node[right] at (4.5,1.3) {\scriptsize Adúlis};
+  \draw[->, thick] (1.0,4.8) -- (1.0,5.4) node[above] {\scriptsize N};
+\end{tikzpicture}
+```
+
+Nordeste da África (esquemático). Ao sul do Egito, **Núbia** e **Cuxe** (Napata, Meroé); junto ao **mar Vermelho**, **Axum**, com o porto de **Adúlis**.
+:::
+
+Após a retirada para o sul, Cuxe teve seu período mais **original e próspero** com a capital em **Meroé** (c. 300 a.C.–350 d.C.). Ali floresceu uma potente **metalurgia do ferro** — Meroé foi apelidada de "a Birmingham da África antiga" pela quantidade de escórias de fundição encontradas —, uma agricultura irrigada e um comércio que ligava a África interior ao Egito, ao mar Vermelho e ao Mediterrâneo. E, sinal de identidade própria, os meroítas **abandonaram os hieróglifos egípcios** e criaram sua **própria escrita alfabética**, o **meroítico** — ainda hoje apenas parcialmente decifrado. Meroé mostra que a influência egípcia não anulou a criatividade africana: foi ponto de partida, não de chegada.
+
+## Axum: o império do mar Vermelho {#sec-axum}
+
+Mais ao sul e a leste, no planalto do **Chifre da África** (atuais **Etiópia** e **Eritreia**), ergueu-se, a partir dos primeiros séculos da era cristã, o reino de **Axum**. Sua força vinha da **posição estratégica**: pelo porto de **Adúlis**, no mar Vermelho, Axum controlava o comércio entre o **Império Romano**, a **Arábia**, a **África** e a **Índia** — marfim, ouro, incenso, especiarias e escravizados passavam por suas mãos. Axum cunhou suas **próprias moedas** de ouro, prata e bronze (poucos Estados do mundo antigo o faziam) e desenvolveu a escrita e a língua **ge'ez**, ancestral do amárico falado hoje na Etiópia. Deixou como marca monumental as gigantescas **estelas** (obeliscos) de pedra de Axum.
+
+O momento decisivo veio no **século IV d.C.**, quando o rei **Ezana** converteu-se ao **cristianismo**, tornando Axum um dos **primeiros Estados cristãos do mundo** — antes mesmo de grande parte da Europa. Dessa raiz nasceu a **Igreja Ortodoxa Etíope**, uma das mais antigas do cristianismo, que perdura até hoje. A Etiópia manteria, ao longo dos séculos, a rara condição de reino cristão **africano e independente**, o que faz de Axum um marco da história do continente e um desmentido eloquente à ideia de uma África "sem Estado" e "sem história".
+
+## 🔎 Historiografia em Foco {#sec-historiografia-africa}
+
+Por que civilizações tão notáveis quanto Cuxe e Axum foram, por tanto tempo, **ignoradas** ou tratadas como meros reflexos do Egito? A resposta está menos nas fontes e mais na **história da própria historiografia** — e é aqui que este capítulo dialoga diretamente com o modo como escrevemos e ensinamos História.
+
+**O apagamento: "a África não tem história".** No século XIX, o filósofo alemão **G. W. F. Hegel** afirmou, em suas lições, que a África seria um continente "**sem história**", fora do movimento do mundo — uma sentença que expressava e legitimava o **racismo** e o **colonialismo** europeus. Sob essa ótica, tudo o que houvesse de complexo na África antiga era atribuído a **influências externas** (egípcias, mediterrâneas, árabes), nunca à criatividade africana. Cuxe virava "imitação" do Egito; Axum, produto do comércio "de fora". A África era imaginada como um espaço **imóvel**, sem Estados, sem escrita, sem passado digno de estudo — imagem que servia para justificar a dominação colonial e o tráfico de escravizados.
+
+**A reescrita: da UNESCO à sala de aula.** No século XX, com a **descolonização**, uma geração de historiadores — muitos deles africanos — combateu esse apagamento. Autores como **Cheikh Anta Diop** [@diop1974] e **Joseph Ki-Zerbo** [@kiZerbo2009] reivindicaram a África como sujeito de sua própria história, com Estados, técnicas e culturas originais. O marco maior foi a **_História Geral da África_** [@unesco2010], monumental coleção coordenada pela **UNESCO** a partir dos anos 1960, escrita majoritariamente por especialistas africanos, que reuniu arqueologia, fontes escritas e **tradição oral** para reconstruir o passado do continente. Meroé deixou de ser "cópia do Egito" para ser estudada como centro **original** de metalurgia e escrita; a tradição oral, antes desprezada, foi valorizada como fonte histórica legítima.
+
+**Por que o debate importa (inclusive no Brasil)?** Porque decidir *o que* entra nos livros de história é decidir *quem* tem direito a um passado. O apagamento da África não foi "falta de fontes" — foi uma **escolha ideológica** que naturalizou a hierarquia entre os povos. Reescrever essa história é, portanto, um gesto de conhecimento e de justiça. No Brasil, país de maioria negra, esse esforço tornou-se **obrigação legal e pedagógica** com as **Leis 10.639/2003** e **11.645/2008**, que exigem o ensino de História e Cultura Afro-Brasileira, Africana e Indígena. Estudar Cuxe, Meroé e Axum não é, portanto, um capítulo "exótico" ou opcional: é reconhecer que a história das civilizações é **plural** e que a África esteve, desde o início, entre seus protagonistas.
+
+## Resumo do capítulo {#sec-resumo-africa}
+
+- Ao **sul do Egito**, ao longo do Nilo, a **Núbia** foi terra de ouro e marfim, parceira e rival do Egito, com identidade própria — não uma simples colônia.
+- O reino de **Cuxe** (capitais **Napata** e **Meroé**) absorveu e reelaborou a cultura egípcia. No **século VIII a.C.**, conquistou o Egito e o governou como a **XXV dinastia** (os **"faraós negros"**: Piye, Taharqa), até a invasão assíria.
+- Em **Meroé** (c. 300 a.C.–350 d.C.), Cuxe teve seu auge original: forte **metalurgia do ferro**, comércio de longa distância e uma **escrita própria** (meroítico), sinal de criatividade africana.
+- **Axum** (Etiópia/Eritreia) prosperou pelo comércio do **mar Vermelho** (porto de Adúlis), cunhou **moedas** próprias, criou a escrita **ge'ez** e, sob o rei **Ezana** (séc. IV d.C.), tornou-se um dos **primeiros Estados cristãos** do mundo (Igreja Ortodoxa Etíope).
+- Historiograficamente, a ideia de que "a **África não tem história**" (Hegel) foi um **apagamento ideológico** ligado ao colonialismo; a **descolonização** e a *História Geral da África* da **UNESCO** (Diop, Ki-Zerbo) reescreveram esse passado, valorizando a **tradição oral** — esforço ligado, no Brasil, às **Leis 10.639/2003 e 11.645/2008**.
+
+## Exercícios {#sec-exercicios-africa}
+
+**1.** Por que é incorreto tratar a **Núbia** e **Cuxe** como simples "colônias" ou cópias do Egito?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque, embora tenham mantido intensa relação com o Egito (comércio, conquista, empréstimos culturais como os deuses, a escrita e as pirâmides), a Núbia e **Cuxe** tiveram **identidade e criatividade próprias**: alternaram parceria e rivalidade com o Egito (chegando a **conquistá-lo** na XXV dinastia), desenvolveram uma potente **metalurgia do ferro** em **Meroé** e criaram sua **própria escrita alfabética** (o meroítico), abandonando os hieróglifos egípcios. A influência egípcia foi ponto de **partida**, não de chegada — houve reelaboração original.
+:::
+
+**2.** O que foram os **"faraós negros"** e em que contexto governaram o Egito?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Foram os reis de **Cuxe** que, no **século VIII a.C.**, aproveitando a **fragmentação política** do Egito, conquistaram o vale do Nilo e o governaram como a **XXV dinastia** — entre eles **Piye** e **Taharqa**. Por cerca de um século, um poder **africano do sul** reunificou o Egito e restaurou templos e cultos, até ser expulso pela invasão **assíria**. O episódio mostra que a relação Egito–Núbia foi de mão dupla: em certo momento, foi a Núbia quem dominou o Egito.
+:::
+
+**3.** Cite duas realizações originais de **Meroé** que evidenciam a criatividade da civilização cuxita.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Bastam duas: (1) uma potente **metalurgia do ferro** (Meroé foi chamada de "a Birmingham da África antiga" pela abundância de vestígios de fundição); (2) a criação de uma **escrita alfabética própria**, o **meroítico**, abandonando os hieróglifos egípcios; (3) uma agricultura irrigada e um **comércio de longa distância** ligando a África interior ao Egito, ao mar Vermelho e ao Mediterrâneo; (4) suas numerosas **pirâmides** (mais íngremes que as egípcias). Quaisquer duas.
+:::
+
+**4.** Explique a importância da **posição geográfica** de Axum e o significado da conversão do rei Ezana.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Axum ocupava o planalto do **Chifre da África**, e pelo porto de **Adúlis**, no **mar Vermelho**, controlava o comércio entre o **Império Romano**, a **Arábia**, a **África** e a **Índia** (marfim, ouro, incenso, especiarias) — o que a tornou rica e poderosa, a ponto de cunhar **moedas próprias**. A conversão do rei **Ezana** ao **cristianismo** (séc. IV d.C.) fez de Axum um dos **primeiros Estados cristãos do mundo**, dando origem à **Igreja Ortodoxa Etíope** e a uma tradição de reino cristão africano independente que perdura até hoje.
+:::
+
+**5.** O que a existência de Cuxe e Axum permite contestar sobre visões antigas da África?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Permite contestar a ideia — difundida no século XIX, por exemplo por **Hegel** — de que a África seria um continente "**sem história**", **imóvel**, sem Estados, sem escrita e sem passado digno de estudo. Cuxe e Axum foram Estados **organizados e criativos**: ergueram cidades e monumentos, dominaram a **metalurgia do ferro**, criaram **escritas próprias** (meroítico, ge'ez), cunharam **moedas** e teceram **redes de comércio** internacionais. Sua existência desmente o mito da "África sem história" e mostra o continente como **protagonista** das civilizações antigas.
+:::
+
+**6.** (Estilo ENEM) Leia o texto.
+
+> Durante muito tempo, tudo o que havia de complexo nas sociedades africanas antigas foi atribuído a influências externas, egípcias ou mediterrâneas. A partir da segunda metade do século XX, com a descolonização, historiadores — muitos deles africanos — reuniram-se em torno de projetos como a *História Geral da África*, da UNESCO, que valorizaram a arqueologia e a tradição oral para reconstruir o passado do continente.
+
+O texto evidencia que
+
+**(a)** a história africana só pode ser conhecida por meio de fontes europeias.
+**(b)** a produção do conhecimento histórico é influenciada por contextos políticos, como o colonialismo e a descolonização.
+**(c)** a tradição oral não tem qualquer valor como fonte histórica.
+**(d)** as sociedades africanas antigas eram, de fato, incapazes de criações próprias.
+**(e)** a arqueologia não contribui para o estudo da África.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (b).** O texto contrasta o **apagamento** colonial (atribuir tudo a influências externas) com a **reescrita** promovida pela descolonização (a *História Geral da África*, a valorização da tradição oral), mostrando que a produção do conhecimento histórico é moldada por **contextos políticos**. Erros: (a) e (e) contrariam o texto, que valoriza fontes africanas e a arqueologia; (c) a tradição oral é justamente **valorizada**; (d) o texto combate a ideia de incapacidade africana.
+:::
+
+**7.** (Estilo vestibular — dissertativa) Explique como e por que a história da **África antiga** foi apagada pela historiografia do século XIX, e descreva **um esforço** de reescrita realizado no século XX.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Resposta esperada. **O apagamento:** no século XIX, imersa no **racismo** e no **colonialismo**, boa parte da erudição europeia — sintetizada na frase de **Hegel** de que a África seria "sem história" — imaginou o continente como **imóvel** e sem civilização própria, atribuindo tudo o que fosse complexo a **influências externas** (egípcias, mediterrâneas). Essa visão **servia para legitimar** a dominação colonial e o tráfico de escravizados. **A reescrita** (basta um esforço): com a **descolonização**, historiadores como **Cheikh Anta Diop** e **Joseph Ki-Zerbo** reivindicaram a África como sujeito de sua história; o marco foi a **_História Geral da África_** da **UNESCO**, escrita majoritariamente por africanos, que uniu arqueologia, fontes escritas e **tradição oral** para reconstruir civilizações como Cuxe, Meroé e Axum. Uma boa resposta relaciona o tema à ideia de que **escolher o que entra nos livros** é um ato ideológico — e, no Brasil, às **Leis 10.639/2003 e 11.645/2008**.
+:::
+
+**8.** Explique por que estudar as civilizações africanas antigas se relaciona com as **Leis 10.639/2003 e 11.645/2008**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque essas leis tornaram **obrigatório**, nas escolas brasileiras, o ensino de **História e Cultura Afro-Brasileira, Africana** (Lei 10.639/2003) e **Indígena** (Lei 11.645/2008). Estudar Núbia, Cuxe, Meroé e Axum atende diretamente a essa exigência: combate o **apagamento** histórico da África, apresenta o continente como **protagonista** das civilizações antigas e ajuda a construir, num país de maioria negra, uma memória mais **plural e justa**. Não é, portanto, um conteúdo "exótico" ou opcional, mas parte central de uma educação antirracista.
+:::
+
+## Para saber mais {#sec-para-saber-mais-africa}
+
+**Livros**
+
+- UNESCO. *História Geral da África, II: África Antiga* [@unesco2010]. A obra de referência para o passado africano — disponível gratuitamente no site da UNESCO em português.
+- KI-ZERBO, Joseph. *História da África Negra* [@kiZerbo2009]. Panorama escrito por um dos maiores historiadores africanos.
+- DIOP, Cheikh Anta. *The African Origin of Civilization* [@diop1974]. Clássico da reivindicação da história africana, útil também para o @sec-egito.
+
+**Filmes e documentários**
+
+- Documentários sobre as **pirâmides de Meroé** e os **"faraós negros"** de Cuxe (BBC, PBS e produções sudanesas).
+- Materiais sobre as **estelas de Axum** e a **Igreja Ortodoxa Etíope**, um dos cristianismos mais antigos do mundo.
