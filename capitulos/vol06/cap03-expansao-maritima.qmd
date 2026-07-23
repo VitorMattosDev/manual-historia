@@ -1,5 +1,222 @@
 # A expansão marítima europeia {#sec-expansao-maritima}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+No dia 22 de abril de 1500, marinheiros portugueses avistaram, do convés de suas naus, o cume de um monte na costa de uma terra desconhecida — o que hoje chamamos de **Monte Pascoal**, no sul da Bahia. Comandava a frota **Pedro Álvares Cabral**, a caminho da Índia. Aquele "encontro" — que a tradição chamou de "descobrimento do Brasil" — não foi um acaso isolado, nem o começo da história das terras que já eram habitadas havia milênios por milhões de indígenas. Foi um episódio de um processo muito maior: a **Expansão Marítima europeia**, a série de viagens de exploração que, entre os séculos XV e XVI, conectou pela primeira vez os continentes, deu início à colonização da América, da África e da Ásia e lançou as bases de um mundo globalizado. Foi, ao mesmo tempo, uma extraordinária aventura técnica e humana **e** o ponto de partida de séculos de conquista, escravização e destruição de povos inteiros. Este capítulo conta como e por que a Europa se lançou aos mares — e por que essa expansão mudou o mundo para sempre, o Brasil incluído.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- explicar as **causas** da Expansão Marítima (econômicas, técnicas, políticas e religiosas);
+- entender por que **Portugal** foi o pioneiro e descrever as etapas da expansão portuguesa;
+- caracterizar a expansão **espanhola** (Colombo, Magalhães) e o **Tratado de Tordesilhas**;
+- analisar as **consequências** da expansão: a economia-mundo, a "troca colombiana" e o colonialismo;
+- discutir o debate historiográfico sobre "descobrimento" × "invasão/encontro" e o eurocentrismo.
 :::
+
+## Por que a Europa se lançou aos mares {#sec-causas-expansao}
+
+A Expansão Marítima não teve uma causa única, mas o encontro de vários fatores que amadureceram ao mesmo tempo (@fig-causas-expansao). Comecemos pela **motivação econômica**, decisiva. A Europa desejava as **especiarias** do Oriente (pimenta, cravo, canela, noz-moscada) — usadas para conservar e temperar alimentos e valiosíssimas —, além de seda, porcelana e outros produtos de luxo. O problema é que essas mercadorias chegavam por rotas terrestres longas, controladas por intermediários **árabes** e **italianos** (Veneza, Gênova), o que as tornava caríssimas. A situação piorou com a **tomada de Constantinopla pelos turcos otomanos** em 1453 (@sec-queda), que passaram a controlar as rotas orientais. A saída era encontrar um **caminho marítimo próprio** para as Índias, contornando os intermediários. Some-se a isso o espírito **mercantilista** (@sec-mercantilismo): a fome de **ouro** e metais preciosos e o desejo de acumular riqueza para o Estado.
+
+::: {#fig-causas-expansao}
+
+```{.tikz}
+%%| filename: fig-causas-expansao
+%%| alt: Diagrama das múltiplas causas da Expansão Marítima europeia.
+\begin{tikzpicture}[>=stealth]
+  \node[draw, very thick, circle, fill=manualyellow!22, align=center, font=\scriptsize\bfseries, minimum size=2cm] (c) at (0,0) {EXPANSÃO\\MARÍTIMA};
+  \node[draw, fill=manualgreen!16, rounded corners, align=center, font=\scriptsize, text width=3cm] at (-4.3,1.7) {\textbf{Econômicas}\\especiarias, ouro, novas rotas};
+  \node[draw, fill=manualblue!16, rounded corners, align=center, font=\scriptsize, text width=3cm] at (4.3,1.7) {\textbf{Técnicas}\\caravela, bússola, astrolábio, cartografia};
+  \node[draw, fill=manualred!14, rounded corners, align=center, font=\scriptsize, text width=3cm] at (-4.3,-1.7) {\textbf{Políticas}\\monarquias centralizadas com recursos};
+  \node[draw, fill=manualgray!20, rounded corners, align=center, font=\scriptsize, text width=3cm] at (4.3,-1.7) {\textbf{Religiosas e culturais}\\expandir a fé, curiosidade renascentista};
+  \draw[vetor] (c) -- (-2.7,1.2); \draw[vetor] (c) -- (2.7,1.2);
+  \draw[vetor] (c) -- (-2.7,-1.2); \draw[vetor] (c) -- (2.7,-1.2);
+\end{tikzpicture}
+```
+
+As causas da Expansão Marítima entrelaçam-se. A célebre síntese em inglês — *God, Gold and Glory* (Deus, ouro e glória) — capta os motivos religioso, econômico e político.
+:::
+
+Havia também as **condições técnicas**. A navegação oceânica exigia inovações que amadureceram no século XV, muitas herdadas dos árabes e dos chineses: a **caravela** (embarcação ágil, com velas triangulares que permitiam navegar contra o vento), a **bússola** (para orientação), o **astrolábio** e o **quadrante** (para calcular a latitude pela posição dos astros) e o avanço da **cartografia**. Por fim, os motivos **políticos** e **religiosos**: só as **monarquias nacionais centralizadas** (@sec-pioneiros) dispunham dos recursos para financiar viagens tão caras e arriscadas; e havia o desejo de **expandir a fé cristã**, convertendo "infiéis" e "pagãos" — um motivo sincero para muitos e, para outros, uma justificativa conveniente para a conquista.
+
+## Portugal, o pioneiro {#sec-portugal-pioneiro}
+
+Por que **Portugal** foi o primeiro? A resposta reúne vantagens acumuladas. Portugal foi o **primeiro Estado nacional centralizado** (@sec-pioneiros), pacificado e organizado desde o século XIII, enquanto Espanha, França e Inglaterra ainda guerreavam internamente. Tinha uma **posição geográfica** privilegiada — todo voltado para o Atlântico — e uma longa tradição **marítima e pesqueira**. Possuía uma **burguesia mercantil** interessada no comércio e uma monarquia (a dinastia de **Avis**) que abraçou a expansão como projeto de Estado. A ela ligou-se a figura do **Infante Dom Henrique**, o "Navegador" (1394–1460), patrono e organizador das primeiras viagens — a quem a tradição associou uma "Escola de Sagres", centro de estudos náuticos (cuja existência como instituição formal os historiadores hoje questionam, embora Sagres tenha sido, de fato, um polo da empreitada).
+
+A expansão portuguesa foi **gradual e cautelosa**, "aos pedaços", descendo a costa da África (@fig-rotas-expansao). Começou em **1415**, com a tomada de **Ceuta**, no norte da África. Ao longo do século XV, os navegadores foram avançando pelo litoral africano — instalando **feitorias** (entrepostos comerciais fortificados) e iniciando, já a partir de meados do século, o comércio de **ouro**, marfim e **pessoas escravizadas**. Os marcos decisivos vieram no fim do século: em **1488**, **Bartolomeu Dias** contornou o extremo sul da África (o **Cabo da Boa Esperança**), provando que era possível chegar ao Índico; em **1498**, **Vasco da Gama** completou a façanha, alcançando **Calicute, na Índia**, e abrindo enfim o caminho marítimo para o Oriente. Dois anos depois, a frota de **Cabral**, a caminho da Índia, aportou no **Brasil (1500)**.
+
+::: {#fig-rotas-expansao}
+
+```{.tikz}
+%%| filename: fig-rotas-expansao
+%%| alt: Mapa esquemático das rotas da expansão portuguesa (contornando a África) e espanhola (cruzando o Atlântico).
+\begin{tikzpicture}[>=stealth]
+  % blocos esquemáticos de continentes
+  \fill[manualgray!12] (0.2,0.6) rectangle (1.8,4.2);
+  \node[gray, font=\scriptsize] at (1,3.8) {Europa};
+  \fill[manualgray!12] (0.6,-3.6) rectangle (2.2,0.2);
+  \node[gray, font=\scriptsize] at (1.4,-1.7) {África};
+  \fill[manualgray!12] (7.6,0.4) rectangle (9.2,3.6);
+  \node[gray, font=\scriptsize] at (8.4,3.2) {Ásia\\Índia};
+  \fill[manualgray!12] (-4.4,-2.6) rectangle (-3.0,2.2);
+  \node[gray, font=\scriptsize] at (-3.7,1.8) {América};
+
+  % rota portuguesa (azul): Lisboa -> contorna África -> Índia
+  \draw[vetor, very thick, manualblue] (1.2,3.4) .. controls (0.2,0) and (1.0,-4.2) .. (2.2,-3.4)
+        .. controls (4.5,-3.0) and (7.0,-1.5) .. (7.8,1.4);
+  \node[text=manualblue, font=\scriptsize\bfseries] at (5.0,-3.5) {Portugal (Gama, 1498)};
+
+  % rota espanhola (vermelho): Espanha -> cruza Atlântico -> América
+  \draw[vetor, very thick, manualred] (1.0,2.6) .. controls (-1.2,2.2) and (-2.4,1.4) .. (-3.0,0.6);
+  \node[text=manualred, font=\scriptsize\bfseries] at (-1.6,2.6) {Espanha (Colombo, 1492)};
+
+  % ponto Cabo da Boa Esperança
+  \node[ponto] at (1.9,-3.5) {};
+  \node[font=\scriptsize] at (2.6,-3.9) {Cabo (Dias, 1488)};
+\end{tikzpicture}
+```
+
+Rotas **esquemáticas** (fora de escala): Portugal contornou a África rumo ao Índico; a Espanha cruzou o Atlântico rumo ao oeste. Duas estratégias para o mesmo objetivo — chegar às Índias.
+:::
+
+## Espanha, Colombo e a partilha do mundo {#sec-espanha-colombo}
+
+Enquanto Portugal descia a África, a **Espanha** recém-unificada (1492) apostou numa hipótese ousada: chegar ao Oriente navegando para **oeste**, cruzando o Atlântico, já que a Terra era redonda. O genovês **Cristóvão Colombo** (c. 1451–1506) convenceu os Reis Católicos a financiá-lo e, em **outubro de 1492**, chegou a ilhas do **Caribe**. Colombo morreu convencido de que havia atingido as Índias — daí o equívoco de chamar os habitantes de "**índios**". Na verdade, "topara" com um continente que a Europa ignorava: a **América** (nome que homenageia outro navegador, Américo Vespúcio, que percebeu tratar-se de um "novo mundo").
+
+A concorrência entre as duas potências ibéricas gerou conflito, mediado pela Igreja. Pelo **Tratado de Tordesilhas** (**1494**), Portugal e Espanha **dividiram o mundo** a ser "descoberto" por uma linha imaginária traçada a 370 léguas a oeste das ilhas de Cabo Verde: as terras a **leste** seriam de Portugal; as a **oeste**, da Espanha. Foi essa linha que, seis anos depois, garantiria a Portugal a posse formal do litoral do **Brasil**. A empreitada culminou numa proeza: entre **1519 e 1522**, a expedição de **Fernão de Magalhães** (português a serviço da Espanha) e, após sua morte, de **Sebastián Elcano** completou a **primeira circum-navegação** — deu a volta ao mundo, provando de vez sua esfericidade e revelando as verdadeiras dimensões do planeta.
+
+::: {.callout-important title="Armadilha comum: 'descobrir' um continente habitado"}
+A palavra "descobrimento" carrega um **ponto de vista** — o europeu. A América não era um espaço vazio à espera de ser "descoberto": era habitada, havia milênios, por dezenas de milhões de pessoas, organizadas em sociedades complexas (astecas, maias, incas, tupis, e centenas de outros povos — Volume 7). Do ponto de vista desses povos, não houve "descobrimento", mas **invasão**, **conquista** e catástrofe. Por isso muitos historiadores preferem falar em "**encontro**" (que ressalta o contato entre mundos) ou em "**conquista**" (que ressalta a violência) em vez de "descobrimento". Atenção a essa escolha de palavras: ela **não** é neutra, e as bancas de vestibular gostam de cobrá-la.
+:::
+
+## As consequências: um mundo conectado {#sec-consequencias-expansao}
+
+A Expansão Marítima teve consequências de longuíssima duração — algumas das mais profundas de toda a história. A primeira foi a formação de uma **economia-mundo**: pela primeira vez, os continentes ficaram **interligados** por rotas comerciais permanentes, e teve início o que muitos chamam de **primeira globalização**. O eixo do comércio europeu deslocou-se do **Mediterrâneo** (que declinou, junto com Veneza e Gênova) para o **Atlântico** — beneficiando Portugal, Espanha e, depois, Holanda, Inglaterra e França. É a chamada **Revolução Comercial**.
+
+A segunda consequência foi biológica e ecológica: a **troca colombiana** (@fig-troca-colombiana), o intercâmbio de plantas, animais, pessoas e, tragicamente, **doenças** entre os continentes. Da América vieram para o Velho Mundo o **milho**, a **batata**, o **tomate**, o cacau, o tabaco — alimentos que revolucionaram a dieta europeia e sustentaram seu crescimento populacional. Para a América foram o trigo, a cana-de-açúcar, o cavalo, o gado, a galinha. Mas nesse intercâmbio viajaram também micróbios: **varíola, sarampo, gripe** — doenças contra as quais os indígenas não tinham defesas e que **dizimaram** as populações nativas, matando talvez 90% delas em um século (tema do Volume 7).
+
+::: {#fig-troca-colombiana}
+
+```{.tikz}
+%%| filename: fig-troca-colombiana
+%%| alt: Diagrama da troca colombiana entre a América e o Velho Mundo (Europa, África, Ásia).
+\begin{tikzpicture}[>=stealth]
+  \node[draw, very thick, rounded corners, fill=manualgreen!16, align=center, font=\scriptsize, minimum height=1.4cm, text width=2.6cm] (a) at (-4,0) {\textbf{AMÉRICA}};
+  \node[draw, very thick, rounded corners, fill=manualblue!14, align=center, font=\scriptsize, minimum height=1.4cm, text width=2.6cm] (v) at (4,0) {\textbf{VELHO MUNDO}\\(Europa, África, Ásia)};
+  \draw[vetor, manualgreen, very thick] (a.north east) to[bend left=22] node[above, black, font=\scriptsize, align=center]{milho, batata, tomate,\\cacau, tabaco} (v.north west);
+  \draw[vetor, manualblue, very thick] (v.south west) to[bend left=22] node[below, black, font=\scriptsize, align=center]{trigo, cana, cavalo, gado\\ --- e \textbf{doenças} (varíola)} (a.south east);
+\end{tikzpicture}
+```
+
+A troca colombiana. O intercâmbio de alimentos transformou dietas nos dois lados do Atlântico; a chegada de **doenças** ao continente americano provocou uma catástrofe demográfica sem precedentes.
+:::
+
+A terceira consequência foi política e humana: o início do **colonialismo** moderno e da montagem de **impérios ultramarinos**. A Europa passou a **dominar, explorar e colonizar** vastas regiões do planeta, impondo seu poder, sua religião e sua economia. E, ligado a isso, intensificou-se o **tráfico atlântico de africanos escravizados**: para trabalhar nas plantações e minas da América, os europeus deportaram, ao longo de mais de três séculos, cerca de **12 milhões** de africanos — o maior deslocamento forçado de seres humanos da história [@gomes2022]. A Expansão Marítima é, portanto, inseparável da **escravidão** e do sofrimento que ela produziu, temas centrais dos volumes sobre a América e o Brasil coloniais.
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+Nenhum tema deste capítulo é mais disputado do que o **significado** da expansão. O debate se concentra nas próprias **palavras** que usamos para nomeá-la — e as palavras, aqui, carregam interpretações inteiras.
+
+**"Descobrimento": a narrativa eurocêntrica.** Durante séculos, a historiografia europeia (e a brasileira que a seguiu) contou a expansão como uma epopeia gloriosa: os "**Descobrimentos**", a bravura dos navegadores, a "revelação" de novos mundos, a difusão da civilização e da fé cristã. Essa é uma visão **eurocêntrica** — que toma a Europa como centro e sujeito da história, e os demais povos como cenário passivo, "descobertos" e "civilizados". Ela reflete o ponto de vista dos **vencedores** e das metrópoles, e por muito tempo foi a única contada nas escolas.
+
+**"Conquista", "invasão", "encontro": a perspectiva dos vencidos.** A partir do século XX, e sobretudo após as descolonizações e o quinto centenário de 1492 (em 1992, marcado por intensos protestos indígenas na América), historiadores passaram a **inverter o olhar**. Autores ligados à "**visão dos vencidos**" (como o mexicano Miguel León-Portilla, que reuniu relatos astecas da conquista) e à crítica do **eurocentrismo** mostraram que, para os povos americanos e africanos, aquilo não foi "descobrimento", mas **invasão**, **conquista**, escravização e genocídio. O crítico **Edward Said**, em *Orientalismo* [@said2007], mostrou como a Europa construiu uma imagem inferiorizada do "Oriente" e dos outros povos para justificar sua dominação. Nessa chave, palavras como "encontro de culturas" buscam um termo mais neutro, embora alguns critiquem "encontro" por suavizar a violência.
+
+**Por que a escolha das palavras importa?** Porque cada termo **conta uma história diferente** e valoriza sujeitos diferentes. "Descobrimento" apaga os habitantes e celebra os europeus; "invasão" e "conquista" recolocam os povos originários no centro, como vítimas e agentes; "encontro" e "primeira globalização" enfatizam a conexão e as trocas. Nenhuma palavra é inocente. A historiografia mais recente tende a **articular as duas dimensões**: reconhecer a extraordinária façanha técnica e a conexão global inédita **sem** apagar que ela se fez por meio da **violência, da escravidão e da destruição** de povos inteiros. Compreender isso — e evitar tanto a glorificação acrítica quanto o anacronismo — é o que se espera de você.
+
+::: {.callout-warning title="Controvérsia: expansão europeia ou 'superioridade' europeia?"}
+Por que foi a **Europa** — e não a China, que no início do século XV possuía frotas gigantescas (as viagens do almirante **Zheng He**) — que se lançou à conquista do mundo? A explicação **não** está em qualquer "superioridade" europeia inata (ideia racista e anacrônica). Historiadores como **Jared Diamond** [@diamond2013] apontam fatores geográficos e de longa duração (recursos, doenças, geografia da competição entre Estados); outros destacam a **fragmentação política** da Europa (que estimulava a competição e a inovação, ao contrário do império chinês unificado, que decidiu recolher suas frotas) e as necessidades específicas do **mercantilismo**. O importante é fugir de explicações que naturalizem o domínio europeu como "destino" ou "mérito" — isso seria **teleologia** e eurocentrismo. A expansão foi resultado de **circunstâncias históricas**, não de superioridade essencial.
+:::
+
+## Resumo do capítulo {#sec-resumo}
+
+- A **Expansão Marítima** (séc. XV–XVI) foi a série de viagens que conectou os continentes, iniciou o colonialismo moderno e lançou as bases da **globalização**.
+- **Causas**: **econômicas** (especiarias e ouro; buscar rota própria após os turcos tomarem Constantinopla em 1453; mercantilismo), **técnicas** (caravela, bússola, astrolábio, cartografia), **políticas** (monarquias centralizadas com recursos) e **religiosas/culturais** (expandir a fé; curiosidade renascentista). Síntese: *God, Gold and Glory*.
+- **Portugal**, o **pioneiro** (Estado centralizado desde cedo, posição atlântica, dinastia de Avis, Infante D. Henrique): **Ceuta** (1415) → costa africana e feitorias → **Bartolomeu Dias** no **Cabo da Boa Esperança** (1488) → **Vasco da Gama** à **Índia** (1498) → **Cabral** ao **Brasil** (1500).
+- **Espanha**: **Colombo** chega ao **Caribe** (1492) navegando para oeste; **Tratado de Tordesilhas** (1494) divide o mundo entre as duas potências; **Magalhães-Elcano** fazem a **primeira circum-navegação** (1519–1522).
+- **Consequências**: **economia-mundo** e deslocamento do eixo comercial do Mediterrâneo para o **Atlântico** (Revolução Comercial); **troca colombiana** (alimentos — milho, batata — e **doenças** que dizimaram os indígenas); **colonialismo** e impérios ultramarinos; intensificação do **tráfico atlântico de escravizados** (~12 milhões de africanos).
+- Historiografia: "**descobrimento**" (narrativa **eurocêntrica**, dos vencedores) × "**invasão/conquista**" (perspectiva dos vencidos) × "**encontro/globalização**". As palavras não são neutras. Fugir da glorificação acrítica **e** do anacronismo; a expansão não decorreu de "superioridade" europeia, mas de circunstâncias históricas.
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Campeão absoluto de vestibular. Domine: (1) o **encadeamento de causas** (com destaque para as especiarias e 1453); (2) por que **Portugal** foi pioneiro; (3) **Tordesilhas** e o Brasil; e (4) a discussão "descobrimento × invasão", que rende ótimas dissertativas.
+:::
+
+**1.** Explique as principais **causas** da Expansão Marítima, destacando a motivação econômica.
+
+::: {.callout-tip collapse="true" title="Solução"}
+As causas se entrelaçam:
+- **Econômicas** (decisivas): o desejo europeu pelas **especiarias** e artigos de luxo do Oriente, que chegavam caros por rotas terrestres controladas por intermediários **árabes e italianos**. A **tomada de Constantinopla pelos turcos** (1453) agravou o problema, estimulando a busca por um **caminho marítimo próprio** para as Índias. Somava-se a fome mercantilista de **ouro** e metais.
+- **Técnicas**: inovações como a **caravela**, a **bússola**, o **astrolábio** e a **cartografia**, que tornaram viável a navegação oceânica.
+- **Políticas**: apenas as **monarquias nacionais centralizadas** tinham recursos para financiar viagens caras e arriscadas.
+- **Religiosas e culturais**: o desejo de **expandir a fé cristã** e o espírito de **curiosidade** renascentista.
+
+A síntese *God, Gold and Glory* (Deus, ouro e glória) resume os motivos religioso, econômico e político.
+:::
+
+**2.** Por que **Portugal** foi o pioneiro da Expansão Marítima? Cite pelo menos três fatores.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Portugal reunia vantagens acumuladas: (1) foi o **primeiro Estado nacional centralizado**, pacificado e organizado desde o século XIII, enquanto seus rivais ainda guerreavam internamente; (2) tinha **posição geográfica** privilegiada, toda voltada para o Atlântico, e longa tradição **marítima e pesqueira**; (3) possuía uma **burguesia mercantil** interessada no comércio e uma **monarquia** (dinastia de **Avis**) que fez da expansão um projeto de Estado, apoiada por figuras como o **Infante D. Henrique**. Essa combinação permitiu a Portugal começar cedo (Ceuta, 1415) e avançar de forma gradual pela costa africana até a Índia.
+:::
+
+**3.** O que foi o **Tratado de Tordesilhas** (1494) e qual sua relação com o Brasil?
+
+::: {.callout-tip collapse="true" title="Solução"}
+O **Tratado de Tordesilhas** (1494), mediado pela Igreja, foi o acordo pelo qual **Portugal** e **Espanha dividiram entre si** as terras a serem "descobertas", por meio de uma linha imaginária traçada a **370 léguas a oeste das ilhas de Cabo Verde**: as terras a **leste** da linha caberiam a Portugal; as a **oeste**, à Espanha. Sua relação com o Brasil é direta: foi essa linha que garantiu a **Portugal** o direito (do ponto de vista europeu) sobre o litoral do território que, seis anos depois, a frota de **Cabral** alcançaria (1500). Tordesilhas explica, portanto, por que o Brasil coube a Portugal — e por que a maior parte da América restante coube à Espanha.
+:::
+
+**4.** Explique o que foi a **troca colombiana** e por que ela teve efeitos tão dramáticos para os povos americanos.
+
+::: {.callout-tip collapse="true" title="Solução"}
+A **troca colombiana** foi o intercâmbio de **plantas, animais, pessoas e doenças** entre a América e o Velho Mundo (Europa, África, Ásia) após 1492. Da América vieram alimentos que transformaram a dieta e sustentaram o crescimento populacional europeu (**milho, batata, tomate**, cacau, tabaco); para a América foram trigo, cana-de-açúcar, cavalo, gado. O efeito **mais dramático**, porém, foi biológico: junto com os europeus viajaram **micróbios** (varíola, sarampo, gripe) contra os quais os indígenas **não tinham imunidade**. Essas doenças provocaram uma **catástrofe demográfica** sem precedentes, matando talvez **90%** da população nativa em cerca de um século. Assim, boa parte do colapso dos povos americanos deveu-se não só à violência da conquista, mas às **epidemias** trazidas pela troca colombiana.
+:::
+
+**5.** Por que muitos historiadores preferem falar em "invasão", "conquista" ou "encontro" em vez de "descobrimento"?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque a palavra "**descobrimento**" carrega um **ponto de vista eurocêntrico**: sugere que a América era um espaço **vazio** à espera de ser revelado pelos europeus, apagando o fato de que ela já era **habitada há milênios** por dezenas de milhões de pessoas em sociedades complexas. Do ponto de vista desses povos, o que ocorreu não foi "descoberta", mas **invasão**, **conquista**, escravização e genocídio. Por isso muitos historiadores adotam "**conquista**" ou "**invasão**" (que ressaltam a violência) ou "**encontro**" (que ressalta o contato entre mundos, embora alguns o critiquem por suavizar a violência). A escolha da palavra **não é neutra**: cada termo valoriza sujeitos diferentes e conta uma história diferente — daí a importância de ter consciência dela.
+:::
+
+**6.** (Estilo ENEM) Leia o texto.
+
+> "Eles [os indígenas] não trazem armas, nem as conhecem, porque lhes mostrei espadas e as pegavam pelo fio, cortando-se por ignorância. [...] Devem ser bons servidores. [...] Com cinquenta homens eu os subjugaria a todos e faria deles o que quisesse." — Diário de Cristóvão Colombo, outubro de 1492
+
+O trecho, escrito no primeiro contato, revela
+
+**(a)** o respeito do navegador pela cultura e pela autonomia dos povos encontrados.
+**(b)** uma relação de troca comercial equilibrada entre europeus e indígenas.
+**(c)** já no primeiro contato, uma intenção de dominação e exploração dos nativos.
+**(d)** a ausência de qualquer interesse europeu pelas terras recém-alcançadas.
+**(e)** a superioridade tecnológica indígena diante dos europeus.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (c).** Logo no primeiro contato, Colombo avalia os indígenas como potenciais "**bons servidores**" e afirma que "com cinquenta homens eu os subjugaria a todos e faria deles o que quisesse" — revelando, desde o início, uma **intenção de dominação e exploração**, e não de encontro entre iguais.
+
+Por que as demais estão erradas: (a) o texto é o oposto de respeito à autonomia; (b) não há troca equilibrada, mas projeto de subjugação; (d) há claro **interesse** de domínio; (e) o texto mostra o desarmamento e a vulnerabilidade indígena diante das espadas europeias, não superioridade nativa.
+:::
+
+**7.** (Estilo vestibular — dissertativa) A Expansão Marítima costuma ser apresentada ora como uma gloriosa epopeia, ora como o início de séculos de dominação e escravidão. Redija um texto que articule essas duas dimensões, evitando tanto a glorificação acrítica quanto o anacronismo.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Resposta esperada (síntese): a Expansão Marítima deve ser compreendida em sua **dupla face**. De um lado, foi uma extraordinária **façanha técnica e humana**: em poucas décadas, os europeus dominaram a navegação oceânica (caravela, bússola, astrolábio), contornaram a África, alcançaram a Índia, chegaram à América e deram a **volta ao mundo** (Magalhães-Elcano), **conectando pela primeira vez** os continentes e inaugurando a economia-mundo e a globalização. De outro lado, essa mesma expansão foi o ponto de partida do **colonialismo**, da **conquista violenta** de povos americanos (dizimados pela guerra e pelas **doenças** da troca colombiana) e do **tráfico atlântico de escravizados** (cerca de 12 milhões de africanos deportados). Uma análise madura **articula** as duas dimensões: reconhece a conexão global inédita **sem** apagar a violência, a escravidão e a destruição que a acompanharam. Ao mesmo tempo, deve-se evitar o **anacronismo** de julgar os sujeitos do século XV apenas com valores atuais, buscando compreendê-los em seu contexto — o que **não** impede a análise crítica das consequências. Assim, nem epopeia idealizada, nem simples condenação: a Expansão Marítima foi, a um só tempo, **conexão e conquista**, façanha e catástrofe. (Uma boa resposta deve citar: as duas faces, a troca colombiana/escravidão e o cuidado contra o anacronismo e o eurocentrismo.)
+:::
+
+**8.** Por que é incorreto explicar a expansão europeia pela "superioridade" da Europa? Use o exemplo da China.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque explicar a expansão por uma "**superioridade** europeia inata" é uma ideia **racista, anacrônica e teleológica** — trata o domínio europeu como destino ou mérito natural, quando ele resultou de **circunstâncias históricas**. O exemplo da **China** demonstra isso: no início do século XV, a China possuía frotas **muito maiores** e mais avançadas que as europeias (as viagens do almirante **Zheng He** chegaram à África décadas antes de Vasco da Gama). Ou seja, a Europa **não** era tecnicamente superior. A diferença esteve em **decisões e circunstâncias**: o império chinês, unificado, optou por **recolher** suas frotas e voltar-se para dentro; a Europa, **fragmentada** em Estados rivais, vivia uma competição que estimulava a inovação e a conquista, impulsionada ainda pelas necessidades do **mercantilismo**. Portanto, a expansão europeia explica-se por **fatores históricos e geográficos** específicos (fragmentação, competição, mercantilismo, geografia), não por qualquer essência ou superioridade do "europeu".
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- BOXER, Charles R. *O império marítimo português (1415–1825)* [@boxer2002]. Obra de referência sobre a expansão e o império português, do início às colônias.
+- GOMES, Laurentino. *Escravidão — volume 1* [@gomes2022]. Narra o início do tráfico atlântico de africanos, ligado à expansão marítima — acessível e bem documentado.
+- DIAMOND, Jared. *Armas, germes e aço* [@diamond2013]. Discute, em longa duração, por que foram os europeus a conquistar — a ser lido criticamente.
+- SAID, Edward. *Orientalismo* [@said2007]. Clássico sobre como o Ocidente construiu uma imagem do "Oriente" para justificar sua dominação.
+
+**Filmes e documentários**
+
+- *1492: A Conquista do Paraíso* (1992), dir. Ridley Scott. As viagens de Colombo e o choque da conquista — grandioso e polêmico.
+- *A Missão* (1986), dir. Roland Joffé. Ambientado depois, mas essencial sobre o encontro violento entre europeus e indígenas na América.
+- Documentário *A troca colombiana* (vários; buscar por *Columbian Exchange*). Sobre o intercâmbio de plantas, animais e doenças entre os mundos.
