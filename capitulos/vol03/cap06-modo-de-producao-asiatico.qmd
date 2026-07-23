@@ -1,5 +1,160 @@
 # O modo de produção asiático: conceito e crítica {#sec-modo-de-producao-asiatico}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Ao longo deste volume, você percorreu civilizações muito diferentes — Mesopotâmia, Egito, Índia, China, os reinos africanos. Apesar das diferenças, todas parecem compartilhar alguns traços: um **Estado poderoso**, muitas vezes divinizado; grandes **obras públicas** (canais, muralhas, templos, pirâmides); uma vasta massa de **camponeses** que sustentava tudo com seu trabalho e seus tributos; e a ausência de algo que a Europa mais tarde valorizaria — uma **propriedade privada** forte e uma burguesia autônoma. Diante disso, uma pergunta se impõe: existiria um **modelo comum** de organização econômica e social por trás dessas civilizações "orientais"? No século XIX, **Karl Marx** achou que sim, e chamou esse modelo de **modo de produção asiático**. Este capítulo, mais teórico e historiográfico que os anteriores, examina esse conceito — e as pesadas críticas que ele recebeu. É um bom fechamento para o volume, porque nos obriga a refletir sobre **como** os historiadores constroem categorias para pensar o passado.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- explicar o que é um **modo de produção** no vocabulário marxista;
+- descrever as características atribuídas ao **modo de produção asiático** (MPA);
+- relacionar o conceito à tese do **despotismo hidráulico** de Wittfogel;
+- apresentar as principais **críticas** ao MPA — empíricas, teóricas e políticas (o "orientalismo");
+- avaliar por que o conceito continua sendo objeto de debate e o que ele ensina sobre a construção do conhecimento histórico.
 :::
+
+## O que é um "modo de produção"? {#sec-o-que-e-mpa}
+
+O conceito vem da teoria de **Karl Marx** (1818–1883) e **Friedrich Engels**. Para eles, cada sociedade se organiza, em sua base, em torno da forma como os seres humanos **produzem** o que precisam para viver — e essa forma condiciona (não determina mecanicamente, mas condiciona) a política, o direito, a cultura.
+
+::: {.callout-note title="Conceito-chave: modo de produção"}
+**Modo de produção** é a maneira como uma sociedade organiza a **produção material** da vida, combinando dois elementos: as **forças produtivas** (ferramentas, técnicas, trabalho, conhecimento) e as **relações de produção** (quem é dono do quê, quem trabalha para quem, como se reparte o excedente). A cada modo corresponde uma forma de **exploração** de uma classe por outra. Na periodização marxista clássica, a história passaria por sucessivos modos: **comunismo primitivo**, **escravista**, **feudal** e **capitalista** — mas Marx cogitou um caso que não se encaixava nessa sequência europeia: o **asiático**.
+:::
+
+## O modo de produção asiático segundo Marx {#sec-mpa-marx}
+
+Ao estudar sociedades da Ásia (Índia, China) e do Oriente antigo, sobretudo em manuscritos dos anos 1850 [@marx1991], Marx notou que elas **não seguiam** o roteiro europeu (escravismo → feudalismo → capitalismo). Propôs então, de forma inacabada e ambígua, a ideia de um **modo de produção asiático** (MPA), marcado por alguns traços recorrentes (@fig-mpa):
+
+- **Ausência (ou fraqueza) da propriedade privada da terra:** a terra pertenceria, em última instância, ao **Estado** ou ao soberano, não a proprietários privados como no feudalismo europeu.
+- **Comunidades aldeãs autossuficientes:** a base da sociedade seriam **aldeias** que combinavam agricultura e artesanato, quase autárquicas, com pouca circulação mercantil.
+- **Um Estado centralizado e "despótico":** acima das aldeias, um poder central forte, que extraía o **excedente** na forma de **tributos** e trabalho, e organizava as grandes **obras públicas** (irrigação, muralhas).
+- **Estabilidade e lentidão da mudança:** sem classes proprietárias em conflito pela terra, faltaria o "motor" interno que, na Europa, impulsionava a passagem de um modo a outro — daí a impressão de sociedades **imóveis**.
+
+::: {#fig-mpa}
+
+```{.tikz}
+%%| filename: fig-mpa
+%%| alt: Diagrama do modo de produção asiático: o Estado despótico no topo extrai tributos das comunidades aldeãs na base e organiza as grandes obras públicas.
+\begin{tikzpicture}[>=stealth]
+  % topo: Estado
+  \node[draw, fill=manualred!15, minimum width=5.4cm, minimum height=1cm, align=center] (estado) at (0,3) {\scriptsize \textbf{ESTADO CENTRAL "DESPÓTICO"}\\\scriptsize (soberano, burocracia; dono da terra)};
+  % base: aldeias
+  \node[draw, fill=manualgreen!15, minimum width=1.5cm, minimum height=0.9cm, align=center] (a1) at (-2,0.3) {\scriptsize aldeia};
+  \node[draw, fill=manualgreen!15, minimum width=1.5cm, minimum height=0.9cm, align=center] (a2) at (0,0.3) {\scriptsize aldeia};
+  \node[draw, fill=manualgreen!15, minimum width=1.5cm, minimum height=0.9cm, align=center] (a3) at (2,0.3) {\scriptsize aldeia};
+  \node[text=manualgray] at (0,-0.6) {\scriptsize comunidades autossuficientes (agricultura + artesanato)};
+  % fluxos
+  \draw[vetor, manualblue] (a2.north) -- (estado.south) node[midway, right, black] {\scriptsize tributo + trabalho $\uparrow$};
+  \draw[vetor, manualred] (estado.west) .. controls (-3.6,1.6) .. (a1.north west) node[midway, left, black, align=right] {\scriptsize obras\\\scriptsize públicas $\downarrow$};
+\end{tikzpicture}
+```
+
+Esquema do **modo de produção asiático**: o Estado extrai tributo e trabalho das aldeias e, em troca, organiza as grandes obras (irrigação, muralhas). Note: é um **modelo teórico**, não um retrato fiel de qualquer sociedade real.
+:::
+
+Repare como o MPA **conversa** com a tese do **despotismo hidráulico** que você viu no @sec-mesopotamia: **Karl Wittfogel** [@wittfogel1957], que fora marxista, radicalizou justamente esse ponto — a necessidade de grandes obras de irrigação teria gerado o Estado despótico e a burocracia todo-poderosa. MPA e despotismo hidráulico são, portanto, **primos teóricos**: ambos tentam explicar por que o Estado, no "Oriente", teria sido tão forte e a sociedade tão estável.
+
+## As críticas: empíricas, teóricas e políticas {#sec-criticas-mpa}
+
+Poucos conceitos foram tão **debatidos e criticados** quanto o MPA — a ponto de muitos historiadores marxistas o **abandonarem**. As objeções podem ser agrupadas em três frentes.
+
+**Críticas empíricas: as sociedades não se encaixam.** Quando se olha de perto, o "molde" único não serve para civilizações tão **diversas**. No Egito, na Mesopotâmia, na China e na Índia, a propriedade da terra, o papel do comércio, a força das aldeias e a natureza do Estado eram **muito diferentes** entre si — e mudavam ao longo do tempo. Houve propriedade privada, mercados ativos, conflitos sociais e **transformações profundas**; a suposta "imobilidade oriental" é, em boa medida, uma **ilusão de ótica** de quem olhava de longe. Meter Egito, China e Índia numa mesma caixa apaga o que cada uma tinha de próprio — exatamente a crítica que fizemos a Wittfogel.
+
+**Críticas teóricas: um conceito mal-acabado.** O próprio Marx deixou o MPA **incompleto e contraditório**, e seus seguidores nunca chegaram a acordo sobre o que ele significava. O historiador **Perry Anderson** [@anderson2004], por exemplo, argumentou que o conceito era teoricamente frágil e pouco operacional, um "saco" onde se jogava tudo o que não fosse europeu. Muitos passaram a preferir falar em **"modo de produção tributário"** — categoria mais flexível, centrada na extração de tributos pelo Estado — ou simplesmente a analisar cada sociedade em seus **próprios termos**, sem forçar um rótulo geral.
+
+**Críticas políticas: o "orientalismo".** A objeção mais profunda é ideológica. A ideia de um "Oriente" **imóvel, despótico e sem história** — que o MPA e o despotismo hidráulico ajudavam a sustentar — vinha de uma longa tradição **eurocêntrica**. O crítico palestino **Edward Said**, em *Orientalismo* [@said2007], mostrou como o Ocidente **construiu** uma imagem do "Oriente" como seu oposto: se o Ocidente era dinâmico, livre e racional, o Oriente seria estático, despótico e passivo. Essa imagem não era conhecimento neutro: **legitimava** a superioridade e a dominação coloniais europeias. Ao classificar as civilizações asiáticas e africanas sob o signo do "despotismo" e da "estagnação", o MPA corria o risco de reproduzir esse **preconceito** disfarçado de teoria.
+
+::: {.callout-warning title="Controvérsia: rejeitar o conceito é rejeitar as boas perguntas?"}
+Cuidado para não jogar fora o bebê com a água do banho. Criticar o **MPA** como *resposta* não significa que as **perguntas** que ele levantou fossem ruins. Por que, em várias civilizações antigas, o Estado foi tão central na economia? Como se extraía o excedente sem o assalariamento capitalista nem a servidão feudal? Por que a propriedade privada da terra se desenvolveu de formas tão distintas? Essas perguntas continuam **vivas e fecundas**. O que a crítica ensina é que a **resposta** não pode ser um rótulo único e essencializante ("o Oriente é assim"), mas uma análise **comparada, empírica e atenta às diferenças**. No Brasil, historiadores como **Ciro Flamarion Cardoso** [@cardoso1990] participaram ativamente desse debate, defendendo o rigor conceitual e a comparação cuidadosa.
+:::
+
+## 🔎 Historiografia em Foco {#sec-historiografia-mpa}
+
+Este capítulo é, ele próprio, um exercício de historiografia — mas vale explicitar o **cerne do debate**: o MPA foi uma ferramenta **útil** ou um **beco sem saída**?
+
+**A defesa (com ressalvas).** Para alguns marxistas, o MPA teve o mérito de **quebrar o esquema linear** e eurocêntrico segundo o qual toda sociedade deveria repetir a sequência europeia (escravismo → feudalismo → capitalismo). Ao admitir um caminho **diferente**, Marx reconhecia que a história não é uma escada única com degraus obrigatórios. Nessa leitura, o MPA, apesar de mal-acabado, apontava na direção certa: a de respeitar a **pluralidade** dos processos históricos. Alguns propõem, então, **reformá-lo** (falando em "modo tributário") em vez de descartá-lo.
+
+**A rejeição.** Para os críticos, porém, o conceito nasceu **viciado**: reunia sob um único rótulo sociedades incomparáveis, apoiava-se numa premissa falsa (a "imobilidade oriental") e carregava o **DNA do orientalismo** eurocêntrico. Nessa visão, tentar "consertar" o MPA é perder tempo; melhor **abandoná-lo** e estudar cada civilização em sua **própria lógica**, com os conceitos que ela exigir. A maioria dos historiadores contemporâneos inclina-se para essa posição.
+
+**Por que o debate importa?** Porque ele encena, de forma exemplar, o **ofício do historiador** (@sec-oficio-do-historiador). Um **conceito** é uma ferramenta: ilumina certos aspectos e esconde outros. O MPA iluminou o papel do Estado e do tributo, mas escondeu a diversidade e trouxe embutido um preconceito. Aprender a manejar conceitos criticamente — reconhecendo o que eles revelam **e** o que eles distorcem — é o coração do pensar histórico. Encerramos, assim, o volume da Antiguidade Oriental com a lição que o atravessou de ponta a ponta: **desconfie das explicações de fator único e das categorias que aprisionam civilizações inteiras num só rótulo**. A boa História é comparada, empírica e sempre atenta a *quem* constrói as categorias — e a *que interesses* elas servem.
+
+## Resumo do capítulo {#sec-resumo-mpa}
+
+- **Modo de produção** é, no vocabulário marxista, a forma como uma sociedade organiza a produção material (forças produtivas + relações de produção), definindo quem explora quem.
+- **Marx** propôs, de forma inacabada, um **modo de produção asiático (MPA)** para sociedades do Oriente que não seguiam a sequência europeia (escravismo → feudalismo → capitalismo).
+- Traços atribuídos ao MPA: **terra do Estado** (fraca propriedade privada), **aldeias autossuficientes**, **Estado central despótico** que extrai tributo e organiza grandes **obras públicas**, e aparente **imobilidade**. O conceito é **primo** do **despotismo hidráulico** de **Wittfogel**.
+- O MPA foi muito **criticado**: (1) **empiricamente** (as civilizações eram diversas e mudavam — o molde único não serve); (2) **teoricamente** (conceito mal-acabado; **Perry Anderson**; alternativa do "modo **tributário**"); (3) **politicamente** (o **orientalismo** de **Edward Said**: uma imagem eurocêntrica do "Oriente imóvel e despótico" que legitimava o colonialismo).
+- O debate mostra que **conceitos são ferramentas** que revelam e escondem. As perguntas do MPA (o papel do Estado, a extração do excedente) seguem válidas; a resposta, porém, deve ser **comparada, empírica e atenta às diferenças**, não um rótulo único.
+
+## Exercícios {#sec-exercicios-mpa}
+
+**1.** Defina **modo de produção** e cite os dois elementos que o compõem.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Modo de produção** é a maneira como uma sociedade organiza a **produção material** da vida. Compõe-se de dois elementos: as **forças produtivas** (ferramentas, técnicas, trabalho, conhecimento) e as **relações de produção** (quem é dono dos meios de produção, quem trabalha para quem e como se reparte o excedente). A cada modo de produção corresponde uma forma específica de **exploração** de uma classe por outra.
+:::
+
+**2.** Quais são as principais características atribuídas ao **modo de produção asiático**?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Quatro traços principais: (1) **ausência ou fraqueza da propriedade privada da terra**, que pertenceria ao **Estado**/soberano; (2) **comunidades aldeãs autossuficientes**, combinando agricultura e artesanato, com pouca circulação mercantil; (3) um **Estado central "despótico"** que extrai o excedente na forma de **tributos e trabalho** e organiza as grandes **obras públicas** (irrigação, muralhas); (4) aparente **estabilidade/imobilidade**, pela falta de classes proprietárias em conflito que impulsionassem a mudança.
+:::
+
+**3.** Explique por que o MPA e o **despotismo hidráulico** de Wittfogel são considerados "primos teóricos".
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque ambos tentam explicar por que, no "Oriente", o **Estado** teria sido tão **forte e centralizado** e a sociedade tão **estável**. O **MPA** atribui isso à estrutura (terra do Estado, aldeias, tributo). **Wittfogel** — que fora marxista — radicalizou um dos pontos: a necessidade de grandes **obras de irrigação** teria gerado diretamente o Estado despótico e a burocracia todo-poderosa. Os dois compartilham a premissa de um Oriente despótico e estável ligado ao controle estatal da produção; por isso são vistos como aparentados.
+:::
+
+**4.** Apresente uma crítica **empírica** ao MPA.
+
+::: {.callout-tip collapse="true" title="Solução"}
+A crítica empírica aponta que as civilizações reunidas sob o rótulo — Egito, Mesopotâmia, Índia, China — eram **muito diferentes entre si** e **mudaram ao longo do tempo**. Nelas houve, em graus variados, **propriedade privada**, **comércio ativo**, **conflitos sociais** e **transformações profundas**. Logo, o "molde único" do MPA não se sustenta diante das evidências, e a suposta "imobilidade oriental" é, em boa parte, uma **ilusão** de quem observava essas sociedades de fora e de longe.
+:::
+
+**5.** O que é o **"orientalismo"** de Edward Said, e como ele se relaciona com a crítica ao MPA?
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Orientalismo**, segundo **Edward Said**, é a maneira como o Ocidente **construiu** uma imagem do "Oriente" como seu **oposto**: se o Ocidente seria dinâmico, livre e racional, o Oriente seria estático, despótico e passivo. Essa imagem não era conhecimento neutro — **legitimava** a dominação colonial europeia. Relaciona-se à crítica ao MPA porque o conceito de "modo de produção asiático" (e o despotismo hidráulico) reforçava justamente essa visão de um "Oriente imóvel e despótico", correndo o risco de **reproduzir**, disfarçado de teoria, um **preconceito eurocêntrico**.
+:::
+
+**6.** (Estilo ENEM) Leia o texto.
+
+> A ideia de um "Oriente" imóvel, despótico e essencialmente diferente do "Ocidente" atravessou boa parte do pensamento europeu. Conceitos como o de modo de produção asiático, ao reunir sob um único rótulo civilizações tão distintas quanto a egípcia, a chinesa e a indiana, corriam o risco de reforçar essa imagem, em vez de descrever fielmente cada sociedade.
+
+O texto adverte, sobretudo, contra
+
+**(a)** o uso de qualquer conceito na análise histórica.
+**(b)** o risco de que categorias amplas apaguem as diferenças e reproduzam preconceitos.
+**(c)** o estudo comparado de diferentes civilizações.
+**(d)** a valorização das fontes escritas em detrimento das materiais.
+**(e)** a existência de Estados centralizados na Antiguidade.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (b).** O texto alerta que uma **categoria ampla** (o MPA), ao reunir civilizações muito distintas sob um só rótulo, pode **apagar as diferenças** e **reproduzir o preconceito** de um "Oriente imóvel e despótico". Erros: (a) o texto não condena todo conceito, apenas o mau uso; (c) ele não critica a comparação, mas a **homogeneização**; (d) não trata da tipologia das fontes; (e) não nega que houvesse Estados centralizados.
+:::
+
+**7.** (Estilo vestibular — dissertativa) Explique o conceito de **modo de produção asiático** e apresente **duas críticas** que ele recebeu, indicando por que muitos historiadores hoje preferem abandoná-lo.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Resposta esperada. **O conceito:** proposto por **Marx** de forma inacabada, o **MPA** descreveria sociedades "orientais" que não seguiam a sequência europeia (escravismo → feudalismo → capitalismo), marcadas por **terra do Estado** (fraca propriedade privada), **aldeias autossuficientes**, um **Estado central despótico** que extraía tributo e organizava grandes **obras públicas**, e por uma aparente **imobilidade**. **Críticas** (bastam duas): (1) **empírica** — as civilizações eram **diversas** e **mudavam**, com propriedade privada, comércio e conflitos, de modo que o molde único não se aplica; (2) **teórica** — o conceito é **mal-acabado** e pouco operacional (Perry Anderson), levando muitos a preferir o "modo **tributário**"; (3) **política** — carrega o **orientalismo** (Said), uma visão eurocêntrica que legitimava o colonialismo. Muitos historiadores o abandonam por reunir realidades incomparáveis e embutir preconceito; preferem estudar cada sociedade em sua **própria lógica**. Uma boa resposta reconhece que as **perguntas** do MPA seguem válidas, ainda que a **resposta** precise ser comparada e empírica.
+:::
+
+**8.** Por que se diz que este capítulo ilustra especialmente bem o **ofício do historiador**?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque ele mostra, na prática, que os **conceitos** são **ferramentas** de análise: iluminam certos aspectos da realidade (no caso, o papel do Estado e do tributo nas civilizações antigas) e **escondem** ou distorcem outros (a diversidade das sociedades, ao reuni-las sob um rótulo eurocêntrico). Manejar conceitos com **espírito crítico** — sabendo o que eles revelam e o que deformam, e perguntando *quem* os construiu e *a que interesses* servem — é o cerne do pensar histórico. O capítulo encerra o volume reforçando a lição que o atravessou: desconfiar de **explicações de fator único** e de **categorias que aprisionam civilizações inteiras** num só molde.
+:::
+
+## Para saber mais {#sec-para-saber-mais-mpa}
+
+**Livros**
+
+- CARDOSO, Ciro Flamarion. *Sociedades do Antigo Oriente Próximo* [@cardoso1990]. Traz uma discussão brasileira acessível sobre o Estado antigo e os debates em torno do modo de produção asiático.
+- ANDERSON, Perry. *Linhagens do Estado absolutista* [@anderson2004]. No apêndice sobre o "modo de produção asiático", faz uma crítica clássica ao conceito.
+- SAID, Edward. *Orientalismo* [@said2007]. A obra que reformulou o modo de pensar as relações entre "Ocidente" e "Oriente" e o peso ideológico de nossas categorias.
+- MARX, Karl. *Formações econômicas pré-capitalistas* [@marx1991]. As páginas em que Marx esboça, de modo inacabado, a ideia do modo de produção asiático.
+
+**Documentários e debates**
+
+- Palestras e materiais sobre a obra de **Edward Said** e o conceito de **orientalismo**, úteis para perceber como o "Oriente" foi construído pelo olhar ocidental.
+- Revisões historiográficas sobre o Estado nas civilizações antigas ajudam a ver como o mesmo tema (o poder e a economia no mundo antigo) foi respondido de formas muito diferentes ao longo do tempo.
