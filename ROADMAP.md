@@ -53,12 +53,12 @@
 
 | # | Capítulo | Arquivo | Status |
 |---|----------|---------|--------|
-| 1 | Mesopotâmia: cidades-Estado e impérios | `capitulos/vol03/cap01-mesopotamia.qmd` | ⬜ |
-| 2 | O Egito Antigo | `capitulos/vol03/cap02-egito.qmd` | ⬜ |
-| 3 | Hebreus, fenícios e persas | `capitulos/vol03/cap03-hebreus-fenicios-persas.qmd` | ⬜ |
-| 4 | Índia e China antigas | `capitulos/vol03/cap04-india-china.qmd` | ⬜ |
-| 5 | Civilizações africanas antigas: Núbia, Cuxe e Axum | `capitulos/vol03/cap05-africa-antiga.qmd` | ⬜ |
-| 6 | O modo de produção asiático: conceito e crítica | `capitulos/vol03/cap06-modo-de-producao-asiatico.qmd` | ⬜ |
+| 1 | Mesopotâmia: cidades-Estado e impérios | `capitulos/vol03/cap01-mesopotamia.qmd` | ✅ |
+| 2 | O Egito Antigo | `capitulos/vol03/cap02-egito.qmd` | ✅ |
+| 3 | Hebreus, fenícios e persas | `capitulos/vol03/cap03-hebreus-fenicios-persas.qmd` | ✅ |
+| 4 | Índia e China antigas | `capitulos/vol03/cap04-india-china.qmd` | ✅ |
+| 5 | Civilizações africanas antigas: Núbia, Cuxe e Axum | `capitulos/vol03/cap05-africa-antiga.qmd` | ✅ |
+| 6 | O modo de produção asiático: conceito e crítica | `capitulos/vol03/cap06-modo-de-producao-asiatico.qmd` | ✅ |
 
 ### Volume 4 — Antiguidade Clássica
 
