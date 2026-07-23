@@ -1,5 +1,253 @@
 # Monarquias nacionais e mercantilismo {#sec-monarquias-nacionais-mercantilismo}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Quando você atravessa uma fronteira num aeroporto, mostra um **passaporte** emitido por um Estado, submete-se às suas leis e paga impostos numa **moeda nacional** garantida por ele. Nada disso existia na Europa feudal. Por volta do ano 1000, não havia "França" nem "Espanha" no sentido moderno: havia uma colcha de retalhos de senhorios, cada qual com suas leis, seus pedágios, suas moedas e sua própria justiça. O rei era pouco mais que um nobre entre outros. A grande novidade política dos séculos XIV a XVII foi a construção de algo que hoje nos parece natural, mas que teve de ser inventado a duras penas: o **Estado nacional centralizado** — com um único soberano, um só exército, uma só lei e um território unificado. E, para sustentar esse Estado caro e ambicioso, formulou-se uma nova maneira de pensar a economia: o **mercantilismo**. Este capítulo mostra como nasceram os primeiros Estados modernos e a política econômica que os alimentou — e que, décadas depois, faria de terras como o Brasil peças de um imenso tabuleiro comercial.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- explicar o processo de **centralização do poder** e a formação das **monarquias nacionais** modernas;
+- caracterizar a aliança entre **rei e burguesia** e os instrumentos do Estado moderno (exército, burocracia, impostos, lei única);
+- definir o **mercantilismo** e seus princípios (metalismo, balança comercial favorável, protecionismo, pacto colonial);
+- distinguir as **variantes** do mercantilismo (metalismo espanhol, colbertismo francês, comércio inglês);
+- discutir o debate historiográfico sobre a natureza do Estado moderno e sobre o mercantilismo como "sistema".
 :::
+
+## Da fragmentação feudal ao Estado centralizado {#sec-centralizacao}
+
+Você viu, no volume anterior, que a **crise do século XIV** desmontou as estruturas feudais e favoreceu o **fortalecimento dos reis** (@sec-monarquias-nacionais). Recuperemos a lógica. No feudalismo, o poder estava **fragmentado**: cada senhor exercia, em seu feudo, funções que hoje associamos ao Estado — cobrava tributos, fazia justiça, mantinha soldados, cunhava moeda. O rei reinava, mas quase não governava.
+
+A **centralização** foi o processo pelo qual os reis, ao longo dos séculos XIV, XV e XVI, foram **concentrando** em suas mãos esses poderes dispersos, submetendo a nobreza e construindo o que chamamos de **monarquia nacional** (ou Estado moderno). Para isso, contaram com um aliado decisivo: a **burguesia** urbana. A @fig-centralizacao resume a transformação.
+
+::: {#fig-centralizacao}
+
+```{.tikz}
+%%| filename: fig-centralizacao
+%%| alt: Diagrama comparando o poder fragmentado no feudalismo e o poder centralizado na monarquia nacional.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  % lado feudal
+  \node[align=center, font=\scriptsize\bfseries] at (2.4,3.1) {FEUDALISMO\\poder fragmentado};
+  \foreach \x/\y in {0.6/2.1, 2.1/2.4, 3.7/2.0, 1.2/1.1, 3.0/1.0, 4.2/1.6}{
+    \node[draw, circle, fill=manualgray!20, minimum size=0.7cm] at (\x,\y) {};}
+  \node[align=center, text=manualgray] at (2.4,0.2) {muitos senhores, cada um\\com leis, moeda, justiça e tropas};
+
+  \draw[vetor, very thick, manualred] (5.1,1.6) -- (6.5,1.6) node[midway, above, black]{crise séc. XIV};
+
+  % lado centralizado
+  \node[align=center, font=\scriptsize\bfseries] at (9.6,3.1) {MONARQUIA NACIONAL\\poder centralizado};
+  \node[draw, very thick, circle, fill=manualyellow!25, minimum size=1.4cm] (rei) at (9.6,1.6) {\scriptsize REI};
+  \node[draw, fill=manualblue!14, rounded corners, align=center, text width=1.9cm] at (7.6,0.1) {exército único};
+  \node[draw, fill=manualblue!14, rounded corners, align=center, text width=1.9cm] at (9.6,-0.2) {impostos e burocracia};
+  \node[draw, fill=manualblue!14, rounded corners, align=center, text width=1.9cm] at (11.6,0.1) {lei e moeda únicas};
+  \draw[vetor] (rei) -- (7.9,0.55); \draw[vetor] (rei) -- (9.6,0.35); \draw[vetor] (rei) -- (11.3,0.55);
+\end{tikzpicture}
+```
+
+Da dispersão feudal (muitos poderes locais) à concentração monárquica (um só rei com exército, impostos, burocracia e lei únicos). A crise do século XIV foi a grande dobradiça.
+:::
+
+Por que a burguesia apoiou o rei? Porque o comércio precisava de **ordem e previsibilidade**. Um mercador que atravessasse dez senhorios pagava dez pedágios, trocava dez moedas, submetia-se a dez justiças diferentes — um pesadelo para os negócios. A burguesia desejava **estradas seguras, moeda estável, pesos e medidas padronizados e leis uniformes** num grande território. O rei oferecia isso; em troca, a burguesia o **financiava** com empréstimos e impostos. Formou-se, assim, uma aliança histórica: **rei + burguesia contra a fragmentação feudal**. Com o dinheiro burguês, o rei podia manter três instrumentos decisivos do Estado moderno: um **exército profissional permanente** (que, com a pólvora e os canhões, tornava-o independente da cavalaria dos nobres), uma **burocracia** de funcionários leais e um sistema de **impostos** régios.
+
+::: {.callout-note title="Conceito-chave: Estado moderno"}
+**Estado moderno** (ou monarquia nacional) é a forma de organização política que emergiu na passagem da Idade Média para a Idade Moderna, caracterizada por: **território** delimitado; **soberania** concentrada num poder central (o rei); **exército permanente**; **burocracia** administrativa; **sistema de impostos** único; e tendência à unificação de **leis, moeda e língua**. É o embrião dos Estados em que vivemos hoje — ainda que, então, o poder pertencesse a um monarca, não ao "povo".
+:::
+
+## Os pioneiros: Portugal, Espanha, França e Inglaterra {#sec-pioneiros}
+
+A centralização não avançou no mesmo ritmo em toda a Europa. Enquanto a **Itália** e a **Alemanha** permaneceram fragmentadas em muitos Estados até o século XIX (@sec-unificacoes-italia-alemanha), quatro reinos da orla atlântica saíram na frente (@fig-monarquias-linha).
+
+**Portugal** foi o **primeiro Estado nacional moderno** da Europa. Suas fronteiras já estavam praticamente definidas no **século XIII**, após a Reconquista sobre os muçulmanos. A **Revolução de Avis** (1383–1385) — em que a burguesia mercantil de Lisboa apoiou D. João, Mestre de Avis, contra a alta nobreza ligada a Castela — consolidou uma monarquia centralizada e voltada para o mar. Não por acaso, Portugal seria o **pioneiro da Expansão Marítima** (@sec-expansao-maritima).
+
+**Espanha** nasceu da união dinástica de **Castela** e **Aragão**, pelo casamento dos **Reis Católicos**, **Isabel de Castela** (1451–1504) e **Fernando de Aragão** (1452–1516). O ano-símbolo é **1492**: nele, a Espanha concluiu a **Reconquista** (tomando **Granada**, o último reduto muçulmano), **expulsou os judeus** que não se convertessem e financiou a viagem de **Colombo** às Américas. Foi uma unificação marcada pela imposição da **unidade religiosa** (o catolicismo) pela força, com a atuação da temida **Inquisição** espanhola.
+
+Na **França**, a centralização avançou após a **Guerra dos Cem Anos** (1337–1453), sob reis como **Luís XI** (r. 1461–1483), que submeteu a alta nobreza. Na **Inglaterra**, a sangrenta **Guerra das Duas Rosas** (1455–1485) — disputa entre as casas de Lancaster e York pelo trono — terminou com a vitória de **Henrique VII** e o início da dinastia **Tudor**, que reforçou o poder real. Tanto França quanto Inglaterra chegariam, no século XVII, ao auge da centralização: o **Absolutismo** (@sec-absolutismo).
+
+::: {#fig-monarquias-linha}
+
+```{.tikz}
+%%| filename: fig-monarquias-linha
+%%| alt: Linha do tempo da formação das monarquias nacionais de Portugal, França, Espanha e Inglaterra entre os séculos XIII e XV.
+\begin{tikzpicture}[>=stealth]
+  \draw[eixo] (0,0) -- (13.5,0);
+  \node[eixo, gray] at (13.5,-0.45) {\scriptsize tempo};
+
+  \node[ponto] at (1.5,0) {};
+  \node[below] at (1.5,-0.15) {\scriptsize séc. XIII};
+  \node[above, align=center, text=manualblue] at (1.5,0.2) {\scriptsize \textbf{Portugal}\\\scriptsize fronteiras definidas};
+
+  \node[ponto] at (4.3,0) {};
+  \node[below] at (4.3,-0.15) {\scriptsize 1385};
+  \node[above, align=center, text=manualgreen] at (4.3,0.2) {\scriptsize Revolução\\\scriptsize de Avis};
+
+  \node[ponto] at (7.1,0) {};
+  \node[below] at (7.1,-0.15) {\scriptsize 1453};
+  \node[above, align=center, text=manualblue] at (7.1,0.2) {\scriptsize \textbf{França}\\\scriptsize fim Guerra 100 Anos};
+
+  \node[ponto] at (9.9,0) {};
+  \node[below] at (9.9,-0.15) {\scriptsize 1485};
+  \node[above, align=center, text=manualred] at (9.9,0.2) {\scriptsize \textbf{Inglaterra}\\\scriptsize Tudor (Duas Rosas)};
+
+  \node[ponto] at (12.4,0) {};
+  \node[below] at (12.4,-0.15) {\scriptsize 1492};
+  \node[above, align=center, text=manualgreen] at (12.4,0.2) {\scriptsize \textbf{Espanha}\\\scriptsize unificada};
+\end{tikzpicture}
+```
+
+A formação das monarquias nacionais atlânticas. Portugal e Espanha, unificados primeiro, seriam os pioneiros da expansão ultramarina.
+:::
+
+## O mercantilismo: a economia a serviço do Estado {#sec-mercantilismo}
+
+Estados grandes, exércitos permanentes, cortes luxuosas e guerras frequentes custavam **muito dinheiro**. De onde tirá-lo? A resposta foi uma nova concepção da economia, hoje chamada de **mercantilismo**: o conjunto de ideias e práticas econômicas adotadas pelos Estados modernos europeus entre os séculos XVI e XVIII, com um objetivo central — **enriquecer o Estado e, com isso, aumentar seu poder**. O mercantilismo não foi uma teoria única e coerente formulada por um autor, mas um conjunto de práticas convergentes. Seus princípios essenciais aparecem na @fig-mercantilismo.
+
+::: {#fig-mercantilismo}
+
+```{.tikz}
+%%| filename: fig-mercantilismo
+%%| alt: Diagrama dos princípios do mercantilismo em torno do objetivo de fortalecer o Estado.
+\begin{tikzpicture}[>=stealth]
+  \node[draw, very thick, circle, fill=manualyellow!22, align=center, font=\scriptsize\bfseries, minimum size=2cm] (c) at (0,0) {ENRIQUECER\\O ESTADO};
+  \node[draw, fill=manualgreen!16, rounded corners, align=center, font=\scriptsize, text width=3cm] at (-4.2,1.7) {\textbf{Metalismo}\\acumular ouro e prata};
+  \node[draw, fill=manualblue!16, rounded corners, align=center, font=\scriptsize, text width=3cm] at (4.2,1.7) {\textbf{Balança comercial favorável}\\exportar mais que importar};
+  \node[draw, fill=manualred!14, rounded corners, align=center, font=\scriptsize, text width=3cm] at (-4.2,-1.7) {\textbf{Protecionismo}\\taxar importados, proteger manufaturas};
+  \node[draw, fill=manualgray!20, rounded corners, align=center, font=\scriptsize, text width=3cm] at (4.2,-1.7) {\textbf{Pacto colonial}\\monopólio sobre as colônias};
+  \draw[vetor] (c) -- (-2.7,1.2); \draw[vetor] (c) -- (2.7,1.2);
+  \draw[vetor] (c) -- (-2.7,-1.2); \draw[vetor] (c) -- (2.7,-1.2);
+\end{tikzpicture}
+```
+
+Os quatro pilares do mercantilismo. Todos convergem para um fim: acumular riqueza (sobretudo metais) para financiar o poder do Estado.
+:::
+
+Detalhemos cada pilar:
+
+- **Metalismo (ou bulionismo)**: no mundo mercantilista, a riqueza de um país se medisse pela quantidade de **metais preciosos** (ouro e prata) que ele acumulasse. Quanto mais metal nos cofres, mais poderoso o Estado — pois com ele se pagavam exércitos e se compravam bens. Daí a obsessão pelo ouro que moveria a colonização da América.
+- **Balança comercial favorável**: como conseguir metal? **Exportando mais do que importando**. Se um país vende ao exterior mais do que compra, a diferença entra em forma de metais. O Estado, portanto, estimulava as **exportações** e desestimulava as **importações**.
+- **Protecionismo**: para proteger a produção nacional, o Estado **taxava pesadamente os produtos importados** (tarifas alfandegárias) e **incentivava as manufaturas** internas — oficinas subsidiadas que produziam bens para vender caro no exterior.
+- **Pacto colonial (ou exclusivo metropolitano)**: as **colônias** existiam para enriquecer a **metrópole**. Elas só podiam comerciar com a mãe-pátria, comprando dela os produtos manufaturados (caros) e vendendo-lhe apenas matérias-primas (baratas), sempre em condições monopolistas. Esse mecanismo — que estudaremos em detalhe no Volume 7 — foi a razão de ser econômica da colonização da América, inclusive do Brasil.
+
+::: {.callout-important title="Armadilha comum: mercantilismo não é capitalismo, mas prepara o terreno"}
+É fácil confundir os dois. O **mercantilismo** ainda **não** é o **capitalismo** liberal do século XIX: nele o **Estado intervém** fortemente na economia (regulamenta, monopoliza, protege), ao contrário do liberalismo que virá depois (@sec-iluminismo). Porém, ao estimular o comércio, as manufaturas e, sobretudo, a **acumulação de capital** (metais e lucros comerciais), o mercantilismo **preparou o terreno** para o capitalismo. Muitos historiadores falam de uma **"acumulação primitiva de capital"**: as riquezas amealhadas no comércio colonial e no tráfico de escravizados formaram os capitais que, mais tarde, financiariam a Revolução Industrial. Guarde a distinção — e a ponte — entre os dois.
+:::
+
+## As variantes do mercantilismo {#sec-variantes-mercantilismo}
+
+Cada Estado praticou o mercantilismo à sua maneira, conforme suas condições. Vale conhecer três variantes clássicas:
+
+- **Metalismo espanhol**: a Espanha, dona das minas de prata da América (**Potosí**, no atual território boliviano) e do ouro, apostou na **extração direta de metais**. Paradoxalmente, o excesso de metais provocou uma enorme **inflação** (a "Revolução dos Preços" do século XVI) e a Espanha, que quase não desenvolveu manufaturas próprias, acabou **repassando** grande parte de seu ouro e prata a outros países, dos quais importava tudo. Foi um caso de riqueza que "escorria pelas mãos".
+- **Colbertismo (ou industrialismo) francês**: na França de Luís XIV, o ministro **Jean-Baptiste Colbert** (1619–1683) apostou no **desenvolvimento das manufaturas** estatais de luxo (tapeçarias, porcelanas, espelhos de Versalhes), no protecionismo rigoroso e na construção de uma marinha. O "colbertismo" tornou-se sinônimo de mercantilismo **industrial** e dirigido pelo Estado.
+- **Comercialismo (ou mercantilismo) inglês**: a Inglaterra apostou na **força do comércio** e da **marinha**. Os **Atos de Navegação** (1651), de Oliver Cromwell, determinaram que as mercadorias só entrassem na Inglaterra em navios ingleses ou do país produtor, golpeando o poderio marítimo holandês e fortalecendo a frota e o comércio britânicos — uma das bases do futuro Império Britânico.
+
+Repare no contraste com a Espanha: enquanto os espanhóis acumularam metal e o dissiparam, ingleses e franceses investiram em **produção e comércio**. No longo prazo, foram estes últimos — e não os detentores das minas — que saíram fortalecidos. É uma lição econômica que os próprios contemporâneos custaram a perceber.
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+O mercantilismo e o Estado moderno geraram debates de fundo entre os historiadores. Contrastemos duas grandes questões.
+
+**O mercantilismo foi um "sistema" coerente?** O historiador econômico sueco **Eli Heckscher**, em obra clássica dos anos 1930, tratou o mercantilismo como um verdadeiro **sistema** unificado — uma política deliberada de construção do poder do Estado (*state-building*), com princípios claros e coerentes, praticada em toda a Europa. Outros historiadores, porém, contestaram: para eles, "mercantilismo" é um **rótulo criado depois** (popularizado por Adam Smith, no século XVIII, para **criticar** as políticas que queria substituir pelo livre-comércio). Na prática, argumentam, não houve um "sistema" pensado, mas um **amontoado de medidas** avulsas e às vezes contraditórias, tomadas caso a caso por governos que apenas buscavam dinheiro para suas guerras. A divergência importa porque muda o que estudamos: um **projeto** racional de Estado, ou uma **colcha de improvisos**? A historiografia atual tende a uma posição intermediária: houve, sim, **práticas recorrentes** por toda a Europa (metalismo, protecionismo, pacto colonial), ainda que sem a coerência doutrinária de uma "escola" econômica.
+
+**Qual a natureza do Estado moderno?** Aqui, uma interpretação influente é a do marxista britânico **Perry Anderson**, em *Linhagens do Estado Absolutista* [@anderson2004]. Contra a ideia de que o Estado moderno teria sido, desde cedo, um **instrumento da burguesia** ascendente, Anderson argumentou que o Estado absolutista foi, na origem, um **aparelho da nobreza feudal** reorganizado — uma forma de a aristocracia manter seu domínio sobre os camponeses num contexto em que a servidão ruíra. Nessa leitura, a aliança "rei + burguesia" é mais complexa do que parece: o Estado moderno serviu, ao mesmo tempo, a interesses da velha nobreza (que se aristocratizou na corte) e da nova burguesia (que enriqueceu no comércio protegido). Outros historiadores enfatizam justamente o **protagonismo burguês** e a acumulação de capital, na linha de **Karl Marx**, que via na acumulação primitiva (comércio colonial, escravidão, pilhagem) a **pré-história do capital** [@marx1991]. O debate mostra que uma pergunta aparentemente simples — "a quem servia o Estado moderno?" — abre um leque de interpretações que dependem, mais uma vez, das **fontes** e das **perguntas** de cada historiador.
+
+::: {.callout-warning title="Controvérsia: a 'Revolução dos Preços' e a prata americana"}
+Historiadores debatem a chamada **"Revolução dos Preços"** do século XVI — a forte alta dos preços na Europa. A explicação tradicional (a **tese monetarista**) atribui-a à **avalanche de prata americana** (Potosí), que, aumentando a quantidade de metal em circulação, desvalorizou-o e encareceu tudo. Outros historiadores relativizam: apontam também o **crescimento populacional** (mais gente demandando alimentos) e mudanças na produção. O caso é um bom exemplo de como um mesmo fenômeno (a inflação) admite **causas múltiplas** e disputadas — e de como o ouro e a prata da América tiveram efeitos que reverberaram por toda a economia mundial nascente.
+:::
+
+## Resumo do capítulo {#sec-resumo}
+
+- Na passagem da Idade Média para a Moderna, formaram-se as **monarquias nacionais** (Estados modernos): os reis **centralizaram** o poder antes disperso no feudalismo, criando **exército permanente**, **burocracia**, **impostos** régios e tendência à unificação de **lei, moeda e língua**.
+- A base foi a aliança **rei + burguesia**: a burguesia queria **ordem, segurança e uniformidade** para o comércio e financiava o rei; o rei oferecia essas condições e, com o dinheiro, sustentava o Estado.
+- **Pioneiros**: **Portugal** (1º Estado nacional, séc. XIII; Revolução de **Avis**, 1385), **Espanha** (Reis Católicos; **1492**: fim da Reconquista, expulsão dos judeus, viagem de Colombo), **França** (após a Guerra dos Cem Anos; Luís XI) e **Inglaterra** (Guerra das Duas Rosas → dinastia **Tudor**, 1485).
+- O **mercantilismo** foi a política econômica dos Estados modernos (séc. XVI–XVIII) para **enriquecer o Estado**. Pilares: **metalismo** (acumular ouro/prata), **balança comercial favorável** (exportar mais que importar), **protecionismo** (taxar importados, incentivar manufaturas) e **pacto colonial** (monopólio sobre as colônias).
+- **Variantes**: **metalismo espanhol** (extração de prata/ouro, mas inflação e pouca manufatura), **colbertismo francês** (manufaturas de luxo dirigidas pelo Estado) e **comercialismo inglês** (comércio e marinha; **Atos de Navegação**, 1651).
+- Mercantilismo **não** é capitalismo liberal (o Estado **intervém**), mas prepara-o pela **acumulação primitiva de capital** (comércio colonial, escravidão).
+- Historiografia: o mercantilismo foi um **"sistema"** coerente (Heckscher) ou um **amontoado de medidas**? E o Estado moderno serviu à **burguesia** (Marx) ou foi um aparelho **da nobreza** reorganizada (Perry Anderson)?
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Dois blocos caem muito: (1) os **instrumentos** da centralização e a aliança rei-burguesia; (2) os **princípios** do mercantilismo, sobretudo **metalismo**, **balança comercial favorável** e **pacto colonial** — este último é a chave para entender a colonização do Brasil (Volumes 7 e 8).
+:::
+
+**1.** Explique por que a **burguesia** apoiou a centralização do poder nas mãos dos reis.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque o **comércio** precisava de **ordem e previsibilidade**, que a fragmentação feudal não oferecia. Num mundo de muitos senhorios, o mercador enfrentava múltiplos **pedágios**, **moedas** diferentes, pesos e medidas variados e **justiças** locais — tudo isso encarecia e dificultava os negócios. A burguesia desejava **estradas seguras, moeda estável, pesos e medidas padronizados e leis uniformes** num grande território, e o **rei centralizado** podia garantir essas condições. Em troca, a burguesia **financiava** o monarca (impostos, empréstimos), permitindo-lhe manter exército permanente e burocracia. Formou-se, assim, a aliança **rei + burguesia contra a fragmentação feudal**, motor da formação do Estado moderno.
+:::
+
+**2.** Quais eram os principais **instrumentos** do Estado moderno centralizado? Cite pelo menos três.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Os principais instrumentos eram: (1) um **exército profissional permanente** — sustentado pelo rei e, com a pólvora e os canhões, independente da cavalaria dos nobres; (2) uma **burocracia** de funcionários pagos e leais ao monarca, para administrar o reino; (3) um **sistema de impostos** régios, que financiava tudo o mais; e (4) a tendência à **unificação** de **leis, moeda, pesos e medidas** (e, no longo prazo, da língua) em todo o território. Juntos, esses instrumentos retiravam da nobreza feudal as funções de poder que ela exercia localmente e as concentravam no **Estado**.
+:::
+
+**3.** Defina **mercantilismo** e explique os princípios do **metalismo** e da **balança comercial favorável**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Mercantilismo** é o conjunto de ideias e práticas econômicas adotadas pelos Estados modernos europeus (séc. XVI–XVIII) com o objetivo de **enriquecer o Estado** para aumentar seu poder, por meio de forte **intervenção estatal** na economia.
+- **Metalismo (bulionismo)**: a riqueza de um país se mediria pela quantidade de **metais preciosos** (ouro e prata) acumulados em seus cofres; quanto mais metal, mais poder (para pagar exércitos e comprar bens).
+- **Balança comercial favorável**: para acumular metal, o país deveria **exportar mais do que importar**; a diferença entrava em forma de ouro e prata. Por isso o Estado **estimulava as exportações** e **desestimulava as importações** (com tarifas).
+
+Os dois princípios se ligam: a balança favorável era o **meio** de obter os metais que o metalismo valorizava.
+:::
+
+**4.** O que era o **pacto colonial** (exclusivo metropolitano) e qual sua importância para entender a colonização da América?
+
+::: {.callout-tip collapse="true" title="Solução"}
+O **pacto colonial** (ou exclusivo metropolitano) era o princípio, central no mercantilismo, segundo o qual as **colônias existiam para enriquecer a metrópole**. Na prática, a colônia só podia **comerciar com a mãe-pátria**, em regime de **monopólio**: comprava dela os produtos manufaturados (caros) e vendia-lhe apenas matérias-primas e gêneros tropicais (baratos), sempre em condições impostas pela metrópole. Sua importância é enorme: o pacto colonial foi a **razão econômica** da colonização da América — as colônias (inclusive o Brasil) foram organizadas para **gerar lucro e metais** para a Europa, produzindo o que a metrópole determinava (açúcar, ouro, prata) e sendo proibidas de industrializar-se ou comerciar livremente. Entender o pacto colonial é a chave para compreender o Antigo Sistema Colonial (Volume 7) e toda a lógica do Brasil Colônia (Volume 8).
+:::
+
+**5.** Compare o **metalismo espanhol** com o **colbertismo francês**. Por que, no longo prazo, a Espanha saiu enfraquecida apesar de suas minas?
+
+::: {.callout-tip collapse="true" title="Solução"}
+- **Metalismo espanhol**: dona das minas de prata (Potosí) e ouro da América, a Espanha apostou na **extração direta de metais**, quase sem desenvolver manufaturas próprias.
+- **Colbertismo francês**: sob Colbert (ministro de Luís XIV), a França apostou no **desenvolvimento de manufaturas** estatais (sobretudo de luxo), no protecionismo e na marinha.
+
+**Por que a Espanha se enfraqueceu:** por não produzir quase nada internamente, precisava **importar** manufaturas de outros países (França, Inglaterra, Holanda). Assim, o ouro e a prata que chegavam da América **escorriam** para fora, pagando essas importações, e acabavam **fortalecendo os concorrentes**, não a própria Espanha. Além disso, o excesso de metais gerou forte **inflação** (a "Revolução dos Preços"). A lição — percebida só depois — é que a riqueza duradoura vinha da **produção e do comércio** (como em França e Inglaterra), não do simples acúmulo de metal, que se dissipava.
+:::
+
+**6.** (Estilo ENEM) Leia o texto.
+
+> "O meio ordinário para aumentar nosso tesouro é o comércio exterior, no qual devemos sempre observar esta regra: vender aos estrangeiros, anualmente, um valor maior do que aquele que deles consumimos. [...] Assim, o que resta da balança forçosamente nos virá em tesouro." — Thomas Mun, *A riqueza da Inglaterra pelo comércio exterior* (1664)
+
+O texto expressa um princípio central do mercantilismo, conhecido como
+
+**(a)** livre-comércio, que defende a ausência de barreiras entre os países.
+**(b)** balança comercial favorável, baseada em exportar mais do que importar.
+**(c)** divisão internacional do trabalho proposta pelo liberalismo econômico.
+**(d)** autossuficiência colonial, com as colônias comerciando livremente.
+**(e)** não intervenção do Estado na economia (*laissez-faire*).
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (b).** O texto recomenda "vender aos estrangeiros [...] um valor maior do que aquele que deles consumimos", de modo que "o que resta da balança" se converta em "tesouro" (metais) — a definição exata da **balança comercial favorável**, princípio mercantilista.
+
+Por que as demais estão erradas: (a), (c) e (e) descrevem o **liberalismo** econômico (livre-comércio, *laissez-faire*), oposto ao mercantilismo intervencionista do texto; (d) contradiz o **pacto colonial**, segundo o qual a colônia **não** comerciava livremente, mas só com a metrópole.
+:::
+
+**7.** (Estilo vestibular — dissertativa) Explique por que o mercantilismo, embora não seja o capitalismo liberal, é considerado por muitos historiadores uma etapa que **preparou** o capitalismo. Use a noção de "acumulação primitiva de capital".
+
+::: {.callout-tip collapse="true" title="Solução"}
+Resposta esperada (síntese): o **mercantilismo** difere do **capitalismo liberal** porque se baseia na forte **intervenção do Estado** (regulamentação, monopólios, protecionismo, pacto colonial), ao passo que o capitalismo liberal do século XIX defenderá o **livre-comércio** e a mínima interferência estatal. No entanto, o mercantilismo **preparou** o capitalismo porque, ao estimular o comércio de longa distância, as manufaturas e a exploração colonial, promoveu uma enorme **acumulação de riqueza** nas mãos da burguesia europeia. Essa "**acumulação primitiva de capital**" — expressão associada a Karl Marx — designa justamente a concentração inicial de capitais obtida por meios como o **comércio colonial**, a **pilhagem** das colônias, a extração de metais e o **tráfico de escravizados**. Foram esses capitais acumulados nos séculos XVI–XVIII que, mais tarde, financiariam investimentos, máquinas e fábricas, tornando possível a **Revolução Industrial** (Volume 9). Assim, embora regido por lógica diferente, o mercantilismo funcionou como a **fase de acumulação** que antecedeu e viabilizou o capitalismo industrial. Uma boa resposta deve mostrar a **distinção** (intervenção × liberalismo) e a **ponte** (acumulação primitiva → capitalismo).
+:::
+
+**8.** Compare, em linhas gerais, as duas interpretações sobre a natureza do Estado moderno apresentadas na seção de historiografia.
+
+::: {.callout-tip collapse="true" title="Solução"}
+- **Estado como instrumento da burguesia / acumulação de capital** (na linha de **Marx**): o Estado moderno e o mercantilismo teriam servido à **burguesia** ascendente e à **acumulação primitiva de capital** (comércio colonial, escravidão), constituindo a "pré-história" do capitalismo.
+- **Estado absolutista como aparelho da nobreza reorganizada** (**Perry Anderson**, *Linhagens do Estado Absolutista*): contra a ideia de um Estado desde cedo "burguês", Anderson argumenta que o Estado moderno foi, na origem, um **instrumento da nobreza feudal** reorganizado — um meio de a aristocracia manter seu domínio sobre os camponeses depois da crise da servidão. A nobreza teria se "aristocratizado" na corte, enquanto a burguesia enriquecia no comércio protegido.
+
+**Diferença de fundo:** o Estado moderno serviu principalmente à **burguesia** (e ao capital nascente) ou à **velha nobreza** que se adaptou? A historiografia reconhece que ele atendeu, em graus variáveis, a **ambos** os interesses. O exercício mostra como a pergunta "a quem servia o Estado?" depende das fontes e da perspectiva teórica de cada historiador.
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- ANDERSON, Perry. *Linhagens do Estado absolutista* [@anderson2004]. Análise marxista de referência sobre a formação dos Estados modernos e absolutistas na Europa.
+- SKINNER, Quentin. *As fundações do pensamento político moderno* [@skinner1996]. Sobre as ideias políticas que acompanharam o nascimento do Estado moderno.
+- BRAUDEL, Fernand. *O Mediterrâneo e o mundo mediterrânico na época de Filipe II* [@braudel1996]. Obra monumental sobre a economia, o comércio e o poder no século XVI.
+- FAUSTO, Boris. *História do Brasil* [@fausto2015]. Para conectar o mercantilismo e o pacto colonial à formação do Brasil.
+
+**Filmes e documentários**
+
+- *Elizabeth* (1998), dir. Shekhar Kapur. A consolidação do poder da monarquia Tudor na Inglaterra do século XVI.
+- *A Rainha Isabel* (série *Isabel*, 2011–2014, RTVE). Dramatização da unificação da Espanha sob os Reis Católicos — a assistir com senso crítico.
+- Documentário *Empires: The Spanish Empire* (PBS). Sobre a prata americana e o auge e a decadência do poderio espanhol.
