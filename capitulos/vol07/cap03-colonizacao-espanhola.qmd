@@ -1,5 +1,183 @@
 # A colonização espanhola {#sec-colonizacao-espanhola}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+No alto dos Andes bolivianos, a mais de 4.000 metros de altitude, ergue-se uma montanha que mudou a história do mundo: o **Cerro Rico de Potosí**. De suas entranhas, os espanhóis extraíram, ao longo de quase três séculos, quantidades colossais de **prata**. No fim do século XVI, **Potosí** — uma cidade que brotou do nada num descampado gelado — chegou a ter mais habitantes que Londres ou Sevilha. Diz a lenda que se poderia construir uma ponte de prata dali até a Espanha, e outra, de ossos, com os milhares de trabalhadores indígenas que ali morreram. Potosí resume o que foi a colonização espanhola: uma máquina imensa e violenta de **extração de riquezas**, montada sobre a exploração dos povos nativos e organizada por uma das burocracias mais elaboradas de seu tempo. Depois de conquistar (@sec-conquista-da-america), a Espanha precisou **administrar** e **explorar** um império que se estendia de onde hoje é a Califórnia até o sul do Chile. Este capítulo examina **como** ela o fez.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- descrever a **estrutura administrativa** da América espanhola (vice-reinos, Conselho das Índias, Casa de Contratación);
+- explicar o papel central da **mineração de prata** (Potosí, Zacatecas) e do monopólio comercial;
+- caracterizar a **sociedade colonial** hispano-americana e o sistema de castas;
+- compreender o papel da **Igreja** e da evangelização, incluindo o sincretismo religioso;
+- discutir o debate historiográfico sobre os efeitos da prata americana (a "revolução dos preços" e as origens do capitalismo).
 :::
+
+## Uma máquina de administrar um continente {#sec-administracao}
+
+Conquistar foi rápido; **governar** um território tão vasto e distante foi o grande desafio da Coroa espanhola. A resposta foi construir uma **administração centralizada e burocrática**, controlada diretamente pelo rei, com o objetivo de garantir que a riqueza fluísse para a metrópole e que os conquistadores — homens ambiciosos e perigosos — não se transformassem em senhores independentes.
+
+No topo da estrutura, na Espanha, ficavam dois órgãos: o **Conselho das Índias**, que formulava as leis e nomeava os funcionários coloniais, e a **Casa de Contratación** (Casa de Contratação), sediada em Sevilha, que controlava e fiscalizava **todo** o comércio e a navegação com a América. Na própria colônia, o território foi dividido em grandes **vice-reinos**, governados por um **vice-rei**, representante direto do monarca (@fig-administracao-espanhola). Os dois primeiros e mais importantes foram o do **México (Nova Espanha)** e o do **Peru**; mais tarde, no século XVIII, criaram-se os de Nova Granada e do Rio da Prata. Abaixo dos vice-reis havia as **audiências** (tribunais com funções também administrativas) e, no plano local, os *cabildos* (câmaras municipais) e autoridades como os *corregedores*.
+
+::: {#fig-administracao-espanhola}
+
+```{.tikz}
+%%| filename: fig-administracao-espanhola
+%%| alt: Organograma da administração colonial espanhola, do rei aos cabildos locais.
+\begin{tikzpicture}[>=stealth, node distance=0.5cm]
+  \node[draw, very thick, fill=manualyellow!25, rounded corners, font=\scriptsize\bfseries, align=center, text width=2.4cm] (rei) at (0,4) {REI da Espanha};
+  \node[draw, fill=manualblue!16, rounded corners, font=\scriptsize, align=center, text width=3cm] (conselho) at (-2.4,2.6) {Conselho das Índias\\ (leis, nomeações)};
+  \node[draw, fill=manualgreen!16, rounded corners, font=\scriptsize, align=center, text width=3cm] (casa) at (2.4,2.6) {Casa de Contratación\\ (comércio, Sevilha)};
+  \node[draw, fill=manualblue!12, rounded corners, font=\scriptsize, align=center, text width=3cm] (vice) at (-2.4,1.1) {Vice-reis\\ (Nova Espanha, Peru...)};
+  \node[draw, fill=manualgray!16, rounded corners, font=\scriptsize, align=center, text width=3cm] (aud) at (-2.4,-0.2) {Audiências (tribunais)};
+  \node[draw, fill=manualgray!12, rounded corners, font=\scriptsize, align=center, text width=3cm] (cab) at (-2.4,-1.4) {Cabildos (câmaras locais)};
+  \draw[vetor] (rei) -- (conselho); \draw[vetor] (rei) -- (casa);
+  \draw[vetor] (conselho) -- (vice); \draw[vetor] (vice) -- (aud); \draw[vetor] (aud) -- (cab);
+\end{tikzpicture}
+```
+
+A administração colonial espanhola era **centralizada** no rei e servia para controlar tanto os nativos quanto os próprios colonos.
+:::
+
+::: {.callout-important title="Armadilha: colonização espanhola × portuguesa"}
+Não confunda os dois modelos ibéricos. A colonização **espanhola** foi, desde cedo, **centralizada, urbana e mineradora**: baseava-se em cidades, numa burocracia densa (vice-reinos) e na exploração da **prata**, sobre uma enorme população indígena sedentária já existente. A colonização **portuguesa** do Brasil (Volume 8) começou mais **descentralizada** (capitanias hereditárias), **litorânea** e **agroexportadora** (açúcar), apoiada sobretudo no trabalho **escravo africano**, sobre uma população indígena menos numerosa e não urbana. Guardar esse contraste evita muitos erros em prova.
+:::
+
+## Prata: o coração econômico do império {#sec-prata}
+
+Se o motor da colonização espanhola tinha um combustível, era a **prata**. A descoberta das grandes minas — **Potosí** (na atual Bolívia, 1545) e **Zacatecas** (no México) — transformou a América espanhola no maior produtor de metais preciosos do planeta. Uma inovação técnica, o processo de **amálgama** (uso do mercúrio para separar a prata do minério), permitiu explorar minérios de baixo teor em escala industrial. A prata era cunhada em moedas ou fundida em barras e enviada à Espanha.
+
+Todo esse comércio obedecia a um rígido **monopólio metropolitano**, típico do **mercantilismo** (@sec-mercantilismo). O comércio colonial só podia ser feito com a metrópole, por portos autorizados (Sevilha, depois Cádiz) e em comboios de navios escoltados — as **frotas e galeões** — para proteger a prata dos piratas e corsários. Esse sistema de **monopólio** é a essência do que se chamará **pacto colonial** (@sec-antigo-sistema-colonial): a colônia existe para **enriquecer a metrópole**.
+
+O paradoxo é que toda essa prata **não** enriqueceu duradouramente a Espanha. Boa parte escoou para pagar as guerras dos Habsburgos e as importações de manufaturas de países mais desenvolvidos (Inglaterra, França, Holanda), que produziam o que a Espanha consumia. A prata americana, ironicamente, acabou **financiando o desenvolvimento dos rivais** da Espanha — e alimentando, como veremos, uma transformação econômica em escala mundial.
+
+## A sociedade colonial e o sistema de castas {#sec-sociedade-castas}
+
+A sociedade que se formou na América espanhola era profundamente **hierárquica** e organizada segundo a **origem** e a **cor** das pessoas — o chamado **sistema de castas** (@fig-castas). No topo estavam os **chapetones** (ou *peninsulares*), os brancos **nascidos na Espanha**, que monopolizavam os altos cargos da administração e da Igreja. Logo abaixo vinham os **criollos** (crioulos), brancos **nascidos na América**, filhos de espanhóis: ricos proprietários de terras e minas, mas **excluídos** dos postos mais altos — uma frustração que, séculos depois, os levaria a liderar as **independências** (Volume 10).
+
+Abaixo dos brancos situava-se a enorme população **mestiça**, fruto da intensa miscigenação, classificada em dezenas de categorias conforme a mistura de "sangues": **mestiços** (branco + indígena), **mulatos** (branco + negro), **zambos** (indígena + negro) e muitas outras. Na base da pirâmide estavam os **indígenas** — a maioria da população, submetida ao trabalho compulsório (@sec-trabalho-compulsorio) e aos tributos — e os **africanos escravizados**, sobretudo nas regiões de plantação e mineração. Essa hierarquia rígida, em que o lugar social dependia da ascendência, deixaria marcas profundas e duradouras nas sociedades latino-americanas.
+
+::: {#fig-castas}
+
+```{.tikz}
+%%| filename: fig-castas
+%%| alt: Pirâmide da sociedade colonial espanhola, dos chapetones no topo aos indígenas e africanos escravizados na base.
+\begin{tikzpicture}
+  \draw[manualgray, thick] (-4.2,0) -- (4.2,0) -- (0,5.2) -- cycle;
+  \draw[manualgray] (-3.5,0.9) -- (3.5,0.9);
+  \draw[manualgray] (-2.7,1.9) -- (2.7,1.9);
+  \draw[manualgray] (-1.5,3.4) -- (1.5,3.4);
+  \node[font=\scriptsize\bfseries] at (0,4.2) {Chapetones};
+  \node[font=\scriptsize, align=center] at (0,4.55) {};
+  \node[font=\scriptsize, text width=2.6cm, align=center] at (0,2.5) {\textbf{Criollos}\\ (brancos da América)};
+  \node[font=\scriptsize, text width=4cm, align=center] at (0,1.3) {mestiços, mulatos, zambos};
+  \node[font=\scriptsize, text width=6cm, align=center] at (0,0.4) {indígenas e africanos escravizados};
+\end{tikzpicture}
+```
+
+O **sistema de castas**: a posição social dependia da origem e da cor. Os **criollos**, ricos mas excluídos do poder, liderariam as futuras independências.
+:::
+
+## A Igreja e a colonização das almas {#sec-igreja-colonial}
+
+A colonização espanhola não foi apenas econômica e política; foi também **espiritual**. A Coroa tinha, por concessão papal (o *padroado*), o dever e o direito de **cristianizar** os povos americanos — e a **Igreja Católica** foi um pilar de todo o edifício colonial. Ordens religiosas como **franciscanos**, **dominicanos** e **jesuítas** espalharam-se pelo continente construindo igrejas, catequizando, batizando em massa e, muitas vezes, aprendendo as línguas nativas. Nas fronteiras, os jesuítas organizaram as célebres **missões** (ou *reduções*), aldeamentos onde reuniam os indígenas para convertê-los e "civilizá-los" — instituições ambíguas, que protegiam os nativos da escravização, mas também desorganizavam suas culturas.
+
+A evangelização, porém, jamais foi um simples apagamento das crenças nativas. Do encontro entre o catolicismo e as religiões indígenas (e depois africanas) nasceu um rico **sincretismo religioso**: os povos americanos reinterpretaram os santos e ritos católicos à luz de suas próprias tradições. O caso mais célebre é o da **Virgem de Guadalupe**, no México, uma aparição mariana de pele morena que se tornou o maior símbolo religioso do país — fusão da devoção católica com elementos indígenas. Como mostrou o historiador **Serge Gruzinski** [@gruzinski2003], os indígenas não foram objetos passivos da conversão: **reelaboraram** o cristianismo em seus próprios termos, num processo criativo de mestiçagem cultural.
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+**A prata americana e as origens do capitalismo.** O maior debate econômico sobre a colonização espanhola diz respeito ao **impacto global** da prata americana. Uma linha de interpretação, associada ao historiador francês **Fernand Braudel** [@braudel1996] e à história econômica, destaca que o afluxo maciço de metais preciosos provocou na Europa uma **"revolução dos preços"** — uma longa inflação, ao longo do século XVI, causada pelo aumento da quantidade de moeda em circulação. Mais do que isso, a prata americana teria **irrigado** o comércio mundial, integrando pela primeira vez os quatro continentes (a prata chegava até a China, ávida por metal) e fornecendo o **capital** que impulsionaria a expansão comercial europeia. Nessa leitura, a exploração colonial da América foi uma das **condições** do desenvolvimento do capitalismo europeu.
+
+**Acumulação primitiva ou desenvolvimento do subdesenvolvimento?** Essa tese ganhou uma versão mais radical e polêmica. Autores da chamada **teoria da dependência** e da tradição marxista — de forma influente e apaixonada em *As veias abertas da América Latina*, de Eduardo **Galeano** [@galeano2010] — sustentaram que a riqueza da Europa e o **atraso** da América Latina são as **duas faces de um mesmo processo**: a Europa teria se desenvolvido **às custas** da espoliação colonial, drenando a riqueza (a prata, o ouro, os produtos) que faltaria ao continente saqueado. Seria a **"acumulação primitiva"** de que falava Marx: o capital que financiou a indústria europeia teria vindo, em parte, da pilhagem colonial. Historiadores econômicos mais recentes **relativizam** essa tese, argumentando que a prata muitas vezes apenas **atravessou** a Espanha rumo a outros centros, que o volume não seria suficiente para explicar sozinho a industrialização, e que o subdesenvolvimento latino-americano tem causas internas também. O debate — se a colônia foi ou não a **origem** da riqueza europeia e da pobreza latino-americana — continua vivo e é profundamente político.
+
+::: {.callout-warning title="Controvérsia: culpar a colônia por tudo?"}
+A tese de Galeano teve enorme influência política e ajudou a denunciar a violência da colonização. Mas historiadores alertam contra dois excessos. O primeiro é o **determinismo**: explicar **tudo** — inclusive problemas atuais da América Latina — apenas pela herança colonial, como se cinco séculos de história posterior não contassem, e como se as sociedades latino-americanas não tivessem sido também **sujeitos** de sua própria história. O segundo é o **anacronismo**: projetar sobre o século XVI conceitos econômicos do século XX. A crítica não anula a denúncia da espoliação — que foi real e brutal —, mas convida a uma análise mais **complexa**, que combine os fatores externos (colonialismo) e internos (estruturas sociais locais) sem reduzir a história a uma só causa.
+:::
+
+## Resumo do capítulo {#sec-resumo}
+
+- Após a conquista, a Espanha montou uma administração **centralizada e burocrática**: **Conselho das Índias** (leis) e **Casa de Contratación** (comércio, em Sevilha) na metrópole; **vice-reinos** (Nova Espanha e Peru, depois Nova Granada e Rio da Prata), **audiências** e *cabildos* na colônia — tudo para controlar nativos **e** colonos e drenar a riqueza para o rei.
+- A **prata** foi o coração econômico: **Potosí** (1545) e **Zacatecas**, o processo de **amálgama** (mercúrio), o **monopólio** metropolitano e o sistema de **frotas e galeões**. Paradoxo: a prata **não** enriqueceu a Espanha de forma duradoura — escoou para pagar guerras e importações, financiando os rivais.
+- **Sociedade de castas**, hierarquizada por origem e cor: **chapetones/peninsulares** (brancos da Espanha, no topo), **criollos** (brancos da América, ricos mas excluídos do poder → futuras independências), grande população **mestiça** (mestiços, mulatos, zambos) e, na base, **indígenas** e **africanos escravizados**.
+- A **Igreja** foi pilar da colonização (padroado; franciscanos, dominicanos, jesuítas; missões/reduções). Da evangelização nasceu um **sincretismo** religioso (Virgem de Guadalupe); os indígenas **reelaboraram** o cristianismo (Gruzinski).
+- Historiografia: a prata e a **"revolução dos preços"** e a integração do comércio mundial (Braudel); a tese da **espoliação** como origem da riqueza europeia e do atraso latino-americano (Galeano, teoria da dependência) e suas críticas (não reduzir tudo à herança colonial).
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Concentre-se em: (1) a **estrutura administrativa** (vice-reinos, Conselho das Índias, Casa de Contratación); (2) a **prata** e o monopólio (Potosí, mercantilismo); (3) a **sociedade de castas** (chapetones × criollos e a raiz das independências); e (4) o debate sobre a prata e as origens do capitalismo.
+:::
+
+**1.** Descreva a **estrutura administrativa** da colonização espanhola e explique seu objetivo.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Era uma administração **centralizada** no rei. Na metrópole, o **Conselho das Índias** fazia as leis e nomeava funcionários, e a **Casa de Contratación** (em Sevilha) controlava todo o comércio e a navegação. Na colônia, o território dividia-se em **vice-reinos** (Nova Espanha e Peru, depois Nova Granada e Rio da Prata), governados por **vice-reis** (representantes do rei); abaixo deles vinham as **audiências** (tribunais) e os *cabildos* (câmaras locais). O **objetivo** era duplo: garantir que a **riqueza** (sobretudo a prata) fluísse para a metrópole, dentro da lógica **mercantilista**, e **controlar** tanto a população nativa quanto os próprios colonos e conquistadores, impedindo que estes se tornassem poderes autônomos.
+:::
+
+**2.** Explique o papel da **prata** na colonização espanhola e o paradoxo de seus efeitos sobre a Espanha.
+
+::: {.callout-tip collapse="true" title="Solução"}
+A **prata** — extraída sobretudo em **Potosí** (1545) e **Zacatecas**, com a técnica da **amálgama** (mercúrio) — foi o **motor econômico** da colonização: a América espanhola tornou-se o maior produtor mundial de metais preciosos, comercializados sob **monopólio** metropolitano (frotas e galeões, porto de Sevilha/Cádiz). O **paradoxo** é que essa riqueza **não** enriqueceu duradouramente a Espanha: a prata escoou para pagar as **guerras** dos Habsburgos e para **importar manufaturas** de países mais desenvolvidos (Inglaterra, França, Holanda), que produziam o que a Espanha consumia. Assim, a prata americana acabou **financiando o desenvolvimento dos rivais** da própria Espanha.
+:::
+
+**3.** Caracterize o **sistema de castas** e explique por que ele ajuda a entender as futuras independências.
+
+::: {.callout-tip collapse="true" title="Solução"}
+O **sistema de castas** era a hierarquia social baseada na **origem** e na **cor**: no topo, os **chapetones** (peninsulares) — brancos nascidos na Espanha, que monopolizavam os altos cargos; abaixo, os **criollos** — brancos nascidos na América, ricos (donos de terras e minas), mas **excluídos** dos postos mais altos; depois, a vasta população **mestiça** (mestiços, mulatos, zambos); e, na base, **indígenas** e **africanos escravizados**. Esse sistema ajuda a entender as **independências** porque a **frustração dos criollos** — ricos, mas alijados do poder político em favor dos peninsulares — foi um motor decisivo: seriam eles a **liderar** os movimentos de independência da América Latina (Volume 10), buscando o poder político que a metrópole lhes negava.
+:::
+
+**4.** Qual foi o papel da **Igreja** na colonização espanhola? O que foi o **sincretismo religioso**?
+
+::: {.callout-tip collapse="true" title="Solução"}
+A **Igreja Católica** foi um **pilar** da colonização: por concessão papal (o *padroado*), a Coroa tinha o dever de **cristianizar** os povos americanos. Ordens como franciscanos, dominicanos e **jesuítas** catequizaram, batizaram em massa, aprenderam línguas nativas e organizaram **missões/reduções** (aldeamentos indígenas). A evangelização, porém, não apagou simplesmente as crenças nativas: surgiu um **sincretismo religioso**, isto é, a **fusão** do catolicismo com elementos das religiões indígenas (e depois africanas). O exemplo clássico é a **Virgem de Guadalupe** (México), aparição de pele morena que uniu devoção católica e tradição indígena. Como mostrou Gruzinski, os indígenas **reinterpretaram** ativamente o cristianismo em seus próprios termos, num processo criativo de mestiçagem cultural.
+:::
+
+**5.** Compare, em linhas gerais, os modelos de colonização **espanhol** e **português**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+A colonização **espanhola** foi, desde cedo, **centralizada** (vice-reinos, densa burocracia), **urbana** e **mineradora** (prata de Potosí e Zacatecas), assentada sobre uma **grande população indígena sedentária** já existente, submetida ao trabalho compulsório. A colonização **portuguesa** do Brasil começou mais **descentralizada** (capitanias hereditárias), **litorânea** e **agroexportadora** (o **açúcar**), apoiada principalmente no **trabalho escravo africano**, sobre uma população indígena menos numerosa e não urbana. Em comum, os dois modelos partilham a lógica **mercantilista** do **pacto colonial** (a colônia enriquece a metrópole). A diferença de bases — mineração/indígenas × plantation/escravos africanos — marcaria de modo duradouro as duas Américas.
+:::
+
+**6.** (Estilo ENEM) Leia o texto.
+
+> "A cidade de Potosí é, no mundo, a maior fonte de prata; e por isso mesmo a mais povoada [...]. Aqui vieram parar homens de todas as nações, atraídos pela riqueza do cerro; e para arrancá-la trabalham, em condições terríveis, multidões de índios trazidos pela mita das províncias vizinhas." — Relato colonial adaptado, séc. XVII
+
+O texto evidencia que a economia mineradora espanhola
+
+**(a)** funcionava com base no trabalho assalariado livre.
+**(b)** articulava a extração de riqueza à exploração do trabalho compulsório indígena.
+**(c)** tinha caráter marginal na economia colonial.
+**(d)** beneficiava igualmente colonizadores e povos nativos.
+**(e)** dispensava a intervenção da metrópole espanhola.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (b).** O texto liga diretamente a **riqueza em prata** de Potosí à exploração de **multidões de índios** trazidos pela **mita** (trabalho compulsório) e submetidos a "condições terríveis" — ou seja, a extração de riqueza **dependia** do trabalho forçado indígena.
+
+As demais estão erradas: (a) o trabalho descrito é **compulsório** (mita), não assalariado livre; (c) Potosí é apresentada como "a maior fonte de prata" e "a mais povoada" — central, não marginal; (d) os índios trabalham em "condições terríveis" enquanto outros lucram — não há benefício igual; (e) a mineração e o comércio da prata eram estritamente **controlados** pela metrópole (monopólio).
+:::
+
+**7.** (Estilo vestibular — dissertativa) Discuta a tese de que a colonização da América foi uma das **origens** da riqueza europeia e do atraso latino-americano, apresentando os argumentos e as críticas.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Resposta esperada: a tese, defendida pela **teoria da dependência** e popularizada por Eduardo **Galeano** (*As veias abertas da América Latina*), sustenta que o desenvolvimento europeu e o subdesenvolvimento latino-americano são **duas faces do mesmo processo**: a Europa teria se enriquecido **espoliando** a América (prata, ouro, produtos coloniais), numa **"acumulação primitiva"** (Marx) que forneceu capital à futura indústria europeia, enquanto drenava a riqueza que faltaria ao continente saqueado. Autores como **Braudel** reforçam que a prata americana provocou a **"revolução dos preços"** e irrigou o comércio mundial. **Críticas**: historiadores econômicos apontam que boa parte da prata apenas **atravessou** a Espanha, que seu volume não bastaria para explicar sozinho a industrialização e que o atraso latino-americano tem também causas **internas** (estruturas sociais, decisões políticas posteriores). Alertam ainda contra o **determinismo** (explicar tudo pela herança colonial) e o **anacronismo**. Uma boa resposta deve **expor a tese**, reconhecer a realidade da espoliação colonial e, ao mesmo tempo, incorporar as ressalvas, evitando reduzir cinco séculos de história a uma única causa.
+:::
+
+**8.** Por que se pode dizer que a administração colonial espanhola servia para controlar **também os próprios colonos**, e não apenas os indígenas?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque os **conquistadores** e colonos eram homens ambiciosos, armados e distantes da metrópole, com potencial para se tornarem **senhores autônomos** — verdadeiros poderes independentes que escapariam ao controle do rei e desviariam a riqueza colonial para si. Para evitar isso, a Coroa montou uma burocracia **centralizada** (vice-reis nomeados pelo rei, audiências, o Conselho das Índias) que fiscalizava e limitava o poder dos colonos, submetendo-os à autoridade régia. Assim, a estrutura administrativa cumpria uma **dupla função**: explorar e controlar a população nativa **e** impedir que a elite colonial se emancipasse da metrópole — garantindo que a riqueza (sobretudo a prata) fluísse para a Coroa, conforme a lógica mercantilista.
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- GRUZINSKI, Serge. *A colonização do imaginário* [@gruzinski2003]. Sobre a evangelização, o sincretismo e a reelaboração indígena do cristianismo no México.
+- GALEANO, Eduardo. *As veias abertas da América Latina* [@galeano2010]. Ensaio-denúncia, influente e polêmico, sobre a espoliação colonial — leia-o criticamente.
+- BRAUDEL, Fernand. *Civilização material, economia e capitalismo* [@braudel1996]. Sobre a prata, os preços e a integração do comércio mundial.
+- ELLIOTT, John H. *A Europa dividida* [@elliott1984]. Sobre a Espanha dos Habsburgos e o contexto europeu do império.
+
+**Filmes e documentários**
+
+- *También la lluvia* (2010), dir. Icíar Bollaín. Ambientado na Bolívia, cruza a memória da conquista com os conflitos atuais — excelente para discutir a herança colonial.
+- *A Missão* (1986), dir. Roland Joffé. Sobre as reduções jesuíticas e a ação da Igreja nas fronteiras coloniais.
+- Documentários sobre **Potosí** e o Cerro Rico, que mostram as condições da mineração colonial e sua herança até hoje.
