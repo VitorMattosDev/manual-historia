@@ -1,5 +1,166 @@
 # Trabalho compulsório: encomienda, mita e escravidão {#sec-trabalho-compulsorio}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+A prata de Potosí, o açúcar do Caribe, as plantações que enriqueceram a Europa — nada disso brotou da terra por conta própria. Tudo foi arrancado por **mãos forçadas**. Por trás do esplendor das cidades coloniais e das fortunas enviadas às metrópoles havia uma realidade brutal: milhões de seres humanos obrigados a trabalhar contra a própria vontade, sem receber (ou quase) por isso, e frequentemente até a morte. A colonização da América não foi apenas uma empresa de conquista e administração; foi, acima de tudo, um imenso sistema de **exploração do trabalho**. Compreender **quem** trabalhava, **em que condições** e **por que** os europeus recorreram ao trabalho forçado — primeiro dos indígenas, depois dos africanos escravizados — é a chave para entender toda a economia colonial. Este capítulo dedica-se justamente às formas de **trabalho compulsório** que sustentaram a América colonial: a **encomienda**, a **mita** e, sobretudo, a **escravidão**.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- distinguir as principais formas de **trabalho compulsório indígena** (encomienda, mita, repartimiento);
+- explicar por que a exploração do trabalho indígena entrou em crise e como se deu a **transição** para a escravidão africana;
+- compreender o funcionamento do **tráfico atlântico** de africanos escravizados e sua escala;
+- reconhecer as formas de **resistência** dos povos escravizados;
+- discutir os debates historiográficos sobre trabalho e escravidão (o Debate de Valladolid; escravidão e capitalismo).
 :::
+
+## O trabalho compulsório indígena {#sec-trabalho-indigena}
+
+Os conquistadores não vieram para a América para trabalhar: vieram para **enriquecer** com o trabalho **alheio**. Diante de uma população indígena numerosa (@sec-povos-da-america), a primeira solução foi explorá-la diretamente. Surgiram, assim, várias instituições de trabalho compulsório, das quais três são essenciais (@fig-trabalho-compulsorio).
+
+A **encomienda** foi a mais antiga. Por ela, a Coroa "**encomendava**" (confiava) a um colono — o *encomendero* — um grupo de indígenas, que ficavam obrigados a lhe prestar **trabalho** ou pagar **tributo**. Em troca, o encomendero deveria protegê-los e cristianizá-los. Na teoria, os índios eram **súditos livres** do rei, não escravos, e a encomienda era um direito sobre seu trabalho, não sobre suas pessoas. Na prática, porém, ela se transformou numa exploração feroz, próxima da escravidão — o que gerou intensos debates (ver adiante).
+
+A **mita** era de origem **inca** (@sec-incas): os espanhóis **reaproveitaram** o antigo sistema andino de trabalho rotativo obrigatório, mas o **deturparam** completamente. Na mita colonial, cada comunidade indígena era obrigada a enviar periodicamente uma cota de seus homens para trabalhar — sobretudo nas **minas de prata de Potosí** —, em condições tão terríveis que muitos jamais voltavam. O que fora, no Tawantinsuyu, uma obrigação com contrapartida (redistribuição), tornou-se um instrumento de exploração mortal. Havia ainda o **repartimiento**, um sistema semelhante de distribuição forçada de trabalhadores indígenas para diversas atividades.
+
+::: {#fig-trabalho-compulsorio}
+
+```{.tikz}
+%%| filename: fig-trabalho-compulsorio
+%%| alt: Diagrama das formas de trabalho compulsório na América colonial: encomienda, mita, repartimiento e escravidão africana.
+\begin{tikzpicture}[>=stealth]
+  \node[draw, very thick, fill=manualgray!16, rounded corners, font=\scriptsize\bfseries, align=center, text width=3.4cm] (t) at (0,2.3) {TRABALHO COMPULSÓRIO na América colonial};
+  \node[draw, fill=manualgreen!16, rounded corners, font=\scriptsize, align=center, text width=2.6cm] (e) at (-4,0) {\textbf{Encomienda}\\ índios "confiados" a um colono (trabalho/tributo)};
+  \node[draw, fill=manualblue!16, rounded corners, font=\scriptsize, align=center, text width=2.6cm] (m) at (-1.2,0) {\textbf{Mita}\\ trabalho rotativo forçado (minas)};
+  \node[draw, fill=manualblue!12, rounded corners, font=\scriptsize, align=center, text width=2.6cm] (r) at (1.6,0) {\textbf{Repartimiento}\\ distribuição de trabalhadores};
+  \node[draw, very thick, fill=manualred!18, rounded corners, font=\scriptsize\bfseries, align=center, text width=2.6cm] (s) at (4.4,0) {ESCRAVIDÃO africana};
+  \draw[vetor] (t) -- (e); \draw[vetor] (t) -- (m); \draw[vetor] (t) -- (r); \draw[vetor] (t) -- (s);
+  \node[font=\scriptsize\itshape, text=manualgray, align=center] at (-1.8,-1.7) {trabalho \textbf{indígena}};
+  \node[font=\scriptsize\itshape, text=manualred, align=center] at (4.4,-1.4) {trabalho \textbf{africano}};
+\end{tikzpicture}
+```
+
+As formas de trabalho compulsório: à esquerda, a exploração **indígena** (encomienda, mita, repartimiento); à direita, a **escravidão africana**, que se tornaria predominante.
+:::
+
+::: {.callout-important title="Armadilha: encomienda não é o mesmo que escravidão indígena"}
+Cuidado com uma distinção sutil e muito cobrada. Na **encomienda**, os indígenas eram, **juridicamente**, súditos **livres** do rei: o encomendero tinha direito ao seu **trabalho e tributo**, mas **não** era dono de suas pessoas — não podia vendê-los. Já a **escravidão** (aplicada sobretudo aos africanos, e a alguns indígenas capturados em "guerra justa") tornava a pessoa uma **propriedade**, uma mercadoria que se comprava e vendia. Na **prática**, é verdade, a encomienda muitas vezes beirava a escravidão pela crueldade; mas, no plano do **direito**, a diferença existia — e foi justamente em nome dela que missionários lutaram para limitar a exploração indígena.
+:::
+
+## Da crise indígena à escravidão africana {#sec-transicao-escravidao}
+
+Por que, ao longo do tempo, os africanos escravizados **substituíram** os indígenas como principal força de trabalho na maior parte da América? A resposta reúne fatores demográficos, jurídicos e econômicos.
+
+O primeiro foi o **colapso demográfico** (@sec-colapso-demografico): as epidemias e os maus-tratos dizimaram a população nativa, reduzindo drasticamente a mão de obra disponível. O segundo foi **jurídico e religioso**: a Igreja e a Coroa, pressionadas por missionários como Las Casas, passaram a **proteger** (ao menos no papel) os indígenas, considerados súditos livres e almas a converter — as **Leis Novas** de 1542 chegaram a proibir a escravização indígena e a limitar a encomienda. O terceiro, e decisivo, foi **econômico**: já existia, desde antes, um **tráfico** de africanos escravizados montado por Portugal na África (@sec-expansao-maritima), e os africanos, além de já terem contato com as doenças do Velho Mundo (tinham mais resistência), eram vistos pelos colonizadores como uma mão de obra **"disponível" e lucrativa**, comprável em larga escala.
+
+Assim se consolidou uma das maiores tragédias da história: o **tráfico atlântico de escravos**. Entre os séculos XVI e XIX, estima-se que cerca de **12 milhões** de africanos foram embarcados à força para a América — e talvez **2 milhões** tenham morrido durante a travessia. Homens, mulheres e crianças eram capturados na África, vendidos, marcados a ferro e amontoados nos porões dos **navios negreiros** (os "tumbeiros") numa viagem infernal, a **travessia do Atlântico** (o *Middle Passage*), em condições de higiene e alimentação atrozes. Os que sobreviviam eram vendidos como mercadoria e postos a trabalhar até a exaustão nas **plantations** de açúcar, nas minas e nas casas coloniais.
+
+::: {.callout-note title="Conceito-chave: a escravidão moderna"}
+A escravidão existiu em muitas sociedades da história — na Antiguidade greco-romana (@sec-imperio-romano), na África, no mundo islâmico. Mas a **escravidão colonial moderna** (séculos XVI–XIX) teve traços **específicos**: era **racializada** (associada de forma sistemática à população **negra africana**, construindo a ideia de "raça" para justificá-la), tinha escala **atlântica e mercantil** (parte de um sistema comercial global, o tráfico) e era voltada à **produção em larga escala** para o mercado mundial (a *plantation*). Não confunda, portanto, a escravidão antiga com a moderna: esta última está na **origem** do racismo tal como o conhecemos e é uma peça central do sistema colonial e do capitalismo comercial nascente.
+:::
+
+## Resistência: os escravizados como sujeitos {#sec-resistencia}
+
+Seria um erro — e uma injustiça histórica — retratar os povos escravizados apenas como **vítimas passivas**. Indígenas e africanos **resistiram** de inúmeras formas à exploração, e essa resistência é parte essencial da história colonial (uma exigência, aliás, das Leis 10.639/2003 e 11.645/2008, que tornaram obrigatório o ensino da história e da cultura afro-brasileira e indígena).
+
+A resistência assumiu muitas formas. Houve a resistência **cotidiana e silenciosa**: a sabotagem do trabalho, a lentidão proposital, a quebra de ferramentas, a fuga individual, a preservação de línguas, religiões e memórias. Houve a resistência **cultural**: a recriação, em solo americano, de religiões (como os cultos de matriz africana), músicas, danças e saberes — formas de manter viva a identidade que os senhores tentavam apagar. E houve a resistência **aberta e armada**: revoltas, insurreições e, sobretudo, a **fuga coletiva** para formar comunidades de escravizados libertos — os **quilombos** no Brasil (como Palmares, @sec-escravidao-e-resistencia), os *palenques* na América espanhola, os *cimarrones*. Na virada do século XVIII para o XIX, essa resistência atingiria seu ponto máximo na **Revolução Haitiana** (1791–1804), a única revolta de escravizados da história a fundar um Estado independente — um acontecimento que aterrorizou todas as potências escravistas.
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+**Os indígenas têm alma? O Debate de Valladolid.** Já no século XVI, a exploração dos povos americanos provocou um debate moral e jurídico extraordinário para a época. Em **1550–1551**, na cidade espanhola de **Valladolid**, a Coroa promoveu uma controvérsia pública entre duas posições. De um lado, o teólogo **Juan Ginés de Sepúlveda** defendia que os indígenas seriam **"servos por natureza"** (usando um argumento de Aristóteles) — seres inferiores, cuja sujeição e cristianização à força seriam legítimas e até benéficas. De outro, o frei **Bartolomé de las Casas** (@sec-conquista-da-america) sustentava que os indígenas eram **plenamente humanos**, dotados de razão e alma, e portanto **livres**, não podendo ser escravizados. O Debate de Valladolid é um marco: mostra que a violência colonial **não** passou sem contestação **na própria época**, e é considerado um dos momentos fundadores da reflexão sobre os **direitos humanos**. Mas guarda uma ironia trágica — Las Casas, ao defender os indígenas, chegou a **sugerir** a substituição por africanos escravizados, algo de que mais tarde se arrependeria. A defesa de uns não incluía, ainda, a de todos.
+
+**Escravidão e capitalismo: causa ou consequência?** Um segundo grande debate, econômico, pergunta pela relação entre a **escravidão** e o **desenvolvimento do capitalismo**. Numa tese clássica e influente, o historiador caribenho **Eric Williams**, em *Capitalismo e escravidão* [@williams2012], sustentou que os **lucros** do tráfico e da escravidão colonial forneceram parte do **capital** que financiou a **Revolução Industrial** inglesa — e, mais provocador ainda, que a Inglaterra só aboliu a escravidão quando esta **deixou de ser lucrativa**, e não por motivos puramente humanitários. A tese de Williams desafiou a narrativa que apresentava a abolição como fruto do progresso moral europeu. Ela foi muito debatida: críticos relativizam o peso econômico do tráfico e reafirmam a importância dos **movimentos abolicionistas**; defensores atualizam seus argumentos com novos dados sobre a centralidade da escravidão para a economia atlântica. O debate mostra que a escravidão **não** foi um "atraso" à margem do mundo moderno, mas uma **engrenagem** de sua economia.
+
+::: {.callout-warning title="Controvérsia: escravidão, um resíduo do passado ou algo moderno?"}
+Uma visão antiga tratava a escravidão colonial como uma sobrevivência "arcaica", um resquício pré-moderno destinado a desaparecer com o progresso. A historiografia recente **inverteu** essa leitura: a escravidão moderna foi profundamente **moderna** — organizada, contábil, mercantil, integrada aos mercados mundiais e essencial à acumulação de capital. Longe de ser oposta ao capitalismo nascente, foi uma de suas **bases**. Reconhecer isso tem consequências: obriga a ver o "progresso" europeu e a exploração colonial como parte de um **mesmo** processo, e não como forças contrárias. Mais uma vez, o cuidado é evitar tanto o **anacronismo** (julgar apenas moralmente, sem entender a lógica do sistema) quanto a **naturalização** (tratar a escravidão como algo "normal para a época" — pois, como Valladolid mostra, ela **era** contestada mesmo então).
+:::
+
+## Resumo do capítulo {#sec-resumo}
+
+- A economia colonial baseou-se no **trabalho compulsório**. Formas de exploração **indígena**: a **encomienda** (índios "confiados" a um colono, obrigados a trabalho/tributo, mas juridicamente **livres**); a **mita** (trabalho rotativo forçado, de origem **inca** deturpada, sobretudo nas minas de **Potosí**); o **repartimiento**.
+- **Distinção-chave**: encomienda ≠ escravidão. Na encomienda o índio era súdito **livre** (direito ao trabalho/tributo); na escravidão a pessoa era **propriedade** vendável.
+- **Transição para a escravidão africana**, por três fatores: (1) **colapso demográfico** indígena; (2) proteção **jurídico-religiosa** aos índios (Leis Novas de 1542, pressão de Las Casas); (3) razões **econômicas** (tráfico português já montado, maior resistência africana às doenças, lucratividade).
+- **Tráfico atlântico** (séc. XVI–XIX): cerca de **12 milhões** de africanos embarcados; ~2 milhões mortos na **travessia** (*Middle Passage*), nos **navios negreiros**. A **escravidão moderna** foi **racializada**, **mercantil/atlântica** e voltada à **plantation** — está na origem do racismo.
+- **Resistência**: cotidiana (sabotagem, fuga), **cultural** (religiões, música, memória) e **armada** (revoltas, **quilombos**/*palenques*, e a **Revolução Haitiana** de 1791–1804).
+- Historiografia: o **Debate de Valladolid** (1550–51 — Sepúlveda × Las Casas: os índios são "servos por natureza" ou humanos livres?) e a tese de **Eric Williams** (*Capitalismo e escravidão*: lucros da escravidão financiaram a Revolução Industrial; abolição ligada à lucratividade).
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Fixe: (1) a diferença **encomienda × mita × escravidão** (e o cuidado jurídico encomienda ≠ escravidão); (2) os **fatores** da transição para a escravidão africana; (3) a **resistência** como protagonismo (contra a imagem da vítima passiva); (4) Valladolid e a tese de Williams.
+:::
+
+**1.** Diferencie **encomienda**, **mita** e **escravidão** na América colonial.
+
+::: {.callout-tip collapse="true" title="Solução"}
+- **Encomienda**: instituição pela qual a Coroa "confiava" a um colono (*encomendero*) um grupo de indígenas, obrigados a lhe prestar **trabalho ou tributo**, em troca de "proteção" e cristianização. Juridicamente, os índios eram **súditos livres** do rei — o encomendero tinha direito ao seu trabalho, **não** à sua pessoa.
+- **Mita**: sistema de **trabalho rotativo forçado**, de origem **inca** (deturpada pelos espanhóis), pelo qual cada comunidade enviava periodicamente uma cota de homens para trabalhar — sobretudo nas **minas** (Potosí) —, em condições mortais.
+- **Escravidão**: condição em que a pessoa (sobretudo africana) era **propriedade**, mercadoria comprável e vendável, sem direitos.
+
+**Diferença central**: encomienda e mita exploravam o **trabalho** de pessoas juridicamente **livres**; a escravidão tornava a própria **pessoa** uma propriedade.
+:::
+
+**2.** Explique os **fatores** que levaram à substituição do trabalho indígena pela escravidão africana.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Três fatores principais: (1) **demográfico** — o **colapso** da população indígena (epidemias e maus-tratos) reduziu drasticamente a mão de obra disponível; (2) **jurídico-religioso** — a Coroa e a Igreja, pressionadas por missionários como **Las Casas**, passaram a **proteger** os indígenas (súditos livres, almas a converter), chegando a proibir sua escravização (**Leis Novas**, 1542); (3) **econômico** — já existia um **tráfico** de africanos montado por Portugal na África; os africanos tinham maior **resistência** às doenças do Velho Mundo e eram vistos como mão de obra **lucrativa** e comprável em larga escala. A combinação desses fatores consolidou o **tráfico atlântico** como base do trabalho colonial.
+:::
+
+**3.** Caracterize o **tráfico atlântico** e explique por que a escravidão moderna é diferente das escravidões antigas.
+
+::: {.callout-tip collapse="true" title="Solução"}
+O **tráfico atlântico** (séc. XVI–XIX) foi o comércio forçado de africanos para a América: cerca de **12 milhões** de pessoas foram embarcadas, e talvez **2 milhões** morreram na **travessia** (o *Middle Passage*), amontoadas nos porões dos **navios negreiros** em condições atrozes. A **escravidão moderna** difere das antigas (greco-romana, africana, islâmica) por três traços: era **racializada** (associada sistematicamente à população **negra**, o que produziu a ideia de "raça" para justificá-la — origem do racismo); tinha escala **atlântica e mercantil** (parte de um sistema comercial global); e era voltada à **produção em larga escala** para o mercado mundial (a *plantation*). Por isso não se deve confundir a escravidão antiga com a moderna: esta é uma peça central do sistema colonial e do capitalismo comercial nascente.
+:::
+
+**4.** Descreva as formas de **resistência** dos povos escravizados e explique por que é importante estudá-las.
+
+::: {.callout-tip collapse="true" title="Solução"}
+A resistência assumiu três formas principais: (1) **cotidiana** — sabotagem do trabalho, lentidão proposital, quebra de ferramentas, fugas individuais; (2) **cultural** — recriação de religiões (cultos de matriz africana), músicas, danças e saberes, mantendo viva a identidade que os senhores tentavam apagar; e (3) **aberta/armada** — revoltas, insurreições e, sobretudo, a fuga coletiva para comunidades de libertos (**quilombos** no Brasil, como Palmares; *palenques* na América espanhola), culminando na **Revolução Haitiana** (1791–1804), única revolta de escravizados a fundar um Estado. Estudá-las é importante porque **desfaz** a imagem falsa dos escravizados como vítimas **passivas**, restituindo-lhes o lugar de **sujeitos** históricos — uma exigência, inclusive, das Leis 10.639/2003 e 11.645/2008.
+:::
+
+**5.** O que foi o **Debate de Valladolid**? Qual sua importância e qual sua ironia?
+
+::: {.callout-tip collapse="true" title="Solução"}
+O **Debate de Valladolid** (1550–1551) foi uma controvérsia pública, promovida pela Coroa espanhola, sobre a natureza dos indígenas e a legitimidade de sua sujeição. **Sepúlveda** defendia que os índios seriam **"servos por natureza"** (argumento aristotélico), seres inferiores cuja dominação seria legítima; **Las Casas** sustentava que eram **plenamente humanos**, racionais e **livres**, não podendo ser escravizados. Sua **importância**: mostra que a violência colonial **foi contestada na própria época** e é visto como um marco fundador da reflexão sobre os **direitos humanos**. A **ironia** trágica é que Las Casas, ao defender os indígenas, chegou a **sugerir** substituí-los por africanos escravizados — de que depois se arrependeu —, revelando que a defesa da humanidade de uns **não** incluía, ainda, a de todos.
+:::
+
+**6.** (Estilo ENEM) Leia o texto.
+
+> "São por natureza servos os que se distinguem dos demais tanto quanto o corpo se distingue da alma [...]. Compara agora esses dotes de prudência, engenho, magnanimidade e temperança que têm os espanhóis com os desses homenzinhos [os índios], nos quais mal se encontram vestígios de humanidade." — Juan Ginés de Sepúlveda, séc. XVI
+
+O argumento de Sepúlveda tinha como função
+
+**(a)** defender a liberdade e a igualdade dos povos indígenas.
+**(b)** legitimar a dominação dos indígenas com base em sua suposta inferioridade natural.
+**(c)** criticar a escravização dos africanos.
+**(d)** propor a autonomia política das colônias americanas.
+**(e)** condenar a atuação da Igreja na América.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (b).** Sepúlveda afirma que os índios seriam "**servos por natureza**", inferiores aos espanhóis em prudência, engenho e "humanidade" — argumento que servia para **legitimar** sua dominação e sujeição como algo natural e benéfico.
+
+As demais estão erradas: (a) o defensor da liberdade e igualdade dos índios era **Las Casas**, o adversário de Sepúlveda; (c) o texto não trata dos africanos; (d) não há qualquer defesa de autonomia colonial; (e) o texto não critica a Igreja — ao contrário, justifica a "cristianização" à força.
+:::
+
+**7.** (Estilo vestibular — dissertativa) Discuta a tese de **Eric Williams** sobre a relação entre escravidão e capitalismo, apresentando seus argumentos e as críticas.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Resposta esperada: em *Capitalismo e escravidão*, **Eric Williams** sustentou que (1) os **lucros** do tráfico e da escravidão colonial forneceram parte do **capital** que financiou a **Revolução Industrial** inglesa; e (2) a Inglaterra aboliu a escravidão sobretudo quando esta **deixou de ser lucrativa**, e não por puro humanitarismo. A tese desafiou a narrativa da abolição como fruto do "progresso moral" europeu e mostrou que a escravidão era uma **engrenagem** — e não um atraso — da economia moderna. **Críticas**: alguns historiadores **relativizam** o peso econômico do tráfico na industrialização e reafirmam a importância dos **movimentos abolicionistas** (inclusive da resistência dos próprios escravizados) na abolição; outros atualizam Williams com novos dados sobre a centralidade da escravidão na economia atlântica. Uma boa resposta deve **expor a tese**, situá-la contra a visão idealizada da abolição e incorporar as ressalvas, concluindo que a escravidão foi parte constitutiva — e não externa — do capitalismo comercial e industrial nascente.
+:::
+
+**8.** Por que a historiografia recente afirma que a escravidão moderna foi um fenômeno **moderno**, e não um "resíduo do passado"?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque, ao contrário da visão antiga que a tratava como sobrevivência "arcaica" fadada a desaparecer com o progresso, a escravidão colonial foi profundamente **moderna** em sua lógica: era **organizada e contábil** (os escravizados eram registrados como mercadoria, com preços e balanços), **mercantil** (integrada ao tráfico e aos mercados mundiais), voltada à **produção em larga escala** para exportação (a *plantation*) e **essencial à acumulação de capital** que impulsionou a economia atlântica e a industrialização. Longe de se **opor** ao capitalismo nascente, foi uma de suas **bases**. Reconhecer isso obriga a enxergar o "progresso" europeu e a exploração colonial como partes de um **mesmo** processo histórico — e não como forças contrárias.
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- WILLIAMS, Eric. *Capitalismo e escravidão* [@williams2012]. A tese clássica sobre a ligação entre escravidão, tráfico e industrialização.
+- LAS CASAS, Bartolomé de. *Brevíssima relação da destruição das Índias* [@lasCasas1984]. Fonte primária da defesa dos indígenas — leitura de fundo para o Debate de Valladolid.
+- GALEANO, Eduardo. *As veias abertas da América Latina* [@galeano2010]. Traz páginas marcantes sobre Potosí, a mita e a exploração do trabalho colonial.
+
+**Filmes e documentários**
+
+- *A Missão* (1986), dir. Roland Joffé. Sobre a exploração indígena e a atuação (ambígua) da Igreja nas fronteiras.
+- *12 Anos de Escravidão* (2013), dir. Steve McQueen. Embora ambientado nos EUA do séc. XIX, é uma poderosa representação da escravidão nas Américas e da experiência do cativeiro.
+- Documentários sobre o **tráfico atlântico** e a **Revolução Haitiana**, úteis para dimensionar a escala do tráfico e o alcance da resistência.
