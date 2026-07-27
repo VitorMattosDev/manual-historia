@@ -101,12 +101,12 @@
 
 | # | Capítulo | Arquivo | Status |
 |---|----------|---------|--------|
-| 1 | Povos e civilizações da América: maias, astecas e incas | `capitulos/vol07/cap01-povos-da-america.qmd` | ⬜ |
-| 2 | A conquista da América e o colapso demográfico | `capitulos/vol07/cap02-conquista-da-america.qmd` | ⬜ |
-| 3 | A colonização espanhola | `capitulos/vol07/cap03-colonizacao-espanhola.qmd` | ⬜ |
-| 4 | Trabalho compulsório: encomienda, mita e escravidão | `capitulos/vol07/cap04-trabalho-compulsorio.qmd` | ⬜ |
-| 5 | A colonização inglesa e francesa na América | `capitulos/vol07/cap05-colonizacao-inglesa-francesa.qmd` | ⬜ |
-| 6 | O Antigo Sistema Colonial e o pacto colonial | `capitulos/vol07/cap06-antigo-sistema-colonial.qmd` | ⬜ |
+| 1 | Povos e civilizações da América: maias, astecas e incas | `capitulos/vol07/cap01-povos-da-america.qmd` | ✅ |
+| 2 | A conquista da América e o colapso demográfico | `capitulos/vol07/cap02-conquista-da-america.qmd` | ✅ |
+| 3 | A colonização espanhola | `capitulos/vol07/cap03-colonizacao-espanhola.qmd` | ✅ |
+| 4 | Trabalho compulsório: encomienda, mita e escravidão | `capitulos/vol07/cap04-trabalho-compulsorio.qmd` | ✅ |
+| 5 | A colonização inglesa e francesa na América | `capitulos/vol07/cap05-colonizacao-inglesa-francesa.qmd` | ✅ |
+| 6 | O Antigo Sistema Colonial e o pacto colonial | `capitulos/vol07/cap06-antigo-sistema-colonial.qmd` | ✅ |
 
 ### Volume 8 — Brasil Colônia
 
