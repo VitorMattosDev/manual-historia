@@ -1,5 +1,196 @@
 # Povos e civilizações da América: maias, astecas e incas {#sec-povos-da-america}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Quando os viajantes espanhóis chegaram, em 1519, à capital asteca de **Tenochtitlan**, ficaram sem palavras. Construída sobre uma ilha no meio de um lago, ligada à terra firme por longas pontes, cortada por canais em que deslizavam canoas, com templos-pirâmide que se erguiam acima dos telhados e um mercado onde circulavam dezenas de milhares de pessoas, a cidade tinha mais habitantes do que qualquer capital europeia da época. Um dos conquistadores, Bernal Díaz del Castillo, escreveu que os soldados se perguntavam se aquilo não seria um sonho. A cena desmente de uma vez o velho preconceito de que a América, antes de 1492, seria um continente "vazio", habitado por punhados de povos "primitivos" à espera dos europeus. Ao contrário: quando os europeus chegaram, o continente já era o lar de **milhões de pessoas** e de civilizações complexas, com cidades, escrita, calendários astronômicos, Estados poderosos e formas de organização social tão elaboradas quanto as do Velho Mundo. Este capítulo abre o volume dedicado à América, apresentando os povos que aqui viviam **antes** da conquista — e, sobretudo, as três grandes civilizações que mais impressionaram os invasores: **maias**, **astecas** e **incas**.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- dimensionar a **diversidade** e a densidade populacional da América pré-colombiana, superando o mito do "continente vazio";
+- caracterizar a civilização **maia** (cidades-Estado, escrita, matemática e astronomia);
+- caracterizar o Império **asteca** (Tenochtitlan, tributo, religião e sociedade);
+- caracterizar o Império **inca** (o Tawantinsuyu, o Estado redistributivo, os *quipus* e a engenharia andina);
+- discutir o debate historiográfico sobre a **população** da América em 1492 e sobre como interpretar essas sociedades sem anacronismo.
 :::
+
+## Um continente povoado e diverso {#sec-continente-povoado}
+
+Antes de falar dos três grandes impérios, é preciso desfazer um mito. Durante séculos, a historiografia europeia tratou a América pré-colombiana como um espaço quase vazio, habitado por povos "sem história". Hoje sabemos que isso é falso. As estimativas mais aceitas indicam que, em **1492**, viviam nas Américas entre **50 e 100 milhões de pessoas** — uma população comparável à da Europa da época — distribuídas em **milhares** de povos, com centenas de línguas e níveis de organização muito variados.
+
+Havia desde povos **caçadores-coletores** e agricultores em aldeias (como a maioria dos povos da América do Norte e das terras baixas sul-americanas, incluindo os que habitavam o atual Brasil — @sec-pre-historia-brasil-america) até **civilizações urbanas e imperiais** de enorme complexidade. Essas civilizações mais densas concentraram-se em duas grandes áreas culturais (@fig-areas-culturais): a **Mesoamérica** (o atual México e a América Central), berço de olmecas, maias e astecas, entre outros; e a região **andina** (a cordilheira dos Andes, na América do Sul), onde floresceram culturas como Chavín, Nazca, Moche, Tiahuanaco e, por fim, o Império Inca. Nas duas áreas, a base foi a **agricultura**: o **milho** na Mesoamérica, a **batata** e o milho nos Andes — alimentos que sustentaram populações numerosas e permitiram a formação de Estados.
+
+::: {#fig-areas-culturais}
+
+```{.tikz}
+%%| filename: fig-areas-culturais
+%%| alt: Mapa esquemático das Américas mostrando a Mesoamérica (maias e astecas) e a região andina (incas).
+\begin{tikzpicture}[>=stealth]
+  % contorno esquemático do continente
+  \draw[manualgray, thick, rounded corners] (0,4) -- (1.6,4) -- (1.4,2) -- (2.4,0.4) -- (2.0,-1.2) -- (1.4,-3.6) -- (0.6,-3.6) -- (0.9,-1.2) -- (0.2,0.4) -- (-0.4,1.6) -- (-0.2,4) -- cycle;
+  \node[font=\scriptsize\itshape, text=manualgray] at (-0.1,3.4) {América\\ do Norte};
+  \node[font=\scriptsize\itshape, text=manualgray] at (1.2,-2.6) {América\\ do Sul};
+  % Mesoamérica
+  \node[draw, fill=manualred!18, rounded corners, align=center, font=\scriptsize, text width=2.6cm] (meso) at (-3.4,1.2) {\textbf{MESOAMÉRICA}\\ maias, astecas\\ (México e Am. Central)\\ base: \textbf{milho}};
+  \draw[vetor, manualred] (meso.east) to[bend left=10] (0.6,1.0);
+  % Andes
+  \node[draw, fill=manualblue!16, rounded corners, align=center, font=\scriptsize, text width=2.6cm] (andes) at (-3.4,-2.0) {\textbf{ANDES}\\ incas\\ (cordilheira andina)\\ base: \textbf{batata} e milho};
+  \draw[vetor, manualblue] (andes.east) to[bend right=10] (0.9,-1.4);
+\end{tikzpicture}
+```
+
+As duas grandes áreas das civilizações americanas: a **Mesoamérica** (maias e astecas) e os **Andes** (incas). Mapa esquemático, sem precisão cartográfica.
+:::
+
+::: {.callout-important title="Armadilha: nem \"selvagens\", nem um bloco único"}
+Dois erros opostos devem ser evitados. O primeiro é o velho preconceito colonial que via os povos americanos como "**selvagens**" sem cultura — desmentido pela arqueologia. O segundo, mais sutil, é tratar "os índios" como um **bloco homogêneo**: falar em "cultura indígena" no singular apaga uma diversidade imensa. Um asteca urbano e um caçador da Amazônia eram tão diferentes entre si quanto um europeu e um mongol. Além disso, cuidado com o **anacronismo**: os termos "índio" e "indígena" foram criados **pelos europeus** (Colombo pensava ter chegado às Índias); os próprios povos se identificavam por seus nomes específicos — mexicas, quíchuas, tupinambás.
+:::
+
+## Os maias: cidades-Estado da floresta {#sec-maias}
+
+A civilização **maia** desenvolveu-se na região que hoje corresponde ao sul do México, à Guatemala, a Belize e a Honduras, numa longa trajetória que atravessou séculos. Seu período de maior esplendor, o chamado **período clássico**, ocorreu entre cerca de **250 e 900 d.C.** — portanto, na mesma época em que a Europa vivia o início da Idade Média. Depois disso, por razões ainda debatidas (guerras, secas, esgotamento do solo, revoltas), as grandes cidades do sul foram **abandonadas**, embora os maias jamais tenham desaparecido: seus descendentes vivem até hoje, aos milhões, na América Central.
+
+Diferentemente dos astecas e incas, os maias **nunca formaram um império unificado**. Organizavam-se em dezenas de **cidades-Estado** independentes e frequentemente rivais — como **Tikal**, **Palenque** e **Copán** —, cada uma governada por um rei sagrado e cercada por aldeias agrícolas. Nesse aspecto, lembram as *pólis* gregas (@sec-grecia-polis-democracia): uma mesma cultura repartida em unidades políticas autônomas.
+
+O que mais impressiona na cultura maia é o **conhecimento intelectual**. Os maias desenvolveram o sistema de **escrita** mais completo das Américas — uma escrita **hieroglífica**, em parte fonética, hoje amplamente decifrada, que registrava a história de seus reis em estelas de pedra. Na **matemática**, usavam um sistema de numeração de base 20 e, notavelmente, conheciam o conceito de **zero** — muito antes de ele chegar à Europa. E foram astrônomos extraordinários: observando os céus a olho nu, calcularam a duração do ano solar com precisão espantosa e criaram **calendários** que previam eclipses e os movimentos de Vênus.
+
+::: {.callout-note title="Conceito-chave: o calendário maia"}
+Os maias usavam calendários combinados: um **ciclo ritual** de 260 dias e um **calendário solar** de 365 dias, que se encaixavam num grande ciclo. Havia ainda a **"Conta Longa"**, que media o tempo desde uma data mítica de criação. Foi o fim de um desses grandes ciclos, em **2012**, que gerou o boato — sem qualquer base — de que os maias teriam "previsto o fim do mundo". Não previram: para eles, o fim de um ciclo era apenas o **começo de outro**, como a virada de um milênio para nós. O episódio é um bom exemplo de como o passado é frequentemente **distorcido** pela cultura popular.
+:::
+
+## Os astecas: o império do Vale do México {#sec-astecas}
+
+Os **astecas** — que a si mesmos chamavam **mexicas** — chegaram tarde ao Vale do México. Segundo sua própria tradição, eram um povo migrante e guerreiro que, orientado por um oráculo, fundou sua capital, **Tenochtitlan**, por volta de **1325**, sobre uma ilha do lago Texcoco (no local da atual Cidade do México). Em menos de dois séculos, transformaram-se de mercenários pobres na **potência dominante** da Mesoamérica.
+
+O poder asteca baseava-se na **guerra** e no **tributo**. Aliados a outras duas cidades na chamada Tríplice Aliança, os mexicas submeteram dezenas de povos vizinhos, que eram obrigados a pagar **tributos** regulares — alimentos, tecidos, produtos de luxo, vítimas para os sacrifícios. Note-se que os astecas geralmente **não** ocupavam nem administravam diretamente os povos vencidos: deixavam-nos governar-se, desde que pagassem. Isso os tornava poderosos, mas também **frágeis** — muitos povos submetidos odiavam os mexicas e, mais tarde, aliar-se-iam aos espanhóis contra eles (@sec-conquista-da-america).
+
+A sociedade asteca era fortemente **hierarquizada** (@fig-sociedade-asteca). No topo, o **tlatoani** (o "imperador", como Montezuma II), a nobreza e o sacerdócio; abaixo, os guerreiros, os comerciantes (*pochteca*) e os artesãos; na base, a massa de camponeses livres, organizados em clãs familiares (os *calpulli*), e, no degrau mais baixo, os escravos. A **religião** era o centro da vida: os astecas acreditavam que o Sol precisava ser alimentado com **sangue humano** para continuar nascendo, o que justificava os **sacrifícios humanos** em grande escala — tema que os espanhóis usariam para apresentar sua conquista como uma obra "civilizadora".
+
+::: {#fig-sociedade-asteca}
+
+```{.tikz}
+%%| filename: fig-sociedade-asteca
+%%| alt: Pirâmide social asteca, do tlatoani e da nobreza no topo aos camponeses e escravos na base.
+\begin{tikzpicture}
+  \draw[manualgray, thick] (-4,0) -- (4,0) -- (0,5) -- cycle;
+  \draw[manualgray] (-3.2,1) -- (3.2,1);
+  \draw[manualgray] (-2.4,2) -- (2.4,2);
+  \draw[manualgray] (-1.2,3.5) -- (1.2,3.5);
+  \node[font=\scriptsize\bfseries] at (0,4.1) {Tlatoani};
+  \node[font=\scriptsize, text width=3cm, align=center] at (0,2.6) {nobreza e\\ sacerdócio};
+  \node[font=\scriptsize, text width=4.5cm, align=center] at (0,1.4) {guerreiros, comerciantes (\emph{pochteca}), artesãos};
+  \node[font=\scriptsize, text width=6cm, align=center] at (0,0.45) {camponeses livres (\emph{calpulli}) e escravos};
+\end{tikzpicture}
+```
+
+A sociedade asteca era rígida e hierárquica, com o *tlatoani* e o sacerdócio no topo e a massa camponesa na base.
+:::
+
+## Os incas: o Tawantinsuyu {#sec-incas}
+
+Enquanto os astecas dominavam a Mesoamérica, do outro lado do continente, ao longo da **cordilheira dos Andes**, erguia-se o maior império das Américas: o dos **incas**. Eles o chamavam **Tawantinsuyu**, "as quatro partes do mundo". A partir de sua capital, **Cusco**, e sobretudo durante o século XV, os incas conquistaram um território imenso, que se estendia por mais de 4.000 km — do atual sul da Colômbia até o Chile e a Argentina, passando por Equador, Peru e Bolívia —, unificando dezenas de povos sob um só poder.
+
+O que distingue o Império Inca é a natureza de seu **Estado**. Enquanto os astecas se contentavam em cobrar tributos, os incas construíram um Estado **centralizado, planejador e redistributivo**. No topo estava o **Sapa Inca**, considerado filho do deus Sol (Inti) e senhor absoluto de todas as terras. O trabalho era organizado por uma obrigação chamada **mita**: cada comunidade (o *ayllu*, o clã de base) devia ao Estado certo número de dias de trabalho — nas terras do Inca, nas minas, nas estradas ou no exército. Em troca, o Estado **armazenava** alimentos em grandes depósitos e os **redistribuía** em tempos de fome ou necessidade. Não havia, propriamente, comércio nem moeda: era uma economia comandada de cima.
+
+Para administrar esse território gigantesco e montanhoso, os incas foram **engenheiros** notáveis. Construíram uma rede de **estradas** (o *Qhapaq Ñan*) de milhares de quilômetros, com pontes suspensas e postos de descanso, percorrida por mensageiros velozes (os *chasquis*). Ergueram cidades e fortalezas de pedra encaixada com precisão espantosa — como **Machu Picchu** — e sistemas de **terraços** agrícolas que venciam as encostas íngremes. E tudo isso **sem escrita alfabética**: para registrar dados, contas e censos, usavam os **quipus**, cordões de nós coloridos cuja leitura ainda hoje intriga os pesquisadores.
+
+::: {.callout-tip title="Dica de prova: asteca × inca em uma frase"}
+Uma comparação frequente em vestibulares: os **astecas** montaram um império **tributário** (cobravam tributos dos povos submetidos, sem administrá-los), com capital em **Tenochtitlan**; os **incas** montaram um Estado **centralizado e redistributivo** (organizavam o trabalho pela *mita* e redistribuíam alimentos), com capital em **Cusco**. Astecas → tributo; incas → redistribuição. E lembre: **maias** = cidades-Estado independentes, não um império.
+:::
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+**Quantos eram? O debate demográfico.** Talvez nenhuma questão sobre a América pré-colombiana seja tão debatida quanto o **tamanho** de sua população em 1492 — e ela está longe de ser um mero detalhe estatístico. Durante muito tempo, historiadores europeus e norte-americanos trabalharam com números **baixíssimos**, da ordem de 8 a 15 milhões de habitantes para todo o continente. A partir dos anos 1960, porém, a chamada **Escola de Berkeley** (com Sherburne Cook e Woodrow Borah), reestudando registros de tributo e batismo, propôs números **muito mais altos** — dezenas de milhões só no México. Autores como **Charles Mann**, em *1491* [@mann2007], divulgaram essa revisão para o grande público. A disputa é acalorada porque as cifras não são neutras: números **baixos** tendem a minimizar a catástrofe demográfica da conquista (@sec-conquista-da-america) e a fazer a América parecer "vazia" e disponível; números **altos** revelam a dimensão de uma das maiores mortandades da história humana. Contar os mortos é, aqui, uma forma de disputar o **significado** da conquista.
+
+**Como interpretar essas sociedades?** Um segundo debate é **metodológico**. Quase tudo o que sabemos sobre astecas e incas foi filtrado por fontes **europeias** — crônicas de conquistadores e missionários — ou por relatos indígenas registrados **já depois** da conquista, quando o mundo antigo havia ruído. Como enxergar essas civilizações **por elas mesmas**? O historiador mexicano **Miguel León-Portilla**, em *A Visão dos Vencidos* [@leonPortilla1985], foi pioneiro ao reunir e valorizar os relatos indígenas da conquista, mostrando que existe uma outra versão da história, contada pelos derrotados. Outros pesquisadores alertam para um risco oposto: o de **idealizar** as civilizações americanas, transformando-as em utopias sem violência nem desigualdade — quando astecas e incas eram, também eles, Estados **conquistadores** que dominavam outros povos.
+
+::: {.callout-warning title="Controvérsia: os sacrifícios humanos"}
+Os **sacrifícios humanos** astecas são um campo minado. Por muito tempo, os europeus os exageraram para justificar a conquista ("libertamos os povos de uma religião sanguinária"). Em reação, alguns autores tenderam a **minimizá-los** ou a explicá-los apenas como propaganda espanhola. A historiografia atual busca um caminho intermediário: os sacrifícios **existiram** e eram centrais na religião mexica, mas devem ser **compreendidos** em seu próprio contexto cosmológico — a crença de que o cosmos precisava ser mantido pelo sangue —, e **não** julgados pelos valores do presente nem usados para legitimar a violência da própria conquista, que fez muito mais vítimas. É um exercício clássico de evitar o **anacronismo**.
+:::
+
+## Resumo do capítulo {#sec-resumo}
+
+- Em **1492**, a América não era um "continente vazio": abrigava entre **50 e 100 milhões** de pessoas, em milhares de povos e centenas de línguas, do caçador-coletor às grandes civilizações urbanas.
+- As civilizações mais complexas concentraram-se em duas áreas: a **Mesoamérica** (maias e astecas; base agrícola no **milho**) e os **Andes** (incas; base na **batata** e no milho).
+- **Maias** (auge clássico c. 250–900 d.C.): **cidades-Estado** independentes (Tikal, Palenque, Copán), sem império unificado; **escrita** hieroglífica, **matemática** com o **zero** e **astronomia**/calendários de altíssima precisão.
+- **Astecas** (mexicas): império **tributário** com capital em **Tenochtitlan** (fundada c. 1325); Tríplice Aliança; sociedade hierárquica (*tlatoani*, nobreza, *calpulli*, escravos); religião com **sacrifícios humanos**. A dependência do tributo e o ódio dos povos submetidos os enfraqueceram.
+- **Incas** (Tawantinsuyu, "as quatro partes"): Estado **centralizado e redistributivo** com capital em **Cusco**; **Sapa Inca** filho do Sol; trabalho pela **mita** e redistribuição por armazéns; engenharia notável (estradas, Machu Picchu, terraços); registros por **quipus**, sem escrita alfabética.
+- Historiografia: o **debate demográfico** (números baixos × altos e o que está em jogo neles); a dificuldade de conhecer essas sociedades por fontes europeias (**León-Portilla** e a "visão dos vencidos"); e o cuidado de **não idealizar** nem julgar com anacronismo (sacrifícios humanos).
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Garanta três pontos: (1) o quadro comparativo **maias × astecas × incas** (organização política e econômica de cada um); (2) o **mito do continente vazio** e o debate demográfico; (3) o cuidado interpretativo — nem "selvagens", nem utopias idealizadas.
+:::
+
+**1.** Explique por que a expressão "continente vazio" é considerada um **mito** pela historiografia atual.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque, quando os europeus chegaram, em 1492, a América já era **densamente povoada**: as estimativas mais aceitas falam em **50 a 100 milhões** de habitantes — população comparável à da Europa —, distribuídos em **milhares de povos**, com centenas de línguas e níveis variados de organização, do caçador-coletor a **civilizações urbanas e imperiais** (maias, astecas, incas) com cidades maiores que as europeias, escrita, astronomia e Estados poderosos. A ideia de "continente vazio" foi uma **construção europeia** que servia para justificar a ocupação e minimizar a destruição de suas populações. A arqueologia e a revisão demográfica desmentem esse mito.
+:::
+
+**2.** Diferencie a organização política dos **maias** da dos **astecas** e **incas**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Os **maias** **não** formaram um império unificado: organizavam-se em dezenas de **cidades-Estado independentes** e rivais (Tikal, Palenque, Copán), cada uma com seu rei sagrado — de modo semelhante às *pólis* gregas. Já **astecas** e **incas** formaram **impérios** que unificaram muitos povos sob um só poder: os astecas, um império **tributário** centrado em Tenochtitlan; os incas, um Estado **centralizado** (o Tawantinsuyu) a partir de Cusco. Em resumo: maias = cidades-Estado; astecas e incas = impérios (mas de tipos diferentes entre si).
+:::
+
+**3.** Caracterize o Estado inca e o conceito de **mita**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+O Império Inca (**Tawantinsuyu**) era um Estado **centralizado, planejador e redistributivo**, chefiado pelo **Sapa Inca**, tido como filho do Sol e dono de todas as terras. Sua base de trabalho era a **mita**: cada comunidade (*ayllu*) devia ao Estado um número de dias de **trabalho** — nas terras do Inca, nas minas, nas estradas ou no exército. Em troca, o Estado **armazenava e redistribuía** alimentos em tempos de necessidade, sem que houvesse propriamente comércio ou moeda. Somam-se a isso a engenharia (estradas, terraços, Machu Picchu) e o registro por **quipus** (cordões de nós), já que não havia escrita alfabética. (Atenção: a *mita* inca será depois **reaproveitada e deturpada** pelos espanhóis como forma de trabalho forçado — @sec-trabalho-compulsorio.)
+:::
+
+**4.** Por que se pode dizer que o poder asteca era, ao mesmo tempo, **forte e frágil**?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Era **forte** porque, pela guerra e pela Tríplice Aliança, os astecas dominavam dezenas de povos e deles extraíam **tributos** abundantes, sustentando uma capital grandiosa (Tenochtitlan) e uma sociedade rica e hierarquizada. Mas era **frágil** porque esse domínio era **apenas tributário**: os astecas geralmente não ocupavam nem administravam os povos vencidos, apenas exigiam pagamentos e vítimas para sacrifício. Isso gerava **ódio** entre os povos submetidos, que não tinham lealdade ao império. Essa fragilidade seria decisiva: na conquista, muitos desses povos se **aliaram aos espanhóis** contra os mexicas (@sec-conquista-da-america).
+:::
+
+**5.** Explique o significado dos avanços **intelectuais** dos maias (escrita, matemática, astronomia).
+
+::: {.callout-tip collapse="true" title="Solução"}
+Os maias desenvolveram a **escrita** mais completa das Américas — hieroglífica e em parte fonética, hoje bastante decifrada —, com a qual registravam a história de seus reis. Na **matemática**, tinham um sistema de base 20 e conheciam o conceito de **zero**, antes de ele chegar à Europa. E foram **astrônomos** excepcionais: calcularam o ano solar com grande precisão e criaram calendários que previam eclipses e os movimentos de Vênus. Esses avanços têm um significado importante: **desmentem** o preconceito de que os povos americanos seriam "primitivos" e mostram que desenvolveram, de forma **autônoma**, conhecimentos comparáveis aos das grandes civilizações do Velho Mundo.
+:::
+
+**6.** (Estilo ENEM) Leia o texto.
+
+> "Chegamos a uma calçada larga e seguimos em direção à grande cidade de Tenochtitlan. [...] Ficamos admirados e dizíamos que aquilo parecia as coisas encantadas [...]; por causa das grandes torres e templos e edifícios que havia dentro da água, e todos de pedra. Alguns de nossos soldados perguntavam se aquilo que víamos não era um sonho." — Bernal Díaz del Castillo, *História verdadeira da conquista da Nova Espanha* (séc. XVI)
+
+O espanto do cronista diante de Tenochtitlan permite concluir que
+
+**(a)** as cidades americanas eram tecnicamente inferiores às europeias.
+**(b)** a América pré-colombiana abrigava civilizações urbanas complexas e populosas.
+**(c)** os astecas viviam de forma nômade, sem construções permanentes.
+**(d)** a arquitetura asteca copiava modelos trazidos da Europa.
+**(e)** o Vale do México era uma região praticamente despovoada.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (b).** O relato descreve uma **grande cidade** com calçadas, torres, templos e edifícios de pedra erguidos sobre a água, tão impressionante que os soldados a comparam a um sonho — testemunho direto de que a América pré-colombiana abrigava **civilizações urbanas complexas e populosas** (Tenochtitlan tinha mais habitantes que as capitais europeias da época).
+
+As demais estão erradas: (a) e (d) o espanto vem justamente da **grandeza e originalidade** da cidade, não de inferioridade ou cópia; (c) uma cidade de pedra sobre um lago é o oposto do nomadismo; (e) o texto descreve uma cidade populosa, não um vazio.
+:::
+
+**7.** (Estilo vestibular — dissertativa) Explique o **debate demográfico** sobre a população da América em 1492 e por que ele não é uma questão meramente numérica.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Resposta esperada: por muito tempo prevaleceram estimativas **baixas** (8 a 15 milhões para todo o continente); a partir dos anos 1960, a **Escola de Berkeley** (Cook e Borah) e depois autores como **Charles Mann** (*1491*) defenderam números **muito mais altos** (50 a 100 milhões), com base na reanálise de registros de tributo e batismo. A questão **não é neutra** porque as cifras carregam interpretações: números **baixos** minimizam a catástrofe da conquista e reforçam a imagem de um continente "vazio" e disponível para ocupação; números **altos** revelam a enormidade da **mortandade** provocada pela conquista e pelas epidemias (@sec-conquista-da-america) e afirmam a densidade das sociedades destruídas. Uma boa resposta deve apresentar as **duas posições**, indicar a tendência atual de aceitar números altos e, sobretudo, explicar o que está **em jogo** politicamente na contagem.
+:::
+
+**8.** Por que a historiografia recomenda **cautela** tanto ao condenar quanto ao idealizar as civilizações americanas?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque os dois extremos distorcem a história. **Condenar** essas civilizações — por exemplo, tratando os sacrifícios humanos astecas como prova de "barbárie" — costuma reproduzir o **discurso dos conquistadores**, que usavam esse argumento para justificar a violência da conquista (que fez muito mais vítimas); além disso, é **anacrônico**, pois julga o passado pelos valores do presente, ignorando o contexto cosmológico dessas práticas. Por outro lado, **idealizar** essas sociedades, transformando-as em utopias pacíficas e igualitárias, também falseia a realidade: astecas e incas eram Estados **conquistadores e desiguais**, que dominavam e exploravam outros povos. O caminho historiográfico correto é **compreender** essas sociedades em seus próprios termos, reconhecendo tanto suas realizações quanto suas hierarquias e violências, sem projetar sobre elas nem o preconceito colonial nem uma nostalgia idealizada.
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- MANN, Charles C. *1491: novas revelações das Américas antes de Colombo* [@mann2007]. Síntese acessível e atualizada sobre a densidade e a complexidade das sociedades pré-colombianas.
+- LEÓN-PORTILLA, Miguel. *A Visão dos Vencidos* [@leonPortilla1985]. Reúne relatos indígenas sobre o mundo pré-hispânico e a conquista — a história contada pelo outro lado.
+- TODOROV, Tzvetan. *A conquista da América: a questão do outro* [@todorov2019]. Reflexão sobre o encontro entre europeus e americanos (essencial também para o próximo capítulo).
+
+**Filmes e documentários**
+
+- *Apocalypto* (2006), dir. Mel Gibson. Ambientado no mundo maia tardio — visualmente impressionante, mas repleto de licenças e exageros; ótimo para exercitar a **crítica** de fontes fílmicas.
+- *Os Filhos do Sol* (série documental) e reconstituições sobre Machu Picchu e o Império Inca, úteis para visualizar a engenharia andina.
+- *Tenochtitlan* (documentários de reconstituição digital), que recriam a capital asteca antes da conquista.
