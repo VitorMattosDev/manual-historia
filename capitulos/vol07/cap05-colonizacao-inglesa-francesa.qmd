@@ -1,5 +1,190 @@
 # A colonização inglesa e francesa na América {#sec-colonizacao-inglesa-francesa}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Em novembro de 1620, um pequeno navio chamado *Mayflower* aportou na costa gelada do que hoje é Massachusetts, no nordeste da América do Norte. A bordo, cerca de cem colonos ingleses — muitos deles **puritanos** fugindo da perseguição religiosa — vinham não em busca de ouro, mas de um lugar para **viver, rezar e trabalhar** à sua maneira. Antes de desembarcar, redigiram um acordo, o **Pacto do Mayflower**, em que se comprometiam a se **autogovernar** por leis feitas por eles próprios. A cena não poderia ser mais diferente da chegada de Cortés ao México, um século antes, sedento de prata e glória. Essa diferença não é um detalhe: ela aponta para dois **modelos** distintos de colonizar a América — e ajuda a entender por que, séculos depois, o norte e o sul do continente seguiriam caminhos tão diversos. Este capítulo estuda a colonização **inglesa** e **francesa** na América, comparando-a com a ibérica e distinguindo, dentro dela, dois tipos de colônia que marcariam o futuro dos Estados Unidos.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- explicar por que Inglaterra, França e Holanda chegaram **mais tarde** à colonização da América;
+- distinguir as **colônias de povoamento** das **colônias de exploração**;
+- caracterizar as **Treze Colônias** inglesas (Nova Inglaterra, colônias do centro e do sul);
+- descrever a colonização **francesa** (Nova França) e a **holandesa**, e o papel do comércio de peles;
+- discutir o debate historiográfico sobre a dicotomia povoamento × exploração e suas limitações.
 :::
+
+## Os retardatários: por que chegaram depois {#sec-retardatarios}
+
+Enquanto Espanha e Portugal repartiam e exploravam a América desde o fim do século XV (@sec-conquista-da-america), as demais potências europeias — **Inglaterra**, **França** e **Holanda** — ficaram, por décadas, à margem do banquete colonial. Só a partir do início do **século XVII** é que passaram a estabelecer colônias **permanentes** no continente. Por quê?
+
+A razão é dupla. Primeiro, o **Tratado de Tordesilhas** (@sec-conquista-da-america) e o poderio ibérico haviam, na prática, "reservado" a América às duas coroas católicas, que não admitiam concorrentes. Segundo, ao longo do século XVI, Inglaterra e França estiveram absorvidas por **conflitos internos** — as guerras religiosas entre católicos e protestantes que se seguiram à **Reforma** (@sec-reforma-contrarreforma) e os processos de consolidação de suas monarquias. Enquanto isso, agiram de forma **indireta**: financiando a **pirataria** e o **corso** (como o inglês Francis Drake) para saquear os galeões espanhóis carregados de prata. Só depois, com suas monarquias mais firmes e o poderio espanhol em declínio (a derrota da *Invencível Armada* em 1588 foi um marco), lançaram-se à colonização direta — e o fizeram segundo uma lógica bem diferente da ibérica.
+
+::: {.callout-note title="Conceito-chave: dois tipos de colônia"}
+A historiografia clássica distingue dois grandes **tipos** de colônia (@fig-tipos-colonia):
+
+- **Colônia de exploração**: voltada para **fora**, para o mercado externo. Produz gêneros tropicais ou metais preciosos (açúcar, prata, tabaco) para **exportar à metrópole**, sob **monopólio** (pacto colonial), com base no **trabalho compulsório** (escravidão) e em **grandes propriedades**. É o modelo ibérico e o das colônias inglesas do **sul**.
+- **Colônia de povoamento**: voltada para **dentro**, para o mercado interno. Nasce do **assentamento** de famílias que vêm **morar e produzir** (agricultura de alimentos, pequeno comércio, manufaturas), com **pequenas propriedades**, **trabalho livre** e maior **autonomia** em relação à metrópole. É o modelo das colônias inglesas do **norte** (Nova Inglaterra).
+
+Esse par de conceitos é uma das ferramentas mais cobradas em provas — mas, como veremos na seção historiográfica, deve ser usado com cuidado.
+:::
+
+::: {#fig-tipos-colonia}
+
+```{.tikz}
+%%| filename: fig-tipos-colonia
+%%| alt: Diagrama comparativo entre colônia de exploração e colônia de povoamento.
+\begin{tikzpicture}[>=stealth]
+  \node[draw, very thick, rounded corners, fill=manualred!14, align=left, font=\scriptsize, text width=4.6cm, minimum height=3cm] (e) at (-3.4,0)
+    {\textbf{COLÔNIA DE EXPLORAÇÃO}\\[3pt] voltada ao \textbf{mercado externo}\\ gêneros tropicais / metais (exportação)\\ \textbf{monopólio} (pacto colonial)\\ \textbf{trabalho escravo}\\ grande propriedade\\[2pt] \emph{ibéricas; sul das Treze Colônias}};
+  \node[draw, very thick, rounded corners, fill=manualgreen!14, align=left, font=\scriptsize, text width=4.6cm, minimum height=3cm] (p) at (3.4,0)
+    {\textbf{COLÔNIA DE POVOAMENTO}\\[3pt] voltada ao \textbf{mercado interno}\\ agricultura de alimentos, comércio\\ maior \textbf{autonomia}\\ \textbf{trabalho livre}\\ pequena propriedade\\[2pt] \emph{Nova Inglaterra (norte)}};
+\end{tikzpicture}
+```
+
+Os dois modelos de colônia. A América inglesa abrigou os **dois** — e o contraste entre norte e sul marcaria a história dos futuros Estados Unidos.
+:::
+
+## As Treze Colônias inglesas {#sec-treze-colonias}
+
+A colonização inglesa na costa atlântica da América do Norte deu origem, ao longo do século XVII e início do XVIII, às chamadas **Treze Colônias** — que, mais tarde, se tornariam os **Estados Unidos** (@sec-independencia-eua). O traço mais marcante dessa colonização é sua **diversidade interna**: as colônias não seguiram um modelo único, mas se dividiram, grosso modo, em três regiões bem distintas (@fig-treze-colonias).
+
+Ao **norte**, na **Nova Inglaterra** (Massachusetts, Connecticut, etc.), instalaram-se sobretudo colonos de povoamento, muitos deles **dissidentes religiosos** (puritanos, como os do *Mayflower*), fugindo da perseguição na Inglaterra. Ali o clima frio e o solo pobre não favoreciam grandes plantações; formaram-se **pequenas propriedades** familiares, com agricultura de subsistência, pesca, comércio, artesanato e, com o tempo, manufaturas. A vida organizava-se em torno de **cidades autônomas**, com forte autogoverno local e um notável valor atribuído à **educação** e à religião.
+
+Ao **sul** (Virgínia, Carolinas, Geórgia), ao contrário, o clima quente e as terras férteis favoreceram um modelo de **exploração**: grandes **plantations** que produziam **tabaco**, arroz e, mais tarde, algodão, para **exportação**, com base no **trabalho escravo africano** — um sistema muito parecido com o do Brasil e o do Caribe. As colônias do **centro** (Nova York — antiga colônia holandesa —, Pensilvânia) tinham um caráter **misto**, com agricultura diversificada, comércio ativo e grande diversidade religiosa e étnica. Essa **dualidade** entre um norte de povoamento e trabalho livre e um sul escravista e agroexportador atravessaria toda a história dos Estados Unidos e culminaria, no século XIX, na **Guerra Civil** (@sec-eua-seculo-xix).
+
+::: {#fig-treze-colonias}
+
+```{.tikz}
+%%| filename: fig-treze-colonias
+%%| alt: Mapa esquemático das três regiões das Treze Colônias inglesas na América do Norte.
+\begin{tikzpicture}[>=stealth]
+  \draw[manualgray, thick] (0,4.6) -- (1.4,4.4) -- (1.9,2.6) -- (2.4,0.6) -- (2.0,-1.4) -- (0.2,-1.6) -- (0.1,0.6) -- (-0.3,2.6) -- (-0.2,4.4) -- cycle;
+  \node[font=\scriptsize\itshape, text=manualgray] at (3.4,3.6) {Oceano\\ Atlântico};
+  % norte
+  \node[draw, fill=manualgreen!18, rounded corners, font=\scriptsize, align=center, text width=2.7cm] (n) at (-3.4,3.4) {\textbf{NORTE}\\ Nova Inglaterra: povoamento, trabalho livre, cidades};
+  \draw[vetor, manualgreen] (n.east) to[bend left=8] (0.6,3.4);
+  % centro
+  \node[draw, fill=manualyellow!22, rounded corners, font=\scriptsize, align=center, text width=2.7cm] (c) at (-3.4,1.0) {\textbf{CENTRO}\\ colônias mistas (NY, Pensilvânia)};
+  \draw[vetor, manualyellow!80!black] (c.east) to[bend left=4] (0.8,1.2);
+  % sul
+  \node[draw, fill=manualred!16, rounded corners, font=\scriptsize, align=center, text width=2.7cm] (s) at (-3.4,-1.2) {\textbf{SUL}\\ plantations, tabaco/algodão, escravidão};
+  \draw[vetor, manualred] (s.east) to[bend right=8] (0.9,-0.8);
+\end{tikzpicture}
+```
+
+As três regiões das Treze Colônias. Mapa esquemático, sem precisão cartográfica.
+:::
+
+::: {.callout-important title="Armadilha: a colonização inglesa não foi só de povoamento"}
+Um erro muito comum é dizer que "a colonização inglesa foi de povoamento e a ibérica de exploração", como se fossem opostos limpos. **Cuidado**: a América inglesa abrigou os **dois** modelos ao mesmo tempo — o **norte** de povoamento **e** o **sul** de exploração, escravista e agroexportador (tão baseado no trabalho escravo quanto o Brasil). Da mesma forma, houve povoamento em partes da América ibérica. A distinção povoamento × exploração é útil, mas **não** coincide simplesmente com "inglês × ibérico". Quem faz essa equação apressada erra.
+:::
+
+## Nova França e Nova Holanda {#sec-franca-holanda}
+
+A **França** também construiu um império na América do Norte, a **Nova França**, mas de um tipo peculiar. Concentrada no vale do rio **São Lourenço** (fundação de **Quebec**, 1608) e depois numa vasta faixa que descia pelos Grandes Lagos até a **Louisiana** (na foz do rio Mississippi), a colonização francesa foi marcada por uma **baixa densidade populacional**: vieram poucos colonos. Sua base econômica não era a plantation, mas o **comércio de peles** (sobretudo de castor, muito valorizadas na Europa para a fabricação de chapéus). Isso deu à colonização francesa uma característica notável: em vez de expulsar ou escravizar os indígenas, os franceses precisavam **cooperar** com eles, pois eram os povos nativos que caçavam e forneciam as peles. Estabeleceram-se, assim, extensas **redes de aliança, comércio e casamentos** com nações indígenas — o que não impediu conflitos, mas gerou um padrão de relação diferente do inglês.
+
+A **Holanda** (Províncias Unidas), grande potência comercial e marítima do século XVII, também disputou seu quinhão. Fundou a colônia da **Nova Holanda**, cujo centro era **Nova Amsterdã** (na ilha de Manhattan), estrategicamente voltada para o comércio. Em 1664, porém, os ingleses a tomaram e a rebatizaram de **Nova York**. Os holandeses tiveram atuação colonial mais duradoura em outras frentes — no comércio, no tráfico de escravos e, como veremos, também no Brasil, onde ocuparam Pernambuco (@sec-administracao-uniao-iberica-invasoes). No fim, a longa **rivalidade** entre França e Inglaterra pela América do Norte terminaria em favor dos ingleses: após a **Guerra dos Sete Anos** (1756–1763), a França perderia o Canadá e suas possessões a leste do Mississippi para a Inglaterra — um desfecho que, ironicamente, ajudaria a preparar a independência dos Estados Unidos.
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+**A dicotomia povoamento × exploração: útil, mas limitada.** Os conceitos de "colônia de povoamento" e "colônia de exploração" foram consagrados na historiografia — em parte por sua **força explicativa** e em parte por seu **apelo ideológico**. Durante muito tempo, sobretudo em versões escolares, eles foram usados para explicar o **contraste de desenvolvimento** entre a próspera América do Norte e a América Latina "atrasada": o Norte teria prosperado por ter sido colonizado por famílias livres, trabalhadoras e autônomas (povoamento), enquanto o Sul teria estagnado por ter sido colonizado para pura exploração, com escravidão e monopólio. Essa narrativa, de fundo por vezes **determinista**, atribui o destino dos países quase inteiramente ao "tipo" de colonização.
+
+**A crítica dos historiadores.** A historiografia recente **problematiza** fortemente essa leitura, por várias razões. Primeiro, como vimos, a própria América inglesa **combinava** os dois modelos: o **Sul escravista** era tão "de exploração" quanto o Brasil — o que desmonta a equação simples "inglês = povoamento, próspero". Segundo, o desenvolvimento posterior dos Estados Unidos deveu-se a **muitos** fatores históricos (a Revolução Industrial, a independência precoce, as guerras, as políticas públicas), e **não** apenas ao "tipo" de colônia — atribuir tudo à origem colonial é um **determinismo** que ignora séculos de história. Terceiro, a dicotomia tende a **apagar** dimensões incômodas: a violência contra os indígenas **também** nas colônias de povoamento (expulsos e massacrados para abrir espaço aos colonos) e a centralidade da escravidão no próprio Norte (que lucrava com o comércio e o tráfico). O historiador **Caio Prado Jr.** [@pradoJunior2011], embora trabalhasse sobretudo o Brasil, ofereceu uma reflexão influente sobre o "sentido da colonização" que ajuda a pensar essas questões para além dos rótulos fáceis. Em suma: os conceitos continuam **úteis** como ponto de partida, mas **insuficientes** — e perigosos quando transformados em explicação única e determinista.
+
+::: {.callout-warning title="Controvérsia: o mito das \"boas\" e \"más\" colonizações"}
+Uma versão popular — e problemática — desse debate opõe uma colonização anglo-saxã "boa" (trabalhadora, democrática, protestante) a uma colonização ibérica "má" (preguiçosa, autoritária, católica), para explicar as desigualdades entre as Américas. Essa visão, além de **determinista**, carrega preconceitos **culturais e religiosos** (às vezes abertamente racistas) e ignora fatos incômodos: a escravidão e o genocídio indígena existiram **nos dois** lados; a "próspera" América do Norte também foi construída sobre trabalho escravo e sobre a expulsão violenta dos povos nativos. O bom historiador rejeita esses **estereótipos** e busca explicações **multicausais**, que combinem colonização, geografia, economia mundial e as escolhas históricas de cada sociedade — sem reduzir tudo a uma suposta "essência" dos colonizadores.
+:::
+
+## Resumo do capítulo {#sec-resumo}
+
+- Inglaterra, França e Holanda chegaram **tarde** à colonização (só no séc. XVII), por causa do **monopólio ibérico** (Tordesilhas) e de seus **conflitos internos** (guerras religiosas). Antes, agiram pela **pirataria/corso** contra os galeões espanhóis. A derrota da *Invencível Armada* (1588) e o declínio espanhol abriram espaço.
+- **Dois tipos de colônia**: **exploração** (mercado externo, monopólio, escravidão, grande propriedade — ibéricas e sul das Treze Colônias) × **povoamento** (mercado interno, trabalho livre, pequena propriedade, autonomia — Nova Inglaterra).
+- **Treze Colônias** (futuros EUA), diversas internamente: **Norte** (Nova Inglaterra) — povoamento, dissidentes religiosos (puritanos, *Mayflower*), pequenas propriedades, comércio, autogoverno; **Sul** — plantations de **tabaco/algodão** com **escravidão**; **Centro** — misto (NY, Pensilvânia). A dualidade Norte × Sul levaria à **Guerra Civil** (séc. XIX).
+- **Nova França**: pouco povoada, baseada no **comércio de peles**, com **cooperação e alianças** com indígenas (São Lourenço/Quebec, Grandes Lagos, Louisiana). **Nova Holanda**: Nova Amsterdã (Manhattan), tomada pelos ingleses em 1664 → **Nova York**. A rivalidade França × Inglaterra terminou com a vitória inglesa na **Guerra dos Sete Anos** (1756–1763).
+- Historiografia: a dicotomia povoamento × exploração é **útil** mas **limitada e perigosa** quando vira determinismo; críticas — a América inglesa combinava **os dois** modelos; o desenvolvimento dos EUA teve **muitas** causas; e o mito das "boas × más" colonizações apaga a violência e a escravidão presentes **dos dois** lados.
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Priorize: (1) a distinção **povoamento × exploração** — e por que ela **não** equivale a "inglês × ibérico"; (2) as três regiões das **Treze Colônias** e a dualidade Norte/Sul; (3) a especificidade da **Nova França** (peles, alianças indígenas); (4) a crítica ao **determinismo** das "boas × más" colonizações.
+:::
+
+**1.** Por que Inglaterra, França e Holanda só colonizaram a América a partir do século XVII?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Por dois motivos principais: (1) o **monopólio ibérico** — o Tratado de **Tordesilhas** e o poderio de Espanha e Portugal haviam "reservado" a América às duas coroas católicas, que não toleravam concorrentes; e (2) os **conflitos internos** que absorveram essas potências no século XVI — sobretudo as **guerras religiosas** entre católicos e protestantes (após a Reforma) e a consolidação de suas monarquias. Nesse período, agiram de forma **indireta**, financiando a **pirataria e o corso** contra os galeões espanhóis. Só com suas monarquias mais firmes e o **declínio espanhol** (marcado pela derrota da *Invencível Armada* em 1588) partiram para a colonização direta.
+:::
+
+**2.** Diferencie **colônia de povoamento** e **colônia de exploração**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+- **Colônia de exploração**: voltada ao **mercado externo**; produz gêneros tropicais ou metais preciosos (açúcar, prata, tabaco) para **exportar** à metrópole, sob **monopólio** (pacto colonial), com base no **trabalho compulsório/escravo** e em **grandes propriedades**. Exemplos: colônias ibéricas e o **sul** das Treze Colônias.
+- **Colônia de povoamento**: voltada ao **mercado interno**; nasce do **assentamento** de famílias que vêm **morar e produzir** (agricultura de alimentos, comércio, manufaturas), com **pequenas propriedades**, **trabalho livre** e maior **autonomia** frente à metrópole. Exemplo: a **Nova Inglaterra** (norte das Treze Colônias).
+
+**Atenção**: essa distinção **não** equivale a "inglês × ibérico" — a própria América inglesa teve os dois modelos.
+:::
+
+**3.** Caracterize as três regiões das **Treze Colônias** inglesas.
+
+::: {.callout-tip collapse="true" title="Solução"}
+- **Norte (Nova Inglaterra)**: colônias de **povoamento**, formadas em boa parte por **dissidentes religiosos** (puritanos, como os do *Mayflower*); clima frio e solo pobre → **pequenas propriedades** familiares, agricultura de subsistência, pesca, comércio, artesanato e manufaturas; forte **autogoverno** local e valorização da educação e da religião.
+- **Sul (Virgínia, Carolinas, Geórgia)**: colônias de **exploração**; clima quente e terras férteis → grandes **plantations** de **tabaco**, arroz e algodão para **exportação**, com **trabalho escravo africano** (modelo semelhante ao do Brasil).
+- **Centro (Nova York, Pensilvânia)**: caráter **misto**, com agricultura diversificada, comércio ativo e grande **diversidade** religiosa e étnica.
+
+Essa dualidade Norte (livre) × Sul (escravista) marcaria toda a história dos EUA, até a **Guerra Civil**.
+:::
+
+**4.** Por que a colonização **francesa** estabeleceu uma relação diferente com os povos indígenas?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque sua base econômica era o **comércio de peles** (sobretudo de castor), e não a plantation ou a mineração. Como eram os **próprios indígenas** que caçavam e forneciam as peles, os franceses **dependiam** de sua cooperação. Por isso, em vez de expulsá-los ou escravizá-los em massa, estabeleceram extensas **redes de aliança, comércio e casamentos** com nações indígenas. Somando-se a isso a **baixa densidade** de colonos franceses (vieram poucos povoadores), a Nova França desenvolveu um padrão de relação com os nativos **mais cooperativo** (embora não isento de conflitos) do que o das colônias inglesas de povoamento, que **expulsavam** os indígenas para abrir espaço aos colonos.
+:::
+
+**5.** Explique por que é **incorreto** afirmar simplesmente que "a colonização inglesa foi de povoamento e a ibérica de exploração".
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque a própria América **inglesa** abrigou os **dois** modelos ao mesmo tempo: o **Norte** (Nova Inglaterra) foi de **povoamento** (trabalho livre, pequenas propriedades), mas o **Sul** (Virgínia, Carolinas) foi de **exploração** — plantations de tabaco e algodão baseadas em **escravidão**, tão voltadas ao mercado externo quanto o Brasil. Além disso, houve **povoamento** também em partes da América ibérica. Portanto, a distinção povoamento × exploração é uma ferramenta útil, mas **não coincide** com a oposição "inglês × ibérico". Fazer essa equação apressada leva a erro — e costuma alimentar o mito determinista de que o "tipo" de colonização explicaria sozinho a prosperidade do Norte e o atraso do Sul.
+:::
+
+**6.** (Estilo ENEM) Leia o texto.
+
+> "Nós, cujos nomes estão abaixo assinados [...], solenemente e mutuamente, na presença de Deus, nos comprometemos e nos constituímos em um corpo político civil, para nossa melhor ordenação e preservação [...]; e em virtude disso, estabelecer leis justas e iguais [...] para o bem geral da colônia, às quais prometemos toda a devida submissão e obediência." — Pacto do Mayflower (1620)
+
+O documento revela, na colonização inglesa da Nova Inglaterra, a valorização
+
+**(a)** do poder absoluto do rei sobre os colonos.
+**(b)** da exploração mineradora como objetivo central.
+**(c)** do autogoverno e da elaboração de leis pelos próprios colonos.
+**(d)** da escravização dos povos indígenas.
+**(e)** do monopólio comercial da metrópole.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (c).** No Pacto do Mayflower, os colonos se comprometem a se **constituir em um corpo político** e a **estabelecer leis justas** para o bem da colônia, prometendo obediência a essas leis feitas por eles mesmos — ou seja, a prática do **autogoverno** e da autonomia política, típica das colônias de povoamento da Nova Inglaterra.
+
+As demais estão erradas: (a) o texto expressa autogoverno, não submissão ao rei absoluto; (b) e (e) não há menção a mineração nem a monopólio metropolitano — traços das colônias de exploração; (d) não há referência à escravização indígena.
+:::
+
+**7.** (Estilo vestibular — dissertativa) Discuta criticamente a ideia de que o diferente desenvolvimento entre a América do Norte e a América Latina se explica pelo "tipo" de colonização (povoamento × exploração).
+
+::: {.callout-tip collapse="true" title="Solução"}
+Resposta esperada: a ideia tem uma **base real** — houve, de fato, diferenças entre colônias de povoamento (mercado interno, trabalho livre, autonomia) e de exploração (mercado externo, escravidão, monopólio) —, e os conceitos são **úteis** como ponto de partida. Mas transformá-los em **explicação única** do desenvolvimento é um **determinismo** problemático, por várias razões: (1) a América **inglesa** combinava os dois modelos (o Sul era escravista e agroexportador, como o Brasil), o que desmonta a equação simples "inglês = próspero"; (2) o desenvolvimento posterior dos EUA dependeu de **muitos** fatores (independência precoce, Revolução Industrial, políticas públicas, guerras), e não apenas da origem colonial; (3) a narrativa **apaga** a violência contra indígenas e a escravidão presentes **também** no Norte. Além disso, a versão popular que opõe uma colonização anglo-saxã "boa" a uma ibérica "má" carrega preconceitos culturais, religiosos e por vezes racistas. Uma boa resposta deve **reconhecer a utilidade** dos conceitos, mas **rejeitar o determinismo** e defender uma explicação **multicausal**.
+:::
+
+**8.** Descreva a colonização **holandesa** na América e o destino da Nova Holanda na América do Norte.
+
+::: {.callout-tip collapse="true" title="Solução"}
+A **Holanda** (Províncias Unidas), grande potência **comercial e marítima** do século XVII, fundou na América do Norte a **Nova Holanda**, cujo centro era **Nova Amsterdã**, na ilha de **Manhattan**, voltada para o comércio. Em **1664**, os **ingleses** tomaram a colônia e a rebatizaram de **Nova York**. Os holandeses, porém, tiveram atuação colonial mais duradoura em outras frentes: no **comércio** mundial, no **tráfico de escravos** e também no **Brasil**, onde ocuparam Pernambuco por algumas décadas (@sec-administracao-uniao-iberica-invasoes). Assim, embora tenham perdido sua colônia na América do Norte, os holandeses foram protagonistas do comércio atlântico do período.
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- PRADO JÚNIOR, Caio. *Formação do Brasil contemporâneo* [@pradoJunior2011]. Sobre o "sentido da colonização" — referência para pensar criticamente os tipos de colônia.
+- MANN, Charles C. *1491* [@mann2007]. Traz páginas importantes sobre os povos da América do Norte antes e durante a colonização inglesa e francesa.
+- CROSBY, Alfred W. *O intercâmbio colombiano* [@crosby2011]. Sobre os efeitos ecológicos da colonização, inclusive na América do Norte.
+
+**Filmes e documentários**
+
+- *A Nova Onda* (*The New World*, 2005), dir. Terrence Malick. Sobre a colônia da Virgínia e o encontro entre ingleses e indígenas (a história de Pocahontas), útil para discutir criticamente esse contato.
+- *O Último dos Moicanos* (1992), dir. Michael Mann. Ambientado na Guerra dos Sete Anos, retrata a rivalidade franco-inglesa e as alianças indígenas na América do Norte.
+- Documentários sobre os **puritanos** e o *Mayflower*, para compreender a religiosidade e o autogoverno da Nova Inglaterra.
