@@ -1,5 +1,174 @@
 # A conquista da América e o colapso demográfico {#sec-conquista-da-america}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Em 1519, o espanhol **Hernán Cortés** desembarcou no México com pouco mais de **500 homens**, alguns cavalos e alguns canhões. Dois anos depois, o Império Asteca — com seus milhões de habitantes e sua capital deslumbrante — estava destruído. Poucos anos mais tarde, **Francisco Pizarro**, com menos de **200 soldados**, faria o mesmo com o Império Inca. Como um punhado de aventureiros derrubou dois dos maiores impérios do mundo? A resposta que os manuais antigos davam — "coragem e superioridade europeia" — é, hoje, insustentável. A verdadeira história é mais complexa e muito mais trágica: envolve **alianças** com povos revoltados, **tecnologia** militar, o **choque cultural** e, sobretudo, um exército invisível que matou mais do que todas as espadas juntas — os **germes**. Este capítulo narra a conquista e enfrenta o seu resultado mais devastador: o **colapso demográfico**, a maior catástrofe populacional da história humana.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- narrar as etapas da **conquista** do México (Cortés) e do Peru (Pizarro);
+- explicar os **fatores** que permitiram a vitória de pequenos contingentes europeus (alianças, tecnologia, doenças, fatores culturais);
+- compreender o **colapso demográfico** e o papel central das **epidemias**;
+- caracterizar o conceito de **intercâmbio colombiano** (trocas biológicas entre os continentes);
+- discutir o debate historiográfico sobre a natureza da conquista (choque de culturas, "encontro", genocídio) e sobre o mito da superioridade europeia.
 :::
+
+## O contexto: por que os europeus chegaram {#sec-contexto-conquista}
+
+A conquista da América é o desdobramento direto da **expansão marítima** que você estudou no volume anterior (@sec-expansao-maritima). Em **1492**, financiado pela Coroa espanhola, o navegador genovês **Cristóvão Colombo** cruzou o Atlântico buscando um caminho para as Índias e chegou às ilhas do Caribe, convencido — até a morte — de que atingira a Ásia. Foi outro navegador, **Américo Vespúcio**, quem primeiro percebeu tratar-se de um **"Novo Mundo"**, um continente até então desconhecido dos europeus, que acabaria levando seu nome: América.
+
+As primeiras décadas foram de exploração das ilhas caribenhas (Hispaniola, Cuba), onde os espanhóis montaram as primeiras colônias e onde os povos nativos foram rapidamente **dizimados**. Foi a partir dessas bases que se lançaram as grandes expedições de conquista continental. Os conquistadores — os *conquistadores* — eram, em geral, homens de baixa nobreza ou origem pobre, movidos pela **fome de riqueza** (o ouro), pela busca de **glória** e **prestígio** social, e pela **fé** (a ideia de levar o cristianismo aos "gentios"). Ouro, Deus e glória: essa a tríade que os movia.
+
+::: {.callout-note title="Conceito-chave: o Tratado de Tordesilhas (1494)"}
+Antes mesmo de conhecer a extensão do continente, as duas potências ibéricas dividiram o mundo entre si. Pelo **Tratado de Tordesilhas** (1494), mediado pelo papa, traçou-se uma linha imaginária a 370 léguas a oeste das ilhas de Cabo Verde: as terras a **leste** caberiam a **Portugal**; as a **oeste**, à **Espanha**. Por isso a América espanhola se estenderia pela maior parte do continente, enquanto Portugal ficaria com a faixa que viria a ser o **Brasil** (@sec-chegada-portuguesa-pau-brasil). A divisão revela a mentalidade da época: dois reinos repartindo um mundo cujos habitantes sequer foram consultados.
+:::
+
+## A queda de Tenochtitlan (1519–1521) {#sec-queda-tenochtitlan}
+
+Em 1519, **Hernán Cortés** partiu de Cuba rumo ao litoral mexicano. Seu êxito não se deveu apenas às armas: deveu-se, acima de tudo, à sua capacidade de explorar as **fraturas** do mundo asteca. Como vimos (@sec-astecas), o Império Asteca era odiado pelos muitos povos que subjugava e tributava. Cortés soube disso e transformou esse ódio em **alianças**: povos como os **tlaxcaltecas**, inimigos históricos dos mexicas, forneceram-lhe **milhares** de guerreiros. A rigor, a conquista de Tenochtitlan foi, em boa parte, uma guerra de indígenas contra indígenas, comandada por espanhóis.
+
+Somaram-se a isso outros fatores (@fig-fatores-conquista). A **tecnologia militar** europeia — cavalos (desconhecidos na América), armas de fogo, canhões, aço e cães de guerra — causava pavor e vantagem tática, embora não fosse decisiva sozinha. Houve ainda fatores **culturais e religiosos**: o imperador **Montezuma II** hesitou diante dos recém-chegados, e algumas crenças mexicas podem tê-lo levado a interpretar a chegada dos estranhos de forma ambígua (embora a historiografia atual desconfie da versão, difundida depois, de que os astecas teriam tomado Cortés por um deus). Após a morte de Montezuma e uma temporária expulsão dos espanhóis, Cortés sitiou a cidade. Em **1521**, enfraquecida pela fome, pelo cerco e — decisivamente — por uma epidemia de **varíola**, **Tenochtitlan caiu**. Sobre suas ruínas ergueu-se a Cidade do México, capital da **Nova Espanha**.
+
+::: {#fig-fatores-conquista}
+
+```{.tikz}
+%%| filename: fig-fatores-conquista
+%%| alt: Diagrama dos fatores que explicam a vitória dos conquistadores: alianças, tecnologia, doenças e fatores culturais.
+\begin{tikzpicture}[>=stealth]
+  \node[draw, very thick, circle, fill=manualred!20, align=center, font=\scriptsize\bfseries, minimum size=2cm] (v) at (0,0) {VITÓRIA\\ europeia};
+  \node[draw, fill=manualblue!16, rounded corners, align=center, font=\scriptsize, text width=3cm] at (-4.2,1.6) {\textbf{Alianças} com povos submetidos e revoltados};
+  \node[draw, fill=manualgray!18, rounded corners, align=center, font=\scriptsize, text width=3cm] at (4.2,1.6) {\textbf{Tecnologia}: cavalos, armas de fogo, aço};
+  \node[draw, fill=manualgreen!16, rounded corners, align=center, font=\scriptsize, text width=3cm] at (-4.2,-1.6) {\textbf{Fatores culturais} e religiosos, hesitação};
+  \node[draw, very thick, fill=manualyellow!30, rounded corners, align=center, font=\scriptsize\bfseries, text width=3cm] at (4.2,-1.6) {DOENÇAS (varíola): o fator decisivo};
+  \draw[vetor] (-2.7,1.2) -- (v); \draw[vetor] (2.7,1.2) -- (v);
+  \draw[vetor] (-2.7,-1.2) -- (v); \draw[vetor, very thick] (2.7,-1.2) -- (v);
+\end{tikzpicture}
+```
+
+A vitória europeia resultou da **combinação** de vários fatores — mas nenhum foi tão letal quanto as **doenças**.
+:::
+
+## A queda do Império Inca (1532–1533) {#sec-queda-inca}
+
+A conquista do Peru repetiu o padrão, com um detalhe crucial. Quando **Francisco Pizarro** chegou aos Andes, em 1532, o Império Inca acabava de sair de uma **guerra civil** sangrenta entre dois irmãos — **Huáscar** e **Atahualpa** — que disputavam o trono. E, mais importante, uma **epidemia** (provavelmente varíola), que se espalhara à frente dos próprios europeus, já havia matado o imperador anterior e milhares de pessoas, desorganizando o Estado. Pizarro chegou, portanto, a um império **enfraquecido e dividido**.
+
+Num golpe audacioso, Pizarro atraiu **Atahualpa** a um encontro na cidade de **Cajamarca**, capturou-o de surpresa e o manteve refém. Os incas pagaram um resgate lendário — salas cheias de ouro e prata —, mas Pizarro, mesmo assim, **executou** o imperador em 1533. Sem seu líder divino e mergulhado no caos, o Tawantinsuyu ruiu. Cusco foi tomada, e o Peru tornou-se o outro grande centro do domínio espanhol na América. A resistência inca continuaria por décadas em regiões de refúgio (como Vilcabamba), mas o império, como poder, estava destruído.
+
+::: {.callout-important title="Armadilha: a superioridade europeia não explica tudo"}
+É tentador — e comum em livros antigos — explicar a conquista pela "superioridade" dos europeus. Trata-se de um erro. Cortés e Pizarro venceram graças a uma **conjunção de circunstâncias**: impérios internamente frágeis (astecas odiados por seus tributários; incas em guerra civil), **alianças** com povos nativos, alguma vantagem tecnológica e, acima de tudo, as **epidemias** que devastavam o inimigo antes mesmo da batalha. Sem esses fatores, alguns punhados de aventureiros jamais teriam derrubado impérios de milhões. Atribuir a vitória a uma suposta superioridade racial ou civilizacional é **ideologia colonial**, não explicação histórica.
+:::
+
+## O colapso demográfico: o exército invisível {#sec-colapso-demografico}
+
+Se você guardar uma só coisa deste capítulo, guarde esta: o maior assassino da conquista **não foi a espada, foi o micróbio**. Os povos americanos haviam vivido isolados do Velho Mundo por milênios e, por isso, **não tinham defesas imunológicas** contra as doenças que os europeus (e depois os africanos) traziam consigo — **varíola**, sarampo, gripe, tifo, peste. Essas enfermidades, que na Europa matavam sobretudo crianças e poupavam a maioria dos adultos já imunizados, transformaram-se, na América, em **pandemias arrasadoras** que matavam indistintamente e em ondas sucessivas.
+
+O resultado foi uma das maiores catástrofes demográficas de que se tem notícia. As estimativas variam, mas muitos historiadores calculam que, no primeiro século após 1492, morreu entre **80% e 90%** da população nativa das Américas. Em algumas ilhas do Caribe, a população indígena foi **integralmente exterminada**. A esse desastre biológico somaram-se a **violência** direta da conquista, os **maus-tratos** e o **trabalho forçado** (@sec-trabalho-compulsorio), que enfraqueciam os corpos e ampliavam a mortalidade. A queda foi tão brutal que alguns cientistas defendem que o abandono e o reflorestamento de terras antes cultivadas por milhões de pessoas chegaram a afetar o **clima global** no fim do século XVI.
+
+::: {.callout-note title="Conceito-chave: o intercâmbio colombiano"}
+O historiador **Alfred Crosby** cunhou a expressão **"intercâmbio colombiano"** (*Columbian Exchange*) [@crosby2011] para designar a gigantesca troca de seres vivos entre os dois mundos após 1492. Nos dois sentidos, o mundo mudou para sempre:
+
+- **Da América para o Velho Mundo**: milho, batata, mandioca, tomate, cacau, tabaco, feijão, pimentão. A **batata** e o milho ajudariam a alimentar e a fazer crescer a população da Europa, da Ásia e da África nos séculos seguintes.
+- **Do Velho Mundo para a América**: trigo, cana-de-açúcar, café, gado, cavalos, porcos, galinhas — e, tragicamente, os **germes** das doenças mortais.
+
+O intercâmbio colombiano é um conceito-chave da **História Global**: mostra que 1492 conectou os ecossistemas do planeta e transformou a alimentação e a demografia do mundo inteiro, para o bem e para o mal.
+:::
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+**Como nomear o que aconteceu?** A própria palavra que usamos para descrever 1492 e seus desdobramentos carrega uma interpretação. Fala-se em **"descobrimento"** (ponto de vista europeu, que supõe uma América "escondida" à espera de ser achada), em **"conquista"** (que enfatiza a violência e a dominação), em **"encontro de culturas"** ou "encontro de dois mundos" (expressão oficial em 1992, criticada por suavizar a brutalidade) e, mais recentemente, em **"invasão"** ou mesmo **"genocídio"** (que sublinham a destruição das populações e culturas nativas). A escolha do termo **não é neutra**: define quem é o sujeito da história (o europeu que "descobre" ou o americano que é "invadido") e que peso se dá à catástrofe. Tzvetan **Todorov**, em *A conquista da América* [@todorov2019], propôs pensar o episódio como o encontro traumático com o **"outro"** — o momento em que a Europa se defrontou com uma alteridade radical e, incapaz de reconhecê-la como igual, a destruiu.
+
+**A visão dos vencidos e o debate do genocídio.** Contra a tradição que contava a história apenas pela ótica dos vencedores, historiadores como **Miguel León-Portilla** e **Nathan Wachtel** (*Los vencidos* [@wachtel1976]) buscaram reconstruir a experiência dos **povos derrotados** — o trauma, a resistência, a reinvenção cultural. Já o uso do termo **"genocídio"** gera debate. Alguns historiadores o rejeitam para o grosso das mortes, argumentando que a maior parte foi causada por **epidemias involuntárias**, e não por uma política deliberada de extermínio — e "genocídio" pressupõe intenção. Outros respondem que, mesmo descontadas as doenças, houve massacres, escravização e destruição cultural **intencionais**, e que a distinção entre "morte por doença" e "morte por violência" é artificial quando o próprio sistema colonial produzia as condições para as duas. O testemunho contemporâneo mais célebre dessa violência é o do frei **Bartolomé de las Casas**, cuja *Brevíssima relação da destruição das Índias* [@lasCasas1984] denunciou, já no século XVI, as atrocidades cometidas por seus compatriotas.
+
+::: {.callout-warning title="Controvérsia: a \"Lenda Negra\""}
+A denúncia de Las Casas teve um efeito ambíguo. Traduzida e ilustrada por rivais protestantes da Espanha (ingleses, holandeses), alimentou a chamada **"Lenda Negra"**: a imagem da Espanha como uma nação **excepcionalmente** cruel e fanática, mais bárbara que as demais. Historiadores alertam para dois riscos opostos. De um lado, a Lenda Negra pode ser **injusta e hipócrita**, pois as outras potências coloniais (Inglaterra, França, Holanda, Portugal) cometeram atrocidades semelhantes — a crítica servia à propaganda de seus concorrentes. De outro, negar a Lenda Negra não pode virar pretexto para **minimizar** as violências reais que Las Casas documentou. O bom historiador reconhece a violência da colonização espanhola **sem** tratá-la como uma exceção monstruosa que inocentaria as demais.
+:::
+
+## Resumo do capítulo {#sec-resumo}
+
+- A conquista desdobra a **expansão marítima**: **Colombo** (1492) chega ao Caribe crendo estar na Ásia; **Vespúcio** percebe tratar-se de um **Novo Mundo**. O **Tratado de Tordesilhas** (1494) divide as terras entre Espanha (oeste) e Portugal (leste).
+- **México (1519–1521)**: **Cortés** derruba o Império Asteca aproveitando **alianças** com povos submetidos (tlaxcaltecas), tecnologia militar, fatores culturais e a **varíola**; **Tenochtitlan cai** em 1521 → Nova Espanha.
+- **Peru (1532–1533)**: **Pizarro** encontra o Império Inca enfraquecido por **guerra civil** (Huáscar × Atahualpa) e por epidemias; captura e executa **Atahualpa** em Cajamarca; o Tawantinsuyu ruína.
+- A vitória **não** se explica por "superioridade europeia", mas pela **combinação** de impérios frágeis, alianças, tecnologia e, sobretudo, **doenças**.
+- **Colapso demográfico**: sem imunidade às doenças do Velho Mundo, morre **80–90%** da população nativa no primeiro século — a maior catástrofe demográfica conhecida; agravada por violência e trabalho forçado.
+- **Intercâmbio colombiano** (Crosby): trocas biológicas entre os continentes — da América vêm milho, batata, mandioca, tomate, cacau; do Velho Mundo vêm trigo, cana, gado, cavalos e os **germes** letais.
+- Historiografia: as palavras em disputa (descobrimento / conquista / encontro / invasão / genocídio); a **visão dos vencidos** (León-Portilla, Wachtel); a denúncia de **Las Casas** e a ambígua **"Lenda Negra"**.
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Domine: (1) os **fatores** da conquista, com destaque para as **doenças** e as **alianças** (contra o mito da superioridade europeia); (2) o **colapso demográfico** e o **intercâmbio colombiano**; (3) as palavras em disputa (conquista, encontro, genocídio) e a figura de Las Casas.
+:::
+
+**1.** Enumere e explique os principais **fatores** que permitiram a conquista de impérios tão populosos por contingentes tão pequenos.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Foram fatores **combinados**: (1) **alianças** com povos nativos revoltados — os astecas eram odiados por seus tributários (ex.: tlaxcaltecas), e os incas estavam em **guerra civil**; (2) **tecnologia militar** (cavalos, armas de fogo, aço, canhões), que dava vantagem tática e causava pavor; (3) **fatores culturais e políticos**, como a hesitação de líderes (Montezuma) e a fragilidade interna dos impérios; e (4) — o mais decisivo — as **doenças** (varíola, sarampo), que dizimavam as populações nativas antes e durante os combates. Nenhum fator isolado explica a conquista; foi a **conjunção** deles, e não uma suposta "superioridade" europeia.
+:::
+
+**2.** Por que as **epidemias** foram tão devastadoras na América?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque os povos americanos haviam vivido **isolados** do Velho Mundo por milênios e, portanto, **nunca haviam sido expostos** a doenças como varíola, sarampo, gripe e tifo — não tinham **defesas imunológicas** contra elas. Enquanto na Europa essas enfermidades eram em boa parte "doenças de infância", com adultos já imunizados, na América atingiam **toda** a população, em ondas sucessivas e com altíssima letalidade. O resultado foi a morte de **80% a 90%** da população nativa no primeiro século após 1492 — o maior fator do colapso demográfico, à frente até da violência direta.
+:::
+
+**3.** Explique o conceito de **intercâmbio colombiano** e dê exemplos nos dois sentidos.
+
+::: {.callout-tip collapse="true" title="Solução"}
+O **intercâmbio colombiano** (termo de Alfred Crosby) é a enorme **troca de seres vivos** — plantas, animais e micro-organismos — entre a América e o Velho Mundo após 1492, que transformou os ecossistemas e a alimentação do planeta. **Da América para o Velho Mundo** vieram milho, **batata**, mandioca, tomate, cacau, feijão e tabaco — a batata e o milho ajudariam a alimentar e fazer crescer a população da Europa, Ásia e África. **Do Velho Mundo para a América** vieram trigo, cana-de-açúcar, café, **gado**, cavalos, porcos e galinhas — e, tragicamente, os **germes** das doenças mortais. É um conceito central da História Global, pois mostra como 1492 **interligou** os continentes.
+:::
+
+**4.** Compare as quedas dos impérios **asteca** e **inca**, destacando semelhanças e diferenças.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Semelhanças**: ambos foram derrubados por **pequenos** contingentes espanhóis (Cortés no México, Pizarro no Peru); ambos os impérios estavam **internamente frágeis**; em ambos as **epidemias** foram decisivas; e em ambos os espanhóis exploraram divisões internas. **Diferenças**: no **México**, a fragilidade era o **ódio dos povos tributários**, e Cortés venceu sobretudo pelas **alianças** (tlaxcaltecas) e por um longo cerco a Tenochtitlan (1521); no **Peru**, a fragilidade era uma **guerra civil** recém-terminada (Huáscar × Atahualpa) somada a uma epidemia prévia, e Pizarro venceu por um **golpe** — a captura e execução de Atahualpa em Cajamarca (1533). Em resumo: México → alianças e cerco; Peru → guerra civil e captura do imperador.
+:::
+
+**5.** Por que a **escolha das palavras** (descobrimento, conquista, encontro, invasão, genocídio) para nomear 1492 é objeto de debate?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque cada termo carrega uma **interpretação** e define quem é o sujeito da história. **"Descobrimento"** adota o ponto de vista europeu e supõe uma América passiva, "à espera" de ser achada. **"Conquista"** enfatiza a violência e a dominação militar. **"Encontro de culturas"** (ou "de dois mundos") busca neutralidade, mas é criticado por **suavizar** a brutalidade. **"Invasão"** e **"genocídio"** destacam a destruição das populações e culturas nativas, atribuindo a elas o lugar de vítimas. Como a linguagem molda a compreensão, a escolha do termo **não é neutra**: revela uma posição sobre o significado — e as responsabilidades — daquele processo histórico.
+:::
+
+**6.** (Estilo ENEM) Leia o texto.
+
+> "Deram os cristãos com suas espadas e lanças a matar as ovelhas daquele rebanho [...]. Entravam nas povoações e não deixavam nem crianças, nem velhos, nem mulheres grávidas [...]. Faziam apostas sobre quem, de um só golpe de espada, fenderia um homem ao meio." — Bartolomé de las Casas, *Brevíssima relação da destruição das Índias* (1552)
+
+O documento, escrito por um frei espanhol, tem como principal objetivo
+
+**(a)** exaltar a bravura militar dos conquistadores.
+**(b)** denunciar as atrocidades cometidas contra os povos americanos.
+**(c)** comprovar a superioridade tecnológica europeia.
+**(d)** justificar a escravização dos indígenas pela guerra justa.
+**(e)** narrar de forma neutra os fatos da conquista.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (b).** Las Casas descreve com horror os **massacres** de indígenas — inclusive crianças, idosos e grávidas — com o propósito claro de **denunciar** as atrocidades de seus próprios compatriotas e defender os povos nativos (ele foi um dos maiores defensores dos indígenas no século XVI).
+
+As demais estão erradas: (a) e (c) o texto **condena**, não exalta, os conquistadores; (d) Las Casas foi justamente um **crítico** da escravização indígena; (e) o tom é de **denúncia** indignada, o oposto de neutro.
+:::
+
+**7.** (Estilo vestibular — dissertativa) Discuta o uso do termo **"genocídio"** para se referir à destruição das populações americanas, apresentando os argumentos de cada lado.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Resposta esperada: o debate opõe duas posições. **Contra** o uso do termo, argumenta-se que a maior parte das mortes (80–90% da população) foi causada por **epidemias involuntárias** — os europeus não sabiam transmitir doenças de propósito —, e que "genocídio", em sentido estrito, pressupõe **intenção deliberada** de exterminar um povo. **A favor**, argumenta-se que, mesmo descontadas as doenças, houve massacres, escravização, trabalho forçado letal e destruição cultural **intencionais** (documentados por Las Casas, entre outros), e que o próprio **sistema colonial** produzia as condições para a morte em massa, tornando artificial separar "morte por doença" de "morte por violência". Uma boa resposta deve **expor as duas posições**, reconhecer o peso das epidemias e, ao mesmo tempo, a existência de violência deliberada, evitando tanto **minimizar** a catástrofe quanto usar o termo de forma anacrônica ou puramente retórica.
+:::
+
+**8.** Explique o que foi a **"Lenda Negra"** e os cuidados que o historiador deve ter ao lidar com ela.
+
+::: {.callout-tip collapse="true" title="Solução"}
+A **"Lenda Negra"** foi a imagem da **Espanha** como uma nação **excepcionalmente** cruel e fanática, difundida sobretudo por suas rivais protestantes (Inglaterra, Holanda), que traduziram e ilustraram denúncias como a de **Las Casas** para fins de **propaganda**. O historiador deve ter dois cuidados **opostos**: (1) não aceitar a Lenda Negra de forma ingênua, pois ela é em parte **injusta e hipócrita** — as outras potências coloniais (Inglaterra, França, Holanda, Portugal) cometeram atrocidades **semelhantes**, e a crítica servia aos interesses das concorrentes; mas (2) não usar a crítica à Lenda Negra como pretexto para **minimizar ou negar** as violências reais da colonização espanhola, que de fato existiram e foram documentadas. Em suma: reconhecer a violência **sem** tratá-la como uma exceção que inocentaria as demais potências.
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- TODOROV, Tzvetan. *A conquista da América: a questão do outro* [@todorov2019]. Reflexão clássica sobre o encontro com o "outro" e a lógica da destruição.
+- CROSBY, Alfred W. *O intercâmbio colombiano* [@crosby2011]. A obra que fundou a história ambiental da conquista.
+- LAS CASAS, Bartolomé de. *Brevíssima relação da destruição das Índias* [@lasCasas1984]. Fonte primária indignada, escrita por uma testemunha do século XVI.
+- MANN, Charles C. *1491* [@mann2007]. Sobre as sociedades e populações destruídas pela conquista.
+
+**Filmes e documentários**
+
+- *A Missão* (1986), dir. Roland Joffé. Sobre as missões jesuíticas e a violência colonial na América do Sul (útil também para o cap. 4).
+- *Aguirre, a Cólera dos Deuses* (1972), dir. Werner Herzog. Retrato alucinado da ganância dos conquistadores na Amazônia.
+- *1492: A Conquista do Paraíso* (1992), dir. Ridley Scott. Sobre Colombo — útil para discutir criticamente a imagem do "descobridor".
