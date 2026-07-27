@@ -1,5 +1,198 @@
 # Administração colonial, União Ibérica e invasões {#sec-administracao-uniao-iberica-invasoes}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Quem governava o Brasil colonial? À primeira vista, a resposta parece óbvia: o rei de Portugal, do outro lado do oceano. Mas governar uma colônia imensa, a meses de distância por mar, era um quebra-cabeça. As ordens régias demoravam a chegar e chegavam distorcidas; os poderosos locais mandavam de fato em suas terras; e, por sessenta anos, o "rei de Portugal" foi, na verdade, o **rei da Espanha**. Some-se a isso que outras potências europeias — franceses e, sobretudo, **holandeses** — cobiçaram e chegaram a **ocupar** pedaços do Brasil. Este capítulo trata de como a colônia foi administrada, do período em que Portugal e Espanha tiveram o mesmo rei (a **União Ibérica**) e das **invasões estrangeiras**, com destaque para o Brasil holandês de Nassau. É a dimensão política do mundo colonial, sem a qual a economia e a sociedade dos capítulos anteriores não se sustentam.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- descrever a estrutura da **administração colonial**: Governo-Geral, câmaras municipais e o papel da Igreja;
+- explicar o conceito de "**poder concentrado, mando disperso**" e a relação entre Coroa e elites locais;
+- caracterizar a **União Ibérica** (1580–1640) e suas consequências para o Brasil;
+- reconstruir as **invasões holandesas** e o governo de **Maurício de Nassau** em Pernambuco;
+- discutir os debates historiográficos sobre a natureza do poder colonial e o legado do Brasil holandês.
 :::
+
+## A montagem da administração colonial {#sec-montagem-administracao}
+
+O fracasso das **capitanias hereditárias** (@sec-chegada-portuguesa-pau-brasil) mostrou que a colonização exigia **coordenação central**. Em **1548**, a Coroa criou o **Governo-Geral**, com sede em **Salvador** (fundada em 1549), a primeira capital. O **governador-geral** representava o rei, centralizava a defesa, a justiça e a arrecadação, e coordenava (sem extinguir) as capitanias. O primeiro foi **Tomé de Sousa**, que trouxe consigo os primeiros **jesuítas**, liderados por **Manuel da Nóbrega**.
+
+Com o tempo, a máquina administrativa ganhou outros órgãos auxiliares do governador: o **provedor-mor** (finanças), o **ouvidor-mor** (justiça) e o **capitão-mor** (defesa). Em Lisboa, os assuntos coloniais eram tratados por conselhos como o **Conselho Ultramarino** (criado em 1642). A estrutura pode ser resumida na @fig-administracao-colonial.
+
+::: {#fig-administracao-colonial}
+
+```{.tikz}
+%%| filename: fig-administracao-colonial
+%%| alt: Organograma da administração colonial: rei, governador-geral, câmaras municipais.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \node[draw, very thick, fill=manualblue!18, rounded corners, align=center, text width=4cm, minimum height=0.9cm] (rei) at (0,3.2) {\textbf{REI (Metrópole)}\\ Conselho Ultramarino};
+  \node[draw, thick, fill=manualyellow!22, rounded corners, align=center, text width=4.4cm, minimum height=0.9cm] (gg) at (0,1.7) {\textbf{GOVERNADOR-GERAL}\\ (Salvador, desde 1549)};
+  \node[draw, fill=manualgreen!14, rounded corners, align=center, text width=2.5cm, minimum height=0.9cm] (pro) at (-4.2,0.1) {\textbf{Provedor-mor}\\ finanças};
+  \node[draw, fill=manualgreen!14, rounded corners, align=center, text width=2.5cm, minimum height=0.9cm] (ouv) at (-1.2,0.1) {\textbf{Ouvidor-mor}\\ justiça};
+  \node[draw, fill=manualgreen!14, rounded corners, align=center, text width=2.5cm, minimum height=0.9cm] (cap) at (1.8,0.1) {\textbf{Capitão-mor}\\ defesa};
+  \node[draw, thick, fill=manualred!14, rounded corners, align=center, text width=2.6cm, minimum height=0.9cm] (cam) at (4.6,0.1) {\textbf{Câmaras}\\ \textbf{municipais}};
+  \draw[vetor] (rei) -- (gg);
+  \draw[vetor] (gg) -- (pro); \draw[vetor] (gg) -- (ouv); \draw[vetor] (gg) -- (cap);
+  \draw[vetor, dashed, manualred] (gg) -- node[right, black]{\scriptsize poder local} (cam);
+\end{tikzpicture}
+```
+
+A administração colonial: uma linha central (rei → governador-geral → auxiliares) e, ao lado, as **câmaras municipais**, onde mandavam as elites locais.
+:::
+
+No plano local, o poder estava nas **Câmaras Municipais** (os "**homens bons**" — proprietários de terras e escravizados, que ocupavam os cargos). As câmaras cuidavam da administração das vilas (obras, abastecimento, posturas, impostos locais) e eram o espaço em que a **elite colonial** exercia o poder real do dia a dia. A **Igreja Católica** era outra peça central: ligada ao Estado pelo regime do **padroado** (o rei nomeava bispos e financiava a Igreja, em troca de controle), ela catequizava, registrava nascimentos, casamentos e mortes (fazia as vezes de "cartório"), educava (sobretudo os jesuítas) e legitimava a ordem colonial.
+
+::: {.callout-note title="Conceito-chave: poder concentrado, mando disperso"}
+A expressão, associada à historiadora **Maria Sylvia de Carvalho Franco** e a estudos sobre o Antigo Regime nos trópicos, capta um paradoxo. Em teoria, o poder era **absoluto e concentrado** no rei. Na prática, a enorme distância, a lentidão das comunicações e a força das elites locais faziam com que o **mando** cotidiano fosse **disperso**: os potentados locais (senhores de engenho, câmaras) governavam de fato suas regiões. Daí a frase clássica sobre as ordens da metrópole que não convinham: "**obedeça-se, mas não se cumpra**". A colônia era, a um só tempo, centralizada no papel e mandonista na realidade.
+:::
+
+## A União Ibérica (1580–1640) {#sec-uniao-iberica}
+
+Em 1578, o rei **D. Sebastião** de Portugal morreu na desastrosa batalha de Alcácer-Quibir, no Marrocos, sem deixar herdeiros. A crise sucessória abriu caminho para que **Filipe II da Espanha** (1527–1598), parente próximo, reivindicasse e assumisse o trono português em **1580**. Nascia a **União Ibérica**: por **sessenta anos** (1580–1640), Portugal e Espanha — e, portanto, todos os seus impérios — estiveram sob **o mesmo rei** (os "Filipes"). Portugal manteve leis e administração próprias (os **Filipes** juraram respeitá-las nas Cortes de Tomar), mas passou a ser arrastado para os interesses e os **inimigos** da Espanha.
+
+As consequências para o Brasil foram grandes (@fig-linha-uniao-iberica):
+
+- **Expansão territorial:** com o mesmo rei, a linha de **Tordesilhas** perdeu sentido prático. Colonos, bandeirantes, jesuítas e vaqueiros avançaram livremente para **além do meridiano**, lançando as bases da atual dimensão continental do Brasil (@sec-expansao-territorial).
+- **Invasões holandesas:** os **holandeses**, que estavam em guerra de independência **contra a Espanha** (a Guerra dos Oitenta Anos), tornaram-se automaticamente **inimigos** de Portugal e de suas colônias. Como distribuíam e refinavam o açúcar brasileiro, e agora estavam proibidos de comerciar com o "inimigo" espanhol, decidiram **tomar** a fonte: atacaram o Brasil.
+- **Fim da União:** em **1640**, Portugal se rebelou e recuperou a independência, entronizando **D. João IV** (dinastia de **Bragança**). O Brasil voltou a ser colônia exclusivamente portuguesa.
+
+::: {#fig-linha-uniao-iberica}
+
+```{.tikz}
+%%| filename: fig-linha-uniao-iberica
+%%| alt: Linha do tempo da União Ibérica e das invasões holandesas, de 1580 a 1654.
+\begin{tikzpicture}[>=stealth]
+  \draw[eixo] (0,0) -- (13,0);
+  \node[eixo, gray] at (13,-0.5) {\scriptsize tempo};
+  \fill[manualblue!14] (1.2,-0.18) rectangle (9.2,0.18);
+  \node[above, text=manualblue, align=center] at (5.2,0.9) {\scriptsize \textbf{União Ibérica}\\ \scriptsize (mesmo rei)};
+
+  \node[ponto] at (1.2,0) {}; \node[below] at (1.2,-0.15) {\scriptsize 1580};
+  \node[ponto] at (4.2,0) {}; \node[below] at (4.2,-0.15) {\scriptsize 1624}; \node[above, text=manualred, align=center] at (4.2,0.25) {\scriptsize Bahia};
+  \node[ponto] at (6.0,0) {}; \node[below] at (6.0,-0.15) {\scriptsize 1630}; \node[above, text=manualred, align=center] at (6.2,1.7) {\scriptsize invasão de\\ \scriptsize Pernambuco};
+  \node[ponto] at (7.4,0) {}; \node[below] at (7.4,-0.15) {\scriptsize 1637}; \node[above, text=manualgreen!60!black, align=center] at (7.4,0.25) {\scriptsize Nassau};
+  \node[ponto] at (9.2,0) {}; \node[below] at (9.2,-0.15) {\scriptsize 1640}; \node[above, align=center] at (9.4,0.95) {\scriptsize fim da\\ \scriptsize União};
+  \node[ponto] at (11.6,0) {}; \node[below] at (11.6,-0.15) {\scriptsize 1654}; \node[above, text=manualgreen!60!black, align=center] at (11.6,0.25) {\scriptsize expulsão};
+\end{tikzpicture}
+```
+
+Da União Ibérica (1580) às invasões holandesas e à expulsão de 1654. O Brasil holandês durou quase um quarto de século em Pernambuco.
+:::
+
+## As invasões holandesas e o Brasil de Nassau {#sec-invasoes-holandesas}
+
+Interessados no lucrativo açúcar, os holandeses — organizados na poderosa **Companhia das Índias Ocidentais** (WIC) — investiram contra o Brasil em duas ondas:
+
+- **Bahia (1624–1625):** tomaram Salvador, mas foram expulsos no ano seguinte por uma grande esquadra luso-espanhola.
+- **Pernambuco (1630–1654):** atacaram o coração da produção açucareira e, desta vez, **fixaram-se**. Controlaram boa parte do Nordeste açucareiro por quase 25 anos — o chamado **Brasil holandês** ou "Nova Holanda".
+
+O ponto alto foi o governo de **João Maurício de Nassau** (no Brasil de **1637 a 1644**), enviado pela WIC. Nassau foi um administrador notável, que deixou marcas duradouras. Sob seu governo:
+
+- promoveu certa **tolerância religiosa** (permitiu o culto de católicos e de **judeus** — a primeira sinagoga das Américas, a Kahal Zur Israel, funcionou no Recife);
+- concedeu **crédito** aos senhores de engenho para reerguer a produção arrasada pela guerra;
+- urbanizou e embelezou o Recife (a "Mauritsstad"), com pontes, palácios, observatório e jardim botânico;
+- trouxe uma célebre **missão artística e científica**: pintores como **Frans Post** (paisagens) e **Albert Eckhout** (gente, plantas, animais) produziram os primeiros retratos europeus detalhados da natureza e das populações brasileiras.
+
+::: {.callout-tip title="Dica de prova: por que Nassau \"deu certo\" e depois \"deu errado\""}
+Nassau soube **conciliar-se** com a elite açucareira local para reativar os lucros. Mas, quando a WIC — pressionada por acionistas ávidos — passou a **cobrar as dívidas** dos senhores e a apertar a exploração, o pacto ruiu. Nassau, em desacordo, foi chamado de volta em 1644. Sem ele, cresceu a revolta dos senhores. Guarde a lógica: o Brasil holandês prosperou enquanto houve **acordo** com a elite local e entrou em crise quando esse acordo foi **rompido** por pura ganância comercial.
+:::
+
+A partir de 1645, os pernambucanos organizaram a **Insurreição Pernambucana**, uma guerra de resistência que uniu senhores de engenho e camadas populares. Duas batalhas nos montes **Guararapes** (1648 e 1649) foram decisivas — e nelas lutaram, lado a lado, portugueses, indígenas (sob **Filipe Camarão**) e negros (sob **Henrique Dias**), o que a tradição militar brasileira celebra como um momento de união de três "raças". Em **1654**, os holandeses **capitularam** e foram expulsos definitivamente. A vitória, porém, teve um custo alto: expulsos do Brasil, os holandeses levaram a técnica açucareira para as **Antilhas** (Caribe), onde montaram uma produção concorrente que, décadas depois, provocaria a **crise do açúcar** brasileiro.
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+**O poder colonial: centralizado ou negociado?** Uma questão central divide os historiadores: até que ponto a metrópole realmente **controlava** a colônia? A visão mais antiga, ligada à interpretação do **Antigo Sistema Colonial** (Caio Prado Jr., Fernando Novais — @sec-antigo-sistema-colonial), enfatiza a **dominação**: a colônia seria um espaço rigidamente subordinado aos interesses e ao **controle** da Coroa e da burguesia metropolitana, um instrumento de exploração comandado de fora. Nessa chave, a administração colonial era, antes de tudo, uma máquina de **extrair** riqueza e impor o **exclusivo metropolitano**.
+
+**A releitura: "Antigo Regime nos trópicos".** A partir dos anos 1990 e 2000, uma influente corrente — associada a historiadores como **João Fragoso**, **Maria Fernanda Bicalho** e **Maria de Fátima Gouvêa** — propôs pensar a colônia não só como objeto de exploração, mas como uma sociedade de **Antigo Regime** transplantada para os trópicos. Nessa leitura, o poder era exercido por **negociação** constante entre a Coroa e as **elites locais**: em troca de fidelidade e de administrar a colônia (nas câmaras, na defesa, na arrecadação), essas elites recebiam **mercês** — privilégios, cargos, terras, títulos. O governo colonial funcionava, assim, por uma **economia política de privilégios**, e não apenas por imposição vertical. A frase "obedeça-se, mas não se cumpra" e o conceito de "poder concentrado, mando disperso" resumem essa autonomia prática dos poderes locais.
+
+**Por que as leituras divergem?** Porque **enfatizam dimensões diferentes** do mesmo processo. Quem parte da **economia** e do comércio atlântico (Prado Jr., Novais) vê sobretudo a **subordinação** e a exploração — e tem razão ao lembrar que a colônia existia para enriquecer a metrópole. Quem parte da **política** e das redes de poder (Fragoso, Bicalho) vê a **negociação** e a agência das elites locais — e tem razão ao mostrar que a Coroa não mandava sozinha, dependendo da colaboração dos colonos. Não são teses necessariamente incompatíveis: a colônia podia ser, ao mesmo tempo, **economicamente subordinada** ao exclusivo **e** **politicamente governada** por meio de acordos com as elites. O episódio do **Brasil holandês** ilustra bem o ponto: Nassau prosperou enquanto **negociou** com os senhores e fracassou quando a WIC tentou **impor** sua vontade — prova de que, na prática, nenhum poder colonial se sustentava sem pactuar com os potentados locais.
+
+::: {.callout-warning title="Controvérsia: o Brasil teria sido melhor sob os holandeses?"}
+Circula, às vezes, a fantasia de que, se os holandeses tivessem vencido, o Brasil seria hoje "mais desenvolvido" (protestante, "ordeiro", próspero como a Holanda). Cuidado: é um exercício **anacrônico e especulativo** (história-ficção). Primeiro, o Brasil holandês era **igualmente escravista** — a WIC era uma das maiores traficantes de africanos do mundo e tomou Angola para abastecer os engenhos de escravos. Segundo, atribuir o "atraso" à colonização católica ibérica e o "progresso" à protestante é uma velha tese preconceituosa, sem base histórica séria. A tolerância de Nassau foi real e notável, mas o projeto holandês era, no essencial, o **mesmo** projeto colonial de exploração açucareira e escravista — apenas com outra bandeira.
+:::
+
+## Resumo do capítulo {#sec-resumo}
+
+- Diante do fracasso das capitanias, a Coroa criou o **Governo-Geral** (**1548**), sediado em **Salvador** (1549), com o **governador-geral** e auxiliares (**provedor-mor**, **ouvidor-mor**, **capitão-mor**). Em Lisboa, o **Conselho Ultramarino** (1642).
+- No plano local, o poder real estava nas **Câmaras Municipais** dos "**homens bons**" (a elite de proprietários) e na **Igreja** (regime do **padroado**; catequese, registros, educação). Daí o paradoxo "**poder concentrado, mando disperso**" e a fórmula "**obedeça-se, mas não se cumpra**".
+- A **União Ibérica** (**1580–1640**): morto D. Sebastião sem herdeiros, **Filipe II** da Espanha assumiu o trono português. Consequências: **expansão territorial** (Tordesilhas perde sentido) e as **invasões holandesas** (os holandeses, inimigos da Espanha, atacam o açúcar). Fim em **1640**, com **D. João IV** (Bragança).
+- **Invasões holandesas** (WIC): **Bahia** (1624–1625, expulsos) e **Pernambuco** (**1630–1654**, o **Brasil holandês**). **Maurício de Nassau** (1637–1644) praticou **tolerância religiosa**, deu crédito aos senhores, urbanizou o Recife e trouxe artistas (**Frans Post**, **Albert Eckhout**). A **Insurreição Pernambucana** e as batalhas dos **Guararapes** (1648–1649) levaram à **expulsão em 1654** — após a qual os holandeses levaram o açúcar às **Antilhas**, gerando concorrência.
+- Historiografia: o poder colonial como **dominação** (Prado Jr., Novais) × como **negociação** com as elites locais ("**Antigo Regime nos trópicos**": Fragoso, Bicalho). As duas dimensões — subordinação econômica e negociação política — coexistiam.
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Domine: (1) a estrutura da **administração colonial** e o papel das **câmaras** e da **Igreja**; (2) o paradoxo "**poder concentrado, mando disperso**"; (3) a **União Ibérica** e suas consequências; (4) as **invasões holandesas** e o governo de **Nassau**; (5) o debate dominação × negociação.
+:::
+
+**1.** Por que a Coroa criou o **Governo-Geral** em 1548, e o que ele representou frente às capitanias?
+
+::: {.callout-tip collapse="true" title="Solução"}
+A Coroa criou o **Governo-Geral** porque o sistema de **capitanias hereditárias** havia **fracassado** na maioria dos casos: entregue a donatários dispersos e sem recursos, a colonização carecia de **coordenação central**, de defesa articulada e de administração da justiça e das finanças. O Governo-Geral (com sede em **Salvador**, fundada em 1549) instituiu um **governador-geral** como representante direto do rei, que centralizava a defesa, a justiça e a arrecadação e coordenava as capitanias — **sem extingui-las**. Foi, portanto, uma medida de **centralização administrativa**, que passou a conviver com o sistema anterior. O primeiro governador foi **Tomé de Sousa**, que trouxe os primeiros **jesuítas**.
+:::
+
+**2.** Explique a fórmula "**poder concentrado, mando disperso**" e a frase "obedeça-se, mas não se cumpra".
+
+::: {.callout-tip collapse="true" title="Solução"}
+Ela capta um **paradoxo** da administração colonial. Em **teoria**, o poder era **absoluto** e **concentrado** no rei (regime absolutista). Na **prática**, porém, a enorme distância entre metrópole e colônia, a lentidão das comunicações (meses de viagem por mar) e a força das **elites locais** (senhores de engenho, câmaras municipais) faziam com que o **mando cotidiano** fosse **disperso**: quem realmente governava o dia a dia das regiões eram os potentados locais. A frase "**obedeça-se, mas não se cumpra**" expressa esse descompasso: reconhecia-se formalmente a autoridade da ordem régia ("obedeça-se"), mas, quando ela não convinha aos interesses locais, deixava-se de aplicá-la ("não se cumpra"). A colônia era, assim, centralizada no papel e **mandonista** na realidade.
+:::
+
+**3.** O que foi a **União Ibérica** e por que ela aconteceu?
+
+::: {.callout-tip collapse="true" title="Solução"}
+A **União Ibérica** (**1580–1640**) foi o período em que **Portugal e Espanha** — e seus respectivos impérios — estiveram sob **o mesmo rei**. Aconteceu por uma **crise sucessória portuguesa**: em 1578, o rei **D. Sebastião** morreu na batalha de Alcácer-Quibir, no Marrocos, **sem deixar herdeiros diretos**. Diante do vazio no trono, **Filipe II da Espanha**, parente próximo da casa real portuguesa, reivindicou e assumiu a coroa de Portugal em **1580** (jurando, nas Cortes de Tomar, respeitar as leis e a administração portuguesas). Assim, por **sessenta anos**, os reis espanhóis (os "Filipes") governaram também Portugal. A União terminou em **1640**, quando Portugal se rebelou e entronizou **D. João IV**, da dinastia de **Bragança**.
+:::
+
+**4.** Quais foram as principais **consequências** da União Ibérica para o Brasil?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Duas consequências foram decisivas. (1) **Expansão territorial:** com Portugal e Espanha sob o mesmo rei, a linha do **Tratado de Tordesilhas** perdeu sentido prático; colonos, bandeirantes, jesuítas e vaqueiros passaram a avançar livremente **para além do meridiano**, lançando as bases da futura dimensão continental do Brasil. (2) **Invasões holandesas:** os **holandeses**, que travavam sua guerra de independência **contra a Espanha**, tornaram-se automaticamente **inimigos** de Portugal e de suas colônias. Como distribuíam e refinavam o açúcar brasileiro e agora estavam impedidos de comerciar com o "inimigo" espanhol, decidiram **tomar a fonte**, atacando o Brasil (Bahia, 1624; Pernambuco, 1630). Assim, um problema **dinástico europeu** repercutiu diretamente na história do Brasil.
+:::
+
+**5.** Caracterize o governo de **Maurício de Nassau** em Pernambuco.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**João Maurício de Nassau** governou o Brasil holandês de **1637 a 1644**, enviado pela **Companhia das Índias Ocidentais** (WIC). Foi um administrador notável: (1) praticou certa **tolerância religiosa**, permitindo o culto de católicos e **judeus** (a primeira sinagoga das Américas funcionou no Recife); (2) concedeu **crédito** aos senhores de engenho para reerguer a produção arrasada pela guerra, conciliando-se com a elite local; (3) **urbanizou e embelezou o Recife** (a "Mauritsstad"), com pontes, palácios, observatório e jardim botânico; (4) trouxe uma **missão artística e científica**, com pintores como **Frans Post** e **Albert Eckhout**, que produziram os primeiros registros europeus detalhados da natureza e das gentes do Brasil. Seu governo prosperou enquanto **negociou** com os senhores; entrou em crise quando a WIC passou a **cobrar as dívidas** e apertar a exploração, o que levou Nassau a ser chamado de volta em 1644.
+:::
+
+**6.** (Estilo ENEM) Leia o texto.
+
+> "Expulsos do Nordeste em 1654, os holandeses transferiram para as ilhas do Caribe o capital, a técnica e a experiência acumulados no Brasil. Ali montaram, em poucas décadas, uma produção açucareira concorrente, mais barata e mais próxima da Europa."
+
+A partir do texto, conclui-se que a expulsão dos holandeses teve como consequência
+
+**(a)** o fim imediato da escravidão nas Antilhas.
+**(b)** o fortalecimento permanente do monopólio português do açúcar.
+**(c)** o surgimento de forte concorrência que levaria à crise do açúcar brasileiro.
+**(d)** a interrupção do tráfico de africanos para as Américas.
+**(e)** o retorno dos holandeses às atividades exclusivamente comerciais na Europa.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (c).** O texto afirma que os holandeses, expulsos, levaram "capital, técnica e experiência" para o **Caribe**, onde montaram "uma produção açucareira **concorrente, mais barata e mais próxima da Europa**". Essa concorrência antilhana derrubaria os preços e provocaria a **crise do açúcar** brasileiro na segunda metade do século XVII — resposta correta. As demais contrariam o texto e a história: a escravidão **cresceu** nas Antilhas (a), o monopólio português foi **quebrado**, não fortalecido (b), o tráfico **continuou** (d), e os holandeses passaram justamente à **produção** açucareira no Caribe, não a atividades só comerciais na Europa (e).
+:::
+
+**7.** (Estilo vestibular — dissertativa) Compare a interpretação do poder colonial como **dominação** com a que o vê como **negociação** ("Antigo Regime nos trópicos"), usando o Brasil holandês como exemplo.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Resposta esperada: a interpretação da **dominação** (ligada ao Antigo Sistema Colonial de **Caio Prado Jr.** e **Fernando Novais**) enfatiza que a colônia era um espaço **rigidamente subordinado** aos interesses e ao controle da metrópole — a administração colonial seria, sobretudo, uma máquina de **extrair riqueza** e impor o exclusivo. Já a leitura do "**Antigo Regime nos trópicos**" (**Fragoso**, **Bicalho**, **Gouvêa**) mostra que o poder se exercia por **negociação** constante entre a Coroa e as **elites locais**, que administravam a colônia (câmaras, defesa, arrecadação) em troca de **mercês** (privilégios, cargos, terras), numa "economia política de privilégios". As duas visões **não** são necessariamente incompatíveis: a colônia era **economicamente subordinada** ao exclusivo **e** **politicamente governada** por acordos com os potentados locais. O **Brasil holandês** ilustra bem o ponto: **Nassau** prosperou enquanto **negociou** com os senhores de engenho (crédito, tolerância) e fracassou quando a **WIC** tentou **impor** sua vontade (cobrar dívidas, apertar a exploração), desencadeando a Insurreição Pernambucana. Ou seja, mesmo um poder colonial estrangeiro dependia de **pactuar** com as elites locais para se sustentar.
+:::
+
+**8.** Por que a afirmação de que "o Brasil seria melhor se os holandeses tivessem vencido" é considerada anacrônica e sem base histórica?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque parte de uma **especulação** (história-ficção) e de um **preconceito**. Primeiro, o **Brasil holandês era igualmente escravista**: a **WIC** foi uma das maiores traficantes de africanos do mundo e chegou a tomar **Angola** justamente para abastecer os engenhos de mão de obra escravizada — logo, a vitória holandesa não pouparia o país da escravidão. Segundo, a ideia de que a colonização **protestante** traria "progresso" e a **católica ibérica** produziu "atraso" é uma velha tese **preconceituosa**, sem sustentação histórica séria, que atribui a fenômenos religiosos e "raciais" desigualdades que têm causas econômicas e políticas. A tolerância de Nassau foi real e admirável, mas o projeto holandês era, no essencial, o **mesmo** projeto colonial de **exploração açucareira e escravista** — apenas sob outra bandeira. Julgar o passado por esse tipo de "e se…" idealizado é justamente o **anacronismo** e a **teleologia** que o pensamento histórico deve evitar.
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- BOXER, Charles R. *O império marítimo português (1415–1825)* [@boxer2002]. Panorama clássico do império português, incluindo a administração colonial e a União Ibérica.
+- FAUSTO, Boris. *História do Brasil* [@fausto2015]. Boa síntese da administração e das invasões estrangeiras.
+- SCHWARCZ, Lilia; STARLING, Heloisa. *Brasil: uma biografia* [@schwarczStarling2015]. Trata do Brasil holandês e das redes de poder colonial.
+- VAINFAS, Ronaldo. *Dicionário do Brasil Colonial* [@vainfas2000]. Verbetes úteis sobre Governo-Geral, câmaras, padroado, União Ibérica e Nassau.
+
+**Filmes e documentários**
+
+- Documentários sobre o **Brasil holandês** e Maurício de Nassau, que exploram as pinturas de **Frans Post** e **Albert Eckhout** como fontes visuais.
+- *Guararapes* e produções sobre a **Insurreição Pernambucana**, úteis para discutir a memória militar da expulsão holandesa.
+- Acervos digitais do **Instituto Ricardo Brennand** (Recife), com a maior coleção de obras do período holandês — passeio virtual recomendável.

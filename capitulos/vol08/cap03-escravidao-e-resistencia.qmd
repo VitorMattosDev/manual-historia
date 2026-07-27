@@ -1,5 +1,212 @@
 # Escravidão indígena e africana: resistência e quilombos {#sec-escravidao-e-resistencia}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+No centro de Salvador, de Recife ou do Rio de Janeiro, ainda hoje se caminha por ruas que foram, no passado, o destino de um comércio monstruoso: o de seres humanos. Ao longo de mais de três séculos, cerca de **4,8 milhões** de africanos escravizados desembarcaram no Brasil — quase **metade** de todos os que foram traficados para as Américas. Nenhum outro país recebeu tantos. Essa cifra, fria, esconde uma multidão de vidas: gente arrancada de suas terras, marcada a ferro, vendida em praça pública, obrigada a trabalhar até a morte. Mas esconde também outra coisa, que este capítulo faz questão de recuperar: essas pessoas **não** foram vítimas passivas. Fugiram, negociaram, se rebelaram, formaram **quilombos**, preservaram línguas e religiões, e assim moldaram profundamente o Brasil. Entender a escravidão — e a resistência a ela — é entender o alicerce mais duro e mais decisivo da nossa formação.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- comparar a **escravidão indígena** e a **escravidão africana** e explicar por que a segunda predominou;
+- descrever o **tráfico negreiro** atlântico e o seu papel econômico no sistema colonial;
+- caracterizar a **vida e o trabalho** dos escravizados e a violência do regime;
+- distinguir as formas de **resistência**, da fuga e do quilombo à negociação cotidiana;
+- reconstruir a história de **Palmares** e de Zumbi, e discutir os debates historiográficos sobre a resistência.
 :::
+
+## Duas escravidões: indígena e africana {#sec-duas-escravidoes}
+
+Ao montar a economia açucareira, os colonos precisavam de muitos braços. A primeira solução foi escravizar os **indígenas**, abundantes e próximos. A **escravidão indígena** foi intensa nos primeiros tempos — sobretudo em São Vicente e, depois, em São Paulo, onde os bandeirantes fariam do apresamento de nativos um negócio (@sec-expansao-territorial). Mas, com o tempo, ela foi cedendo lugar à **escravidão africana**. Por quê? A resposta combina vários fatores (@fig-por-que-africana):
+
+- **Demografia e doenças:** os indígenas morriam em massa ao contato com doenças europeias (varíola, gripe, sarampo), contra as quais não tinham imunidade — o já estudado **colapso demográfico** (@sec-conquista-da-america).
+- **Resistência e fuga:** o indígena conhecia o território, fugia com facilidade para o interior e resistia à escravização, muitas vezes com guerra aberta.
+- **Oposição da Igreja:** os **jesuítas** (@sec-administracao-uniao-iberica-invasoes) combatiam a escravização indígena (que atrapalhava a catequese nas missões), embora, em geral, **não** se opusessem à escravidão africana — uma distinção reveladora.
+- **Interesse econômico:** e aqui está o fator decisivo. O **tráfico negreiro** era, ele mesmo, um **negócio extremamente lucrativo**. Comerciantes e a Coroa ganhavam duas vezes: vendendo o africano e taxando o comércio. Escravizar o africano gerava lucro **antes mesmo** de ele trabalhar — o que não acontecia com o indígena capturado na própria terra.
+
+::: {#fig-por-que-africana}
+
+```{.tikz}
+%%| filename: fig-por-que-africana
+%%| alt: Fluxograma dos fatores que levaram à predominância da escravidão africana sobre a indígena.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \node[draw, fill=manualgreen!14, rounded corners, align=center, text width=2.7cm] (d) at (-4.4,1.5) {\textbf{Doenças} dizimam indígenas};
+  \node[draw, fill=manualgreen!14, rounded corners, align=center, text width=2.7cm] (r) at (-1.5,2.2) {\textbf{Indígena} foge e resiste (conhece a terra)};
+  \node[draw, fill=manualblue!14, rounded corners, align=center, text width=2.7cm] (j) at (1.5,2.2) {\textbf{Jesuítas} defendem o indígena};
+  \node[draw, fill=manualyellow!22, rounded corners, align=center, text width=2.7cm] (l) at (4.4,1.5) {\textbf{Tráfico} é muito lucrativo};
+  \node[draw, very thick, fill=manualred!18, rounded corners, align=center, text width=4.6cm, font=\scriptsize\bfseries] (a) at (0,-0.3) {PREDOMÍNIO DA ESCRAVIDÃO AFRICANA};
+  \draw[vetor] (d) -- (a); \draw[vetor] (r) -- (a); \draw[vetor] (j) -- (a); \draw[vetor] (l) -- (a);
+\end{tikzpicture}
+```
+
+Por que a escravidão africana predominou: à catástrofe demográfica indígena e à resistência dos nativos somou-se o fator decisivo — o **lucro do tráfico**.
+:::
+
+::: {.callout-important title="Armadilha: o africano não era escravo \"por natureza\""}
+Um erro grave é imaginar que os africanos "já eram escravos" ou "serviam melhor" à escravidão por alguma característica própria. Nada disso. A predominância da escravidão africana **não** teve causa racial ou natural: teve causas **econômicas, demográficas e políticas**. O racismo não foi a *causa* da escravidão; em grande medida, foi construído *depois*, como **justificativa** ideológica para um sistema que já existia por interesse econômico. Inverter essa ordem — achar que se escravizou o africano "porque era inferior" — é reproduzir a própria ideologia escravista.
+:::
+
+## O tráfico negreiro: o comércio no coração do sistema {#sec-trafico}
+
+O **tráfico negreiro** transatlântico foi uma das maiores migrações forçadas da história e o **negócio central** da economia colonial. Funcionava no marco do chamado **comércio triangular** (@fig-comercio-triangular): navios europeus levavam manufaturas (tecidos, armas, aguardente, quinquilharias) à **África**, onde as trocavam por pessoas escravizadas — capturadas em guerras e vendidas por reinos e traficantes africanos que participavam do comércio; da África, atravessavam o Atlântico rumo à **América**, na terrível **travessia do meio**; ali, vendiam os cativos e carregavam os produtos coloniais (açúcar, tabaco, depois ouro) de volta à **Europa**.
+
+::: {#fig-comercio-triangular}
+
+```{.tikz}
+%%| filename: fig-comercio-triangular
+%%| alt: Diagrama esquemático do comércio triangular entre Europa, África e América.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \node[draw, very thick, fill=manualblue!16, circle, align=center, minimum size=1.5cm] (eu) at (0,2.6) {\textbf{EUROPA}};
+  \node[draw, very thick, fill=manualyellow!22, circle, align=center, minimum size=1.5cm] (af) at (3.2,-1.4) {\textbf{ÁFRICA}};
+  \node[draw, very thick, fill=manualgreen!16, circle, align=center, minimum size=1.5cm] (am) at (-3.2,-1.4) {\textbf{AMÉRICA}};
+  \draw[vetor, thick] (eu) to[bend left=12] node[right, align=center]{manufaturas\\ (armas, tecidos)} (af);
+  \draw[vetor, thick, manualred] (af) to[bend left=12] node[below, align=center]{\textbf{escravizados}\\ (travessia do meio)} (am);
+  \draw[vetor, thick, manualgreen!60!black] (am) to[bend left=12] node[left, align=center]{açúcar, tabaco,\\ ouro} (eu);
+\end{tikzpicture}
+```
+
+O **comércio triangular**: manufaturas para a África, pessoas escravizadas para a América, gêneros tropicais para a Europa. O tráfico ligava os três continentes e alimentava a acumulação europeia.
+:::
+
+A **travessia do meio** (a viagem da África ao Brasil, os **navios negreiros** ou "tumbeiros") era de horror indescritível: homens, mulheres e crianças amontoados em porões imundos, acorrentados, sem higiene nem ar; entre **10% e 20%** morriam no caminho, de doença, fome, sede ou suicídio. Os lucros eram tão altos que compensavam essas perdas atrozes. Os africanos traficados provinham de muitas regiões e povos — **bantos** (da região do Congo e de Angola), **iorubás** e outros **sudaneses** (da África Ocidental) —, trazendo consigo línguas, religiões e saberes que se enraizariam no Brasil.
+
+::: {.callout-note title="Conceito-chave: peça e tumbeiro"}
+No vocabulário atroz do tráfico, o africano era contado como "**peça**" (peça da Índia): uma unidade de medida comercial, baseada num homem jovem e sadio — a linguagem transformava a pessoa em mercadoria. Os navios negreiros eram apelidados de "**tumbeiros**", de "tumba", porque tantos morriam a bordo que eram, literalmente, túmulos flutuantes. Prestar atenção às palavras é perceber como a escravidão precisava, antes de tudo, **negar a humanidade** de suas vítimas.
+:::
+
+## Vida, trabalho e violência {#sec-vida-trabalho}
+
+A escravidão marcava toda a vida do cativo. O trabalho ia dos **engenhos** (canaviais, moendas, caldeiras) às **minas** (@sec-mineracao-sociedade-do-ouro), da lavoura de alimentos aos serviços domésticos. Havia distinções: os **escravos de eito** (da lavoura, os mais numerosos e mais castigados), os **escravos domésticos** (na casa-grande) e os **escravos de ganho** (nas cidades, que trabalhavam nas ruas — como vendedores, carregadores, artesãos — e entregavam ao senhor parte do que ganhavam).
+
+A base do sistema era a **violência**: o **castigo físico** (o açoite no **tronco** ou no **pelourinho**), os ferros, as marcas a fogo, a mutilação. A **expectativa de vida** de um escravizado no eito era baixíssima; muitos senhores calculavam que era mais "econômico" comprar novos cativos do que preservar os que tinham — daí a dependência contínua do tráfico. As **mulheres** escravizadas somavam ao trabalho a exploração sexual e o drama de ver os filhos nascerem cativos. E, apesar de tudo, os africanos e seus descendentes construíram **cultura**: preservaram e recriaram religiões (o **candomblé**, resultado de tradições iorubás e bantas), músicas, danças, a **capoeira**, formas de família e de solidariedade. A cultura foi, ela mesma, uma forma de resistir à desumanização.
+
+## Formas de resistência {#sec-resistencia}
+
+Contra a leitura antiga que via o escravizado como passivo e conformado, a historiografia recente demonstrou que a **resistência** foi constante e assumiu **muitas formas** (@fig-formas-resistencia), da mais explosiva à mais cotidiana:
+
+- **Resistência aberta:** as **fugas** (individuais ou coletivas), as **revoltas** e insurreições, a formação de **quilombos** (comunidades de escravizados fugidos). Em casos extremos, o **suicídio** e o **banzo** (uma depressão profunda, muitas vezes fatal, ligada à saudade da terra) — formas trágicas de recusa.
+- **Resistência cotidiana ("negociação"):** a lentidão proposital no trabalho, a quebra de ferramentas, a sabotagem, a fuga temporária para pressionar o senhor, a preservação de laços familiares e religiosos. Não eram "acomodação": eram táticas para **arrancar melhorias** e preservar espaços de autonomia dentro de um sistema opressor.
+
+::: {#fig-formas-resistencia}
+
+```{.tikz}
+%%| filename: fig-formas-resistencia
+%%| alt: Esquema das formas de resistência escrava, da resistência aberta à cotidiana.
+\begin{tikzpicture}[every node/.style={font=\scriptsize}]
+  \node[draw, very thick, fill=manualgray!14, rounded corners, align=center, text width=4.4cm, minimum height=0.9cm] (r) at (0,2.2) {\textbf{RESISTÊNCIA ESCRAVA}};
+  \node[draw, thick, fill=manualred!16, rounded corners, align=center, text width=4.2cm, minimum height=1.5cm] (a) at (-3,0) {\textbf{Aberta}\\ \scriptsize fugas, revoltas, quilombos,\\ suicídio, banzo};
+  \node[draw, thick, fill=manualblue!14, rounded corners, align=center, text width=4.2cm, minimum height=1.5cm] (c) at (3,0) {\textbf{Cotidiana (negociação)}\\ \scriptsize lentidão, sabotagem, quebra de ferramentas, cultura};
+  \draw[vetor] (r) -- (a); \draw[vetor] (r) -- (c);
+\end{tikzpicture}
+```
+
+As formas de resistência: a explosão da fuga e da revolta e a pressão silenciosa da resistência cotidiana. Ambas negavam, na prática, a ideia de um escravizado "conformado".
+:::
+
+## Palmares: o maior quilombo das Américas {#sec-palmares}
+
+O símbolo maior da resistência foi o **Quilombo dos Palmares**, na região da serra da Barriga (atual Alagoas). Formado ainda no fim do século XVI e no início do XVII — favorecido pela desorganização causada pelas **invasões holandesas** (@sec-administracao-uniao-iberica-invasoes) —, Palmares foi, na verdade, uma **confederação de várias aldeias** (os "**mocambos**"), que teria chegado a abrigar **milhares** de pessoas: africanos fugidos, seus descendentes, mas também indígenas e mestiços pobres. Palmares tinha organização política própria, agricultura, comércio com regiões vizinhas e uma capacidade militar que resistiu, por quase **cem anos**, a sucessivas expedições luso-holandesas.
+
+Seus líderes mais célebres foram **Ganga Zumba** e, sobretudo, **Zumbi** (c. 1655–1695). Quando a Coroa ofereceu um acordo de paz (que reconhecia a liberdade dos nascidos em Palmares, mas exigia a devolução de novos fugidos), Ganga Zumba aceitou, mas **Zumbi recusou** e liderou a resistência até o fim. Palmares foi finalmente destruído em 1694 por uma expedição de **bandeirantes paulistas** comandada por **Domingos Jorge Velho**. Zumbi, traído e capturado, foi morto em **20 de novembro de 1695** — data hoje celebrada como o **Dia da Consciência Negra**, marco da memória da resistência negra no Brasil.
+
+::: {.callout-tip title="Dica de prova: Palmares e a data-símbolo"}
+Guarde a conexão que cai muito em prova: **20 de novembro** (morte de **Zumbi**, 1695) = **Dia da Consciência Negra**. E note a ironia histórica reveladora: quem destruiu Palmares não foi o exército da metrópole, mas os **bandeirantes paulistas** (Domingos Jorge Velho) — os mesmos que escravizavam indígenas no interior. A repressão à resistência negra articulava interesses de colonos, Coroa e senhores.
+:::
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+**Do "escravo-coisa" ao escravo sujeito.** Por muito tempo, duas visões opostas dominaram o estudo da escravidão, e nenhuma delas dava voz ao escravizado. De um lado, a herança de **Gilberto Freyre** [@freyre2003] sugeria uma escravidão "**branda**", amaciada pela intimidade da casa-grande. De outro, a chamada **escola sociológica paulista** dos anos 1960 (Florestan Fernandes, Fernando Henrique Cardoso, Otávio Ianni), reagindo a Freyre, descreveu o escravizado como uma **"coisa"** — um ser tão esmagado pela violência do sistema que estaria **coisificado**, reduzido a mero instrumento de trabalho, sem cultura nem vontade próprias. Paradoxalmente, ao denunciar a brutalidade, essa visão acabava também **apagando a agência** do escravizado, retratado como pura vítima.
+
+**A virada dos anos 1980: negociação e conflito.** A partir dos anos 1980, uma nova geração de historiadores — com destaque para **João José Reis** e **Eduardo Silva**, em *Negociação e conflito* (1989) [@reisSilva1989] — propôs uma leitura mais rica. Sem negar a violência estrutural, mostraram que os escravizados eram **sujeitos ativos**: resistiam não só pela revolta aberta (o "conflito"), mas também pela "**negociação**" cotidiana — arrancando dos senhores, dia a dia, pequenas conquistas (uma folga, um pedaço de terra para plantar, o direito de manter a família ou a religião). Estudos sobre **Palmares**, sobre as **irmandades religiosas negras**, sobre as revoltas urbanas (como a **Revolta dos Malês**, na Bahia de 1835, já no Império) e sobre a família escrava revelaram um universo de **cultura, estratégia e luta**. O escravizado deixou de ser visto como "coisa" ou como "vítima passiva" e passou a ser reconhecido como **agente histórico**.
+
+**Por que a mudança?** Em parte por **novas fontes e métodos**: processos judiciais, registros de irmandades, inventários e a influência da micro-história e da história vista "de baixo" permitiram enxergar o cotidiano dos cativos, antes invisível nas fontes dos senhores. Em parte pelo **contexto**: os movimentos negros, a redemocratização e as lutas por direitos, das décadas de 1970 e 1980, colocaram a **agência negra** no centro das perguntas dos historiadores. O caso de Palmares é exemplar: a mesma história pode ser contada como a de um "foco de bandidos" a ser reprimido (a versão dos documentos coloniais) ou como a de um **projeto de liberdade** (a leitura atual) — e a diferença está, mais uma vez, em **de que lado** e com que perguntas se investiga.
+
+::: {.callout-warning title="Controvérsia: resistir é só se revoltar?"}
+Um debate delicado: ao valorizar a "negociação" cotidiana, corre-se o risco de **suavizar** a escravidão, como se ela fosse um jogo de concessões mútuas? Os defensores da abordagem respondem que não: negociar **dentro** de um sistema violento não é aceitá-lo, mas sobreviver e resistir **por outros meios**, quando a revolta aberta era quase suicida. O ponto é não cair em nenhum dos dois extremos: nem a escravidão "branda" de Freyre, nem o escravizado "coisificado" e sem vontade. A síntese madura reconhece, ao mesmo tempo, a **brutalidade** do sistema **e** a **agência** de quem, apesar dela, lutou, negociou, fugiu e criou cultura.
+:::
+
+## Resumo do capítulo {#sec-resumo}
+
+- A **escravidão indígena** predominou nos primeiros tempos, mas cedeu à **africana** por um conjunto de fatores: **doenças** que dizimavam os indígenas, sua **resistência** e fuga (conheciam a terra), a **oposição dos jesuítas** à escravização indígena e, sobretudo, o **lucro do tráfico** negreiro. A predominância **não** foi racial nem natural — o racismo veio **depois**, como justificativa.
+- O **tráfico negreiro** atlântico, no marco do **comércio triangular** (Europa → África → América → Europa), foi o negócio central do sistema. A **travessia do meio** nos "**tumbeiros**" matava de 10% a 20% dos cativos. Cerca de **4,8 milhões** de africanos desembarcaram no Brasil — quase metade dos traficados às Américas.
+- A vida do escravizado era marcada pelo trabalho (de **eito**, **doméstico**, **de ganho**) e pela **violência** (tronco, pelourinho, marcas). Ainda assim, africanos e descendentes criaram **cultura** (candomblé, capoeira, música) — forma de resistir à desumanização.
+- A **resistência** foi constante: **aberta** (fugas, revoltas, **quilombos**, suicídio, banzo) e **cotidiana** (lentidão, sabotagem, "negociação"). O maior símbolo foi o **Quilombo dos Palmares** (séc. XVII), confederação de mocambos liderada por **Zumbi**, destruído em 1694–1695 pelos bandeirantes de **Domingos Jorge Velho**. **20 de novembro** = **Dia da Consciência Negra**.
+- Historiografia: da escravidão "**branda**" (Freyre) ao escravo "**coisa**" (escola paulista) e, a partir dos anos 1980, ao escravizado como **sujeito ativo** que **negocia e entra em conflito** (**Reis** e **Silva**).
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Domine: (1) por que a escravidão **africana** predominou (sem cair no erro racial); (2) o **tráfico** e o comércio triangular; (3) as formas de **trabalho** e a violência; (4) as formas de **resistência** (aberta e cotidiana); (5) **Palmares** e Zumbi; (6) o debate historiográfico (coisa × sujeito).
+:::
+
+**1.** Explique por que a escravidão africana predominou sobre a indígena, evitando o erro de atribuir isso a causas "naturais".
+
+::: {.callout-tip collapse="true" title="Solução"}
+A predominância teve causas **econômicas, demográficas e políticas**, não raciais. (1) **Doenças** europeias (varíola, gripe, sarampo) dizimaram os indígenas, provocando o colapso demográfico; (2) os indígenas **resistiam e fugiam** com facilidade, pois conheciam o território; (3) os **jesuítas** se opunham à escravização indígena (que atrapalhava a catequese), embora em geral tolerassem a africana; (4) e, decisivamente, o **tráfico negreiro era um negócio extremamente lucrativo** — comerciantes e Coroa ganhavam vendendo e taxando o africano, que gerava lucro **antes mesmo** de trabalhar. É um erro grave achar que o africano "servia melhor" à escravidão por alguma característica própria: o **racismo não foi a causa**, mas uma **justificativa** construída depois para legitimar um sistema movido pelo interesse econômico.
+:::
+
+**2.** Descreva o **comércio triangular** e a **travessia do meio**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+O **comércio triangular** ligava três continentes: navios europeus levavam **manufaturas** (armas, tecidos, aguardente) à **África**, onde as trocavam por **pessoas escravizadas**; da África, cruzavam o Atlântico até a **América**, onde vendiam os cativos e carregavam **gêneros coloniais** (açúcar, tabaco, ouro) de volta à **Europa**. A **travessia do meio** era o trecho África–América: a viagem nos **navios negreiros** ("tumbeiros"), em que homens, mulheres e crianças eram amontoados, acorrentados, em porões imundos, sem higiene nem ar. Entre **10% e 20%** morriam no caminho, de doença, fome, sede ou suicídio — mas os lucros eram tão altos que compensavam essas perdas. Foi uma das maiores migrações forçadas da história.
+:::
+
+**3.** Diferencie os **escravos de eito**, **domésticos** e **de ganho**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+- **Escravos de eito:** trabalhavam na **lavoura** (canaviais, roças) e nas atividades pesadas do engenho ou das minas. Eram os mais numerosos e os mais **castigados**, com expectativa de vida baixíssima.
+- **Escravos domésticos:** serviam dentro da **casa-grande** (cozinha, limpeza, cuidado das crianças, companhia). Sua condição podia ser um pouco menos brutal fisicamente, mas envolvia vigilância constante e, para as mulheres, a exploração sexual.
+- **Escravos de ganho:** típicos das **cidades**, trabalhavam nas ruas (como vendedores, carregadores, artesãos, barbeiros) e entregavam ao senhor uma parte fixa do que ganhavam, ficando às vezes com um resto — o que, em alguns casos, permitia juntar dinheiro para comprar a própria **alforria**.
+:::
+
+**4.** Distinga **resistência aberta** de **resistência cotidiana**, dando exemplos de cada uma.
+
+::: {.callout-tip collapse="true" title="Solução"}
+A **resistência aberta** é o enfrentamento direto e visível: as **fugas** (individuais ou coletivas), as **revoltas** e insurreições, a formação de **quilombos** (comunidades de fugidos) e, em casos-limite, o **suicídio** e o **banzo** (depressão fatal ligada à saudade da terra) — recusas radicais do cativeiro. A **resistência cotidiana** (ou "**negociação**") é a pressão silenciosa e diária: a **lentidão** proposital no trabalho, a **sabotagem**, a **quebra de ferramentas**, a fuga temporária para pressionar o senhor, a preservação de laços de **família** e de **religião** e a criação de cultura. Não era acomodação, mas uma **tática** para arrancar melhorias e preservar autonomia dentro de um sistema em que a revolta aberta era quase suicida. As duas formas mostram que o escravizado **nunca** foi passivo.
+:::
+
+**5.** Reconstrua a história do **Quilombo dos Palmares** e explique seu significado.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Palmares**, na serra da Barriga (atual Alagoas), foi o maior quilombo das Américas. Formado entre o fim do século XVI e o início do XVII — favorecido pela desordem das **invasões holandesas** —, foi na verdade uma **confederação de aldeias** (os "**mocambos**"), com milhares de habitantes: africanos fugidos, seus descendentes, indígenas e mestiços pobres. Tinha organização política, agricultura e comércio próprios, e capacidade militar para resistir por quase **cem anos** a sucessivas expedições. Seus líderes maiores foram **Ganga Zumba** (que aceitou um acordo de paz) e **Zumbi** (que o recusou e resistiu até o fim). Palmares foi destruído em 1694 pela expedição do bandeirante **Domingos Jorge Velho**, e Zumbi, morto em **20 de novembro de 1695**. Seu significado é enorme: Palmares foi um **projeto concreto de liberdade** e de organização social alternativa à escravidão — por isso Zumbi se tornou símbolo maior da resistência negra, e sua data de morte, o **Dia da Consciência Negra**.
+:::
+
+**6.** (Estilo ENEM) Leia o texto.
+
+> "Durante muito tempo, escreveu-se a história da escravidão como se os cativos fossem apenas vítimas — ora tratadas com brandura, ora reduzidas a coisas. Faltava perceber que, mesmo nas condições mais adversas, homens e mulheres escravizados negociavam espaços de autonomia, preservavam laços e, quando podiam, se rebelavam."
+
+O texto defende uma interpretação da escravidão que
+
+**(a)** nega a existência de violência no sistema escravista.
+**(b)** reconhece os escravizados como sujeitos ativos, capazes de resistência e negociação.
+**(c)** confirma a tese da escravidão branda de Gilberto Freyre.
+**(d)** reduz os cativos à condição de meros instrumentos de trabalho.
+**(e)** afirma que a resistência se limitava às grandes revoltas armadas.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (b).** O texto critica tanto a visão da escravidão "branda" quanto a do escravo reduzido a "coisa" e defende que, "mesmo nas condições mais adversas", os cativos **negociavam** autonomia, **preservavam laços** e **se rebelavam** — ou seja, eram **sujeitos ativos** e capazes de resistência (a leitura de Reis e Silva). As demais estão erradas: o texto **não** nega a violência (a), não confirma a brandura freyriana (c), não reduz o cativo a instrumento (d) e não limita a resistência às revoltas armadas — ao contrário, valoriza também a resistência cotidiana (e).
+:::
+
+**7.** (Estilo vestibular — dissertativa) Explique a evolução da historiografia da escravidão, da tese da escravidão "branda" à ideia do escravizado como sujeito histórico.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Resposta esperada: a historiografia passou por três grandes momentos. (1) A herança de **Gilberto Freyre** (anos 1930) sugeria uma escravidão relativamente **branda**, amaciada pela intimidade da casa-grande — visão hoje criticada por encobrir a violência. (2) Reagindo a Freyre, a **escola sociológica paulista** (anos 1960: Florestan Fernandes, Fernando Henrique Cardoso, Otávio Ianni) denunciou a brutalidade do sistema, mas descreveu o escravizado como uma "**coisa**" **coisificada**, esmagada e sem agência — de modo que, ao expor a violência, acabou **apagando a vontade** do cativo. (3) A partir dos anos **1980**, com **João José Reis** e **Eduardo Silva** (*Negociação e conflito*), surgiu a leitura hoje dominante: sem negar a violência estrutural, mostra o escravizado como **sujeito ativo**, que resiste tanto pela **revolta aberta** (conflito) quanto pela **negociação** cotidiana, preservando cultura, família e religião. Essa evolução se explica por **novas fontes** (processos judiciais, registros de irmandades) e por um novo **contexto** (os movimentos negros e as lutas por direitos), que colocaram a **agência negra** no centro das perguntas. A síntese madura reconhece, ao mesmo tempo, a **brutalidade** do sistema e a **agência** de quem resistiu a ele.
+:::
+
+**8.** Por que se afirma que "o racismo foi consequência, e não causa, da escravidão"? Discuta.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque a escravização dos africanos foi motivada, em primeiro lugar, por **interesses econômicos** (o lucro do tráfico e da produção colonial), demográficos (o colapso da população indígena) e políticos — **não** por uma suposta inferioridade racial. O sistema escravista já operava por essas razões práticas quando as ideologias racistas foram elaboradas e difundidas para **justificá-lo**: para tornar aceitável escravizar seres humanos, construiu-se a ficção de que os africanos seriam "naturalmente" inferiores, destinados à servidão. Ou seja, primeiro veio o **interesse** em escravizar; depois, a **ideologia racista** que legitimava essa exploração. Inverter essa ordem — supor que se escravizou o africano "porque era inferior" — é reproduzir a própria propaganda escravista. Reconhecer que o racismo foi **construído** para sustentar a escravidão ajuda a entender por que ele **persistiu** mesmo após a abolição: era um pilar ideológico com vida própria.
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- REIS, João José; SILVA, Eduardo. *Negociação e conflito: a resistência negra no Brasil escravista* [@reisSilva1989]. A obra que consolidou a visão do escravizado como sujeito ativo.
+- GOMES, Laurentino. *Escravidão* [@gomes2022]. Narrativa ampla e acessível sobre o tráfico e a escravidão no Brasil, em vários volumes.
+- FREITAS, Décio. *Palmares: a guerra dos escravos* [@freitas1982]. Estudo clássico sobre o maior quilombo das Américas.
+- SCHWARTZ, Stuart B. *Segredos internos* [@schwartz1988]. Sobre o trabalho escravo nos engenhos da Bahia, com atenção à resistência.
+
+**Filmes e documentários**
+
+- *Quilombo* (1984), dir. Cacá Diegues. Recria a saga de Palmares, de Ganga Zumba a Zumbi — ótimo disparador de debate.
+- *12 Anos de Escravidão* (2013), dir. Steve McQueen. Embora sobre os EUA, retrata com força a violência do sistema escravista e a resistência.
+- *Kbela* (2015), dir. Yasmin Thayná, e produções do cinema negro brasileiro, úteis para discutir as permanências e a memória da escravidão.

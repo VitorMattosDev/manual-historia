@@ -1,5 +1,190 @@
 # Chegada portuguesa e o ciclo do pau-brasil {#sec-chegada-portuguesa-pau-brasil}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+O nome do país é o nome de uma árvore que quase desapareceu. O **pau-brasil** (*Paubrasilia echinata*), de cujo miolo avermelhado se extraía um corante muito procurado na Europa, foi tão explorado nos primeiros séculos que hoje figura na lista de espécies ameaçadas de extinção. Antes de "Brasil", a terra teve outros nomes nos documentos portugueses — Ilha de Vera Cruz, Terra de Santa Cruz —, mas foi o produto comercial que a batizou de forma duradoura. Nesse detalhe já está uma chave para entender toda esta história: desde o primeiro momento, o que atraiu os europeus a esta parte da América não foi o desejo de "conhecer um novo mundo", mas a busca de algo que se pudesse **vender** com lucro. Este capítulo abre o Volume 8 — dedicado ao Brasil Colônia — reconstruindo o encontro de 1500, as três primeiras décadas de exploração do litoral e o momento em que Portugal decidiu, enfim, **colonizar** a terra que havia apenas tateado.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- situar a chegada portuguesa de 1500 no contexto da **expansão marítima** e do **Tratado de Tordesilhas**;
+- discutir criticamente os termos "**descobrimento**", "**encontro**" e "**invasão**", e o que a **Carta de Caminha** revela e silencia;
+- caracterizar o **período pré-colonial** (1500–1530): o **escambo**, as **feitorias** e o ciclo do **pau-brasil**;
+- explicar por que Portugal demorou a colonizar e o que o levou a mudar de rumo a partir de 1530;
+- descrever o sistema das **capitanias hereditárias** e avaliar seus resultados.
 :::
+
+## O encontro de 1500: contexto e primeiras impressões {#sec-encontro-1500}
+
+Em 22 de abril de 1500, a esquadra comandada por **Pedro Álvares Cabral** (c. 1467–c. 1520) avistou o monte que batizaria de Pascoal, no litoral do atual sul da Bahia. A frota, com treze embarcações e mais de mil homens, não vagava ao acaso: seguia rumo às **Índias**, refazendo o caminho que **Vasco da Gama** abrira em 1498 (@sec-expansao-maritima). A chegada à América foi, para a historiografia tradicional, um "acaso" na rota para o Oriente; para outros historiadores, resultado provável de uma navegação que já suspeitava haver terras a oeste. O debate sobre a **intencionalidade** permanece aberto — e, em boa medida, é insolúvel com as fontes disponíveis.
+
+O que Cabral encontrou não era um vazio. O litoral era habitado havia milênios por povos de língua **tupi-guarani** — os cronistas chamariam genericamente de **Tupinambá**, **Tupiniquim**, entre muitos outros — organizados em aldeias, praticantes de agricultura (mandioca, milho), da caça, da pesca e da guerra entre grupos (@sec-pre-historia-brasil-america). Estima-se que vivessem no território que viria a ser o Brasil entre **2 e 4 milhões** de indígenas em 1500, número que se tornaria objeto de intensa controvérsia demográfica. Os europeus, portanto, não descobriram uma terra sem gente: **encontraram** sociedades inteiras, com suas línguas, técnicas e visões de mundo.
+
+::: {.callout-important title="Armadilha: \"descobrimento\" é uma palavra carregada"}
+Dizer que Cabral "descobriu" o Brasil adota, sem perceber, o **ponto de vista do colonizador**: só se "descobre" o que se supõe desconhecido — e a terra não era desconhecida de quem já vivia nela. Por isso muitos historiadores preferem falar em **encontro** (que sublinha o contato entre dois mundos) ou, quando se enfatiza a violência que se seguiu, em **invasão** e **conquista**. Nenhum termo é "neutro": cada um carrega uma interpretação. Ao usar "descobrimento", faça-o com aspas críticas, ciente de que a palavra tem história e ideologia.
+:::
+
+O primeiro documento escrito sobre a terra é a **Carta de Pero Vaz de Caminha** [@caminha2003], escrivão da frota, endereçada ao rei D. Manuel I em 1º de maio de 1500. Caminha descreve com curiosidade os habitantes — "**pardos**", nus, "inocentes", sem rei nem lei nem fé reconhecíveis — e registra a primeira missa. Sua frase mais citada, sobre a fertilidade da terra ("em se plantando, tudo dá"), tornou-se quase um mito de fundação. Mas a Carta é também uma fonte a ser **interrogada**: escrita por um funcionário régio, para um rei, ela vê o indígena pelas lentes do europeu cristão do século XVI e projeta expectativas (conversão, riqueza, posse) sobre o que observa. Ler Caminha é aprender que **toda fonte tem autor, destinatário e ponto de vista** (@sec-fontes-historicas).
+
+## O período pré-colonial e o ciclo do pau-brasil (1500–1530) {#sec-periodo-pre-colonial}
+
+Após 1500, Portugal **não** ocupou de imediato a nova terra. A razão é econômica: o comércio de especiarias com as **Índias** (pimenta, cravo, canela) era muitíssimo mais lucrativo e absorvia todas as energias da Coroa. A América portuguesa parecia, à primeira vista, pobre — sem os impérios ricos em ouro e prata que os espanhóis logo encontrariam no México e no Peru (@sec-conquista-da-america). Durante três décadas, chamadas de **período pré-colonial**, a presença lusa limitou-se à **exploração do litoral**, sobretudo de um produto: o **pau-brasil**.
+
+O pau-brasil crescia na Mata Atlântica e fornecia a **brasileína**, corante vermelho valioso para a indústria têxtil europeia. Como era madeira pesada, cuja derrubada e transporte exigiam muitos braços, os portugueses recorreram ao **escambo** (@fig-escambo-pau-brasil): trocavam com os indígenas **quinquilharias** — espelhos, facas, machados de ferro, contas, tecidos — pelo trabalho de cortar e carregar as toras até os navios. Para o indígena, um machado de metal representava um salto tecnológico enorme frente aos instrumentos de pedra; para o europeu, era um custo irrisório. Esse trabalho, nesta fase, ainda **não** era escravidão propriamente dita, mas uma troca desigual entre parceiros que se avaliavam mutuamente.
+
+::: {#fig-escambo-pau-brasil}
+
+```{.tikz}
+%%| filename: fig-escambo-pau-brasil
+%%| alt: Diagrama do escambo do pau-brasil: indígenas fornecem trabalho e madeira, europeus fornecem quinquilharias de metal.
+\begin{tikzpicture}[>=stealth]
+  \node[draw, very thick, fill=manualgreen!16, rounded corners, font=\scriptsize\bfseries, align=center, text width=3cm, minimum height=1.6cm] (i) at (-3.4,0) {INDÍGENAS\\ \scriptsize (Tupi do litoral)};
+  \node[draw, very thick, fill=manualblue!16, rounded corners, font=\scriptsize\bfseries, align=center, text width=3cm, minimum height=1.6cm] (e) at (3.4,0) {EUROPEUS\\ \scriptsize (feitorias na costa)};
+  \draw[vetor, manualgreen!60!black, thick] (i.north east) to[bend left=20] node[above, font=\scriptsize, align=center] {trabalho + toras\\ de pau-brasil $\rightarrow$} (e.north west);
+  \draw[vetor, manualred, thick] (e.south west) to[bend left=20] node[below, font=\scriptsize, align=center] {$\leftarrow$ machados, facas,\\ espelhos (metal)} (i.south east);
+  \node[font=\scriptsize\itshape, text=manualgray, align=center] at (0,2.3) {\textbf{Escambo} — troca desigual\\ (não é ainda escravidão)};
+\end{tikzpicture}
+```
+
+O **escambo** do pau-brasil: os indígenas forneciam o trabalho pesado em troca de objetos de metal; os europeus, o corante que revendiam com lucro na Europa.
+:::
+
+A extração era organizada a partir de **feitorias**: pequenos entrepostos fortificados no litoral (a mais conhecida foi a de Cabo Frio) onde a madeira era estocada até o embarque. O comércio do pau-brasil foi declarado **monopólio real** (o **estanco**): sua exploração só era permitida mediante autorização da Coroa, mas na prática foi arrendada a comerciantes, como o cristão-novo **Fernão de Loronha**, que a explorou nos primeiros anos.
+
+::: {.callout-warning title="A ameaça francesa"}
+Portugal alegava posse da terra pelo **Tratado de Tordesilhas** (1494), que dividira o mundo a conquistar entre portugueses e espanhóis (@sec-expansao-maritima). Mas a **França** — que não reconhecia o tratado, atribuído à "partilha" entre apenas duas potências — enviava **corsários** para contrabandear pau-brasil e aliar-se a povos indígenas, como os **Tamoios**. A pergunta atribuída ao rei francês Francisco I — em que testamento de Adão ele fora deserdado da partilha do mundo? — resume a contestação. Foi, em grande medida, essa **pressão estrangeira** que forçou Portugal a ocupar efetivamente a colônia, para não perdê-la.
+:::
+
+## Da exploração à colonização: 1530 e as capitanias hereditárias {#sec-capitanias}
+
+Por volta de 1530, vários fatores empurraram Portugal a mudar de política. O comércio das especiarias com o Oriente começava a **declinar** e a dar prejuízos; a **ameaça francesa** ao litoral crescia; e o exemplo espanhol mostrava que a América podia render riqueza. A decisão foi **ocupar e povoar** — isto é, **colonizar**.
+
+O primeiro passo foi a expedição de **Martim Afonso de Sousa** (1500–1571), enviada em 1530 com dupla função: expulsar os franceses e iniciar o povoamento. Em 1532, Martim Afonso fundou **São Vicente**, no litoral paulista, a primeira vila portuguesa efetiva da América, onde se instalou o primeiro **engenho de açúcar** — anúncio do que seria o motor econômico das décadas seguintes (@sec-sociedade-acucareira).
+
+Para colonizar um território imenso **sem** gastar os cofres da Coroa, D. João III adotou, a partir de 1534, um modelo já testado nas ilhas atlânticas: as **capitanias hereditárias**. O litoral foi dividido em quinze faixas de terra (os "quinhões"), doadas a **donatários** — nobres, funcionários e comerciantes de posses — que assumiam, por sua conta e risco, o dever de povoar, defender e explorar a região. A relação era definida por dois documentos (@fig-capitanias-hereditarias):
+
+- a **Carta de Doação**, que concedia a posse hereditária da capitania (transmissível aos herdeiros, mas **não** vendável);
+- o **Foral**, que estabelecia direitos e deveres, os tributos devidos à Coroa e os poderes do donatário (como fundar vilas, distribuir **sesmarias** — lotes de terra a quem tivesse recursos para cultivá-los — e administrar a justiça).
+
+::: {#fig-capitanias-hereditarias}
+
+```{.tikz}
+%%| filename: fig-capitanias-hereditarias
+%%| alt: Organograma das capitanias hereditárias: a Coroa doa capitanias aos donatários, que distribuem sesmarias aos colonos.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \node[draw, very thick, fill=manualblue!18, rounded corners, align=center, text width=3.4cm, minimum height=1cm] (coroa) at (0,3) {\textbf{COROA (rei)}\\ detém a soberania};
+  \node[draw, thick, fill=manualyellow!22, rounded corners, align=center, text width=3.8cm, minimum height=1cm] (dona) at (0,1.4) {\textbf{DONATÁRIO}\\ posse hereditária (Carta de Doação + Foral)};
+  \node[draw, thick, fill=manualgreen!16, rounded corners, align=center, text width=4.2cm, minimum height=1cm] (col) at (0,-0.2) {\textbf{COLONOS (sesmeiros)}\\ recebem sesmarias para cultivar};
+  \node[draw, fill=manualgray!14, rounded corners, align=center, text width=4.2cm, minimum height=0.9cm] (trab) at (0,-1.7) {\textbf{TRABALHO} indígena e, depois, africano escravizado};
+  \draw[vetor] (coroa) -- node[right]{doa a capitania} (dona);
+  \draw[vetor] (dona) -- node[right]{distribui sesmarias} (col);
+  \draw[vetor] (col) -- node[right]{explora} (trab);
+\end{tikzpicture}
+```
+
+A estrutura das **capitanias hereditárias**: a Coroa transferia ao donatário o encargo (e o custo) de colonizar; a base de tudo era o trabalho compulsório.
+:::
+
+O resultado foi majoritariamente um **fracasso**. Das quinze capitanias, apenas duas prosperaram: **Pernambuco**, sob Duarte Coelho, graças ao açúcar, e **São Vicente**. As demais soçobraram por falta de recursos, distância, ataques indígenas e má administração — em Pernambuco e na Bahia, os conflitos com os indígenas foram violentos. O sistema mostrou que a colonização, entregue a particulares dispersos, precisava de **coordenação central**: em 1548, a Coroa criaria o **Governo-Geral** (@sec-administracao-uniao-iberica-invasoes) sem, contudo, extinguir as capitanias, que conviveriam com a nova estrutura.
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+**"Descobrimento" ou "invasão"? Uma disputa que não é só de palavras.** Durante mais de um século, a historiografia oficial brasileira — herdeira do **Instituto Histórico e Geográfico Brasileiro** e de autores como **Francisco Adolfo de Varnhagen** (1816–1878) — narrou 1500 como um **descobrimento**: uma epopeia gloriosa da navegação portuguesa, ápice de uma civilização que trazia a fé e a "civilização" a um mundo novo. Nessa leitura, o indígena aparecia como ser primitivo, destinado a ser catequizado ou a desaparecer, e a colonização era um empreendimento fundamentalmente positivo. Foi a versão ensinada nas escolas por gerações e celebrada nas festas cívicas.
+
+A partir do século XX, e sobretudo depois dos anos 1970, essa narrativa foi **contestada**. Historiadores atentos ao ponto de vista dos vencidos passaram a falar em **conquista** e **invasão**, deslocando o foco: 1500 não teria sido o começo da história de uma terra "vazia", mas a **irrupção violenta** sobre sociedades que já existiam havia milênios. As comemorações dos **500 anos** (em 2000) tornaram o embate público: enquanto o Estado organizava festejos oficiais, movimentos indígenas e negros realizavam a "**Marcha 500 Anos de Resistência**", denunciando que, para seus antepassados, a data marcava o início da espoliação, da escravidão e do genocídio. A palavra escolhida — "descobrimento", "encontro" ou "invasão" — revela, portanto, **de que lado** se conta a história.
+
+**Por que as interpretações divergem?** Em primeiro lugar, porque partem de **fontes e sujeitos diferentes**: quem se apoia nas crônicas portuguesas (Caminha, os cronistas régios) tende a ver a chegada com os olhos do colonizador; quem busca reconstruir a experiência indígena (pela arqueologia, pela etno-história, pela tradição oral) enxerga uma catástrofe demográfica e cultural. Em segundo lugar, porque cada geração de historiadores é **filha de seu tempo**: a história-epopeia servia à construção de uma identidade nacional no Império e na Primeira República; a história crítica responde às lutas por direitos de indígenas e negros no Brasil contemporâneo e à Lei 11.645/2008, que tornou obrigatório o ensino da história indígena. Não se trata de "inventar" fatos — Cabral chegou em 1500, disso ninguém duvida —, mas de **perguntar** quem tem voz na narrativa e a serviço de que projeto ela é contada.
+
+::: {.callout-warning title="Controvérsia: a Carta de Caminha diz a verdade?"}
+A Carta de Caminha é uma fonte preciosa, mas **não** é uma janela transparente para 1500. Ela nos diz muito sobre como um **europeu cristão** via o indígena — como alguém "sem fé, sem lei, sem rei", uma "página em branco" pronta para ser convertida —, mas quase nada sobre como os **próprios indígenas** interpretaram a chegada dos estranhos. O que os Tupiniquim pensaram daqueles homens barbados e vestidos? A Carta silencia. Reconstruir esse outro lado exige cruzar arqueologia, linguística e antropologia, porque as fontes escritas do contato foram todas produzidas por um só dos lados. Toda a dificuldade — e todo o fascínio — da história do encontro está aí.
+:::
+
+## Resumo do capítulo {#sec-resumo}
+
+- Em **22 de abril de 1500**, a frota de **Cabral**, rumo às Índias, chegou ao litoral da Bahia. A terra **não** era vazia: era habitada por milhões de indígenas **tupi-guarani** (Tupinambá, Tupiniquim). Falar em "**descobrimento**" adota o ponto de vista do colonizador; "**encontro**" e "**invasão**" são alternativas críticas.
+- A **Carta de Pero Vaz de Caminha** (1500) é o primeiro documento escrito sobre a terra — fonte valiosa, mas parcial: vê o indígena pelas lentes do europeu cristão e silencia o ponto de vista nativo.
+- No **período pré-colonial (1500–1530)**, Portugal, absorvido pelo lucrativo comércio das Índias, apenas **explorou o litoral**. O produto foi o **pau-brasil**, obtido por **escambo** com os indígenas (trabalho e madeira por quinquilharias de metal) e estocado em **feitorias**; sua exploração era **monopólio real (estanco)**.
+- A **ameaça francesa** (corsários, contrabando, aliança com os Tamoios), somada ao declínio do comércio oriental, forçou Portugal a **colonizar** de fato.
+- A partir de **1530**, a expedição de **Martim Afonso de Sousa** fundou **São Vicente** (1532); a partir de **1534**, criaram-se as **capitanias hereditárias** (Carta de Doação + Foral; sesmarias aos colonos). O sistema **fracassou** quase todo — só **Pernambuco** e **São Vicente** prosperaram —, o que levaria ao **Governo-Geral** (1548).
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Domine: (1) o **contexto** de 1500 (expansão marítima, Tordesilhas) e a crítica ao termo "descobrimento"; (2) a Carta de Caminha como **fonte**; (3) o **ciclo do pau-brasil** (escambo, feitorias, estanco); (4) as causas da virada de 1530; (5) as **capitanias hereditárias** e por que fracassaram.
+:::
+
+**1.** Explique por que muitos historiadores evitam a palavra "descobrimento" para se referir a 1500 e quais termos preferem.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque "descobrimento" adota o **ponto de vista do colonizador**: só se "descobre" algo supostamente desconhecido, mas a terra já era habitada havia milênios por milhões de indígenas — não era desconhecida de quem vivia nela. O termo, portanto, apaga a presença e a agência dos povos originários e trata a colonização como um feito glorioso e unilateral. Como alternativas, os historiadores usam "**encontro**" (que enfatiza o contato entre dois mundos) ou, quando querem destacar a violência que se seguiu, "**invasão**" e "**conquista**". Nenhum termo é neutro: cada um embute uma interpretação sobre de que lado se conta a história.
+:::
+
+**2.** O que foi o **escambo** no ciclo do pau-brasil? Por que ele ainda não configurava escravidão?
+
+::: {.callout-tip collapse="true" title="Solução"}
+O **escambo** era a troca direta, sem uso de moeda, pela qual os portugueses obtinham dos indígenas o **trabalho** de derrubar e transportar as toras de pau-brasil em troca de **quinquilharias** de metal — machados, facas, espelhos, contas. Era uma troca **desigual** (o europeu revendia o corante com enorme lucro na Europa, enquanto o indígena recebia objetos baratos), mas ainda **não** era escravidão: o indígena não era propriedade de ninguém, não era comprado nem vendido, e trabalhava no marco de suas próprias motivações (o interesse pelos objetos de ferro, muito superiores aos instrumentos de pedra). A escravização sistemática do indígena viria depois, com a colonização açucareira.
+:::
+
+**3.** Relacione a **ameaça francesa** com a decisão portuguesa de colonizar o Brasil a partir de 1530.
+
+::: {.callout-tip collapse="true" title="Solução"}
+A **França** não reconhecia o **Tratado de Tordesilhas** (1494), que dividira o mundo a conquistar entre Portugal e Espanha, e por isso enviava **corsários** ao litoral brasileiro para contrabandear pau-brasil e firmar **alianças com povos indígenas** (como os Tamoios). Enquanto Portugal apenas explorava o litoral por feitorias, sem ocupá-lo, corria o risco concreto de **perder a posse** da terra para os franceses. Essa pressão estrangeira, combinada ao **declínio** do comércio de especiarias com o Oriente e ao exemplo da riqueza espanhola na América, levou a Coroa a mudar de política e passar da simples exploração à **ocupação efetiva** — a colonização —, iniciada pela expedição de Martim Afonso de Sousa (1530) e pelas capitanias hereditárias (1534).
+:::
+
+**4.** Descreva o funcionamento das **capitanias hereditárias** e explique por que o sistema, em geral, fracassou.
+
+::: {.callout-tip collapse="true" title="Solução"}
+As **capitanias hereditárias** (a partir de 1534) foram a divisão do litoral em quinze faixas de terra doadas a **donatários** — nobres e comerciantes de posses —, que assumiam, **por sua conta e risco**, o dever de povoar, defender e explorar a região. A relação era regida por dois documentos: a **Carta de Doação** (posse hereditária, transmissível mas não vendável) e o **Foral** (direitos, deveres, tributos e poderes do donatário, como distribuir **sesmarias** aos colonos e administrar a justiça). O objetivo da Coroa era colonizar **sem gastar** os próprios cofres, transferindo o custo a particulares. O sistema **fracassou** na maioria dos casos porque os donatários careciam de recursos para bancar tamanho empreendimento, as capitanias eram distantes e isoladas, havia conflitos violentos com indígenas e má administração. Apenas **Pernambuco** (açúcar) e **São Vicente** prosperaram. O fracasso mostrou a necessidade de **coordenação central**, que viria com o Governo-Geral (1548).
+:::
+
+**5.** Leia o trecho da Carta de Caminha e responda.
+
+> "A feição deles é serem pardos, maneira de avermelhados, de bons rostos e bons narizes, bem-feitos. Andam nus, sem cobertura alguma. […] E não comem senão desse inhame, de que aqui há muito, e dessa semente e frutos […]. Parece-me gente de tal inocência que, se homem os entendesse e eles a nós, seriam logo cristãos." — @caminha2003
+
+(a) Que interesse do autor transparece na última frase? (b) Por que essa fonte deve ser lida com cuidado crítico?
+
+::: {.callout-tip collapse="true" title="Solução"}
+- (a) Transparece o interesse **religioso e colonizador**: Caminha, escrivão a serviço do rei cristão D. Manuel I, avalia os indígenas sobretudo por sua **aptidão à conversão** ao cristianismo ("seriam logo cristãos"). A "inocência" que ele elogia é lida como uma disposição favorável à catequese — e, portanto, à incorporação daqueles povos ao projeto português.
+- (b) Porque é uma fonte **parcial e situada**: foi escrita por um **funcionário régio**, para o **rei**, com objetivos práticos (informar sobre a terra, suas riquezas e suas gentes). Ela revela como o **europeu cristão** do século XVI via o indígena — nu, "sem fé, sem lei, sem rei", uma "página em branco" pronta para ser convertida —, mas **silencia** completamente o ponto de vista dos próprios indígenas. Tomá-la como retrato objetivo e imparcial seria ignorar seu autor, seu destinatário e seus interesses.
+:::
+
+**6.** (Estilo ENEM) Leia o texto.
+
+> "Não se deve imaginar o litoral, em 1500, como uma terra desabitada à espera de povoadores. Ao contrário: era o território de populações numerosas, que ali viviam, plantavam, guerreavam e enterravam seus mortos havia milhares de anos. O que chamamos 'descobrimento' foi, para elas, o começo de um cataclismo."
+
+O texto critica a ideia de "descobrimento" ao destacar que
+
+**(a)** os portugueses chegaram por acaso, sem intenção de povoar a terra.
+**(b)** a terra já era densamente povoada por sociedades com longa história própria.
+**(c)** o pau-brasil foi a única riqueza encontrada pelos europeus no litoral.
+**(d)** o Tratado de Tordesilhas garantia a posse legítima da terra a Portugal.
+**(e)** a colonização só se tornou efetiva com as capitanias hereditárias.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (b).** O texto rejeita a noção de "descobrimento" justamente por lembrar que o litoral **não** era "uma terra desabitada", mas o território de "**populações numerosas**" que viviam ali "**havia milhares de anos**" — ou seja, sociedades com longa **história própria**, para as quais a chegada europeia foi um "cataclismo". As demais alternativas tratam de outros temas (o acaso da chegada, o pau-brasil, Tordesilhas, as capitanias) que **não** são o alvo da crítica do texto, centrada na presença e na antiguidade dos povos originários.
+:::
+
+**7.** (Estilo vestibular — dissertativa) Explique como a mudança da política portuguesa entre 1500 e 1534 reflete a lógica do **mercantilismo** e do **Antigo Sistema Colonial** estudados no volume anterior.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Resposta esperada: a atuação portuguesa foi, do início ao fim, **guiada pelo lucro comercial**, coerente com o **mercantilismo** e o **Antigo Sistema Colonial** (@sec-antigo-sistema-colonial). No **período pré-colonial**, Portugal não colonizou porque o comércio das **especiarias** com o Oriente era mais rentável; explorou o litoral apenas para extrair o **pau-brasil**, produto de alto valor, sob **monopólio real (estanco)** — típica lógica mercantilista de concentrar o comércio lucrativo nas mãos da Coroa. Quando o comércio oriental **declinou** e a **ameaça francesa** pôs em risco a posse da terra, Portugal passou a **colonizar** — mas ainda segundo a mesma lógica: buscava um produto tropical de exportação (o **açúcar**) que enriquecesse a metrópole. As **capitanias hereditárias** permitiam ocupar a colônia **transferindo o custo** a particulares, preservando para a Coroa os tributos e o controle do comércio. Em todos os momentos, a colônia foi pensada como instrumento para **enriquecer a metrópole** — o "sentido da colonização" (Caio Prado Jr.) já operava desde a chegada.
+:::
+
+**8.** Por que se pode dizer que o próprio **nome do país** revela a lógica da colonização?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque "**Brasil**" deriva do **pau-brasil**, a primeira mercadoria explorada com lucro no litoral — a madeira de cujo miolo se extraía um corante vermelho valioso na Europa. Embora a terra tenha recebido nomes religiosos nos primeiros documentos (Ilha de Vera Cruz, Terra de Santa Cruz), foi o **produto comercial** que acabou por batizá-la de forma duradoura. Isso revela que, desde o começo, a terra foi vista pelos europeus não como um lugar a habitar por si mesmo, mas como uma **fonte de riqueza a exportar** — a própria essência do **Antigo Sistema Colonial**. O nome do país, portanto, guarda a marca de sua origem colonial e mercantil.
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- CAMINHA, Pero Vaz de. *A carta de Pero Vaz de Caminha* [@caminha2003]. A fonte fundadora: leia-a inteira, com espírito crítico, atento ao que ela mostra e ao que cala.
+- FAUSTO, Boris. *História do Brasil* [@fausto2015]. Panorama claro e confiável de toda a colônia — bom ponto de partida para o volume inteiro.
+- SCHWARCZ, Lilia M.; STARLING, Heloisa M. *Brasil: uma biografia* [@schwarczStarling2015]. Síntese recente e sofisticada, atenta aos sujeitos silenciados.
+- HOLANDA, Sérgio Buarque de. *Raízes do Brasil* [@holanda1995]. Ensaio clássico sobre a formação da sociedade brasileira e a herança ibérica.
+
+**Filmes e documentários**
+
+- *Caramuru: A Invenção do Brasil* (2001), dir. Guel Arraes. Comédia que, com humor, discute o encontro entre europeus e indígenas e a construção mítica da fundação.
+- *Hans Staden* (1999), dir. Luiz Alberto Pereira. Baseado no relato de um alemão capturado pelos Tupinambá no século XVI — precioso para pensar o contato e o ponto de vista europeu sobre os indígenas.
+- *1500 — O Brasil antes de Cabral*, documentários que reconstroem, pela arqueologia, as sociedades indígenas anteriores à chegada portuguesa.

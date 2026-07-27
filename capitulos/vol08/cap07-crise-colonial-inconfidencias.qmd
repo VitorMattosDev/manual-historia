@@ -1,5 +1,184 @@
 # Crise do sistema colonial e as Inconfidências {#sec-crise-colonial-inconfidencias}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+No dia 21 de abril de 1792, num campo do Rio de Janeiro, um homem foi enforcado e depois esquartejado; sua cabeça foi exposta em Vila Rica, e sua casa, arrasada e salgada, para que nada ali voltasse a crescer. Ele se chamava Joaquim José da Silva Xavier, o **Tiradentes** — hoje herói nacional, com feriado, monumentos e o rosto em cédulas. O contraste entre a punição infamante de 1792 e a glória póstuma é ele próprio uma lição de história: mostra como o significado dos acontecimentos é **construído** e **disputado** ao longo do tempo. Este capítulo, que encerra o Volume 8, examina os movimentos que, no fim do século XVIII, contestaram a dominação colonial — as **Inconfidências** e as **conjurações** — e discute o que eles realmente foram: nem simples "ensaios da Independência", nem meros protestos isolados, mas sintomas da **crise do Antigo Sistema Colonial** que estudamos ao longo de todo o volume.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- relacionar as revoltas coloniais à **crise do Antigo Sistema Colonial** e ao contexto atlântico (Iluminismo, independência dos EUA);
+- distinguir as **revoltas nativistas** das **revoltas emancipacionistas (as Inconfidências)**;
+- reconstruir a **Inconfidência Mineira** (1789) e a **Conjuração Baiana** (1798), comparando seus projetos sociais;
+- analisar criticamente a construção do mito de **Tiradentes** como herói nacional;
+- discutir os debates historiográficos sobre o caráter e o alcance desses movimentos.
 :::
+
+## Da revolta nativista à emancipação {#sec-nativismo-emancipacao}
+
+Ao longo dos séculos coloniais, houve **muitas revoltas** — mas nem todas tinham o mesmo sentido. Os historiadores costumam distinguir dois tipos (@fig-nativismo-emancipacao):
+
+- **Revoltas nativistas** (séculos XVII e início do XVIII): movimentos de **protesto localizado** contra abusos específicos (impostos, monopólios, autoridades), **sem** questionar o domínio português em si. Queriam corrigir injustiças **dentro** do sistema colonial, não romper com ele. Exemplos: a **Revolta de Beckman** (Maranhão, 1684, contra o monopólio comercial); a **Guerra dos Emboabas** (Minas, 1708–1709, entre paulistas e "forasteiros" pelo ouro); a **Guerra dos Mascates** (Pernambuco, 1710–1711, entre os senhores de Olinda e os comerciantes de Recife); e a **Revolta de Vila Rica / Filipe dos Santos** (Minas, 1720, contra as casas de fundição).
+- **Revoltas emancipacionistas** (fim do século XVIII): as **Inconfidências** e **Conjurações**, que já **questionavam** o próprio pacto colonial e chegavam a propor a **separação** de Portugal e a criação de uma **república**. Refletem a **crise** do sistema e a chegada das novas ideias.
+
+::: {#fig-nativismo-emancipacao}
+
+```{.tikz}
+%%| filename: fig-nativismo-emancipacao
+%%| alt: Esquema comparando revoltas nativistas e emancipacionistas.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \node[draw, very thick, fill=manualblue!14, rounded corners, align=center, text width=4.6cm, minimum height=1.8cm] (n) at (-3.2,0) {\textbf{NATIVISTAS} (séc. XVII–XVIII)\\[2pt] \scriptsize protesto local, contra abusos\\ \scriptsize \textbf{não} rompem com Portugal\\ \scriptsize Beckman, Emboabas, Mascates};
+  \node[draw, very thick, fill=manualred!16, rounded corners, align=center, text width=4.6cm, minimum height=1.8cm] (e) at (3.2,0) {\textbf{EMANCIPACIONISTAS} (fim séc. XVIII)\\[2pt] \scriptsize questionam o pacto colonial\\ \scriptsize propõem \textbf{separação} / república\\ \scriptsize Inconfidências e Conjurações};
+  \draw[vetor, thick] (n) -- node[above]{\scriptsize crise do sistema} node[below]{\scriptsize + Iluminismo} (e);
+\end{tikzpicture}
+```
+
+Do **nativismo** (corrigir abusos dentro do sistema) à **emancipação** (romper com o sistema). A passagem reflete a crise do Antigo Sistema Colonial e a difusão de novas ideias.
+:::
+
+## O contexto: por que agora? {#sec-contexto-crise}
+
+As Inconfidências não surgiram do nada. Elas são a expressão, no Brasil, de uma **crise geral do Antigo Sistema Colonial** (@sec-antigo-sistema-colonial) que abalava todas as Américas no fim do século XVIII. Vários fatores convergiram:
+
+- **O Iluminismo:** as ideias de **liberdade**, **igualdade**, soberania popular e crítica ao absolutismo e ao monopólio (Montesquieu, Rousseau, Voltaire, Adam Smith) circulavam entre a elite letrada colonial — muitos inconfidentes haviam **estudado na Europa** (sobretudo em Coimbra e na França) e possuíam bibliotecas com livros proibidos.
+- **A Independência dos Estados Unidos (1776):** o exemplo concreto e vitorioso de uma **colônia que se tornara uma república independente** eletrizou os colonos americanos. Os inconfidentes mineiros admiravam explicitamente o modelo norte-americano.
+- **A opressão fiscal e o exclusivo:** o peso dos impostos (o **quinto**, a ameaça de **derrama**), o monopólio comercial e a proibição de manufaturas (o **Alvará de 1785**, que mandou fechar as fábricas têxteis no Brasil) sufocavam a economia colonial e revoltavam as elites locais.
+- **A crise do ouro:** em Minas, o **declínio** da produção aurífera (@sec-mineracao-sociedade-do-ouro) tornava a cobrança da Coroa ainda mais insuportável — cobrava-se mais de quem tinha cada vez menos.
+
+::: {.callout-note title="Conceito-chave: inconfidência e conjuração"}
+As palavras revelam o **olhar da metrópole**. "**Inconfidência**" significa **deslealdade**, quebra da confiança devida ao rei — era o nome que a Coroa dava ao **crime** de conspirar contra ela. "**Conjuração**" e "**conspiração**" designam o ato de se unir secretamente para um fim. Ou seja, os próprios termos com que conhecemos esses movimentos (Inconfidência Mineira, Conjuração Baiana) nasceram do **vocabulário jurídico do poder** que os reprimiu. Chamá-los assim é, sem querer, adotar a perspectiva de quem os condenou — mais um exemplo de como as **palavras** carregam história e ponto de vista.
+:::
+
+## A Inconfidência Mineira (1789) {#sec-inconfidencia-mineira}
+
+A mais célebre das conjurações nasceu em **Minas Gerais**, em **1789**, no coração da região do ouro em crise. Seus participantes eram, em geral, membros da **elite local**: grandes proprietários, mineradores endividados com a Coroa, altos funcionários, padres, advogados, militares e **poetas** — os chamados **poetas inconfidentes** (**Tomás Antônio Gonzaga**, **Cláudio Manuel da Costa**, **Alvarenga Peixoto**), figuras centrais do **Arcadismo** brasileiro. O estopim seria a decretação da **derrama**.
+
+O **projeto** dos inconfidentes mineiros incluía: proclamar a **independência** de Minas (e, no ideal, do Brasil), instaurar uma **república**, transferir a capital para São João del-Rei, criar uma universidade em Vila Rica e estimular as manufaturas. A bandeira que idealizaram — um triângulo com a inscrição latina **"Libertas quae sera tamen"** ("Liberdade ainda que tardia") — é hoje a **bandeira de Minas Gerais**.
+
+::: {.callout-important title="Armadilha: a Inconfidência era um projeto popular?"}
+Cuidado com a imagem romântica de um movimento "do povo". A Inconfidência Mineira era, na origem, um projeto da **elite** colonial. Sua pauta era sobretudo **econômica e política** (livrar-se dos impostos, do exclusivo, do domínio português) — e a maioria dos inconfidentes **não** pretendia **abolir a escravidão**, base de suas próprias fortunas. A questão da liberdade dos escravizados foi tratada com **hesitação** e divisão: alguns cogitaram libertar apenas os nascidos no Brasil, outros nem isso. Ou seja, era um movimento por liberdade **para os proprietários**, não necessariamente para todos. Isso não anula sua importância, mas exige lê-lo **sem idealização**.
+:::
+
+A conjuração foi **denunciada** antes de eclodir (por **Joaquim Silvério dos Reis**, em troca do perdão de suas dívidas). Presos e processados na longa **"devassa"** (investigação), os inconfidentes foram julgados. As penas de morte foram comutadas em degredo — **exceto** para um: **Tiradentes**, alferes (oficial de baixa patente), que assumiu a responsabilidade e foi **enforcado e esquartejado em 21 de abril de 1792**, no Rio de Janeiro. Não por acaso, escolheu-se para bode expiatório o participante de **menor prestígio social**, poupando a elite.
+
+## A Conjuração Baiana (1798): a revolta que foi mais longe {#sec-conjuracao-baiana}
+
+Quase dez anos depois, em **Salvador (1798)**, eclodiu um movimento de caráter **muito diferente**: a **Conjuração Baiana**, também chamada **Revolta dos Alfaiates** (pela profissão de vários líderes). Enquanto a Inconfidência Mineira fora um projeto da elite, a Conjuração Baiana teve forte participação **popular**: **alfaiates**, **soldados**, artesãos, **ex-escravos** e **escravizados**, mulatos e negros pobres. E, coerente com essa base social, seu programa era muito mais **radical** (@fig-comparacao-conjuracoes):
+
+- proclamação de uma **república**;
+- **fim da escravidão** e igualdade entre as pessoas independentemente da cor;
+- **abertura dos portos** e liberdade de comércio;
+- aumento dos soldos e fim dos privilégios.
+
+A Conjuração Baiana propunha, portanto, não só a independência, mas uma **revolução social** — atacando a escravidão e a desigualdade racial, o que a Inconfidência Mineira jamais ousara. Por isso, foi reprimida com ferocidade: quatro líderes populares, todos **negros ou mulatos** — entre eles **João de Deus** e **Manuel Faustino** —, foram **enforcados e esquartejados** em 1799. Reveladoramente, os participantes **brancos e de elite** foram, em geral, **absolvidos ou levemente punidos**: a punição recaiu sobre os **pobres e negros**, escancarando o caráter **classista e racista** da repressão.
+
+::: {#fig-comparacao-conjuracoes}
+
+```{.tikz}
+%%| filename: fig-comparacao-conjuracoes
+%%| alt: Quadro comparativo entre a Inconfidência Mineira e a Conjuração Baiana.
+\begin{tikzpicture}[every node/.style={font=\scriptsize}]
+  \node[draw, very thick, fill=manualyellow!22, rounded corners, align=center, text width=4.7cm, minimum height=2.9cm] (m) at (-3.2,0) {\textbf{INCONFIDÊNCIA MINEIRA (1789)}\\[2pt] \scriptsize base: \textbf{elite} (mineradores, poetas)\\ \scriptsize pauta econômica/política\\ \scriptsize \textbf{mantinha} a escravidão\\ \scriptsize república (para proprietários)};
+  \node[draw, very thick, fill=manualred!16, rounded corners, align=center, text width=4.7cm, minimum height=2.9cm] (b) at (3.2,0) {\textbf{CONJURAÇÃO BAIANA (1798)}\\[2pt] \scriptsize base: \textbf{popular} (alfaiates, soldados, negros)\\ \scriptsize pauta social e racial\\ \scriptsize \textbf{fim} da escravidão\\ \scriptsize república e igualdade};
+\end{tikzpicture}
+```
+
+Duas conjurações, dois projetos. A Mineira, da **elite**, mantinha a escravidão; a Baiana, **popular**, propunha aboli-la — e por isso foi punida com muito mais violência sobre os pobres e negros.
+:::
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+**O mito de Tiradentes: a construção de um herói.** Poucos casos ilustram tão bem a diferença entre **fato histórico** e **memória** quanto o de Tiradentes. No momento de sua morte (1792), ele foi tratado como um **criminoso infame**, um traidor punido com requintes de crueldade justamente por ser o de **menor estatura social** entre os conjurados. Durante décadas, seu nome foi maldito. A transformação em **herói nacional** só veio **um século depois**, com a **Proclamação da República (1889)**: os republicanos precisavam de um **mártir** nacional, alguém que tivesse morrido por uma **república** e contra a monarquia — e Tiradentes, executado por defender uma república contra o rei, servia perfeitamente. Foi então **deliberadamente construído** como herói: criou-se o feriado de **21 de abril**, ergueram-se monumentos, e sua imagem foi refeita — de alferes barbado passou a ser retratado como uma figura **cristológica**, de barba e cabelos longos, semelhante a Jesus, para reforçar a ideia de **martírio** e sacrifício. O Tiradentes que conhecemos é, em boa medida, uma **invenção republicana** do fim do século XIX.
+
+**O que foram, afinal, as Inconfidências?** A interpretação do significado desses movimentos divide os historiadores. Uma **leitura nacionalista e tradicional** os vê como **"precursores da Independência"** — os primeiros lampejos de uma consciência nacional brasileira, etapas de um caminho que levaria "naturalmente" a 1822. Essa visão, porém, é acusada de **anacronismo** e **teleologia**: projeta para trás um "Brasil" e uma "vontade de independência" que ainda não existiam como os concebemos, e trata como inevitável o que foi contingente. Uma **leitura crítica** (à qual se filia, por exemplo, **Kenneth Maxwell** em *A devassa da devassa* [@maxwell2005]) situa as conjurações em seu **próprio contexto**: como movimentos **regionais**, de elites (no caso mineiro) descontentes com a política fiscal de **Pombal** e seus sucessores, inseridos na **crise atlântica** do Antigo Regime — e não como capítulos de uma marcha rumo à nação brasileira. Maxwell mostra, com base na documentação da devassa, as ambiguidades, os interesses econômicos concretos e os limites sociais dos inconfidentes.
+
+**Por que as leituras divergem?** Porque respondem a **perguntas diferentes** e nascem de **contextos diferentes**. A leitura "precursora da Independência" foi forjada para **construir a nação**: serviu ao Império e, sobretudo, à República, que precisavam de **raízes** e de **heróis** para legitimar-se — daí a invenção de Tiradentes. A leitura crítica, mais recente, busca entender os movimentos **nos seus próprios termos**, sem projetar sobre eles o desfecho que só conhecemos porque veio depois. O contraste entre a **Inconfidência Mineira** (elitista, escravista) e a **Conjuração Baiana** (popular, abolicionista) é, aliás, o melhor antídoto contra a visão homogênea: não houve **um** projeto de "independência", mas **vários projetos** em disputa, com bases sociais e ambições radicalmente distintas. Perguntar **qual** independência, **para quem** e **contra quem**, é a maneira madura de estudar esses movimentos.
+
+::: {.callout-warning title="Controvérsia: por que a Baiana é menos lembrada que a Mineira?"}
+Reflita sobre um dado revelador da **memória seletiva**: a **Inconfidência Mineira** — da elite, que mantinha a escravidão — tornou-se o grande mito fundador (feriado nacional, herói oficial, bandeira estadual), enquanto a **Conjuração Baiana** — popular, negra, que propunha abolir a escravidão — é muito **menos lembrada** e celebrada. Não é acaso. A memória oficial, construída por elites, preferiu como símbolo o movimento **socialmente menos ameaçador**, silenciando aquele que questionava a escravidão e a desigualdade racial. Recuperar a Conjuração Baiana — e seus líderes negros enforcados — é um exercício de **história plural** e de crítica à memória oficial, em sintonia com a Lei 10.639/2003.
+:::
+
+## Resumo do capítulo {#sec-resumo}
+
+- As revoltas coloniais dividem-se em **nativistas** (séc. XVII–XVIII: **Beckman**, **Emboabas**, **Mascates**, **Filipe dos Santos**) — protestos locais contra abusos, **sem** romper com Portugal — e **emancipacionistas** (fim do séc. XVIII: as **Inconfidências/Conjurações**), que questionavam o pacto colonial e propunham **separação** e **república**.
+- O contexto das emancipacionistas foi a **crise do Antigo Sistema Colonial**: o **Iluminismo**, o exemplo da **Independência dos EUA (1776)**, a **opressão fiscal** (quinto, derrama, Alvará de 1785) e, em Minas, a **crise do ouro**.
+- A **Inconfidência Mineira (1789)** foi um projeto da **elite** (mineradores, **poetas** inconfidentes como Gonzaga e Cláudio Manuel da Costa), motivado pela **derrama**; propunha independência e república, mas **mantinha a escravidão**. Denunciada por **Silvério dos Reis**, resultou no enforcamento de **Tiradentes** (21/04/1792), o de menor prestígio social. Legado: a bandeira "**Libertas quae sera tamen**".
+- A **Conjuração Baiana (1798)** ou **Revolta dos Alfaiates** teve base **popular** (alfaiates, soldados, negros e mestiços pobres) e projeto **radical**: **fim da escravidão**, igualdade racial, república e liberdade de comércio. A repressão puniu com morte os líderes **negros e pobres** e absolveu os brancos de elite.
+- Historiografia: **Tiradentes** foi construído como **herói** apenas após a **República (1889)**, que precisava de um mártir (daí a imagem cristológica). Debate sobre o significado: "**precursores da Independência**" (visão nacionalista, acusada de teleologia) × movimentos **regionais** da crise do Antigo Regime (**Maxwell**). A comparação Mineira × Baiana mostra que havia **vários projetos** em disputa, não um só.
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Domine: (1) a distinção **nativismo × emancipacionismo**; (2) o **contexto** da crise (Iluminismo, EUA, fiscalidade, crise do ouro); (3) a **Inconfidência Mineira** e seus limites (escravidão); (4) a **Conjuração Baiana** e seu radicalismo; (5) a construção do **mito de Tiradentes** e o debate historiográfico.
+:::
+
+**1.** Diferencie as **revoltas nativistas** das **emancipacionistas**, com exemplos.
+
+::: {.callout-tip collapse="true" title="Solução"}
+As **revoltas nativistas** (séculos XVII e início do XVIII) eram **protestos localizados** contra abusos específicos — impostos, monopólios, autoridades —, mas **sem questionar** o domínio português: queriam corrigir injustiças **dentro** do sistema colonial, não romper com ele. Exemplos: a **Revolta de Beckman** (Maranhão, 1684), a **Guerra dos Emboabas** (Minas, 1708–1709), a **Guerra dos Mascates** (Pernambuco, 1710–1711) e a **Revolta de Filipe dos Santos** (Vila Rica, 1720). Já as **revoltas emancipacionistas** (fim do século XVIII) — as **Inconfidências** e **Conjurações** — **questionavam o próprio pacto colonial** e chegavam a propor a **separação** de Portugal e a criação de uma **república**. Exemplos: a **Inconfidência Mineira** (1789) e a **Conjuração Baiana** (1798). A passagem de um tipo a outro reflete a **crise do Antigo Sistema Colonial** e a difusão de novas ideias (Iluminismo).
+:::
+
+**2.** Quais fatores de **contexto** explicam o surgimento das Inconfidências no fim do século XVIII?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Quatro fatores principais convergiram: (1) o **Iluminismo** — as ideias de liberdade, igualdade, soberania popular e crítica ao absolutismo e ao monopólio circulavam entre a elite letrada colonial, muitos dos quais haviam estudado na Europa; (2) a **Independência dos Estados Unidos (1776)** — o exemplo concreto e vitorioso de uma colônia que virara república independente inspirou os colonos; (3) a **opressão fiscal e o exclusivo** — o peso dos impostos (quinto, ameaça de derrama), o monopólio comercial e a proibição de manufaturas (o **Alvará de 1785**) sufocavam a economia e revoltavam as elites; (4) em Minas, a **crise do ouro** — o declínio da produção tornava a cobrança da Coroa ainda mais insuportável. Tudo isso se inseria na **crise geral do Antigo Sistema Colonial** que abalava as Américas.
+:::
+
+**3.** Caracterize a **Inconfidência Mineira** e explique seus **limites sociais**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+A **Inconfidência Mineira** (1789) foi uma conjuração nascida em Minas Gerais, no coração da região do ouro em crise, tendo como estopim a ameaça de **derrama**. Seus participantes eram membros da **elite local**: grandes proprietários, mineradores endividados, funcionários, padres, advogados, militares e os **poetas inconfidentes** (Tomás Antônio Gonzaga, Cláudio Manuel da Costa, Alvarenga Peixoto). Seu projeto incluía a **independência**, a instauração de uma **república**, a mudança da capital, uma universidade em Vila Rica e o estímulo às manufaturas; a bandeira idealizada trazia "**Libertas quae sera tamen**". Seus **limites sociais** são evidentes: era um projeto da **elite**, com pauta sobretudo **econômica e política**, e a maioria dos inconfidentes **não** pretendia **abolir a escravidão** — base de suas próprias fortunas. A liberdade que buscavam era, principalmente, a **dos proprietários**. Por isso, deve ser lida sem idealização romântica.
+:::
+
+**4.** Por que a **Conjuração Baiana** é considerada mais **radical** que a Inconfidência Mineira?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque teve **base social popular** e um **programa socialmente revolucionário**. Enquanto a Inconfidência Mineira foi um projeto da **elite**, a Conjuração Baiana (1798), ou **Revolta dos Alfaiates**, contou com a forte participação de **alfaiates, soldados, artesãos, ex-escravos e escravizados**, mulatos e negros pobres. Coerente com essa base, seu programa ia muito além da mera independência: propunha uma **república**, o **fim da escravidão**, a **igualdade entre as pessoas independentemente da cor**, a abertura dos portos e o fim dos privilégios. Ou seja, propunha uma verdadeira **revolução social**, atacando a escravidão e a desigualdade racial — o que a Inconfidência Mineira jamais ousara. Por ser mais ameaçadora à ordem escravista, foi reprimida com extrema violência: os líderes **negros e pobres** foram enforcados e esquartejados, enquanto os participantes brancos e de elite foram, em geral, absolvidos — o que revela o caráter **classista e racista** da repressão.
+:::
+
+**5.** Explique como e por que **Tiradentes** foi transformado em herói nacional.
+
+::: {.callout-tip collapse="true" title="Solução"}
+No momento de sua execução (1792), Tiradentes foi tratado como **criminoso infame** e traidor, punido com crueldade justamente por ser o conjurado de **menor prestígio social** (um alferes), poupando-se a elite. Sua transformação em **herói nacional** só veio **cerca de um século depois**, com a **Proclamação da República (1889)**. Os republicanos precisavam de um **mártir** que tivesse morrido por uma **república** e contra a **monarquia** — e Tiradentes, executado por defender uma república contra o rei, servia perfeitamente ao novo regime. Ele foi então **deliberadamente construído** como herói: instituiu-se o feriado de **21 de abril**, ergueram-se monumentos e sua imagem foi refeita — de alferes barbado passou a ser retratado como figura **cristológica** (barba e cabelos longos, semelhante a Jesus), para reforçar a ideia de **martírio** e sacrifício pela pátria. O Tiradentes herói é, portanto, em boa medida, uma **invenção republicana** do fim do século XIX — um exemplo claro de como a **memória** é construída segundo as necessidades do presente.
+:::
+
+**6.** (Estilo ENEM) Leia o texto.
+
+> "Tiradentes foi, na hora da morte, o mais humilde dos conjurados — e por isso mesmo o escolhido para o suplício. Só muito depois, quando a República buscava seus mártires, é que se ergueu a figura do herói barbado, de olhar sofrido, tão parecido com as imagens de Cristo."
+
+O texto sugere que a construção de Tiradentes como herói nacional
+
+**(a)** ocorreu imediatamente após sua morte, em 1792.
+**(b)** respondeu às necessidades simbólicas do regime republicano.
+**(c)** baseou-se em retratos feitos por testemunhas de sua execução.
+**(d)** foi obra da monarquia, que o admirava como súdito leal.
+**(e)** independeu de qualquer contexto político posterior.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (b).** O texto afirma que a figura do herói só se ergueu "muito depois, quando a **República buscava seus mártires**" — ou seja, a construção do herói **respondeu às necessidades simbólicas do regime republicano** (proclamado em 1889), que precisava de um mártir da causa republicana. As demais contrariam o texto: a heroicização **não** foi imediata (a) — pelo contrário, veio um século depois; a imagem cristológica foi uma **construção** posterior, não um retrato de testemunhas (c); foi obra da **República**, não da monarquia (d); e dependeu inteiramente de um **contexto político posterior** (e).
+:::
+
+**7.** (Estilo vestibular — dissertativa) Compare a Inconfidência Mineira e a Conjuração Baiana quanto à base social e ao projeto, e explique o que essa comparação revela sobre a "crise do sistema colonial".
+
+::: {.callout-tip collapse="true" title="Solução"}
+Resposta esperada: as duas conjurações expressam a **crise do Antigo Sistema Colonial** no fim do século XVIII, mas com bases sociais e projetos **muito distintos**. A **Inconfidência Mineira (1789)** teve base na **elite** colonial (mineradores endividados, funcionários, poetas), motivada pela opressão fiscal (a **derrama**); seu projeto era a **independência** e a **república**, mas de caráter sobretudo **econômico e político**, e **mantinha a escravidão** — a liberdade buscada era a dos **proprietários**. A **Conjuração Baiana (1798)** teve base **popular** (alfaiates, soldados, negros e mestiços pobres, escravizados) e um projeto **socialmente radical**: além da república, propunha o **fim da escravidão**, a **igualdade racial** e a liberdade de comércio — uma verdadeira **revolução social**. A comparação revela que **não houve um único projeto** de "independência" ou de contestação colonial, mas **vários projetos em disputa**, refletindo os diferentes interesses de classes e grupos raciais dentro da colônia. Mostra também o caráter **classista e racista** da repressão (que puniu duramente os pobres e negros da Bahia e poupou as elites) e adverte contra a visão **teleológica** que trata essas revoltas como simples "ensaios" de uma Independência inevitável. Perguntar **qual** independência e **para quem** é essencial para entender a crise do sistema colonial.
+:::
+
+**8.** Por que se pode afirmar que os próprios termos "**inconfidência**" e "**conjuração**" carregam o ponto de vista da metrópole?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque são palavras que nasceram do **vocabulário jurídico do poder** que reprimiu esses movimentos. "**Inconfidência**" significa **deslealdade**, quebra da confiança e da fidelidade devidas ao rei — era o nome que a **Coroa** dava ao **crime** de conspirar contra ela. "**Conjuração**" (ou "conspiração") designa o ato de se unir secretamente para um fim ilícito, também na ótica de quem condena. Ao chamarmos esses movimentos de "Inconfidência Mineira" ou "Conjuração Baiana", adotamos — sem querer — a **perspectiva da metrópole**, que os via como traição e crime, e não a perspectiva dos próprios revoltosos, que se viam como defensores da liberdade. É mais um exemplo de como as **palavras** com que nomeamos o passado **não são neutras**: carregam história, poder e ponto de vista — o mesmo que vimos com "descobrimento" (@sec-chegada-portuguesa-pau-brasil).
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- MAXWELL, Kenneth. *A devassa da devassa: a Inconfidência Mineira, Brasil e Portugal (1750–1808)* [@maxwell2005]. O estudo de referência sobre a Inconfidência Mineira em seu contexto atlântico — leitura fundamental.
+- SCHWARCZ, Lilia; STARLING, Heloisa. *Brasil: uma biografia* [@schwarczStarling2015]. Excelentes capítulos sobre as conjurações e a construção do mito de Tiradentes.
+- FAUSTO, Boris. *História do Brasil* [@fausto2015]. Síntese clara das revoltas coloniais e da crise do sistema.
+- VAINFAS, Ronaldo. *Dicionário do Brasil Colonial* [@vainfas2000]. Verbetes sobre Inconfidência, Conjuração Baiana, nativismo, derrama e Tiradentes.
+
+**Filmes e documentários**
+
+- *Os Inconfidentes* (1972), dir. Joaquim Pedro de Andrade. Retrato seco e nada heroico da Inconfidência Mineira — ótimo para discutir a desmistificação de Tiradentes.
+- *Tiradentes* (1999), dir. Oswaldo Caldeira. Aborda a conjuração mineira e o processo, útil para o debate sobre o mito.
+- Documentários sobre a **Conjuração Baiana** e seus líderes populares, importantes para recuperar a memória silenciada do movimento.

@@ -1,5 +1,192 @@
 # Expansão territorial: bandeiras, pecuária e missões {#sec-expansao-territorial}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Olhe para o mapa do Brasil. Aquela linha imaginária do **Tratado de Tordesilhas** (1494) deveria cortar o país mais ou menos na altura de Belém e de Laguna, deixando **dois terços** do atual território do lado espanhol. Como, então, o Brasil ficou com essa dimensão continental, avançando muito além do que o tratado permitia? A resposta não está em Lisboa, mas no **interior**: no avanço, ao longo de dois séculos, de bandeirantes à caça de índios e ouro, de vaqueiros tocando bois pelos sertões e de jesuítas fundando missões nos confins. Foram esses homens — quase todos movidos por interesses privados, e não por um projeto de Estado — que empurraram as fronteiras para dentro do continente. Este capítulo conta como o Brasil deixou de ser uma estreita faixa litorânea e se tornou o gigante que é, e a que custo humano isso se deu.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- explicar por que a ocupação colonial ultrapassou a linha de **Tordesilhas** e o papel da **União Ibérica** nisso;
+- distinguir os tipos e objetivos das **bandeiras** e caracterizar os **bandeirantes**;
+- descrever o papel da **pecuária** e das **missões jesuíticas** na interiorização;
+- relacionar a expansão à formação do **território** brasileiro e ao princípio do **uti possidetis** (Tratado de Madri, 1750);
+- discutir os debates historiográficos sobre o bandeirante — herói ou algoz?
 :::
+
+## Por que o interior? Os limites de Tordesilhas {#sec-limites-tordesilhas}
+
+Durante o primeiro século, a colonização portuguesa ficou **grudada ao litoral**, voltada para o açúcar e para o mar que a ligava à Europa. Vários fatores, porém, empurraram a ocupação para o **interior** ao longo dos séculos XVII e XVIII (@fig-fatores-interiorizacao):
+
+- a **busca de riquezas** — sobretudo metais preciosos (o velho sonho do ouro e da prata) e de mão de obra indígena para escravizar;
+- a **pecuária**, expulsa do litoral açucareiro, que avançava pelos sertões atrás de pastos e água;
+- as **missões religiosas**, que fundavam aldeamentos indígenas cada vez mais para dentro;
+- e um fator político decisivo: a **União Ibérica** (1580–1640), que, ao juntar Portugal e Espanha sob o mesmo rei (@sec-administracao-uniao-iberica-invasoes), tornou a linha de **Tordesilhas** letra morta na prática — não havia por que respeitar uma fronteira entre dois reinos que tinham o mesmo soberano.
+
+::: {#fig-fatores-interiorizacao}
+
+```{.tikz}
+%%| filename: fig-fatores-interiorizacao
+%%| alt: Fluxograma dos fatores da interiorização da colonização brasileira.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \node[draw, fill=manualyellow!22, rounded corners, align=center, text width=2.7cm] (b) at (-4.4,1.5) {\textbf{Bandeiras}: índios e ouro};
+  \node[draw, fill=manualgreen!16, rounded corners, align=center, text width=2.7cm] (p) at (-1.5,2.2) {\textbf{Pecuária} rumo ao sertão};
+  \node[draw, fill=manualblue!14, rounded corners, align=center, text width=2.7cm] (m) at (1.5,2.2) {\textbf{Missões} jesuíticas};
+  \node[draw, fill=manualred!14, rounded corners, align=center, text width=2.7cm] (u) at (4.4,1.5) {\textbf{União Ibérica}: Tordesilhas caduca};
+  \node[draw, very thick, fill=manualgray!16, rounded corners, align=center, text width=4.8cm, font=\scriptsize\bfseries] (i) at (0,-0.3) {INTERIORIZAÇÃO E EXPANSÃO TERRITORIAL};
+  \draw[vetor] (b) -- (i); \draw[vetor] (p) -- (i); \draw[vetor] (m) -- (i); \draw[vetor] (u) -- (i);
+\end{tikzpicture}
+```
+
+Os quatro vetores da interiorização: a caça a índios e metais, o gado, as missões e a brecha política aberta pela União Ibérica.
+:::
+
+## As bandeiras e os bandeirantes {#sec-bandeiras}
+
+O grande agente da penetração pelo interior, sobretudo a partir de **São Paulo de Piratininga** — vila pobre, distante do litoral açucareiro e sem escravos africanos que pudesse comprar —, foi o **bandeirante**. As **bandeiras** eram expedições que partiam sertão adentro; seus integrantes, em geral **mestiços** (filhos de portugueses com indígenas, os **mamelucos**), falavam a **língua geral** (base tupi), conheciam as técnicas indígenas de sobrevivência na mata e podiam passar anos longe de casa. As bandeiras tinham objetivos variados (@fig-tipos-bandeiras):
+
+- **Bandeiras de apresamento (ou de caça ao índio):** as mais comuns no século XVII. Capturavam indígenas para **escravizar** e vender como mão de obra — inclusive atacando as **missões jesuíticas** (onde os índios estavam "reunidos e prontos"). Foram elas que destruíram, por exemplo, as reduções jesuíticas do Guairá (atual Paraná).
+- **Bandeiras de prospecção (ou sertanismo de contrato):** buscavam **metais e pedras preciosas**. Foram as que, no fim do século XVII, descobriram o **ouro** nas Minas Gerais (@sec-mineracao-sociedade-do-ouro).
+- **Bandeiras de "combate" (sertanismo de contrato):** contratadas para **combater** quilombos e revoltas indígenas. Foi uma delas, a de **Domingos Jorge Velho**, que destruiu **Palmares** (@sec-escravidao-e-resistencia).
+- As **monções** eram expedições **fluviais** (por rios como o Tietê), sobretudo de comércio e abastecimento das minas de Cuiabá, no século XVIII.
+
+::: {#fig-tipos-bandeiras}
+
+```{.tikz}
+%%| filename: fig-tipos-bandeiras
+%%| alt: Esquema dos tipos de bandeiras e seus objetivos.
+\begin{tikzpicture}[every node/.style={font=\scriptsize}]
+  \node[draw, very thick, fill=manualgray!14, rounded corners, align=center, text width=3.2cm, minimum height=0.8cm] (b) at (0,2.4) {\textbf{BANDEIRAS}\\ (a partir de São Paulo)};
+  \node[draw, thick, fill=manualred!16, rounded corners, align=center, text width=3cm, minimum height=1.3cm] (ap) at (-4,0) {\textbf{Apresamento}\\ \scriptsize escravizar indígenas};
+  \node[draw, thick, fill=manualyellow!22, rounded corners, align=center, text width=3cm, minimum height=1.3cm] (pr) at (0,0) {\textbf{Prospecção}\\ \scriptsize achar ouro/pedras};
+  \node[draw, thick, fill=manualblue!14, rounded corners, align=center, text width=3cm, minimum height=1.3cm] (co) at (4,0) {\textbf{Combate}\\ \scriptsize quilombos e revoltas};
+  \draw[vetor] (b) -- (ap); \draw[vetor] (b) -- (pr); \draw[vetor] (b) -- (co);
+\end{tikzpicture}
+```
+
+Os principais tipos de bandeira. Note que todos, direta ou indiretamente, envolviam **violência** — contra indígenas, contra quilombos, contra a resistência à colonização.
+:::
+
+::: {.callout-important title="Armadilha: o bandeirante não era um \"desbravador heroico\""}
+A tradição paulista do século XX transformou o bandeirante em **herói nacional** — o desbravador destemido que "deu ao Brasil suas fronteiras". Cuidado com essa imagem. O bandeirante foi, antes de tudo, um **caçador de gente**: sua principal atividade no século XVII foi **escravizar indígenas**, com extrema violência, destruindo aldeias e missões. A expansão territorial foi, em grande medida, um **efeito colateral** dessa caça humana e da busca de ouro — não um projeto patriótico. Chamá-lo simplesmente de "herói" é apagar suas vítimas; é um caso clássico de como a **memória** e os **monumentos** (as estátuas de bandeirantes, hoje contestadas — lembre-se da abertura do @sec-o-que-e-historia) constroem versões interessadas do passado.
+:::
+
+## Pecuária e missões: outras frentes de expansão {#sec-pecuaria-missoes}
+
+Nem só de bandeiras se fez a interiorização. Duas outras frentes foram decisivas.
+
+A **pecuária** (@sec-sociedade-acucareira) avançou por **duas grandes rotas**: pelo **sertão nordestino**, subindo o **rio São Francisco** (o "rio dos currais"), a partir da Bahia e de Pernambuco; e pelo **Sul**, nos campos e pampas, onde o gado trazido pelos jesuítas se multiplicou e deu origem à criação gaúcha. A pecuária ocupava **muita terra e pouca gente**, fixava população no interior (currais viravam vilas), abastecia as minas de carne e couro e integrava as regiões — uma ocupação mais **estável e permanente** que a das bandeiras.
+
+As **missões (ou reduções) jesuíticas** foram a frente religiosa. Os **jesuítas** (Companhia de Jesus, chegada em 1549 com Nóbrega e, depois, **José de Anchieta**) reuniam indígenas em **aldeamentos** para **catequizá-los**, ensinar-lhes o cristianismo, a língua e o trabalho "civilizado". As reduções mais célebres foram as dos **Sete Povos das Missões** (no atual Rio Grande do Sul) e as do **Guairá** e do **Itatim**. As missões eram, ao mesmo tempo, obra de conversão religiosa, **proteção** (relativa) dos indígenas contra a escravização dos bandeirantes — o que gerava conflitos ferozes entre jesuítas e colonos — e um **instrumento de ocupação** do território em nome da Coroa.
+
+::: {.callout-warning title="As missões: proteção ou outra forma de dominação?"}
+Os jesuítas defendiam os indígenas contra a **escravização** pelos bandeirantes — e, por isso, foram muitas vezes odiados pelos colonos, chegando a ser **expulsos** de São Paulo. Mas seria ingênuo vê-los apenas como protetores. As missões também **destruíam a cultura indígena** original: proibiam rituais, línguas e modos de vida tradicionais, impunham o cristianismo, o trabalho disciplinado e a moral europeia, e submetiam os índios a uma rígida tutela. Eram uma forma **mais branda**, porém ainda assim de **dominação** e de **aculturação**. A questão, tipicamente historiográfica, é evitar tanto a lenda negra (jesuíta como vilão) quanto a lenda dourada (jesuíta como santo protetor): eles foram agentes complexos de um projeto colonial.
+:::
+
+## A consolidação das fronteiras: do Tratado de Madri em diante {#sec-tratados}
+
+A ocupação de fato do interior — por bandeirantes, vaqueiros e missões — criou uma situação nova: os súditos portugueses **já estavam** em terras que, pela letra de Tordesilhas, seriam espanholas. Quando as duas coroas voltaram a se separar (fim da União Ibérica, 1640) e precisaram, no século XVIII, redefinir seus limites na América, adotou-se um novo princípio jurídico: o **uti possidetis** ("quem possui de fato, possui de direito"). Ou seja, a terra pertenceria a quem **efetivamente a ocupava** — e os portugueses ocupavam muito além de Tordesilhas.
+
+Esse princípio foi consagrado no **Tratado de Madri (1750)**, negociado do lado português por **Alexandre de Gusmão**, que **anulou** Tordesilhas e desenhou fronteiras próximas às atuais, reconhecendo à Coroa portuguesa a maior parte do território que seus colonos haviam interiorizado. Outros acordos (como os tratados de Santo Ildefonso, 1777, e ajustes posteriores) completaram o processo. Foi assim que o Brasil ganhou, ainda no período colonial, aproximadamente o **contorno continental** que teria ao se tornar independente.
+
+::: {.callout-tip title="Dica de prova: Tordesilhas × Madri"}
+Guarde o contraste que cai em prova: **Tordesilhas (1494)** dividiu a América por uma **linha teórica** (um meridiano), antes mesmo de a terra ser conhecida. **Madri (1750)** redividiu por um **princípio de ocupação real** — o **uti possidetis** —, reconhecendo a posse portuguesa das terras efetivamente ocupadas por bandeirantes, pecuaristas e missões. Do papel (Tordesilhas) ao fato consumado (Madri): essa é a lógica da formação territorial do Brasil.
+:::
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+**O bandeirante: herói bronzeado ou caçador de escravos?** Poucas figuras da história do Brasil tiveram uma imagem tão **disputada** quanto o bandeirante. Na primeira metade do século XX, uma poderosa **historiografia paulista** — com autores como **Afonso de Taunay** e, de modo mais complexo, o próprio **Sérgio Buarque de Holanda** em *Caminhos e fronteiras* [@holandaCaminhos1994] — celebrou o bandeirante como o **herói épico** que, com coragem e resistência, "desbravou o sertão" e "deu ao Brasil suas dimensões continentais". Essa imagem foi consagrada em **monumentos** (o Monumento às Bandeiras, de Victor Brecheret, em São Paulo), em nomes de ruas, avenidas e instituições, e no imaginário de uma São Paulo "bandeirante", empreendedora e pioneira. Era uma leitura que servia à construção de uma **identidade regional** paulista e nacional.
+
+**A revisão: a violência no centro da cena.** A partir da segunda metade do século XX, e com força crescente, essa imagem heroica foi **desmontada**. Historiadores como **John Manuel Monteiro**, em *Negros da terra* [@monteiro1994], mostraram, com base em inventários e documentos, que a atividade central do bandeirante paulista foi o **apresamento de indígenas** para escravizar — não a exploração desinteressada nem a busca de ouro (que veio depois). São Paulo, nessa leitura, foi construída sobre a **escravidão indígena**: os "negros da terra" (como se chamavam os índios escravizados) eram a base da economia e da sociedade paulistas. A expansão territorial aparece, então, não como uma epopeia patriótica, mas como o **subproduto** de uma vasta empresa de **caça humana**. Do ponto de vista dos **povos indígenas**, o bandeirante não é herói: é o agente do **etnocídio** e da escravização.
+
+**Por que a mudança?** Por **novas fontes e perguntas** e por um **novo contexto**. Monteiro e outros foram aos **arquivos** (inventários, testamentos, registros de vendas) e "contaram" os indígenas escravizados que a historiografia heroica ignorava — deram-lhes existência estatística e histórica. Além disso, o **contexto** mudou: o movimento indígena, as lutas por direitos e a Lei 11.645/2008 tornaram insustentável celebrar como herói quem escravizou e matou povos inteiros. O resultado é visível na esfera pública: as **estátuas de bandeirantes** (como a de Borba Gato, em São Paulo) tornaram-se alvo de protestos e depredações, num embate sobre **memória** que é, no fundo, um embate sobre **qual história** merece ser homenageada. Como sempre, a divergência não está nos fatos brutos (bandeirantes existiram e penetraram o sertão), mas em **de que lado** e com que valores se conta a história.
+
+## Resumo do capítulo {#sec-resumo}
+
+- A colonização, inicialmente **litorânea**, avançou para o **interior** nos séculos XVII–XVIII por quatro vetores: **bandeiras** (caça a índios e ouro), **pecuária**, **missões** jesuíticas e a brecha política da **União Ibérica** (que tornou **Tordesilhas** letra morta).
+- As **bandeiras** partiam sobretudo de **São Paulo**, com **mestiços** (mamelucos) que falavam a **língua geral**. Tipos: de **apresamento** (escravizar indígenas — as mais comuns, atacavam até as missões), de **prospecção** (acharam o **ouro** nas Minas), de **combate** (destruíram **Palmares**). As **monções** eram fluviais e comerciais.
+- A **pecuária** interiorizou pelo **São Francisco** (Nordeste) e pelo **Sul** (pampas), fixando população de forma **estável**. As **missões (reduções) jesuíticas** (Anchieta; Sete Povos, Guairá) catequizavam e "protegiam" os índios da escravização — gerando conflito com os colonos —, mas também **destruíam** culturas indígenas: dominação mais branda, não ausência de dominação.
+- A ocupação de fato levou ao princípio do **uti possidetis** ("quem possui de fato, possui de direito"), consagrado no **Tratado de Madri (1750)** (Alexandre de Gusmão), que **anulou Tordesilhas** e deu ao Brasil o contorno continental atual.
+- Historiografia: o bandeirante como **herói desbravador** (Taunay; historiografia paulista; monumentos) × como **caçador de escravos** e agente do **etnocídio** (**John Monteiro**, *Negros da terra*). Debate vivo na disputa atual sobre **estátuas** e memória.
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Domine: (1) os **fatores** da interiorização (com destaque para a União Ibérica e Tordesilhas); (2) os **tipos de bandeira**; (3) o papel da **pecuária** e das **missões**; (4) **uti possidetis** e o **Tratado de Madri**; (5) o debate sobre o bandeirante (herói × algoz).
+:::
+
+**1.** Explique por que a colonização ultrapassou a linha de **Tordesilhas** e qual o papel da **União Ibérica** nesse processo.
+
+::: {.callout-tip collapse="true" title="Solução"}
+A colonização ultrapassou **Tordesilhas** porque diversos agentes **ocuparam de fato** o interior: bandeirantes à caça de índios e ouro, vaqueiros tocando gado pelos sertões e jesuítas fundando missões cada vez mais para dentro. A **União Ibérica** (1580–1640) teve papel decisivo: ao colocar **Portugal e Espanha sob o mesmo rei**, tornou a linha de Tordesilhas **letra morta na prática** — não fazia sentido respeitar uma fronteira entre dois reinos que tinham o mesmo soberano. Assim, os súditos portugueses avançaram livremente **além do meridiano**, ocupando terras que, pela letra do tratado, seriam espanholas. Esse avanço de fato criaria a base para, mais tarde, o Brasil reivindicar tais terras pelo princípio do **uti possidetis**.
+:::
+
+**2.** Diferencie os principais **tipos de bandeira** e seus objetivos.
+
+::: {.callout-tip collapse="true" title="Solução"}
+- **Bandeiras de apresamento** (caça ao índio): as mais comuns no século XVII; capturavam indígenas para **escravizar** e vender, atacando inclusive as **missões jesuíticas**, onde os índios estavam reunidos.
+- **Bandeiras de prospecção**: buscavam **metais e pedras preciosas**; foram as que descobriram o **ouro** nas Minas Gerais no fim do século XVII.
+- **Bandeiras de combate** (sertanismo de contrato): contratadas para **reprimir** quilombos e revoltas indígenas; a de **Domingos Jorge Velho** destruiu **Palmares**.
+- As **monções** eram expedições **fluviais** (pelos rios, como o Tietê), sobretudo de **comércio** e abastecimento das minas (Cuiabá) no século XVIII.
+
+Comum a quase todas era o uso da **violência** — contra indígenas, quilombos e a resistência à colonização.
+:::
+
+**3.** Compare o papel da **pecuária** e das **missões jesuíticas** na interiorização.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Ambas interiorizaram, mas de modos distintos. A **pecuária** avançou por duas rotas — o **sertão nordestino** (subindo o **rio São Francisco**, o "rio dos currais") e o **Sul** (campos e pampas) — e promoveu uma ocupação **estável e permanente**: os currais fixavam população, viravam vilas, abasteciam as minas de carne e couro e integravam as regiões, com trabalho relativamente mais livre (o vaqueiro). As **missões (reduções) jesuíticas** foram a frente **religiosa**: reuniam indígenas em **aldeamentos** para **catequizá-los**, servindo ao mesmo tempo de (relativa) **proteção** contra a escravização dos bandeirantes — o que gerava conflito com os colonos — e de **instrumento de ocupação** do território em nome da Coroa. A pecuária expandia pela **economia**; as missões, pela **religião** e pela conversão. Ambas, porém, submetiam as populações indígenas, seja como mão de obra, seja pela aculturação.
+:::
+
+**4.** Explique o princípio do **uti possidetis** e a importância do **Tratado de Madri (1750)**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+O **uti possidetis** ("quem possui de fato, possui de direito") é o princípio jurídico segundo o qual a terra pertence a quem **efetivamente a ocupa**, e não a quem a reivindica no papel. Ele foi decisivo para o Brasil porque, graças às bandeiras, à pecuária e às missões, os **portugueses já ocupavam** vastas terras a oeste da linha de **Tordesilhas**. O **Tratado de Madri (1750)**, negociado do lado português por **Alexandre de Gusmão**, aplicou esse princípio: **anulou Tordesilhas** e redesenhou as fronteiras entre as possessões portuguesas e espanholas na América com base na **ocupação real**, reconhecendo à Coroa portuguesa a maior parte do território interiorizado por seus colonos. Sua importância é enorme: foi por ele que o Brasil ganhou, ainda no período colonial, aproximadamente o **contorno continental** que teria ao se tornar independente.
+:::
+
+**5.** Por que a imagem do bandeirante como "herói desbravador" é hoje contestada?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque essa imagem **apaga a violência** que foi o núcleo da atividade bandeirante. A historiografia recente — em especial **John Manuel Monteiro**, em *Negros da terra* — mostrou, com base em inventários e documentos, que a principal atividade do bandeirante paulista no século XVII foi o **apresamento de indígenas** para escravizar: São Paulo foi construída sobre a **escravidão indígena** (os "negros da terra"). A expansão territorial foi, em boa parte, um **subproduto** dessa caça humana e da busca de ouro, e não uma epopeia patriótica desinteressada. Do ponto de vista dos **povos indígenas**, o bandeirante é o agente do **etnocídio** e da escravização, não um herói. Por isso, a antiga imagem heroica (construída pela historiografia paulista e por monumentos como o de Borba Gato) tornou-se alvo de contestação — um embate sobre **memória** que reflete novas perguntas, novas fontes e um novo contexto (o movimento indígena e a Lei 11.645/2008).
+:::
+
+**6.** (Estilo ENEM) Leia o texto.
+
+> "O apresamento de índios foi a razão de ser das primeiras bandeiras. Longe de heróis desinteressados, os paulistas do século XVII organizaram uma vasta empresa de caça ao gentio, que forneceu a mão de obra sobre a qual se ergueu a economia da vila de São Paulo." — adaptado de @monteiro1994
+
+O texto propõe uma interpretação das bandeiras que
+
+**(a)** confirma a imagem tradicional do bandeirante como herói desbravador.
+**(b)** destaca a busca de ouro como o principal objetivo das primeiras bandeiras.
+**(c)** enfatiza a escravização indígena como base econômica da São Paulo colonial.
+**(d)** nega que os bandeirantes tenham penetrado o interior do continente.
+**(e)** atribui a expansão territorial a um projeto planejado pela Coroa portuguesa.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (c).** O texto afirma que "o apresamento de índios foi a razão de ser das primeiras bandeiras" e que a "caça ao gentio" **forneceu a mão de obra sobre a qual se ergueu a economia** de São Paulo — ou seja, enfatiza a **escravização indígena** como **base econômica** da São Paulo colonial. As demais contrariam o texto: ele **rejeita** a imagem do herói desbravador (a), afirma que o objetivo central era o índio, não o ouro (b), não nega a penetração do interior (d) e trata as bandeiras como empresa **privada** de apresamento, não como projeto planejado da Coroa (e).
+:::
+
+**7.** (Estilo vestibular — dissertativa) Relacione o avanço das bandeiras, da pecuária e das missões com a formação do território brasileiro consagrada no Tratado de Madri.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Resposta esperada: a atual dimensão continental do Brasil resulta da **ocupação efetiva do interior** por agentes movidos, em geral, por interesses privados — não de um projeto planejado da Coroa. As **bandeiras** paulistas, à caça de indígenas para escravizar e, depois, de ouro, penetraram fundo no sertão, muito além da linha de **Tordesilhas**; a **pecuária** fixou população de forma estável pelo **São Francisco** (Nordeste) e pelos pampas (Sul); e as **missões jesuíticas** fundaram aldeamentos nos confins do território. Esse avanço foi facilitado pela **União Ibérica** (1580–1640), que tornou Tordesilhas irrelevante na prática. Quando as coroas ibéricas precisaram redefinir seus limites na América, adotou-se o princípio do **uti possidetis** ("quem possui de fato, possui de direito"), consagrado no **Tratado de Madri (1750)** (negociado por **Alexandre de Gusmão**), que **anulou Tordesilhas** e reconheceu à Coroa portuguesa a maior parte das terras que seus colonos haviam ocupado. Assim, a expansão promovida por bandeirantes, vaqueiros e jesuítas — muitas vezes à custa de enorme violência contra os povos indígenas — foi **transformada em fronteira jurídica**, dando ao Brasil, ainda na colônia, o contorno que teria ao se tornar independente.
+:::
+
+**8.** As **missões jesuíticas** protegiam os indígenas. Explique por que, ainda assim, elas também representavam uma forma de dominação.
+
+::: {.callout-tip collapse="true" title="Solução"}
+As missões (reduções) de fato **protegiam** os indígenas contra a **escravização** pelos bandeirantes — por isso os jesuítas entravam em choque com os colonos e chegaram a ser expulsos de regiões como São Paulo. Mas essa proteção vinha acompanhada de uma **dominação de outro tipo**: nas missões, os jesuítas **proibiam** os rituais, as crenças e os modos de vida tradicionais dos indígenas, impunham o **cristianismo**, a **língua** e a moral europeia, e submetiam os aldeados a uma **rígida disciplina** de trabalho e tutela. Ou seja, protegiam os corpos da escravização, mas promoviam a **destruição das culturas** originais e a **aculturação**. Por isso se diz que as missões foram uma forma **mais branda**, porém ainda assim de **dominação** — parte do projeto colonial de submeter os povos indígenas, seja pela força (bandeirantes), seja pela conversão (jesuítas). A análise histórica madura evita tanto a "lenda negra" (jesuíta vilão) quanto a "lenda dourada" (jesuíta santo).
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- MONTEIRO, John Manuel. *Negros da terra: índios e bandeirantes nas origens de São Paulo* [@monteiro1994]. A obra que refez a história das bandeiras a partir da escravidão indígena — leitura essencial.
+- HOLANDA, Sérgio Buarque de. *Caminhos e fronteiras* [@holandaCaminhos1994]. Um clássico sobre a cultura material e as técnicas da expansão pelo sertão.
+- FAUSTO, Boris. *História do Brasil* [@fausto2015]. Boa síntese da expansão territorial e dos tratados de limites.
+- VAINFAS, Ronaldo. *Dicionário do Brasil Colonial* [@vainfas2000]. Verbetes sobre bandeiras, monções, missões, língua geral e uti possidetis.
+
+**Filmes e documentários**
+
+- *A Missão* (1986), dir. Roland Joffé. Sobre as reduções jesuíticas dos Sete Povos e o conflito entre jesuítas, colonos e Coroas — perfeito para discutir missões, escravização e interesses coloniais.
+- *Hans Staden* (1999) e *Caramuru* (2001) ajudam a pensar o contato e a mestiçagem na fronteira.
+- Documentários sobre o **Monumento às Bandeiras** e a polêmica das **estátuas** de bandeirantes, úteis para o debate sobre memória e história pública.

@@ -112,13 +112,13 @@
 
 | # | Capítulo | Arquivo | Status |
 |---|----------|---------|--------|
-| 1 | Chegada portuguesa e o ciclo do pau-brasil | `capitulos/vol08/cap01-chegada-portuguesa-pau-brasil.qmd` | ⬜ |
-| 2 | Açúcar, engenho e a sociedade açucareira | `capitulos/vol08/cap02-sociedade-acucareira.qmd` | ⬜ |
-| 3 | Escravidão indígena e africana: resistência e quilombos | `capitulos/vol08/cap03-escravidao-e-resistencia.qmd` | ⬜ |
-| 4 | Administração colonial, União Ibérica e invasões | `capitulos/vol08/cap04-administracao-uniao-iberica-invasoes.qmd` | ⬜ |
-| 5 | Expansão territorial: bandeiras, pecuária e missões | `capitulos/vol08/cap05-expansao-territorial.qmd` | ⬜ |
-| 6 | Mineração e a sociedade do ouro | `capitulos/vol08/cap06-mineracao-sociedade-do-ouro.qmd` | ⬜ |
-| 7 | Crise do sistema colonial e as Inconfidências | `capitulos/vol08/cap07-crise-colonial-inconfidencias.qmd` | ⬜ |
+| 1 | Chegada portuguesa e o ciclo do pau-brasil | `capitulos/vol08/cap01-chegada-portuguesa-pau-brasil.qmd` | ✅ |
+| 2 | Açúcar, engenho e a sociedade açucareira | `capitulos/vol08/cap02-sociedade-acucareira.qmd` | ✅ |
+| 3 | Escravidão indígena e africana: resistência e quilombos | `capitulos/vol08/cap03-escravidao-e-resistencia.qmd` | ✅ |
+| 4 | Administração colonial, União Ibérica e invasões | `capitulos/vol08/cap04-administracao-uniao-iberica-invasoes.qmd` | ✅ |
+| 5 | Expansão territorial: bandeiras, pecuária e missões | `capitulos/vol08/cap05-expansao-territorial.qmd` | ✅ |
+| 6 | Mineração e a sociedade do ouro | `capitulos/vol08/cap06-mineracao-sociedade-do-ouro.qmd` | ✅ |
+| 7 | Crise do sistema colonial e as Inconfidências | `capitulos/vol08/cap07-crise-colonial-inconfidencias.qmd` | ✅ |
 
 ### Volume 9 — Iluminismo e Revoluções
 

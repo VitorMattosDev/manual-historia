@@ -1,5 +1,190 @@
 # Mineração e a sociedade do ouro {#sec-mineracao-sociedade-do-ouro}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Ouro Preto, Minas Gerais. Suas igrejas revestidas de ouro, suas ladeiras de pedra, as esculturas de **Aleijadinho** e a música de **Lobo de Mesquita** fazem dela Patrimônio Mundial da Humanidade. Difícil imaginar, hoje, que aquela cidade elegante nasceu de uma corrida do ouro tão febril quanto violenta, no meio de montanhas antes desabitadas por colonos. No início do século XVIII, a descoberta de ouro nas Minas Gerais provocou a **primeira grande corrida do ouro** da história moderna, atraiu uma multidão para o interior, deslocou o eixo econômico da colônia do Nordeste açucareiro para o Centro-Sul, encheu de impostos os cofres de Portugal — e, ironicamente, ajudou a financiar a industrialização da **Inglaterra**. Este capítulo conta como o ouro transformou o Brasil: sua economia, sua sociedade, seu território e sua cultura, plantando também as sementes da revolta que estudaremos no capítulo final.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- explicar a descoberta do **ouro** nas Minas Gerais e a "corrida" que ela provocou;
+- descrever os **mecanismos de controle e tributação** da Coroa: o **quinto**, as **casas de fundição**, a **derrama** e a **capitação**;
+- caracterizar a **sociedade mineradora** — mais urbana, diversa e móvel — em contraste com a açucareira;
+- analisar as **consequências** do ouro para o Brasil, para Portugal e para a Inglaterra;
+- discutir o debate sobre a "decadência" das Minas e o legado cultural e social do ciclo do ouro.
 :::
+
+## A corrida do ouro {#sec-corrida-do-ouro}
+
+Portugal sonhava com metais preciosos desde a chegada — invejava a prata que a Espanha extraía de Potosí (@sec-colonizacao-espanhola). Esse sonho se realizou no fim do século XVII, quando **bandeirantes paulistas** (@sec-expansao-territorial), à procura de índios e riquezas, encontraram **ouro de aluvião** (depositado no leito dos rios) na região que viria a ser **Minas Gerais**, por volta de **1693–1695**. Seguiram-se descobertas em **Mato Grosso** (Cuiabá, 1718) e **Goiás** (1725).
+
+A notícia provocou uma verdadeira **corrida do ouro**. Gente de toda parte — colonos do Nordeste em decadência açucareira, portugueses recém-chegados do Reino, comerciantes, aventureiros, e sobretudo **africanos escravizados** trazidos para o trabalho — afluiu às Minas em ondas migratórias enormes. Em poucas décadas, uma região antes vazia de colonos ganhou dezenas de milhares de habitantes e viu nascerem vilas como **Vila Rica** (Ouro Preto), **Sabará**, **Mariana**, **São João del-Rei** e **Diamantina** (onde, além do ouro, extraíam-se **diamantes**, no Distrito Diamantino, sob controle rigorosíssimo).
+
+::: {.callout-important title="Armadilha: a fome no meio da riqueza"}
+Parece contraditório, mas nos primeiros anos da corrida houve **fome** nas Minas — no meio de tanto ouro. A explicação está na lógica da corrida: **todos** queriam minerar (a atividade mais lucrativa), e **quase ninguém** plantava alimentos. Faltava comida, e o pouco que havia custava fortunas. Essa carência estimulou a **pecuária** e a agricultura de abastecimento no entorno (Sul de Minas, o gado do Sul e do São Francisco), integrando a economia interna da colônia. A lição histórica: uma economia de puro extrativismo, voltada só para o lucro imediato, pode gerar **riqueza e miséria ao mesmo tempo**.
+:::
+
+## O controle da Coroa: quinto, fundição e derrama {#sec-controle-coroa}
+
+Ouro significava **dinheiro** — e a Coroa portuguesa montou um aparato minucioso para **fiscalizar** a extração e **cobrar impostos**, temendo (com razão) o descaminho e o contrabando. O período do ouro foi o momento de maior **presença do Estado** na colônia. Os principais mecanismos foram (@fig-tributacao-ouro):
+
+- o **quinto**: o imposto principal — a Coroa ficava com **um quinto (20%)** de todo o ouro extraído;
+- as **Casas de Fundição** (a partir de 1720): todo o ouro em pó deveria ser levado a elas para ser **fundido em barras**, das quais se retirava o quinto e que recebiam o selo real. Ouro em pó fora das barras seladas era considerado **contrabando**;
+- a **capitação** e o sistema de cotas: formas alternativas de cobrança (por "cabeça" de escravo, por exemplo), adotadas em diferentes momentos para tentar garantir a arrecadação;
+- a **derrama**: quando a arrecadação do quinto não atingia a cota anual estipulada (as célebres **100 arrobas** de ouro por ano), a Coroa podia decretar a **derrama** — a **cobrança forçada** da diferença, confiscando bens da população até completar o valor devido. A **ameaça de derrama** seria o estopim da **Inconfidência Mineira** (@sec-crise-colonial-inconfidencias).
+
+::: {#fig-tributacao-ouro}
+
+```{.tikz}
+%%| filename: fig-tributacao-ouro
+%%| alt: Esquema dos mecanismos de tributação do ouro: quinto, casas de fundição, derrama.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \node[draw, very thick, fill=manualyellow!24, rounded corners, align=center, text width=3cm, minimum height=0.9cm] (o) at (0,2.4) {\textbf{OURO extraído}};
+  \node[draw, thick, fill=manualblue!14, rounded corners, align=center, text width=3.2cm, minimum height=1cm] (cf) at (0,0.7) {\textbf{Casa de Fundição}\\ \scriptsize funde em barras seladas};
+  \node[draw, thick, fill=manualgreen!16, rounded corners, align=center, text width=2.8cm, minimum height=1cm] (q) at (-3.6,0.7) {\textbf{Quinto (20\%)}\\ \scriptsize à Coroa};
+  \node[draw, thick, fill=manualred!16, rounded corners, align=center, text width=3.4cm, minimum height=1.1cm] (d) at (0,-1.3) {\textbf{Derrama}\\ \scriptsize se não atingir 100 arrobas/ano $\rightarrow$ cobrança forçada};
+  \draw[vetor] (o) -- (cf);
+  \draw[vetor] (cf) -- (q);
+  \draw[vetor, manualred] (cf) -- (d);
+\end{tikzpicture}
+```
+
+O aparato fiscal do ouro: todo ouro passava pela **Casa de Fundição**, de onde se extraía o **quinto**; se a cota anual não fosse atingida, decretava-se a **derrama**.
+:::
+
+Apesar de todo o rigor, o **contrabando** foi imenso: escondia-se ouro em pó em imagens de santos ocos (os "**santos do pau oco**"), subornavam-se funcionários, desviava-se o metal por caminhos clandestinos. A tensão entre a **cobrança sufocante** da Coroa e a resistência dos mineradores foi uma marca do período — e, no fim do século, tornar-se-ia explosiva.
+
+## A sociedade mineradora {#sec-sociedade-mineradora}
+
+A sociedade do ouro foi **profundamente diferente** da açucareira, ainda que também **escravista**. As diferenças mais importantes (@fig-comparacao-sociedades):
+
+- **Urbana, não rural:** a mineração deu origem a **cidades** (Vila Rica, Sabará, Mariana), com vida urbana intensa — comércio, ofícios, funcionários, artistas, padres, uma vida social e cultural que o mundo dos engenhos não conhecia.
+- **Mais diversa e móvel:** ao lado dos grandes mineradores enriquecidos, havia uma vasta camada **intermediária** de comerciantes, artesãos, tropeiros, funcionários e profissionais liberais, e uma grande massa de **pobres livres** e de escravizados. A mobilidade social, embora limitada, era **maior** que na sociedade açucareira, rígida e aristocrática.
+- **Maior possibilidade de alforria:** o ouro permitia que alguns escravizados — sobretudo os de **ganho** e os **faiscadores** (que garimpavam por conta própria) — juntassem pecúlio e comprassem a própria **liberdade**. Por isso, as Minas tiveram uma população de **negros e mestiços livres (libertos)** proporcionalmente grande.
+
+::: {#fig-comparacao-sociedades}
+
+```{.tikz}
+%%| filename: fig-comparacao-sociedades
+%%| alt: Quadro comparativo entre a sociedade açucareira e a sociedade mineradora.
+\begin{tikzpicture}[every node/.style={font=\scriptsize}]
+  \node[draw, very thick, fill=manualgreen!14, rounded corners, align=center, text width=4.4cm, minimum height=2.6cm] (a) at (-3,0) {\textbf{Sociedade AÇUCAREIRA}\\[2pt] \scriptsize rural (engenhos)\\ \scriptsize aristocrática e rígida\\ \scriptsize litorânea\\ \scriptsize Nordeste (séc. XVI–XVII)};
+  \node[draw, very thick, fill=manualyellow!22, rounded corners, align=center, text width=4.4cm, minimum height=2.6cm] (m) at (3,0) {\textbf{Sociedade MINERADORA}\\[2pt] \scriptsize urbana (cidades)\\ \scriptsize mais diversa e móvel\\ \scriptsize interior\\ \scriptsize Centro-Sul (séc. XVIII)};
+  \draw[<->, very thick, manualgray] (a) -- (m);
+\end{tikzpicture}
+```
+
+O contraste entre as duas grandes sociedades coloniais. Ambas eram escravistas, mas a do ouro era mais **urbana**, **diversa** e **móvel** — e deslocou o eixo econômico para o **Centro-Sul**.
+:::
+
+Esse ambiente urbano e relativamente próspero foi o berço de uma extraordinária **produção cultural**: o **barroco mineiro**, com a arquitetura e a escultura de **Antônio Francisco Lisboa, o Aleijadinho** (c. 1738–1814), a pintura de **Manuel da Costa Ataíde** e a música sacra de compositores como **Lobo de Mesquita**. As igrejas de Ouro Preto, Congonhas (os **Profetas** de Aleijadinho) e Mariana são o testemunho artístico mais eloquente da riqueza — e da religiosidade — da sociedade do ouro. Foi também nesse meio urbano, com gente instruída, padres, advogados e poetas em contato com as ideias europeias, que germinaria o pensamento crítico da **Inconfidência**.
+
+## Consequências do ouro {#sec-consequencias-ouro}
+
+O ciclo do ouro (auge entre c. 1700 e 1760, declínio a partir daí) teve consequências profundas e duradouras:
+
+- **Deslocamento do eixo econômico** do **Nordeste** (açúcar em decadência) para o **Centro-Sul**. Em 1763, a capital da colônia foi transferida de **Salvador** para o **Rio de Janeiro**, porto por onde escoava o ouro — mudança de longo alcance.
+- **Interiorização e urbanização:** o ouro povoou o interior, criou cidades e uma malha de **caminhos** (o "Caminho Novo" para o Rio, o "Caminho dos Goiases") e de **tropeiros** que integraram a colônia.
+- **Fortalecimento do controle metropolitano:** nunca a Coroa esteve tão presente e cobradora — o que aumentou as tensões com os colonos.
+- **Consequência internacional decisiva:** boa parte do ouro brasileiro **não** ficou em Portugal. Pelo **Tratado de Methuen (1703)** — o "tratado de panos e vinhos", que abria o mercado português às manufaturas têxteis **inglesas** em troca de facilidades para o vinho português —, Portugal tinha um **déficit comercial** crônico com a Inglaterra, coberto justamente com o **ouro do Brasil**. Assim, o ouro brasileiro **escoou para a Inglaterra**, ajudando a financiar a acumulação de capital que alimentaria a **Revolução Industrial** (@sec-antigo-sistema-colonial). O Brasil produziu a riqueza; a Inglaterra a capitalizou.
+
+::: {.callout-tip title="Dica de prova: para onde foi o ouro?"}
+Uma pegadinha clássica de vestibular: o ouro do Brasil enriqueceu, sobretudo, **a Inglaterra**, não Portugal. Guarde a cadeia causal: **Tratado de Methuen (1703)** → Portugal compra manufaturas inglesas e acumula **déficit** → paga o déficit com o **ouro do Brasil** → o ouro vai para a **Inglaterra** → ajuda a financiar a **Revolução Industrial**. Portugal foi um mero **"país de passagem"** da riqueza colonial. É a lógica do Antigo Sistema Colonial funcionando contra a própria metrópole ibérica, em favor da potência que industrializava.
+:::
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+**A tese da "decadência" e sua revisão.** Durante muito tempo, a história das Minas foi contada como uma curva simples: um **auge** deslumbrante no início do século XVIII, seguido de uma **decadência** irremediável a partir de 1760–1780, quando o ouro de aluvião (o mais fácil) se esgotou. Nessa narrativa clássica, as Minas teriam mergulhado, após o ouro, num **vazio econômico** e numa estagnação — uma sociedade que teria simplesmente **definhado** com o fim da mineração. Essa imagem, associada inclusive a certa leitura de **Celso Furtado** em sua *Formação econômica do Brasil*, tratava o "ciclo do ouro" como um episódio meteórico, brilhante e efêmero.
+
+**A revisão: uma economia que se reinventou.** A partir dos anos 1980, pesquisas de história econômica — apoiadas em fontes locais como inventários, registros paroquiais e listas de habitantes — **contestaram** a tese da decadência. Historiadores mostraram que, esgotado o ouro, a economia mineira **não** entrou em colapso: ela **se diversificou e se voltou para dentro**. Minas Gerais tornou-se, no fim do século XVIII e no XIX, uma das regiões mais **populosas e dinâmicas** da colônia, com forte produção de **alimentos** (agricultura e pecuária de abastecimento), **têxteis** domésticos, ferro e comércio interno — uma economia mercantil de **abastecimento**, voltada ao mercado interno brasileiro. A "decadência" da mineração, portanto, **não** significou decadência econômica geral: houve **reconversão**, não morte. Esse debate dialoga diretamente com a discussão do @sec-antigo-sistema-colonial sobre a existência de uma **dinâmica interna** na economia colonial, além do setor exportador.
+
+**Por que as leituras divergem?** Porque **olham para coisas diferentes** e usam **fontes diferentes**. Quem foca o **setor exportador** (o ouro que ia para a Europa) vê, de fato, uma queda vertiginosa após 1760 — e conclui "decadência". Quem foca a **economia interna** (o abastecimento, o mercado local, a população) vê **continuidade e dinamismo** — e conclui "reconversão". A divergência ilustra uma lição central deste manual: a resposta que o historiador encontra depende da **pergunta** que ele faz e das **fontes** que escolhe. Ver só a exportação é herdar o olhar da própria metrópole (que só se interessava pelo ouro); ver a economia interna é recuperar a vida dos próprios habitantes das Minas.
+
+::: {.callout-warning title="Controvérsia: existiu mesmo um \"ciclo\" do ouro?"}
+A própria ideia de "**ciclos econômicos**" (ciclo do pau-brasil, do açúcar, do ouro, do café), muito usada no ensino, é hoje **problematizada** pelos historiadores. Ela é útil didaticamente — organiza a cronologia em torno do produto dominante —, mas pode **enganar** se levar a pensar que uma economia **substituía** completamente a outra, ou que fora do produto-estrela "não havia nada". Na prática, as atividades **coexistiam** (havia açúcar durante o ouro, gado durante o açúcar, agricultura de abastecimento o tempo todo) e as regiões tinham vida econômica **própria**, para além do produto de exportação. Use a noção de "ciclo" como um **atalho didático**, ciente de seus limites — e não como uma descrição fiel e completa da economia colonial.
+:::
+
+## Resumo do capítulo {#sec-resumo}
+
+- **Bandeirantes paulistas** descobriram **ouro de aluvião** em **Minas Gerais** por volta de **1693–1695** (depois Mato Grosso, 1718; Goiás, 1725), provocando a **corrida do ouro**: grande migração e nascimento de cidades (**Vila Rica**/Ouro Preto, Sabará, Mariana, Diamantina). Nos primeiros anos, houve **fome** — todos mineravam, ninguém plantava —, o que estimulou a agricultura e a pecuária de abastecimento.
+- A Coroa montou um aparato fiscal rigoroso: o **quinto** (20% do ouro), as **Casas de Fundição** (ouro em barras seladas; o resto era contrabando), a **capitação** e a **derrama** (cobrança forçada quando não se atingiam as **100 arrobas** anuais). Mesmo assim, o **contrabando** foi enorme ("santos do pau oco").
+- A **sociedade mineradora** era escravista, mas **urbana**, mais **diversa e móvel** que a açucareira, com maior **mobilidade social** e mais **alforrias** (escravos de ganho, faiscadores). Foi o berço do **barroco mineiro** (**Aleijadinho**, Ataíde, Lobo de Mesquita).
+- **Consequências:** deslocamento do eixo para o **Centro-Sul** (capital para o **Rio de Janeiro**, 1763); interiorização e urbanização; maior controle metropolitano; e, pelo **Tratado de Methuen (1703)**, o ouro **escoou para a Inglaterra**, ajudando a financiar a **Revolução Industrial**. Portugal foi "país de passagem" da riqueza.
+- Historiografia: a tese da **decadência** das Minas após o ouro × a revisão da **reconversão** para uma economia **interna** de abastecimento, dinâmica e populosa. Debate ligado à crítica da própria noção de "**ciclos econômicos**".
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Domine: (1) a **corrida do ouro** e o paradoxo da fome; (2) o aparato fiscal (**quinto**, **fundição**, **derrama**, 100 arrobas); (3) o **contraste** entre a sociedade mineradora e a açucareira; (4) as **consequências** (Rio capital, Methuen, ouro para a Inglaterra); (5) o debate **decadência × reconversão** e a crítica aos "ciclos".
+:::
+
+**1.** Explique a **corrida do ouro** e o paradoxo da fome nos primeiros anos das Minas.
+
+::: {.callout-tip collapse="true" title="Solução"}
+A **corrida do ouro** foi a onda migratória provocada pela descoberta de **ouro de aluvião** em Minas Gerais (c. 1693–1695) por bandeirantes paulistas. Atraídos pela riqueza, colonos do Nordeste em decadência açucareira, portugueses do Reino, comerciantes, aventureiros e, sobretudo, **africanos escravizados** afluíram em massa para o interior, fazendo nascer cidades como Vila Rica. O **paradoxo da fome** ocorreu porque, na febre da corrida, **quase todos** queriam minerar — a atividade mais lucrativa — e **quase ninguém** se dedicava a plantar alimentos. Faltava comida, e o pouco disponível custava fortunas; houve fome no meio da riqueza. Esse problema **estimulou** o desenvolvimento da **agricultura e da pecuária de abastecimento** no entorno (Sul de Minas, gado do Sul e do São Francisco), integrando a economia interna da colônia.
+:::
+
+**2.** Descreva os principais mecanismos de **tributação e controle** do ouro pela Coroa.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Os principais foram: (1) o **quinto** — imposto pelo qual a Coroa ficava com **20%** de todo o ouro extraído; (2) as **Casas de Fundição** (desde 1720), onde **todo** o ouro em pó tinha de ser **fundido em barras seladas** com o selo real, das quais se retirava o quinto — ouro fora dessas barras era considerado **contrabando**; (3) a **capitação** e o sistema de cotas, formas alternativas de cobrança (por exemplo, por "cabeça" de escravo); e (4) a **derrama** — quando a arrecadação anual do quinto não atingia a cota estipulada (as **100 arrobas** de ouro), a Coroa decretava a **cobrança forçada** da diferença, confiscando bens da população. Apesar de todo o rigor, o **contrabando** foi enorme (ouro escondido em "santos do pau oco", subornos). A ameaça de **derrama** seria o estopim da Inconfidência Mineira.
+:::
+
+**3.** Compare a **sociedade mineradora** com a **sociedade açucareira**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Ambas eram **escravistas**, mas diferiam muito. A **açucareira** (séc. XVI–XVII, Nordeste) era **rural** (organizada em torno dos engenhos), **aristocrática e rígida**, com baixíssima mobilidade social e concentrada no **litoral**. A **mineradora** (séc. XVIII, Centro-Sul) era **urbana** (deu origem a cidades como Vila Rica, Sabará, Mariana), **mais diversa** (com ampla camada intermediária de comerciantes, artesãos, funcionários e profissionais liberais, além de muitos pobres livres) e **mais móvel**, com **maior mobilidade social** e mais **alforrias** — o ouro permitia que escravizados de ganho e faiscadores comprassem a liberdade, gerando uma grande população de negros e mestiços livres. A mineradora também foi berço de intensa vida **cultural** (o **barroco mineiro**), inexistente no mundo dos engenhos.
+:::
+
+**4.** Explique como o **ouro do Brasil** acabou financiando a **Inglaterra**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Pela cadeia aberta pelo **Tratado de Methuen (1703)**, o "tratado de panos e vinhos". Por ele, Portugal abriu seu mercado às **manufaturas têxteis inglesas** em troca de facilidades para a venda de **vinho** português na Inglaterra. Como as manufaturas inglesas eram muito mais numerosas e valiosas que o vinho, Portugal passou a ter um **déficit comercial crônico** com a Inglaterra. Esse déficit foi **coberto com o ouro do Brasil**: o metal precioso extraído nas Minas, ao chegar a Portugal, **escoava** para a Inglaterra para pagar as importações inglesas. Assim, o ouro brasileiro **não** ficou em Portugal (que funcionou como mero "país de passagem"), mas ajudou a **financiar a acumulação de capital** que alimentaria a **Revolução Industrial** inglesa. O Brasil produziu a riqueza; a Inglaterra a capitalizou — um exemplo perfeito da lógica do Antigo Sistema Colonial operando em favor da potência que industrializava.
+:::
+
+**5.** O que foi a **derrama** e por que ela era tão temida?
+
+::: {.callout-tip collapse="true" title="Solução"}
+A **derrama** era a **cobrança forçada** decretada pela Coroa quando a arrecadação anual do **quinto** não atingia a cota estipulada (as célebres **100 arrobas** de ouro por ano). Nesse caso, o Estado cobrava à força a **diferença** que faltava, **confiscando bens** da população — de mineradores a comerciantes e moradores em geral — até completar o valor devido. Era temida por ser **arbitrária, coletiva e confiscatória**: punia toda a população pela queda da produção (que se devia, em boa parte, ao **esgotamento natural** do ouro de aluvião, e não à sonegação), atingindo até quem nada tinha a ver com a mineração. A **ameaça de decretação de uma derrama**, no fim do século XVIII, quando o ouro já minguava, seria o **estopim** da **Inconfidência Mineira** (@sec-crise-colonial-inconfidencias).
+:::
+
+**6.** (Estilo ENEM) Leia o texto.
+
+> "O ouro que se extraía nas Minas Gerais atravessava o Atlântico rumo a Lisboa, mas ali não se detinha. Comprometido com as manufaturas que Portugal importava da Inglaterra, seguia viagem para Londres, onde ajudou a formar os capitais que, poucas décadas depois, moveriam as primeiras fábricas."
+
+O texto evidencia que a exploração do ouro brasileiro
+
+**(a)** garantiu a industrialização de Portugal no século XVIII.
+**(b)** manteve-se integralmente nos cofres da metrópole portuguesa.
+**(c)** contribuiu para a acumulação de capitais que financiou a industrialização inglesa.
+**(d)** foi insignificante para a economia europeia da época.
+**(e)** substituiu o comércio de escravos como principal negócio colonial.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (c).** O texto mostra que o ouro brasileiro, ao chegar a Lisboa, "não se detinha": seguia para **Londres** para pagar as manufaturas inglesas, ajudando a **formar os capitais** que "moveriam as primeiras fábricas" — ou seja, contribuiu para a **acumulação de capital** que financiou a **industrialização inglesa**. As demais contrariam o texto: Portugal **não** se industrializou (a) e o ouro **não** ficou em seus cofres (b); o ouro foi **muito** relevante para a economia europeia (d); e ele **não** substituiu o tráfico, que continuou como grande negócio (e).
+:::
+
+**7.** (Estilo vestibular — dissertativa) Discuta a tese da "decadência" das Minas após o esgotamento do ouro e a revisão historiográfica que a contesta.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Resposta esperada: a **tese clássica da decadência** sustentava que, esgotado o ouro de aluvião a partir de 1760–1780, as Minas Gerais teriam mergulhado num **vazio econômico** e numa **estagnação**, como se a sociedade simplesmente **definhasse** com o fim da mineração — visão associada a certa leitura de **Celso Furtado** e à ideia de um "ciclo do ouro" meteórico. A **revisão historiográfica** (a partir dos anos 1980), apoiada em fontes locais (inventários, registros paroquiais, listas de habitantes), **contestou** essa tese: mostrou que, com o declínio da mineração, a economia mineira **não** entrou em colapso, mas **se diversificou e se voltou para dentro**, tornando-se uma das regiões mais **populosas e dinâmicas** da colônia, com forte produção de **alimentos**, **têxteis** domésticos, ferro e um vigoroso **comércio interno** de abastecimento. Houve, portanto, **reconversão**, não morte. As duas leituras divergem porque **olham para setores diferentes**: quem foca a **exportação** (o ouro para a Europa) vê queda e "decadência"; quem foca a **economia interna** (o abastecimento, o mercado local, a população) vê **continuidade e dinamismo**. O debate ilustra que a resposta do historiador depende da **pergunta** e das **fontes** que ele escolhe — e recomenda cautela com a própria noção de "ciclos econômicos".
+:::
+
+**8.** Por que a noção de "**ciclos econômicos**" deve ser usada com cautela?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque, embora seja um **atalho didático útil** (organiza a cronologia em torno do produto dominante — pau-brasil, açúcar, ouro, café), ela pode **induzir a erros** se tomada ao pé da letra. Primeiro, sugere que uma economia **substituía** completamente a outra, quando na verdade as atividades **coexistiam**: havia açúcar durante o ouro, gado durante o açúcar e agricultura de abastecimento o tempo todo. Segundo, dá a impressão de que, fora do produto-estrela de exportação, "não havia nada" — apagando a **economia interna** (alimentos, comércio local, produção para o mercado brasileiro) e a **vida econômica própria** das regiões. Terceiro, reforça a ideia enganosa de "auge e decadência" abruptos (como na falsa "decadência" das Minas). Por isso, os historiadores recomendam usar "ciclo" como **recurso didático**, ciente de seus limites, e não como descrição fiel e completa da complexa economia colonial.
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- SOUZA, Laura de Mello e. *Desclassificados do ouro: a pobreza mineira no século XVIII* [@melloESouza2004]. Estudo clássico sobre a vasta população pobre e livre das Minas — o avesso da riqueza do ouro.
+- GOMES, Laurentino. *Escravidão* [@gomes2022]. Trata do trabalho escravo nas minas e do peso do ouro na economia atlântica.
+- FAUSTO, Boris. *História do Brasil* [@fausto2015]. Boa síntese da mineração, da fiscalidade e das consequências do ouro.
+- VAINFAS, Ronaldo. *Dicionário do Brasil Colonial* [@vainfas2000]. Verbetes sobre quinto, derrama, casas de fundição, capitação e Distrito Diamantino.
+
+**Filmes e documentários**
+
+- *Xica da Silva* (1976), dir. Cacá Diegues. Ambientado no Distrito Diamantino, retrata — de forma livre — a sociedade do ouro e dos diamantes.
+- Documentários sobre o **barroco mineiro** e a obra de **Aleijadinho** (os Profetas de Congonhas, as igrejas de Ouro Preto), fontes visuais da cultura do ouro.
+- Produções sobre **Ouro Preto** e o patrimônio das cidades históricas de Minas, Patrimônio Mundial da Humanidade.

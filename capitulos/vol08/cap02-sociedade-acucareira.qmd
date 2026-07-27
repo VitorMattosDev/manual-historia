@@ -1,5 +1,222 @@
 # Açúcar, engenho e a sociedade açucareira {#sec-sociedade-acucareira}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Durante muito tempo, o açúcar foi um artigo de luxo. Na Europa medieval, vendia-se em farmácias, às colheres, como remédio e especiaria rara; adoçar a comida era privilégio de reis. Foi para atender a uma demanda europeia crescente por esse produto caro que se montou, no litoral do Brasil, entre os séculos XVI e XVII, a maior empresa agrícola do mundo até então — e uma das mais brutais. O **engenho** de açúcar não era apenas uma fábrica: era o centro de uma sociedade inteira, com sua hierarquia, sua arquitetura, sua violência e sua cultura. Compreender o engenho e a sociedade que girava em torno dele é compreender as raízes de boa parte do Brasil que conhecemos — inclusive da desigualdade que ainda nos marca. Este capítulo reconstrói a economia açucareira, a paisagem social que ela criou e os debates que os historiadores travam sobre ela.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- explicar por que o **açúcar** se tornou o eixo da colonização portuguesa no século XVI;
+- descrever a estrutura da **plantation** açucareira: latifúndio, monocultura, escravidão e exportação;
+- caracterizar as partes e o funcionamento do **engenho** e das gentes que nele trabalhavam;
+- analisar a **sociedade açucareira** — patriarcal, hierárquica e escravista — e seus grupos;
+- discutir o debate historiográfico sobre a colonização, de Gilberto Freyre às revisões críticas.
 :::
+
+## Por que o açúcar? {#sec-por-que-acucar}
+
+A escolha do açúcar não foi acaso. Vários fatores convergiram para fazer dele o motor da colonização (@fig-fatores-acucar):
+
+- **Demanda europeia** em alta: o açúcar era caro e muito procurado, o que garantia lucros elevados.
+- **Experiência prévia** dos portugueses: já cultivavam cana com sucesso nas ilhas atlânticas (**Madeira**, **Açores**, **São Tomé**), dominando a técnica.
+- **Condições naturais** favoráveis: o litoral do Nordeste, sobretudo o **massapê** (solo escuro, argiloso e fértil) da Zona da Mata de Pernambuco e da Bahia, era ideal para a cana; o clima quente e úmido, também.
+- **Financiamento holandês**: os **Países Baixos** entraram com capital para a montagem dos engenhos e assumiram o **refino** e a **distribuição** do açúcar na Europa, ficando com boa parte do lucro — o que teria consequências decisivas (@sec-administracao-uniao-iberica-invasoes).
+
+::: {#fig-fatores-acucar}
+
+```{.tikz}
+%%| filename: fig-fatores-acucar
+%%| alt: Fluxograma dos fatores que levaram à escolha do açúcar como produto da colonização.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \node[draw, fill=manualyellow!22, rounded corners, align=center, text width=2.6cm] (d) at (-4.2,1.4) {\textbf{Demanda} europeia alta};
+  \node[draw, fill=manualgreen!16, rounded corners, align=center, text width=2.6cm] (e) at (-1.4,2.1) {\textbf{Experiência} nas ilhas atlânticas};
+  \node[draw, fill=manualgreen!16, rounded corners, align=center, text width=2.6cm] (n) at (1.4,2.1) {\textbf{Solo e clima} (massapê)};
+  \node[draw, fill=manualblue!16, rounded corners, align=center, text width=2.6cm] (h) at (4.2,1.4) {\textbf{Capital holandês} (refino/venda)};
+  \node[draw, very thick, fill=manualred!18, rounded corners, align=center, text width=4cm, font=\scriptsize\bfseries] (a) at (0,-0.3) {ECONOMIA AÇUCAREIRA (séc. XVI–XVII)};
+  \draw[vetor] (d) -- (a); \draw[vetor] (e) -- (a); \draw[vetor] (n) -- (a); \draw[vetor] (h) -- (a);
+\end{tikzpicture}
+```
+
+A convergência de demanda, experiência técnica, condições naturais e capital externo que fez do açúcar o eixo da colonização.
+:::
+
+O modelo econômico montado ficou conhecido como **plantation**: um sistema de produção agrícola definido por quatro traços combinados — **grande propriedade** (latifúndio), **monocultura** (um único produto dominante), **trabalho escravo** e produção **voltada para a exportação**. A plantation é a materialização, no campo, da lógica do Antigo Sistema Colonial (@sec-antigo-sistema-colonial): a colônia produzia um gênero tropical para vender à metrópole, e não para abastecer a si mesma.
+
+::: {.callout-note title="Conceito-chave: plantation"}
+**Plantation** é o sistema de produção agrícola colonial baseado na combinação de **latifúndio** (grande extensão de terra concentrada em poucas mãos), **monocultura** de um produto de exportação, **mão de obra escravizada** e destino ao **mercado externo**. Foi o modelo do açúcar no Brasil e, mais tarde, do algodão no sul dos Estados Unidos e do açúcar no Caribe. Sua marca é a subordinação de tudo — terra, gente, trabalho — ao lucro da exportação.
+:::
+
+## O engenho: coração da economia açucareira {#sec-engenho}
+
+A palavra **engenho** designava, ao mesmo tempo, as instalações onde a cana virava açúcar e **toda a propriedade** — terras, construções, gente e equipamentos. Um grande engenho era quase um mundo autossuficiente. Suas partes principais eram (@fig-partes-engenho):
+
+- a **casa-grande**, residência do senhor de engenho e de sua família, centro do poder;
+- a **senzala**, alojamento precário dos africanos escravizados;
+- a **capela**, sinal da religião católica que legitimava a ordem;
+- o **canavial**, onde a cana era plantada e cortada;
+- a **moenda**, onde a cana era esmagada (movida por bois, água ou, nos maiores, por roda-d'água);
+- a **casa das caldeiras** e a **casa de purgar**, onde o caldo era fervido, cristalizado e branqueado, transformando-se em açúcar a ser embarcado em caixas.
+
+::: {#fig-partes-engenho}
+
+```{.tikz}
+%%| filename: fig-partes-engenho
+%%| alt: Diagrama esquemático das partes de um engenho de açúcar: casa-grande, senzala, capela, moenda, canavial.
+\begin{tikzpicture}[every node/.style={font=\scriptsize}]
+  \node[draw, very thick, fill=manualyellow!22, rounded corners, align=center, text width=2.4cm, minimum height=1cm] (cg) at (0,0) {\textbf{Casa-grande}\\ senhor e família};
+  \node[draw, thick, fill=manualgray!16, rounded corners, align=center, text width=2.4cm, minimum height=1cm] (se) at (-3.3,0) {\textbf{Senzala}\\ escravizados};
+  \node[draw, thick, fill=manualblue!14, rounded corners, align=center, text width=2.4cm, minimum height=1cm] (ca) at (3.3,0) {\textbf{Capela}\\ religião};
+  \node[draw, thick, fill=manualgreen!16, rounded corners, align=center, text width=2.4cm, minimum height=1cm] (cn) at (-3.3,-1.9) {\textbf{Canavial}\\ plantio e corte};
+  \node[draw, thick, fill=manualred!14, rounded corners, align=center, text width=2.4cm, minimum height=1cm] (mo) at (0,-1.9) {\textbf{Moenda}\\ esmaga a cana};
+  \node[draw, thick, fill=manualred!14, rounded corners, align=center, text width=2.4cm, minimum height=1cm] (cal) at (3.3,-1.9) {\textbf{Caldeiras/}\\ \textbf{purgar}: o açúcar};
+  \draw[->, thick, manualgray] (cn) -- (mo); \draw[->, thick, manualgray] (mo) -- (cal);
+\end{tikzpicture}
+```
+
+As partes de um engenho. A disposição espacial refletia a hierarquia social: a **casa-grande** no centro, a **senzala** ao lado, a **capela** a benzer o conjunto — e, abaixo, o fluxo produtivo do canavial ao açúcar.
+:::
+
+O trabalho no engenho era **extenuante e perigoso**, sobretudo na moagem e nas caldeiras, onde acidentes e queimaduras eram comuns e a jornada podia varar a noite na safra. A esmagadora maioria dessa força de trabalho era formada por **africanos escravizados** (@sec-escravidao-e-resistencia). Nos primeiros tempos, os portugueses tentaram escravizar **indígenas**, mas, por razões que o próximo capítulo detalha, a escravidão **africana** tornou-se dominante — e, não custa lembrar, o **tráfico negreiro** foi ele próprio um dos negócios mais lucrativos do sistema.
+
+## A sociedade açucareira: patriarcal, hierárquica e escravista {#sec-sociedade}
+
+A economia do açúcar moldou uma sociedade com feição própria, que o sociólogo Gilberto Freyre descreveu como **patriarcal** — organizada em torno da autoridade do senhor de engenho, chefe absoluto da família ampliada (esposa, filhos, parentes, agregados e escravizados). Era uma sociedade **rural**, **hierárquica** e **escravista**, com pouca mobilidade. Seus grupos podem ser resumidos assim (@fig-piramide-acucareira):
+
+- no topo, os **senhores de engenho**: a aristocracia rural, donos da terra, dos escravizados e do poder local (a chamada "**nobreza da terra**"). Nem todos possuíam engenho: havia os **lavradores de cana**, que plantavam cana em terras próprias ou arrendadas e a moíam no engenho alheio, dividindo o açúcar com o senhor — um grupo intermediário e dependente;
+- no meio, uma camada de **homens livres pobres**: trabalhadores especializados (o **mestre de açúcar**, técnico valiosíssimo), feitores, artesãos, pequenos comerciantes, padres, funcionários. Livres, mas dependentes dos favores dos poderosos — a base do que se chamou "**homens livres na ordem escravocrata**";
+- na base, a maioria: os **africanos escravizados**, considerados juridicamente **propriedade**, sem direitos, sustentando com seu trabalho toda a estrutura. Havia ainda **indígenas** escravizados ou aldeados e uma pequena parcela de **libertos** (alforriados).
+
+::: {#fig-piramide-acucareira}
+
+```{.tikz}
+%%| filename: fig-piramide-acucareira
+%%| alt: Pirâmide social da sociedade açucareira, do senhor de engenho no topo aos escravizados na base.
+\begin{tikzpicture}[every node/.style={font=\scriptsize}]
+  \draw[thick, fill=manualyellow!18] (0,3.4) -- (-1.15,1.6) -- (1.15,1.6) -- cycle;
+  \draw[thick, fill=manualgreen!14] (-1.15,1.6) -- (-2.55,-0.6) -- (2.55,-0.6) -- (1.15,1.6) -- cycle;
+  \draw[thick, fill=manualgray!35] (-2.55,-0.6) -- (-4.2,-3.0) -- (4.2,-3.0) -- (2.55,-0.6) -- cycle;
+  \node[align=center] at (0,2.55) {\textbf{Senhores}\\ \textbf{de engenho}};
+  \node[align=center] at (0,0.55) {\textbf{Homens livres pobres}\\ e lavradores de cana};
+  \node[align=center] at (0,-1.75) {\textbf{Escravizados}\\ \textbf{(a maioria da população)}};
+  \node[right, text=manualgray] at (1.3,2.9) {\scriptsize poucos, muito poder};
+  \node[right, text=manualgray] at (4.4,-1.75) {\scriptsize muitos, sem direitos};
+\end{tikzpicture}
+```
+
+A pirâmide da sociedade açucareira: poucos senhores no topo, uma camada intermediária de homens livres dependentes e, na base larga, a maioria escravizada que sustentava tudo.
+:::
+
+Duas dimensões dessa sociedade merecem destaque. A primeira é o **patriarcalismo**: o poder do senhor sobre mulheres, filhos e escravizados era quase ilimitado, e a **mulher** — branca, da casa-grande — vivia reclusa, casada muito jovem, submetida à autoridade masculina, ainda que algumas viúvas administrassem engenhos. A segunda é a **violência estrutural**: a ordem escravista se sustentava no castigo físico, na coerção cotidiana e na negação da humanidade do escravizado — realidade que a imagem de uma convivência "harmoniosa" entre casa-grande e senzala tende a mascarar, como veremos na seção historiográfica.
+
+::: {.callout-important title="Armadilha: a \"democracia racial\" e a mestiçagem"}
+É comum imaginar a sociedade colonial como um lugar de convivência amena entre brancos, indígenas e negros, "temperada" pela mestiçagem. Cuidado: a **miscigenação** foi intensa, sim, mas nasceu, em grande parte, da **violência sexual** dos senhores contra mulheres escravizadas, numa relação de **poder absolutamente desigual**. Chamar isso de "democracia racial" — expressão associada a certa leitura de Gilberto Freyre — é anacrônico e ideológico: encobre a exploração e a hierarquia rígidas sob um verniz de cordialidade. Mestiçagem intensa **não** significou igualdade nem ausência de racismo.
+:::
+
+## Além do açúcar: a economia do gado e a integração interna {#sec-gado}
+
+A economia colonial não se resumiu ao litoral açucareiro. Como a cana ocupava as melhores terras da Zona da Mata e a criação de animais atrapalhava os canaviais, a **pecuária** foi empurrada para o interior — o **sertão** nordestino. A **criação de gado** (bovino) tornou-se uma atividade **complementar** ao açúcar: fornecia carne, couro (matéria-prima de mil usos) e, sobretudo, os **bois** que moviam as moendas e os carros de transporte.
+
+Essa atividade teve consequências que vão além da economia. Ao contrário da plantation, a pecuária ocupava **muita terra e pouca gente**, empregava trabalho relativamente **mais livre** (o **vaqueiro**, muitas vezes mestiço, remunerado com uma parte das crias) e, ao avançar rumo ao interior seguindo os rios (São Francisco, o "rio dos currais"), foi um dos principais fatores de **interiorização** e **povoamento** do território (@sec-expansao-territorial). Enquanto o açúcar prendia a colônia ao litoral e ao mercado externo, o gado a empurrava para dentro e criava uma economia mais voltada ao **abastecimento interno**.
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+**Gilberto Freyre e a casa-grande.** Nenhum livro moldou tanto a imagem da sociedade açucareira quanto *Casa-Grande & Senzala* (1933), de **Gilberto Freyre** (1900–1987) [@freyre2003]. Contra o **racismo científico** então dominante — que via na mestiçagem uma degeneração —, Freyre fez algo revolucionário para a época: valorizou as **contribuições** do africano e do indígena à formação brasileira (na alimentação, na língua, na religião, na sexualidade, na cultura) e retratou a colonização portuguesa como singularmente **plástica** e **miscigenadora**. Sua obra deslocou o olhar da história política para a **vida cotidiana, íntima e familiar** do engenho, antecipando a história das mentalidades. O impacto foi imenso e, em parte, positivo: ajudou a combater a ideia de inferioridade racial e a afirmar a mestiçagem como traço central do país.
+
+**As revisões críticas: por trás da cordialidade, a violência.** A partir dos anos 1950 e 1960, historiadores e sociólogos passaram a **criticar** duramente a obra de Freyre. A leitura freyriana, argumentaram, suavizava a escravidão: ao enfatizar a intimidade entre casa-grande e senzala e a "brandura" do senhor português, encobria a **violência estrutural**, a exploração e o racismo do sistema — dando origem ao mito da "**democracia racial**", a falsa ideia de que o Brasil teria escapado ao conflito racial. Autores como **Caio Prado Jr.** [@pradoJunior2011] deslocaram a análise para a **economia** e para o "sentido" exportador da colônia; a escola sociológica paulista (Florestan Fernandes e outros) denunciou o racismo persistente; e, mais tarde, historiadores como **Stuart Schwartz** [@schwartz1988], em estudos rigorosos sobre os engenhos da Bahia, mostraram uma realidade de **coerção, resistência e conflito** muito distante da harmonia freyriana, sem deixar de reconhecer a complexidade das relações. O debate opõe, assim, uma leitura **culturalista e conciliadora** (Freyre) a leituras que enfatizam a **exploração, o conflito e a desigualdade** (Prado Jr., Fernandes, Schwartz).
+
+**Por que divergem?** Porque partem de **perguntas** e **valores** distintos, e são **filhas de seu tempo**. Freyre escreve nos anos 1930, buscando uma identidade nacional positiva e uma resposta ao racismo científico — e por isso valoriza a fusão cultural. Os críticos escrevem sob o impacto da sociologia moderna, dos movimentos negros e das lutas por igualdade — e por isso enxergam a violência que a celebração da mestiçagem podia ocultar. Nenhum "inventa" fatos: a miscigenação foi real (Freyre acerta nisso), mas também foi real a violência que a produziu (os críticos acertam nisso). Ler os dois lados é entender que a mesma sociedade pode ser descrita como **encontro de culturas** e como **estrutura de dominação** — e que ambas as coisas são verdadeiras ao mesmo tempo.
+
+::: {.callout-warning title="Controvérsia: o que fazer com Gilberto Freyre hoje?"}
+Freyre é, ao mesmo tempo, indispensável e problemático. Indispensável porque abriu o estudo da vida cotidiana, valorizou o legado africano e indígena e escreveu um dos livros mais influentes do pensamento brasileiro. Problemático porque sua obra alimentou o mito da democracia racial, hoje amplamente desmontado. A postura madura não é nem venerá-lo acriticamente nem descartá-lo: é **lê-lo historicamente** — reconhecendo sua contribuição e situando seus limites no contexto dos anos 1930. É o mesmo exercício crítico que aplicamos a qualquer fonte ou autor.
+:::
+
+## Resumo do capítulo {#sec-resumo}
+
+- O **açúcar** foi escolhido como eixo da colonização por conjugar **demanda europeia** alta, **experiência** portuguesa nas ilhas atlânticas, **solo e clima** favoráveis (o **massapê** do Nordeste) e **capital holandês** (que financiou e distribuiu).
+- O modelo foi a **plantation**: **latifúndio + monocultura + trabalho escravo + exportação** — a materialização agrícola do Antigo Sistema Colonial.
+- O **engenho** designava as instalações e toda a propriedade (**casa-grande**, **senzala**, **capela**, **canavial**, **moenda**, **caldeiras**). O trabalho era extenuante e feito majoritariamente por **africanos escravizados**.
+- A **sociedade açucareira** era **rural, patriarcal, hierárquica e escravista**: no topo, os **senhores de engenho** (e os dependentes **lavradores de cana**); no meio, os **homens livres pobres** (mestre de açúcar, feitores, artesãos); na base, a maioria **escravizada**. A miscigenação foi intensa, mas nasceu, em boa parte, da **violência** e da desigualdade — não de uma "democracia racial".
+- A **pecuária** foi atividade **complementar**: empurrada para o **sertão**, fornecia carne, couro e bois, empregava trabalho mais livre (o **vaqueiro**) e impulsionou a **interiorização** do território.
+- Historiografia: **Gilberto Freyre** (*Casa-Grande & Senzala*) valorizou a mestiçagem e a vida cotidiana, mas foi criticado por suavizar a escravidão e originar o mito da **democracia racial**; **Prado Jr.**, **Florestan Fernandes** e **Schwartz** enfatizaram a **exploração e o conflito**.
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Domine: (1) os **fatores** da escolha do açúcar; (2) o conceito de **plantation**; (3) as partes do **engenho**; (4) a estrutura da **sociedade açucareira**; (5) o papel da **pecuária**; e (6) o debate **Freyre × críticos** (democracia racial).
+:::
+
+**1.** Enumere e explique os fatores que levaram Portugal a escolher o **açúcar** como produto central da colonização.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Foram quatro fatores combinados: (1) **demanda europeia alta** — o açúcar era caro e muito procurado, garantindo lucros elevados; (2) **experiência prévia** — os portugueses já cultivavam cana com sucesso nas ilhas atlânticas (Madeira, Açores, São Tomé) e dominavam a técnica de produção; (3) **condições naturais favoráveis** — o litoral do Nordeste, com o solo **massapê** (argiloso e fértil) e o clima quente e úmido, era ideal para a cana; (4) **capital holandês** — os Países Baixos financiaram a montagem dos engenhos e se encarregaram do **refino** e da **distribuição** do açúcar na Europa. A soma desses fatores tornou o açúcar um empreendimento viável e altamente rentável.
+:::
+
+**2.** Defina **plantation** e mostre como ela expressa a lógica do Antigo Sistema Colonial.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Plantation** é o sistema de produção agrícola colonial que combina quatro traços: **latifúndio** (grande propriedade concentrada), **monocultura** (um único produto dominante, a cana), **trabalho escravizado** e produção **voltada à exportação**. Ela expressa a lógica do **Antigo Sistema Colonial** porque tudo — terra, trabalho e produção — está subordinado ao objetivo de **fornecer à metrópole** um gênero tropical de alto valor, e não de abastecer a própria colônia. A monocultura de exportação, o uso da mão de obra escravizada (inclusive comprada via tráfico, outro monopólio lucrativo) e a destinação ao mercado europeu realizam, no campo, o princípio de que "a colônia existe para enriquecer a metrópole" (@sec-antigo-sistema-colonial).
+:::
+
+**3.** Descreva as principais partes de um **engenho** e o que a sua disposição revela sobre a sociedade.
+
+::: {.callout-tip collapse="true" title="Solução"}
+As partes principais eram: a **casa-grande** (residência do senhor e centro do poder); a **senzala** (alojamento precário dos escravizados); a **capela** (a religião católica que legitimava a ordem); o **canavial** (plantio e corte da cana); a **moenda** (que esmagava a cana, movida por bois, água ou roda-d'água); e a **casa das caldeiras** e **casa de purgar** (onde o caldo virava açúcar). A disposição espacial **refletia a hierarquia social**: a casa-grande ocupava a posição dominante, a senzala ficava próxima e subordinada, e a capela abençoava o conjunto — a arquitetura materializava, no espaço, as relações de poder entre senhor, escravizados e Igreja.
+:::
+
+**4.** Caracterize os grupos sociais da sociedade açucareira, do topo à base.
+
+::: {.callout-tip collapse="true" title="Solução"}
+- **Topo:** os **senhores de engenho**, aristocracia rural dona da terra, dos escravizados e do poder local (a "nobreza da terra"). Próximos deles, mas dependentes, os **lavradores de cana**, que plantavam cana e a moíam no engenho alheio, dividindo o açúcar com o senhor.
+- **Meio:** os **homens livres pobres** — trabalhadores especializados (com destaque para o **mestre de açúcar**), feitores, artesãos, pequenos comerciantes, padres e funcionários. Eram livres, porém **dependentes** dos favores dos poderosos.
+- **Base:** a maioria da população, os **africanos escravizados**, juridicamente tratados como **propriedade**, sem direitos, que sustentavam toda a estrutura com seu trabalho. Havia ainda **indígenas** escravizados ou aldeados e uma pequena parcela de **libertos**.
+
+A sociedade era rural, patriarcal, hierárquica e de baixa mobilidade.
+:::
+
+**5.** Por que a expressão "**democracia racial**" é considerada um mito? Relacione com a miscigenação.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque ela sugere, falsamente, que o Brasil colonial (e posterior) teria sido uma sociedade de **convivência harmoniosa e igualitária** entre brancos, negros e indígenas, isenta de racismo — ideia associada a certa leitura de Gilberto Freyre. A realidade era outra: a sociedade era rigidamente **hierárquica e escravista**, sustentada na **violência** e no racismo. A **miscigenação**, de fato intensa, não foi fruto de igualdade, mas nasceu em grande parte da **violência sexual** dos senhores contra mulheres escravizadas, numa relação de **poder profundamente desigual**. Chamar isso de "democracia racial" é **encobrir a exploração** sob um verniz de cordialidade — por isso a expressão é hoje tratada como **mito ideológico**, amplamente desmontado pela historiografia.
+:::
+
+**6.** Explique o papel da **pecuária** na economia colonial e por que ela foi importante além do valor econômico.
+
+::: {.callout-tip collapse="true" title="Solução"}
+A **pecuária** (criação de gado bovino) foi atividade **complementar** ao açúcar: fornecia **carne**, **couro** (matéria-prima muito versátil) e, sobretudo, os **bois** que moviam as moendas e os carros de transporte. Como a cana ocupava as melhores terras do litoral e o gado atrapalhava os canaviais, a criação foi **empurrada para o interior** (o sertão nordestino). Sua importância vai além do econômico por três razões: (1) empregava trabalho **relativamente mais livre** (o **vaqueiro**, muitas vezes mestiço, pago com parte das crias); (2) ocupava **muita terra e pouca gente**, avançando pelos rios (como o São Francisco); e (3) foi por isso um dos grandes fatores de **interiorização e povoamento** do território, criando uma economia mais voltada ao **abastecimento interno**, em contraste com o açúcar litorâneo e exportador.
+:::
+
+**7.** (Estilo ENEM) Leia o texto.
+
+> "O senhor de engenho é título a que muitos aspiram, porque traz consigo o ser servido, obedecido e respeitado de muitos. E se for como deve ser, homem de cabedal e governo, bem se pode estimar no Brasil o ser senhor de engenho quanto proporcionalmente se estimam os títulos entre os fidalgos do Reino." — André João Antonil, *Cultura e opulência do Brasil* (1711) [@antonil2007]
+
+O texto evidencia que, na sociedade açucareira, o senhor de engenho
+
+**(a)** tinha status social comparável ao da alta nobreza do Reino.
+**(b)** vivia em condições de igualdade com seus trabalhadores.
+**(c)** dependia economicamente dos lavradores de cana.
+**(d)** exercia poder limitado pela autoridade da Igreja.
+**(e)** era um pequeno proprietário sem prestígio local.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (a).** Antonil afirma que "bem se pode estimar no Brasil o ser senhor de engenho quanto proporcionalmente se estimam os títulos entre os **fidalgos do Reino**" — ou seja, o senhor de engenho gozava, na colônia, de **status** e prestígio comparáveis aos da **nobreza** em Portugal, sendo "servido, obedecido e respeitado de muitos". As demais contrariam o texto e o que se sabe da sociedade açucareira: não havia igualdade com os trabalhadores (b), o senhor dominava os lavradores (c), seu poder local era enorme, não limitado (d), e ele era um grande proprietário, não um pequeno (e).
+:::
+
+**8.** (Estilo vestibular — dissertativa) Explique por que a obra de Gilberto Freyre é considerada ao mesmo tempo **revolucionária** e **problemática**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Resposta esperada: *Casa-Grande & Senzala* (1933) foi **revolucionária** porque, num tempo dominado pelo **racismo científico** (que via a mestiçagem como degeneração), Freyre **valorizou** as contribuições do africano e do indígena à formação brasileira — na alimentação, na língua, na religião, na cultura, na sexualidade — e deslocou o foco da história política para a **vida cotidiana e íntima** do engenho, antecipando a história das mentalidades. Ajudou a combater a ideia de inferioridade racial. Mas é **problemática** porque, ao enfatizar a intimidade entre casa-grande e senzala e a suposta "brandura" do senhor português, **suavizou a escravidão**, encobrindo a violência estrutural, a exploração e o racismo do sistema — dando origem ao mito da "**democracia racial**", a falsa ideia de que o Brasil teria escapado ao conflito racial. A postura crítica adequada é **lê-lo historicamente**: reconhecer sua contribuição pioneira e, ao mesmo tempo, situar e criticar seus limites, à luz das revisões de autores como Caio Prado Jr., Florestan Fernandes e Stuart Schwartz.
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- FREYRE, Gilberto. *Casa-Grande & Senzala* [@freyre2003]. O clássico incontornável — a ser lido criticamente, como discutido no capítulo.
+- SCHWARTZ, Stuart B. *Segredos internos: engenhos e escravos na sociedade colonial* [@schwartz1988]. Estudo rigoroso e definitivo sobre os engenhos da Bahia e o trabalho escravo.
+- ANTONIL, André João. *Cultura e opulência do Brasil* [@antonil2007]. Fonte de 1711: um jesuíta descreve, em detalhe, o funcionamento dos engenhos e o comércio colonial.
+- PRADO JÚNIOR, Caio. *Formação do Brasil contemporâneo* [@pradoJunior2011]. A leitura econômica e estrutural da colônia, contraponto a Freyre.
+
+**Filmes e documentários**
+
+- *Xica da Silva* (1976), dir. Cacá Diegues. Retrato — a ver com senso crítico — do mundo escravista e da casa-grande, ambientado nas Minas do ouro.
+- Documentários sobre os **engenhos** de Pernambuco e da Bahia e o patrimônio da arquitetura açucareira (casas-grandes e capelas remanescentes).
+- *Menino 23* (2016), dir. Belisario Franca. Embora sobre o século XX, ajuda a discutir as permanências da escravidão no Brasil.
