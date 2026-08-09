@@ -1,5 +1,267 @@
 # A Revolução Inglesa do século XVII {#sec-revolucao-inglesa}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Na manhã fria de **30 de janeiro de 1649**, em frente ao palácio de Whitehall, em Londres, uma multidão silenciosa assistiu a algo que a Europa jamais tinha visto. Sobre um cadafalso, um rei ungido — **Carlos I da Inglaterra** — ajoelhou-se e teve a cabeça decepada por um machado. Reis já haviam sido assassinados por rivais, envenenados por conspiradores, mortos em batalha. Nunca, porém, um rei havia sido **julgado por um tribunal**, condenado em nome do **povo** e executado **publicamente** como criminoso. Diz-se que, no instante do golpe, a multidão soltou um gemido "como jamais se ouvira antes". Não era só um homem que morria ali: era a ideia de que o poder do rei vinha de Deus e não devia satisfação a ninguém. A Inglaterra do século XVII foi o laboratório onde essa ideia ruiu — e onde nasceu, aos trancos, a fórmula que o mundo copiaria depois: um rei que reina **sob a lei** e um Parlamento que manda no dinheiro. Este capítulo conta como se chegou daquele cadafalso à primeira **monarquia parlamentar** da história.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- explicar as **causas** do conflito entre a monarquia Stuart e o Parlamento inglês, distinguindo suas dimensões **política**, **religiosa** e **econômico-social**;
+- narrar as etapas do processo — **Guerra Civil** (1642–1649), **República e Protetorado de Cromwell** (1649–1658), **Restauração** (1660) e **Revolução Gloriosa** (1688–1689);
+- caracterizar o papel de **Oliver Cromwell** e dos grupos radicais (**levellers** e **diggers**) e reconhecer a participação popular no processo;
+- identificar o significado da **Bill of Rights** (1689) e o nascimento da **monarquia parlamentar**, relacionando-a ao pensamento de **John Locke**;
+- comparar as principais interpretações historiográficas da Revolução Inglesa e discutir se ela foi uma "revolução burguesa".
 :::
+
+## A Inglaterra às vésperas do conflito {#sec-inglaterra-antes}
+
+Para entender por que a Inglaterra explodiu, é preciso ver o que a tornava **diferente** do continente. Enquanto na França de Luís XIV o absolutismo (@sec-absolutismo) se consolidava sem contrapesos, a Inglaterra carregava uma longa tradição de **limitação do poder real**. Desde a **Magna Carta** (1215), firmava-se o princípio de que o rei não podia criar impostos sem o consentimento dos grandes do reino. Esse consentimento passou a ser dado pelo **Parlamento**, dividido em **Câmara dos Lordes** (alta nobreza e alto clero) e **Câmara dos Comuns** (representantes dos condados e das cidades). O Parlamento não era um órgão democrático — votava uma minoria de proprietários —, mas detinha uma arma decisiva: **o rei não podia cobrar novos impostos sem sua aprovação**. Toda a crise do século XVII gira em torno dessa trava.
+
+A segunda diferença era **social e econômica**. A Inglaterra vivia uma prosperidade comercial crescente, apoiada na exportação de **lã** e de tecidos e na expansão marítima. No campo, os proprietários promoviam os **cercamentos** (*enclosures*): o fechamento com muros e cercas de terras antes comunais, convertidas em pastagens para ovelhas ou em lavouras comerciais. O resultado foi duplo — uma agricultura mais produtiva e voltada para o mercado, e a **expulsão de camponeses** que iam engrossar a massa de pobres das cidades. Enriqueciam com esse movimento a **gentry** (pequena e média nobreza rural, proprietária e empreendedora) e a **burguesia mercantil** das cidades, sobretudo de Londres. Eram justamente esses grupos que dominavam a Câmara dos Comuns.
+
+::: {.callout-note title="Conceito-chave: gentry e cercamentos"}
+**Gentry** é a camada de proprietários rurais ingleses situada abaixo da alta nobreza titulada, mas acima do campesinato: senhores de terras que administravam suas propriedades com mentalidade de negócio, produzindo para o mercado. Os **cercamentos** (*enclosures*) foram o processo, iniciado no fim da Idade Média e acelerado nos séculos XVI–XVIII, de conversão de terras comunais e campos abertos em propriedades privadas cercadas. Guarde este conceito: os cercamentos serão também um pré-requisito da **Revolução Industrial** (@sec-revolucao-industrial), pois criaram mão de obra disponível e alimentos para as cidades.
+:::
+
+A terceira dimensão — e talvez a mais explosiva para os contemporâneos — era **religiosa**. Desde a Reforma de Henrique VIII, a Inglaterra tinha uma igreja nacional, a **Igreja Anglicana**, chefiada pelo próprio rei (@sec-reforma-contrarreforma). Mas parte considerável da população, sobretudo entre a gentry e os comerciantes, considerava que a Reforma inglesa havia parado no meio do caminho: a Anglicana mantivera bispos, rituais e ornamentos "papistas". Eram os **puritanos**, calvinistas que queriam "purificar" a igreja, defendiam a austeridade, a leitura direta da Bíblia e o governo das paróquias por assembleias de fiéis. Como observou o sociólogo Max Weber a respeito da ética protestante (@sec-reforma-contrarreforma), essa religiosidade valorizava o trabalho, a poupança e a responsabilidade individual — valores afinados com os grupos que ascendiam economicamente. Religião e política, no século XVII, eram inseparáveis: quem defendia bispos nomeados pelo rei defendia também o poder do rei; quem defendia assembleias de fiéis defendia assembleias de cidadãos.
+
+## Os Stuart contra o Parlamento (1603–1642) {#sec-stuart-parlamento}
+
+Em 1603 morreu **Elizabeth I** sem deixar herdeiros diretos, e a coroa passou à dinastia escocesa dos **Stuart**. **Jaime I** (rei de 1603 a 1625) uniu, na sua pessoa, as coroas da Inglaterra e da Escócia — mas chegou com uma bagagem perigosa: era um teórico convicto do **direito divino dos reis**. Escreveu que "os reis são justamente chamados deuses" e que discutir o que um rei pode fazer é sedição. Chocou-se de imediato com um Parlamento que se via como guardião de liberdades antigas, e perseguiu os puritanos — o que levou um grupo deles a emigrar para a América em 1620, no *Mayflower* (@sec-colonizacao-inglesa-francesa).
+
+O choque virou crise com seu filho **Carlos I** (rei de 1625 a 1649). Sem dinheiro para guerras externas e sem querer depender do Parlamento, Carlos passou a arrecadar por meios que os parlamentares consideravam ilegais: empréstimos forçados, prisão de quem se recusasse a pagá-los, alojamento compulsório de tropas em casas particulares. Em **1628**, o Parlamento impôs-lhe a **Petição de Direitos** (*Petition of Right*), documento que proibia impostos sem consentimento parlamentar, prisões arbitrárias e lei marcial em tempos de paz. Carlos assinou — e no ano seguinte dissolveu o Parlamento.
+
+Seguiram-se os **onze anos de governo pessoal** (1629–1640), que os adversários chamariam de "**tirania dos onze anos**". Sem Parlamento, Carlos ressuscitou taxas medievais em desuso, com destaque para o ***ship money***: uma contribuição tradicionalmente cobrada dos portos para a defesa naval, que ele estendeu, a partir de 1635, aos **condados do interior** e em tempo de paz. Era um imposto disfarçado, criado sem voto do Parlamento — e o processo movido em 1637 contra o proprietário **John Hampden**, que se recusou a pagar, transformou-o em herói. No terreno religioso, o arcebispo **William Laud** impôs à Igreja Anglicana um cerimonial mais solene, que os puritanos denunciaram como retorno ao catolicismo, e puniu com açoites e orelhas cortadas os panfletários que o criticavam.
+
+O erro fatal foi tentar impor o mesmo livro de orações à **Escócia** presbiteriana, em 1637. Os escoceses se sublevaram, e Carlos, derrotado e sem dinheiro para uma guerra, foi obrigado a fazer o que mais temia: **convocar o Parlamento** em 1640. O primeiro, que durou três semanas (o "Parlamento Curto"), foi dissolvido ao apresentar queixas em vez de verbas. O segundo, reunido em novembro de 1640, ficaria conhecido como **Parlamento Longo** e não se deixaria dissolver. Aboliu os tribunais de exceção, declarou ilegal o *ship money*, mandou executar o principal ministro do rei e aprovou, em 1641, a **Grande Reclamação** (*Grand Remonstrance*), longa lista dos abusos do reinado. Quando, em janeiro de 1642, Carlos invadiu a Câmara dos Comuns com soldados para prender cinco deputados — e não os encontrou —, a ruptura estava consumada. Em agosto, o rei levantou seu estandarte em Nottingham: era a **guerra civil**.
+
+::: {#fig-causas-revolucao-inglesa}
+
+```{.tikz}
+%%| filename: fig-causas-revolucao-inglesa
+%%| alt: Diagrama das três dimensões do conflito entre o rei e o Parlamento na Inglaterra do século XVII convergindo para a guerra civil.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \node[draw, thick, rounded corners, fill=manualblue!14, align=center, text width=3.4cm, minimum height=1.3cm] (pol) at (0,2.1) {\textbf{POLÍTICA}\\ direito divino (Stuart)\\ $\times$ consentimento do\\ Parlamento aos impostos};
+  \node[draw, thick, rounded corners, fill=manualyellow!25, align=center, text width=3.4cm, minimum height=1.3cm] (rel) at (0,0.2) {\textbf{RELIGIOSA}\\ anglicanismo do rei e\\ os bispos de Laud\\ $\times$ \textbf{puritanos}};
+  \node[draw, thick, rounded corners, fill=manualgreen!14, align=center, text width=3.4cm, minimum height=1.3cm] (eco) at (0,-1.7) {\textbf{ECONÔMICO-SOCIAL}\\ monopólios e taxas reais\\ $\times$ \textbf{gentry} e burguesia\\ enriquecidas (cercamentos)};
+  \node[draw, very thick, rounded corners, fill=manualred!16, align=center, text width=3.2cm, minimum height=2.2cm] (guerra) at (6.3,0.2) {\textbf{GUERRA CIVIL}\\ \textbf{1642--1649}\\[3pt] \textit{cavaliers} (rei)\\ $\times$\\ \textit{roundheads} (Parlamento)};
+  \draw[vetor, thick] (pol.east) -- (guerra.north west);
+  \draw[vetor, thick] (rel.east) -- (guerra.west);
+  \draw[vetor, thick] (eco.east) -- (guerra.south west);
+\end{tikzpicture}
+```
+
+As três dimensões do conflito inglês. Nenhuma delas explica sozinha a guerra: é a **convergência** entre a disputa pelo imposto, o conflito religioso e a ascensão de novos grupos proprietários que torna o choque irresolúvel.
+:::
+
+## A Guerra Civil e o regicídio (1642–1649) {#sec-guerra-civil}
+
+O país se dividiu. De um lado, os **cavaliers** (cavaleiros), partidários do rei: a alta nobreza tradicional, o alto clero anglicano, os católicos e as regiões agrárias do norte e do oeste. De outro, os **roundheads** ("cabeças redondas", apelido irônico pelos cabelos curtos dos aprendizes puritanos), partidários do Parlamento: a gentry, a burguesia comercial, os puritanos, Londres, a marinha e o sudeste mais rico. A divisão não era mecânica — havia nobres do lado do Parlamento e comerciantes do lado do rei —, mas a tendência era clara.
+
+O Parlamento venceu graças a três vantagens: controlava **Londres** e as regiões mais ricas (portanto, o dinheiro), tinha a **frota** e, sobretudo, criou uma força militar de tipo novo. Um deputado puritano da gentry, **Oliver Cromwell** (1599–1658), organizou um corpo de cavalaria disciplinado e movido pela fé, apelidado de *Ironsides* ("costados de ferro"), que se converteria em 1645 no ***New Model Army*** (Novo Exército Modelo). Sua novidade era decisiva para a época: soldados profissionais, pagos com regularidade, treinados, submetidos a rígida disciplina e — o mais escandaloso — **promovidos por mérito**, e não por nascimento. Na batalha de **Naseby** (junho de 1645), esse exército destroçou as forças reais. Carlos I acabou entregue ao Parlamento em 1647.
+
+Aí começou a fase mais radical. Dentro do New Model Army, soldados e pequenos proprietários passaram a discutir não apenas os poderes do rei, mas **quem deveria mandar no país**. Nos **debates de Putney** (1647), diante de oficiais superiores, o coronel Rainsborough formulou uma frase que atravessaria séculos: "o mais pobre dos que vivem na Inglaterra tem uma vida a viver, tanto quanto o maior". Falavam ali os **levellers** ("niveladores"), liderados por **John Lilburne**, que defendiam sufrágio amplo entre os homens, igualdade perante a lei, tolerância religiosa e uma constituição escrita — um programa que só se realizaria, em parte, dois séculos depois. Mais à esquerda ainda estavam os **diggers** ("cavadores") de **Gerrard Winstanley**, que em 1649 ocuparam terras comunais em St. George's Hill para cultivá-las coletivamente, pregando que a terra deveria ser "um tesouro comum para todos" — um comunismo agrário rudimentar. Também as mulheres puritanas se organizaram: em 1649, milhares delas assinaram e entregaram ao Parlamento petições exigindo a libertação de Lilburne e afirmando ter "igual interesse" nas liberdades do país. Todos esses grupos foram **reprimidos** por Cromwell e pelos proprietários que controlavam o Parlamento — mas seus panfletos permaneceram como o primeiro esboço moderno de uma democracia social.
+
+Depois de uma tentativa de Carlos I de reacender a guerra com apoio escocês (1648), o exército perdeu a paciência. Numa operação chamada **Expurgo de Pride**, oficiais impediram fisicamente a entrada dos deputados moderados na Câmara, deixando um "**Parlamento Rabo**" (*Rump Parliament*) disposto a julgar o rei. Acusado de **tirania e traição contra o povo inglês**, Carlos I recusou-se a reconhecer o tribunal — e foi decapitado em **30 de janeiro de 1649**.
+
+::: {.callout-important title="Armadilha: não confunda as duas revoluções"}
+Vestibulares adoram cobrar a distinção. A **Revolução Puritana** (1640–1649/1660) é o processo da guerra civil, do regicídio e da república de Cromwell: violenta, com participação popular e ruptura radical. A **Revolução Gloriosa** (1688–1689) é a deposição de Jaime II, praticamente sem derramamento de sangue, que consolida a **monarquia parlamentar** com a *Bill of Rights*. Entre uma e outra está a **Restauração** dos Stuart (1660–1688). Um erro comum é atribuir a *Bill of Rights* a Cromwell: ela é de **1689**, trinta anos depois da morte dele.
+:::
+
+## A República e o Protetorado (1649–1660) {#sec-republica-protetorado}
+
+Abolidas a monarquia e a Câmara dos Lordes, a Inglaterra tornou-se uma **república** (*Commonwealth*) — a única de sua história. O poder real, porém, estava com o exército e com Cromwell.
+
+No plano externo, o novo regime foi agressivamente mercantilista. O **Ato de Navegação** (1651) determinou que as mercadorias só poderiam entrar na Inglaterra em navios ingleses ou em navios do país de origem, golpe direto nos **holandeses**, então os grandes transportadores marítimos da Europa (@sec-antigo-sistema-colonial). Foi um instrumento decisivo para a supremacia naval e comercial que a Inglaterra construiria no século seguinte. No plano interno, a república foi implacável: a repressão à **Irlanda** católica, entre 1649 e 1650, incluiu os massacres de **Drogheda** e **Wexford** e um violento confisco de terras irlandesas em favor de credores e soldados ingleses — episódio que envenenaria as relações anglo-irlandesas por três séculos e que hoje é objeto de intenso debate público.
+
+Em 1653, cansado da inércia do Parlamento Rabo, Cromwell **dissolveu-o à força** e assumiu como **Lorde Protetor**, com poderes definidos por uma constituição escrita, o *Instrument of Government*. Aí está a grande ironia do processo: o líder que decapitara um rei em nome das liberdades do Parlamento governou como um **ditador militar**, dividiu o país em distritos comandados por generais, dissolveu novos parlamentos, impôs a moral puritana (fechando teatros, proibindo festas e a celebração do Natal) e chegou a recusar, em 1657, a coroa que lhe ofereciam. Ao morrer, em 1658, passou o cargo ao filho **Richard Cromwell**, incapaz de sustentá-lo. Em 1660, cansado da austeridade e da instabilidade, o próprio Parlamento chamou de volta o filho do rei executado: **Carlos II** subiu ao trono. Era a **Restauração**.
+
+## A Revolução Gloriosa e a monarquia parlamentar (1660–1689) {#sec-revolucao-gloriosa}
+
+A Restauração não restaurou o absolutismo: Carlos II (1660–1685) precisou conviver com o Parlamento, onde se formaram os primeiros partidos da história — os **whigs** (defensores da supremacia parlamentar e da tolerância aos protestantes dissidentes) e os **tories** (defensores da autoridade real e da Igreja Anglicana). Também é desse período o **Habeas Corpus Act** (1679), que obrigava a apresentar o preso a um juiz e proibia detenções arbitrárias — uma garantia que a Constituição brasileira ainda hoje reproduz.
+
+O impasse voltou com **Jaime II** (1685–1688), irmão de Carlos II: **católico** declarado, nomeou católicos para cargos-chave, manteve exército permanente e governou por decretos. Enquanto suas herdeiras fossem as filhas protestantes, o Parlamento aguardava. Mas em junho de 1688 nasceu-lhe um **filho homem**, batizado católico: a perspectiva de uma **dinastia católica permanente** uniu whigs e tories. Ambos convidaram o governante holandês **Guilherme de Orange** — protestante e casado com **Maria Stuart**, filha de Jaime II — a desembarcar na Inglaterra. Guilherme chegou em novembro de 1688 com um exército; abandonado por seus oficiais, Jaime II fugiu para a França praticamente sem luta. Pela ausência de derramamento de sangue **na Inglaterra** (na Irlanda e na Escócia houve guerra), o episódio foi batizado de **Revolução Gloriosa**.
+
+O ponto essencial não é a fuga do rei, e sim a **condição** imposta aos novos soberanos. Em 1689, Guilherme III e Maria II só foram coroados após aceitar a **Declaração de Direitos** (*Bill of Rights*), que estabelecia: o rei **não pode** suspender leis nem criar impostos sem o Parlamento; não pode manter exército permanente em tempo de paz sem autorização; as eleições devem ser livres e há **liberdade de palavra** nos debates parlamentares; petições ao rei são um direito; punições cruéis são proibidas. No mesmo ano, o *Toleration Act* concedeu liberdade de culto aos protestantes dissidentes (não aos católicos). Estava fundada a **monarquia parlamentar** (ou constitucional): o rei reina, mas **quem tem a última palavra é o Parlamento**.
+
+Foi para justificar exatamente esse desfecho que **John Locke** publicou, em 1689, os *Dois tratados sobre o governo*: os homens possuem **direitos naturais** — vida, liberdade e propriedade — anteriores ao Estado; o governo existe por um **pacto**, para proteger esses direitos; se o governante os viola sistematicamente, torna-se tirano e o povo tem o **direito de resistência** [@locke1998]. Locke não estava apenas explicando 1688: estava escrevendo o roteiro que seria usado em **1776** na América (@sec-independencia-eua) e em **1789** na França (@sec-revolucao-francesa).
+
+::: {#fig-linha-do-tempo-revolucao-inglesa}
+
+```{.tikz}
+%%| filename: fig-linha-do-tempo-revolucao-inglesa
+%%| alt: Linha do tempo da Revolução Inglesa, de 1603 (dinastia Stuart) a 1689 (Bill of Rights).
+\begin{tikzpicture}[>=stealth]
+  \draw[eixo] (0,0) -- (14.2,0);
+  \node[eixo, gray] at (14.2,-0.55) {\scriptsize tempo};
+
+  \fill[manualred!16] (2.6,-0.13) rectangle (5.2,0.13);
+  \node[text=manualred] at (3.9,-0.72) {\scriptsize \textbf{guerra civil}};
+  \fill[manualblue!16] (5.2,-0.13) rectangle (8.6,0.13);
+  \node[text=manualblue] at (6.9,-0.72) {\scriptsize \textbf{república/protetorado}};
+  \fill[manualgreen!18] (8.6,-0.13) rectangle (12.6,0.13);
+  \node[text=manualgreen] at (10.6,-0.72) {\scriptsize \textbf{restauração}};
+
+  \node[ponto] at (0.5,0) {};
+  \node[below] at (0.5,-0.2) {\scriptsize 1603};
+  \node[above, align=center] at (0.5,0.2) {\scriptsize dinastia\\\scriptsize \textbf{Stuart}};
+
+  \node[ponto] at (1.9,0) {};
+  \node[below] at (1.9,-0.2) {\scriptsize 1628};
+  \node[above, align=center] at (1.9,0.95) {\scriptsize Petição de\\\scriptsize Direitos};
+
+  \node[ponto] at (2.6,0) {};
+  \node[below] at (2.6,-0.2) {\scriptsize 1640};
+  \node[above, align=center] at (2.9,0.2) {\scriptsize Parlamento\\\scriptsize Longo};
+
+  \node[ponto] at (4.4,0) {};
+  \node[below] at (4.4,-0.2) {\scriptsize 1645};
+  \node[above, align=center, text=manualred] at (4.6,0.95) {\scriptsize Naseby\\\scriptsize (\textit{New Model Army})};
+
+  \node[ponto] at (5.2,0) {};
+  \node[below] at (5.2,-0.2) {\scriptsize 1649};
+  \node[above, align=center, text=manualred] at (6.1,0.2) {\scriptsize execução de\\\scriptsize \textbf{Carlos I}};
+
+  \node[ponto] at (7.0,0) {};
+  \node[below] at (7.0,-0.2) {\scriptsize 1653};
+  \node[above, align=center, text=manualblue] at (7.9,0.95) {\scriptsize Cromwell\\\scriptsize \textbf{Lorde Protetor}};
+
+  \node[ponto] at (8.6,0) {};
+  \node[below] at (8.6,-0.2) {\scriptsize 1660};
+  \node[above, align=center] at (8.8,0.2) {\scriptsize Restauração\\\scriptsize (Carlos II)};
+
+  \node[ponto] at (11.3,0) {};
+  \node[below] at (11.3,-0.2) {\scriptsize 1685};
+  \node[above, align=center] at (11.3,0.95) {\scriptsize Jaime II};
+
+  \node[ponto] at (12.6,0) {};
+  \node[below] at (12.6,-0.2) {\scriptsize 1688--89};
+  \node[above, align=center, text=manualgreen] at (13.0,0.2) {\scriptsize \textbf{Rev. Gloriosa}\\\scriptsize \textit{Bill of Rights}};
+\end{tikzpicture}
+```
+
+Da chegada dos Stuart à *Bill of Rights*: quase um século de disputa entre a coroa e o Parlamento. Escala aproximada.
+:::
+
+O saldo do século XVII inglês é enorme. Politicamente, a Inglaterra saiu com uma monarquia **limitada por lei**, um Parlamento soberano em matéria de impostos e um conjunto de garantias individuais escritas. Economicamente, a vitória dos proprietários e comerciantes consolidou a segurança da **propriedade privada**, os cercamentos, a expansão colonial e o poderio naval — as condições que farão da Inglaterra o berço da **Revolução Industrial** (@sec-revolucao-industrial). Ideologicamente, forneceu ao Iluminismo (@sec-iluminismo) seu modelo concreto: era a Inglaterra que Voltaire e Montesquieu admiravam quando escreviam contra o absolutismo francês.
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+Poucos episódios foram tantas vezes reinterpretados. Até o **nome** do processo é disputado: "Grande Rebelião" (para os realistas do século XVII), "Revolução Puritana", "Revolução Inglesa", "Guerra Civil Inglesa" ou "Guerras dos Três Reinos". Cada rótulo já embute uma tese.
+
+**A interpretação whig: a marcha da liberdade.** No século XIX, historiadores liberais como **Thomas Macaulay** (1800–1859) leram o século XVII como um capítulo triunfal na longa caminhada da Inglaterra rumo à liberdade constitucional. A guerra civil e, sobretudo, a Revolução Gloriosa teriam sido etapas de um progresso natural e quase inevitável, culminando na monarquia parlamentar que Macaulay considerava a melhor forma de governo já inventada. É uma leitura **teleológica**: julga o passado pelo ponto de chegada e transforma os vencedores em profetas do presente — exatamente o tipo de raciocínio de que este manual desconfia.
+
+**A interpretação marxista: uma revolução burguesa.** Na segunda metade do século XX, **Christopher Hill** (1912–2003) propôs entender o conflito como a primeira grande **revolução burguesa** da Europa: a derrubada de uma ordem feudal-absolutista pela aliança entre a gentry empreendedora e a burguesia mercantil, abrindo caminho ao desenvolvimento capitalista. Mas Hill fez algo mais original em *O mundo de ponta-cabeça*: virou o foco para **baixo**, para os levellers, os diggers, os pregadores itinerantes e as seitas populares que, no vácuo da censura, imaginaram um mundo radicalmente igualitário [@hill1987]. Para Hill, houve **duas revoluções** em uma: a que venceu (a dos proprietários) e a que foi derrotada (a do povo comum) — e a segunda merece ser estudada não como curiosidade, mas como possibilidade histórica real.
+
+**A reação revisionista: nem burguesa, nem inevitável.** A partir dos anos 1970, historiadores como **Conrad Russell** e **John Morrill** contestaram os dois modelos anteriores. Argumentaram que não há evidência de que os dois lados correspondessem a **classes distintas** — havia nobres, gentry e comerciantes dos dois lados —, que o Parlamento de 1640 não pretendia derrubar a monarquia (queria apenas reparar abusos) e que a guerra resultou menos de causas estruturais profundas do que de uma cadeia de **erros, acasos e decisões desastradas** de Carlos I. Para os revisionistas, o motor principal do conflito foi a **religião** (Morrill chamou a guerra civil de "a última das guerras de religião da Europa"), e o palco não era só a Inglaterra: a crise nasceu da tentativa de governar **três reinos** com religiões distintas — Inglaterra anglicana, Escócia presbiteriana e Irlanda católica.
+
+**Uma síntese possível: as causas em camadas.** **Lawrence Stone** (1919–1999) ofereceu um modo elegante de organizar o debate, distinguindo três níveis de causalidade: **pré-condições** de longo prazo (a ascensão da gentry, o crescimento comercial, a difusão do puritanismo, a crise financeira da monarquia), **precipitantes** de médio prazo (o governo pessoal de Carlos I, o *ship money*, as reformas de Laud) e **gatilhos** de curto prazo (a revolta escocesa, a rebelião irlandesa de 1641, a tentativa de prender os cinco deputados) [@stone2000]. Nesse arranjo, estruturalistas e revisionistas não estão exatamente falando de coisas contraditórias: falam de **camadas diferentes** do mesmo processo.
+
+**Por que divergem?** Porque cada geração pergunta o que sua época a leva a perguntar. Macaulay escrevia no auge do liberalismo vitoriano e queria celebrar a constituição britânica; Hill, marxista formado nas lutas do século XX, queria recuperar as vozes dos derrotados e pensar a revolução como possibilidade; os revisionistas, atuando num clima de desconfiança em relação às grandes narrativas, mergulharam nos arquivos locais e encontraram um mundo mais confuso e contingente do que os modelos previam. Nenhum deles "inventou" fatos: escolheram **fontes** e **escalas** diferentes — os debates parlamentares, os panfletos radicais, a correspondência dos condados. A lição, mais uma vez, é que a pergunta do historiador molda a resposta que ele encontra.
+
+## Resumo do capítulo {#sec-resumo}
+
+- A Inglaterra do século XVII combinava três particularidades: uma tradição de **limitação do poder real** (Magna Carta, 1215; o Parlamento aprova os impostos), uma economia **comercial e agrária em expansão** (lã, **cercamentos**, ascensão da **gentry** e da burguesia) e uma forte oposição religiosa **puritana** (calvinista) à Igreja Anglicana do rei.
+- Os **Stuart** — **Jaime I** (1603–1625) e **Carlos I** (1625–1649) — defenderam o **direito divino**. Carlos I chocou-se com o Parlamento (**Petição de Direitos**, 1628), governou **onze anos sem Parlamento** (1629–1640) cobrando o ***ship money***, e teve de reconvocá-lo após a revolta da Escócia. O **Parlamento Longo** (1640) e a **Grande Reclamação** (1641) levaram à ruptura.
+- **Guerra Civil (1642–1649):** *cavaliers* (rei, alta nobreza, anglicanos/católicos, norte e oeste) × *roundheads* (Parlamento, gentry, burguesia, puritanos, Londres e sudeste). **Oliver Cromwell** criou o ***New Model Army***, disciplinado e com **promoção por mérito**, que venceu em **Naseby** (1645).
+- Grupos radicais: **levellers** (Lilburne — sufrágio amplo, igualdade jurídica, constituição escrita; debates de **Putney**, 1647) e **diggers** (Winstanley — terra como "tesouro comum"); mulheres puritanas peticionaram ao Parlamento. Todos foram **reprimidos**.
+- **30 de janeiro de 1649:** Carlos I é julgado e **executado** — o primeiro regicídio judicial da história. Proclama-se a **República** (*Commonwealth*): **Ato de Navegação** (1651) contra os holandeses e repressão brutal à **Irlanda**.
+- **1653:** Cromwell dissolve o Parlamento e torna-se **Lorde Protetor** — ditadura militar de moral puritana. Morre em **1658**; em **1660**, o Parlamento promove a **Restauração** dos Stuart com **Carlos II** (surgem os partidos **whigs** e **tories**; **Habeas Corpus Act**, 1679).
+- **Revolução Gloriosa (1688–1689):** contra o católico **Jaime II**, o Parlamento chama **Guilherme de Orange** e **Maria Stuart**; quase sem sangue. Os novos reis aceitam a **Bill of Rights** (1689): nada de impostos, leis suspensas ou exército permanente sem o Parlamento; eleições livres; liberdade de palavra parlamentar. Nasce a **monarquia parlamentar**.
+- **John Locke** (*Dois tratados sobre o governo*, 1689) fornece a teoria: **direitos naturais** (vida, liberdade, propriedade), governo por **pacto** e **direito de resistência** à tirania — base do Iluminismo e das revoluções de 1776 e 1789.
+- **Historiografia:** leitura **whig** (Macaulay: marcha da liberdade) × **marxista** (**Hill**: revolução burguesa e "revolução dos derrotados") × **revisionista** (Russell, Morrill: contingência, religião, guerras dos três reinos), com a síntese em camadas de **Stone** (pré-condições, precipitantes, gatilhos).
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Domine: (1) as **três causas** (política, religiosa, econômico-social); (2) a **cronologia-chave** — 1628, 1640, 1642, 1645, 1649, 1653, 1660, 1688–89; (3) a diferença entre **Revolução Puritana** e **Revolução Gloriosa**; (4) o conteúdo da **Bill of Rights**; (5) **Locke** e o direito de resistência; (6) o debate historiográfico (Hill × revisionistas).
+:::
+
+**1.** Explique por que o controle sobre a **criação de impostos** esteve no centro do conflito entre Carlos I e o Parlamento.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Desde a **Magna Carta** (1215), consolidara-se na Inglaterra o princípio de que o rei **não podia criar tributos sem o consentimento** dos representantes do reino — consentimento que, no século XVII, cabia ao **Parlamento**. Esse era, na prática, o único freio efetivo ao poder real: um rei sem verba dependia dos Comuns e, para obtê-la, precisava atender a queixas. Carlos I tentou romper essa dependência arrecadando **sem o Parlamento** (empréstimos forçados e, sobretudo, o ***ship money*** estendido em 1635 aos condados do interior, em tempo de paz). Para os parlamentares, aceitar isso significaria transformar a monarquia inglesa num **absolutismo** ao modo francês, pois o rei jamais precisaria convocá-los. Por isso a **Petição de Direitos** (1628) proibia impostos sem consentimento e prisões arbitrárias, e por isso a *Bill of Rights* (1689) repetiria a mesma exigência: quem controla o imposto controla o governo.
+:::
+
+**2.** Caracterize o *New Model Army* e explique por que ele foi decisivo — militar e politicamente.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Criado em **1645** a partir da cavalaria organizada por **Oliver Cromwell**, o ***New Model Army*** era uma força **profissional**: soldados pagos com regularidade, bem treinados, submetidos a disciplina rígida e fortemente motivados pela fé **puritana**. Sua característica mais revolucionária era a **promoção por mérito**, e não por nascimento — algo escandaloso numa sociedade estamental. **Militarmente**, deu ao Parlamento a superioridade que faltava e liquidou as forças reais em **Naseby** (1645). **Politicamente**, foi ainda mais importante: ao reunir homens comuns que discutiam religião e política nos acampamentos, tornou-se um **ator político autônomo** — foi nele que floresceram os *levellers* e os debates de **Putney** (1647), e foi ele que impôs o **Expurgo de Pride** (1648) e o **julgamento do rei**. Depois, seria também a base do poder pessoal de Cromwell como Lorde Protetor.
+:::
+
+**3.** Quem foram os *levellers* e os *diggers*? Por que Christopher Hill se interessou tanto por eles?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Os ***levellers*** ("niveladores"), liderados por **John Lilburne**, eram um movimento de soldados, artesãos e pequenos proprietários que defendia o **sufrágio amplo entre os homens**, a **igualdade perante a lei**, a **tolerância religiosa** e uma **constituição escrita**; expuseram seu programa nos **debates de Putney** (1647). Os ***diggers*** ("cavadores"), de **Gerrard Winstanley**, foram mais longe: em 1649 ocuparam terras comunais em St. George's Hill para cultivá-las **coletivamente**, sustentando que a terra deveria ser "um tesouro comum para todos" — uma proposta de comunismo agrário. Ambos foram **reprimidos** pelo Parlamento dos proprietários e por Cromwell. **Christopher Hill** interessou-se por eles porque via na revolução inglesa **duas revoluções**: a que venceu, dos proprietários, e a que foi derrotada, do povo comum. Estudar os derrotados, para Hill, mostra que a história não segue um único caminho necessário — outras possibilidades estavam abertas — e recupera os sujeitos populares como agentes políticos, não como massa passiva [@hill1987].
+:::
+
+**4.** Diferencie a **Revolução Puritana** da **Revolução Gloriosa** quanto a período, forma e resultados.
+
+::: {.callout-tip collapse="true" title="Solução"}
+- **Revolução Puritana (1640–1660, com o auge em 1642–1649):** processo **violento**, com guerra civil entre *cavaliers* e *roundheads*, ampla mobilização popular (New Model Army, *levellers*, *diggers*) e ruptura radical — **execução de Carlos I** (1649), abolição da monarquia e da Câmara dos Lordes, **República** e, depois, a **ditadura militar** do Protetorado de Cromwell (1653–1658). Terminou em fracasso institucional, com a **Restauração** dos Stuart em 1660.
+- **Revolução Gloriosa (1688–1689):** deposição de **Jaime II** praticamente **sem derramamento de sangue na Inglaterra**, por iniciativa da própria elite parlamentar (whigs e tories unidos), que convidou **Guilherme de Orange** e **Maria Stuart**. Resultado **duradouro**: os novos monarcas só foram coroados após aceitar a **Bill of Rights** (1689), instaurando a **monarquia parlamentar**.
+
+Em síntese: a primeira foi radical e derrotada; a segunda foi conservadora nos meios e vitoriosa nos resultados — foi ela que fixou institucionalmente os limites ao poder real.
+:::
+
+**5.** Enumere os principais dispositivos da *Bill of Rights* (1689) e explique por que ela funda a monarquia parlamentar.
+
+::: {.callout-tip collapse="true" title="Solução"}
+A **Declaração de Direitos** estabeleceu que o rei **não pode**: suspender ou dispensar leis por sua própria autoridade; **criar impostos** sem aprovação do Parlamento; **manter exército permanente** em tempo de paz sem autorização parlamentar. E garantiu: **eleições livres** para o Parlamento; **liberdade de palavra** nos debates parlamentares (imunidade); o direito de **petição** ao rei; a proibição de fianças excessivas e **punições cruéis**. Ela funda a **monarquia parlamentar** porque transfere ao Parlamento os três instrumentos decisivos do poder — **legislar, tributar e manter tropas** —, convertendo o monarca em chefe de Estado que **reina sob a lei**. O rei deixa de governar por direito divino e passa a governar por um **acordo constitucional**: significativamente, Guilherme e Maria só foram coroados **depois** de aceitá-lo.
+:::
+
+**6.** Como o pensamento de **John Locke** se relaciona com a Revolução Gloriosa e com as revoluções posteriores?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Nos *Dois tratados sobre o governo* (1689), **Locke** sustentou que os indivíduos possuem **direitos naturais** — **vida, liberdade e propriedade** — anteriores e superiores ao Estado; que o governo nasce de um **pacto (contrato)** cuja única finalidade é **proteger esses direitos**; e que, se o governante os viola sistematicamente, ele rompe o pacto, torna-se **tirano** e o povo tem o **direito de resistência**, podendo depô-lo [@locke1998]. A obra funcionou como **justificação teórica** da deposição de Jaime II: não foi rebelião ilegítima, mas legítima defesa de direitos contra um rei que rompera o contrato. Depois, essa mesma teoria virou o roteiro das revoluções seguintes: a **Declaração de Independência dos EUA** (1776) fala em direitos inalienáveis à "vida, liberdade e busca da felicidade" e no direito de abolir um governo destrutivo; a **Revolução Francesa** (1789) inscreveu direitos naturais e resistência à opressão em sua Declaração. Locke é, assim, a ponte entre 1688 e o Iluminismo político (@sec-iluminismo).
+:::
+
+**7.** (Estilo ENEM) Leia o documento.
+
+> "Que o pretenso poder de suspender as leis, ou a execução das leis, pela autoridade real, sem o consentimento do Parlamento, é ilegal. […] Que a cobrança de impostos para uso da Coroa, sem autorização do Parlamento, é ilegal. […] Que a formação e a manutenção de um exército permanente dentro do reino em tempo de paz, sem o consentimento do Parlamento, é contrária à lei." — *Bill of Rights*, Inglaterra, 1689.
+
+O documento acima consolidou, na Inglaterra, um regime político caracterizado pela
+
+**(a)** centralização do poder no monarca, legitimada pela teoria do direito divino.
+**(b)** submissão da autoridade real ao controle do Parlamento em matéria de leis, tributos e forças armadas.
+**(c)** substituição da monarquia por uma república dirigida por um protetor militar.
+**(d)** ampliação do direito de voto a todos os homens adultos, independentemente da renda.
+**(e)** unificação dos poderes Executivo, Legislativo e Judiciário nas mãos da nobreza.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (b).** Os três trechos citados retiram do rei, respectivamente, o poder de **suspender leis**, de **cobrar impostos** e de **manter exército permanente** sem o consentimento do Parlamento — ou seja, submetem a autoridade real ao controle parlamentar. É a definição da **monarquia parlamentar**. As demais: **(a)** é o oposto do texto (o direito divino foi justamente o que se derrotou); **(c)** descreve a **República e o Protetorado de Cromwell** (1649–1658), fase anterior e já encerrada em 1689; **(d)** é falsa — o sufrágio permaneceu **censitário** e restrito a proprietários (o voto amplo era a proposta derrotada dos *levellers*, e só se ampliaria no século XIX); **(e)** contraria tanto o documento quanto o princípio da separação de poderes que Montesquieu extrairia justamente do modelo inglês.
+:::
+
+**8.** (Estilo vestibular — dissertativa) A Revolução Inglesa pode ser chamada de "revolução burguesa"? Apresente os argumentos favoráveis e as objeções, e conclua.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**A favor** (interpretação marxista, **Christopher Hill**): o processo derrubou os obstáculos que a monarquia absolutista opunha à expansão dos negócios — monopólios reais, tributação arbitrária, insegurança da propriedade — e consagrou a **propriedade privada** (inclusive validando os **cercamentos**). Os grupos que sustentaram o Parlamento foram a **gentry** empreendedora e a **burguesia mercantil**, concentrados nas regiões mais dinâmicas (Londres e o sudeste). O Estado resultante adotou uma política deliberadamente favorável ao capital comercial (**Ato de Navegação**, 1651; supremacia naval; expansão colonial), criando condições para a **Revolução Industrial**.
+
+**Objeções** (revisionistas, como Conrad Russell e John Morrill): não há correspondência clara entre **lados e classes** — havia nobres, gentry e comerciantes nos dois campos; os protagonistas **não falavam** em termos de classe, mas de **religião** e de **liberdades antigas**, e o Parlamento de 1640 não pretendia derrubar a monarquia, apenas reparar abusos; a guerra dependeu fortemente de **contingências** (a revolta escocesa, a rebelião irlandesa de 1641, os erros de Carlos I); e a crise só se entende no quadro dos **três reinos** (Inglaterra, Escócia, Irlanda), não apenas da economia inglesa.
+
+**Conclusão possível:** chamar o processo de "revolução burguesa" é defensável se a expressão designar os **resultados de longo prazo** (a consolidação de um Estado favorável à propriedade e ao comércio), mas é enganoso se sugerir que uma burguesia consciente fez a revolução **para** isso. O esquema de **Lawrence Stone** ajuda a conciliar: as transformações socioeconômicas são **pré-condições** de longo prazo, enquanto a religião e os erros do rei funcionam como **precipitantes** e **gatilhos** [@stone2000]. Uma boa resposta deve evitar tanto a teleologia whig quanto a redução mecânica a interesses de classe.
+:::
+
+**9.** Explique por que o governo de Cromwell é considerado **contraditório** em relação aos ideais que motivaram a guerra civil.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque Cromwell chegou ao poder combatendo o **governo sem Parlamento** e o **poder pessoal** de Carlos I — e acabou exercendo ambos. Depois de participar do julgamento e da execução do rei em nome das liberdades do Parlamento, ele **dissolveu à força** o Parlamento Rabo em **1653**, assumiu como **Lorde Protetor** com poderes praticamente monárquicos, dividiu a Inglaterra em distritos governados por **generais**, dissolveu os parlamentos seguintes que lhe faziam oposição e **reprimiu** os *levellers* e os *diggers*, isto é, exatamente os setores populares que haviam sustentado o exército revolucionário. Impôs ainda uma rígida **moral puritana** (fechamento de teatros, proibição de festas e do Natal) e conduziu na **Irlanda** uma repressão sangrenta. Por fim, ao morrer em 1658, transmitiu o cargo ao **filho**, num arremedo de sucessão dinástica. O regime que nascera contra o poder absoluto de um rei terminou como **ditadura militar** — o que explica por que a Restauração de 1660 foi recebida com alívio por boa parte da população e por que a mudança duradoura só viria, por vias institucionais, em 1688–89.
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- HILL, Christopher. *O mundo de ponta-cabeça: ideias radicais durante a Revolução Inglesa de 1640* [@hill1987]. Clássico absoluto; mostra a revolução vista de baixo, pelos *levellers*, *diggers* e seitas populares.
+- STONE, Lawrence. *Causas da Revolução Inglesa, 1529–1642* [@stone2000]. Modelo de análise causal em camadas — excelente para aprender a **pensar causas** em História.
+- HOBSBAWM, Eric. *A era das revoluções: 1789–1848* [@hobsbawmRevolucoes2020]. Situa o caso inglês no ciclo das revoluções que fundam o mundo contemporâneo.
+
+**Fontes primárias**
+
+- LOCKE, John. *Dois tratados sobre o governo* [@locke1998]. O segundo tratado é a peça essencial: direitos naturais, contrato e direito de resistência.
+- *Bill of Rights* (1689) e a *Petição de Direitos* (1628) — textos curtos, disponíveis em coletâneas de documentos históricos; leia-os lado a lado com o artigo 5º da Constituição de 1988 e observe as semelhanças.
+
+**Filmes e documentários**
+
+- *Cromwell* (1970), dir. Ken Hughes. Dramatização clássica do embate entre Carlos I e Cromwell; útil, ainda que idealize o protagonista.
+- *To Kill a King* — *Matar um rei* (2003), dir. Mike Barker. Foca a relação entre Cromwell e Fairfax e o dilema do regicídio.
+- *Winstanley* (1975), dir. Kevin Brownlow. Reconstituição austera e rigorosa da experiência dos *diggers* — raro caso de filme sobre os derrotados.
