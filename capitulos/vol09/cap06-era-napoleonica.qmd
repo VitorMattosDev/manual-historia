@@ -1,5 +1,304 @@
 # A Era Napoleônica e o Congresso de Viena {#sec-era-napoleonica}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Em **2 de dezembro de 1804**, sob as abóbadas da catedral de Notre-Dame, o papa Pio VII veio de Roma para coroar o novo imperador dos franceses. No momento decisivo, **Napoleão Bonaparte** tomou a coroa das mãos do pontífice e **colocou-a na própria cabeça**. O gesto — imortalizado no quadro monumental de Jacques-Louis David — dizia tudo: aquele poder não vinha de Deus nem da linhagem, mas de si mesmo e do povo que o aclamara em plebiscito. Do outro lado do Reno, um compositor chamado **Ludwig van Beethoven**, que dedicara sua Terceira Sinfonia ao general que julgava ser o herói da liberdade, ao saber que Bonaparte se fizera imperador rasgou a folha de rosto da partitura, gritando que ele era, afinal, "um homem comum" que "pisotearia os direitos humanos". A obra passou a chamar-se apenas *Eroica*. Os dois episódios contêm o enigma de toda a Era Napoleônica: seria Napoleão o **herdeiro** da Revolução, que espalhou pela Europa a igualdade civil e o fim do feudalismo — ou seu **coveiro**, o general que a encerrou para fundar uma nova monarquia? Este capítulo percorre essa ambiguidade, a queda que se seguiu e a tentativa, no Congresso de Viena, de fazer o relógio da história andar para trás.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- explicar como Napoleão chegou ao poder e caracterizar as fases do seu governo — **Consulado** (1799–1804) e **Império** (1804–1815);
+- avaliar as realizações internas do período, com destaque para o **Código Civil de 1804**, e seus limites;
+- explicar o **Bloqueio Continental** e relacioná-lo diretamente à **vinda da Corte portuguesa para o Brasil** (1808);
+- identificar as causas da queda de Napoleão e os princípios do **Congresso de Viena** e da **Santa Aliança**;
+- discutir as interpretações historiográficas sobre Napoleão e reconhecer por que a Restauração fracassou.
 :::
+
+## Do Consulado ao Império (1799–1804) {#sec-consulado}
+
+Quando deu o golpe do **18 de Brumário** (9 de novembro de 1799), **Napoleão Bonaparte** (1769–1821) tinha 30 anos e era o general mais popular da França, celebrizado pelas campanhas na Itália e pela expedição ao Egito. Nascido na Córsega em uma família de pequena nobreza, era um produto típico da Revolução: sem ela, jamais teria ultrapassado o posto de capitão, pois os altos comandos eram reservados à nobreza de corte.
+
+O **Consulado** (1799–1804) começou com três cônsules, mas a Constituição do Ano VIII concentrava o poder real nas mãos do **Primeiro Cônsul** — ele. Cada passo seguinte foi legitimado por **plebiscitos** de aprovação esmagadora (e cuidadosamente administrada): cônsul vitalício em 1802, **Imperador** em 1804. É a invenção de uma fórmula política nova, que faria história no século XX: um poder pessoal e autoritário que se legitima pelo **apelo direto ao povo**, passando por cima das assembleias.
+
+O que Napoleão ofereceu à França foi aquilo que a burguesia proprietária mais queria depois de dez anos de convulsão: **ordem**, sem retorno ao Antigo Regime. Sua obra interna foi impressionante e duradoura:
+
+- **Código Civil (1804)**, o **Código Napoleônico**: consolidou juridicamente as conquistas essenciais de 1789 — **igualdade perante a lei**, fim dos privilégios de nascimento, **liberdade de consciência**, caráter **laico** do casamento e do registro civil e, sobretudo, a garantia absoluta da **propriedade privada**, inclusive das terras compradas por camponeses e burgueses durante a Revolução [@codigoCivil1804]. Foi exportado para meia Europa e serviu de modelo a códigos civis do mundo inteiro, inclusive na América Latina.
+- **Banco da França** (1800), nova moeda estável (o franco germinal), reorganização e cobrança eficiente dos impostos: o fim da inflação e da desordem financeira.
+- **Concordata com o papado** (1801): reconciliou o Estado com a Igreja Católica sem devolver os bens confiscados nem restaurar o dízimo, encerrando o cisma religioso aberto em 1790.
+- **Centralização administrativa**: **prefeitos** nomeados para cada departamento, submetidos diretamente a Paris — estrutura que a França conserva até hoje.
+- **Educação e mérito**: criação dos **liceus** e das grandes escolas, e da **Legião de Honra** para premiar serviços ao Estado, civis ou militares, independentemente de nascimento.
+
+Havia, porém, o outro lado. A imprensa foi amordaçada (dos 73 jornais de Paris restaram 4), criou-se uma **polícia política** eficientíssima sob Fouché, os opositores — jacobinos e monarquistas — foram perseguidos, e o Código Civil, tão avançado quanto à igualdade entre homens, submetia juridicamente a **mulher** ao marido, tratando-a como incapaz para atos civis. E, em **1802**, Napoleão **restabeleceu a escravidão** nas colônias francesas, revogando a abolição decretada pela Convenção em 1794 — decisão que provocou a guerra que levaria à independência do **Haiti** (@sec-revolucao-francesa).
+
+::: {.callout-note title="Conceito-chave: bonapartismo"}
+Chama-se **bonapartismo** o modelo de poder inaugurado por Napoleão: um governo **pessoal e autoritário**, exercido por um líder de origem militar que se apresenta como estando **acima das facções** e como encarnação direta da nação, legitimado por **plebiscitos** em vez de por parlamentos, e que se sustenta ao preservar as conquistas sociais de uma revolução enquanto suprime as liberdades políticas. Karl Marx analisaria o mecanismo em *O 18 de Brumário de Luís Bonaparte* (1852), a propósito do sobrinho de Napoleão. O conceito é útil para pensar líderes posteriores em vários países, inclusive na América Latina — mas use-o com cuidado: comparar não é igualar.
+:::
+
+## O Império e a Europa (1805–1812) {#sec-imperio-europa}
+
+Da proclamação do Império até 1812, Napoleão dominou o continente. Suas vitórias — **Austerlitz** contra austríacos e russos (1805), **Jena** contra a Prússia (1806), **Wagram** (1809) — desfizeram sucessivas coalizões e redesenharam o mapa. Em **1806**, o milenar **Sacro Império Romano-Germânico** foi simplesmente extinto. Parentes e marechais de Napoleão foram postos em tronos na Espanha, na Holanda, em Nápoles e na Vestfália, e uma constelação de Estados satélites cercou a França.
+
+Só um inimigo permaneceu invencível: a **Inglaterra**. Em **21 de outubro de 1805**, em **Trafalgar**, o almirante **Nelson** destruiu a esquadra franco-espanhola e garantiu à Grã-Bretanha o domínio absoluto dos mares — encerrando qualquer possibilidade de invadir as ilhas britânicas. Impedido de vencer a Inglaterra pelas armas, Napoleão tentou vencê-la pelo **estômago**: o **Bloqueio Continental** (Decreto de Berlim, novembro de 1806) proibiu todos os países do continente de comerciar com os britânicos. A aposta era estrangular a economia industrial inglesa, privando-a de mercados (@sec-revolucao-industrial).
+
+O bloqueio, porém, revelou-se o começo do fim, por três motivos. Primeiro, prejudicou tanto o continente quanto a Inglaterra: faltaram açúcar, café, algodão e manufaturas baratas, e o contrabando prosperou. Segundo, obrigou Napoleão a **invadir países** apenas para fazer cumprir o decreto — foi assim com **Portugal** em 1807 e com a **Espanha** em 1808. Terceiro, e decisivo, essas invasões despertaram exatamente o que Napoleão não previu: o **nacionalismo**.
+
+Aí está o grande paradoxo do período. Os exércitos franceses chegavam abolindo a servidão, extinguindo privilégios feudais e implantando o Código Civil — e por isso foram, no começo, saudados por muitos como libertadores. Mas também impunham recrutamento forçado, requisições, tributos pesados e reis estrangeiros. Rapidamente, os povos ocupados passaram a usar contra a França as armas que a própria Revolução Francesa lhes ensinara: a ideia de que uma **nação** tem o direito de se governar. Na **Espanha**, a resistência popular inaugurou uma palavra nova no vocabulário militar — ***guerrilha*** —, e o pintor **Francisco de Goya** registrou a repressão francesa na tela *Os fuzilamentos de 3 de maio de 1808*, uma das mais poderosas imagens antiguerra já pintadas. Na Alemanha e na Itália, a humilhação da ocupação alimentou os movimentos que levariam às unificações do século XIX (@sec-unificacoes-italia-alemanha).
+
+## O Bloqueio Continental e a vinda da Corte para o Brasil {#sec-corte-no-brasil}
+
+Para o Brasil, o Bloqueio Continental não é um detalhe da história europeia: é a **causa direta** do acontecimento que mudaria o destino do país.
+
+**Portugal** vivia um dilema insolúvel. Era aliado histórico e dependente comercial da **Inglaterra** — a quem devia a própria sobrevivência como reino independente e o escoamento de sua produção colonial —, mas estava em terra firme, ao alcance dos exércitos de Napoleão. Aderir ao bloqueio significava romper com a maior potência naval do mundo, dona dos mares por onde passavam suas colônias; não aderir significava a invasão. O príncipe regente **D. João** hesitou o quanto pôde, negociando com os dois lados — uma diplomacia da procrastinação que, vista de hoje, foi mais eficaz do que se costuma admitir.
+
+Em novembro de 1807, o general **Junot** cruzou a fronteira rumo a Lisboa. Sob escolta da esquadra britânica, a **Corte portuguesa** — o príncipe regente, a rainha D. Maria I, nobres, funcionários, o tesouro e os arquivos do reino, entre 10 e 15 mil pessoas — embarcou às pressas e cruzou o Atlântico. Foi o **único caso na história em que uma monarquia europeia transferiu sua sede para uma colônia**. D. João chegou a Salvador em janeiro de 1808 e ao Rio de Janeiro em março.
+
+As consequências foram imediatas e irreversíveis: a **Abertura dos Portos às Nações Amigas** (janeiro de 1808) liquidou na prática o **pacto colonial** (@sec-antigo-sistema-colonial); vieram a permissão para instalar manufaturas, a criação do Banco do Brasil, da Imprensa Régia, da Biblioteca Real, do Jardim Botânico e das primeiras escolas superiores; e, em **1815**, a elevação do Brasil à condição de **Reino Unido a Portugal e Algarves**. Uma colônia não volta a ser colônia depois de ter sido sede do império — e é por isso que a Independência de 1822 tem sua origem remota numa decisão tomada em Berlim, em 1806, por um imperador francês. Esse processo é o objeto do @sec-independencia.
+
+::: {#fig-bloqueio-continental}
+
+```{.tikz}
+%%| filename: fig-bloqueio-continental
+%%| alt: Diagrama de causa e consequência do Bloqueio Continental, ligando o decreto de 1806 à invasão de Portugal e à vinda da Corte para o Brasil.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \node[draw, thick, rounded corners, fill=manualred!16, align=center, text width=3.3cm, minimum height=1.3cm] (traf) at (0,1.7) {\textbf{Trafalgar} (1805)\\ Inglaterra domina\\ os mares};
+  \node[draw, thick, rounded corners, fill=manualblue!14, align=center, text width=3.3cm, minimum height=1.3cm] (blo) at (0,-0.6) {\textbf{BLOQUEIO}\\ \textbf{CONTINENTAL} (1806)\\ proibido comerciar\\ com a Inglaterra};
+  \node[draw, thick, rounded corners, fill=manualyellow!25, align=center, text width=3.2cm, minimum height=1.5cm] (por) at (5.0,-0.6) {\textbf{Portugal} no dilema:\\ aliado inglês $\times$\\ ameaça francesa\\[2pt] \textbf{invasão} (nov.\ 1807)};
+  \node[draw, very thick, rounded corners, fill=manualgreen!18, align=center, text width=3.4cm, minimum height=1.5cm] (cor) at (9.9,-0.6) {\textbf{Corte vem\\ para o BRASIL}\\ (1808)};
+  \node[draw, thick, rounded corners, fill=manualgreen!12, align=center, text width=3.4cm, minimum height=1.5cm] (ab) at (9.9,-3.3) {\textbf{Abertura dos Portos}\\ fim do pacto colonial;\\ Reino Unido (1815)\\ $\rightarrow$ \textbf{Independência} (1822)};
+
+  \draw[vetor, thick] (traf.south) -- (blo.north);
+  \draw[vetor, thick] (blo.east) -- (por.west);
+  \draw[vetor, thick] (por.east) -- (cor.west);
+  \draw[vetor, thick] (cor.south) -- (ab.north);
+\end{tikzpicture}
+```
+
+Fluxo de causa e consequência: uma derrota naval no cabo de Trafalgar leva, em três passos, à transferência da Corte portuguesa para o Rio de Janeiro e ao fim do sistema colonial no Brasil.
+:::
+
+## A queda (1812–1815) {#sec-queda-napoleao}
+
+O erro fatal chamou-se **Rússia**. Quando o czar Alexandre I abandonou o Bloqueio Continental, Napoleão reuniu a maior força militar até então vista na Europa — a *Grande Armée*, com cerca de **600 mil homens** — e invadiu o império russo em junho de **1812**. Os russos recusaram a batalha decisiva e recuaram praticando a **terra arrasada**, queimando colheitas e aldeias. Napoleão chegou a **Moscou** em setembro e encontrou a cidade incendiada e vazia: uma vitória sem sentido, pois não havia com quem negociar a paz nem o que comer. A retirada, iniciada tarde demais, transformou-se num dos maiores desastres militares da história: fome, tifo, ataques de cossacos e o **inverno russo** dizimaram o exército, do qual voltaram poucas dezenas de milhares de homens.
+
+O desastre foi o sinal para a Europa se levantar. Uma nova coalizão — Inglaterra, Rússia, Prússia, Áustria e Suécia — derrotou Napoleão em **Leipzig** (1813), a "**Batalha das Nações**", e ocupou Paris. Em abril de **1814**, ele abdicou e foi exilado na ilha de **Elba**, no Mediterrâneo, enquanto os Bourbon voltavam ao trono francês com **Luís XVIII**.
+
+A história ainda teve um epílogo espetacular. Em março de **1815**, Napoleão fugiu de Elba, desembarcou na França e reconquistou o poder sem disparar um tiro — os regimentos enviados para prendê-lo passaram para o seu lado. Foram os **Cem Dias**. A coalizão reorganizou-se e, em **18 de junho de 1815**, na aldeia belga de **Waterloo**, as tropas britânicas de **Wellington** e as prussianas de **Blücher** o derrotaram definitivamente. Desta vez o exílio foi longe e sem volta: **Santa Helena**, ilha perdida no Atlântico Sul, onde morreu em **1821**. Foi lá, ditando suas memórias, que ele construiu com esmero a última de suas obras — a **lenda napoleônica**, a imagem do defensor incompreendido da liberdade dos povos.
+
+## O Congresso de Viena e a Santa Aliança (1814–1815) {#sec-congresso-de-viena}
+
+Enquanto Napoleão ainda respirava em Elba, as potências vencedoras reuniram-se em **Viena** (setembro de 1814 – junho de 1815) para reorganizar a Europa. O congresso foi dirigido pelo chanceler austríaco **Metternich** (1773–1859), com participação decisiva do russo Alexandre I, da Prússia, da Inglaterra e — graças à habilidade do diplomata **Talleyrand** — da própria França derrotada. Entre bailes e jantares, decidiu-se o destino de milhões de pessoas segundo quatro princípios:
+
+- **Legitimidade:** restaurar no trono as **dinastias** derrubadas pela Revolução e por Napoleão (os Bourbon na França e na Espanha, a casa de Sabóia no Piemonte etc.), como se os vinte e cinco anos anteriores não tivessem existido.
+- **Restauração:** repor, no possível, as instituições e as fronteiras do Antigo Regime.
+- **Equilíbrio europeu:** impedir que qualquer país voltasse a dominar o continente, cercando a França com Estados fortalecidos (o Reino dos Países Baixos ao norte, a Prússia no Reno, o Piemonte ao sul).
+- **Compensações:** indenizar os vencedores com territórios — a Rússia ficou com a maior parte da Polônia, a Áustria com Lombardia e Veneza, a Prússia com a Renânia e parte da Saxônia, a Inglaterra com bases navais estratégicas.
+
+Para garantir o arranjo, o czar propôs a **Santa Aliança** (1815) — pacto entre Rússia, Áustria e Prússia, de retórica cristã, comprometido a **intervir militarmente** onde estourasse uma revolução liberal. Complementava-a a **Quádrupla Aliança** (com a Inglaterra), que instituía congressos periódicos. Nascia ali, com todos os seus defeitos, a primeira tentativa de um sistema de **segurança coletiva** europeu.
+
+::: {.callout-important title="Armadilha: o que o Congresso de Viena não conseguiu desfazer"}
+É tentador resumir Viena como "a volta do Antigo Regime". Mas o relógio não voltou. Três coisas eram irreversíveis: (i) a **igualdade civil** e o fim dos privilégios feudais, consolidados pelo **Código Civil** onde quer que os franceses tivessem passado — nenhum monarca restaurado conseguiu ressuscitar a servidão na Europa Ocidental; (ii) a **redistribuição de terras** feita durante a Revolução, que criou uma classe de proprietários dispostos a lutar para não devolvê-las; (iii) as próprias ideias de **liberalismo** e **nacionalismo**, que o Congresso tentou reprimir e apenas empurrou para a clandestinidade — sociedades secretas, exílio, imprensa. O resultado foi que a ordem de Viena começou a rachar quase imediatamente, com as revoluções de **1820**, **1830** e, finalmente, a "primavera dos povos" de **1848** (@sec-liberalismo-nacionalismo-1848). Ao mesmo tempo, a ameaça de intervenção da Santa Aliança na América Latina levou os Estados Unidos a proclamar, em 1823, a **Doutrina Monroe** ("a América para os americanos") — que a Inglaterra apoiou, pois lhe interessavam mercados latino-americanos livres, não colônias espanholas restauradas (@sec-independencias-america-latina).
+:::
+
+::: {#fig-linha-do-tempo-napoleao}
+
+```{.tikz}
+%%| filename: fig-linha-do-tempo-napoleao
+%%| alt: Linha do tempo da Era Napoleônica, de 1799 a 1815, com Consulado, Império e queda.
+\begin{tikzpicture}[>=stealth]
+  \draw[eixo] (0,0) -- (13.8,0);
+  \node[eixo, gray] at (13.8,-0.55) {\scriptsize tempo};
+
+  \fill[manualblue!16] (0.5,-0.13) rectangle (4.0,0.13);
+  \node[text=manualblue] at (2.25,-0.78) {\scriptsize \textbf{Consulado}};
+  \fill[manualyellow!30] (4.0,-0.13) rectangle (10.6,0.13);
+  \node[text=manualyellow!60!black] at (7.3,-0.78) {\scriptsize \textbf{Império}};
+  \fill[manualgray!24] (10.6,-0.13) rectangle (13.2,0.13);
+  \node[text=gray] at (11.9,-0.78) {\scriptsize \textbf{queda}};
+
+  \node[ponto] at (0.5,0) {};
+  \node[below] at (0.5,-0.22) {\scriptsize 1799};
+  \node[above, align=center, text=manualblue] at (0.7,0.2) {\scriptsize \textbf{18 de Brumário}};
+
+  \node[ponto] at (3.1,0) {};
+  \node[below] at (3.1,-0.22) {\scriptsize 1804};
+  \node[above, align=center, text=manualblue] at (3.2,1.0) {\scriptsize \textbf{Código Civil};\\\scriptsize coroação};
+
+  \node[ponto] at (4.9,0) {};
+  \node[below] at (4.9,-0.22) {\scriptsize 1805};
+  \node[above, align=center, text=manualred] at (5.0,0.2) {\scriptsize Trafalgar;\\\scriptsize Austerlitz};
+
+  \node[ponto] at (6.3,0) {};
+  \node[below] at (6.3,-0.22) {\scriptsize 1806};
+  \node[above, align=center, text=manualred] at (6.4,1.0) {\scriptsize \textbf{Bloqueio}\\\scriptsize \textbf{Continental}};
+
+  \node[ponto] at (7.7,0) {};
+  \node[below] at (7.7,-0.22) {\scriptsize 1807--08};
+  \node[above, align=center, text=manualgreen] at (7.9,0.2) {\scriptsize invasão de Portugal;\\\scriptsize \textbf{Corte no Brasil}};
+
+  \node[ponto] at (9.6,0) {};
+  \node[below] at (9.6,-0.22) {\scriptsize 1812};
+  \node[above, align=center, text=manualred] at (9.7,1.0) {\scriptsize campanha da\\\scriptsize \textbf{Rússia}};
+
+  \node[ponto] at (10.9,0) {};
+  \node[below] at (10.9,-0.22) {\scriptsize 1813--14};
+  \node[above, align=center] at (11.1,0.2) {\scriptsize Leipzig;\\\scriptsize abdicação (Elba)};
+
+  \node[ponto] at (13.2,0) {};
+  \node[below] at (13.2,-0.22) {\scriptsize 1815};
+  \node[above, align=center] at (12.9,1.0) {\scriptsize Cem Dias · \textbf{Waterloo}\\\scriptsize \textbf{Congresso de Viena}};
+\end{tikzpicture}
+```
+
+Dezesseis anos que reorganizaram a Europa duas vezes: primeiro pelas armas francesas, depois pela diplomacia dos vencedores.
+:::
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+Napoleão é, com Júlio César, um dos personagens sobre os quais mais se escreveu — e sobre quem menos se chegou a acordo. Quatro leituras principais organizam o debate.
+
+**Herdeiro e difusor da Revolução.** Uma tradição forte, que vai de Georges Lefebvre a **Eric Hobsbawm**, sustenta que Napoleão, apesar da coroa, **consolidou e exportou** as conquistas de 1789. O **Código Civil** levou a igualdade jurídica, o fim dos direitos feudais, o registro civil laico e a segurança da propriedade a boa parte da Europa; a servidão foi abolida em vastas regiões; a organização racional do Estado substituiu a colcha de retalhos do Antigo Regime. Para Hobsbawm, a "dupla revolução" — a francesa e a industrial — só se difundiu pelo continente porque os exércitos napoleônicos abriram caminho, e nem a Restauração conseguiu desfazer isso [@hobsbawmRevolucoes2020].
+
+**Coveiro da liberdade.** A tradição liberal, já contemporânea dos fatos — **Benjamin Constant**, **Madame de Staël** —, viu o oposto: Napoleão liquidou justamente o que a Revolução tinha de mais precioso, as **liberdades políticas**. Censurou a imprensa, esvaziou as assembleias, criou uma polícia política, restabeleceu uma nobreza imperial e transformou a França num Estado militar em guerra permanente. Nessa leitura, ele é menos o herdeiro de 1789 do que o inventor de um modelo — o poder pessoal legitimado por **plebiscito** e por conquistas externas — que reapareceria, com consequências trágicas, no século XX. É útil lembrar o argumento mais duro contra a versão "libertadora": em **1802**, Napoleão **restabeleceu a escravidão** nas colônias francesas, revogando a abolição de 1794 e enviando uma expedição para reconquistar São Domingos. O emancipador da Europa foi, no Caribe, o restaurador do cativeiro.
+
+**A fabricação do mito (Jean Tulard).** O historiador francês **Jean Tulard** propôs, em *Napoleão: o mito do salvador*, deslocar a pergunta. Em vez de julgar o herói, examinou **por que a França precisou de um** e **como o mito foi construído**. Sua tese: depois de dez anos de instabilidade, os "**notáveis**" — a burguesia proprietária, os compradores de bens nacionais, os militares, os altos funcionários — buscavam um **salvador** capaz de garantir a ordem e a propriedade sem restaurar o Antigo Regime; Bonaparte foi menos o autor dessa demanda do que sua **resposta**. E mostrou como a imagem foi deliberadamente fabricada — pelos boletins do exército, pela pintura oficial de David e Gros, pela censura e, por fim, pelas **memórias ditadas em Santa Helena**, que refundaram Napoleão como campeão da liberdade dos povos justamente quando ele já não tinha poder algum [@tulard1989]. Tulard ensina uma lição metodológica valiosa: parte considerável do que "sabemos" sobre Napoleão é **propaganda** que sobreviveu ao propagandista.
+
+**O olhar de fora da Europa.** A historiografia recente acrescentou uma escala. Vista do **Haiti**, a Era Napoleônica é a da expedição de reconquista e do restabelecimento da escravidão; vista da **Espanha**, a de uma ocupação brutal que gerou a guerrilha e as cenas de Goya; vista do **Brasil**, é a causa involuntária da transferência da Corte e do fim do sistema colonial. Essa mudança de ponto de vista não "corrige" as leituras europeias — mas mostra que o mesmo processo tem significados radicalmente distintos conforme o lugar de onde se olha.
+
+**Por que divergem?** Porque medem coisas diferentes — instituições e leis (Lefebvre, Hobsbawm), liberdades políticas (a tradição liberal), a construção da imagem (Tulard), os efeitos coloniais (a historiografia atlântica) — e porque o balanço de Napoleão sempre foi um **combate político**: na França do século XIX, dizer-se bonapartista, republicano ou legitimista definia um lado nas barricadas. A resposta madura não é escolher um adjetivo, mas perceber que as duas metades do enigma são verdadeiras: ele **consolidou** a revolução social (igualdade civil, propriedade, Estado racional) e **liquidou** a revolução política (liberdade, representação, divisão de poderes) — e foi exatamente essa combinação que o tornou tão atraente para os proprietários da Europa e tão perigoso para os liberais.
+
+## Resumo do capítulo {#sec-resumo}
+
+- **Napoleão Bonaparte** (1769–1821), general formado pela Revolução, tomou o poder no **18 de Brumário** (1799). O **Consulado** (1799–1804) concentrou o poder no Primeiro Cônsul, legitimando cada passo por **plebiscitos**: cônsul vitalício (1802) e **Imperador** (1804, coroando-se a si mesmo em Notre-Dame).
+- **Obra interna:** **Código Civil de 1804** (igualdade perante a lei, fim dos privilégios de nascimento, casamento civil, **propriedade privada** garantida — inclusive as terras redistribuídas na Revolução); **Banco da França** (1800) e moeda estável; **Concordata** com o papa (1801); **prefeitos** e centralização administrativa; **liceus** e **Legião de Honra** (mérito). Contrapartida: censura, **polícia política**, submissão jurídica da **mulher** ao marido e o **restabelecimento da escravidão** nas colônias (**1802**).
+- **Império e Europa:** vitórias em **Austerlitz** (1805), **Jena** (1806) e **Wagram** (1809); fim do **Sacro Império** (1806). Mas a derrota naval em **Trafalgar** (1805) deu à Inglaterra o domínio dos mares. Resposta: o **Bloqueio Continental** (1806), que fracassou e forçou invasões (Portugal, 1807; Espanha, 1808), despertando o **nacionalismo** dos povos ocupados (a *guerrilha* espanhola; Goya).
+- **Brasil:** para não romper com a Inglaterra nem sofrer a invasão, a **Corte portuguesa** transferiu-se para o Rio de Janeiro (1807–08) — caso único de metrópole que muda a sede para a colônia. Consequências: **Abertura dos Portos** (1808), fim do pacto colonial, criação de instituições e elevação a **Reino Unido** (1815) — o caminho para a Independência de 1822.
+- **Queda:** a **campanha da Rússia** (1812) destruiu a *Grande Armée* (terra arrasada, Moscou incendiada, inverno); derrota em **Leipzig**, a "Batalha das Nações" (1813); abdicação e exílio em **Elba** (1814); os **Cem Dias** e a derrota final em **Waterloo** (18 de junho de 1815); exílio e morte em **Santa Helena** (1821), onde ditou as memórias que criaram a **lenda napoleônica**.
+- **Congresso de Viena** (1814–15), dirigido por **Metternich**: princípios da **legitimidade**, **restauração**, **equilíbrio europeu** e **compensações**. **Santa Aliança** (Rússia, Áustria, Prússia) para intervir contra revoluções liberais, mais a **Quádrupla Aliança**.
+- **Limites da Restauração:** não foi possível desfazer a igualdade civil consolidada pelo Código Civil, a redistribuição de terras nem as ideias de **liberalismo** e **nacionalismo** — daí as revoluções de **1820**, **1830** e **1848**. Na América, a ameaça da Santa Aliança motivou a **Doutrina Monroe** (1823).
+- **Historiografia:** Napoleão como **herdeiro e difusor** da Revolução (Lefebvre, **Hobsbawm**) × **coveiro das liberdades** políticas (tradição liberal; e o restabelecimento da escravidão em 1802) × a **fabricação do mito** e a demanda dos "notáveis" por um salvador (**Tulard**) × o olhar de fora da Europa (Haiti, Espanha, Brasil).
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Domine: (1) as fases **Consulado × Império**; (2) o conteúdo e o alcance do **Código Civil**; (3) **Trafalgar → Bloqueio Continental → invasão de Portugal → Corte no Brasil** (a cadeia causal mais cobrada em vestibulares brasileiros); (4) as causas da queda; (5) os **quatro princípios** de Viena e a **Santa Aliança**; (6) por que a Restauração fracassou; (7) o debate historiográfico.
+:::
+
+**1.** Por que se diz que o Código Civil de 1804 "consolidou a Revolução"? Aponte também seus limites.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque transformou em **lei permanente e sistemática** as conquistas sociais de 1789, tornando-as praticamente irreversíveis: **igualdade perante a lei** e fim dos privilégios jurídicos de nascimento; **liberdade de consciência**; caráter **laico** do casamento e do registro civil; e, sobretudo, a garantia da **propriedade privada** — inclusive das terras confiscadas da Igreja e dos nobres e compradas por burgueses e camponeses durante a Revolução, o que criou uma vasta camada de proprietários interessada em que a Revolução **não fosse desfeita** [@codigoCivil1804]. Exportado pelos exércitos franceses, tornou-se modelo de códigos civis em toda a Europa e na América Latina — e é a razão pela qual o Congresso de Viena não conseguiu restaurar o feudalismo.
+
+**Limites:** (i) a igualdade valia entre **homens**: o Código submetia juridicamente a **mulher casada** à autoridade do marido, tratando-a como incapaz para diversos atos civis; (ii) reforçava a autoridade paterna e restringia direitos de filhos; (iii) protegia a propriedade sem qualquer preocupação com desigualdade social; (iv) foi acompanhado, na prática política, da **supressão das liberdades** (censura, polícia política) e, em 1802, do **restabelecimento da escravidão** nas colônias.
+:::
+
+**2.** Explique o **Bloqueio Continental**: por que foi criado e por que fracassou.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Por que foi criado:** depois da derrota naval de **Trafalgar** (1805), Napoleão não tinha como invadir a Inglaterra, senhora absoluta dos mares. Optou então pela guerra econômica: pelo **Decreto de Berlim** (novembro de 1806), proibiu todos os países do continente europeu de comerciar com os britânicos. O objetivo era **estrangular** a economia industrial inglesa, privando-a dos mercados de que dependia para escoar sua produção (@sec-revolucao-industrial), provocando crise e forçando a paz.
+
+**Por que fracassou:** (i) a Inglaterra tinha **outros mercados** — as colônias, os Estados Unidos e, cada vez mais, a América Latina — e sua marinha garantia o abastecimento; (ii) o bloqueio **prejudicou o próprio continente**, que ficou sem açúcar, café, algodão e manufaturas baratas, estimulando o **contrabando** em larga escala e o descontentamento até entre aliados da França; (iii) para fazê-lo cumprir, Napoleão precisou **invadir países** — Portugal (1807) e Espanha (1808) —, o que dispersou suas forças e, sobretudo, despertou o **nacionalismo** dos povos ocupados (a *guerrilha* espanhola); (iv) foi a recusa da **Rússia** em mantê-lo que levou à desastrosa campanha de **1812**, início da queda. Em síntese: a arma pensada para vencer a Inglaterra acabou por destruir o próprio Império.
+:::
+
+**3.** Reconstitua a cadeia causal que liga a derrota francesa em Trafalgar à Independência do Brasil.
+
+::: {.callout-tip collapse="true" title="Solução"}
+1. **Trafalgar (1805):** a esquadra franco-espanhola é destruída por Nelson; a Inglaterra domina os mares e a invasão das ilhas britânicas torna-se impossível.
+2. **Bloqueio Continental (1806):** impedido de vencer pelas armas, Napoleão proíbe todo o continente de comerciar com a Inglaterra.
+3. **O dilema português:** **Portugal** era aliado histórico e dependente comercial da Inglaterra, mas vulnerável por terra aos exércitos franceses. Aderir ao bloqueio significava perder a proteção naval de que dependiam suas colônias; recusar significava a invasão. D. João adiou a decisão o quanto pôde.
+4. **Invasão (novembro de 1807):** as tropas de **Junot** marcham sobre Lisboa.
+5. **Transferência da Corte (1807–08):** sob escolta britânica, a família real e cerca de 10 a 15 mil pessoas cruzam o Atlântico — **único caso** de monarquia europeia que transfere sua sede para uma colônia. D. João chega a Salvador em janeiro e ao Rio em março de 1808.
+6. **Consequências no Brasil:** **Abertura dos Portos às Nações Amigas** (1808), que liquida o **pacto colonial**; permissão para manufaturas; Banco do Brasil, Imprensa Régia, Biblioteca Real, escolas superiores; elevação a **Reino Unido a Portugal e Algarves** (1815).
+7. **Independência (1822):** o Brasil, tendo sido sede do império e tendo perdido o estatuto de colônia na prática, não aceita a recolonização exigida pelas Cortes de Lisboa após 1820 — o que precipita a ruptura (@sec-independencia).
+
+A conclusão que os vestibulares gostam de cobrar: uma decisão tomada em **Berlim**, em 1806, por um imperador francês, é a causa remota do fim do sistema colonial no Brasil.
+:::
+
+**4.** Quais foram as causas da queda de Napoleão?
+
+::: {.callout-tip collapse="true" title="Solução"}
+- **Supremacia naval inglesa** (Trafalgar, 1805): impossibilitou derrotar o principal inimigo e obrigou à guerra econômica.
+- **Fracasso do Bloqueio Continental**: não estrangulou a Inglaterra, gerou escassez e contrabando no continente e provocou o descontentamento dos próprios aliados.
+- **Nacionalismo dos povos ocupados**: as invasões para impor o bloqueio despertaram, sobretudo na **Espanha** (a *guerrilha*), na Alemanha e na Itália, o mesmo princípio que a Revolução Francesa difundira — o de que cada nação tem direito de se governar. O ocupante "libertador" virou inimigo.
+- **Campanha da Rússia (1812)**: o erro decisivo. Os russos recuaram praticando a **terra arrasada** e incendiaram Moscou; sem batalha decisiva, sem suprimentos e surpreendido pelo **inverno**, o exército de cerca de 600 mil homens foi praticamente aniquilado na retirada.
+- **Coalizão geral**: aproveitando o enfraquecimento, Inglaterra, Rússia, Prússia, Áustria e Suécia venceram em **Leipzig** (1813, a "Batalha das Nações") e ocuparam Paris; Napoleão abdicou em 1814 (Elba) e, após os **Cem Dias**, foi derrotado em **Waterloo** (1815).
+- **Desgaste interno**: quinze anos de guerra permanente, recrutamento contínuo, perdas humanas e custo fiscal esgotaram o apoio francês, inclusive o dos "notáveis" que o haviam sustentado.
+:::
+
+**5.** Explique os quatro princípios do Congresso de Viena e o papel da Santa Aliança.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Reunido em Viena entre 1814 e 1815 sob a direção do chanceler austríaco **Metternich**, o congresso reorganizou a Europa segundo quatro princípios:
+
+1. **Legitimidade:** restaurar nos tronos as **dinastias** derrubadas pela Revolução e por Napoleão (os Bourbon na França e na Espanha, a casa de Sabóia no Piemonte etc.), tratando os vinte e cinco anos anteriores como uma usurpação.
+2. **Restauração:** repor, tanto quanto possível, as instituições e as fronteiras anteriores a 1789.
+3. **Equilíbrio europeu:** impedir que qualquer potência voltasse a dominar o continente — daí o **cerco à França** por Estados reforçados (Reino dos Países Baixos, Prússia no Reno, Piemonte).
+4. **Compensações:** recompensar os vencedores com territórios (Rússia com a Polônia, Áustria com Lombardia e Veneza, Prússia com a Renânia e parte da Saxônia, Inglaterra com bases navais).
+
+A **Santa Aliança** (1815), proposta pelo czar Alexandre I e formada por **Rússia, Áustria e Prússia**, foi o instrumento de garantia: um pacto de retórica cristã que autorizava a **intervenção militar** em qualquer país onde estourasse uma revolução liberal — e que de fato interveio, por exemplo, na Itália e na Espanha nos anos 1820. Somava-se a ela a **Quádrupla Aliança** (com a Inglaterra), que criou congressos periódicos entre as potências. Trata-se, com todos os seus propósitos conservadores, da primeira tentativa moderna de um sistema de **segurança coletiva** na Europa.
+:::
+
+**6.** Por que a Restauração fracassou? Cite o que não pôde ser desfeito.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque o Congresso podia redesenhar fronteiras e recolocar reis, mas não podia **desfazer transformações sociais e mentais** já consolidadas:
+
+- A **igualdade civil** e o fim dos direitos feudais, fixados pelo **Código Civil** onde quer que os exércitos franceses tivessem passado: nenhum monarca restaurado conseguiu ressuscitar a servidão na Europa Ocidental.
+- A **redistribuição de terras** ocorrida durante a Revolução, que criou uma ampla camada de novos proprietários dispostos a resistir a qualquer devolução.
+- As ideias de **liberalismo** (constituições, direitos, parlamentos) e de **nacionalismo** (o direito de cada povo a um Estado próprio), que a repressão empurrou para a clandestinidade — sociedades secretas como os carbonários, o exílio, a imprensa e a literatura romântica — mas não eliminou.
+
+O resultado foi que a ordem de Viena começou a rachar quase imediatamente: revoluções liberais em **1820**, a onda de **1830** e, por fim, a "**primavera dos povos**" de **1848**, que derrubaria o próprio Metternich (@sec-liberalismo-nacionalismo-1848). Além disso, o congresso não conseguiu conter as **independências latino-americanas**: a ameaça de intervenção da Santa Aliança levou os Estados Unidos a proclamar, em 1823, a **Doutrina Monroe**, apoiada na prática pela Inglaterra, interessada em mercados abertos e não na restauração do império espanhol.
+:::
+
+**7.** (Estilo ENEM) Leia o texto.
+
+> "Artigo 1º — O exercício dos direitos civis é independente da qualidade de cidadão. […] Todos os franceses gozam igualmente dos direitos civis. […] A propriedade é o direito de gozar e dispor das coisas do modo mais absoluto." — *Código Civil dos Franceses*, 1804 — @codigoCivil1804
+
+A promulgação desse Código, no contexto do governo napoleônico, significou
+
+**(a)** a restauração dos privilégios jurídicos da nobreza e do clero suprimidos em 1789.
+**(b)** a consolidação legal das conquistas civis da Revolução, especialmente a igualdade perante a lei e a garantia da propriedade.
+**(c)** a instituição do sufrágio universal e da plena liberdade de imprensa na França.
+**(d)** a extensão imediata da igualdade de direitos às mulheres e às populações escravizadas nas colônias.
+**(e)** o abandono do princípio da laicidade do Estado em favor da autoridade eclesiástica.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (b).** O trecho enuncia dois pilares do Código: a **igualdade civil** ("todos os franceses gozam igualmente dos direitos civis", desvinculada até da cidadania política) e a **propriedade** como direito quase absoluto — exatamente as conquistas de 1789 que Napoleão transformou em lei sistemática e duradoura, protegendo inclusive as terras redistribuídas durante a Revolução.
+
+As demais: **(a)** é o oposto — o Código aboliu definitivamente os privilégios de nascimento; **(c)** confunde direitos **civis** com direitos **políticos**: Napoleão restringiu drasticamente a imprensa (dos 73 jornais de Paris restaram 4) e esvaziou as assembleias; **(d)** é falsa em ambos os pontos — o Código submetia a **mulher casada** à autoridade do marido, e em **1802** Napoleão **restabeleceu a escravidão** nas colônias; **(e)** inverte os fatos: o Código consagrou o **casamento civil** e o registro civil laicos, e a Concordata de 1801 reconciliou-se com a Igreja **sem** devolver-lhe bens ou o dízimo.
+:::
+
+**8.** (Estilo vestibular — dissertativa) "Napoleão foi ao mesmo tempo o herdeiro e o coveiro da Revolução Francesa." Discuta a afirmação.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Herdeiro.** Napoleão consolidou e difundiu as conquistas **sociais e jurídicas** de 1789. O **Código Civil (1804)** fixou a igualdade perante a lei, o fim dos privilégios de nascimento, o casamento e o registro civis laicos e a garantia da propriedade — inclusive das terras adquiridas durante a Revolução. Reorganizou racionalmente o Estado (prefeitos, finanças, Banco da França), criou instituições de ensino baseadas no **mérito** (liceus, Legião de Honra) e, ao conquistar a Europa, exportou o Código e aboliu a servidão e os direitos feudais em vastas regiões. Para historiadores como **Hobsbawm**, foi por meio dos exércitos napoleônicos que a Revolução se tornou irreversível no continente [@hobsbawmRevolucoes2020] — e é por isso que o Congresso de Viena não conseguiu restaurar o feudalismo.
+
+**Coveiro.** Ao mesmo tempo, liquidou a dimensão **política** da Revolução: instaurou um poder pessoal legitimado por **plebiscitos** em lugar de assembleias, censurou a imprensa, montou uma **polícia política**, perseguiu jacobinos e monarquistas, criou uma **nobreza imperial** e coroou-se **imperador hereditário**. Além disso, o Código subordinava juridicamente a **mulher** ao marido, e em **1802** ele **restabeleceu a escravidão** nas colônias, revogando a abolição de 1794 e enviando tropas contra São Domingos — o argumento mais contundente contra a imagem de "libertador".
+
+**Síntese possível:** a afirmação é correta porque as duas revoluções não coincidem. Napoleão **preservou a revolução social** (igualdade civil, propriedade, Estado racional) e **suprimiu a revolução política** (liberdade de expressão, representação, divisão de poderes). Foi exatamente essa combinação que o tornou atraente para a burguesia proprietária, ansiosa por ordem sem retorno ao Antigo Regime — o argumento central de **Jean Tulard**, para quem os "notáveis" **precisavam** de um salvador e Bonaparte foi a resposta a essa demanda, com um mito cuidadosamente fabricado por boletins, pintura oficial e pelas memórias ditadas em Santa Helena [@tulard1989].
+:::
+
+**9.** Segundo Jean Tulard, o que significa estudar Napoleão como "mito do salvador"? Por que essa abordagem é metodologicamente interessante?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Significa **deslocar a pergunta**: em vez de julgar se Napoleão foi grande ou tirano, **Tulard** investiga (i) **por que a França precisou de um salvador** e (ii) **como a imagem do salvador foi construída**. Quanto ao primeiro ponto, sustenta que, após dez anos de instabilidade revolucionária, os "**notáveis**" — burguesia proprietária, compradores de bens nacionais, altos funcionários, militares — buscavam alguém capaz de garantir **ordem e propriedade sem restaurar o Antigo Regime**; Bonaparte foi menos o criador dessa demanda do que sua **resposta**. Quanto ao segundo, mostra como o mito foi **deliberadamente fabricado**: os boletins do exército (que exageravam vitórias e omitiam derrotas), a pintura oficial de David e Gros, a censura da imprensa e, por fim, as **memórias ditadas em Santa Helena**, que reinventaram o imperador como campeão da liberdade dos povos justamente quando ele já não tinha poder [@tulard1989].
+
+**Por que é metodologicamente interessante:** porque trata a **imagem** do personagem como um **objeto histórico** a ser explicado, e não como uma fonte transparente de informação. Ensina que parte considerável do que "sabemos" sobre grandes personagens é **propaganda que sobreviveu ao propagandista** — lição que vale para qualquer figura pública, do passado ou do presente, e que se conecta diretamente ao estudo da **memória** e da crítica documental (@sec-fontes-historicas).
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- TULARD, Jean. *Napoleão: o mito do salvador* [@tulard1989]. A biografia de referência; ensina a desmontar a construção de um mito político.
+- HOBSBAWM, Eric. *A era das revoluções: 1789–1848* [@hobsbawmRevolucoes2020]. Situa Napoleão como difusor involuntário da "dupla revolução" pela Europa.
+- GOMES, Laurentino. *1808* [@gomes2007]. Reportagem histórica muito acessível sobre a fuga da Corte portuguesa e seus efeitos no Brasil — excelente porta de entrada para o Volume 11.
+
+**Fontes primárias**
+
+- *Código Civil dos Franceses* (1804) [@codigoCivil1804]. Leia os artigos sobre igualdade civil, propriedade e, em contraste, os que tratam da mulher casada.
+- As atas e tratados do **Congresso de Viena** (1815) e o pacto da **Santa Aliança** — curtos e reveladores da linguagem da legitimidade dinástica.
+
+**Arte, filmes e documentários**
+
+- **Jacques-Louis David**, *A sagração de Napoleão* (1807), e **Antoine-Jean Gros**, *Bonaparte visitando os apestados de Jaffa* (1804): propaganda em forma de obra-prima — analise o que cada tela quer fazer você acreditar.
+- **Francisco de Goya**, *Os fuzilamentos de 3 de maio de 1808* (1814): a ocupação vista pelos ocupados.
+- *Guerra e paz* (várias versões, a partir de Tolstói) e *Waterloo* (1970), dir. Sergei Bondarchuk. Este último ainda é a melhor reconstituição em cinema de uma batalha napoleônica.
+- *Napoleão* (2023), dir. Ridley Scott. Espetacular e cheio de liberdades históricas — ótimo exercício de crítica: liste as cenas que contradizem o que você estudou aqui.
