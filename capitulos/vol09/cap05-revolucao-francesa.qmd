@@ -1,5 +1,328 @@
 # A Revolução Francesa {#sec-revolucao-francesa}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Toda vez que você diz que alguém é "de **esquerda**" ou "de **direita**", está repetindo, sem saber, um gesto feito num salão francês em 1789. Quando a Assembleia Nacional discutiu se o rei teria poder de vetar as leis, os deputados favoráveis ao veto real foram se sentando à **direita** do presidente da mesa, e os contrários, à **esquerda**. O arranjo de cadeiras virou vocabulário político universal — e sobreviveu à monarquia, ao Império, a duas guerras mundiais e ao século XXI. Não é a única herança: a bandeira tricolor, a ideia de "cidadão" no lugar de "súdito", o sistema métrico, o próprio conceito de **direitos humanos** como algo que se declara solenemente e se cobra em juízo — tudo isso saiu daqueles dez anos. A Revolução Francesa é, provavelmente, o acontecimento mais estudado, mais citado e mais disputado da história moderna. Foi também um dos mais violentos. Este capítulo percorre como um país faliu, derrubou seu rei, inventou a República, devorou seus próprios líderes e acabou nos braços de um general — e por que os historiadores ainda brigam para dizer o que tudo isso significou.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- caracterizar a sociedade **estamental** do Antigo Regime francês e explicar a **crise fiscal** que levou à convocação dos Estados Gerais;
+- narrar e distinguir as **fases** da Revolução — Assembleia Constituinte e Monarquia Constitucional (1789–1792), **Convenção** e República (1792–1795) e **Diretório** (1795–1799);
+- analisar a **Declaração dos Direitos do Homem e do Cidadão** (1789), seu alcance universalista e seus **limites** (mulheres, escravizados, pobres);
+- explicar o **Terror** jacobino e discutir as diferentes formas de interpretá-lo, evitando tanto a apologia quanto o anacronismo;
+- relacionar a Revolução aos seus desdobramentos atlânticos — a **Revolução Haitiana** e a **Conjuração Baiana** — e comparar as grandes correntes historiográficas sobre 1789.
 :::
+
+## A França do Antigo Regime {#sec-antigo-regime-frances}
+
+Às vésperas de 1789, a França era o país mais populoso da Europa Ocidental — cerca de **27 milhões** de habitantes — e uma das maiores potências do mundo. Também era uma sociedade organizada segundo um princípio que hoje nos parece absurdo: a **desigualdade jurídica de nascimento**.
+
+A população dividia-se em três **estados** ou **ordens** (daí a expressão **sociedade estamental**):
+
+- **Primeiro Estado — o clero** (cerca de 120 mil pessoas, menos de 1% da população): dividia-se entre o **alto clero** (bispos e abades, quase sempre de origem nobre, imensamente rico) e o **baixo clero** (párocos de aldeia, muitos deles pobres e próximos do povo, o que explica por que boa parte deles apoiaria a Revolução). Recebia o **dízimo** e era isento de impostos.
+- **Segundo Estado — a nobreza** (cerca de 350 mil pessoas, pouco mais de 1%): a **nobreza de espada** (linhagem militar tradicional), a **nobreza de toga** (que comprara cargos judiciais hereditários) e a **nobreza de corte**, que vivia de pensões em **Versalhes**. Também **isenta** dos principais impostos, monopolizava os altos postos do Estado, do exército e da Igreja e cobrava dos camponeses os **direitos senhoriais**.
+- **Terceiro Estado — todo o resto** (cerca de 97% da população): a **alta burguesia** (banqueiros, grandes comerciantes, armadores), a **média e pequena burguesia** (advogados, médicos, jornalistas, funcionários — de onde sairia quase toda a liderança revolucionária), os **sans-culottes** urbanos (artesãos, pequenos lojistas, trabalhadores, assim chamados porque usavam calças compridas em vez dos calções, *culottes*, da elite) e, sobretudo, os **camponeses**, cerca de 80% dos franceses.
+
+Sobre esse Terceiro Estado caía **todo o peso fiscal**: a *taille* (imposto direto), a *gabela* (sobre o sal), o **dízimo** à Igreja e os **direitos feudais** ao senhor — a corveia (trabalho gratuito), as **banalidades** (taxa para usar o moinho, o forno e o lagar do senhor) e uma penca de tributos herdados da Idade Média. Em 1789, o abade **Sieyès** resumiu a situação num panfleto que virou palavra de ordem: "O que é o Terceiro Estado? **Tudo**. O que tem sido até agora na ordem política? **Nada**. O que pede? **Ser alguma coisa**."
+
+::: {#fig-piramide-antigo-regime}
+
+```{.tikz}
+%%| filename: fig-piramide-antigo-regime
+%%| alt: Pirâmide social do Antigo Regime francês, com clero, nobreza e Terceiro Estado, indicando privilégios e carga fiscal.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  % piramide
+  \fill[manualyellow!35] (-1.1,2.6) -- (1.1,2.6) -- (1.8,1.4) -- (-1.8,1.4) -- cycle;
+  \fill[manualblue!22] (-1.8,1.4) -- (1.8,1.4) -- (2.6,0.0) -- (-2.6,0.0) -- cycle;
+  \fill[manualgreen!20] (-2.6,0.0) -- (2.6,0.0) -- (4.2,-2.6) -- (-4.2,-2.6) -- cycle;
+  \draw[thick] (-1.1,2.6) -- (1.1,2.6) -- (4.2,-2.6) -- (-4.2,-2.6) -- cycle;
+  \draw[thick] (-1.8,1.4) -- (1.8,1.4);
+  \draw[thick] (-2.6,0.0) -- (2.6,0.0);
+
+  \node[align=center] at (0,2.05) {\textbf{1º Estado — CLERO}\\ \textit{c.} 120 mil ($<$1\%)};
+  \node[align=center] at (0,0.72) {\textbf{2º Estado — NOBREZA}\\ \textit{c.} 350 mil ($\approx$1\%)};
+  \node[align=center] at (0,-1.35) {\textbf{3º ESTADO} --- \textit{c.} 97\% da população\\[2pt] alta burguesia · burguesia média\\ \textit{sans-culottes} · \textbf{camponeses} ($\approx$80\%)};
+
+  % chaves laterais
+  \node[align=center, text width=2.6cm, text=manualred] at (6.4,1.4) {\textbf{PRIVILEGIADOS}\\ isenção de impostos,\\ cargos e honrarias};
+  \draw[decorate, decoration={brace, amplitude=5pt}, thick, manualred] (4.4,2.6) -- (4.4,0.05);
+  \node[align=center, text width=2.6cm, text=manualgreen!60!black] at (6.4,-1.35) {\textbf{PAGA TUDO}\\ \textit{taille}, gabela, dízimo,\\ direitos senhoriais};
+  \draw[decorate, decoration={brace, amplitude=5pt}, thick, manualgreen!60!black] (4.4,-0.05) -- (4.4,-2.6);
+\end{tikzpicture}
+```
+
+A sociedade estamental francesa: a base sustenta financeiramente o topo, sem participação política. É essa **desigualdade jurídica de nascimento** que 1789 destrói.
+:::
+
+Mas nem a desigualdade nem a pobreza explicam sozinhas a Revolução — elas existiam havia séculos. O que mudou foi a **conjunção** de quatro crises:
+
+1. **Crise financeira.** Décadas de guerras — a **Guerra dos Sete Anos** e, sobretudo, o apoio à **independência americana** (@sec-independencia-eua) — deixaram o Estado à beira da falência: em 1788, mais da metade do orçamento ia para o serviço da dívida. Ministros como Turgot, Necker e Calonne propuseram a solução óbvia: **taxar os privilegiados**. E aí veio o bloqueio.
+2. **Revolta aristocrática.** Nobreza e alto clero recusaram-se a abrir mão da isenção fiscal e, através dos *parlements* (tribunais de justiça hereditários), vetaram todas as reformas, exigindo que qualquer novo imposto fosse aprovado pelos **Estados Gerais** — a assembleia das três ordens, que não se reunia desde **1614**. Foi a nobreza, portanto, que abriu a porta por onde entraria a Revolução que a destruiria.
+3. **Crise econômica e alimentar.** As colheitas de 1788 foram péssimas e o inverno de 1788–89, rigorosíssimo. O preço do pão disparou: em julho de 1789, um trabalhador parisiense chegava a gastar a maior parte de seu salário diário apenas com pão. Fome e desemprego colocaram multidões na rua.
+4. **Crise de legitimidade.** O **Iluminismo** (@sec-iluminismo) havia fornecido, ao longo de meio século, a linguagem para pensar tudo aquilo como **injustiça**, e não como ordem natural: soberania popular (Rousseau), separação de poderes (Montesquieu), direitos naturais (Locke), crítica ao privilégio. E o exemplo americano provara que se podia fundar uma república.
+
+## 1789: o ano que não terminou {#sec-1789}
+
+**Luís XVI** (rei de 1774 a 1792) cedeu e convocou os **Estados Gerais** para **5 de maio de 1789**, em Versalhes. Antes disso, todo o reino redigiu os ***cahiers de doléances*** (cadernos de queixas), um dos mais extraordinários documentos da história — dezenas de milhares de listas de reclamações escritas por paróquias, corporações e ordens, que permitem hoje ouvir a voz de camponeses e artesãos comuns.
+
+A crise estourou logo na abertura, numa disputa aparentemente técnica: **como votar**. Pela tradição, votava-se **por ordem** — cada Estado tinha um voto, e clero e nobreza sempre venceriam por 2 a 1. O Terceiro Estado, que tinha o dobro de deputados dos outros dois somados, exigia voto **por cabeça** (individual). Recusado, deu o passo decisivo: em **17 de junho de 1789**, autoproclamou-se **Assembleia Nacional**, isto é, representante da nação inteira, e não de uma ordem. Trancados fora de sua sala em 20 de junho, os deputados reuniram-se numa quadra de jogo de péla e fizeram o **Juramento do Jogo da Péla**: não se separariam antes de dar uma **Constituição** à França. A soberania acabava de mudar de dono.
+
+O rei concentrou tropas em Paris e demitiu o popular ministro Necker. A cidade reagiu. Em **14 de julho de 1789**, uma multidão em busca de armas e pólvora tomou a **Bastilha**, fortaleza-prisão que simbolizava o arbítrio real (havia apenas sete presos dentro). O episódio, hoje feriado nacional francês, teve efeito imediato: mostrou que o **povo de Paris** era um ator político e que o rei não controlava mais a força. No campo, a notícia acendeu o **Grande Medo**: camponeses, temendo uma reação armada dos nobres, invadiram castelos e queimaram os **cartórios** onde estavam registrados os direitos senhoriais.
+
+Acuada, a Assembleia agiu depressa. Na noite de **4 de agosto de 1789**, aboliu os **privilégios feudais**, o dízimo e a servidão. Em **26 de agosto**, aprovou a **Declaração dos Direitos do Homem e do Cidadão**, que abre afirmando: "Os homens nascem e permanecem **livres e iguais em direitos**"; e adiante consagra a **soberania nacional**, a **liberdade** de opinião e religião, a **igualdade perante a lei**, a presunção de inocência e a propriedade como direito "inviolável e sagrado" [@declaracaoDireitos1789]. É a certidão de nascimento dos direitos humanos modernos — e sua influência é direta sobre o artigo 5º da Constituição brasileira de 1988.
+
+Em outubro, foram as **mulheres** que forçaram o desfecho. Em **5 de outubro de 1789**, milhares de mulheres dos mercados de Paris, revoltadas com a falta e o preço do pão, marcharam a pé os vinte quilômetros até **Versalhes**, armadas com o que tinham, e obrigaram a família real a se transferir para Paris — sob o controle direto do povo. A **Marcha das Mulheres a Versalhes** é um dos episódios mais decisivos de 1789, e um lembrete de que a Revolução não foi feita apenas por advogados em tribunas.
+
+## As fases da Revolução (1789–1799) {#sec-fases-revolucao}
+
+### Assembleia Constituinte e Monarquia Constitucional (1789–1792)
+
+A Assembleia, dominada pela burguesia moderada, reorganizou a França: dividiu o território em **departamentos**, aboliu as corporações de ofício, unificou pesos e medidas (nascia o **sistema métrico**), confiscou os bens da Igreja para lastrear um novo papel-moeda (os *assignats*) e submeteu o clero ao Estado pela **Constituição Civil do Clero** (1790) — medida que dividiu profundamente o país e criou um clero "refratário" hostil à Revolução.
+
+A **Constituição de 1791** instaurou a **monarquia constitucional**: o rei mantinha o Executivo e um veto suspensivo, e uma Assembleia Legislativa eleita fazia as leis. Mas o sufrágio era **censitário**: a Constituição distinguia **cidadãos ativos** (homens acima de 25 anos que pagassem certo valor de impostos, com direito de voto) de **cidadãos passivos** (a maioria — inclusive todas as mulheres —, que tinham os direitos civis, mas não os políticos). A igualdade proclamada em agosto de 1789 já vinha, portanto, com uma trava.
+
+Foi também nesse momento que se manifestou o limite mais gritante. Em 1791, **Olympe de Gouges** publicou a *Declaração dos Direitos da Mulher e da Cidadã*, decalcando o texto oficial e substituindo "homem" por "mulher", com a frase célebre: "a mulher tem o direito de subir ao cadafalso; deve ter igualmente o de subir à tribuna". Ela subiria ao cadafalso em 1793.
+
+O rei, porém, nunca aceitou seu novo papel. Em junho de 1791, tentou fugir do país disfarçado para juntar-se aos exércitos estrangeiros e foi reconhecido e preso em **Varennes**. A **fuga para Varennes** destruiu o que restava de sua legitimidade. Em abril de 1792, a França declarou guerra à Áustria e à Prússia; as derrotas iniciais e o **Manifesto de Brunswick** — em que o comandante inimigo ameaçava destruir Paris se a família real sofresse algum dano — inflamaram a capital. Em **10 de agosto de 1792**, o povo e os *sans-culottes* invadiram o palácio das Tulherias e derrubaram a monarquia.
+
+### A Convenção Nacional e a República (1792–1795)
+
+Eleita por sufrágio praticamente universal masculino, a **Convenção Nacional** proclamou a **República** em **22 de setembro de 1792** — dia 1 do Ano I do novo calendário revolucionário. Dividia-se em três grupos, e essa divisão é essencial para as provas:
+
+- **Girondinos:** representantes da alta burguesia comercial e provinciana; moderados, federalistas, contrários à intervenção do Estado na economia e às pressões populares de Paris.
+- **Jacobinos** (ou **Montanha**, porque ocupavam os bancos mais altos): pequena e média burguesia radical, aliada aos *sans-culottes*; centralizadores, favoráveis ao controle de preços e às medidas de emergência. Suas figuras centrais: **Robespierre**, **Danton** e **Marat**.
+- **Planície** (ou "Pântano"): a maioria pragmática do centro, que oscilava entre os dois e decidia as votações.
+
+Em **21 de janeiro de 1793**, **Luís XVI** foi guilhotinado por 387 votos contra 334. A Europa monárquica formou uma coalizão contra a França; no interior, camponeses católicos e monarquistas se sublevaram na **Vendeia**; a inflação e a fome dilaceravam as cidades. Nesse cenário de guerra em duas frentes, os jacobinos expulsaram os girondinos da Convenção (junho de 1793) e assumiram o poder.
+
+Veio então o **Terror** (setembro de 1793 – julho de 1794). O **Comitê de Salvação Pública**, liderado por **Maximilien Robespierre** (1758–1794), governou por decretos: recrutamento em massa (*levée en masse*, que colocou centenas de milhares de homens em armas e salvou as fronteiras), **Lei do Máximo** (tabelamento de preços de alimentos e salários, atendendo aos *sans-culottes*), Tribunal Revolucionário e a **Lei dos Suspeitos**, que permitia prender qualquer pessoa por indício de "incivismo". Entre 16 e 17 mil pessoas foram executadas por sentença judicial, e muitas dezenas de milhares morreram em prisões e na repressão à Vendeia. A guilhotina não poupou ninguém: caíram a rainha Maria Antonieta, os girondinos, Olympe de Gouges e, depois, os próprios revolucionários — os "indulgentes" de **Danton** e os radicais de Hébert. Foi também a fase mais **social** da Revolução: a Convenção jacobina aboliu sem indenização os últimos direitos feudais, decretou a instrução primária gratuita e obrigatória, criou a assistência pública e — decisivo — **aboliu a escravidão em todas as colônias francesas** em fevereiro de 1794.
+
+Isolado depois de eliminar aliados à direita e à esquerda, Robespierre foi derrubado por seus próprios pares na Convenção em **9 de Termidor do Ano II** (**27 de julho de 1794**) e guilhotinado no dia seguinte.
+
+### O Diretório (1795–1799)
+
+A **Convenção Termidoriana** desmontou a legislação jacobina: revogou a Lei do Máximo, fechou o Clube dos Jacobinos e promoveu um "Terror branco" contra os revolucionários. A Constituição do Ano III (1795) restabeleceu o **voto censitário** e criou o **Diretório**, um Executivo colegiado de cinco membros com duas câmaras legislativas. Foi um regime da grande burguesia, apertado entre dois inimigos: a **direita monarquista**, que queria restaurar os Bourbon, e a **esquerda popular** — em 1796, **Graco Babeuf** organizou a **Conspiração dos Iguais**, que pregava a abolição da propriedade privada e a igualdade real de bens, e foi executado; muitos o consideram um precursor do comunismo.
+
+Sem base social e ameaçado dos dois lados, o Diretório apoiou-se cada vez mais no **exército** — e um general vinha se tornando célebre pelas campanhas na Itália e no Egito. Em **9 de novembro de 1799** (**18 de Brumário do Ano VIII**), **Napoleão Bonaparte** dissolveu as assembleias com apoio militar e instaurou o Consulado. A Revolução, no sentido de disputa aberta pelo poder, terminava ali — mas suas conquistas seriam levadas pela Europa afora na ponta das baionetas (@sec-era-napoleonica).
+
+::: {#fig-linha-do-tempo-revolucao-francesa}
+
+```{.tikz}
+%%| filename: fig-linha-do-tempo-revolucao-francesa
+%%| alt: Linha do tempo da Revolução Francesa de 1789 a 1799, com as fases da monarquia constitucional, Convenção e Diretório.
+\begin{tikzpicture}[>=stealth]
+  \draw[eixo] (0,0) -- (14.0,0);
+  \node[eixo, gray] at (14.0,-0.55) {\scriptsize tempo};
+
+  \fill[manualblue!16] (0.5,-0.13) rectangle (5.0,0.13);
+  \node[text=manualblue] at (2.75,-0.78) {\scriptsize \textbf{monarquia constitucional}};
+  \fill[manualred!18] (5.0,-0.13) rectangle (9.8,0.13);
+  \node[text=manualred] at (7.4,-0.78) {\scriptsize \textbf{Convenção / República}};
+  \fill[manualgreen!18] (9.8,-0.13) rectangle (13.3,0.13);
+  \node[text=manualgreen] at (11.55,-0.78) {\scriptsize \textbf{Diretório}};
+
+  \node[ponto] at (0.5,0) {};
+  \node[below] at (0.5,-0.22) {\scriptsize 1789};
+  \node[above, align=center, text=manualblue] at (0.9,0.2) {\scriptsize Estados Gerais · \textbf{Bastilha}\\\scriptsize \textbf{Declaração de Direitos}};
+
+  \node[ponto] at (3.3,0) {};
+  \node[below] at (3.3,-0.22) {\scriptsize 1791};
+  \node[above, align=center, text=manualblue] at (3.4,1.05) {\scriptsize Constituição;\\\scriptsize fuga a Varennes};
+
+  \node[ponto] at (5.0,0) {};
+  \node[below] at (5.0,-0.22) {\scriptsize 1792};
+  \node[above, align=center, text=manualred] at (5.3,0.2) {\scriptsize queda da monarquia;\\\scriptsize \textbf{República}};
+
+  \node[ponto] at (6.7,0) {};
+  \node[below] at (6.7,-0.22) {\scriptsize 1793};
+  \node[above, align=center, text=manualred] at (7.0,1.05) {\scriptsize execução de Luís XVI;\\\scriptsize início do \textbf{Terror}};
+
+  \node[ponto] at (8.6,0) {};
+  \node[below] at (8.6,-0.22) {\scriptsize 1794};
+  \node[above, align=center, text=manualred] at (8.9,0.2) {\scriptsize \textbf{9 Termidor}\\\scriptsize (queda de Robespierre)};
+
+  \node[ponto] at (9.8,0) {};
+  \node[below] at (9.8,-0.22) {\scriptsize 1795};
+  \node[above, align=center, text=manualgreen] at (10.2,1.05) {\scriptsize Constituição do Ano III\\\scriptsize (voto censitário)};
+
+  \node[ponto] at (11.5,0) {};
+  \node[below] at (11.5,-0.22) {\scriptsize 1796};
+  \node[above, align=center, text=manualgreen] at (11.5,0.2) {\scriptsize Conspiração\\\scriptsize dos Iguais};
+
+  \node[ponto] at (13.3,0) {};
+  \node[below] at (13.3,-0.22) {\scriptsize 1799};
+  \node[above, align=center] at (13.2,1.05) {\scriptsize \textbf{18 de Brumário}\\\scriptsize (Napoleão)};
+\end{tikzpicture}
+```
+
+As três fases da Revolução Francesa. Note o movimento: radicalização crescente até o Terror (1793–94), depois recuo conservador (Termidor, Diretório) e desfecho militar.
+:::
+
+::: {.callout-warning title="Controvérsia: como avaliar o Terror?"}
+O Terror é o ponto em que os historiadores mais divergem — e onde o risco de **anacronismo** é maior. Três posições, resumidas:
+
+- **Explicação pelas circunstâncias** (Mathiez, Soboul e boa parte da historiografia clássica): o Terror foi uma resposta **defensiva** e excepcional a uma situação-limite — invasão estrangeira por várias frentes, guerra civil na Vendeia, conspirações internas, fome e hiperinflação. Sem as medidas de emergência, a República teria sucumbido; e, de fato, foi sob os jacobinos que as fronteiras foram salvas.
+- **Explicação pela ideologia** (Furet e os revisionistas): o Terror não foi um desvio imposto pelas circunstâncias, mas estava **inscrito na lógica** do discurso revolucionário desde 1789 — na ideia rousseauniana de uma **vontade geral** única e indivisível, que transforma qualquer divergência em traição e dispensa a representação de interesses distintos. Nessa leitura, 1793 já estava contido em 1789.
+- **Explicação pela dinâmica política**: o Terror teria resultado menos de um plano do que da **escalada** entre grupos que, tendo derrubado a lei, precisavam eliminar-se mutuamente para sobreviver — um mecanismo observável em outras revoluções.
+
+Ao escrever sobre o tema, cuide de duas armadilhas simétricas: **justificar** as execuções pela grandeza dos fins ("não se faz omelete sem quebrar ovos") e **julgar** o século XVIII com o vocabulário do século XX ("totalitarismo"), como se as categorias fossem intercambiáveis. Descrever o mecanismo e explicitar as posições em disputa é mais honesto — e rende mais pontos — do que decretar um veredicto.
+:::
+
+## A onda atlântica: Haiti e Brasil {#sec-onda-atlantica}
+
+As ideias de 1789 atravessaram o oceano — e, do outro lado, foram lidas de maneiras que os revolucionários franceses não haviam previsto.
+
+O caso mais espetacular é o de **São Domingos**, a colônia francesa mais rica do mundo, produtora de metade do açúcar e do café consumidos na Europa com o trabalho de meio milhão de escravizados. Em agosto de **1791**, uma insurreição de escravizados irrompeu na região norte da ilha. Sob a liderança de **Toussaint Louverture** — ele próprio um ex-escravizado — os rebeldes derrotaram sucessivamente as forças coloniais, os espanhóis e os ingleses, e obrigaram a Convenção a **abolir a escravidão** em todas as colônias francesas em **1794**. Quando **Napoleão** tentou restabelecê-la, em 1802, a resistência prosseguiu sob **Jean-Jacques Dessalines** e derrotou o corpo expedicionário francês. Em **1º de janeiro de 1804** proclamou-se a independência do **Haiti**: a segunda nação independente das Américas, a primeira república negra do mundo e o **único caso na história de uma revolta de escravizados que fundou um Estado**. A França só reconheceria o país em 1825, cobrando uma "indenização" aos antigos senhores que endividou o Haiti por mais de um século — uma das raízes de sua pobreza atual.
+
+No **Brasil**, o efeito foi duplo e revelador. Entre os grupos populares, as ideias circularam: a **Conjuração Baiana** ou **Revolta dos Alfaiates** (1798), tratada no @sec-crise-colonial-inconfidencias, reuniu alfaiates, soldados, artesãos e escravizados — homens em sua maioria **negros e pardos, pobres** — que afixaram cartazes em Salvador pedindo república, igualdade racial, fim da escravidão e abertura dos portos, invocando explicitamente a França. Entre as elites, ao contrário, prevaleceu o **medo**: a notícia do Haiti gerou o que se chamou de "**haitianismo**" — o pavor de que a maioria escravizada brasileira repetisse o exemplo. Esse temor ajuda a explicar por que a Independência do Brasil, em 1822, seria conduzida **de cima**, por um príncipe português, e por que preservaria intactas a escravidão e a grande propriedade (@sec-independencia). Guarde a lição: a mesma revolução podia significar **esperança** para uns e **terror** para outros, dependendo de que lado da senzala se estivesse.
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+Nenhum evento moderno gerou tanta literatura. Em 1989, no bicentenário, um historiador brincou que já havia mais livros sobre a Revolução Francesa do que dias decorridos desde 1789. As grandes linhas do debate são estas:
+
+**O precursor: Tocqueville e a tese da continuidade.** Já em 1856, **Alexis de Tocqueville** (1805–1859) propôs uma tese perturbadora em *O Antigo Regime e a Revolução*: a Revolução **não rompeu** com o Antigo Regime tanto quanto se imaginava — ela **completou** o que a monarquia absolutista já vinha fazendo, isto é, a **centralização administrativa** e a destruição dos poderes intermediários. E acrescentou um paradoxo célebre: as revoluções não estouram quando a opressão é máxima, mas quando a situação **começa a melhorar** e as expectativas crescem mais rápido que as conquistas [@tocqueville1997]. Tocqueville é o antepassado de toda a corrente revisionista.
+
+**A interpretação clássica (ou "social"): uma revolução burguesa.** Durante boa parte do século XX, a leitura dominante — sustentada por **Georges Lefebvre** (1874–1959) e **Albert Soboul** (1914–1982), herdeiros de Jaurès e Mathiez — foi a de que 1789 fora a **revolução burguesa** por excelência: a burguesia, ascendente economicamente e bloqueada politicamente pelo sistema de privilégios, derrubou a ordem feudal-aristocrática e instaurou a sociedade capitalista. Sua grande contribuição, porém, foi ir além da burguesia: Lefebvre estudou os **camponeses** e mostrou que houve uma revolução camponesa **autônoma**, com objetivos próprios (a terra, o fim dos direitos senhoriais), sem a qual o feudalismo não teria sido abolido [@lefebvre1989]; Soboul dedicou sua obra maior aos ***sans-culottes*** parisienses, reconstituindo suas assembleias de seção, suas reivindicações (pão barato, democracia direta) e sua pressão sobre a Convenção [@soboul1989]. A Revolução, nessa leitura, é uma **convergência de várias revoluções** — aristocrática, burguesa, popular e camponesa.
+
+**A revisão (François Furet): a Revolução como política e discurso.** A partir dos anos 1960–70, e sobretudo com *Pensando a Revolução Francesa* (1978), **François Furet** (1927–1997) atacou frontalmente a interpretação clássica, que chamou de "**vulgata jacobino-marxista**". Seus argumentos: a nobreza francesa do século XVIII estava longe de ser feudal — muitos nobres investiam em comércio e manufatura, e boa parte da burguesia comprava terras e títulos para se **aristocratizar**; logo, não havia duas classes com projetos econômicos antagônicos. Para Furet, o motor da Revolução não é social, mas **político e ideológico**: uma nova forma de discurso, centrada na soberania popular indivisível, que passou a definir a legitimidade e que, por sua própria lógica, produziu a **espiral do Terror**. Sua frase-manifesto — "a Revolução Francesa acabou" — significava que estava na hora de pará-la de tratar como bandeira política do presente e passar a estudá-la friamente [@furet1989].
+
+**A virada cultural (Lynn Hunt).** Uma terceira via floresceu nos anos 1980–90. **Lynn Hunt** (n. 1945) deslocou o olhar para as **práticas culturais** da política revolucionária: os símbolos (o barrete frígio, a árvore da liberdade, as cores da bandeira), as festas cívicas, o vocabulário, as formas de tratamento ("cidadão"), as imagens e a caricatura. Em *A invenção dos direitos humanos*, foi mais longe: propôs que a própria capacidade de conceber direitos universais dependeu de uma mudança na **sensibilidade** — a difusão do romance epistolar e de relatos que ensinaram leitores a se **identificar** com o sofrimento de pessoas de outra classe, outro sexo, outra cor. Os direitos humanos, nessa leitura, não foram apenas deduzidos por filósofos: foram **sentidos** antes de serem declarados [@hunt2009].
+
+**Por que divergem?** Porque perguntam coisas distintas — *quais classes se enfrentaram?* (Lefebvre, Soboul), *que discurso tornou pensável essa política?* (Furet), *como as pessoas passaram a sentir e simbolizar a igualdade?* (Hunt) — e porque leem fontes distintas: registros fiscais e atas de aldeia; panfletos e debates parlamentares; gravuras, festas e romances. E porque a Revolução Francesa nunca foi só um objeto acadêmico: durante dois séculos, tomar posição sobre 1793 foi uma forma de tomar posição sobre a política do próprio tempo. Não é acidente que a interpretação social tenha florescido na França das frentes populares e do Partido Comunista forte, nem que a revisão de Furet tenha se imposto justamente quando o modelo soviético desmoronava. Perceber esse enraizamento não invalida nenhuma leitura — é a maneira historiadora de lê-las.
+
+## Resumo do capítulo {#sec-resumo}
+
+- O **Antigo Regime** francês era uma **sociedade estamental**: **clero** (1º Estado, <1%) e **nobreza** (2º Estado, ~1%) eram **isentos de impostos** e monopolizavam cargos; o **Terceiro Estado** (~97%: burguesia, *sans-culottes* e ~80% de camponeses) pagava *taille*, gabela, dízimo e **direitos senhoriais**. Sieyès: "O que é o Terceiro Estado? Tudo…".
+- **Causas:** crise **financeira** (guerras, sobretudo o apoio à independência americana); **revolta aristocrática** contra a taxação dos privilegiados, que exigiu a convocação dos **Estados Gerais** (sem reunião desde 1614); crise **alimentar** (más colheitas de 1788, alta do pão); crise de **legitimidade** (Iluminismo e exemplo americano).
+- **1789:** Estados Gerais (5 de maio) → disputa sobre o voto **por ordem × por cabeça** → **Assembleia Nacional** (17 de junho) e **Juramento do Jogo da Péla** (20 de junho) → tomada da **Bastilha** (14 de julho) → **Grande Medo** no campo → abolição dos **privilégios feudais** (4 de agosto) → **Declaração dos Direitos do Homem e do Cidadão** (26 de agosto) → **Marcha das Mulheres a Versalhes** (5 de outubro).
+- **Monarquia Constitucional (1789–1792):** departamentos, sistema métrico, **Constituição Civil do Clero** (1790), **Constituição de 1791** com **voto censitário** (cidadãos *ativos* × *passivos*). **Olympe de Gouges** publica a *Declaração dos Direitos da Mulher e da Cidadã* (1791). **Fuga para Varennes** (1791) e guerra (1792) levam à queda da monarquia em **10 de agosto de 1792**.
+- **Convenção (1792–1795):** **República** proclamada em 22 de setembro de 1792. Divisão entre **girondinos** (alta burguesia, moderados), **jacobinos/Montanha** (Robespierre, Danton, Marat; aliados aos *sans-culottes*) e **Planície**. Execução de **Luís XVI** (21 de janeiro de 1793). **Terror** (1793–94): Comitê de Salvação Pública, *levée en masse*, **Lei do Máximo**, Lei dos Suspeitos, ~17 mil execuções; mas também instrução gratuita, assistência pública e **abolição da escravidão nas colônias** (1794). Queda de Robespierre em **9 de Termidor** (27 de julho de 1794).
+- **Diretório (1795–1799):** governo da grande burguesia, volta do voto censitário, pressionado por monarquistas e pela **Conspiração dos Iguais** de **Babeuf** (1796). Termina no **18 de Brumário** (9 de novembro de 1799), golpe de **Napoleão**.
+- **Repercussões atlânticas:** a **Revolução Haitiana** (1791–1804), sob **Toussaint Louverture** e **Dessalines**, é a única revolta de escravizados que fundou um Estado; no **Brasil**, a **Conjuração Baiana** (1798) invocou a França, enquanto as elites foram tomadas pelo medo do "**haitianismo**" — o que ajuda a explicar a Independência conservadora de 1822.
+- **Historiografia:** **Tocqueville** (continuidade com o Antigo Regime; centralização) → interpretação **clássica/social** (**Lefebvre**: revolução camponesa autônoma; **Soboul**: os *sans-culottes*) → **revisionismo** de **Furet** (a Revolução como fenômeno **político-discursivo**; o Terror inscrito na lógica de 1789) → **história cultural** de **Lynn Hunt** (símbolos, práticas e a "invenção" da sensibilidade dos direitos humanos).
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Domine: (1) a **sociedade estamental** e as **quatro crises**; (2) a sequência de **1789** (maio → julho → agosto → outubro); (3) as **três fases** e o que caracteriza cada uma; (4) girondinos × jacobinos × Planície; (5) o **Terror** e suas interpretações; (6) os **limites** da Declaração (mulheres, escravizados, voto censitário); (7) **Haiti** e **Conjuração Baiana**; (8) Lefebvre/Soboul × Furet × Hunt.
+:::
+
+**1.** Explique a estrutura da sociedade estamental francesa e por que a questão fiscal a tornou insustentável.
+
+::: {.callout-tip collapse="true" title="Solução"}
+A sociedade do Antigo Regime dividia-se em três **ordens** com **estatutos jurídicos diferentes**: o **clero** (1º Estado, menos de 1% da população, dividido entre alto clero nobre e rico e baixo clero pobre), a **nobreza** (2º Estado, cerca de 1%, de espada, de toga e de corte) e o **Terceiro Estado** (cerca de 97%: burguesia, *sans-culottes* urbanos e cerca de 80% de camponeses). Os dois primeiros eram **privilegiados** — isentos dos principais impostos e detentores exclusivos dos altos cargos —, enquanto o Terceiro pagava **tudo**: *taille*, gabela, dízimo e os **direitos senhoriais** (corveia, banalidades).
+
+Isso se tornou insustentável porque, após décadas de guerras — sobretudo o apoio à **independência dos Estados Unidos** —, o Estado estava **falido**, e a única base tributária ainda explorável já estava esgotada. Ministros como Turgot, Necker e Calonne concluíram que era preciso **taxar os privilegiados**; nobreza e clero recusaram e, pelos *parlements*, bloquearam toda reforma, exigindo a convocação dos **Estados Gerais**. Ou seja: o sistema só poderia ser salvo destruindo o privilégio que o definia — e os privilegiados preferiram convocar a assembleia que acabaria por destruí-los. Nesse sentido, a Revolução começa como uma **revolta aristocrática**.
+:::
+
+**2.** Por que a disputa sobre o voto "por ordem" ou "por cabeça" foi decisiva em 1789?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque definia quem mandaria. No voto **por ordem** (tradição desde 1614), cada Estado tinha **um voto**: clero e nobreza sempre venceriam o Terceiro Estado por **2 a 1**, de modo que os privilegiados jamais poderiam ser taxados contra sua vontade. No voto **por cabeça** (individual), o Terceiro Estado — que obtivera o dobro de deputados dos outros dois somados, e que contaria ainda com o apoio de párocos do baixo clero e de nobres liberais — teria **maioria**.
+
+A recusa do rei em aceitar o voto por cabeça levou o Terceiro Estado ao gesto fundador: em **17 de junho de 1789**, declarar-se **Assembleia Nacional**, isto é, representante da **nação inteira**, e não de uma ordem. Foi uma revolução conceitual — a soberania deixava de residir no rei e passava à **nação** —, confirmada em **20 de junho** pelo **Juramento do Jogo da Péla**, quando os deputados juraram não se separar antes de dar uma **Constituição** à França. Uma disputa de procedimento tornou-se, assim, a transferência da soberania.
+:::
+
+**3.** Analise a Declaração dos Direitos do Homem e do Cidadão (1789): o que ela proclama e quais são seus limites?
+
+::: {.callout-tip collapse="true" title="Solução"}
+**O que proclama:** que "os homens nascem e permanecem **livres e iguais em direitos**"; que a soberania reside essencialmente na **nação**; a **igualdade perante a lei** e o acesso aos cargos por capacidade, não por nascimento; a **liberdade** de opinião, inclusive religiosa, e de expressão; a legalidade estrita das penas e a **presunção de inocência**; e a **propriedade** como direito "inviolável e sagrado" [@declaracaoDireitos1789]. É o documento fundador dos direitos humanos modernos, e sua influência é direta sobre o artigo 5º da Constituição brasileira de 1988.
+
+**Limites:** (i) a **propriedade** entre os direitos naturais revela o caráter **burguês** do texto e serviria para bloquear demandas de redistribuição; (ii) a Constituição de **1791** traduziu a igualdade proclamada num sufrágio **censitário**, distinguindo **cidadãos ativos** (que pagavam certo imposto e votavam) de **cidadãos passivos**; (iii) as **mulheres** foram excluídas dos direitos políticos — o que levou **Olympe de Gouges** a publicar, em 1791, a *Declaração dos Direitos da Mulher e da Cidadã*, e a ser guilhotinada em 1793; (iv) a **escravidão nas colônias** não foi abolida em 1789, mas apenas em **1794**, sob pressão da revolta de São Domingos — e Napoleão a restabeleceria em 1802.
+
+Conclusão equilibrada: o texto é **universalista na formulação** e **restrito na aplicação** — e foi justamente essa distância entre o proclamado e o praticado que forneceu aos excluídos o argumento para cobrar sua inclusão.
+:::
+
+**4.** Diferencie **girondinos**, **jacobinos** e **Planície** na Convenção Nacional.
+
+::: {.callout-tip collapse="true" title="Solução"}
+- **Girondinos:** ligados à **alta burguesia** comercial e às províncias (o nome vem do departamento da Gironda, de Bordeaux). Eram **moderados**, defendiam maior autonomia das províncias (federalismo), o **liberalismo econômico** (contra o tabelamento de preços) e desconfiavam da pressão popular de Paris. Foram expulsos da Convenção em junho de 1793 e muitos, executados.
+- **Jacobinos** (ou **Montanha**, por ocuparem os bancos mais altos do plenário): pequena e média burguesia **radical**, aliada aos ***sans-culottes***. Defendiam a **centralização**, medidas de emergência, intervenção do Estado na economia (**Lei do Máximo**) e ampliação dos direitos políticos. Lideranças: **Robespierre**, **Danton**, **Marat**. Governaram durante o **Terror** (1793–94).
+- **Planície** (ou "Pântano"): a maioria pragmática do **centro**, sem programa próprio definido, que oscilava entre os dois blocos e, na prática, **decidia as votações** — apoiou os jacobinos no momento de perigo e depois participou de sua derrubada no **9 de Termidor**.
+
+Mnemônico: **Gironda = alta burguesia e moderação**; **Montanha = radicalismo e povo de Paris**; **Planície = fiel da balança**.
+:::
+
+**5.** O que foi o **Terror**? Apresente ao menos duas formas de interpretá-lo.
+
+::: {.callout-tip collapse="true" title="Solução"}
+O **Terror** (setembro de 1793 – julho de 1794) foi o período em que o **Comitê de Salvação Pública**, liderado por **Robespierre**, governou a França por decretos de emergência: **Tribunal Revolucionário** e **Lei dos Suspeitos** (prisão por indício de "incivismo"), recrutamento em massa (*levée en masse*), **Lei do Máximo** (tabelamento de preços e salários) e centralização total do poder. Foram cerca de **16 a 17 mil execuções** judiciais, além de dezenas de milhares de mortes em prisões e na repressão à **Vendeia**. Simultaneamente, foi a fase de medidas sociais mais avançadas: abolição sem indenização dos últimos direitos feudais, instrução primária gratuita e obrigatória, assistência pública e **abolição da escravidão nas colônias** (1794).
+
+**Interpretações:**
+1. **Pelas circunstâncias** (Mathiez, Soboul): foi resposta **defensiva** a uma emergência real — invasão por várias fronteiras, guerra civil interna, conspirações, fome e hiperinflação. Sem ele, a República teria sucumbido; e foi sob os jacobinos que as fronteiras se salvaram.
+2. **Pela ideologia** (**Furet**): o Terror não foi desvio, mas consequência da **lógica do discurso revolucionário** desde 1789 — a ideia de uma **vontade geral** única e indivisível converte a divergência em traição e dispensa a representação de interesses distintos [@furet1989].
+3. **Pela dinâmica política**: escalada entre facções que, tendo abolido a legalidade anterior, precisavam eliminar-se para sobreviver.
+
+Ao responder, evite os dois extremos: **justificar** as execuções pelos fins ou aplicar ao século XVIII categorias do século XX (como "totalitarismo") sem mediação.
+:::
+
+**6.** Explique a importância da **Revolução Haitiana** e sua relação com a Revolução Francesa.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**São Domingos** era a colônia mais rentável do mundo — produzia cerca de metade do açúcar e do café consumidos na Europa — à custa do trabalho de **meio milhão de escravizados**. Quando a Revolução Francesa proclamou que "os homens nascem livres e iguais", os escravizados da colônia **cobraram a promessa**: em agosto de **1791** irrompeu a insurreição. Sob a liderança de **Toussaint Louverture**, ex-escravizado e notável estrategista, os rebeldes derrotaram sucessivamente forças coloniais, espanholas e inglesas e forçaram a Convenção a **abolir a escravidão em todas as colônias francesas** em **1794**. Quando **Napoleão** tentou restabelecê-la em 1802, a resistência prosseguiu sob **Dessalines** e derrotou o corpo expedicionário francês; em **1º de janeiro de 1804** proclamou-se a independência do **Haiti**.
+
+Sua importância é tripla: foi a **segunda nação independente das Américas**, a **primeira república negra** do mundo e o **único caso na história de uma revolta de escravizados que fundou um Estado**. Além disso, revela um limite crucial da Revolução Francesa: o universalismo de 1789 **não incluía espontaneamente** os escravizados das colônias — a abolição só veio quando eles a impuseram pelas armas. Por fim, o Haiti foi punido: a França só o reconheceu em **1825**, mediante uma pesada "indenização" aos antigos senhores que endividou o país por mais de um século.
+:::
+
+**7.** (Estilo ENEM) Leia os textos.
+
+> **Texto I** — "Os homens nascem e permanecem livres e iguais em direitos. As distinções sociais só podem fundamentar-se na utilidade comum." (*Declaração dos Direitos do Homem e do Cidadão*, 1789) — @declaracaoDireitos1789
+
+> **Texto II** — "A mulher nasce livre e permanece igual ao homem em direitos. […] A mulher tem o direito de subir ao cadafalso; deve ter igualmente o direito de subir à tribuna." (Olympe de Gouges, *Declaração dos Direitos da Mulher e da Cidadã*, 1791)
+
+A comparação entre os dois textos evidencia que
+
+**(a)** a Revolução Francesa concedeu direitos políticos plenos às mulheres já em 1789.
+**(b)** o universalismo proclamado em 1789 era, na prática, restrito, e foi cobrado pelos próprios grupos dele excluídos.
+**(c)** Olympe de Gouges rejeitava os princípios iluministas em favor da ordem do Antigo Regime.
+**(d)** as declarações de direitos do século XVIII não tiveram influência sobre constituições posteriores.
+**(e)** a exclusão política das mulheres decorria de determinação expressa da Declaração de 1789.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (b).** O Texto I afirma um princípio **universal** ("os homens nascem e permanecem livres e iguais"), mas a prática revolucionária excluiu as mulheres dos direitos políticos — a Constituição de 1791 as classificou como **cidadãs passivas**, sem voto. O Texto II mostra Olympe de Gouges usando **as mesmas palavras** do documento oficial, apenas trocando "homem" por "mulher", para expor a contradição e **cobrar a promessa**. É o mecanismo clássico: o princípio universal proclamado torna-se a arma dos excluídos.
+
+As demais: **(a)** é falsa (as mulheres não obtiveram direitos políticos; na França, o voto feminino só viria em 1944); **(c)** inverte a posição de Gouges, que era **iluminista** e usava os princípios da Declaração, não os rejeitava; **(d)** é falsa — a Declaração de 1789 influenciou diretamente constituições posteriores, inclusive o artigo 5º da Constituição brasileira de 1988; **(e)** é imprecisa: a Declaração **não** excluía as mulheres em seu texto — a exclusão veio da **interpretação e da legislação** posteriores, e é exatamente essa distância entre o texto universal e a prática restritiva que Gouges denuncia.
+:::
+
+**8.** (Estilo vestibular — dissertativa) Compare a interpretação "clássica" (Lefebvre e Soboul) e a interpretação revisionista (Furet) da Revolução Francesa, explicando por que divergem.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Interpretação clássica ou social (Lefebvre, Soboul):** a Revolução foi a **revolução burguesa** por excelência — a burguesia, economicamente ascendente mas politicamente bloqueada pelo sistema de privilégios, derrubou a ordem feudal-aristocrática e abriu caminho à sociedade capitalista. Sua contribuição mais original, porém, foi mostrar que **não houve apenas uma** revolução: **Lefebvre** demonstrou a existência de uma **revolução camponesa autônoma**, com objetivos próprios (terra, fim dos direitos senhoriais), sem a qual o regime feudal não teria sido abolido em 4 de agosto [@lefebvre1989]; **Soboul** reconstituiu o movimento dos ***sans-culottes*** parisienses, suas assembleias de seção e suas reivindicações (pão barato, democracia direta), mostrando que foram eles a pressionar a Convenção nos momentos decisivos [@soboul1989].
+
+**Interpretação revisionista (Furet):** ataca o que chama de "**vulgata jacobino-marxista**". Argumenta que a nobreza francesa do século XVIII **não era feudal** — investia em comércio e manufatura — e que boa parte da burguesia buscava justamente **aristocratizar-se** comprando terras e títulos; logo, não havia duas classes com projetos econômicos antagônicos. Para Furet, o motor da Revolução foi **político e ideológico**: uma nova forma de discurso, centrada na **soberania popular indivisível** de inspiração rousseauniana, que redefiniu a legitimidade e, por sua própria lógica, conduziu à espiral do **Terror** [@furet1989].
+
+**Por que divergem:** (i) fazem **perguntas diferentes** — "quais classes se enfrentaram?" contra "qual discurso tornou pensável essa política?"; (ii) usam **fontes diferentes** — registros fiscais, atas de aldeia e arquivos de seção, de um lado; panfletos e debates parlamentares, de outro; (iii) escrevem em **contextos políticos diferentes** — a interpretação social floresceu na França de forte tradição de esquerda, em que tomar posição sobre 1793 era tomar posição sobre o presente, enquanto o revisionismo de Furet se impôs justamente quando o modelo soviético entrava em crise, e sua tese sobre o Terror dialogava com o debate sobre os regimes totalitários do século XX. Uma boa conclusão deve notar que as duas leituras iluminam **níveis distintos** do processo e que a **história cultural** de **Lynn Hunt** ofereceria depois uma terceira via, estudando símbolos, festas e a formação de uma nova sensibilidade [@hunt2009].
+:::
+
+**9.** Por que a Revolução Francesa provocou reações opostas entre as camadas populares e as elites do Brasil colonial?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque cada grupo leu nela aquilo que atendia à sua situação.
+
+Entre as **camadas populares**, as ideias de igualdade e república alimentaram a esperança. A **Conjuração Baiana** ou **Revolta dos Alfaiates** (1798) reuniu alfaiates, soldados, artesãos e escravizados — em sua maioria **negros e pardos, pobres** — que afixaram cartazes em Salvador pedindo **república**, **igualdade racial**, **fim da escravidão** e abertura dos portos, invocando explicitamente o exemplo francês. É o movimento colonial brasileiro de conteúdo social mais avançado, justamente porque seus participantes não tinham propriedade a preservar.
+
+Entre as **elites** — senhores de engenho, comerciantes, grandes proprietários —, prevaleceu o **medo**. Numa colônia em que a população escravizada e livre de cor era **majoritária**, a notícia da **Revolução Haitiana** (1791–1804) provocou o pavor que ficou conhecido como "**haitianismo**": o temor de uma revolta escrava vitoriosa que destruísse a ordem social. Muitos desses proprietários eram favoráveis ao fim do monopólio comercial português, mas de modo algum à igualdade racial ou à abolição.
+
+**Consequência:** essa divisão ajuda a explicar por que a **Independência do Brasil** (1822) foi conduzida "**de cima**", por um príncipe português, negociada entre elites e **sem tocar** na escravidão nem na grande propriedade (@sec-independencia). O exemplo francês e o haitiano funcionaram, para os de baixo, como promessa — e, para os de cima, como advertência.
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- LEFEBVRE, Georges. *O surgimento da Revolução Francesa* [@lefebvre1989]. A análise clássica das "várias revoluções" de 1789, com destaque para os camponeses.
+- SOBOUL, Albert. *A Revolução Francesa* [@soboul1989]. Síntese acessível da interpretação social; leia pensando nos *sans-culottes*.
+- FURET, François. *Pensando a Revolução Francesa* [@furet1989]. O contraponto revisionista — polêmico e obrigatório para entender o debate.
+- HUNT, Lynn. *A invenção dos direitos humanos* [@hunt2009]. Brilhante e muito legível; mostra como a sensibilidade que torna possíveis os direitos humanos foi historicamente construída.
+- HOBSBAWM, Eric. *A era das revoluções: 1789–1848* [@hobsbawmRevolucoes2020]. A "dupla revolução" — francesa e industrial — como matriz do mundo contemporâneo.
+
+**Fontes primárias**
+
+- *Declaração dos Direitos do Homem e do Cidadão* (1789) [@declaracaoDireitos1789] e a *Declaração dos Direitos da Mulher e da Cidadã*, de **Olympe de Gouges** (1791). Leia as duas em paralelo — é o melhor exercício possível sobre os limites do universalismo.
+- TOCQUEVILLE, Alexis de. *O Antigo Regime e a Revolução* [@tocqueville1997]. Escrito em 1856, ainda é uma das análises mais penetrantes já feitas.
+- Os ***cahiers de doléances*** (1789), disponíveis em antologias: a chance rara de ler as queixas de camponeses e artesãos em suas próprias palavras.
+
+**Filmes e documentários**
+
+- *Danton, o processo da revolução* (1983), dir. Andrzej Wajda. O confronto entre Danton e Robespierre; um dos melhores filmes já feitos sobre o dilema entre revolução e terror.
+- *La Marseillaise* (1938), dir. Jean Renoir. A Revolução vista de baixo, pelos voluntários de Marselha — produzido no clima da Frente Popular, é ele próprio um documento histórico.
+- *Um Homem, Um Herói* / *Toussaint Louverture* (2012, minissérie francesa). Sobre a Revolução Haitiana, tema quase sempre ausente dos filmes europeus.

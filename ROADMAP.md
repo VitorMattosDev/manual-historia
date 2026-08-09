@@ -128,7 +128,7 @@
 | 2 | A Revolução Inglesa do século XVII | `capitulos/vol09/cap02-revolucao-inglesa.qmd` | ✅ |
 | 3 | A Revolução Industrial | `capitulos/vol09/cap03-revolucao-industrial.qmd` | ✅ |
 | 4 | A Independência dos Estados Unidos | `capitulos/vol09/cap04-independencia-eua.qmd` | ✅ |
-| 5 | A Revolução Francesa | `capitulos/vol09/cap05-revolucao-francesa.qmd` | ⬜ |
+| 5 | A Revolução Francesa | `capitulos/vol09/cap05-revolucao-francesa.qmd` | ✅ |
 | 6 | A Era Napoleônica e o Congresso de Viena | `capitulos/vol09/cap06-era-napoleonica.qmd` | ⬜ |
 
 ---
