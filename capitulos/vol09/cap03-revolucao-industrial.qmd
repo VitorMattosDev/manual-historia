@@ -1,5 +1,292 @@
 # A Revolução Industrial {#sec-revolucao-industrial}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Em 1835, o jovem aristocrata francês **Alexis de Tocqueville** visitou **Manchester**, a cidade que se tornara o símbolo mundial da indústria têxtil. O que viu o deixou perplexo, e ele o registrou numa frase que resume um século inteiro: daquele "esgoto imundo" jorrava "o maior fluxo da indústria humana para fertilizar o mundo inteiro"; ali, "do esgoto mais nojento flui o ouro puro". Tocqueville descrevia trinta chaminés vomitando fumaça sobre um céu permanentemente escuro, crianças descalças cruzando ruas sem calçamento, rios transformados em valas — e, ao mesmo tempo, uma riqueza como a humanidade jamais produzira. Aquele contraste violento era **novo**. Durante praticamente toda a história, uma pessoa viveu, comeu e trabalhou mais ou menos como seus bisavós; a partir do fim do século XVIII, pela primeira vez, a produção e a população passaram a crescer de forma **sustentada e acelerada**, e a vida de uma geração deixou de se parecer com a da anterior. Este capítulo trata dessa ruptura — como ela aconteceu, por que começou na Inglaterra, o que custou a quem a fez com as próprias mãos e por que ainda estamos discutindo se foi um triunfo ou uma catástrofe.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- explicar por que a Revolução Industrial começou na **Inglaterra** e no **século XVIII**, articulando suas pré-condições econômicas, sociais, políticas e naturais;
+- descrever a passagem do **artesanato** e da **manufatura** ao **sistema fabril**, e o papel das inovações têxteis, da **máquina a vapor** e da siderurgia;
+- caracterizar as transformações sociais — urbanização, **proletariado**, trabalho infantil e feminino, disciplina fabril — e as **respostas dos trabalhadores** (ludismo, sindicatos, cartismo, socialismo);
+- avaliar os impactos globais do processo, inclusive sobre a **Índia** e sobre o **Brasil** do início do século XIX;
+- comparar as interpretações historiográficas sobre o "padrão de vida" e sobre as causas da "grande divergência" entre Europa e Ásia.
 :::
+
+## Por que na Inglaterra, e por que no século XVIII? {#sec-por-que-inglaterra}
+
+Chama-se **Revolução Industrial** o conjunto de transformações, iniciadas na Inglaterra por volta de **1760–1780**, que substituíram a **ferramenta** pela **máquina**, a **força humana e animal** pelas **fontes de energia inanimadas** (carvão, vapor) e a **oficina artesanal** pela **fábrica**. "Revolução" aqui não significa rapidez — o processo levou décadas —, mas **profundidade**: mudou a forma de produzir, de trabalhar, de morar e até de medir o tempo.
+
+Nenhum fator isolado explica por que ela começou onde começou. É a **convergência** de várias condições que responde à pergunta.
+
+**1. Capital acumulado.** Dois séculos de comércio marítimo, do tráfico atlântico de escravizados, da exploração colonial e da pilhagem da Índia haviam concentrado em mãos inglesas — de comerciantes, banqueiros, companhias e do próprio Estado — um volume de capital disponível para investimento sem paralelo. Bancos, seguros e a Bolsa de Londres permitiam mobilizá-lo. É um ponto que exige honestidade histórica: a riqueza que financiou as primeiras fábricas de algodão não nasceu apenas da poupança de industriosos ingleses; veio, em parte considerável, do trabalho de africanos escravizados nas Américas e do saque de outros continentes (@sec-antigo-sistema-colonial).
+
+**2. Mão de obra disponível.** Os **cercamentos** (@sec-revolucao-inglesa), acelerados no século XVIII por leis do próprio Parlamento, privatizaram terras comunais e expulsaram do campo dezenas de milhares de famílias camponesas. Sem terra e sem meios de produção próprios, essas pessoas só tinham uma coisa a vender: sua **força de trabalho**. Formava-se assim o **proletariado** — a classe dos trabalhadores livres juridicamente, mas obrigados economicamente a se empregar.
+
+**3. Revolução agrícola.** Ao mesmo tempo, a agricultura inglesa se modernizou: a **rotação de culturas** de quatro campos (o "sistema de Norfolk", que alternava trigo, nabo, cevada e trevo) eliminou o pousio, novos adubos e a semeadora de **Jethro Tull** aumentaram a produtividade, e a seleção de raças melhorou os rebanhos. Mais alimento com menos gente no campo significava duas coisas: **alimentar as cidades** em crescimento e **liberar braços** para as fábricas.
+
+**4. Carvão e ferro.** A Inglaterra tinha, e em abundância, exatamente as duas matérias-primas de que a nova indústria precisava — e frequentemente **próximas uma da outra** e perto do mar, o que barateava o transporte. Não é detalhe menor: o desmatamento europeu tornara a lenha escassa e cara, e o carvão mineral foi a saída.
+
+**5. Mercados e domínio dos mares.** O maior império colonial da época e a maior marinha mercante garantiam matérias-primas baratas (algodão do sul dos Estados Unidos e das Índias Ocidentais) e **mercados consumidores** cativos para os tecidos ingleses.
+
+**6. Instituições estáveis.** Depois de 1688 (@sec-revolucao-inglesa), a Inglaterra tinha uma **monarquia parlamentar** que garantia a segurança da propriedade privada, um sistema de **patentes** que recompensava o inventor, um Estado atento aos interesses comerciais e nenhuma barreira alfandegária interna. Enquanto isso, a França mergulhava em crises e a Alemanha e a Itália sequer estavam unificadas.
+
+::: {#fig-precondicoes-industrial}
+
+```{.tikz}
+%%| filename: fig-precondicoes-industrial
+%%| alt: Diagrama das pré-condições da Revolução Industrial na Inglaterra convergindo para o sistema fabril e suas consequências.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \node[draw, thick, rounded corners, fill=manualgreen!14, align=center, text width=3.0cm] (a) at (0,2.6) {\textbf{Capital}\\ comércio colonial,\\ tráfico, bancos};
+  \node[draw, thick, rounded corners, fill=manualgreen!14, align=center, text width=3.0cm] (b) at (0,1.1) {\textbf{Mão de obra}\\ cercamentos $\rightarrow$\\ êxodo rural};
+  \node[draw, thick, rounded corners, fill=manualgreen!14, align=center, text width=3.0cm] (c) at (0,-0.4) {\textbf{Alimento}\\ revolução agrícola\\ (rotação de culturas)};
+  \node[draw, thick, rounded corners, fill=manualgreen!14, align=center, text width=3.0cm] (d) at (0,-1.9) {\textbf{Carvão e ferro}\\ + mercados coloniais\\ + marinha};
+  \node[draw, thick, rounded corners, fill=manualgreen!14, align=center, text width=3.0cm] (e) at (0,-3.5) {\textbf{Instituições}\\ pós-1688: propriedade\\ segura, patentes};
+
+  \node[draw, very thick, rounded corners, fill=manualyellow!28, align=center, text width=2.9cm, minimum height=2.6cm] (fab) at (5.6,-0.4) {\textbf{SISTEMA FABRIL}\\[3pt] máquina + vapor\\ + divisão do trabalho\\[3pt] \textit{Inglaterra,\\ c.\ 1760--1780}};
+
+  \node[draw, thick, rounded corners, fill=manualblue!14, align=center, text width=3.0cm] (r1) at (10.4,1.4) {\textbf{Urbanização}\\ e crescimento\\ demográfico};
+  \node[draw, thick, rounded corners, fill=manualred!16, align=center, text width=3.0cm] (r2) at (10.4,-0.4) {\textbf{Proletariado}\\ jornadas longas,\\ trabalho infantil};
+  \node[draw, thick, rounded corners, fill=manualblue!14, align=center, text width=3.0cm] (r3) at (10.4,-2.2) {\textbf{Capitalismo industrial}\\ e expansão\\ imperialista};
+
+  \draw[vetor, thick] (a.east) -- (fab.north west);
+  \draw[vetor, thick] (b.east) -- (fab.west);
+  \draw[vetor, thick] (c.east) -- (fab.west);
+  \draw[vetor, thick] (d.east) -- (fab.west);
+  \draw[vetor, thick] (e.east) -- (fab.south west);
+  \draw[vetor, thick] (fab.east) -- (r1.west);
+  \draw[vetor, thick] (fab.east) -- (r2.west);
+  \draw[vetor, thick] (fab.east) -- (r3.west);
+\end{tikzpicture}
+```
+
+As pré-condições convergem para o sistema fabril — e dele derivam as grandes consequências sociais. Nenhum fator isolado bastaria: é a **combinação** que explica a Inglaterra.
+:::
+
+## Das máquinas à fábrica {#sec-maquinas-fabrica}
+
+Antes da fábrica, a produção têxtil inglesa organizava-se pelo **sistema doméstico** (*putting-out system*, ou domiciliar): um comerciante entregava a matéria-prima a famílias camponesas, que fiavam e teciam **em casa**, no próprio ritmo, com ferramentas próprias, e devolviam o produto acabado em troca de pagamento. O trabalhador ainda controlava o **tempo** e o **modo** de seu trabalho. Havia ainda a **manufatura**, oficina maior onde muitos artesãos trabalhavam sob o mesmo teto e já com **divisão de tarefas**, mas ainda com ferramentas manuais.
+
+O gargalo estava na fiação: era preciso muito mais fio do que os teares consumiam. Uma sequência de invenções, quase todas no algodão, rompeu esse gargalo e desencadeou uma reação em cadeia:
+
+- **1733 — lançadeira volante** (*flying shuttle*), de **John Kay**: dobrou a velocidade da tecelagem manual e agravou a falta de fio.
+- **1764 — *spinning jenny***, de **James Hargreaves**: permitia a uma só pessoa fiar dezenas de fios simultaneamente.
+- **1769 — *water frame***, de **Richard Arkwright**: máquina de fiar movida a **roda d'água**, grande demais para caber numa casa. Foi ela que **criou a fábrica** — a produção precisou se mudar para junto da fonte de energia.
+- **1779 — *mule***, de **Samuel Crompton**: combinava as duas anteriores e produzia fio fino e resistente.
+- **1785 — tear mecânico**, de **Edmund Cartwright**: mecanizou finalmente a tecelagem.
+
+A peça decisiva, porém, foi a **energia**. A **máquina a vapor** atmosférica de **Thomas Newcomen** (1712) servia apenas para bombear água de minas. Foi o escocês **James Watt** que, a partir de 1769, a transformou: com o condensador separado, tornou-a muito mais eficiente; e ao convertê-la, nos anos 1780, em movimento **rotativo**, tornou-a capaz de acionar **qualquer máquina, em qualquer lugar**. As fábricas deixaram de depender dos rios e migraram para junto do carvão e das cidades. Paralelamente, a siderurgia deu seu salto: **Abraham Darby** substituiu o carvão vegetal pelo **coque** na fundição do ferro (1709) e **Henry Cort** criou a **pudlagem** e a laminação (1783–84), barateando o ferro de boa qualidade — e ferro barato significava mais máquinas, trilhos, pontes e navios.
+
+::: {.callout-note title="Conceito-chave: sistema fabril"}
+O **sistema fabril** (*factory system*) é a organização da produção em que os trabalhadores são reunidos num **único estabelecimento**, operando **máquinas que não lhes pertencem**, movidas por uma fonte de energia central, sob **horário fixo**, **supervisão** e **divisão minuciosa do trabalho**. Sua diferença essencial em relação ao artesanato e ao sistema doméstico não é apenas técnica: é que o trabalhador perde o controle sobre os **meios de produção**, sobre o **ritmo** e sobre o **tempo** de seu trabalho. Daí a importância do **relógio** e do **sino da fábrica**, símbolos de uma nova disciplina que precisou ser **imposta** — a multas, despedimentos e castigos — a gerações acostumadas ao tempo das estações.
+:::
+
+A segunda onda foi a dos **transportes**. Canais e estradas melhoradas vieram primeiro; depois, o vapor tomou as rodas. **George Stephenson** venceu, em 1829, a competição para a linha Liverpool–Manchester com sua locomotiva ***Rocket***, e a ferrovia inaugurada em 1830 mudou a escala do mundo: mercadorias, pessoas, tropas e notícias passaram a se deslocar em horas onde antes se gastavam dias. Barcos a vapor cruzaram o Atlântico e, com o telégrafo elétrico, a informação finalmente se separou do transporte físico. Em **1851**, a Inglaterra celebrou seu domínio na **Grande Exposição** do Palácio de Cristal, em Londres: era, sem rival, a "oficina do mundo".
+
+::: {#fig-linha-do-tempo-industrial}
+
+```{.tikz}
+%%| filename: fig-linha-do-tempo-industrial
+%%| alt: Linha do tempo da Revolução Industrial, de 1712 a 1851.
+\begin{tikzpicture}[>=stealth]
+  \draw[eixo] (0,0) -- (14.0,0);
+  \node[eixo, gray] at (14.0,-0.55) {\scriptsize tempo};
+
+  \node[ponto] at (0.6,0) {};
+  \node[below] at (0.6,-0.2) {\scriptsize 1712};
+  \node[above, align=center, text=manualgreen] at (0.6,0.2) {\scriptsize Newcomen\\\scriptsize (vapor)};
+
+  \node[ponto] at (2.6,0) {};
+  \node[below] at (2.6,-0.2) {\scriptsize 1764--69};
+  \node[above, align=center, text=manualblue] at (2.7,0.95) {\scriptsize \textit{jenny}, \textit{water frame}\\\scriptsize \textbf{Watt}: condensador};
+
+  \node[ponto] at (4.8,0) {};
+  \node[below] at (4.8,-0.2) {\scriptsize 1785};
+  \node[above, align=center, text=manualblue] at (4.8,0.2) {\scriptsize tear\\\scriptsize mecânico};
+
+  \node[ponto] at (6.7,0) {};
+  \node[below] at (6.7,-0.2) {\scriptsize 1811--16};
+  \node[above, align=center, text=manualred] at (6.8,0.95) {\scriptsize \textbf{ludismo}\\\scriptsize (quebra de máquinas)};
+
+  \node[ponto] at (8.6,0) {};
+  \node[below] at (8.6,-0.2) {\scriptsize 1830};
+  \node[above, align=center, text=manualgreen] at (8.6,0.2) {\scriptsize ferrovia\\\scriptsize Liverpool--Manchester};
+
+  \node[ponto] at (10.3,0) {};
+  \node[below] at (10.3,-0.2) {\scriptsize 1833};
+  \node[above, align=center, text=manualred] at (10.4,0.95) {\scriptsize \textit{Factory Act}\\\scriptsize (trabalho infantil)};
+
+  \node[ponto] at (11.9,0) {};
+  \node[below] at (11.9,-0.2) {\scriptsize 1838--48};
+  \node[above, align=center, text=manualred] at (11.9,0.2) {\scriptsize \textbf{cartismo};\\\scriptsize \textit{Manifesto} (1848)};
+
+  \node[ponto] at (13.5,0) {};
+  \node[below] at (13.5,-0.2) {\scriptsize 1851};
+  \node[above, align=center, text=manualgreen] at (13.5,0.95) {\scriptsize Grande\\\scriptsize Exposição};
+\end{tikzpicture}
+```
+
+Um século de transformações: em **azul**, as inovações têxteis; em **verde**, energia e transportes; em **vermelho**, as respostas sociais dos trabalhadores. Escala aproximada.
+:::
+
+## O custo humano e a resposta dos trabalhadores {#sec-custo-humano}
+
+A contrapartida da riqueza foi uma transformação social brutal. Manchester saltou de cerca de 25 mil habitantes em 1770 para mais de 300 mil em 1850; a Inglaterra, de aproximadamente 6 milhões de pessoas em 1750 para cerca de 17 milhões em 1850, com a maioria vivendo em cidades — algo inédito na história humana. Mas essas cidades cresceram **sem planejamento, sem esgoto e sem água tratada**. Famílias inteiras se amontoavam em porões e cortiços; a expectativa de vida nos bairros operários de Liverpool e Manchester chegou a cair para pouco mais de vinte anos; epidemias de **cólera** e de tifo varreram os bairros pobres em 1832 e 1848.
+
+Na fábrica, as jornadas iam de **12 a 16 horas**, seis dias por semana, em ambientes quentes, barulhentos, empoeirados e sem qualquer proteção contra as máquinas — acidentes mutilantes eram rotina e não havia indenização. **Mulheres e crianças** eram preferidas em muitas funções porque recebiam **metade ou um terço** do salário masculino e cabiam em espaços apertados: crianças de cinco ou seis anos limpavam maquinário em movimento, e nas minas puxavam vagonetes por galerias baixas demais para adultos. O relatório parlamentar de 1842 sobre as minas escandalizou o país ao revelar mulheres trabalhando seminuas sob a terra, ao lado dos filhos. Em 1845, o jovem **Friedrich Engels**, filho de um industrial e observador de Manchester, publicaria *A situação da classe trabalhadora na Inglaterra*, uma das mais impressionantes descrições já escritas dessa realidade [@engels2010].
+
+Os trabalhadores, porém, **não assistiram passivamente**. A resposta veio em ondas, cada vez mais organizadas:
+
+- **Ludismo (1811–1816).** Grupos de trabalhadores, invocando um mítico "General Ludd", invadiam fábricas à noite e **quebravam máquinas**. Não era irracionalidade: era a única forma de pressão disponível numa época em que a associação de trabalhadores estava **proibida por lei** (*Combination Acts*, 1799–1800), e o alvo escolhido não era qualquer máquina, mas justamente as que substituíam trabalhadores qualificados e derrubavam salários. O Parlamento respondeu tornando a quebra de máquinas crime punível com **morte**.
+- **Sindicalismo (*trade unions*).** Com a revogação das *Combination Acts* em **1824**, os trabalhadores puderam se associar legalmente. Os sindicatos passaram a negociar salários e jornada e a organizar greves e caixas de auxílio mútuo — a passagem da destruição de máquinas à **negociação coletiva**.
+- **Cartismo (1838–1848).** Percebendo que sem **direitos políticos** não conquistariam direitos sociais, os trabalhadores formularam a **Carta do Povo** (*People's Charter*), que exigia **sufrágio universal masculino**, voto secreto, fim da exigência de propriedade para ser deputado, remuneração dos parlamentares e eleições anuais. Milhões assinaram as petições de 1839, 1842 e 1848; todas foram rejeitadas pelo Parlamento, e o movimento se dispersou — mas quase todas as suas reivindicações seriam leis britânicas até o início do século XX. O cartismo é considerado o **primeiro grande movimento político operário** da história.
+- **Socialismo.** Do choque com a "questão social" nasceram doutrinas novas. O industrial **Robert Owen** (1771–1858), o mais famoso dos **socialistas utópicos**, reduziu a jornada e proibiu o trabalho infantil em sua fábrica de New Lanark, criou escolas e propôs comunidades cooperativas. Já **Karl Marx** e **Friedrich Engels**, no *Manifesto do Partido Comunista* (**1848**), rejeitaram os modelos ideais e propuseram o que chamaram de **socialismo científico**: a história das sociedades seria a história da **luta de classes**, e caberia ao proletariado, organizado, superar o capitalismo [@marxEngels2010]. Essas correntes serão estudadas em detalhe no @sec-segunda-revolucao-industrial-socialismo.
+
+Sob a pressão desses movimentos, dos relatórios parlamentares e de reformadores humanitários, vieram as primeiras **leis fabris**: o *Factory Act* de **1833** proibiu o emprego de menores de 9 anos nas fábricas têxteis, limitou a jornada dos menores e — inovação decisiva — criou **inspetores** para fiscalizar; o *Mines Act* de **1842** proibiu mulheres e meninos abaixo de 10 anos no subsolo; o *Ten Hours Act* de **1847** fixou jornada de dez horas para mulheres e adolescentes. Era pouco, mas marcava um princípio novo: o de que o Estado **pode e deve** limitar o contrato entre patrão e empregado.
+
+::: {.callout-important title="Armadilha: os ludistas não eram 'inimigos do progresso'"}
+É comum ver o ludismo descrito como uma reação cega e ignorante contra a tecnologia. Trata-se de **anacronismo**. Os ludistas eram, em geral, trabalhadores **qualificados** (tosquiadores, tecelões de meias) que destruíam **máquinas específicas** — aquelas que permitiam substituir seu ofício por mão de obra barata e não treinada — em contextos de queda de salários e fome. Numa época em que greves e sindicatos eram **crime**, a destruição de máquinas funcionava como uma forma de negociação: era, na expressão consagrada, "negociação coletiva por meio do motim". Julgar o ludismo pela nossa familiaridade com a tecnologia é exatamente o tipo de julgamento retrospectivo que o historiador deve evitar.
+:::
+
+## A Revolução Industrial no mundo — e no Brasil {#sec-industrial-mundo-brasil}
+
+A industrialização não ficou confinada à ilha. Depois de 1815, difundiu-se pela **Bélgica**, pela **França**, pelos **Estados Unidos** e pelos estados alemães, e mais tarde, já sob forte impulso estatal, pelo **Japão** e pela **Rússia**. Mas o processo foi profundamente **desigual**, e para boa parte do planeta seus efeitos foram destrutivos.
+
+O caso mais citado é o da **Índia**. Bengala possuía a mais sofisticada indústria têxtil do mundo, e seus tecidos finos eram exportados para a Europa havia séculos. Sob domínio britânico, tarifas protecionistas fecharam o mercado inglês aos tecidos indianos enquanto o mercado indiano era aberto ao algodão de Manchester, produzido a uma fração do custo. Em poucas décadas, a produção artesanal indiana ruiu — um processo que os economistas chamam de **desindustrialização**. O governador-geral britânico escreveu, em 1835, que "as planícies da Índia estão brancas com os ossos dos tecelões". Consolidava-se a **divisão internacional do trabalho** que marcaria o século XIX: um punhado de países industriais vendendo manufaturados caros, e o resto do mundo fornecendo matérias-primas e alimentos baratos — arranjo que desembocaria no **imperialismo** (@sec-imperialismo).
+
+No **Brasil**, os efeitos chegaram cedo e por vias diplomáticas. A Inglaterra industrial precisava de **mercados**, e a Corte portuguesa refugiada no Rio de Janeiro dependia da proteção naval britânica. O resultado foi a **Abertura dos Portos** (1808) e, sobretudo, os **tratados de 1810**, que fixaram para os produtos ingleses uma tarifa de **15%** — inferior à cobrada dos produtos portugueses. A colônia se transformou em mercado consumidor privilegiado de manufaturas britânicas, e qualquer indústria local nasceu asfixiada; o país se consolidou como exportador de produtos primários. A mesma Inglaterra que precisava de consumidores livres pressionaria depois pelo fim do **tráfico de escravizados**, culminando no **Bill Aberdeen** (1845) — questão que retomaremos no @sec-escravidao-abolicao-imigracao. Guarde a ambivalência: a mesma potência industrial que combatia o tráfico atlântico consumia avidamente o **algodão** produzido por escravizados no sul dos Estados Unidos, cuja produção explodiu justamente depois que **Eli Whitney** inventou o descaroçador (1793). A indústria "livre" de Manchester e a escravidão do Mississippi cresceram **juntas**.
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+A Revolução Industrial gerou dois grandes debates historiográficos, ainda vivos.
+
+**O debate do padrão de vida: otimistas × pessimistas.** A pergunta é aparentemente simples: entre cerca de 1780 e 1850, a vida dos trabalhadores ingleses **melhorou ou piorou**? Os **otimistas** — como **T. S. Ashton** e **R. M. Hartwell** — responderam que melhorou: os salários reais subiram, o consumo de açúcar, chá e tecidos de algodão aumentou, a população cresceu e a mortalidade caiu no conjunto do período; a miséria urbana existia, argumentam, mas a miséria rural que a precedia era ainda pior — apenas menos visível, porque dispersa. Os **pessimistas** — **Eric Hobsbawm** à frente — retrucaram que as médias escondem tudo o que importa: os ganhos se concentraram depois de 1840, os índices de salário ignoram o **desemprego** e a instabilidade, e nenhuma estatística de consumo captura a perda de autonomia, a poluição, a insalubridade urbana, as epidemias e a destruição das formas tradicionais de vida comunitária.
+
+**Thompson e a experiência dos trabalhadores.** **Edward Palmer Thompson** (1924–1993) deslocou a discussão em *A formação da classe operária inglesa* (1963), talvez o livro mais influente da história social do século XX. Sua tese é que a classe operária não foi um produto automático das fábricas — ela **se fez**, ativamente, através da experiência compartilhada de exploração, das tradições dissidentes, dos sindicatos clandestinos, das sociedades de auxílio mútuo, dos panfletos e das lutas. Thompson propôs-se a resgatar "o pobre tecelão de meias, o tosquiador ludista […] da enorme condescendência da posteridade": eles não eram atrasados nem irracionais, mas sujeitos com valores próprios, resistindo em nome de uma **economia moral** que a nova ordem violava [@thompson1987]. Note que Thompson desloca a pergunta: não se trata só de medir salários, mas de perguntar **como as pessoas viveram e interpretaram** a mudança.
+
+**Landes e o primado da tecnologia e das instituições.** Do outro lado, **David Landes**, em *Prometeu desacorrentado*, colocou no centro a **inovação tecnológica** e as condições que a favoreceram: a curiosidade científica, o espírito empresarial, a proteção jurídica da propriedade e das patentes, a mentalidade racional herdada da Revolução Científica [@landes1994]. Landes é frequentemente criticado por certo **eurocentrismo** — por explicar o pioneirismo europeu recorrendo à superioridade de sua cultura e de suas instituições —, mas seus defensores respondem que instituições e incentivos realmente fazem diferença e que ignorá-los é substituir a explicação pela denúncia.
+
+**A "grande divergência" e o olhar global.** A partir dos anos 2000, a chamada **Escola da Califórnia** virou a pergunta do avesso. **Kenneth Pomeranz** argumentou que, por volta de 1750, as regiões mais avançadas da **China** (o delta do Yangtzé) e da Europa (a Inglaterra) tinham níveis de vida, mercados e tecnologia **comparáveis** — logo, o pioneirismo inglês não pode ser explicado por uma superioridade europeia de longa data. O que fez a diferença, sustenta, foram duas vantagens em boa parte **contingentes**: depósitos de **carvão** situados perto dos centros produtores e o acesso às **colônias americanas**, que forneceram terra, matérias-primas e alimentos "virtuais" que a Europa não teria como produzir em seu próprio território [@pomeranz2000]. Nessa leitura, a Revolução Industrial é menos um mérito civilizacional europeu do que o produto de uma **geografia** e de uma **conquista colonial** afortunadas.
+
+**E foi mesmo uma "revolução"?** Uma corrente de historiadores econômicos quantitativos, liderada por **Nicholas Crafts**, mostrou que as taxas de crescimento britânicas entre 1780 e 1830 foram **modestas** e que a mecanização se concentrou em poucos setores (algodão, ferro) por muitas décadas — a maioria dos trabalhadores ingleses de 1830 ainda não trabalhava em fábricas. Daí a proposta de falar em **evolução** industrial, ou em revolução "lenta". Os críticos respondem que medir apenas o PIB perde o essencial: a **natureza** da mudança — energia inanimada, produção mecanizada, crescimento auto-sustentado — foi tão radical que o vocabulário da revolução se justifica, mesmo se o processo levou um século.
+
+**Por que divergem?** Porque medem coisas diferentes com fontes diferentes: séries de salários e preços (otimistas e Crafts), relatórios médicos e parlamentares e testemunhos operários (pessimistas), panfletos e registros de sociedades de auxílio (Thompson), dados comparativos entre continentes (Pomeranz). E porque a pergunta de fundo é política: avaliar a Revolução Industrial é avaliar o **capitalismo industrial** que ela inaugurou. Perceber isso não desqualifica nenhuma das leituras — mas ensina a perguntar sempre: *melhorou para quem, quando e medido como?*
+
+## Resumo do capítulo {#sec-resumo}
+
+- A **Revolução Industrial** (Inglaterra, a partir de c. 1760–1780) substituiu a **ferramenta pela máquina**, a energia humana/animal pelo **vapor** e a oficina pela **fábrica**. "Revolução" indica **profundidade**, não rapidez.
+- **Pré-condições inglesas:** capital acumulado no comércio colonial e no **tráfico**; mão de obra liberada pelos **cercamentos**; **revolução agrícola** (rotação de culturas de Norfolk, fim do pousio); **carvão e ferro** abundantes e próximos; **mercados coloniais** e marinha; **instituições estáveis** pós-1688 (propriedade segura, patentes).
+- **Do sistema doméstico ao sistema fabril:** invenções têxteis — lançadeira volante (Kay, 1733), *spinning jenny* (Hargreaves, 1764), *water frame* (Arkwright, 1769 — cria a fábrica), *mule* (Crompton, 1779), tear mecânico (Cartwright, 1785). Energia: **Newcomen** (1712) e, decisivamente, **James Watt** (condensador separado, 1769; movimento rotativo nos anos 1780). Siderurgia: **coque** (Darby) e **pudlagem** (Cort).
+- **Transportes:** canais, a locomotiva ***Rocket*** de **Stephenson** e a ferrovia **Liverpool–Manchester** (1830), navios a vapor e telégrafo. Auge simbólico: **Grande Exposição de 1851**.
+- **Custo social:** urbanização caótica (Manchester passa de ~25 mil a mais de 300 mil habitantes entre 1770 e 1850), cortiços sem saneamento, cólera, jornadas de **12 a 16 horas**, acidentes e **trabalho infantil e feminino** mal remunerado. Testemunho central: **Engels**, *A situação da classe trabalhadora na Inglaterra* (1845).
+- **Respostas dos trabalhadores:** **ludismo** (1811–1816, quebra seletiva de máquinas sob a proibição legal de associação); **sindicatos** após a revogação das *Combination Acts* (1824); **cartismo** (1838–1848, *People's Charter*: sufrágio universal masculino e voto secreto) — primeiro grande movimento político operário; **socialismo utópico** (Owen) e **científico** (Marx e Engels, *Manifesto*, 1848). Conquistas legais: *Factory Act* (1833, com inspetores), *Mines Act* (1842), *Ten Hours Act* (1847).
+- **Impacto global:** **desindustrialização da Índia**, consolidação da **divisão internacional do trabalho** e caminho para o **imperialismo**. No **Brasil**: Abertura dos Portos (1808) e **tratados de 1810** (tarifa de 15% para os ingleses) travam a indústria local; depois, pressão britânica contra o tráfico (**Bill Aberdeen**, 1845) — enquanto Manchester consumia algodão produzido por escravizados nos EUA.
+- **Historiografia:** debate do **padrão de vida** (otimistas Ashton/Hartwell × pessimistas Hobsbawm); **Thompson** (a classe operária "se fez"; economia moral; contra "a condescendência da posteridade"); **Landes** (tecnologia e instituições, acusado de eurocentrismo); **Pomeranz** (a "grande divergência" explicada pelo **carvão** e pelas **colônias**); e o questionamento da própria palavra "revolução" (**Crafts**).
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Fixe: (1) as **seis pré-condições** inglesas; (2) a diferença entre **sistema doméstico**, **manufatura** e **sistema fabril**; (3) as invenções-chave e o papel de **Watt**; (4) o **custo social** e as quatro respostas operárias (ludismo → sindicatos → cartismo → socialismo); (5) o impacto sobre **Índia** e **Brasil**; (6) o debate **otimistas × pessimistas** e a tese de **Pomeranz**.
+:::
+
+**1.** Explique por que os **cercamentos** são considerados uma pré-condição da Revolução Industrial.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Os **cercamentos** (*enclosures*) converteram terras comunais e campos abertos em **propriedades privadas cercadas**, produzindo dois efeitos essenciais. Primeiro, expulsaram do campo grande número de famílias camponesas que dependiam do uso comum da terra; **sem terra e sem instrumentos de produção**, essas pessoas passaram a depender da venda de sua **força de trabalho**, formando a mão de obra abundante e barata de que as fábricas precisariam — o **proletariado**. Segundo, permitiram uma agricultura **comercial e mais produtiva** (rotação de culturas, melhoramento de rebanhos), capaz de **alimentar uma população urbana crescente** com menos trabalhadores no campo. Em resumo: os cercamentos forneceram simultaneamente os **braços** e a **comida** de que a industrialização dependia — o que mostra que a Revolução Industrial começou, paradoxalmente, com uma transformação **agrária**.
+:::
+
+**2.** Diferencie **sistema doméstico**, **manufatura** e **sistema fabril**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+- **Sistema doméstico** (*putting-out*): o comerciante entrega a matéria-prima e o trabalhador produz **em casa**, com **ferramentas próprias**, controlando o **ritmo** e o **horário** do trabalho; é pago pela peça entregue.
+- **Manufatura**: muitos trabalhadores reunidos numa **mesma oficina**, já com **divisão de tarefas** e supervisão, mas ainda trabalhando essencialmente com **ferramentas manuais** — a força continua sendo humana.
+- **Sistema fabril**: trabalhadores reunidos num estabelecimento, operando **máquinas que não lhes pertencem**, movidas por uma **fonte de energia central** (roda d'água, depois vapor), sob **horário fixo**, **disciplina** e divisão minuciosa do trabalho.
+
+A ruptura decisiva é a **perda de controle** do trabalhador sobre os meios de produção, o ritmo e o tempo. Foi por isso que a disciplina fabril — marcada pelo **relógio** e pelo sino — precisou ser imposta com multas e punições a gerações acostumadas ao tempo das estações agrícolas.
+:::
+
+**3.** Por que a máquina a vapor de **James Watt** é considerada mais revolucionária que a de Newcomen?
+
+::: {.callout-tip collapse="true" title="Solução"}
+A máquina de **Newcomen** (1712) era ineficiente (desperdiçava enormes quantidades de carvão) e produzia apenas movimento **alternado** de vaivém, servindo essencialmente para **bombear água** de minas. **Watt** fez duas mudanças decisivas: a partir de 1769, o **condensador separado** reduziu drasticamente o consumo de combustível, tornando a máquina economicamente viável fora das minas; e, nos anos 1780, converteu o movimento em **rotativo**, o que permitiu acionar **qualquer tipo de máquina** — teares, laminadores, moinhos e, depois, locomotivas e navios. A consequência foi **geográfica** e decisiva: enquanto a energia vinha da **roda d'água**, as fábricas tinham de se instalar junto a rios de correnteza adequada; com o vapor, puderam se concentrar perto do **carvão**, dos portos e das **cidades**, onde estavam a mão de obra e os mercados. É essa liberdade de localização que permite a industrialização em escala.
+:::
+
+**4.** O ludismo foi uma reação "irracional contra o progresso"? Justifique.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Não — essa leitura é **anacrônica**. Os ludistas (1811–1816) eram em geral trabalhadores **qualificados** (tosquiadores, tecelões de meias) e não destruíam máquinas em geral, mas **máquinas específicas**: aquelas que permitiam substituir seu ofício por mão de obra barata e não treinada, derrubando salários em anos de carestia e desemprego. É fundamental lembrar o **contexto legal**: as *Combination Acts* (1799–1800) tornavam **crime** a associação de trabalhadores, de modo que sindicatos, greves e negociação estavam proibidos. A quebra de máquinas funcionava, portanto, como o único meio de pressão disponível — uma "negociação coletiva por meio do motim". O Parlamento respondeu tornando o ato punível com **morte**. Julgar os ludistas como inimigos do progresso é aplicar ao passado a nossa familiaridade com a tecnologia e ignorar que, para eles, aquelas máquinas específicas significavam concretamente fome. Foi **E. P. Thompson** quem reabilitou esses sujeitos, propondo resgatá-los da "enorme condescendência da posteridade" [@thompson1987].
+:::
+
+**5.** Descreva a evolução das formas de organização dos trabalhadores ingleses, do ludismo ao cartismo.
+
+::: {.callout-tip collapse="true" title="Solução"}
+1. **Ludismo (1811–1816):** ação direta e clandestina — quebra seletiva de máquinas —, num momento em que a associação era ilegal. É protesto, ainda sem organização permanente nem programa político.
+2. **Sindicatos (*trade unions*), a partir de 1824:** revogadas as *Combination Acts*, os trabalhadores puderam se **associar legalmente**. Surgem organizações **permanentes** por ofício, com caixas de auxílio mútuo, capazes de negociar salários e jornada e de organizar **greves**. É a passagem da destruição à **negociação coletiva**.
+3. **Cartismo (1838–1848):** salto para a **política**. Percebendo que sem direitos políticos não haveria direitos sociais, os trabalhadores redigiram a **Carta do Povo**, exigindo **sufrágio universal masculino**, **voto secreto**, fim da exigência de propriedade para candidatar-se, remuneração dos deputados e eleições anuais. Milhões assinaram petições (1839, 1842, 1848), todas rejeitadas. O movimento se dispersou, mas quase todas as suas reivindicações viraram lei até o início do século XX; é considerado o **primeiro grande movimento político operário** da história.
+
+Paralelamente desenvolveram-se as doutrinas **socialistas** — o **socialismo utópico** de Owen e o **socialismo científico** de Marx e Engels (*Manifesto*, 1848) —, que dariam ao movimento operário um projeto de sociedade.
+:::
+
+**6.** Explique o impacto da Revolução Industrial sobre a **Índia** e sobre o **Brasil**. O que os dois casos têm em comum?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Na **Índia**, Bengala tinha a mais sofisticada indústria têxtil do mundo. Sob domínio britânico, o mercado inglês foi fechado aos tecidos indianos por tarifas, enquanto o mercado indiano foi aberto aos tecidos de Manchester, produzidos por máquinas a custo muito menor. A produção artesanal local desmoronou — processo chamado de **desindustrialização** — e a Índia passou a fornecer matérias-primas (algodão bruto) e a consumir manufaturados britânicos.
+
+No **Brasil**, o mecanismo foi diplomático. Com a Corte portuguesa refugiada no Rio e dependente da proteção naval britânica, vieram a **Abertura dos Portos** (1808) e os **tratados de 1810**, que garantiram aos produtos ingleses uma tarifa **preferencial de 15%** — menor até que a cobrada de Portugal. O país tornou-se **mercado consumidor** de manufaturas britânicas, e qualquer indústria local nascia sem condições de competir; consolidou-se como **exportador de produtos primários**.
+
+**Em comum:** ambos ilustram a formação da **divisão internacional do trabalho** do século XIX — poucos países industriais exportando manufaturados de alto valor, e o restante do mundo fornecendo matérias-primas e alimentos baratos, numa relação assimétrica que se aprofundaria no **imperialismo**. Vale acrescentar a ambivalência britânica: a mesma Inglaterra que pressionava pelo fim do tráfico (Bill Aberdeen, 1845) consumia avidamente o algodão produzido por escravizados no sul dos Estados Unidos.
+:::
+
+**7.** (Estilo ENEM) Leia o texto.
+
+> "Nunca antes um lugar tão sujo produziu tanto ouro. Aqui a humanidade atinge seu desenvolvimento mais completo e o mais brutal; aqui a civilização faz milagres e o homem civilizado retorna quase ao selvagem." — Alexis de Tocqueville, anotações sobre **Manchester**, 1835.
+
+O contraste apontado pelo autor expressa uma característica central do processo de industrialização, a saber:
+
+**(a)** a distribuição equitativa dos ganhos de produtividade entre patrões e operários.
+**(b)** a coexistência entre a ampliação sem precedentes da riqueza produzida e a degradação das condições de vida dos trabalhadores.
+**(c)** a substituição do trabalho assalariado pelo trabalho escravo nas fábricas europeias.
+**(d)** o retorno das populações urbanas ao campo em busca de melhores condições sanitárias.
+**(e)** a supressão do trabalho infantil pelas primeiras leis fabris do século XVIII.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (b).** Tocqueville registra exatamente o paradoxo de Manchester: uma produção de riqueza sem precedentes ("tanto ouro", "a civilização faz milagres") convivendo com condições de vida degradantes ("um lugar tão sujo", "o homem civilizado retorna quase ao selvagem") — a marca social da industrialização. As demais: **(a)** contraria o texto e os fatos, pois os ganhos concentraram-se nos proprietários; **(c)** é falsa — o trabalho nas fábricas inglesas era **assalariado** (livre juridicamente), embora a indústria têxtil se abastecesse de algodão produzido por escravizados nas Américas; **(d)** inverte o movimento real, que foi o **êxodo rural** e a urbanização acelerada; **(e)** erra a cronologia e o conteúdo — as leis fabris são do **século XIX** (*Factory Act*, 1833) e apenas **limitaram**, sem suprimir, o trabalho infantil.
+:::
+
+**8.** (Estilo vestibular — dissertativa) Explique o debate historiográfico sobre o **padrão de vida** dos trabalhadores durante a Revolução Industrial e indique como E. P. Thompson deslocou a discussão.
+
+::: {.callout-tip collapse="true" title="Solução"}
+O debate pergunta se, entre cerca de 1780 e 1850, a vida dos trabalhadores ingleses **melhorou ou piorou**. Os **otimistas** (T. S. Ashton, R. M. Hartwell) sustentam que melhorou: os **salários reais** subiram no conjunto do período, aumentou o consumo de bens antes inacessíveis (açúcar, chá, tecidos de algodão), a população cresceu e a mortalidade caiu; acrescentam que a pobreza **rural** anterior era pior, apenas menos visível por ser dispersa. Os **pessimistas** (Eric Hobsbawm à frente) respondem que as médias escondem o essencial: os ganhos concentraram-se **depois de 1840**, as séries salariais ignoram o **desemprego** e a irregularidade do trabalho, e nenhum índice de consumo mede a insalubridade urbana, as epidemias de cólera, os acidentes, a poluição e a perda das formas tradicionais de vida.
+
+**E. P. Thompson** deslocou a discussão ao mudar a **pergunta**. Em *A formação da classe operária inglesa* (1963), argumentou que medir salários é insuficiente: é preciso investigar a **experiência** dos trabalhadores — como viveram, interpretaram e resistiram à mudança. Para ele, a classe operária não foi um subproduto automático das máquinas: ela **se fez**, através de tradições dissidentes, sociedades de auxílio mútuo, sindicatos clandestinos, panfletos e lutas, em nome de uma **economia moral** que a nova ordem violava. Daí sua proposta de resgatar os trabalhadores do passado "da enorme condescendência da posteridade" [@thompson1987] — isto é, de tratá-los como **sujeitos históricos**, e não como vítimas passivas ou atrasados irracionais.
+:::
+
+**9.** (Análise historiográfica) Em que a tese da "grande divergência", de Kenneth Pomeranz, se opõe a explicações como a de David Landes?
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Landes**, em *Prometeu desacorrentado*, explica o pioneirismo inglês por fatores **internos à Europa**: a inovação tecnológica, o espírito empresarial, a curiosidade científica herdada da Revolução Científica e as instituições que protegiam a propriedade e recompensavam o inventor (patentes) [@landes1994]. É uma explicação que enfatiza **cultura e instituições** europeias — e por isso é acusada de **eurocentrismo**, por sugerir uma superioridade europeia de longa data.
+
+**Pomeranz** inverte o raciocínio. Sustenta que, por volta de **1750**, as regiões mais desenvolvidas da **China** (delta do Yangtzé) e da Europa (Inglaterra) tinham níveis de vida, mercados, tecnologia agrícola e expectativa de vida **comparáveis**. Se assim era, nenhuma superioridade europeia acumulada pode explicar o que veio depois. O que fez a diferença foram duas vantagens em boa parte **contingentes**: **carvão** abundante e situado perto dos centros produtores ingleses, e o acesso às **colônias americanas**, que forneceram alimentos, algodão e matérias-primas — poupando à Inglaterra terras que ela não possuía [@pomeranz2000].
+
+A oposição, portanto, é de fundo: para Landes, a Europa industrializou-se **porque era diferente** (melhores instituições e cultura); para Pomeranz, ela se industrializou porque teve **sorte geográfica e um império colonial**. Note que a divergência não é só empírica, mas também **política**: uma leitura credita o feito ao mérito europeu; a outra o vincula à conquista colonial e ao acaso dos recursos.
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- HOBSBAWM, Eric. *A era das revoluções: 1789–1848* [@hobsbawmRevolucoes2020]. A síntese clássica da "dupla revolução" — a industrial inglesa e a política francesa — que funda o mundo contemporâneo.
+- THOMPSON, E. P. *A formação da classe operária inglesa* [@thompson1987]. Monumental e indispensável; ensina a olhar a história de baixo.
+- LANDES, David. *Prometeu desacorrentado* [@landes1994]. A defesa da centralidade da tecnologia e das instituições — leia contrastando com Pomeranz.
+- POMERANZ, Kenneth. *The Great Divergence* [@pomeranz2000]. Reposiciona a pergunta em escala global e comparativa.
+
+**Fontes primárias**
+
+- ENGELS, Friedrich. *A situação da classe trabalhadora na Inglaterra* [@engels2010]. Escrita em 1845 por um observador de 24 anos em Manchester; documento e denúncia ao mesmo tempo.
+- MARX, Karl; ENGELS, Friedrich. *Manifesto do Partido Comunista* [@marxEngels2010]. Curto, de 1848; leia como fonte do impacto intelectual da industrialização.
+- Os **relatórios parlamentares britânicos** sobre fábricas (1832) e minas (1842) — trechos são reproduzidos em coletâneas didáticas e trazem depoimentos diretos de crianças trabalhadoras.
+
+**Filmes e documentários**
+
+- *Tempos modernos* (1936), dir. Charles Chaplin. Ambientado no século XX, mas insuperável para entender a **disciplina fabril** e a submissão do corpo humano ao ritmo da máquina.
+- *Germinal* (1993), dir. Claude Berri, a partir de Émile Zola. Retrata a vida e a greve dos mineiros de carvão na França industrial.
+- *Oliver Twist* (várias versões, a partir de Dickens). Charles Dickens é, em si, uma fonte literária preciosa sobre a infância pobre nas cidades industriais.
