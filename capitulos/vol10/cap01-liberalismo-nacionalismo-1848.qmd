@@ -1,5 +1,358 @@
 # Liberalismo, nacionalismo e as revoluções de 1848 {#sec-liberalismo-nacionalismo-1848}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Em **fevereiro de 1848**, uma pequena gráfica de Londres imprimiu, em alemão, um panfleto de vinte e poucas páginas que começava com uma frase teatral: "Um espectro ronda a Europa — o espectro do comunismo". Quase ninguém leu. Poucas semanas depois, sem que houvesse a menor relação de causa entre uma coisa e outra, **Paris amanheceu coberta de barricadas**, o rei fugiu disfarçado para a Inglaterra e, em questão de dias, o incêndio pulou para Viena, Berlim, Milão, Roma, Praga, Budapeste. O príncipe **Metternich** — o homem que trinta e três anos antes presidira o Congresso de Viena para garantir que nada daquilo voltasse a acontecer (@sec-era-napoleonica) — escapou da capital austríaca escondido numa carruagem de lavanderia. Chamaram aquele ano de **Primavera dos Povos**. Em menos de dezoito meses, quase todas as revoluções haviam sido derrotadas, os reis estavam de volta e os revolucionários, mortos, presos ou exilados. E, no entanto, nada voltou a ser como antes: a servidão acabou no Império Austríaco, o sufrágio universal masculino entrou na França para ficar, e as duas ideias que moveram as barricadas — **liberalismo** e **nacionalismo** — passaram a governar o resto do século. Este capítulo explica de onde vinham essas ideias, por que explodiram em 1848 e por que fracassaram sem deixar de vencer.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- definir **liberalismo** (político e econômico) e distinguir liberalismo de **democracia**;
+- explicar o que é **nacionalismo**, sua relação com o **Romantismo** e a diferença entre nacionalismo **unificador** e **separatista**;
+- situar as ondas revolucionárias de **1820**, **1830** e **1848** e relacionar a de 1820 (Revolução do Porto) ao processo de Independência do Brasil;
+- descrever os acontecimentos de **1848** na França, na Áustria-Hungria, nos Estados alemães e na Itália, e explicar por que fracassaram;
+- avaliar as **consequências duradouras** de 1848, inclusive a ascensão de Luís Bonaparte e o divórcio entre burguesia liberal e movimento operário;
+- discutir o debate historiográfico sobre a **nação** como construção histórica e sobre o significado de 1848.
 :::
+
+## O liberalismo: liberdade, propriedade e representação {#sec-liberalismo}
+
+O **liberalismo** é a doutrina política e econômica que, nascida das revoluções Inglesa (@sec-revolucao-inglesa), Americana (@sec-independencia-eua) e Francesa (@sec-revolucao-francesa), afirma que existem **direitos individuais anteriores ao Estado** — liberdade, propriedade, segurança — e que o poder político só é legítimo quando **limitado** por uma constituição e por leis iguais para todos.
+
+Convém separar suas duas faces, porque os vestibulares adoram cobrar exatamente essa distinção:
+
+- **Liberalismo político.** Governo limitado por **constituição**; **separação dos poderes** (Montesquieu); liberdades civis — expressão, imprensa, reunião, culto, propriedade; **igualdade perante a lei**, com o fim dos privilégios de nascimento; **representação** por meio de parlamentos eleitos. Suas fontes são Locke (@sec-revolucao-inglesa), Montesquieu e a Declaração dos Direitos do Homem e do Cidadão de 1789 [@declaracaoDireitos1789].
+- **Liberalismo econômico.** Livre iniciativa, livre concorrência, livre-comércio e mínima intervenção do Estado na economia — o **laissez-faire** formulado por **Adam Smith** (1723–1790) em *A riqueza das nações* (1776) [@smith1996] e radicalizado pelos economistas ingleses do século XIX. Na prática, era a bandeira da burguesia industrial contra as barreiras alfandegárias, as corporações de ofício e a regulamentação do trabalho.
+
+::: {.callout-important title="Armadilha clássica: liberal não é o mesmo que democrata"}
+No século XIX, **liberalismo e democracia eram coisas distintas e frequentemente adversárias**. O liberal típico de 1830 defendia constituição, parlamento e liberdade de imprensa — mas achava perigoso que os pobres votassem. Daí o **voto censitário**: só vota (e sobretudo só é votado) quem tem determinada renda ou propriedade. Na França da Monarquia de Julho, num país de cerca de 30 milhões de habitantes, o eleitorado era de aproximadamente **240 mil homens** — menos de 1%. O ministro **François Guizot**, instado a ampliar o voto, respondeu com a frase que resume a época: "**Enriqueçam!**" (*Enrichissez-vous*) — ou seja, quem quiser votar que fique rico primeiro.
+
+O casamento entre liberalismo e democracia (sufrágio universal, direitos sociais) é obra lenta do fim do século XIX e do século XX, e foi arrancado pela pressão dos movimentos operário, socialista e sufragista, não concedido de boa vontade. Chamar de "antidemocrático" um liberal de 1820 é correto quanto ao fato — mas atenção ao **anacronismo**: para ele, "democracia" evocava o Terror jacobino e a anarquia, não a urna.
+:::
+
+## O nacionalismo: a nação como sujeito da história {#sec-nacionalismo}
+
+**Nacionalismo** é a ideia de que a humanidade se divide em **nações** — comunidades unidas por língua, cultura, história e território — e de que **cada nação tem o direito de formar um Estado soberano**. Parece hoje uma evidência; era, em 1815, uma novidade explosiva. O Congresso de Viena havia distribuído povos entre dinastias como quem reparte propriedades: italianos sob domínio austríaco, poloneses divididos entre três impérios, alemães espalhados por 39 Estados, húngaros, tchecos, croatas e romenos sob os Habsburgo. Dizer que a soberania pertence à **nação**, e não ao rei, era pôr em xeque todo o mapa.
+
+Duas raízes principais alimentaram a ideia:
+
+1. **A Revolução Francesa e as guerras napoleônicas.** Foi a Revolução que transformou súditos em **cidadãos** de uma nação soberana; foram os exércitos de Napoleão que, ao ocupar Espanha, Alemanha e Itália, ensinaram aos ocupados — pela via amarga — que um povo pode e deve se governar (@sec-era-napoleonica).
+2. **O Romantismo.** O movimento cultural que dominou a primeira metade do século XIX exaltou o sentimento, o passado medieval e o **espírito do povo** (*Volksgeist*), noção formulada pelo alemão **Johann Gottfried Herder** (1744–1803). Cada povo teria uma alma própria, expressa sobretudo na **língua**. Daí a febre de recolher contos populares (os **irmãos Grimm**), organizar dicionários e gramáticas nacionais, escrever óperas e romances históricos, redescobrir monumentos medievais. A filologia e a literatura foram, no século XIX, atividades políticas.
+
+O nacionalismo assumiu duas formas práticas, e vale fixá-las:
+
+- **Nacionalismo unificador:** povos de mesma língua divididos em muitos Estados querem **juntar-se** num só — os casos da **Itália** e da **Alemanha** (@sec-unificacoes-italia-alemanha).
+- **Nacionalismo separatista (ou emancipador):** povos submetidos a impérios multinacionais querem **separar-se** — gregos e sérvios do Império Otomano, belgas do Reino dos Países Baixos, poloneses da Rússia, húngaros, tchecos e italianos da Áustria, irlandeses do Reino Unido.
+
+::: {.callout-warning title="Controvérsia: a nação é antiga ou inventada?"}
+O nacionalismo do século XIX afirmava que as nações eram **eternas** — que a Itália, a Alemanha ou a Sérvia sempre existiram e apenas "despertavam" de um longo sono. Boa parte da historiografia contemporânea inverte a frase: foi o **nacionalismo que criou as nações**, e não o contrário. Quando a Itália foi unificada, em 1861, calcula-se que menos de 10% da população falasse o italiano padrão no cotidiano; o ministro Massimo d'Azeglio teria dito: "Fizemos a Itália; agora é preciso fazer os italianos". Voltaremos a isso na seção 🔎 Historiografia em Foco.
+:::
+
+## Socialismo: a terceira ideia {#sec-socialismo-1848}
+
+Ao lado do liberalismo e do nacionalismo, a Revolução Industrial (@sec-revolucao-industrial) fez nascer uma terceira família de ideias, que em 1848 aparece pela primeira vez com força própria: o **socialismo**, isto é, o conjunto de doutrinas que denunciam a desigualdade produzida pela propriedade privada dos meios de produção e propõem alguma forma de organização coletiva da economia.
+
+Os chamados **socialistas utópicos** — Saint-Simon, **Charles Fourier**, **Robert Owen** — imaginavam comunidades modelo, cooperativas e fábricas humanizadas, apostando na persuasão e no exemplo. **Louis Blanc** (1811–1882) foi mais longe e mais concreto: defendeu o **direito ao trabalho** garantido pelo Estado, por meio de oficinas sociais — proposta que, como veremos, foi ao poder na França em fevereiro de 1848. **Pierre-Joseph Proudhon** (1809–1865), autor da frase "a propriedade é um roubo", inaugurou a tradição anarquista.
+
+Foi justamente em 1848 que **Karl Marx** (1818–1883) e **Friedrich Engels** (1820–1895) publicaram o **Manifesto do Partido Comunista** [@marxEngels2010], que rompia com os utópicos em dois pontos: a história é a história da **luta de classes**, e a emancipação virá não da boa vontade dos filantropos, mas da ação organizada do **proletariado**. Em 1848 o Manifesto teve influência praticamente nula sobre os acontecimentos — sua importância é posterior. Mas as jornadas daquele ano forneceram a Marx o material de duas análises que se tornariam clássicas, *As lutas de classes na França* e *O 18 de Brumário de Luís Bonaparte*. O socialismo como movimento de massas é assunto do @sec-segunda-revolucao-industrial-socialismo.
+
+| | **Liberalismo** | **Nacionalismo** | **Socialismo** |
+|---|---|---|---|
+| **Sujeito** | o indivíduo | a nação | a classe trabalhadora |
+| **Bandeira** | constituição, liberdades, propriedade | unidade e independência nacional | igualdade social, fim da exploração |
+| **Base social** | burguesia proprietária, profissionais liberais | burguesia, intelectuais, estudantes, oficiais | operários e artesãos urbanos |
+| **Adversário** | absolutismo e privilégio | impérios multinacionais e fragmentação | a própria burguesia liberal |
+| **Em 1848** | vence em fevereiro | mobiliza Itália, Alemanha, Hungria | derrotado em junho, em Paris |
+
+: As três grandes ideias-força do século XIX. Em 1848 elas marcharam juntas por algumas semanas — e a ruptura entre a primeira e a terceira explica boa parte do fracasso. {#tbl-ideias-seculo-xix}
+
+## As ondas anteriores: 1820 e 1830 {#sec-ondas-1820-1830}
+
+A ordem de Viena começou a rachar quase imediatamente. Houve **três ondas** revolucionárias, cada uma mais ampla que a anterior.
+
+**1820.** Começou na **Espanha**, com o pronunciamento do coronel **Rafael del Riego**, que obrigou Fernando VII a jurar a Constituição de Cádis (1812). O exemplo contagiou **Nápoles**, o **Piemonte** e **Portugal** — e a **Santa Aliança** respondeu com intervenções militares: os austríacos esmagaram os italianos; os franceses, com mandato do Congresso de Verona, restauraram o absolutismo espanhol em 1823. Só uma revolta venceu: a **Independência da Grécia** (1821–1830), abraçada pela opinião pública europeia — o poeta inglês **Lord Byron** morreu lutando por ela — e apoiada pelas potências, que não se importavam de enfraquecer o Império Otomano.
+
+::: {.callout-tip title="Conexão Brasil: a Revolução do Porto (1820)"}
+A onda de 1820 tem consequência direta e decisiva para o Brasil. Em agosto daquele ano, a **Revolução do Porto** — liberal na forma de governo e **recolonizadora** quanto ao Brasil — exigiu constituição, convocação das Cortes e o **retorno de D. João VI** a Lisboa, além da revogação das medidas que haviam feito do Brasil um Reino Unido desde 1815. Cumpridas as duas primeiras exigências (o rei voltou em 1821, deixando D. Pedro como regente), restava a terceira — e foi a tentativa das Cortes de reduzir novamente o Brasil à condição de colônia que precipitou o **Fico**, o rompimento e a **Independência de 1822** (@sec-independencia). Guarde a lógica: o mesmo liberalismo que na Europa era progressista podia ser, visto do Brasil, instrumento de recolonização.
+:::
+
+**1830.** A segunda onda partiu de **Paris**. Carlos X, Bourbon restaurado, tentou governar por decretos, dissolveu a Câmara e censurou a imprensa; três dias de barricadas (as "**Três Gloriosas**", 27–29 de julho) o derrubaram. Mas a burguesia liberal, temendo uma república, entregou a coroa a um primo, **Luís Filipe de Orléans**, o "rei-burguês" — nascia a **Monarquia de Julho** (1830–1848), regime liberal-censitário por excelência. O efeito dominó fez a **Bélgica** conquistar a independência do Reino dos Países Baixos (1830–1831), garantiu reformas eleitorais na Inglaterra (**Reform Act de 1832**, que ampliou modestamente o eleitorado sem chegar perto do sufrágio universal) — e fracassou na **Polônia**, onde a insurreição foi esmagada pela Rússia, e na Itália, onde os carbonários foram novamente derrotados.
+
+Duas lições ficaram para a geração seguinte: os movimentos **isolados** eram esmagados um a um; e a burguesia liberal, uma vez satisfeita, largava seus aliados populares pelo caminho. Em 1848 as duas lições se repetiriam em escala continental.
+
+::: {#fig-linha-do-tempo-1815-1852}
+
+```{.tikz}
+%%| filename: fig-linha-do-tempo-1815-1852
+%%| alt: Linha do tempo de 1815 a 1852, com as ondas revolucionárias de 1820, 1830 e 1848 na Europa.
+\begin{tikzpicture}[>=stealth]
+  \draw[eixo] (0,0) -- (14.2,0);
+  \node[eixo, gray] at (14.2,-0.6) {\scriptsize tempo};
+
+  \fill[manualgray!24] (0.5,-0.13) rectangle (6.4,0.13);
+  \node[text=gray] at (3.4,-0.85) {\scriptsize \textbf{Restauração / Era Metternich}};
+  \fill[manualblue!16] (6.4,-0.13) rectangle (10.2,0.13);
+  \node[text=manualblue] at (8.3,-0.85) {\scriptsize \textbf{Monarquia de Julho}};
+  \fill[manualred!20] (10.2,-0.13) rectangle (12.9,0.13);
+  \node[text=manualred] at (11.5,-0.85) {\scriptsize \textbf{1848--49}};
+
+  \node[ponto] at (0.5,0) {};
+  \node[below] at (0.5,-0.25) {\scriptsize 1815};
+  \node[above, align=center] at (0.9,0.2) {\scriptsize \textbf{Congresso}\\\scriptsize \textbf{de Viena}};
+
+  \node[ponto] at (2.6,0) {};
+  \node[below] at (2.6,-0.25) {\scriptsize 1820};
+  \node[above, align=center, text=manualblue] at (2.7,1.1) {\scriptsize 1\textsuperscript{a} onda: Espanha,\\\scriptsize Nápoles, \textbf{Porto}};
+
+  \node[ponto] at (4.5,0) {};
+  \node[below] at (4.5,-0.25) {\scriptsize 1822};
+  \node[above, align=center, text=manualgreen] at (4.6,0.2) {\scriptsize \textbf{Independência}\\\scriptsize \textbf{do Brasil}};
+
+  \node[ponto] at (5.9,0) {};
+  \node[below] at (5.9,-0.25) {\scriptsize 1830};
+  \node[above, align=center, text=manualblue] at (6.1,1.1) {\scriptsize 2\textsuperscript{a} onda: Paris,\\\scriptsize \textbf{Bélgica}, Polônia};
+
+  \node[ponto] at (7.6,0) {};
+  \node[below] at (7.6,-0.25) {\scriptsize 1832};
+  \node[above, align=center] at (7.7,0.2) {\scriptsize \textit{Reform Act}\\\scriptsize (Inglaterra)};
+
+  \node[ponto] at (9.3,0) {};
+  \node[below] at (9.3,-0.25) {\scriptsize 1846--47};
+  \node[above, align=center, text=manualgreen] at (9.4,1.1) {\scriptsize crise agrícola\\\scriptsize e financeira};
+
+  \node[ponto] at (10.5,0) {};
+  \node[below] at (10.5,-0.25) {\scriptsize fev.\ 1848};
+  \node[above, align=center, text=manualred] at (10.5,0.2) {\scriptsize \textbf{Primavera}\\\scriptsize \textbf{dos Povos}};
+
+  \node[ponto] at (11.7,0) {};
+  \node[below] at (11.7,-0.25) {\scriptsize jun.\ 1848};
+  \node[above, align=center, text=manualred] at (11.9,1.1) {\scriptsize \textbf{Jornadas de Junho}\\\scriptsize (Paris)};
+
+  \node[ponto] at (12.9,0) {};
+  \node[below] at (12.9,-0.25) {\scriptsize 1849};
+  \node[above, align=center] at (12.9,0.2) {\scriptsize derrota da\\\scriptsize Hungria e de Roma};
+
+  \node[ponto] at (13.9,0) {};
+  \node[below] at (13.9,-0.25) {\scriptsize 1852};
+  \node[above, align=center] at (13.7,1.1) {\scriptsize \textbf{II Império}\\\scriptsize (Napoleão III)};
+\end{tikzpicture}
+```
+
+As três ondas revolucionárias contra a ordem de Viena, de 1820 a 1848, e o desfecho bonapartista na França.
+:::
+
+## 1848: a Primavera dos Povos {#sec-primavera-dos-povos}
+
+O que tornou 1848 diferente foi a **soma de crises**. Entre 1845 e 1847, a Europa atravessou a última grande **crise de subsistência** do tipo antigo: a doença da batata devastou a Irlanda — onde a fome matou cerca de **um milhão de pessoas** e forçou a emigração de outro milhão — e arruinou colheitas no continente, disparando o preço do pão. Ao mesmo tempo, veio uma **crise financeira e industrial**: falências, desemprego urbano, quebra de bancos ligados às ferrovias. Some-se a isso o descontentamento político acumulado, e o resultado é uma população faminta nas cidades e uma burguesia média irritada com o fechamento do sistema político.
+
+**França: a faísca.** Proibidos de fazer comícios, os opositores organizavam **banquetes** políticos. A proibição de um banquete em Paris levou a população às ruas em **22 de fevereiro de 1848**; em 24 de fevereiro, **Luís Filipe abdicou** e fugiu para a Inglaterra. Proclamou-se a **Segunda República**, com um governo provisório que reunia liberais moderados e socialistas — entre eles **Louis Blanc**. As medidas iniciais foram radicais para a época: **sufrágio universal masculino** (o eleitorado saltou de 240 mil para cerca de **9 milhões**), abolição da pena de morte por crimes políticos, **abolição definitiva da escravidão nas colônias francesas** (obra de Victor Schoelcher — lembre-se de que Napoleão a restabelecera em 1802) e, sobretudo, o reconhecimento do **direito ao trabalho** com a criação das **Oficinas Nacionais** (*Ateliers Nationaux*), que empregavam desempregados em obras públicas.
+
+**As Jornadas de Junho: a fratura.** As eleições de abril, pelo sufrágio universal, deram maioria esmagadora a **moderados e conservadores** — em boa parte porque o campo, que era a maioria do país, votou contra Paris e contra os impostos criados para financiar as Oficinas. Em 21 de junho, o governo **fechou as Oficinas Nacionais**. Os operários parisienses ergueram barricadas; entre **23 e 26 de junho**, o general **Cavaignac** esmagou a insurreição: milhares de mortos, cerca de 11 mil presos, muitos deportados para a Argélia. As **Jornadas de Junho** são o divisor de águas do século: pela primeira vez, o proletariado urbano combateu **sozinho**, contra um governo republicano apoiado pela burguesia e pelo campesinato. Depois de junho, a burguesia liberal europeia passou a temer mais a revolução social do que a reação monárquica — e essa inversão de medo condenou 1848.
+
+O epílogo francês foi irônico. Em dezembro de 1848, a eleição presidencial pelo sufrágio universal foi vencida com quase **75% dos votos** por **Luís Napoleão Bonaparte**, sobrinho do imperador, que capitalizou o prestígio do nome, o medo da desordem e o voto camponês. Em **2 de dezembro de 1851** ele deu um golpe de Estado e, um ano depois, proclamou o **Segundo Império**, tornando-se **Napoleão III**. Foi comentando esse desfecho que Marx abriu *O 18 de Brumário* com a observação de que a história se repete "a primeira vez como tragédia, a segunda como farsa".
+
+**Áustria e Hungria.** Em março, a revolta de Viena derrubou **Metternich**, que fugiu para Londres; o imperador prometeu constituição e a **servidão foi abolida** em todo o império — a única conquista social realmente irreversível de 1848. Em seguida, porém, o mosaico nacional se voltou contra si mesmo: os **húngaros**, liderados por **Lajos Kossuth**, proclamaram autonomia e depois a república (abril de 1849), mas negaram os mesmos direitos a croatas, sérvios e romenos que viviam na Hungria — e os Habsburgo usaram essas minorias contra Budapeste. Em agosto de 1849, com a intervenção de **140 mil soldados russos** enviados pelo czar Nicolau I em nome da Santa Aliança, a Hungria capitulou. Em Praga, o **Congresso Pan-Eslavo** de junho de 1848 foi dissolvido a canhonaços.
+
+**Estados alemães.** Berlim se sublevou em março e o rei da Prússia, Frederico Guilherme IV, recuou, prometendo constituição. Reuniu-se então o **Parlamento de Frankfurt** (maio de 1848), a primeira assembleia eleita de toda a Alemanha — composta em sua maioria por professores, advogados e funcionários, o que lhe valeu o apelido de "parlamento de professores". Discutiu durante meses uma constituição liberal e o dilema da unificação: **Grande Alemanha** (com a Áustria) ou **Pequena Alemanha** (sob a Prússia, sem a Áustria)? Venceu a segunda; em abril de 1849, o parlamento ofereceu a coroa imperial a Frederico Guilherme IV — que a **recusou**, dizendo que não aceitaria uma "coroa de sarjeta", modelada em barro e vinda de assembleia popular em vez de vir dos príncipes. O parlamento foi dissolvido pela tropa. A lição foi absorvida: a unificação alemã não viria de baixo, por debate, mas de cima, pelo Estado prussiano e pelo exército (@sec-unificacoes-italia-alemanha).
+
+**Itália.** A insurreição de **Palermo, em 12 de janeiro de 1848**, foi cronologicamente a primeira de todas — a Sicília precedeu Paris. Ao longo do ano, Milão expulsou os austríacos nas "**Cinco Jornadas**", Veneza proclamou a república, o papa Pio IX fugiu de Roma e **Mazzini** e **Garibaldi** proclamaram a **República Romana** (1849). O rei do Piemonte, **Carlos Alberto**, concedeu uma constituição — o **Estatuto Albertino** — e declarou guerra à Áustria em nome da unidade italiana. Foi derrotado em Custoza (1848) e Novara (1849) e abdicou. A República Romana caiu em julho de 1849 diante de tropas **francesas** enviadas por Luís Napoleão para agradar aos católicos. Restou o Piemonte, único Estado italiano a conservar sua constituição — e por isso mesmo o futuro condutor da unificação.
+
+::: {#fig-onda-1848}
+
+```{.tikz}
+%%| filename: fig-onda-1848
+%%| alt: Diagrama esquemático da propagação das revoluções de 1848 pela Europa, de Palermo e Paris a Viena, Berlim, Milão e Budapeste.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \node[draw, thick, rounded corners, fill=manualyellow!28, align=center, text width=2.5cm] (pal) at (0,0) {\textbf{PALERMO}\\ jan.\ 1848\\ revolta siciliana};
+  \node[draw, very thick, rounded corners, fill=manualred!20, align=center, text width=2.7cm] (par) at (4.1,0) {\textbf{PARIS}\\ 22--24 fev.\ 1848\\ queda de Luís Filipe\\ \textbf{II República}};
+
+  \node[draw, thick, rounded corners, fill=manualblue!14, align=center, text width=2.6cm] (vie) at (8.6,2.3) {\textbf{VIENA} (mar.)\\ queda de \textbf{Metternich};\\ fim da servidão};
+  \node[draw, thick, rounded corners, fill=manualblue!14, align=center, text width=2.6cm] (ber) at (8.6,0.4) {\textbf{BERLIM} (mar.)\\ $\rightarrow$ \textbf{Parlamento}\\ \textbf{de Frankfurt}};
+  \node[draw, thick, rounded corners, fill=manualblue!14, align=center, text width=2.6cm] (mil) at (8.6,-1.5) {\textbf{MILÃO} (mar.)\\ Cinco Jornadas;\\ República Romana};
+  \node[draw, thick, rounded corners, fill=manualblue!14, align=center, text width=2.6cm] (bud) at (8.6,-3.4) {\textbf{BUDAPESTE}\\ Kossuth;\\ república húngara};
+
+  \node[draw, thick, rounded corners, fill=manualgray!22, align=center, text width=3.3cm] (der) at (12.9,-0.5) {\textbf{DERROTA} (1849)\\ exércitos leais;\\ 140 mil russos na Hungria;\\ franceses em Roma};
+
+  \draw[vetor, thick] (pal.east) -- (par.west);
+  \draw[vetor, thick] (par.east) -- (vie.west);
+  \draw[vetor, thick] (par.east) -- (ber.west);
+  \draw[vetor, thick] (par.east) -- (mil.west);
+  \draw[vetor, thick] (par.east) -- (bud.west);
+  \draw[vetor, thick, manualgray] (vie.east) -- (der.north west);
+  \draw[vetor, thick, manualgray] (ber.east) -- (der.west);
+  \draw[vetor, thick, manualgray] (mil.east) -- (der.south west);
+  \draw[vetor, thick, manualgray] (bud.east) -- (der.south west);
+
+  \node[draw, dashed, thick, rounded corners, fill=manualred!12, align=center, text width=3.6cm] (jun) at (4.1,-3.4) {\textbf{Jornadas de Junho}\\ (Paris, 23--26 jun.\ 1848)\\ operários esmagados\\ $\rightarrow$ burguesia muda de lado};
+  \draw[vetor, thick, manualred] (par.south) -- (jun.north);
+  \draw[vetor, thick, manualred, dashed] (jun.east) -- (bud.west);
+\end{tikzpicture}
+```
+
+A propagação e o refluxo de 1848: a onda parte da Sicília, ganha escala continental em Paris e se desfaz em 1849 diante de exércitos que permaneceram leais aos soberanos. A fratura de junho, em Paris, é a chave do refluxo.
+:::
+
+## Por que fracassaram — e o que ficou {#sec-balanco-1848}
+
+**Causas do fracasso.** Cinco fatores se somam:
+
+1. **A fratura social.** As Jornadas de Junho mostraram que liberais e trabalhadores queriam coisas diferentes. Assustada, a burguesia preferiu a ordem — mesmo autoritária — ao risco de uma revolução social. Sem sua aliada, a rua ficou sozinha.
+2. **Os conflitos entre nacionalismos.** Onde havia muitos povos, a liberdade de um virava a opressão do outro: húngaros contra croatas e romenos, alemães contra tchecos e poloneses. Os impérios exploraram essas divisões com maestria.
+3. **A permanência do aparelho de Estado.** Exércitos e burocracias continuaram fiéis aos soberanos. Ao contrário de 1789, as tropas não mudaram de lado.
+4. **O peso do campo.** A maioria camponesa, uma vez atendida (fim da servidão na Áustria) ou assustada com os impostos e a desordem, votou e agiu de forma conservadora — na França, elegeu Luís Bonaparte.
+5. **A falta de coordenação.** Cada revolução foi nacional; a repressão, internacional. A Santa Aliança ainda funcionava: o czar mandou tropas à Hungria, a França mandou tropas a Roma.
+
+**O que ficou.** Chamar 1848 de fracasso puro e simples é ler mal o século. Ficaram:
+
+- o **fim da servidão** no Império Austríaco (e, pouco depois, o exemplo para a emancipação dos servos na Rússia, em 1861);
+- o **sufrágio universal masculino** na França, que nunca mais foi revogado — e a descoberta, incômoda para os liberais, de que o sufrágio universal podia eleger um autoritário;
+- a **abolição da escravidão** nas colônias francesas (1848);
+- o **Estatuto Albertino** no Piemonte, base constitucional da futura Itália unificada;
+- a convicção, nas elites, de que a unificação nacional era inevitável — e de que era melhor fazê-la **pelo alto**, sob controle, do que deixá-la nas mãos das barricadas. É o programa de Cavour e de Bismarck (@sec-unificacoes-italia-alemanha);
+- e, do lado oposto, a percepção operária de que a burguesia liberal não seria sua aliada, o que empurrou o movimento dos trabalhadores para a **organização autônoma** — sindicatos, partidos, a Primeira Internacional (1864) (@sec-segunda-revolucao-industrial-socialismo).
+
+::: {.callout-tip title="Conexão Brasil: a Praieira (1848–1850)"}
+Enquanto a Europa se cobria de barricadas, o Brasil viveu sua última grande revolta provincial do Império: a **Revolução Praieira**, em **Pernambuco** (novembro de 1848 – 1850). O Partido Praieiro — cujo nome vem da rua da Praia, onde ficava a tipografia de seu jornal — reunia liberais, jornalistas e camadas médias urbanas contra o domínio das famílias conservadoras locais, especialmente os Cavalcanti, e contra o predomínio de comerciantes portugueses no varejo do Recife. O **Manifesto ao Mundo** (1849), redigido por Borges da Fonseca, pedia voto livre e universal, liberdade de imprensa, trabalho garantido, federalismo e a "nacionalização do comércio a retalho".
+
+A comparação com 1848 europeu é tentadora e cai em prova — mas exige cuidado. Há paralelos reais (linguagem liberal-radical, papel da imprensa, pauta social) e diferenças decisivas: a Praieira nasce de disputas provinciais anteriores e não questionou a **escravidão**, que estruturava a sociedade brasileira. Chamá-la simplesmente de "1848 brasileiro" é forçar a analogia; ignorar o clima internacional é empobrecê-la. O tema retorna no @sec-segundo-reinado.
+:::
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+Duas discussões atravessam este capítulo: **o que é uma nação** e **o que foi 1848**.
+
+**A nação: essência antiga ou construção moderna?** A resposta do próprio século XIX era **essencialista**: seguindo **Herder** e o Romantismo, a nação seria um dado natural — língua, sangue, território, alma coletiva — que apenas esperava despertar. Contra isso, um documento notável: em 1882, o francês **Ernest Renan** perguntou, numa conferência célebre, *O que é uma nação?*, e recusou todos os critérios objetivos. Nem raça, nem língua, nem religião, nem geografia bastam, mostrou ele, apontando contraexemplos (a Suíça, plurilíngue; os Estados Unidos e a Inglaterra, de mesma língua e nações distintas). A nação, concluiu, é "um plebiscito de todos os dias": um princípio espiritual feito de um passado compartilhado e da **vontade presente** de continuar junto. E acrescentou uma observação que os historiadores repetem desde então: "o esquecimento, e eu diria mesmo o **erro histórico**, é fator essencial na criação de uma nação" — toda nação precisa esquecer as violências que a fundaram [@renan1997].
+
+A historiografia do século XX radicalizou essa pista. **Ernest Gellner** afirmou que "é o nacionalismo que engendra as nações, e não o contrário": a nação seria uma exigência funcional das sociedades industriais, que precisam de uma população alfabetizada numa **língua padronizada** para operar máquinas e burocracias [@gellner1993]. **Benedict Anderson** cunhou a fórmula mais citada: a nação é uma **comunidade imaginada** — imaginada porque nenhum membro conhecerá jamais a maioria dos outros, e ainda assim todos se sentem parte de um mesmo grupo com destino comum. Sua explicação privilegia o **capitalismo de imprensa**: jornais e romances impressos em línguas vernáculas criaram, entre leitores anônimos, a experiência de compartilhar um mesmo tempo e um mesmo mundo [@andersonBenedict2008]. **Eric Hobsbawm** e Terence Ranger acrescentaram o conceito de **invenção das tradições**: hinos, bandeiras, feriados, uniformes e cerimônias "imemoriais" foram em geral fabricados entre 1870 e 1914 para dar raízes profundas a Estados recentes [@hobsbawmRanger1997]. Hobsbawm insistiu ainda que se deve estudar a nação "de baixo", perguntando o que as pessoas comuns de fato sentiam — e mostrando que, muitas vezes, a consciência nacional chegou ao camponês bem depois do Estado, pela escola, pelo serviço militar e pela ferrovia.
+
+Há críticas consistentes a esse consenso "modernista". **Anthony D. Smith** argumenta que as nações modernas não se fabricam do nada: apoiam-se em **etnias** preexistentes (*ethnies*), com mitos, memórias e símbolos de longa duração — sem os quais a "invenção" não pegaria. O debate não está encerrado, e a régua para julgá-lo é empírica: em cada caso, quanto do sentimento nacional é herança e quanto é construção deliberada de Estados, escolas e jornais?
+
+**1848: fracasso, farsa ou fundação?** Aqui as leituras também divergem. Para **Marx**, escrevendo a quente, 1848 foi a revolução burguesa que a burguesia **traiu**: apavorada com o proletariado que aparecera em cena, preferiu entregar-se ao sabre de um Bonaparte — e a França converteu-se no palco onde a luta de classes se tornou visível em estado puro [@marxEngels2010]. Uma tradição liberal britânica, sintetizada na frase atribuída ao historiador **G. M. Trevelyan**, viu 1848 como "o ponto de inflexão em que a história **deixou** de se inflectir": a Europa teve a chance de se tornar liberal e democrática por via pacífica, perdeu-a, e pagou o preço com o autoritarismo prussiano e as guerras seguintes. Já a historiografia recente — **Jonathan Sperber** e Mike Rapport, entre outros — desconfia da própria categoria de "fracasso". Contando não os governos derrubados, mas os **jornais fundados, os clubes políticos criados, as petições assinadas, as eleições realizadas**, esses autores enxergam em 1848 o **nascimento da política de massas** na Europa continental: milhões de pessoas participaram pela primeira vez de eleições, associações e debates públicos, e nenhum regime posterior pôde governar como se elas não existissem [@sperber2005].
+
+**Por que divergem?** Porque escolhem **critérios de sucesso distintos**. Se o critério é a tomada do poder, 1848 fracassou redondamente. Se é a transformação social duradoura, teve êxitos concretos (servidão, sufrágio, escravidão nas colônias francesas). Se é a formação de uma cultura política, foi um marco fundador. E porque cada geração de historiadores olhou para 1848 a partir de sua própria pergunta: os contemporâneos, para explicar a derrota; os liberais do pós-1945, para entender de onde viera o autoritarismo alemão; os historiadores das últimas décadas, treinados na história social e cultural, para observar práticas cotidianas em vez de apenas decisões de gabinete.
+
+## Resumo do capítulo {#sec-resumo}
+
+- **Liberalismo:** direitos individuais anteriores ao Estado, **constituição**, separação de poderes, liberdades civis, igualdade perante a lei e representação; na economia, **laissez-faire** e livre-comércio (Adam Smith). No século XIX era **censitário** e desconfiava da democracia — o eleitorado francês da Monarquia de Julho tinha cerca de 240 mil homens ("**enriqueçam!**", de Guizot).
+- **Nacionalismo:** cada nação tem direito a um Estado. Raízes na Revolução Francesa/Napoleão e no **Romantismo** (Herder, *Volksgeist*, irmãos Grimm). Duas formas: **unificador** (Itália, Alemanha) e **separatista** (Grécia, Bélgica, Polônia, Hungria).
+- **Socialismo:** utópicos (Saint-Simon, Fourier, Owen), **Louis Blanc** (direito ao trabalho), Proudhon (anarquismo) e o **Manifesto Comunista** de Marx e Engels (1848), sem influência sobre os fatos daquele ano, mas decisivo depois.
+- **Ondas revolucionárias:** **1820** (Espanha de Riego, Nápoles, Piemonte, **Revolução do Porto** — que leva ao retorno de D. João VI e, por reação, à **Independência do Brasil**; independência da **Grécia**, 1821–30); **1830** (Três Gloriosas em Paris → **Monarquia de Julho** de Luís Filipe; independência da **Bélgica**; *Reform Act* inglês de 1832; derrota da Polônia).
+- **Causas de 1848:** crise agrícola de 1845–47 (fome da batata na **Irlanda**, cerca de 1 milhão de mortos), crise industrial e financeira, desemprego urbano e bloqueio político.
+- **1848 na França:** banquetes proibidos → barricadas (fevereiro) → abdicação de **Luís Filipe** → **II República**: **sufrágio universal masculino** (9 milhões de eleitores), fim da escravidão nas colônias, **Oficinas Nacionais** (Louis Blanc). Fechadas as oficinas, vêm as **Jornadas de Junho** (23–26/6), esmagadas por **Cavaignac** — a burguesia rompe com os trabalhadores. Em dezembro, **Luís Napoleão** é eleito presidente; golpe em **1851**; **II Império** em 1852 (**Napoleão III**).
+- **1848 na Europa central:** queda de **Metternich** e **fim da servidão** na Áustria; **Kossuth** e a Hungria, derrotada com **140 mil soldados russos** (1849); **Parlamento de Frankfurt** e a recusa da "coroa de sarjeta" por Frederico Guilherme IV; **Palermo** (janeiro, a primeira de todas), Cinco Jornadas de Milão, **República Romana** de Mazzini e Garibaldi, derrotada por tropas francesas; **Estatuto Albertino** no Piemonte.
+- **Por que fracassaram:** fratura entre burguesia e trabalhadores; choque entre nacionalismos rivais; fidelidade de exércitos e burocracias; conservadorismo camponês; ausência de coordenação internacional entre os revolucionários (que a repressão teve).
+- **O que ficou:** fim da servidão na Áustria, sufrágio universal masculino na França, abolição nas colônias francesas, Estatuto Albertino, a convicção de que a unificação nacional deveria ser feita **pelo alto** e a autonomia organizativa do movimento operário.
+- **Brasil:** a **Revolução Praieira** (Pernambuco, 1848–50), com o *Manifesto ao Mundo* (1849) — voto universal, liberdade de imprensa, nacionalização do comércio a retalho —, dialoga com o clima de 1848, mas tem raízes provinciais próprias e **não questionou a escravidão**.
+- **Historiografia:** a nação como essência (**Herder**) × construção (**Renan**, "plebiscito de todos os dias"; **Gellner**, "o nacionalismo engendra as nações"; **Anderson**, "comunidade imaginada"; **Hobsbawm e Ranger**, "invenção das tradições"), com a crítica de **A. D. Smith** (as *ethnies* preexistentes). Sobre 1848: revolução burguesa traída (**Marx**) × "inflexão que não se inflectiu" (**Trevelyan**) × nascimento da **política de massas** (**Sperber**, Rapport).
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Fixe: (1) a distinção **liberalismo × democracia** e o **voto censitário**; (2) nacionalismo **unificador × separatista** e o papel do **Romantismo**; (3) a sequência **1820 → 1830 → 1848** e a conexão da onda de 1820 com a Independência do Brasil; (4) o roteiro francês de 1848, com as **Jornadas de Junho** no centro; (5) as **cinco causas** do fracasso e o que sobreviveu; (6) o debate sobre a nação como construção histórica.
+:::
+
+**1.** Explique por que, no século XIX, **liberalismo** não era sinônimo de **democracia**. Use o exemplo francês.
+
+::: {.callout-tip collapse="true" title="Solução"}
+O liberalismo do século XIX defendia **limitação do poder** (constituição, separação de poderes), **liberdades civis** (expressão, imprensa, culto, propriedade) e **igualdade perante a lei** — mas não a **igualdade política**. Para o liberal típico da época, a participação política deveria caber a quem tivesse instrução e propriedade, únicas garantias, a seu ver, de independência de juízo; estender o voto aos pobres seria entregar o Estado à multidão e ameaçar a propriedade. Daí o **voto censitário**, baseado em critérios de renda.
+
+O exemplo francês é o mais didático: na **Monarquia de Julho** (1830–1848), regime nascido de uma revolução liberal, um país de cerca de 30 milhões de habitantes tinha um eleitorado de aproximadamente **240 mil homens** — menos de 1% da população. Ao pedido de ampliação do sufrágio, o ministro **Guizot** respondeu "**enriqueçam!**". Foi a Revolução de fevereiro de 1848 que instituiu o **sufrágio universal masculino**, saltando para cerca de 9 milhões de eleitores. Detalhe revelador: esse eleitorado ampliado elegeu, em dezembro do mesmo ano, **Luís Napoleão Bonaparte**, que em 1851 daria um golpe — episódio que alimentou por décadas a desconfiança liberal em relação ao voto popular. A fusão entre liberalismo e democracia é obra posterior, resultado da pressão dos movimentos operário, socialista e sufragista.
+:::
+
+**2.** Diferencie **nacionalismo unificador** e **nacionalismo separatista**, dando dois exemplos de cada.
+
+::: {.callout-tip collapse="true" title="Solução"}
+- **Unificador:** povos que compartilham língua e cultura, mas estão divididos em vários Estados, buscam **juntar-se** num único Estado nacional. Exemplos: a **Itália**, fragmentada em reinos, ducados e nos Estados Pontifícios, com o norte sob domínio austríaco; e a **Alemanha**, dividida em 39 Estados pela Confederação Germânica criada em Viena (@sec-unificacoes-italia-alemanha).
+- **Separatista (ou emancipador):** povos submetidos a impérios multinacionais buscam **separar-se** e formar Estado próprio. Exemplos: a **Grécia**, que se emancipou do Império Otomano (1821–1830); a **Bélgica**, que se separou do Reino dos Países Baixos (1830–31); os **húngaros** em relação à Áustria (1848–49) e os **poloneses** em relação à Rússia (1830–31).
+
+Observe a tensão embutida: em impérios multiétnicos, um nacionalismo separatista pode transformar-se em opressor de outro. Foi o que ocorreu em 1848, quando os húngaros, ao reivindicar autonomia frente a Viena, recusaram direitos equivalentes a croatas, sérvios e romenos — e os Habsburgo usaram essas minorias contra Budapeste.
+:::
+
+**3.** Que relação existe entre o **Romantismo** e o nacionalismo do século XIX?
+
+::: {.callout-tip collapse="true" title="Solução"}
+O Romantismo forneceu ao nacionalismo sua **linguagem, seus símbolos e sua justificativa cultural**. Contra o universalismo racionalista do Iluminismo (@sec-iluminismo), os românticos valorizaram o **particular**: o sentimento, a paisagem, o passado medieval e o **espírito do povo** (*Volksgeist*), conceito de **Herder**, para quem cada povo possui uma alma própria expressa acima de tudo na **língua**.
+
+As consequências práticas foram enormes: recolher **contos e canções populares** (os irmãos **Grimm**), fixar gramáticas e dicionários nacionais, escrever **romances históricos** (Walter Scott, Alexandre Herculano) e **óperas** de forte carga patriótica (Verdi na Itália, Wagner na Alemanha), restaurar catedrais góticas, pintar cenas do passado nacional. Tudo isso construiu a convicção de que existia um "nós" antigo e contínuo, com direito a Estado próprio. Note a inversão que a historiografia atual propõe: essas atividades não *descobriram* nações adormecidas — em boa medida, **as produziram**.
+:::
+
+**4.** Explique a conexão entre a onda revolucionária de **1820** na Europa e o processo de **Independência do Brasil**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Em agosto de **1820**, na esteira da revolução liberal espanhola de Riego, eclodiu no Porto uma revolução liberal portuguesa. Suas exigências eram três: **constituição**, convocação das **Cortes** e o **retorno de D. João VI** a Lisboa — acrescidas do fim das medidas que, desde 1808, haviam beneficiado o Brasil (Abertura dos Portos, criação de instituições) e, desde **1815**, o haviam elevado a **Reino Unido a Portugal e Algarves**.
+
+O rei voltou a Portugal em 1821, deixando o filho **D. Pedro** como regente. As Cortes de Lisboa passaram então a legislar no sentido de **recolonizar** o Brasil: subordinar as províncias diretamente a Lisboa, extinguir tribunais criados no Rio e exigir o retorno do príncipe. A reação da elite brasileira — que não pretendia devolver as vantagens conquistadas — produziu o **Fico** (janeiro de 1822) e a escalada que levou à ruptura em **7 de setembro de 1822** (@sec-independencia).
+
+A lição conceitual: o **liberalismo** não tem um único sentido político. Em Portugal, era progressista frente ao absolutismo; visto do Brasil, o mesmo movimento apresentava-se como ameaça **recolonizadora**. É um bom antídoto contra a leitura de que as ideias têm sempre e em toda parte o mesmo efeito.
+:::
+
+**5.** Descreva a sequência dos acontecimentos na **França em 1848** e explique por que as **Jornadas de Junho** são consideradas um divisor de águas.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Sequência:** (i) crise econômica de 1846–47 e bloqueio político da Monarquia de Julho; (ii) proibição de um **banquete** político em Paris e barricadas em **22–24 de fevereiro**; (iii) **abdicação de Luís Filipe** e proclamação da **Segunda República**, com governo provisório de liberais e socialistas (**Louis Blanc**); (iv) medidas iniciais: **sufrágio universal masculino**, fim da pena de morte por crimes políticos, **abolição da escravidão nas colônias** e criação das **Oficinas Nacionais** (direito ao trabalho); (v) eleições de abril, pelo sufrágio universal, com vitória de **moderados e conservadores**, graças sobretudo ao voto do campo; (vi) **fechamento das Oficinas Nacionais** em 21 de junho; (vii) insurreição operária de **23 a 26 de junho**, esmagada pelo general **Cavaignac** (milhares de mortos, cerca de 11 mil prisões, deportações); (viii) eleição de **Luís Napoleão Bonaparte** à presidência em dezembro, com cerca de 75% dos votos; (ix) golpe de **2 de dezembro de 1851** e proclamação do **Segundo Império** em 1852.
+
+**Por que são divisor de águas:** em junho, pela primeira vez, o **proletariado urbano** lutou **sozinho**, por objetivos próprios (direito ao trabalho), e foi reprimido não por um rei absolutista, mas por um **governo republicano** apoiado pela burguesia e pelo campesinato. Ficou evidente que a aliança de fevereiro entre burguesia liberal e trabalhadores era circunstancial. As consequências foram duas e duradouras: a burguesia europeia passou a temer mais a **revolução social** do que a reação monárquica — preferindo a ordem autoritária —, e o movimento operário concluiu que precisava de **organização própria**, o que conduz aos sindicatos, aos partidos socialistas e à Primeira Internacional (@sec-segunda-revolucao-industrial-socialismo).
+:::
+
+**6.** Aponte **quatro causas** do fracasso das revoluções de 1848 e **três resultados** que, apesar da derrota, se mantiveram.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Causas do fracasso** (quatro entre as cinco principais):
+
+1. **Fratura entre burguesia liberal e trabalhadores**, escancarada nas Jornadas de Junho: assustada, a burguesia trocou a revolução pela ordem.
+2. **Choque entre nacionalismos rivais** nos impérios multinacionais (húngaros × croatas, sérvios e romenos; alemães × tchecos e poloneses), habilmente explorado pelos Habsburgo.
+3. **Fidelidade do aparelho de Estado** — exércitos e burocracias não mudaram de lado, ao contrário do que ocorrera em 1789.
+4. **Conservadorismo do campo**, majoritário na população: uma vez abolida a servidão (Áustria) ou irritado com os impostos (França), votou e agiu contra a revolução urbana.
+5. **Falta de coordenação internacional** entre os revolucionários, enquanto a repressão foi internacional (140 mil russos na Hungria; franceses em Roma).
+
+**Resultados duradouros** (três entre vários): o **fim da servidão** no Império Austríaco; o **sufrágio universal masculino** na França, jamais revogado; a **abolição da escravidão** nas colônias francesas (1848); o **Estatuto Albertino** no Piemonte, base da futura constituição italiana; e a conclusão, adotada pelas elites, de que a unificação nacional deveria ser conduzida **pelo alto**, por Estados e exércitos — programa que Cavour e Bismarck executariam.
+:::
+
+**7.** (Estilo ENEM) Leia o texto.
+
+> "Uma nação é uma alma, um princípio espiritual. […] Ter glórias comuns no passado, uma vontade comum no presente; ter feito grandes coisas juntos, querer fazer ainda mais: eis as condições essenciais para ser um povo. […] A existência de uma nação é um plebiscito de todos os dias. […] O esquecimento, e eu diria mesmo o erro histórico, é um fator essencial na criação de uma nação."
+>
+> — Ernest Renan, *O que é uma nação?*, conferência de 1882 — @renan1997
+
+Com base no texto, a concepção de nação defendida pelo autor caracteriza-se por
+
+**(a)** fundamentar a nacionalidade na unidade racial e linguística de um povo.
+**(b)** entender a nação como realidade natural e imutável, anterior à ação humana.
+**(c)** conceber a nação como construção histórica sustentada por memória seletiva e adesão voluntária contínua.
+**(d)** identificar a nação com as fronteiras geográficas definidas pelos tratados internacionais.
+**(e)** atribuir à autoridade dinástica o papel de fundamento último da unidade nacional.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (c).** Renan recusa explicitamente os critérios objetivos (raça, língua, religião, geografia) e define a nação por dois elementos: um **passado compartilhado** — do qual, note bem, faz parte também o **esquecimento** deliberado de conflitos e violências, o "erro histórico" — e a **vontade presente** de permanecer junto, o "**plebiscito de todos os dias**". São, respectivamente, memória seletiva e adesão voluntária continuamente renovada, ou seja, uma nação **construída historicamente**.
+
+As demais: **(a)** e **(b)** correspondem à concepção **essencialista**, de raiz romântica (Herder), que o texto combate; **(d)** é justamente o critério geográfico que Renan descarta como insuficiente; **(e)** remete ao princípio da **legitimidade dinástica** do Congresso de Viena, que o nacionalismo do século XIX veio contestar ao transferir a soberania do rei para a nação.
+:::
+
+**8.** (Estilo vestibular — dissertativa) Compare os movimentos de 1848 na **França** e nos **Estados alemães**, indicando o que cada um reivindicava e como terminou. Em seguida, explique de que modo o desfecho alemão condicionou o processo de unificação posterior.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**França.** A reivindicação central era **política e social**: ampliação do sufrágio, liberdades e — na pauta dos trabalhadores — o **direito ao trabalho**. O Estado nacional francês já existia e não estava em questão. O movimento derrubou a monarquia em fevereiro, instaurou a **Segunda República** com sufrágio universal masculino, mas cindiu-se em junho: as **Jornadas de Junho** opuseram operários e governo republicano burguês, e a repressão de **Cavaignac** encerrou a fase social da revolução. O desfecho foi a eleição de **Luís Napoleão** (dezembro de 1848), o golpe de **1851** e o **Segundo Império** (1852).
+
+**Estados alemães.** A reivindicação era **nacional e constitucional**: unificar os 39 Estados da Confederação Germânica num Estado nacional dotado de constituição liberal. O **Parlamento de Frankfurt** (1848–49), eleito e majoritariamente formado por profissionais liberais e professores, discutiu direitos fundamentais e enfrentou o dilema **Grande Alemanha** (com a Áustria multinacional) × **Pequena Alemanha** (sob a Prússia). Optou pela segunda e ofereceu a coroa imperial a **Frederico Guilherme IV**, que a **recusou** — não aceitaria uma "coroa de sarjeta", vinda de assembleia popular e não dos príncipes. Sem exército e sem apoio dos soberanos, o parlamento foi dissolvido pela tropa.
+
+**Como o desfecho condicionou a unificação:** ficou demonstrado que, na Alemanha, a unidade **não seria conquistada por debate parlamentar nem por revolução popular**, e sim pela força de um Estado — a Prússia — com seu exército, sua burocracia e sua economia (o **Zollverein**). Boa parte da burguesia liberal alemã, escaldada pelo fracasso e temerosa da revolução social, aceitou a troca: abriria mão do protagonismo político em nome da unidade e da prosperidade. É exatamente o cálculo que **Bismarck** exploraria a partir de 1862 com a política do "**ferro e sangue**", realizando a **Pequena Alemanha** desenhada em Frankfurt, porém por meios opostos aos de Frankfurt — uma unificação **conservadora, pelo alto** (@sec-unificacoes-italia-alemanha). Muitos historiadores viram nessa origem autoritária uma das raízes de longo prazo da fragilidade da democracia alemã até 1933, embora essa tese do "caminho especial" alemão (*Sonderweg*) seja hoje bastante contestada.
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- HOBSBAWM, Eric. *A era das revoluções: 1789–1848* [@hobsbawmRevolucoes2020] e *A era do capital: 1848–1875* [@hobsbawmCapital2015]. O primeiro termina exatamente onde este capítulo se concentra; o segundo mostra o mundo que nasceu da derrota.
+- ANDERSON, Benedict. *Comunidades imaginadas* [@andersonBenedict2008]. O livro mais influente sobre a formação das nações; leia ao menos o capítulo sobre o "capitalismo de imprensa".
+- GELLNER, Ernest. *Nações e nacionalismo* [@gellner1993] e HOBSBAWM, Eric; RANGER, Terence (orgs.). *A invenção das tradições* [@hobsbawmRanger1997].
+- SPERBER, Jonathan. *The European Revolutions, 1848–1851* [@sperber2005]. A síntese que reabilita 1848 como início da política de massas.
+
+**Fontes primárias**
+
+- RENAN, Ernest. *O que é uma nação?* (1882) [@renan1997]. Curtíssimo e extraordinário — talvez o texto mais bem escrito já produzido sobre o tema.
+- MARX, Karl; ENGELS, Friedrich. *Manifesto do Partido Comunista* (1848) [@marxEngels2010]. Leia-o como documento **de** 1848, não apenas como doutrina.
+- *Manifesto ao Mundo* (Pernambuco, 1849), da Revolução Praieira. Compare suas reivindicações com as dos revolucionários europeus — e note o que ele **não** reivindica.
+
+**Filmes, arte e música**
+
+- *Os miseráveis* (várias versões; o romance de Victor Hugo é de 1862). A insurreição retratada é a de **1832**, não a de 1848 — bom exercício de precisão cronológica.
+- **Eugène Delacroix**, *A liberdade guiando o povo* (1830): o quadro que fixou a imagem da revolução liberal — e que retrata **1830**, não 1789 nem 1848.
+- **Giuseppe Verdi**, coro *Va, pensiero*, da ópera *Nabucco* (1842): como uma melodia sobre o exílio dos hebreus virou hino patriótico italiano.
