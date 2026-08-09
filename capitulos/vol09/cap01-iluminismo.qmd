@@ -1,5 +1,247 @@
 # O Iluminismo {#sec-iluminismo}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Abra a Constituição brasileira de 1988 e leia seu artigo 5º: "todos são iguais perante a lei"; ninguém "será submetido a tortura"; é livre a "manifestação do pensamento"; o poder se divide em Executivo, Legislativo e Judiciário. Nada disso soa estranho a você — parece o óbvio, o mínimo de qualquer país decente. Mas essas ideias **não existiram na maior parte da história humana**. Durante milênios, o normal foi o contrário: a desigualdade jurídica entre nobres e plebeus, a tortura como método legal de investigação, a censura, o poder concentrado nas mãos de um rei que dizia governar em nome de Deus. As frases que hoje nos parecem evidentes foram **inventadas** — pensadas, escritas e defendidas — por um grupo de pensadores europeus do século XVIII que se autodenominaram "as Luzes". Este capítulo é sobre esse momento em que um punhado de filósofos ousou submeter **tudo** — a religião, o rei, a tradição, a escravidão — ao tribunal da **razão**, e assim forneceu a linguagem com que o mundo moderno passaria a discutir liberdade, igualdade e direitos.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- caracterizar o **Iluminismo** como movimento intelectual do século XVIII e explicar o lema kantiano "ouse saber" (*sapere aude*);
+- identificar as **raízes** do movimento (Revolução Científica, empirismo de Locke, racionalismo) e suas **ideias-força**: razão, natureza, progresso, tolerância e liberdade;
+- distinguir as propostas políticas de **Montesquieu**, **Voltaire** e **Rousseau** e a proposta econômica do **liberalismo** (fisiocratas e Adam Smith) contra o mercantilismo;
+- explicar o **despotismo esclarecido** e reconhecer as **contradições e limites** do Iluminismo (escravidão, colonialismo, lugar das mulheres);
+- relacionar o Iluminismo às **revoluções** dos séculos XVIII e XIX e discutir como os historiadores interpretam seu significado.
 :::
+
+## O Século das Luzes: ousar saber {#sec-seculo-das-luzes}
+
+**Iluminismo** (do francês *Lumières*, do inglês *Enlightenment*, do alemão *Aufklärung*) é o nome dado a um amplo movimento intelectual que dominou o pensamento europeu, sobretudo na **França**, ao longo do **século XVIII** — por isso a época ficou conhecida como o **Século das Luzes**. A metáfora é reveladora: os pensadores do movimento acreditavam trazer a **luz da razão** para dissipar as **trevas** da ignorância, da superstição e do que chamavam de "obscurantismo" — a autoridade cega da tradição, do dogma religioso e do poder absoluto.
+
+Em 1784, o filósofo alemão **Immanuel Kant** (1724–1804) escreveu o texto que melhor define o espírito do movimento. Perguntado "o que é o Esclarecimento?", respondeu: é a "saída do ser humano de sua **menoridade**, da qual ele próprio é culpado". Menoridade, explicava Kant, é a incapacidade de usar o próprio entendimento sem a tutela de outro — do padre que pensa pela sua consciência, do livro que pensa pela sua cabeça, do médico que decide sua dieta. E concluía com a divisa que virou o brasão do Iluminismo: ***Sapere aude!*** — "**Ouse saber! Tenha coragem de usar o teu próprio entendimento**" [@kant1985].
+
+::: {.callout-note title="Conceito-chave: Iluminismo"}
+**Iluminismo** é o movimento intelectual do século XVIII que defendia o uso da **razão** e da **experiência** como caminhos para o conhecimento verdadeiro e para a organização racional da sociedade, em oposição à autoridade da tradição, da Igreja e do absolutismo. Seus pensadores — os *philosophes* — não eram, em geral, filósofos acadêmicos, mas **intelectuais públicos** (escritores, cientistas, economistas) que buscavam **transformar** a sociedade escrevendo para um público amplo.
+:::
+
+Repare numa palavra da definição de Kant: "**da qual ele próprio é culpado**". Para os iluministas, a ignorância não era um destino, e sim uma **escolha covarde** — era mais cômodo obedecer do que pensar. O convite do Iluminismo é, portanto, um convite à **autonomia**: a humanidade adulta é aquela que se atreve a examinar criticamente o mundo herdado e a perguntar, diante de cada instituição, de cada lei, de cada crença: *isto é razoável? isto é justo?* É uma atitude, antes de ser uma doutrina.
+
+## As raízes: da ciência à razão social {#sec-raizes-iluminismo}
+
+O Iluminismo não caiu do céu. Ele foi o herdeiro direto da **Revolução Científica** dos séculos XVI e XVII (@sec-revolucao-cientifica). Quando **Isaac Newton** (1643–1727) mostrou, na sua *Principia* (1687), que os mesmos poucos princípios matemáticos explicavam a queda de uma maçã e o movimento dos planetas, ele ofereceu ao século seguinte um modelo deslumbrante: o universo era uma **máquina racional**, governada por **leis** que a mente humana podia descobrir. A pergunta iluminista nasceu daí, por analogia: se existem leis naturais que regem os astros, **não existiriam também leis racionais que deveriam reger a sociedade, a política e a economia**? A física de Newton virou o modelo para uma "física do mundo social".
+
+O segundo pilar veio da filosofia inglesa. O médico e filósofo **John Locke** (1632–1704) sustentou, contra a ideia de que nascemos com conhecimentos inatos, que a mente ao nascer é uma **folha em branco** (*tabula rasa*): todo o nosso saber vem da **experiência**, dos sentidos. Essa corrente, o **empirismo**, tinha uma consequência social explosiva. Se o que somos depende da experiência e não do nascimento, então as diferenças entre um nobre e um plebeu não são naturais nem divinas — são fruto da **educação** e do **ambiente**. E o que a educação fez, a educação (e a reforma das instituições) pode **refazer**. O Iluminismo será, no fundo, uma imensa aposta no poder da educação e das leis para aperfeiçoar o ser humano.
+
+::: {#fig-raizes-ideias-iluminismo}
+
+```{.tikz}
+%%| filename: fig-raizes-ideias-iluminismo
+%%| alt: Diagrama mostrando as raízes do Iluminismo (Revolução Científica e empirismo de Locke) convergindo para as ideias-força e destas para as revoluções.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \node[draw, thick, rounded corners, fill=manualgreen!14, align=center, text width=3.1cm, minimum height=1.2cm] (rc) at (0,1.6) {\textbf{Revolução Científica}\\ Newton: universo regido por \textbf{leis}};
+  \node[draw, thick, rounded corners, fill=manualgreen!14, align=center, text width=3.1cm, minimum height=1.2cm] (loc) at (0,-0.2) {\textbf{Empirismo} (Locke)\\ mente = \textit{tabula rasa};\\ tudo vem da experiência};
+  \node[draw, very thick, rounded corners, fill=manualyellow!25, align=center, text width=3.3cm, minimum height=1.9cm] (id) at (5,0.7) {\textbf{IDEIAS-FORÇA}\\[2pt] razão · natureza\\ progresso · tolerância\\ liberdade · igualdade};
+  \node[draw, very thick, rounded corners, fill=manualred!16, align=center, text width=3.1cm, minimum height=1.9cm] (rev) at (9.9,0.7) {\textbf{REVOLUÇÕES}\\[2pt] EUA (1776)\\ França (1789)\\ liberalismo do séc. XIX};
+  \draw[vetor, thick] (rc.east) -- (id.north west);
+  \draw[vetor, thick] (loc.east) -- (id.south west);
+  \draw[vetor, thick] (id.east) -- (rev.west);
+\end{tikzpicture}
+```
+
+Da ciência e do empirismo às ideias-força do Iluminismo — e destas às revoluções. O movimento converte a confiança nas **leis da natureza** numa proposta de **reforma racional da sociedade**.
+:::
+
+Dessas raízes brotaram as **ideias-força** que atravessam todo o movimento: a **razão** (critério último para julgar tudo); a **natureza** (existe uma ordem natural, e há **direitos naturais** que todo ser humano possui só por nascer — vida, liberdade, propriedade); o **progresso** (a história caminha, ou pode caminhar, para o aperfeiçoamento — ideia nova, que rompe com a visão cíclica ou decadente do tempo); a **tolerância** (ninguém deve ser perseguido por suas crenças); e a **liberdade** (de pensar, de escrever, de comerciar, de crer).
+
+## Os filósofos e a política: repensar o poder {#sec-filosofos-politica}
+
+O alvo político do Iluminismo era o **Absolutismo** (@sec-absolutismo) e sua justificativa, o **direito divino dos reis**. Contra ele, três pensadores franceses formularam as ideias que moldariam o mundo político moderno.
+
+**Montesquieu** (1689–1755), na obra *O espírito das leis* (1748), enfrentou a pergunta: como impedir que o poder se torne tirânico? Sua resposta, inspirada na observação da monarquia inglesa, tornou-se um dos pilares do Estado moderno: a **separação dos três poderes** — Executivo, Legislativo e Judiciário — em mãos diferentes, de modo que "o poder freie o poder" [@montesquieu2000]. É o princípio dos **freios e contrapesos** que você encontra hoje em praticamente toda constituição democrática.
+
+**Voltaire** (pseudônimo de François-Marie Arouet, 1694–1778) foi a arma mais afiada do movimento: espirituoso, mordaz, incansável. Sua bandeira era a **liberdade de expressão** e a **tolerância religiosa**. Crítico feroz do fanatismo e dos abusos da Igreja Católica — resumidos em seu grito de guerra *"Écrasez l'infâme!"* ("Esmagai a infame!", isto é, a intolerância) —, Voltaire não era ateu: defendia o **deísmo**, a crença num Deus "relojoeiro" que criou o mundo racional e não se mete nos assuntos humanos nem exige dogmas e perseguições [@voltaire2007]. Admirava a monarquia inglesa, com seu parlamento e sua relativa liberdade de imprensa, e a opunha ao absolutismo francês.
+
+**Jean-Jacques Rousseau** (1712–1778) foi o mais radical e o mais original — e, em vários pontos, um crítico dos outros iluministas. Em *Do contrato social* (1762), abre com a frase mais célebre do século: "O homem nasce livre, e por toda parte se encontra acorrentado" [@rousseau1999]. Para Rousseau, a legitimidade do poder não vem de Deus nem da força, mas de um **pacto** (o **contrato social**) pelo qual os indivíduos livres se associam e transferem a soberania ao **conjunto do povo**. O soberano, portanto, é o **povo**, guiado pela **vontade geral** (o interesse comum, distinto da mera soma dos interesses egoístas). É a formulação mais forte da ideia de **soberania popular** — a semente da democracia moderna e uma inspiração direta da Revolução Francesa.
+
+::: {.callout-tip title="Como não confundir os três"}
+Um mnemônico de prova: **Montesquieu = poderes** (separação/freios); **Voltaire = liberdade e tolerância** (crítica à Igreja, liberdade de expressão); **Rousseau = povo** (soberania popular, vontade geral, contrato social). Cuidado: Rousseau **não** propôs a separação de poderes (isso é Montesquieu), e Montesquieu **não** era democrata radical — admitia a monarquia moderada. Trocar os três é o erro mais comum em provas.
+:::
+
+Acima de todos, como empreendimento coletivo, ergueu-se a ***Enciclopédia*** (1751–1772), dirigida por **Denis Diderot** (1713–1784) e **Jean d'Alembert** (1717–1783). Em 35 volumes reunindo mais de 70 mil verbetes escritos por dezenas de colaboradores (Voltaire, Montesquieu, Rousseau entre eles), a *Encyclopédie* pretendia **organizar todo o conhecimento humano** segundo a razão, e ao fazê-lo difundia, entre as entrelinhas dos verbetes técnicos, a crítica à Igreja e ao absolutismo. Foi perseguida e censurada — e justamente por isso tornou-se um enorme sucesso e o símbolo da fé iluminista de que **espalhar conhecimento é libertar**.
+
+## A economia: o nascimento do liberalismo {#sec-liberalismo-economico}
+
+O Iluminismo também revolucionou o pensamento econômico, atacando o **mercantilismo** (@sec-monarquias-nacionais-mercantilismo) — a doutrina que mandava o Estado controlar rigidamente a economia, acumular metais preciosos e proteger o comércio por monopólios. Contra esse dirigismo, surgiu o **liberalismo econômico**.
+
+Primeiro vieram os **fisiocratas** franceses (de *physis*, natureza + *kratos*, poder), liderados por **François Quesnay** (1694–1774), que sustentavam que a riqueza vinha da **terra** (da agricultura) e que a economia tinha **leis naturais** próprias. Deles vem o lema imortal *"laissez faire, laissez passer"* — "**deixai fazer, deixai passar**" —, um pedido para que o Estado **parasse de interferir** e deixasse a economia funcionar por si.
+
+A síntese definitiva veio do escocês **Adam Smith** (1723–1790). Em *A riqueza das nações* (1776), Smith argumentou que a fonte da riqueza não é o ouro, mas o **trabalho** e sua **divisão** (a especialização, que multiplica a produtividade). E formulou a imagem mais famosa da economia: ao buscar cada um o seu próprio interesse num mercado livre, os indivíduos são conduzidos, "como que por uma **mão invisível**", a promover o bem-estar coletivo [@smith1996]. A conclusão política era o **livre mercado** e o **Estado mínimo**: o governo deveria limitar-se à justiça, à defesa e às obras públicas, deixando a economia se regular pela oferta e pela procura. Nascia ali a doutrina que serviria de bandeira à burguesia industrial que estudaremos no próximo capítulo.
+
+## Reis "filósofos" e os limites do Iluminismo {#sec-despotismo-e-limites}
+
+Como as novas ideias circulavam entre a elite, alguns monarcas absolutistas resolveram vesti-las — sem, é claro, abrir mão do poder. Surgiu o **despotismo esclarecido** (ou "absolutismo ilustrado"): reis que **mantinham o poder absoluto**, mas adotavam **reformas racionalizadoras** inspiradas nos filósofos (modernizar a administração, estimular a economia, reduzir o poder da Igreja, tolerar cultos, reformar leis). O exemplo clássico é **Frederico II da Prússia** (1712–1786), que se dizia "primeiro servidor do Estado" e hospedou Voltaire; **Catarina II da Rússia** (1729–1796), que se correspondia com Diderot; e, em Portugal, o **Marquês de Pombal** (1699–1782), cujas reformas atingiram diretamente o Brasil (expulsão dos jesuítas, modernização administrativa). A fórmula era ambígua: **"tudo para o povo, nada pelo povo"** — melhorias impostas de cima, sem participação popular.
+
+::: {.callout-warning title="Controvérsia: o Iluminismo e suas contradições"}
+Seria anacrônico apresentar o Iluminismo como um bloco coerente de "boas ideias" que apenas aguardava aplicação. O movimento estava atravessado por **contradições** que a historiografia recente coloca em primeiro plano:
+
+- **Escravidão e colonialismo.** Filósofos que proclamavam a liberdade natural do homem conviveram — e por vezes lucraram — com o tráfico atlântico de escravizados. Locke redigiu a constituição de uma colônia escravista e investiu no comércio de escravos; muitos *philosophes* defendiam a superioridade europeia. Houve, é verdade, vozes abolicionistas (o próprio Montesquieu ironizou a escravidão; a *Enciclopédia* a condenou), mas a "liberdade universal" foi, na prática, aplicada de forma **seletiva**.
+- **As mulheres.** Os salões parisienses onde o Iluminismo fervilhava eram frequentemente **dirigidos por mulheres** (as *salonnières*, como Madame Geoffrin), verdadeiras organizadoras da vida intelectual. Ainda assim, a maioria dos filósofos — Rousseau à frente — reservava às mulheres o espaço doméstico e as excluía da cidadania. Seria uma mulher, **Olympe de Gouges**, a expor essa contradição em 1791, com a *Declaração dos Direitos da Mulher e da Cidadã* — e ela acabaria guilhotinada.
+
+Reconhecer esses limites não "desmascara" o Iluminismo: mostra que seus **próprios princípios** (a igualdade natural, os direitos universais) forneceram as armas com que mulheres, escravizados e colonizados cobrariam, depois, a promessa não cumprida.
+:::
+
+## O legado: as ideias que viraram revolução {#sec-legado-iluminismo}
+
+O Iluminismo não ficou nos livros. Suas ideias — soberania popular, direitos naturais, separação de poderes, liberdade, igualdade perante a lei — tornaram-se o **programa** dos grandes movimentos que encerram o século XVIII e abrem a Idade Contemporânea. A **Independência dos Estados Unidos** (1776) e a **Revolução Francesa** (1789) citarão explicitamente Locke, Montesquieu e Rousseau em seus documentos fundadores. As **Inconfidências** no Brasil (@sec-crise-colonial-inconfidencias) leram os mesmos autores. O **liberalismo econômico** de Smith guiará a Revolução Industrial. Em suma: as ideias que você viu no artigo 5º da Constituição começaram como frases perigosas, sussurradas em salões e impressas em livros proibidos do século XVIII (@fig-linha-do-tempo-iluminismo).
+
+::: {#fig-linha-do-tempo-iluminismo}
+
+```{.tikz}
+%%| filename: fig-linha-do-tempo-iluminismo
+%%| alt: Linha do tempo do Iluminismo, de Locke (1689) e Newton (1687) à Revolução Francesa (1789).
+\begin{tikzpicture}[>=stealth]
+  \draw[eixo] (0,0) -- (13.4,0);
+  \node[eixo, gray] at (13.4,-0.5) {\scriptsize tempo};
+
+  \node[ponto] at (0.9,0) {};
+  \node[below] at (0.9,-0.15) {\scriptsize 1687--89};
+  \node[above, align=center, text=manualgreen] at (0.9,0.2) {\scriptsize Newton;\\\scriptsize Locke};
+
+  \node[ponto] at (4.0,0) {};
+  \node[below] at (4.0,-0.15) {\scriptsize 1748};
+  \node[above, align=center, text=manualblue] at (4.0,0.2) {\scriptsize Montesquieu\\\scriptsize \textit{Espírito das leis}};
+
+  \node[ponto] at (6.3,0) {};
+  \node[below] at (6.3,-0.15) {\scriptsize 1751};
+  \node[above, align=center, text=manualblue] at (6.3,0.55) {\scriptsize \textit{Enciclopédia}};
+
+  \node[ponto] at (8.4,0) {};
+  \node[below] at (8.4,-0.15) {\scriptsize 1762};
+  \node[above, align=center, text=manualblue] at (8.4,0.2) {\scriptsize Rousseau\\\scriptsize \textit{Contrato social}};
+
+  \node[ponto] at (10.8,0) {};
+  \node[below] at (10.8,-0.15) {\scriptsize 1776};
+  \node[above, align=center, text=manualgreen] at (10.8,0.55) {\scriptsize Smith;\\\scriptsize Independência EUA};
+
+  \node[ponto] at (12.9,0) {};
+  \node[below] at (12.9,-0.15) {\scriptsize 1789};
+  \node[above, align=center, text=manualred] at (12.9,0.2) {\scriptsize Revolução\\\scriptsize Francesa};
+\end{tikzpicture}
+```
+
+Do fundamento científico e filosófico (Newton e Locke) às obras-chave dos *philosophes* e, enfim, às revoluções. Escala não linear.
+:::
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+O que foi, afinal, o Iluminismo — e o que ele produziu? Poucos temas dividem tanto os historiadores, porque avaliar o Iluminismo é, no fundo, avaliar a própria **modernidade** de que somos herdeiros.
+
+**A defesa entusiasta (Peter Gay).** Em uma obra monumental dos anos 1960, o historiador **Peter Gay** (1923–2015) descreveu o Iluminismo como um **"paganismo moderno"**: um movimento razoavelmente unificado de intelectuais que, retomando a liberdade crítica dos antigos gregos e romanos, empreendeu uma corajosa luta pela **liberdade** — de pensar, de criticar, de viver sem o medo imposto pela religião [@gay2011]. Para Gay, apesar das diferenças entre os *philosophes*, havia uma "família" com um programa comum, e seu saldo foi amplamente **positivo**: a tolerância, os direitos humanos, a ciência, a crítica ao poder arbitrário.
+
+**A crítica radical (a Dialética do Esclarecimento).** No extremo oposto, os filósofos alemães **Theodor Adorno** (1903–1969) e **Max Horkheimer** (1895–1973), escrevendo em plena Segunda Guerra Mundial, formularam uma acusação demolidora: a mesma **razão** iluminista que prometia libertar a humanidade teria se convertido em **razão instrumental** — cálculo frio a serviço da dominação. Para eles, a lógica de controlar a natureza pela ciência deslizou para o controle dos próprios seres humanos, e o "esclarecimento" ajudaria a explicar tanto o capitalismo industrial quanto, no limite, a burocracia técnica que tornou possível o horror dos campos de extermínio. Nessa leitura pessimista, o Iluminismo carrega em si a semente de sua própria perversão.
+
+**A história social das ideias (Robert Darnton) e o Iluminismo radical (Jonathan Israel).** Entre os dois polos, a historiografia recente refinou o quadro. **Robert Darnton** (n. 1939) deslocou o olhar dos grandes livros para o **mundo social** em que as ideias circulavam: os editores, os contrabandistas de livros proibidos, os escritores fracassados da "Grub Street" parisiense que, na miséria, produziam panfletos difamatórios contra a corte. Para Darnton, o Iluminismo que **corroeu de fato** a legitimidade do Antigo Regime não foi só o dos tratados sublimes, mas também o dos **libelos baratos e pornográficos** que ridicularizavam o rei e a rainha [@darnton1987]. Já **Jonathan Israel** (n. 1946) propôs distinguir um **Iluminismo moderado** (Locke, Montesquieu, Voltaire — que buscavam reformar, conciliando razão e religião) de um **Iluminismo radical**, minoritário e mais consequente, de raiz **espinosana**, que teria defendido desde cedo a democracia plena, o materialismo e a igualdade — e que seria, para Israel, a verdadeira origem intelectual dos valores modernos [@israel2013].
+
+**Por que essas leituras divergem?** Porque fazem **perguntas diferentes** e nascem de **contextos diferentes**. Peter Gay, escrevendo no Ocidente liberal do pós-guerra, quis reivindicar a herança da tolerância contra os totalitarismos; Adorno e Horkheimer, judeus exilados do nazismo, perguntavam-se como a Europa "civilizada" produzira Auschwitz — e por isso desconfiaram da própria razão. Darnton quis saber *como*, na prática social, as ideias derrubam um regime; Israel quer identificar *quais* ideias, exatamente, fundam a modernidade democrática. A lição vale para todo o manual: o Iluminismo não é um bloco a ser "amado" ou "condenado" em bloco, mas um processo **plural e contraditório** — e a maneira madura de estudá-lo é perguntar *qual* Iluminismo, *de quem* e *com quais efeitos*.
+
+## Resumo do capítulo {#sec-resumo}
+
+- O **Iluminismo** foi o movimento intelectual do **século XVIII** (o "Século das Luzes"), sobretudo francês, que elegeu a **razão** como critério para julgar e reformar a sociedade, contra a tradição, o dogma religioso e o absolutismo. Lema de **Kant**: *sapere aude* — "ouse saber", saia da **menoridade**.
+- **Raízes:** a **Revolução Científica** (Newton: universo regido por leis racionais) e o **empirismo** de **Locke** (mente como *tabula rasa*; tudo vem da experiência → as desigualdades não são naturais). **Ideias-força:** razão, natureza (direitos naturais), progresso, tolerância, liberdade, igualdade.
+- **Política:** **Montesquieu** (*O espírito das leis*, 1748) → **separação dos três poderes** e freios e contrapesos; **Voltaire** → **liberdade de expressão** e **tolerância religiosa**, crítica à Igreja, deísmo; **Rousseau** (*Do contrato social*, 1762) → **soberania popular** e **vontade geral**. A **Enciclopédia** (Diderot e d'Alembert) difundiu o ideário.
+- **Economia:** o **liberalismo** contra o mercantilismo. **Fisiocratas** (Quesnay): *laissez faire*. **Adam Smith** (*A riqueza das nações*, 1776): riqueza vem do **trabalho**; a **"mão invisível"** do mercado livre e o **Estado mínimo**.
+- **Despotismo esclarecido:** reis absolutistas que adotaram reformas racionalizadoras sem abrir mão do poder (**Frederico II**, **Catarina II**, **Pombal**): "tudo para o povo, nada pelo povo".
+- **Limites e contradições:** convivência com a **escravidão** e o **colonialismo**; exclusão política das **mulheres** (apesar do papel central das *salonnières*; Olympe de Gouges cobrará a promessa em 1791). Os próprios princípios iluministas darão, depois, as armas aos excluídos.
+- **Legado:** forneceu o programa das **revoluções** — Independência dos EUA (1776), Revolução Francesa (1789), Inconfidências, liberalismo do século XIX. Historiografia: defesa (**Gay**) × crítica (**Adorno e Horkheimer**) × história social das ideias (**Darnton**) e Iluminismo radical (**Israel**).
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Fixe: (1) a definição de Kant (*sapere aude*, menoridade); (2) as **raízes** (Newton, Locke); (3) o "trio" político (**Montesquieu/poderes**, **Voltaire/tolerância**, **Rousseau/povo**); (4) o **liberalismo** (Smith, mão invisível, *laissez faire*); (5) o **despotismo esclarecido**; (6) os **limites** (escravidão, mulheres) e o debate historiográfico.
+:::
+
+**1.** Explique o lema iluminista *sapere aude* ("ouse saber") a partir da definição de Kant. O que ele chamava de "menoridade"?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Para **Kant**, o Esclarecimento (Iluminismo) é a **saída do ser humano da menoridade** — e "menoridade" é a incapacidade de usar o próprio entendimento **sem a tutela de outro** (o padre, o livro, a autoridade que pensam por nós). Essa menoridade, dizia Kant, é "culpada", porque decorre não de falta de inteligência, mas de **preguiça e covardia**: é mais cômodo obedecer do que pensar. O lema *sapere aude* — "ouse saber, tenha coragem de usar o teu próprio entendimento" — é, portanto, um chamado à **autonomia** intelectual: a humanidade "adulta" é a que se atreve a examinar criticamente a tradição, a religião e o poder, perguntando de cada coisa se é razoável e justa.
+:::
+
+**2.** Relacione a Revolução Científica (Newton) e o empirismo de Locke às ideias sociais do Iluminismo. Por que essas raízes eram "explosivas"?
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Newton** mostrou que o universo era governado por **leis racionais** que a mente humana podia descobrir; por analogia, os iluministas passaram a supor que também a **sociedade, a política e a economia** teriam leis racionais e naturais a serem descobertas e respeitadas — uma "física do mundo social". **Locke**, com o **empirismo**, afirmou que a mente nasce como uma **folha em branco** (*tabula rasa*) e que todo conhecimento vem da **experiência**. A consequência era explosiva: se somos fruto da educação e do ambiente, e não do nascimento, então as **desigualdades** entre nobres e plebeus **não são naturais nem divinas** — são construídas e, portanto, **podem ser mudadas** por meio da educação e da reforma das leis. Isso solapava a justificativa da sociedade estamental e do poder absoluto.
+:::
+
+**3.** Diferencie as propostas políticas de Montesquieu, Voltaire e Rousseau.
+
+::: {.callout-tip collapse="true" title="Solução"}
+- **Montesquieu** (*O espírito das leis*, 1748): propôs a **separação dos três poderes** (Executivo, Legislativo, Judiciário) em mãos diferentes, de modo que "o poder freie o poder" — o princípio dos **freios e contrapesos**, base do constitucionalismo moderno. Admitia a monarquia **moderada**.
+- **Voltaire**: defendeu sobretudo a **liberdade de expressão** e a **tolerância religiosa**, atacando o fanatismo e os abusos da Igreja ("esmagai a infame"); era **deísta** (Deus racional, sem dogmas e perseguições) e admirava a monarquia parlamentar inglesa.
+- **Rousseau** (*Do contrato social*, 1762): o mais radical; sustentou que a soberania pertence ao **povo** e que o poder legítimo nasce de um **contrato social** guiado pela **vontade geral** (o interesse comum). É a base da ideia de **soberania popular** e da democracia moderna.
+
+Erro comum a evitar: atribuir a separação de poderes a Rousseau (é de Montesquieu) ou tratar Montesquieu como democrata radical (ele admitia a monarquia moderada).
+:::
+
+**4.** O que foi o liberalismo econômico iluminista e como ele se opunha ao mercantilismo? Explique a "mão invisível" de Adam Smith.
+
+::: {.callout-tip collapse="true" title="Solução"}
+O **liberalismo econômico** defendia que a economia possui **leis naturais próprias** e funciona melhor quando o **Estado não interfere** — o oposto do **mercantilismo**, que mandava o Estado controlar o comércio, acumular metais preciosos e conceder monopólios. Os **fisiocratas** (Quesnay) cunharam o lema *laissez faire, laissez passer* ("deixai fazer, deixai passar"). **Adam Smith** (*A riqueza das nações*, 1776) sintetizou a doutrina: a riqueza não vem do ouro, mas do **trabalho** e de sua **divisão** (especialização). A **"mão invisível"** é a ideia de que, ao buscar cada indivíduo o seu **próprio interesse** num **mercado livre**, o resultado agregado, como que conduzido por uma mão invisível, promove o **bem-estar coletivo** — o que justificava o **livre mercado** e o **Estado mínimo**. Essa doutrina se tornaria a bandeira da burguesia industrial.
+:::
+
+**5.** O que foi o despotismo esclarecido? Por que a fórmula "tudo para o povo, nada pelo povo" o resume bem? Cite exemplos.
+
+::: {.callout-tip collapse="true" title="Solução"}
+O **despotismo esclarecido** (ou absolutismo ilustrado) foi a adoção, por **monarcas absolutistas**, de **reformas inspiradas no Iluminismo** (racionalizar a administração, estimular a economia, reduzir o poder da Igreja, tolerar cultos, reformar leis) **sem abrir mão do poder absoluto**. A fórmula "**tudo para o povo, nada pelo povo**" resume a ambiguidade: as melhorias eram feitas em nome do bem-estar da população, mas **impostas de cima**, **sem** qualquer participação popular no governo. Exemplos: **Frederico II da Prússia** (que se dizia "primeiro servidor do Estado" e hospedou Voltaire), **Catarina II da Rússia** (correspondente de Diderot) e, em Portugal, o **Marquês de Pombal** (cujas reformas atingiram o Brasil, como a expulsão dos jesuítas).
+:::
+
+**6.** Explique por que se afirma que o Iluminismo continha **contradições**, usando os casos da escravidão e das mulheres.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque o movimento proclamava a **liberdade e a igualdade naturais** de todos os homens, mas aplicava esses princípios de forma **seletiva**. No caso da **escravidão e do colonialismo**: filósofos que defendiam a liberdade natural conviveram e por vezes lucraram com o tráfico de escravizados (Locke ajudou a redigir a constituição de uma colônia escravista e investiu no comércio de escravos); a "liberdade universal" não incluía, na prática, os africanos escravizados nem os povos colonizados. No caso das **mulheres**: elas dirigiam os **salões** (as *salonnières*) que eram o próprio coração da vida intelectual iluminista, mas a maioria dos filósofos — Rousseau à frente — as excluía da cidadania e as confinava ao espaço doméstico. Foi **Olympe de Gouges** quem, em 1791, expôs a contradição com a *Declaração dos Direitos da Mulher e da Cidadã* (e acabou guilhotinada). Reconhecer esses limites não anula o Iluminismo: mostra que seus **próprios princípios** dariam, depois, as armas para que os excluídos cobrassem a promessa não cumprida.
+:::
+
+**7.** (Estilo ENEM) Leia o texto.
+
+> "Esclarecimento [*Aufklärung*] é a saída do homem de sua menoridade, da qual ele próprio é culpado. A menoridade é a incapacidade de fazer uso de seu entendimento sem a direção de outro indivíduo. […] *Sapere aude!* Tem coragem de fazer uso de teu próprio entendimento — tal é o lema do Esclarecimento." — @kant1985
+
+Com base no texto e em seus conhecimentos, o ideal defendido por Kant pressupõe que o indivíduo esclarecido deve
+
+**(a)** submeter-se à orientação das autoridades religiosas e políticas tradicionais.
+**(b)** aceitar as verdades transmitidas pela tradição sem questioná-las.
+**(c)** exercer de forma autônoma e crítica o próprio pensamento.
+**(d)** abandonar toda forma de conhecimento científico em favor da fé.
+**(e)** reconhecer que a razão humana é incapaz de compreender o mundo.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (c).** Kant define o Esclarecimento como a saída da "menoridade", isto é, da dependência da "direção de outro" para pensar; o lema *sapere aude* convoca o indivíduo a ter **coragem de usar o próprio entendimento** — ou seja, a exercer o pensamento de forma **autônoma e crítica**. As demais contrariam o texto: (a) e (b) descrevem justamente a menoridade que Kant condena (submissão à autoridade e à tradição); (d) e (e) negam a razão e a ciência, valores centrais do Iluminismo.
+:::
+
+**8.** (Estilo vestibular — dissertativa) "As ideias do Iluminismo forneceram a linguagem das revoluções do fim do século XVIII." Redija um parágrafo defendendo essa afirmação com exemplos concretos.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Resposta esperada: o Iluminismo produziu um **repertório de ideias** — soberania popular (Rousseau), separação de poderes (Montesquieu), direitos naturais e liberdade (Locke, Voltaire), igualdade perante a lei — que se tornou o **programa político** dos movimentos revolucionários. A **Independência dos Estados Unidos** (1776) traduziu Locke em sua Declaração ("vida, liberdade e busca da felicidade" como direitos inalienáveis) e Montesquieu em sua Constituição (separação de poderes). A **Revolução Francesa** (1789) inscreveu Rousseau e a soberania popular na *Declaração dos Direitos do Homem e do Cidadão*. No Brasil, os **inconfidentes** liam esses mesmos autores e admiravam o exemplo norte-americano. Uma boa resposta deve mostrar que as ideias iluministas não apenas "influenciaram" vagamente, mas forneceram os **conceitos, as palavras e a justificativa** com que os revolucionários derrubaram o Antigo Regime — ainda que a aplicação desses princípios permanecesse, por muito tempo, seletiva (excluindo escravizados e mulheres).
+:::
+
+**9.** Compare as visões historiográficas de Peter Gay e da "Dialética do Esclarecimento" (Adorno e Horkheimer) sobre o Iluminismo. Por que divergem?
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Peter Gay** fez uma **defesa entusiasta**: viu o Iluminismo como um movimento razoavelmente unido ("um paganismo moderno") que travou uma corajosa luta pela **liberdade** e pela **tolerância**, com saldo amplamente **positivo** (direitos humanos, ciência, crítica ao poder arbitrário). **Adorno e Horkheimer**, na *Dialética do Esclarecimento*, fizeram uma **crítica pessimista**: a razão iluminista teria degenerado em **razão instrumental** — cálculo a serviço da dominação —, de modo que o projeto de controlar a natureza deslizou para o controle dos próprios seres humanos, ajudando a explicar até as catástrofes do século XX. **Divergem** porque partem de **perguntas e contextos diferentes**: Gay escrevia no Ocidente liberal do pós-guerra e queria reivindicar a herança iluminista contra os totalitarismos; Adorno e Horkheimer, exilados judeus do nazismo, tentavam entender como a Europa "civilizada" produzira Auschwitz — e por isso desconfiaram da própria razão. A lição é que o Iluminismo deve ser estudado como processo **plural e contraditório**, não como bloco a ser amado ou condenado em conjunto.
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- GAY, Peter. *O Iluminismo: uma interpretação* [@gay2011]. A grande defesa do movimento como luta pela liberdade — leitura de referência, ainda que discutível.
+- DARNTON, Robert. *O grande massacre de gatos* [@darnton1987]. História cultural brilhante que mostra o Iluminismo "de baixo", no mundo dos editores, panfletos e livros proibidos.
+- ISRAEL, Jonathan. *Iluminismo radical* [@israel2013]. Defende a distinção entre um Iluminismo moderado e um radical (espinosano) como verdadeira origem da modernidade democrática.
+- CASSIRER, Ernst. *A filosofia do Iluminismo* [@cassirer1997]. Clássico sobre as ideias e a estrutura intelectual do movimento.
+- HOBSBAWM, Eric. *A era das revoluções: 1789–1848* [@hobsbawmRevolucoes2020]. Situa o Iluminismo como pano de fundo das revoluções que abrem a Idade Contemporânea.
+
+**Fontes primárias (acessíveis em edições brasileiras)**
+
+- KANT, Immanuel. *Resposta à pergunta: o que é o Esclarecimento?* [@kant1985]. Curtíssimo e fundamental.
+- MONTESQUIEU. *O espírito das leis* [@montesquieu2000]; ROUSSEAU. *Do contrato social* [@rousseau1999]; VOLTAIRE. *Tratado sobre a tolerância* [@voltaire2007]; SMITH, Adam. *A riqueza das nações* [@smith1996].
+
+**Filmes e documentários**
+
+- *Danton, o processo da revolução* (1983), dir. Andrzej Wajda. Ambienta o embate entre ideias e poder na Revolução Francesa, herdeira do Iluminismo.
+- *Diderot e a Enciclopédia* — documentários e séries sobre o maior empreendimento editorial das Luzes, úteis para visualizar a difusão do conhecimento.

@@ -124,7 +124,7 @@
 
 | # | Capítulo | Arquivo | Status |
 |---|----------|---------|--------|
-| 1 | O Iluminismo | `capitulos/vol09/cap01-iluminismo.qmd` | ⬜ |
+| 1 | O Iluminismo | `capitulos/vol09/cap01-iluminismo.qmd` | ✅ |
 | 2 | A Revolução Inglesa do século XVII | `capitulos/vol09/cap02-revolucao-inglesa.qmd` | ⬜ |
 | 3 | A Revolução Industrial | `capitulos/vol09/cap03-revolucao-industrial.qmd` | ⬜ |
 | 4 | A Independência dos Estados Unidos | `capitulos/vol09/cap04-independencia-eua.qmd` | ⬜ |
