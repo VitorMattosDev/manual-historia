@@ -1,5 +1,331 @@
 # A Independência dos Estados Unidos {#sec-independencia-eua}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Na noite de **16 de dezembro de 1773**, cerca de cem homens disfarçados de indígenas mohawk subiram a bordo de três navios ancorados no porto de **Boston** e, diante de uma multidão silenciosa no cais, atiraram ao mar **342 caixas de chá** da Companhia Britânica das Índias Orientais. Nada foi roubado; um cadeado quebrado por acidente foi depois substituído. Era um protesto encenado com cuidado — e uma declaração política precisa: **não pagaremos impostos que não votamos**. A Coroa britânica respondeu fechando o porto de Boston, e o que era uma disputa fiscal virou, em dois anos, uma guerra de independência. Dela nasceria o primeiro país das Américas a se libertar de uma metrópole europeia e a primeira **república federativa presidencialista** da história moderna — aquela cuja Constituição de 1787 continua em vigor e cujas instituições o Brasil copiaria em 1889. Mas essa mesma república nasceu proclamando que "todos os homens são criados iguais" enquanto mantinha cerca de meio milhão de pessoas escravizadas. Entender a Independência dos Estados Unidos é entender, ao mesmo tempo, o nascimento de uma promessa e a sua traição.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- caracterizar as diferenças entre as colônias do **Norte**, do **Centro** e do **Sul** e explicar a tradição de **autogoverno** das Treze Colônias;
+- identificar as causas imediatas do conflito a partir de **1763** e explicar o lema "**nenhuma taxação sem representação**";
+- descrever as etapas do processo — do **Congresso Continental** à **Declaração de Independência** (1776) e à guerra até **1783**;
+- analisar a **Constituição de 1787**, identificando **federalismo**, **presidencialismo**, **separação de poderes** e **freios e contrapesos**, e reconhecer os **limites** da liberdade proclamada (escravidão, indígenas, mulheres);
+- comparar interpretações historiográficas sobre o caráter da Revolução Americana e relacionar o processo às revoluções seguintes, inclusive no Brasil.
 :::
+
+## As Treze Colônias: duas Américas inglesas {#sec-treze-colonias}
+
+Quando a crise começou, as **Treze Colônias** da costa atlântica da América do Norte somavam cerca de **2,5 milhões** de habitantes — entre eles aproximadamente **500 mil pessoas escravizadas**, quase um quinto do total. Não formavam um bloco homogêneo. Como vimos no @sec-colonizacao-inglesa-francesa, distinguiam-se duas Américas inglesas:
+
+- **Colônias do Norte** (Nova Inglaterra: Massachusetts, Connecticut, Rhode Island, New Hampshire), colonizadas sobretudo por famílias **puritanas** que fugiam da perseguição religiosa. Clima frio e solo pedregoso desestimulavam a *plantation*: predominavam a **pequena propriedade**, o trabalho familiar, a pesca, a construção naval, o artesanato e um **comércio marítimo** vigoroso — inclusive o lucrativo comércio triangular com as Antilhas. Eram colônias de **povoamento**, com sociedade relativamente igualitária entre os brancos, alto grau de alfabetização e uma prática política notável: as ***town meetings***, assembleias em que os habitantes de cada vila decidiam diretamente os assuntos locais.
+- **Colônias do Sul** (Virgínia, Carolinas, Geórgia, Maryland), organizadas segundo a lógica clássica do Antigo Sistema Colonial (@sec-antigo-sistema-colonial): **grandes propriedades** (*plantations*), **monocultura** de exportação (tabaco, arroz, índigo e, depois, algodão) e **trabalho escravizado africano**. Sociedade fortemente hierárquica, dominada por uma aristocracia rural.
+- Entre elas, as **Colônias Centrais** (Nova York, Pensilvânia, Nova Jersey, Delaware) combinavam agricultura de cereais, artesanato e comércio, com marcante diversidade étnica e religiosa (quakers, holandeses, alemães).
+
+O que unia as três regiões era um traço político decisivo: um **grau de autonomia** inédito no mundo colonial. Cada colônia tinha sua **assembleia eleita** (por proprietários), que votava impostos locais e controlava despesas, ao lado de um governador nomeado pela Coroa. Por mais de um século, Londres praticou o que os historiadores chamam de "**negligência salutar**": tolerava a autonomia colonial e fazia vista grossa ao contrabando, porque o arranjo funcionava e dava lucro. Os colonos se acostumaram a se governar — e a se considerar **ingleses com todos os direitos dos ingleses**, entre os quais o mais antigo: nenhum imposto sem o voto de seus representantes.
+
+::: {#fig-treze-colonias}
+
+```{.tikz}
+%%| filename: fig-treze-colonias
+%%| alt: Mapa esquemático das Treze Colônias inglesas divididas em Norte, Centro e Sul, com a linha da Proclamação de 1763 a oeste.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  % oeste: territorio indigena / linha da Proclamacao
+  \fill[manualgray!18] (-2.6,-3.4) rectangle (-0.5,3.4);
+  \node[align=center, text width=2.0cm, text=gray] at (-1.55,1.4) {\textbf{Oeste}\\ terras indígenas\\ (Apalaches)};
+  \draw[very thick, dashed, manualred] (-0.5,-3.4) -- (-0.5,3.4);
+  \node[align=center, text width=2.1cm, text=manualred, rotate=90] at (-0.85,-1.7) {\textbf{Proclamação de 1763}};
+
+  % colonias
+  \node[draw, thick, rounded corners, fill=manualblue!14, align=center, text width=4.1cm, minimum height=1.7cm] (n) at (2.1,2.2) {\textbf{NORTE} (Nova Inglaterra)\\ pequena propriedade, pesca,\\ comércio e construção naval;\\ puritanos, \textit{town meetings}};
+  \node[draw, thick, rounded corners, fill=manualyellow!25, align=center, text width=4.1cm, minimum height=1.5cm] (c) at (2.1,0.1) {\textbf{CENTRO}\\ cereais, artesanato, comércio;\\ diversidade étnica e religiosa};
+  \node[draw, thick, rounded corners, fill=manualgreen!14, align=center, text width=4.1cm, minimum height=1.7cm] (s) at (2.1,-2.1) {\textbf{SUL}\\ \textit{plantations}, monocultura\\ (tabaco, arroz, índigo)\\ e \textbf{escravidão africana}};
+
+  % atlantico
+  \fill[manualblue!10] (4.5,-3.4) rectangle (6.6,3.4);
+  \node[align=center, text width=1.9cm, text=manualblue] at (5.55,0.1) {\textbf{Oceano\\ Atlântico}};
+  \draw[vetor, thick, manualblue] (4.6,2.4) -- (6.4,2.9);
+  \node[text=manualblue, align=center] at (5.5,2.0) {\scriptsize p/ Inglaterra\\ \scriptsize e Antilhas};
+\end{tikzpicture}
+```
+
+Mapa **esquemático** das Treze Colônias. Ao norte, colônias de povoamento com economia diversificada; ao sul, colônias de exploração baseadas na *plantation* escravista. A oeste, a linha da **Proclamação de 1763** proibia a expansão dos colonos — motivo de forte irritação.
+:::
+
+## "Nenhuma taxação sem representação" (1763–1775) {#sec-crise-colonial-eua}
+
+O ano-chave é **1763**. Nele terminou a **Guerra dos Sete Anos** (1756–1763), que na América ficou conhecida como Guerra Franco-Indígena. A Inglaterra venceu e expulsou a França do continente norte-americano — mas saiu da guerra com uma **dívida gigantesca** e com a necessidade de manter tropas nas novas fronteiras. A conclusão em Londres pareceu óbvia e justa: já que a guerra fora travada em boa parte para defender os colonos, que os colonos ajudassem a **pagar a conta**. Terminava a negligência salutar.
+
+A ofensiva veio em ondas, e cada uma radicalizou mais:
+
+- **Proclamação de 1763:** proibiu a ocupação de terras a oeste dos **Montes Apalaches**, reservadas aos povos indígenas. Para a Coroa, era medida prudente para evitar guerras caras; para os colonos — e especialmente para os especuladores de terras, entre os quais **George Washington** —, foi um confisco de suas expectativas.
+- **Lei do Açúcar** (1764) e, sobretudo, **Lei do Selo** (*Stamp Act*, 1765): esta exigia um selo pago para **todo documento impresso** — contratos, jornais, testamentos, até baralhos. Foi o estopim. Pela primeira vez Londres criava um imposto **interno e direto** sobre os colonos, sem passar por suas assembleias. Nasceu então o lema que percorreria toda a crise: "**no taxation without representation**" — **nenhuma taxação sem representação**. O argumento era jurídico, não apenas econômico: como súditos ingleses, os colonos só poderiam ser tributados por uma assembleia em que estivessem representados — e não havia um único deputado americano no Parlamento de Londres. Um **Congresso da Lei do Selo** reuniu nove colônias em 1765, e o boicote aos produtos ingleses foi tão eficaz que a lei foi revogada em 1766 — acompanhada, porém, de uma *Lei Declaratória* que afirmava o direito do Parlamento de legislar sobre as colônias "em todos os casos".
+- **Leis Townshend** (1767): taxaram vidro, papel, chumbo, tintas e chá importados. Novos boicotes, e o envio de tropas para Boston. Em **5 de março de 1770**, soldados britânicos, cercados por uma multidão hostil, atiraram e mataram cinco pessoas — entre elas **Crispus Attucks**, marinheiro negro descendente de africanos e indígenas, considerado o primeiro morto da Revolução. Habilmente divulgado por gravuras de Paul Revere como "**Massacre de Boston**", o episódio virou arma de propaganda.
+- **Lei do Chá** (1773): concedeu à falida Companhia das Índias Orientais o **monopólio** da venda de chá nas colônias, eliminando os comerciantes locais. A resposta foi a **Festa do Chá de Boston** (*Boston Tea Party*) descrita na abertura deste capítulo.
+- **Leis Intoleráveis** (1774): a punição. Fecharam o porto de Boston até o pagamento do chá, suspenderam o autogoverno de Massachusetts, permitiram julgar funcionários reais na Inglaterra e obrigaram os colonos a alojar tropas. Em vez de isolar Massachusetts, uniram as colônias.
+
+Em setembro de 1774 reuniu-se na Filadélfia o **Primeiro Congresso Continental**, com delegados de doze colônias, que organizou um boicote geral e pediu a revogação das leis — ainda dentro do Império. Mas em **19 de abril de 1775**, tropas britânicas enviadas para apreender armas depararam-se com milícias coloniais em **Lexington** e **Concord**: os primeiros tiros haviam sido disparados.
+
+::: {.callout-important title="Armadilha: independência não era o objetivo inicial"}
+Um erro frequente é imaginar que os colonos queriam se separar da Inglaterra desde o começo. Até 1775, a esmagadora maioria pedia o oposto: queria ser tratada como **súdita inglesa de pleno direito**, com seus impostos votados por suas próprias assembleias. Muitos ainda se declaravam leais a Jorge III e culpavam apenas o Parlamento e seus ministros. A ideia de **independência** só se tornou majoritária em **1776**, depois de um ano de guerra e, decisivamente, depois do panfleto *Senso comum*, de Thomas Paine. Evitar essa leitura retrospectiva — a **teleologia** — é essencial: os processos históricos são construídos no caminho, não programados desde a partida.
+:::
+
+## A Declaração e a guerra (1776–1783) {#sec-declaracao-guerra}
+
+Em maio de 1775, o **Segundo Congresso Continental** organizou um exército e entregou seu comando ao virginiano **George Washington** (1732–1799). Em janeiro de 1776, o inglês radical **Thomas Paine** publicou *Senso comum* (*Common Sense*), panfleto escrito em linguagem simples e vendido às centenas de milhares de exemplares, que ridicularizava a própria ideia de monarquia hereditária e defendia sem rodeios a **república independente** [@paine1776]. O panfleto fez pela opinião pública o que anos de debate jurídico não haviam feito.
+
+Em **4 de julho de 1776**, o Congresso aprovou a **Declaração de Independência**, redigida principalmente por **Thomas Jefferson** (1743–1826). Seu segundo parágrafo é a mais perfeita tradução política do Iluminismo (@sec-iluminismo) — e um decalque de **John Locke** (@sec-revolucao-inglesa):
+
+> "Consideramos estas verdades como autoevidentes: que todos os homens são criados iguais, que são dotados pelo seu Criador de certos direitos inalienáveis, entre os quais a **vida, a liberdade e a busca da felicidade**; que, para assegurar esses direitos, governos são instituídos entre os homens, derivando seus justos poderes do **consentimento dos governados**; que, sempre que uma forma de governo se torne destrutiva desses fins, é **direito do povo alterá-la ou aboli-la**." — @declaracaoIndependenciaEua1776
+
+Locke está inteiro ali: direitos naturais, governo por consentimento, direito de resistência. A única alteração significativa é a substituição da "propriedade" lockeana pela "**busca da felicidade**".
+
+A guerra durou até 1783 e foi difícil. Os colonos eram divididos: cerca de um terço apoiava a independência (*patriots*), talvez um quinto permanecia leal à Coroa (*loyalists* ou *tories*, muitos dos quais emigraram para o Canadá ao fim do conflito) e o restante procurava não se envolver. Os britânicos tinham o melhor exército e a melhor marinha do mundo; os americanos tinham o território, o conhecimento do terreno, a motivação e — decisivamente — **aliados externos**. A vitória americana em **Saratoga** (1777) convenceu a **França** de que valia a pena apostar na derrota do rival: em 1778 firmou-se a aliança franco-americana, e vieram dinheiro, uma frota e tropas, além do apoio da **Espanha** e da **Holanda**. Os britânicos, cercados por terra pelos americanos e por mar pela esquadra francesa, capitularam em **Yorktown** (1781). Pelo **Tratado de Paris** (1783), a Inglaterra reconheceu a independência dos Estados Unidos e cedeu os territórios até o rio Mississippi.
+
+Vale registrar quem mais lutou. Milhares de **afro-americanos** combateram nos dois lados: a Coroa britânica prometeu liberdade aos escravizados que desertassem dos senhores rebeldes (Proclamação de Dunmore, 1775), e muitos aceitaram — de modo que, para parte considerável dos escravizados, a "liberdade" estava do lado **britânico**. Os **povos indígenas**, por sua vez, majoritariamente apoiaram a Inglaterra, e por um motivo racional: era a Coroa que, com a Proclamação de 1763, tentava conter o avanço dos colonos sobre suas terras. A derrota britânica seria, para eles, uma catástrofe.
+
+## A Constituição de 1787: inventar uma república {#sec-constituicao-1787}
+
+Vencida a guerra, restava a pergunta mais difícil: **como governar?** Os **Artigos da Confederação** (em vigor desde 1781) criaram uma união frouxa de treze estados quase soberanos, com um Congresso sem poder de tributar, sem exército e sem moeda comum. O resultado foi caos financeiro, guerras comerciais entre estados e, em 1786–87, uma revolta de fazendeiros endividados em Massachusetts (a Rebelião de Shays) que assustou as elites.
+
+Em 1787, uma convenção reunida na **Filadélfia** — presidida por Washington e com **James Madison** como principal arquiteto — decidiu não remendar os Artigos, mas escrever uma **Constituição** inteiramente nova. O texto aprovado, em vigor desde 1789, é a mais antiga constituição escrita ainda vigente no mundo, e suas soluções tornaram-se modelo:
+
+- **Federalismo:** um pacto que reparte a soberania entre um **governo federal** (moeda, defesa, comércio exterior) e os **estados**, que conservam autonomia e leis próprias — a resposta ao dilema de unir sem centralizar.
+- **República presidencialista:** o chefe de Estado e de governo é um **presidente eleito** por mandato fixo, e não um monarca hereditário nem um chefe de gabinete dependente do Legislativo.
+- **Separação dos poderes com freios e contrapesos:** Executivo, Legislativo e Judiciário separados, exatamente como propusera **Montesquieu** (@sec-iluminismo), mas com um refinamento americano — cada poder **fiscaliza** os outros: o presidente veta leis, o Congresso derruba o veto e pode julgar o presidente (*impeachment*), e a Suprema Corte pode declarar leis inconstitucionais.
+- **Bicameralismo:** a **Câmara dos Representantes**, proporcional à população, e o **Senado**, com dois assentos por estado — solução de compromisso entre estados grandes e pequenos.
+- **Bill of Rights (1791):** as dez primeiras emendas, exigidas pelos **antifederalistas** como condição para ratificar o texto, garantiram liberdade de religião, de expressão, de imprensa, direito a julgamento justo e limites ao poder federal.
+
+::: {#fig-constituicao-eua}
+
+```{.tikz}
+%%| filename: fig-constituicao-eua
+%%| alt: Organograma da Constituição dos Estados Unidos de 1787, com os três poderes federais, os freios e contrapesos e o federalismo.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \node[align=center, text width=5.2cm, font=\scriptsize\bfseries] at (5.0,3.4) {CONSTITUIÇÃO DE 1787\\ soberania popular ("Nós, o Povo")};
+
+  \node[draw, thick, rounded corners, fill=manualblue!14, align=center, text width=2.9cm, minimum height=1.3cm] (exe) at (0.6,1.7) {\textbf{EXECUTIVO}\\ Presidente\\ (mandato fixo)};
+  \node[draw, thick, rounded corners, fill=manualyellow!25, align=center, text width=2.9cm, minimum height=1.3cm] (leg) at (5.0,1.7) {\textbf{LEGISLATIVO}\\ Congresso: Câmara\\ + Senado};
+  \node[draw, thick, rounded corners, fill=manualgreen!14, align=center, text width=2.9cm, minimum height=1.3cm] (jud) at (9.4,1.7) {\textbf{JUDICIÁRIO}\\ Suprema Corte\\ (vitalícia)};
+
+  \draw[<->, thick, manualred] (exe.east) -- node[above, font=\tiny, text=manualred, align=center] {veto /\\ \textit{impeachment}} (leg.west);
+  \draw[<->, thick, manualred] (leg.east) -- node[above, font=\tiny, text=manualred, align=center] {nomeação /\\ inconstitucionalidade} (jud.west);
+  \node[text=manualred, font=\tiny\bfseries] at (5.0,0.55) {FREIOS E CONTRAPESOS};
+
+  \node[draw, very thick, rounded corners, fill=manualgray!14, align=center, text width=4.0cm, minimum height=1.0cm] (uni) at (2.4,-1.2) {\textbf{UNIÃO}\\ moeda, defesa,\\ comércio exterior};
+  \node[draw, very thick, rounded corners, fill=manualgray!14, align=center, text width=4.0cm, minimum height=1.0cm] (est) at (7.6,-1.2) {\textbf{ESTADOS}\\ leis próprias,\\ autonomia interna};
+  \draw[<->, thick] (uni.east) -- node[above, font=\tiny] {\textbf{FEDERALISMO}} (est.west);
+\end{tikzpicture}
+```
+
+A arquitetura institucional de 1787: **separação de poderes** com **freios e contrapesos** na horizontal, e **federalismo** na vertical. É esse desenho que a República brasileira adotará em 1889.
+:::
+
+## Os limites da liberdade proclamada {#sec-limites-liberdade}
+
+A Declaração afirmava que "todos os homens são criados iguais". Seu autor, Thomas Jefferson, foi dono de mais de **600 pessoas escravizadas** ao longo da vida. Não se trata de uma curiosidade biográfica, mas do problema central da fundação americana.
+
+A **escravidão** não foi apenas mantida: foi **protegida pela Constituição**, ainda que sem usar a palavra. O texto proibiu o Congresso de vetar o tráfico atlântico antes de **1808**, obrigou os estados livres a devolver escravizados fugidos e criou a chamada **cláusula dos três quintos**, que contava cada pessoa escravizada como **três quintos de uma pessoa** para calcular a representação dos estados na Câmara e no Colégio Eleitoral. Trata-se de uma monstruosidade lógica reveladora: os escravizados não eram cidadãos, não votavam e não tinham direitos — mas eram computados para **ampliar o poder político dos senhores** que os possuíam. Essa engrenagem deu ao Sul escravista um peso desproporcional no governo federal por décadas, e a contradição só seria resolvida por uma guerra civil, oitenta anos depois (@sec-eua-seculo-xix).
+
+Os **povos indígenas**, que na guerra haviam apostado majoritariamente na Coroa, perderam seu principal freio: removida a Proclamação de 1763, a expansão para oeste tornou-se política de Estado, com um século de guerras, tratados rompidos e deslocamentos forçados. As **mulheres** permaneceram sem direitos políticos. É de março de 1776 a célebre carta de **Abigail Adams** ao marido, o futuro presidente John Adams: "lembre-se das damas […] não coloque poder ilimitado nas mãos dos maridos"; ele respondeu com galhofa. Também os homens brancos pobres ficaram de fora: o voto exigia **propriedade** na maioria dos estados.
+
+Seria injusto, porém, concluir que nada mudou. A Revolução Americana **aboliu títulos de nobreza**, separou Igreja e Estado, ampliou consideravelmente o número de eleitores em relação a qualquer monarquia europeia, tornou a educação um valor público e — ponto essencial — os **estados do Norte iniciaram, um a um, a abolição gradual da escravidão** entre 1777 e 1804. Sobretudo, fixou num documento público um princípio universal que passaria a ser cobrado. Foi exatamente a Declaração de 1776 que abolicionistas negros, sufragistas e, no século XX, **Martin Luther King** invocariam: a América teria assinado uma "promissória" que se recusava a pagar. A promessa não cumprida virou a arma de quem foi excluído — como já vimos no caso do Iluminismo (@sec-iluminismo).
+
+::: {#fig-linha-do-tempo-eua}
+
+```{.tikz}
+%%| filename: fig-linha-do-tempo-eua
+%%| alt: Linha do tempo da Independência dos Estados Unidos, de 1763 a 1791.
+\begin{tikzpicture}[>=stealth]
+  \draw[eixo] (0,0) -- (13.8,0);
+  \node[eixo, gray] at (13.8,-0.55) {\scriptsize tempo};
+
+  \fill[manualred!16] (5.1,-0.13) rectangle (9.6,0.13);
+  \node[text=manualred] at (7.35,-0.75) {\scriptsize \textbf{guerra de independência}};
+
+  \node[ponto] at (0.5,0) {};
+  \node[below] at (0.5,-0.2) {\scriptsize 1763};
+  \node[above, align=center] at (0.6,0.2) {\scriptsize fim da Guerra dos\\\scriptsize Sete Anos; Proclamação};
+
+  \node[ponto] at (2.4,0) {};
+  \node[below] at (2.4,-0.2) {\scriptsize 1765};
+  \node[above, align=center, text=manualblue] at (2.6,1.0) {\scriptsize \textbf{Lei do Selo}\\\scriptsize "sem representação"};
+
+  \node[ponto] at (4.1,0) {};
+  \node[below] at (4.1,-0.2) {\scriptsize 1773};
+  \node[above, align=center, text=manualblue] at (4.1,0.2) {\scriptsize Festa do Chá\\\scriptsize de Boston};
+
+  \node[ponto] at (5.1,0) {};
+  \node[below] at (5.1,-0.2) {\scriptsize 1774--75};
+  \node[above, align=center, text=manualred] at (5.6,1.0) {\scriptsize Leis Intoleráveis;\\\scriptsize Lexington};
+
+  \node[ponto] at (6.3,0) {};
+  \node[below] at (6.3,-0.2) {\scriptsize 1776};
+  \node[above, align=center, text=manualred] at (6.9,0.2) {\scriptsize \textbf{Declaração de}\\\scriptsize \textbf{Independência}};
+
+  \node[ponto] at (7.6,0) {};
+  \node[below] at (7.6,-0.2) {\scriptsize 1777--78};
+  \node[above, align=center, text=manualred] at (8.3,1.0) {\scriptsize Saratoga;\\\scriptsize aliança francesa};
+
+  \node[ponto] at (9.0,0) {};
+  \node[below] at (9.0,-0.2) {\scriptsize 1781};
+  \node[above, align=center, text=manualred] at (9.4,0.2) {\scriptsize Yorktown};
+
+  \node[ponto] at (10.4,0) {};
+  \node[below] at (10.4,-0.2) {\scriptsize 1783};
+  \node[above, align=center, text=manualgreen] at (10.6,1.0) {\scriptsize Tratado de Paris\\\scriptsize (independência)};
+
+  \node[ponto] at (12.0,0) {};
+  \node[below] at (12.0,-0.2) {\scriptsize 1787--91};
+  \node[above, align=center, text=manualgreen] at (12.3,0.2) {\scriptsize \textbf{Constituição};\\\scriptsize \textit{Bill of Rights}};
+\end{tikzpicture}
+```
+
+De uma disputa fiscal dentro do Império à fundação de uma república federativa. Em **vermelho**, a fase de guerra; em **verde**, a construção institucional.
+:::
+
+## O primeiro dominó {#sec-impacto-eua}
+
+O impacto foi imediato e global. Pela primeira vez, uma colônia europeia se libertara **e vencera**. A prova de que era possível circulou rapidamente pelo Atlântico: na América espanhola, os futuros líderes das independências (@sec-independencias-america-latina) leram a Declaração com atenção; e no **Brasil**, os **inconfidentes mineiros** (@sec-crise-colonial-inconfidencias) discutiam abertamente o exemplo norte-americano. Em 1786, o estudante brasileiro **José Joaquim Maia e Barbalho**, que estudava em Montpellier, encontrou-se em Nîmes com o então embaixador americano na França — nada menos que **Thomas Jefferson** — para sondar apoio a um levante no Brasil. Jefferson foi cordial e evasivo; o encontro, porém, mostra o quanto a notícia havia corrido.
+
+Há ainda uma consequência involuntária e enorme. Para derrotar a Inglaterra, a **França** gastou somas gigantescas que não tinha, agravando a crise financeira da monarquia de Luís XVI. Os oficiais franceses que voltaram da América — **Lafayette** à frente — trouxeram na bagagem o entusiasmo pela república e pelas declarações de direitos. Treze anos depois de 1776, o Antigo Regime francês desabaria (@sec-revolucao-francesa), e a *Declaração dos Direitos do Homem e do Cidadão* seria redigida com a americana sobre a mesa. A independência dos Estados Unidos foi, nesse sentido, o **primeiro dominó** da era das revoluções.
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+O que foi, afinal, a Revolução Americana: uma revolução de verdade ou apenas a troca de senhores, feita por elites para preservar seus privilégios? A resposta mudou várias vezes.
+
+**As ideias no comando (Bernard Bailyn).** Em *As origens ideológicas da Revolução Americana* (1967), **Bernard Bailyn** (1922–2020) fez algo simples e revolucionário: leu sistematicamente as **centenas de panfletos** publicados nas colônias entre 1750 e 1776. Concluiu que os colonos não agiam movidos por cálculo econômico, mas por uma **ideologia** herdada do republicanismo inglês radical — uma linguagem obcecada pela **corrupção** e pelo medo de que o poder, por natureza, conspira contra a liberdade. Cada medida britânica, isoladamente pequena, foi lida como parte de um **plano deliberado** para escravizar os americanos [@bailyn2003]. Para Bailyn, portanto, as ideias não foram verniz: foram a **causa**.
+
+**A interpretação econômica (Charles Beard).** Muito antes, em 1913, **Charles Beard** dera um choque na historiografia americana ao analisar os interesses patrimoniais dos delegados da Convenção de 1787: credores da dívida pública, especuladores de terras, donos de escravizados. Concluiu que a Constituição foi um **documento econômico**, elaborado por proprietários para proteger a propriedade — inclusive **contra** a democracia popular que se manifestava nas rebeliões de devedores [@beard1913]. A tese foi muito criticada em seus detalhes empíricos, mas deixou uma pergunta que não sai de cena: *a quem, concretamente, a Constituição beneficiou?*
+
+**A revolução foi radical (Gordon Wood).** Contra a ideia de que a independência americana teria sido "conservadora" quando comparada à francesa, **Gordon Wood** argumenta que ela foi, sim, **profundamente radical** — mas em um sentido **social**, não sanguinário. Ela destruiu, em poucas décadas, um mundo baseado em **hierarquia, deferência e patronagem**: liquidou os títulos de nobreza, dissolveu a autoridade paternal e religiosa herdada, transformou a mentalidade de súditos em cidadãos e criou a sociedade mais igualitária (entre homens brancos) e mais comercial do mundo ocidental [@wood2003]. Wood mede a revolução pelo que ela fez à **sociedade**, não pelo número de mortos.
+
+**A história vista de baixo (Howard Zinn e a nova história social).** Em sentido oposto, **Howard Zinn** (1922–2010) leu o processo a partir dos que ficaram de fora. Para ele, a Revolução foi conduzida por uma **elite colonial** que soube usar a linguagem da liberdade para mobilizar pequenos proprietários, artesãos e pobres contra a Inglaterra — desviando para o inimigo externo tensões sociais internas que ameaçavam explodir — e que, ao final, manteve intactas a **escravidão**, a expropriação **indígena** e a exclusão de **mulheres** e não proprietários [@zinn2005]. A historiografia social das últimas décadas, sem necessariamente adotar o tom de Zinn, aprofundou essa agenda: estuda os *loyalists*, os escravizados que fugiram para as linhas britânicas, as nações indígenas que apostaram na Coroa e as mulheres que sustentaram a economia de guerra. Essa discussão chegou ao debate público americano recente com o **Projeto 1619**, do *New York Times*, que propôs situar a escravidão — e não 1776 — no marco fundador da nação, provocando forte reação de historiadores tanto conservadores quanto progressistas.
+
+**Por que divergem?** Em boa medida, porque escolhem **fontes** distintas: Bailyn lê panfletos e discursos; Beard, registros de propriedade e dívida pública; Wood, transformações de longo prazo nos costumes e nas relações sociais; Zinn e a história social, registros de escravizados, motins, petições e diários. E porque respondem a **contextos** distintos: Beard escrevia na era progressista, denunciando o poder do dinheiro; Bailyn, na Guerra Fria, quando reafirmar a força das ideias liberais tinha peso político; Wood, num debate acadêmico sobre a natureza das revoluções; Zinn, marcado pelos movimentos por direitos civis e pela oposição à Guerra do Vietnã. A pergunta madura não é "quem está certo", mas: **revolução para quem?** Foi radical para o artesão branco da Filadélfia e irrelevante — ou pior — para o escravizado da Virgínia e para o mohawk do vale do Hudson. As duas coisas são verdadeiras ao mesmo tempo, e a boa história precisa sustentar essa tensão.
+
+## Resumo do capítulo {#sec-resumo}
+
+- As **Treze Colônias** (c. 2,5 milhões de habitantes em 1775, dos quais ~500 mil escravizados) dividiam-se entre o **Norte** de povoamento (pequena propriedade, comércio, puritanos, *town meetings*), o **Centro** diversificado e o **Sul** de exploração (*plantation*, monocultura, **escravidão**). Todas tinham **assembleias eleitas** e longa prática de autogoverno sob a "**negligência salutar**" britânica.
+- **1763** é o marco: o fim da **Guerra dos Sete Anos** deixa a Inglaterra endividada e decidida a taxar as colônias. Vêm a **Proclamação de 1763** (proibição de ocupar o oeste), a **Lei do Açúcar** (1764), a **Lei do Selo** (1765), as **Leis Townshend** (1767), o **Massacre de Boston** (1770), a **Lei do Chá** e a **Festa do Chá de Boston** (1773) e as **Leis Intoleráveis** (1774).
+- O lema "**nenhuma taxação sem representação**" era um argumento **jurídico**: como súditos ingleses, os colonos só poderiam ser tributados por assembleia em que estivessem representados. Até 1775, a maioria **não queria** independência.
+- **Primeiro Congresso Continental** (1774); **Lexington e Concord** (abril de 1775); *Senso comum*, de **Thomas Paine** (janeiro de 1776); **Declaração de Independência** (4 de julho de 1776), redigida por **Jefferson**, com direitos inalienáveis à **vida, liberdade e busca da felicidade**, governo por **consentimento** e **direito de resistência** — Locke em estado puro.
+- A guerra: **Washington** no comando; vitória em **Saratoga** (1777) traz a aliança com a **França** (1778), a Espanha e a Holanda; rendição britânica em **Yorktown** (1781); **Tratado de Paris** (1783). Escravizados lutaram nos dois lados (a Coroa prometeu liberdade aos que desertassem), e os **indígenas** apoiaram majoritariamente a Inglaterra, que tentava conter a expansão colona.
+- **Constituição de 1787** (em vigor desde 1789, a mais antiga ainda vigente): **federalismo**, **república presidencialista**, **separação de poderes** com **freios e contrapesos**, **bicameralismo** (Câmara proporcional + Senado igualitário) e, em 1791, a ***Bill of Rights*** (dez primeiras emendas).
+- **Limites:** a Constituição **protegeu a escravidão** (tráfico garantido até 1808; devolução de fugitivos; **cláusula dos três quintos**, que inflava o poder político dos senhores); os **indígenas** perderam seu freio institucional; **mulheres** (Abigail Adams: "lembre-se das damas") e não proprietários ficaram sem voto. Ainda assim, aboliu a nobreza, separou Igreja e Estado e levou os **estados do Norte** à abolição gradual (1777–1804).
+- **Impacto:** primeiro dominó da era das revoluções — inspirou a América espanhola e a **Inconfidência Mineira** (o estudante José Joaquim Maia encontrou-se com Jefferson em 1786) e, ao arruinar as finanças francesas, ajudou a precipitar a **Revolução Francesa**.
+- **Historiografia:** **Bailyn** (as ideias republicanas como causa) × **Beard** (Constituição como documento econômico dos proprietários) × **Wood** (revolução socialmente radical, que destruiu a sociedade de deferência) × **Zinn** e a história social (revolução da elite que preservou escravidão, expropriação indígena e exclusões).
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Domine: (1) o contraste **Norte × Sul** e a tradição de autogoverno; (2) a cadeia **1763 → 1765 → 1773 → 1774 → 1776**; (3) o argumento de "**nenhuma taxação sem representação**"; (4) **Locke na Declaração**; (5) os cinco pilares da **Constituição de 1787**; (6) os **limites** (escravidão, três quintos, indígenas, mulheres); (7) o debate **Bailyn × Beard × Wood × Zinn**.
+:::
+
+**1.** Compare as colônias do Norte e do Sul das Treze Colônias quanto a economia, estrutura social e trabalho.
+
+::: {.callout-tip collapse="true" title="Solução"}
+- **Norte (Nova Inglaterra):** colônias de **povoamento**, ocupadas por famílias puritanas fugidas da perseguição religiosa. Clima frio e solo pobre inviabilizavam a *plantation*; predominavam a **pequena propriedade familiar**, a pesca, a construção naval, o artesanato e um intenso **comércio marítimo** (inclusive o triangular com as Antilhas). Sociedade relativamente igualitária entre os brancos, alfabetizada e com forte prática de autogoverno local (as ***town meetings***). O trabalho era sobretudo **familiar e assalariado**.
+- **Sul:** colônias de **exploração**, no molde clássico do Antigo Sistema Colonial — **grandes propriedades** (*plantations*), **monocultura de exportação** (tabaco, arroz, índigo) e **trabalho escravizado africano**. Sociedade **rigidamente hierárquica**, dominada por uma aristocracia rural.
+
+Essa diferença estrutural explica por que o Norte se identificou mais cedo com o ideário liberal e igualitário e por que o Sul exigiu, em 1787, garantias constitucionais para a escravidão — tensão que só se resolveria na Guerra Civil (1861–1865).
+:::
+
+**2.** Explique o significado jurídico e político do lema "nenhuma taxação sem representação".
+
+::: {.callout-tip collapse="true" title="Solução"}
+O lema não dizia apenas "não queremos pagar impostos": afirmava que aqueles impostos eram **ilegais**. Os colonos se consideravam **súditos ingleses de pleno direito** e invocavam um princípio consagrado na Inglaterra desde a Magna Carta (1215) e reafirmado pela *Bill of Rights* (1689): **nenhum tributo pode ser criado sem o consentimento dos representantes do contribuinte** (@sec-revolucao-inglesa). Ora, as colônias **não elegiam um único deputado** para o Parlamento de Londres; logo, apenas suas próprias **assembleias coloniais** poderiam tributá-las. Londres respondia com a teoria da "representação virtual" (o Parlamento representaria todos os súditos do Império, votassem ou não), que os americanos rejeitaram como ficção. Politicamente, o lema foi genial porque unia interesses diversos — comerciantes, fazendeiros, advogados, artesãos — em torno de um princípio **constitucional**, e não de um interesse particular, o que lhe dava força moral.
+:::
+
+**3.** Por que a **Guerra dos Sete Anos** é considerada o ponto de partida da crise colonial?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque inverteu a relação entre metrópole e colônias em três sentidos. **Primeiro**, deixou a Inglaterra com uma **dívida enorme** e com o custo de manter tropas na América, levando Londres a concluir que os colonos deveriam ajudar a pagar a conta — e, portanto, a encerrar a política de "**negligência salutar**" que garantira décadas de autonomia. **Segundo**, ao expulsar a **França** do continente norte-americano (1763), removeu a ameaça externa que tornava a proteção britânica indispensável: os colonos passaram a precisar bem menos de Londres. **Terceiro**, a **Proclamação de 1763**, que proibiu a ocupação de terras a oeste dos Apalaches para evitar guerras com povos indígenas, frustrou diretamente colonos e especuladores de terras. Em resumo: a vitória britânica criou simultaneamente a **necessidade** de taxar e a **possibilidade** de resistir.
+:::
+
+**4.** Mostre como a Declaração de Independência aplica o pensamento de John Locke.
+
+::: {.callout-tip collapse="true" title="Solução"}
+A correspondência é quase literal. **Locke** (@sec-revolucao-inglesa) sustentava que: (i) os indivíduos têm **direitos naturais** anteriores ao Estado — vida, liberdade e propriedade; (ii) o governo nasce de um **pacto** e existe apenas para **proteger** esses direitos, derivando sua legitimidade do **consentimento dos governados**; (iii) se o governante viola sistematicamente esses direitos, o povo tem **direito de resistência** e pode depô-lo [@locke1998].
+
+A **Declaração de 1776** afirma exatamente isso: "todos os homens são criados iguais" e "dotados […] de certos **direitos inalienáveis**, entre os quais a vida, a liberdade e a **busca da felicidade**"; os governos "derivam seus justos poderes do **consentimento dos governados**"; e "sempre que uma forma de governo se torne destrutiva desses fins, é **direito do povo alterá-la ou aboli-la**" [@declaracaoIndependenciaEua1776]. A estrutura do documento reforça o argumento: depois dos princípios, vem uma longa **lista de abusos** atribuídos a Jorge III — isto é, a **prova** de que o pacto foi rompido pelo rei, o que legitima a separação. A única alteração significativa em relação a Locke é a substituição da "propriedade" pela "**busca da felicidade**", fórmula mais ampla e menos comprometida com a defesa dos proprietários.
+:::
+
+**5.** Explique os cinco pilares institucionais da Constituição de 1787 e por que ela interessa ao estudo da História do Brasil.
+
+::: {.callout-tip collapse="true" title="Solução"}
+1. **Federalismo:** soberania repartida entre a **União** (moeda, defesa, comércio exterior) e os **estados**, que mantêm autonomia e leis próprias.
+2. **República presidencialista:** chefe de Estado e de governo é um **presidente eleito** com mandato fixo, e não um monarca hereditário.
+3. **Separação de poderes com freios e contrapesos:** Executivo, Legislativo e Judiciário independentes (Montesquieu), mas fiscalizando-se mutuamente — veto presidencial, derrubada do veto e *impeachment* pelo Congresso, controle de constitucionalidade pela Suprema Corte.
+4. **Bicameralismo:** **Câmara** proporcional à população e **Senado** com representação igual por estado — compromisso entre estados grandes e pequenos.
+5. ***Bill of Rights*** (1791): as dez primeiras emendas, garantindo liberdades individuais (religião, expressão, imprensa, devido processo) e limitando o poder federal.
+
+**Interesse para o Brasil:** esse é, em suas linhas gerais, o desenho institucional adotado pela **República brasileira** proclamada em 1889 e consagrado na **Constituição de 1891** — inclusive no nome oficial então escolhido, "Estados Unidos do Brasil", na conversão das antigas províncias em **estados**, no **presidencialismo** e no controle judicial de constitucionalidade. Estudar 1787 é, portanto, estudar a matriz de boa parte de nossas próprias instituições.
+:::
+
+**6.** O que era a **cláusula dos três quintos** e por que ela é reveladora das contradições da fundação americana?
+
+::: {.callout-tip collapse="true" title="Solução"}
+A **cláusula dos três quintos** determinava que, para calcular quantos representantes cada estado teria na Câmara (e quantos votos no Colégio Eleitoral), cada pessoa **escravizada** seria contada como **três quintos de uma pessoa**. Sua lógica é uma monstruosidade reveladora: os escravizados **não eram cidadãos**, não votavam e não tinham direito algum — mas eram **computados** para aumentar o número de cadeiras dos estados escravistas, isto é, para **ampliar o poder político dos senhores que os possuíam**. Na prática, quanto mais gente um estado escravizasse, maior seria seu peso no governo federal.
+
+A cláusula é reveladora porque mostra que a escravidão não foi um "esquecimento" da geração fundadora, mas um **arranjo constitucional deliberado**, ao lado da garantia do tráfico até 1808 e da obrigação de devolver fugitivos. Ela deu ao Sul uma influência desproporcional sobre a presidência e o Congresso por décadas, adiando o enfrentamento do problema — que só se resolveria pela **Guerra Civil** (1861–1865) e pela 13ª Emenda. É o caso exemplar de como uma república pode inscrever a desigualdade na própria letra da lei que proclama a igualdade.
+:::
+
+**7.** (Estilo ENEM) Leia o texto.
+
+> "Consideramos estas verdades como autoevidentes: que todos os homens são criados iguais, que são dotados pelo seu Criador de certos direitos inalienáveis, entre os quais a vida, a liberdade e a busca da felicidade; que, para assegurar esses direitos, governos são instituídos entre os homens, derivando seus justos poderes do consentimento dos governados." — @declaracaoIndependenciaEua1776
+
+Considerando o contexto histórico do documento, verifica-se uma contradição fundamental entre o princípio enunciado e
+
+**(a)** a adoção do regime republicano em substituição à monarquia hereditária.
+**(b)** a manutenção da escravidão africana, protegida pela Constituição de 1787.
+**(c)** a criação de um Estado federativo com autonomia para os estados-membros.
+**(d)** a separação entre os poderes Executivo, Legislativo e Judiciário.
+**(e)** a garantia da liberdade religiosa nas primeiras dez emendas constitucionais.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (b).** O documento proclama que "todos os homens são criados iguais" e possuem direito inalienável à **liberdade**, mas a nova república manteve cerca de 500 mil pessoas escravizadas, e a **Constituição de 1787** protegeu expressamente essa instituição: garantiu o **tráfico atlântico até 1808**, obrigou à **devolução de escravizados fugidos** e criou a **cláusula dos três quintos**, que convertia os escravizados em capital político de seus senhores. Nenhuma outra alternativa configura contradição com o texto: **(a)**, **(c)**, **(d)** e **(e)** descrevem justamente medidas **coerentes** com os princípios enunciados — governo por consentimento (república), organização do poder (federalismo e separação de poderes) e proteção de direitos individuais (*Bill of Rights*).
+:::
+
+**8.** (Estilo vestibular — dissertativa) "A Independência dos Estados Unidos foi o primeiro dominó da era das revoluções." Justifique essa afirmação, indicando efeitos sobre a França, a América espanhola e o Brasil.
+
+::: {.callout-tip collapse="true" title="Solução"}
+A afirmação se sustenta em três efeitos encadeados.
+
+**Sobre a França:** o apoio militar e financeiro à guerra americana (aliança de 1778, frota e tropas) custou à monarquia de Luís XVI somas que ela não possuía, **agravando decisivamente a crise fiscal** que levaria à convocação dos Estados Gerais em 1789. Além disso, oficiais franceses como **Lafayette** voltaram da América convertidos ao ideário republicano e das declarações de direitos, e a *Declaração dos Direitos do Homem e do Cidadão* (1789) foi redigida tendo o modelo americano como referência. A França ajudou a fazer a revolução americana e foi, em seguida, derrubada por ela.
+
+**Sobre a América espanhola:** a independência norte-americana ofereceu a **prova empírica** de que uma colônia podia derrotar uma potência europeia e organizar-se como república — argumento decisivo para a geração de Bolívar e San Martín nas independências das primeiras décadas do século XIX.
+
+**Sobre o Brasil:** os **inconfidentes mineiros** (1789) conheciam e admiravam o exemplo norte-americano; sabe-se que o estudante brasileiro **José Joaquim Maia e Barbalho** encontrou-se em Nîmes, em 1786, com **Thomas Jefferson**, então embaixador dos EUA na França, para sondar apoio a um levante. A Inconfidência foi debelada, mas mostra a circulação atlântica dessas ideias.
+
+**Conclusão:** o processo é chamado de "primeiro dominó" porque forneceu simultaneamente o **modelo institucional** (república, federalismo, declaração de direitos), a **prova de viabilidade** e, no caso francês, o **gatilho fiscal** das revoluções seguintes.
+:::
+
+**9.** Compare as interpretações de **Bernard Bailyn**, **Gordon Wood** e **Howard Zinn** sobre a Revolução Americana.
+
+::: {.callout-tip collapse="true" title="Solução"}
+- **Bailyn** enfatiza as **ideias**. Lendo centenas de panfletos coloniais, concluiu que os americanos agiram movidos por uma **ideologia republicana** herdada do radicalismo inglês, obcecada com a corrupção e com o medo de uma **conspiração** do poder contra a liberdade — o que levou cada medida britânica a ser interpretada como parte de um plano de escravização [@bailyn2003]. Para ele, as ideias foram **causa**, não pretexto.
+- **Wood** enfatiza a **transformação social**. Sustenta que a Revolução foi genuinamente **radical**: destruiu a sociedade colonial baseada em hierarquia, deferência e patronagem, aboliu títulos de nobreza, enfraqueceu autoridades paternais e religiosas e converteu súditos em cidadãos, criando a sociedade mais igualitária (entre homens brancos) e mais comercial do Ocidente [@wood2003].
+- **Zinn** enfatiza os **excluídos**. Para ele, a Revolução foi conduzida por uma **elite colonial** que usou a linguagem da liberdade para mobilizar as camadas populares contra um inimigo externo, desviando tensões sociais internas — e que, ao final, **preservou** a escravidão, a expropriação indígena e a exclusão de mulheres e não proprietários [@zinn2005].
+
+**Por que divergem:** escolhem **fontes** e **sujeitos** diferentes (panfletos e discursos; mudanças de costumes e relações sociais; registros de escravizados, motins e petições) e escrevem em **contextos** distintos (a Guerra Fria, o debate acadêmico sobre revoluções, os movimentos por direitos civis e a oposição ao Vietnã). A pergunta madura não é "quem está certo", mas **para quem** a Revolução foi revolucionária: ela transformou profundamente a vida do artesão branco da Filadélfia e nada mudou — ou piorou — para o escravizado da Virgínia e para as nações indígenas do vale do Ohio.
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- BAILYN, Bernard. *As origens ideológicas da Revolução Americana* [@bailyn2003]. Clássico; mostra como se lê uma revolução através de seus panfletos.
+- WOOD, Gordon. *A revolução americana* [@wood2003]. Síntese curta e excelente para começar.
+- ZINN, Howard. *A história do povo dos Estados Unidos* [@zinn2005]. Contraponto indispensável, escrito do ponto de vista dos excluídos.
+- HOBSBAWM, Eric. *A era das revoluções: 1789–1848* [@hobsbawmRevolucoes2020]. Situa 1776 no ciclo atlântico das revoluções.
+
+**Fontes primárias**
+
+- *Declaração de Independência dos Estados Unidos* (1776) [@declaracaoIndependenciaEua1776] e *Constituição dos Estados Unidos* (1787) [@constituicaoEua1787]. Textos curtos; leia a Declaração inteira, inclusive a lista de acusações a Jorge III.
+- PAINE, Thomas. *Common Sense* (1776) [@paine1776]. O panfleto que converteu a opinião pública à independência.
+- A carta de **Abigail Adams** a John Adams (março de 1776), o "*Remember the Ladies*" — meia página que vale por um capítulo sobre os limites da liberdade proclamada.
+
+**Filmes e documentários**
+
+- *O Patriota* (2000), dir. Roland Emmerich. Espetacular, mas historicamente problemático: compare a versão do filme sobre a escravidão na Carolina do Sul com o que você estudou aqui — o exercício de crítica vale mais que o filme.
+- *John Adams* (2008), minissérie da HBO. Reconstituição cuidadosa dos debates do Congresso Continental e da Convenção.
+- *Hamilton* (2020), registro do musical de Lin-Manuel Miranda. Excelente objeto para discutir **história e memória**: por que uma peça encenada por atores negros e latinos sobre os pais fundadores gerou tanto entusiasmo e tanta polêmica?
