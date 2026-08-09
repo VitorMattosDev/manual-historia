@@ -1,5 +1,316 @@
 # As unificações da Itália e da Alemanha {#sec-unificacoes-italia-alemanha}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Em **18 de janeiro de 1871**, um grupo de generais de capacete pontiagudo se reuniu na **Galeria dos Espelhos do Palácio de Versalhes** — o salão construído por Luís XIV para exibir a glória da França — e ali proclamou **imperador da Alemanha** o rei da Prússia, Guilherme I. Paris resistia, sitiada e faminta, a poucos quilômetros dali. A escolha do lugar não foi acidente: era humilhação calculada, e os franceses jamais a esqueceriam. Quarenta e oito anos depois, em **28 de junho de 1919**, os vencedores da Primeira Guerra Mundial fariam a Alemanha derrotada assinar o Tratado de Versalhes **exatamente na mesma sala** (@sec-primeira-guerra-mundial). Entre uma cena e outra está boa parte da história da Europa contemporânea — e ela começa aqui, com dois mapas que, em pouco mais de uma década, deixaram de ser colchas de retalhos para se tornarem dois Estados nacionais. Um deles, a Alemanha, nasceu tão poderoso que desequilibrou o continente. O outro, a Itália, nasceu tão dividido por dentro que passaria décadas tentando se tornar de fato aquilo que já era no papel.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- descrever a fragmentação política da Itália e da Alemanha após o Congresso de Viena e o papel do **Zollverein**;
+- distinguir os três projetos de unificação italiana (**Mazzini**, **neoguelfismo**, **Cavour**) e explicar por que venceu o piemontês;
+- narrar as etapas da unificação italiana, incluindo a **Expedição dos Mil** de **Garibaldi** e a **Questão Romana**;
+- explicar a política de "**ferro e sangue**" de **Bismarck** e as **três guerras** que produziram o Império Alemão;
+- avaliar as consequências das unificações para o **equilíbrio europeu** e sua ligação com o imperialismo e com a Primeira Guerra;
+- discutir os debates historiográficos sobre o **Risorgimento** como "revolução passiva" e sobre o "caminho especial" (*Sonderweg*) alemão.
 :::
+
+## Dois mapas em pedaços {#sec-fragmentacao}
+
+Em 1815, o Congresso de Viena (@sec-era-napoleonica) tratou italianos e alemães como territórios a distribuir, não como nações. Meio século depois, ambos teriam Estados unificados — e nos dois casos a unidade veio **de cima**, conduzida por uma monarquia com exército e diplomacia, e não pelas barricadas de 1848 (@sec-liberalismo-nacionalismo-1848).
+
+**A Itália** era, na frase cortante de **Metternich**, "apenas uma **expressão geográfica**". Estava dividida em sete Estados principais: o **Reino de Sardenha** (ou Piemonte), governado pela casa de Sabóia, o único com dinastia italiana e, após 1848, o único com constituição (o **Estatuto Albertino**); o **Reino Lombardo-Vêneto**, província do Império Austríaco; os ducados de Parma, Módena e Toscana, sob príncipes aparentados aos Habsburgo; os **Estados Pontifícios**, governados pelo papa e cortando a península ao meio; e o **Reino das Duas Sicílias**, ao sul, sob os Bourbon de Nápoles. A **Áustria** era o poder tutelar de todo o conjunto. Havia ainda os obstáculos internos: dialetos mutuamente ininteligíveis, um abismo econômico entre norte e sul e a hostilidade do papado a qualquer Estado italiano que ameaçasse seu poder temporal.
+
+**A Alemanha** estava dividida em **39 Estados**, reunidos na frouxa **Confederação Germânica** criada em Viena — uma liga diplomática, presidida pela Áustria, sem exército, sem moeda e sem política externa comuns. Dois gigantes disputavam a primazia: a **Áustria** dos Habsburgo, católica e multinacional, e a **Prússia**, protestante, militarizada e em rápida industrialização. Foi a Prússia que deu o primeiro passo decisivo, e ele foi econômico: em **1834** entrou em vigor o **Zollverein** (União Aduaneira), que aboliu as tarifas internas entre os Estados aderentes, unificou pesos, medidas e moedas e — detalhe crucial — **excluiu a Áustria**. Antes da unidade política, houve a unidade do mercado. As ferrovias, o carvão do Ruhr e o aço da Renânia fizeram o resto: em meados do século, a Prússia era a potência econômica do mundo germânico, e a burguesia alemã já tinha razões materiais para preferi-la a Viena.
+
+::: {.callout-note title="Conceito-chave: unificação pelo alto"}
+Chama-se **unificação pelo alto** (ou "revolução pelo alto") o processo em que a construção do Estado nacional é conduzida por um governo já existente — com seu exército, sua diplomacia e sua burocracia — em vez de resultar de uma revolução popular. É o oposto do que tentaram os revolucionários de 1848. O preço dessa fórmula foi político: em ambos os países, a unidade nacional foi obtida **sem** democratização correspondente. A burguesia liberal recebeu mercado unificado, ordem e prestígio nacional; em troca, cedeu o comando político à monarquia e ao exército. Guarde a fórmula: **unidade sem democracia**.
+:::
+
+## A unificação italiana: o Risorgimento {#sec-risorgimento}
+
+Dá-se o nome de **Risorgimento** ("ressurgimento") ao movimento cultural e político que, ao longo do século XIX, buscou a independência e a unidade da Itália. Três projetos rivalizaram:
+
+1. **Republicano e unitário (Mazzini).** **Giuseppe Mazzini** (1805–1872) fundou em 1831 a sociedade **Jovem Itália**, defendendo uma república unitária conquistada por **insurreição popular**. Foi o grande agitador e educador político do movimento — e o grande derrotado: suas revoltas fracassaram uma a uma, inclusive a República Romana de 1849.
+2. **Federalista e papal (neoguelfismo).** Formulado por **Vincenzo Gioberti**, propunha uma **confederação** de Estados italianos presidida pelo **papa**. A hipótese morreu em 1848–49, quando **Pio IX** recusou a guerra contra a católica Áustria e depois voltou a Roma nos ombros de tropas francesas, tornando-se abertamente antiunitário.
+3. **Monárquico e piemontês (Cavour).** Unidade sob a **casa de Sabóia**, obtida por **modernização econômica, aliança militar e diplomacia**. Foi o que venceu.
+
+**O artífice: Cavour.** **Camillo Benso, conde de Cavour** (1810–1861), primeiro-ministro do Piemonte a partir de 1852, era um liberal moderado que fez do pequeno reino a vitrine da Itália moderna: ferrovias, bancos, obras públicas, livre-comércio, redução do poder eclesiástico, exército reorganizado. Sua tese central era realista: o Piemonte **jamais venceria a Áustria sozinho**; precisava de um grande aliado. Para conquistá-lo, mandou tropas piemontesas lutarem ao lado de França e Inglaterra na **Guerra da Crimeia** (1853–56) — guerra que em nada interessava à Itália, mas que deu a Cavour uma cadeira no Congresso de Paris e a oportunidade de internacionalizar a "questão italiana".
+
+O plano se concretizou no encontro secreto de **Plombières** (1858) com **Napoleão III**: a França ajudaria o Piemonte a expulsar a Áustria do norte, recebendo em troca **Nice** e **Saboia**. Provocada a guerra em **1859**, franco-piemonteses venceram em **Magenta** e **Solferino** — batalha tão sangrenta que inspirou o suíço Henry Dunant a fundar a **Cruz Vermelha** (1863). Mas Napoleão III, assustado com o avanço italiano e pressionado pelos católicos franceses, assinou de surpresa o armistício de **Villafranca**: o Piemonte ficou apenas com a **Lombardia**. Em seguida, plebiscitos nos ducados centrais e na Romanha aprovaram a anexação ao Piemonte — e Nice e Saboia foram entregues à França, conforme o combinado.
+
+**O herói: Garibaldi e a Expedição dos Mil.** Em maio de **1860**, **Giuseppe Garibaldi** (1807–1882), republicano e velho companheiro de Mazzini, partiu de Gênova com cerca de mil voluntários de **camisa vermelha** rumo à Sicília, onde uma revolta camponesa havia estourado. A **Expedição dos Mil** é um dos episódios mais improváveis do século: em poucos meses, aquele punhado de voluntários derrotou o exército dos Bourbon, conquistou a Sicília e o continente e entrou em **Nápoles** aclamado como libertador. Cavour observou tudo com desconfiança — temia que Garibaldi marchasse sobre Roma, provocasse a França e proclamasse a república. Mandou o exército piemontês descer pelos Estados Pontifícios ao encontro dele. No **encontro de Teano** (outubro de 1860), Garibaldi entregou o sul conquistado ao rei **Vítor Emanuel II**, saudando-o como "rei da Itália", e retirou-se para a ilha de Caprera sem aceitar honras nem cargos. Foi o gesto que garantiu a unidade — e que subordinou definitivamente a corrente democrática à monarquia.
+
+Em **17 de março de 1861** proclamou-se o **Reino da Itália**, com capital em Turim (depois Florença) e Vítor Emanuel II como rei. Faltavam duas peças, e ambas caíram como **efeito colateral das guerras de Bismarck**: o **Vêneto**, obtido em **1866** por ter a Itália se aliado à Prússia contra a Áustria; e **Roma**, tomada em **20 de setembro de 1870**, assim que a guerra franco-prussiana obrigou Napoleão III a retirar a guarnição francesa que protegia o papa.
+
+::: {.callout-warning title="A Questão Romana e a questão meridional"}
+A tomada de Roma abriu a **Questão Romana**: **Pio IX** declarou-se "prisioneiro do Vaticano", recusou a Lei das Garantias oferecida pelo Estado italiano e proibiu os católicos, pelo decreto *Non expedit*, de participar da vida política nacional. O conflito só se resolveu em **1929**, com os **Acordos de Latrão**, assinados entre Mussolini e o papado, que criaram o Estado do Vaticano.
+
+Mais grave e mais duradoura foi a **questão meridional**. A unificação estendeu ao sul as leis, os impostos, o serviço militar obrigatório e as tarifas do Piemonte, sem qualquer reforma agrária. O resultado foi uma revolta camponesa endêmica que o novo Estado tratou como banditismo — o *brigantaggio* —, reprimida entre 1861 e 1865 por uma campanha militar que fez mais mortos do que todas as guerras do Risorgimento somadas. O sul empobreceu ainda mais, e a saída foi a **emigração em massa**: entre 1870 e 1920, cerca de **14 milhões** de italianos deixaram o país — e o **Brasil** foi um dos principais destinos, sobretudo nas lavouras de café de São Paulo e nas colônias do Sul (@sec-escravidao-abolicao-imigracao).
+:::
+
+::: {.callout-tip title="Conexão Brasil: Garibaldi na Guerra dos Farrapos"}
+Antes de ser o herói dos dois mundos, Garibaldi foi combatente no Brasil. Condenado à morte em Gênova por participar de uma conspiração mazziniana, fugiu para a América do Sul e, entre **1839 e 1841**, lutou ao lado dos farroupilhas na **Revolução Farroupilha** (1835–1845), no Rio Grande do Sul, comandando pequenas embarcações corsárias e participando da tomada de **Laguna**, em Santa Catarina, onde se proclamou a efêmera República Juliana. Foi ali que conheceu **Ana Maria de Jesus Ribeiro**, a **Anita Garibaldi** (1821–1849), que combateria a seu lado no Uruguai e na Itália, morrendo na retirada da República Romana. A biografia de Garibaldi mostra o quanto o século XIX foi uma época de **revolucionários internacionais** — e como as lutas do Prata e as da Europa faziam parte, aos olhos deles, de um mesmo combate contra impérios. O contexto brasileiro dessa revolta é tratado no @sec-periodo-regencial.
+:::
+
+::: {#fig-unificacao-italia}
+
+```{.tikz}
+%%| filename: fig-unificacao-italia
+%%| alt: Diagrama esquemático das etapas da unificação italiana, de 1859 a 1870, com as regiões anexadas ao Reino de Sardenha.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \node[draw, very thick, rounded corners, fill=manualblue!18, align=center, text width=3.0cm, minimum height=1.5cm] (pie) at (0,0) {\textbf{REINO DE SARDENHA}\\ (Piemonte)\\ núcleo · Cavour};
+
+  \node[draw, thick, rounded corners, fill=manualred!16, align=center, text width=3.6cm] (lom) at (5.0,3.0) {\textbf{Lombardia} — \textbf{1859}\\ guerra contra a Áustria\\ (Magenta, Solferino)};
+  \node[draw, thick, rounded corners, fill=manualgreen!16, align=center, text width=3.6cm] (cen) at (5.0,1.3) {\textbf{Ducados centrais,}\\ \textbf{Toscana, Romanha} — \textbf{1860}\\ plebiscitos};
+  \node[draw, thick, rounded corners, fill=manualred!16, align=center, text width=3.6cm] (sul) at (5.0,-0.5) {\textbf{Duas Sicílias} — \textbf{1860}\\ \textbf{Expedição dos Mil}\\ (Garibaldi) · Teano};
+  \node[draw, thick, rounded corners, fill=manualyellow!28, align=center, text width=3.6cm] (ven) at (5.0,-2.3) {\textbf{Vêneto} — \textbf{1866}\\ aliança com a Prússia\\ contra a Áustria};
+  \node[draw, thick, rounded corners, fill=manualyellow!28, align=center, text width=3.6cm] (rom) at (5.0,-4.0) {\textbf{Roma} — \textbf{1870}\\ saída das tropas francesas\\ (guerra franco-prussiana)};
+
+  \node[draw, very thick, rounded corners, fill=manualgreen!22, align=center, text width=3.2cm, minimum height=1.6cm] (ita) at (10.2,-0.5) {\textbf{REINO DA ITÁLIA}\\ \textbf{1861}\\ Vítor Emanuel II\\ (completo em 1870)};
+
+  \draw[vetor, thick] (pie.east) -- (lom.west);
+  \draw[vetor, thick] (pie.east) -- (cen.west);
+  \draw[vetor, thick] (pie.east) -- (sul.west);
+  \draw[vetor, thick] (pie.east) -- (ven.west);
+  \draw[vetor, thick] (pie.east) -- (rom.west);
+  \draw[vetor, thick, manualgreen] (lom.east) -- (ita.north west);
+  \draw[vetor, thick, manualgreen] (cen.east) -- (ita.north west);
+  \draw[vetor, thick, manualgreen] (sul.east) -- (ita.west);
+  \draw[vetor, thick, manualgreen] (ven.east) -- (ita.south west);
+  \draw[vetor, thick, manualgreen] (rom.east) -- (ita.south west);
+
+  \node[align=center, text=manualgray] at (5.0,-5.4) {\textbf{Custo:} Nice e Saboia cedidas à França (1860) · Questão Romana até 1929 · questão meridional};
+\end{tikzpicture}
+```
+
+As etapas da unificação italiana: tudo converge para o Piemonte, mas duas das cinco peças só vieram como efeito colateral de guerras alheias.
+:::
+
+## A unificação alemã: ferro e sangue {#sec-unificacao-alema}
+
+Se a Itália teve um estadista e um herói, a Alemanha teve sobretudo um estadista — e um Estado-máquina por trás dele.
+
+**Otto von Bismarck** (1815–1898), nobre proprietário de terras (*junker*) da Prússia oriental, monarquista convicto e adversário declarado do liberalismo, foi nomeado primeiro-ministro em **1862**, em meio a um conflito constitucional: o parlamento prussiano recusava votar o orçamento da reforma do exército. Bismarck governou **sem orçamento aprovado**, à margem do parlamento, e anunciou seu método num discurso que ficaria célebre: "as grandes questões do nosso tempo não serão resolvidas por discursos e votos de maioria — esse foi o erro de 1848 e 1849 —, mas por **ferro e sangue**". A frase é o programa inteiro: unidade pela guerra, e não pelo debate.
+
+Bismarck praticou a ***Realpolitik*** — a política guiada exclusivamente por interesses concretos e pela avaliação fria das relações de força, sem subordinação a princípios ideológicos ou morais. Suas três guerras foram curtas, calculadas e cada uma preparou a seguinte:
+
+**1. Guerra dos Ducados (1864), contra a Dinamarca.** Prússia e Áustria lutaram **juntas** e tomaram os ducados de **Schleswig e Holstein**. Bismarck fez então questão de administrá-los em condomínio com Viena — sabendo que a partilha geraria atritos. Era uma armadilha.
+
+**2. Guerra Austro-Prussiana (1866), "das Sete Semanas".** O atrito previsto veio, e a Prússia esmagou a Áustria em **Sadowa (Königgrätz)**, graças ao fuzil de retrocarga, às ferrovias e ao estado-maior de Moltke. A paz foi deliberadamente **generosa**: Bismarck impediu a humilhação da Áustria — queria-a futuramente como aliada, não como inimiga vingativa. Os resultados foram decisivos: dissolução da Confederação Germânica, criação da **Confederação da Alemanha do Norte** sob hegemonia prussiana e exclusão definitiva da Áustria do mundo alemão. Vencera a solução **"Pequena Alemanha"** debatida em Frankfurt em 1848. A Itália, aliada da Prússia, ganhou o **Vêneto**. E a Áustria, enfraquecida, teve de conceder autonomia aos húngaros no **Compromisso (Ausgleich) de 1867**, transformando-se na Áustria-Hungria.
+
+**3. Guerra Franco-Prussiana (1870–71).** Faltava atrair os Estados alemães do sul, católicos e desconfiados da Prússia. Nada os uniria melhor do que uma guerra contra a França. O pretexto foi a candidatura de um príncipe alemão ao trono espanhol; o instrumento, o **Telegrama de Ems** (julho de 1870) — Bismarck **editou** e divulgou à imprensa o relato de uma conversa entre o rei Guilherme I e o embaixador francês, de modo a fazer cada lado sentir-se ofendido pelo outro. A França declarou guerra, como ele queria, e apareceu diante da Europa como agressora. O desfecho foi fulminante: em **Sedan** (setembro de 1870), **Napoleão III foi feito prisioneiro** com todo o seu exército; em Paris, proclamou-se a **Terceira República**, que resistiu a um cerco de quatro meses. Em **18 de janeiro de 1871**, na Galeria dos Espelhos de **Versalhes**, proclamou-se o **Império Alemão** (*Kaiserreich*), com Guilherme I como *Kaiser* e Bismarck como chanceler. A França perdeu a **Alsácia e boa parte da Lorena** — regiões industriais e ricas em ferro — e pagou uma indenização de **5 bilhões de francos-ouro**.
+
+::: {.callout-important title="Não confunda: a Comuna de Paris (1871) não é a unificação alemã"}
+Enquanto o Império Alemão nascia em Versalhes, Paris vivia outro drama. Revoltados com a rendição negociada pelo governo conservador e com meses de fome no cerco, os parisienses proclamaram, em **18 de março de 1871**, a **Comuna de Paris** — um governo popular e autogestionário que durou 72 dias, adotou medidas como o fim do trabalho noturno nas padarias, a entrega de fábricas abandonadas a cooperativas de operários, a separação entre Igreja e Estado, o ensino laico e gratuito e a eleição de funcionários revogáveis a qualquer momento, com salário de operário. Foi esmagada na "**Semana Sangrenta**" (21–28 de maio) pelo exército do governo de Versalhes, com **milhares de fuzilados** — as estimativas variam de 10 mil a 20 mil mortos. Marx a saudou como a primeira experiência de governo operário; Lênin a estudaria como ensaio geral de 1917.
+
+Em prova, o erro comum é fundir os dois eventos. Fixe: a **proclamação do Império Alemão** (18 de janeiro, em Versalhes) e a **Comuna de Paris** (18 de março a 28 de maio, em Paris) são acontecimentos distintos, ainda que a derrota francesa seja a causa comum de ambos.
+:::
+
+**Que Estado nasceu em 1871?** Um Império **federal e autoritário**. O *Kaiser* comandava as forças armadas e a política externa e nomeava o chanceler, que respondia a ele — não ao parlamento. O **Bundesrat** (conselho federal) representava os Estados, com a Prússia detendo poder de veto. O **Reichstag** era eleito por **sufrágio universal masculino** — surpreendentemente avançado para a época —, mas tinha poderes limitados, sobretudo orçamentários. Bismarck governou-o por duas décadas combinando repressão e concessão: o ***Kulturkampf*** ("luta cultural") contra a influência da Igreja Católica (1871–1878); as **leis antissocialistas** (1878–1890), que proibiram o Partido Social-Democrata (SPD) fora do parlamento; e, ao mesmo tempo, a criação do **primeiro sistema público de seguridade social do mundo** — seguro-doença (1883), seguro contra acidentes (1884) e aposentadoria (1889). A lógica era explícita: retirar dos socialistas suas bandeiras, atendendo a demandas materiais dos trabalhadores sem lhes conceder poder político.
+
+::: {#fig-linha-do-tempo-unificacao-alema}
+
+```{.tikz}
+%%| filename: fig-linha-do-tempo-unificacao-alema
+%%| alt: Linha do tempo da unificação alemã, de 1834 a 1871, com o Zollverein e as três guerras de Bismarck.
+\begin{tikzpicture}[>=stealth]
+  \draw[eixo] (0,0) -- (14.0,0);
+  \node[eixo, gray] at (14.0,-0.6) {\scriptsize tempo};
+
+  \fill[manualgreen!22] (0.5,-0.13) rectangle (5.2,0.13);
+  \node[text=manualgreen!60!black] at (2.8,-0.9) {\scriptsize \textbf{unidade econômica}};
+  \fill[manualred!22] (6.6,-0.13) rectangle (13.0,0.13);
+  \node[text=manualred] at (9.8,-0.9) {\scriptsize \textbf{as três guerras de Bismarck}};
+
+  \node[ponto] at (0.5,0) {};
+  \node[below] at (0.5,-0.25) {\scriptsize 1834};
+  \node[above, align=center, text=manualgreen] at (1.0,0.2) {\scriptsize \textbf{Zollverein}\\\scriptsize (sem a Áustria)};
+
+  \node[ponto] at (3.6,0) {};
+  \node[below] at (3.6,-0.25) {\scriptsize 1848--49};
+  \node[above, align=center] at (3.7,1.1) {\scriptsize \textbf{Parlamento de Frankfurt}\\\scriptsize a ``coroa de sarjeta'' recusada};
+
+  \node[ponto] at (6.0,0) {};
+  \node[below] at (6.0,-0.25) {\scriptsize 1862};
+  \node[above, align=center, text=manualblue] at (6.1,0.2) {\scriptsize \textbf{Bismarck} chanceler\\\scriptsize ``ferro e sangue''};
+
+  \node[ponto] at (7.6,0) {};
+  \node[below] at (7.6,-0.25) {\scriptsize 1864};
+  \node[above, align=center, text=manualred] at (7.7,1.1) {\scriptsize \textbf{Dinamarca}\\\scriptsize Schleswig-Holstein};
+
+  \node[ponto] at (9.4,0) {};
+  \node[below] at (9.4,-0.25) {\scriptsize 1866};
+  \node[above, align=center, text=manualred] at (9.5,0.2) {\scriptsize \textbf{Áustria} (Sadowa)\\\scriptsize Pequena Alemanha};
+
+  \node[ponto] at (11.4,0) {};
+  \node[below] at (11.4,-0.25) {\scriptsize 1870};
+  \node[above, align=center, text=manualred] at (11.5,1.1) {\scriptsize \textbf{França}: Ems, \textbf{Sedan}\\\scriptsize queda de Napoleão III};
+
+  \node[ponto] at (13.0,0) {};
+  \node[below] at (13.0,-0.25) {\scriptsize 1871};
+  \node[above, align=center, text=manualblue] at (12.9,0.2) {\scriptsize \textbf{IMPÉRIO ALEMÃO}\\\scriptsize (Versalhes)};
+\end{tikzpicture}
+```
+
+Da união aduaneira ao Império: 37 anos em que a Prússia construiu primeiro o mercado e depois o Estado nacional alemão.
+:::
+
+## Comparando os dois processos {#sec-comparacao-unificacoes}
+
+| | **Itália** | **Alemanha** |
+|---|---|---|
+| **Estado condutor** | Reino de Sardenha (Piemonte) | Prússia |
+| **Estadista** | Cavour (liberal moderado) | Bismarck (conservador *junker*) |
+| **Base prévia** | prestígio constitucional (Estatuto Albertino) | **Zollverein** e indústria pesada |
+| **Método** | diplomacia + aliança francesa + iniciativa popular (Garibaldi) | **três guerras** planejadas (*Realpolitik*) |
+| **Inimigo principal** | Áustria | Áustria e depois França |
+| **Datas-chave** | 1859, 1860, **1861**, 1866, 1870 | 1864, 1866, 1870–**71** |
+| **Resultado** | Estado de potência média, dividido entre norte e sul | potência industrial e militar dominante |
+| **Herança conflituosa** | Questão Romana; questão meridional; emigração | revanchismo francês (Alsácia-Lorena); militarismo |
+
+: Duas unificações "pelo alto" e as diferenças que explicam trajetórias muito distintas depois de 1871. {#tbl-comparacao-unificacoes}
+
+**As consequências europeias** foram profundas. O **equilíbrio** desenhado em Viena acabou: no centro do continente surgiu uma potência industrial, populosa e militarmente superior a todas as demais. A França perdeu a primazia e ganhou o **revanchismo** — a obsessão de recuperar a Alsácia-Lorena. Bismarck, consciente de ter criado um Estado "saciado" mas cercado, dedicou os vinte anos seguintes a construir um sistema de **alianças** destinado a **isolar a França** e evitar guerra em duas frentes. Quando **Guilherme II** o demitiu, em **1890**, e trocou a prudência bismarckiana pela *Weltpolitik* — política mundial, corrida naval contra a Inglaterra, busca de colônias —, o sistema ruiu e as alianças se recompuseram contra a Alemanha. Além disso, dois recém-chegados sem colônias, Alemanha e Itália, entraram famintos na disputa imperialista: não por acaso foi Bismarck quem sediou a **Conferência de Berlim** de 1884–85, que regulou a partilha da África (@sec-imperialismo). O caminho que leva de 1871 a 1914 é o tema do @sec-primeira-guerra-mundial.
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+Sobre esses dois processos existem duas grandes polêmicas, e ambas perguntam a mesma coisa por caminhos diferentes: **quem realmente fez a unificação — e o que isso deixou de herança**.
+
+**A Itália: epopeia nacional ou "revolução passiva"?** A historiografia oficial do Reino da Itália construiu o Risorgimento como **epopeia**: um povo que desperta, heróis que se sacrificam, uma nação que ressurge. Foram criadas estátuas, feriados, nomes de rua e manuais escolares inteiros dedicados a Mazzini, Garibaldi, Cavour e Vítor Emanuel II — exemplo perfeito daquela "invenção das tradições" analisada no @sec-liberalismo-nacionalismo-1848.
+
+A crítica mais influente veio de **Antonio Gramsci** (1891–1937), nos *Cadernos do Cárcere*, escritos na prisão fascista. Para ele, o Risorgimento foi uma **revolução passiva**: uma transformação conduzida "pelo alto", em que o Partido de Ação (Mazzini, Garibaldi) foi absorvido e neutralizado pelos Moderados (Cavour), e em que **as massas camponesas não foram incorporadas**. Faltou à Itália o que a Revolução Francesa fez em 1789: uma aliança entre a burguesia e o campo, selada por **reforma agrária**. Sem ela, o novo Estado nasceu sem enraizamento popular, dependente de compromissos entre elites — o *transformismo* — e carregando a **questão meridional** como ferida permanente. Gramsci lia nessa origem uma das razões da fragilidade que permitiria o fascismo décadas depois [@gramsci2002]. A tese é discutível — críticos observam que ela julga o Risorgimento por um modelo francês que talvez fosse inaplicável —, mas mudou a pergunta que se faz ao período: em vez de "quem foi o maior herói?", "quem ficou de fora?".
+
+Uma terceira via, mais recente, é a de **Lucy Riall**, que estuda o Risorgimento pelos métodos da história cultural. Em sua biografia de Garibaldi, mostra como a figura do herói foi **deliberadamente fabricada** e difundida por uma verdadeira máquina de propaganda: litografias, retratos, biografias populares, canções, correspondência internacional, a camisa vermelha como marca visual reconhecível. Garibaldi teria sido a primeira **celebridade política de massas** da história moderna, e essa construção midiática foi ela própria um instrumento de unificação, capaz de criar identificação nacional onde não havia língua comum [@riall2007]. Note como as três leituras não se anulam: elas medem coisas diferentes — feitos políticos, estruturas sociais, produção simbólica.
+
+**A Alemanha: houve um "caminho especial"?** Depois de 1945, historiadores tentaram explicar como um país tão desenvolvido chegara ao nazismo, e formularam a tese do ***Sonderweg*** (caminho especial): a Alemanha teria se desviado da rota "normal" das democracias ocidentais porque sua **unificação foi feita pelo alto**, sem revolução burguesa vitoriosa. A burguesia alemã teria trocado poder político por prosperidade e prestígio nacional, deixando intactas as elites pré-industriais — *junkers*, exército, burocracia —, o que produziu um Estado autoritário e militarista, terreno preparado para 1933. **Fritz Fischer** deu à tese sua versão mais polêmica ao sustentar, em 1961, que a Alemanha imperial planejara deliberadamente a guerra de 1914 em busca de hegemonia, estabelecendo continuidade entre o Império e o Terceiro Reich.
+
+Em 1984, **David Blackbourn** e **Geoff Eley** desmontaram boa parte do argumento em *As peculiaridades da história alemã*. Sua objeção central é simples e devastadora: o *Sonderweg* pressupõe um **caminho "normal"** — o anglo-francês — que nunca existiu de verdade. A Inglaterra manteve aristocracia e monarquia; a França teve dois impérios, várias revoluções e o caso Dreyfus. Além disso, mostram eles, a burguesia alemã não foi "fraca": foi extraordinariamente bem-sucedida em impor sua cultura, seu direito, sua economia e suas associações à sociedade — apenas não precisou tomar o Estado para isso. Ler 1871 como origem inevitável de 1933 é fazer **teleologia**: ler o passado de trás para a frente, como se tudo conduzisse ao desfecho conhecido [@blackbournEley1993].
+
+**Por que divergem?** Porque as duas polêmicas nasceram de **perguntas do presente de quem as formulou**: Gramsci escrevia numa prisão fascista, tentando entender por que o socialismo italiano fora derrotado; os teóricos do *Sonderweg* escreviam sob o trauma de Auschwitz; Blackbourn e Eley, formados na história social britânica dos anos 1970, desconfiavam de qualquer modelo de "desenvolvimento normal". Isso não invalida nenhuma delas — mas explica por que iluminam aspectos distintos. O que a comparação ensina é o cuidado com a **teleologia**: a unificação alemã não "levou" ao nazismo como uma causa leva a um efeito; criou condições, estruturas e hábitos políticos que, combinados a outros fatores muito posteriores — derrota em 1918, hiperinflação, crise de 1929 —, tornaram certos desfechos mais prováveis do que outros.
+
+## Resumo do capítulo {#sec-resumo}
+
+- **Ponto de partida (1815):** a Itália era "uma expressão geográfica" (Metternich), dividida em sete Estados, com a Áustria como potência tutelar; a Alemanha, em **39 Estados** na frouxa **Confederação Germânica**, disputada por **Áustria** e **Prússia**. Em **1834**, o **Zollverein** unificou o mercado alemão **sem a Áustria** — a unidade econômica precedeu a política.
+- **Três projetos italianos:** republicano-unitário de **Mazzini** (Jovem Itália, insurreição popular); federalista-papal (**neoguelfismo** de Gioberti), morto com a recusa de Pio IX em 1848; e o **monárquico-piemontês** de **Cavour**, vencedor.
+- **Etapas italianas:** modernização do Piemonte e participação na **Guerra da Crimeia** (1853–56); acordo de **Plombières** com **Napoleão III** (1858), pagando com **Nice e Saboia**; guerra de **1859** (Magenta, Solferino) → **Lombardia**; plebiscitos nos ducados centrais (1860); **Expedição dos Mil** de **Garibaldi** (1860) → Duas Sicílias, com a entrega do sul ao rei no **encontro de Teano**; proclamação do **Reino da Itália** em **1861** (Vítor Emanuel II); **Vêneto** em **1866**; **Roma** em **1870**.
+- **Heranças italianas:** **Questão Romana** (papa "prisioneiro do Vaticano", resolvida só nos **Acordos de Latrão**, 1929) e **questão meridional** (ausência de reforma agrária, repressão ao *brigantaggio*, emigração de cerca de 14 milhões de pessoas entre 1870 e 1920, muitas para o **Brasil**).
+- **Alemanha:** **Bismarck** (chanceler em 1862), *junker* conservador, praticou a ***Realpolitik*** e anunciou a unidade por "**ferro e sangue**". **Três guerras**: **Dinamarca (1864)**, pelos ducados de Schleswig-Holstein; **Áustria (1866)**, vencida em **Sadowa**, com paz generosa, fim da Confederação Germânica e vitória da solução **"Pequena Alemanha"**; **França (1870–71)**, provocada pelo **Telegrama de Ems**, decidida em **Sedan** (Napoleão III preso).
+- **18 de janeiro de 1871:** proclamação do **Império Alemão** na Galeria dos Espelhos de **Versalhes**; anexação da **Alsácia-Lorena** e indenização de 5 bilhões de francos. O Império era **federal e autoritário**: *Kaiser* e chanceler acima do **Reichstag**, este eleito por sufrágio universal masculino mas com poderes limitados. Bismarck combinou ***Kulturkampf***, **leis antissocialistas** (1878–1890) e a criação do **primeiro sistema público de seguridade social** (1883–1889).
+- **Não confundir:** a proclamação do Império Alemão (18 de janeiro de 1871) e a **Comuna de Paris** (18 de março a 28 de maio de 1871, esmagada na Semana Sangrenta) são eventos distintos com causa comum.
+- **Consequências:** fim do equilíbrio de Viena; Alemanha como potência dominante; **revanchismo** francês; sistema de alianças bismarckianas para isolar a França, abandonado por **Guilherme II** após 1890; entrada tardia e agressiva de Alemanha e Itália na disputa imperialista (**Conferência de Berlim**, 1884–85).
+- **Brasil:** **Garibaldi** combateu na **Revolução Farroupilha** (1839–41) e conheceu **Anita** em Laguna; décadas depois, a emigração italiana provocada pela questão meridional transformaria a composição da população brasileira.
+- **Historiografia:** o Risorgimento como epopeia nacional × **"revolução passiva"** sem as massas camponesas (**Gramsci**) × construção midiática do herói (**Lucy Riall**). A Alemanha: tese do ***Sonderweg*** (unificação pelo alto → autoritarismo → 1933; Fischer, Wehler) × a crítica de **Blackbourn e Eley** (não existe "caminho normal"; cuidado com a **teleologia**).
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Domine: (1) o mapa de partida e o papel do **Zollverein**; (2) os **três projetos** italianos e por que venceu Cavour; (3) a cronologia italiana (1859-1860-1861-1866-1870) e o significado de **Teano**; (4) as **três guerras** de Bismarck, cada uma com sua função; (5) a distinção entre **Império Alemão** e **Comuna de Paris**; (6) as consequências para o equilíbrio europeu; (7) os debates do *Sonderweg* e da revolução passiva.
+:::
+
+**1.** Por que se diz que, na Alemanha, a **unidade econômica precedeu a unidade política**?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque o **Zollverein** (União Aduaneira), em vigor a partir de **1834**, criou um mercado comum alemão décadas antes de existir um Estado alemão. Ele aboliu as tarifas internas entre os Estados aderentes, padronizou pesos, medidas e sistemas monetários e facilitou a circulação de mercadorias — o que estimulou a construção de **ferrovias**, a exploração do carvão do **Ruhr** e a siderurgia da Renânia.
+
+Duas consequências políticas decorreram disso. Primeira: o Zollverein **excluía a Áustria**, o que colocou a **Prússia** no centro da economia germânica e enfraqueceu a pretensão austríaca à liderança muito antes de Sadowa. Segunda: a **burguesia** alemã passou a ter interesse material direto na unificação sob comando prussiano — mercado maior, moeda única, ferrovias integradas, política tarifária protetora. Quando Bismarck ofereceu a unidade sem democracia, essa burguesia já tinha motivos econômicos poderosos para aceitar o trato.
+:::
+
+**2.** Compare os projetos de **Mazzini** e de **Cavour** para a unificação italiana e explique por que o segundo se impôs.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Mazzini** defendia uma **república unitária**, conquistada **de baixo**, por meio da insurreição popular e da educação política do povo; fundou a **Jovem Itália** (1831) e inspirou dezenas de tentativas revolucionárias, entre elas a República Romana de 1849. **Cavour**, primeiro-ministro do Piemonte, defendia uma **monarquia constitucional** sob a casa de **Sabóia**, construída **de cima**, por meio da modernização econômica do Piemonte, da diplomacia internacional e da guerra com apoio de uma grande potência.
+
+O projeto de Cavour venceu por razões concretas: (i) as insurreições mazzinianas **fracassaram sistematicamente**, inclusive na conjuntura favorável de 1848–49, mostrando que a Áustria não seria expulsa sem exército regular e aliado externo; (ii) o Piemonte oferecia o que faltava aos republicanos — **Estado, exército, finanças e uma constituição** em vigor (o Estatuto Albertino), sendo o único ponto de apoio institucional disponível; (iii) a **aliança francesa**, obtida em Plombières após a participação na Guerra da Crimeia, era decisiva militarmente; (iv) as elites proprietárias e a burguesia do norte temiam que uma revolução popular ameaçasse a propriedade — preferiam a monarquia; (v) por fim, o próprio **Garibaldi**, republicano, subordinou seu projeto ao da monarquia em **Teano** (1860), em nome da unidade, o que selou a questão.
+:::
+
+**3.** Explique a importância da **Expedição dos Mil** e do **encontro de Teano**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+A **Expedição dos Mil** (maio a outubro de **1860**) foi a operação em que **Garibaldi**, com cerca de mil voluntários de **camisa vermelha**, partiu de Gênova, desembarcou na Sicília em plena revolta camponesa, derrotou o exército dos **Bourbon**, atravessou o estreito e conquistou **Nápoles**. Sua importância é dupla: militarmente, entregou à causa nacional todo o **sul da península** — mais da metade do território do futuro reino — sem custo para o exército piemontês; simbolicamente, deu ao Risorgimento seu episódio épico e sua figura popular mais amada.
+
+O **encontro de Teano** (outubro de 1860) resolveu a tensão que a expedição criara. Cavour temia que Garibaldi marchasse sobre **Roma**, provocasse a intervenção da **França** (protetora do papa) e proclamasse a **república**. Enviou o exército piemontês ao encontro dele pelos Estados Pontifícios. Em Teano, Garibaldi **entregou o sul conquistado** ao rei **Vítor Emanuel II**, saudando-o como rei da Itália, e retirou-se para a ilha de Caprera recusando cargos e recompensas.
+
+O significado é decisivo: garantiu a unidade **sem guerra civil** entre monárquicos e republicanos, mas ao preço da **subordinação definitiva da corrente democrática** ao projeto monárquico e moderado. É justamente esse desfecho que **Gramsci** analisaria como "revolução passiva" — o Partido de Ação absorvido pelos Moderados, e as massas camponesas do sul, que haviam se revoltado esperando terra, deixadas de fora do arranjo.
+:::
+
+**4.** Descreva as **três guerras** de Bismarck, indicando a função estratégica de cada uma.
+
+::: {.callout-tip collapse="true" title="Solução"}
+1. **Guerra dos Ducados (1864), contra a Dinamarca.** Prússia e Áustria lutaram **aliadas** e tomaram **Schleswig e Holstein**. *Função:* obter território alemão, testar o exército reformado e, sobretudo, **criar o motivo do próximo conflito** — Bismarck fez questão de que os ducados fossem administrados em condomínio com Viena, sabendo que a partilha geraria atrito.
+2. **Guerra Austro-Prussiana (1866), "das Sete Semanas".** Vitória prussiana em **Sadowa (Königgrätz)**, obtida com fuzil de retrocarga, ferrovias e o estado-maior de Moltke. *Função:* **excluir a Áustria** do mundo alemão. Resultados: dissolução da Confederação Germânica, criação da **Confederação da Alemanha do Norte** sob a Prússia e vitória da fórmula **"Pequena Alemanha"**. A paz foi propositalmente **branda**, para preservar a Áustria como futura aliada. Efeitos colaterais: a Itália, aliada, recebeu o **Vêneto**; a Áustria, enfraquecida, concedeu o **Compromisso de 1867** aos húngaros.
+3. **Guerra Franco-Prussiana (1870–71).** Provocada pela divulgação editada do **Telegrama de Ems**, que fez a França declarar guerra e aparecer como agressora. Decidida em **Sedan**, onde **Napoleão III** foi capturado com seu exército; seguiu-se o cerco de Paris. *Função:* **atrair os Estados alemães do sul**, católicos e desconfiados da Prússia, por meio de uma guerra nacional contra um inimigo comum. Resultado: proclamação do **Império Alemão** em **Versalhes** (18 de janeiro de 1871), anexação da **Alsácia-Lorena** e indenização de 5 bilhões de francos — semente do **revanchismo** francês.
+
+O padrão é sempre o mesmo: guerras **curtas**, com objetivo político **limitado e definido de antemão**, e paz calculada segundo o próximo passo. É a **Realpolitik** em estado puro.
+:::
+
+**5.** O que foi a **Comuna de Paris**? Por que não se deve confundi-la com a unificação alemã?
+
+::: {.callout-tip collapse="true" title="Solução"}
+A **Comuna de Paris** foi o governo popular e autogestionário proclamado na capital francesa em **18 de março de 1871**, após a rendição negociada pelo governo conservador que se instalara em Versalhes e depois de quatro meses de cerco e fome. Durou **72 dias**. Entre suas medidas: separação entre Igreja e Estado, ensino laico e gratuito, fim do trabalho noturno nas padarias, entrega de oficinas abandonadas a **cooperativas de operários**, funcionários eleitos, **revogáveis** e com salário de operário, moratória de aluguéis. Foi esmagada pelo exército de Versalhes na "**Semana Sangrenta**" (21 a 28 de maio de 1871), com milhares de fuzilados (estimativas entre 10 mil e 20 mil mortos) e milhares de deportados.
+
+**Por que não confundir:** a **proclamação do Império Alemão** ocorreu em **18 de janeiro de 1871**, na Galeria dos Espelhos de **Versalhes**, e é o desfecho da unificação conduzida por Bismarck; a Comuna é um **acontecimento francês e social**, iniciado dois meses depois, cujo alvo era o governo francês de Adolphe Thiers, não os alemães. As duas coisas têm a mesma **causa comum** — a derrota francesa na guerra —, mas natureza e sujeitos inteiramente distintos. Sua importância posterior é enorme: Marx a interpretou como a primeira experiência de poder operário (*A guerra civil na França*), e Lênin a estudaria como ensaio de 1917 (@sec-revolucao-russa).
+:::
+
+**6.** Explique de que maneira as unificações alteraram o **equilíbrio europeu** desenhado em Viena.
+
+::: {.callout-tip collapse="true" title="Solução"}
+O Congresso de Viena (1815) baseara-se em impedir que qualquer potência dominasse o continente, mantendo a Europa central **fragmentada** — 39 Estados alemães e sete italianos — como zona-tampão entre França, Áustria e Rússia. As unificações destruíram exatamente essa arquitetura:
+
+- **Surge uma potência dominante no centro.** O Império Alemão reunia população numerosa, a maior indústria pesada do continente e o exército mais eficiente da época. Em poucas décadas, ultrapassaria a Inglaterra em produção de aço e em química.
+- **A França é rebaixada e humilhada.** A perda da **Alsácia-Lorena** e a proclamação do Império em **Versalhes** produziram o **revanchismo**, que tornou impossível qualquer entendimento duradouro entre Paris e Berlim.
+- **A Áustria é expulsa da Alemanha e da Itália** e se volta para os **Bálcãs**, onde entra em rota de colisão com a Rússia — origem direta da crise de 1914.
+- **Nasce o sistema de alianças.** Bismarck passou a governar para **isolar a França** e evitar guerra em duas frentes (Tríplice Aliança de 1882 com Áustria-Hungria e Itália, acordos com a Rússia). Demitido em **1890**, foi substituído pela *Weltpolitik* de **Guilherme II** — expansão naval e colonial —, que empurrou Inglaterra, França e Rússia para a **Tríplice Entente**.
+- **Acirra-se a corrida imperialista.** Dois Estados nacionais recém-formados e sem colônias entram famintos na partilha do mundo; foi Bismarck quem sediou a **Conferência de Berlim** (1884–85) sobre a África (@sec-imperialismo).
+
+Em síntese: a Europa saiu de um sistema de cinco potências relativamente equilibradas para um sistema de **dois blocos armados** — e isso é parte essencial da explicação de 1914 (@sec-primeira-guerra-mundial).
+:::
+
+**7.** (Estilo ENEM) Leia o texto.
+
+> "Não é por meio de discursos e deliberações de maioria que as grandes questões do tempo serão resolvidas — esse foi o grande erro de 1848 e 1849 —, mas por ferro e sangue."
+>
+> — Otto von Bismarck, discurso à comissão de orçamento do parlamento prussiano, 30 de setembro de 1862.
+
+A declaração de Bismarck expressa uma concepção de unificação nacional segundo a qual
+
+**(a)** a unidade alemã deveria resultar do consenso construído entre os parlamentos dos 39 Estados da Confederação Germânica.
+**(b)** o Estado prussiano deveria conduzir a unificação pela força militar e diplomática, rejeitando a via parlamentar tentada em Frankfurt.
+**(c)** a formação do Estado nacional dependeria de uma revolução popular capaz de derrubar as dinastias alemãs.
+**(d)** a unificação exigiria antes a democratização interna da Prússia e a ampliação do sufrágio.
+**(e)** o processo deveria ser liderado pela Áustria, potência tradicional do mundo germânico.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (b).** A referência ao "erro de 1848 e 1849" é explícita: Bismarck alude ao **Parlamento de Frankfurt**, que discutiu a unidade em assembleia e terminou com a coroa recusada por Frederico Guilherme IV e a dissolução pela tropa. Contra essa via, propõe o "**ferro e sangue**" — armamento e guerra —, ou seja, a unificação **pelo alto**, conduzida pelo Estado prussiano, seu exército e sua diplomacia. O discurso foi feito, aliás, exatamente numa comissão de **orçamento**, no auge do conflito em que Bismarck governava sem aprovação parlamentar para financiar a reforma do exército.
+
+As demais: **(a)** e **(d)** contradizem frontalmente a rejeição de "discursos e deliberações de maioria"; **(c)** é a via de Mazzini e dos democratas de 1848, que Bismarck considerava um erro comprovado e uma ameaça à ordem social; **(e)** inverte a estratégia prussiana, cujo eixo — do **Zollverein** de 1834 à vitória de **Sadowa** em 1866 — foi justamente **excluir a Áustria** do mundo alemão, consagrando a solução "Pequena Alemanha".
+:::
+
+**8.** (Estilo vestibular — dissertativa) Explique a tese de **Gramsci** sobre o Risorgimento como "revolução passiva" e relacione-a à **questão meridional**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Nos *Cadernos do Cárcere*, **Gramsci** chama de **revolução passiva** a transformação política profunda que é conduzida **pelo alto**, por frações das classes dominantes, sem mobilização e sem incorporação das classes populares — e que, por isso, "revoluciona" as estruturas do Estado deixando intactas as relações sociais de base [@gramsci2002].
+
+Aplicada ao Risorgimento, a tese sustenta que: (i) o **Partido de Ação** (Mazzini, Garibaldi), que poderia ter dado à unificação uma base popular, não formulou um programa capaz de atrair os camponeses — sobretudo **terra** — e acabou **absorvido** pelo Partido Moderado de Cavour, num processo que se prolongaria na prática política italiana sob o nome de ***transformismo***; (ii) faltou à Itália o equivalente ao **1789 francês**, isto é, uma aliança entre burguesia e campesinato selada por **reforma agrária**, que teria enraizado o novo Estado na maioria da população; (iii) em consequência, a unificação foi obra de elites do **norte**, e o Estado nasceu com legitimidade rasa, dependente de acordos de cúpula.
+
+**Relação com a questão meridional:** o sul foi **anexado**, não integrado. Recebeu os impostos, o serviço militar obrigatório, as tarifas e a legislação piemonteses, mas nenhuma redistribuição de terra — e as revoltas camponesas que se seguiram foram tratadas como criminalidade comum, o *brigantaggio*, reprimidas entre 1861 e 1865 por uma campanha militar mais mortífera que as guerras do Risorgimento. Livre-comércio e concorrência do norte industrial arruinaram as manufaturas meridionais. O resultado de longo prazo foi um **dualismo econômico** persistente e a **emigração em massa** — cerca de 14 milhões de italianos entre 1870 e 1920, muitos deles rumo ao **Brasil**, especialmente para as fazendas de café paulistas e as colônias do Sul (@sec-escravidao-abolicao-imigracao). Gramsci ainda enxergava nessa fragilidade original uma condição que ajudaria a explicar a ascensão do **fascismo**.
+
+**Avaliação crítica:** a tese é poderosa, mas deve ser usada com cautela. Críticos observam que ela julga a Itália por um modelo francês idealizado e que subestima o quanto a burguesia italiana efetivamente construiu — indústria, ferrovias, escolas, exército, administração. Vale a mesma advertência feita à tese do *Sonderweg* alemão: cuidado com a **teleologia**, isto é, com a leitura do século XIX apenas como preparação do desfecho conhecido do século XX.
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- HOBSBAWM, Eric. *A era do capital: 1848–1875* [@hobsbawmCapital2015]. Situa as duas unificações no quadro maior da expansão capitalista e da consolidação dos Estados nacionais.
+- GRAMSCI, Antonio. *Cadernos do Cárcere*, vol. 5 — *O Risorgimento* [@gramsci2002]. A crítica clássica; leia os fragmentos sobre "revolução passiva" e "transformismo".
+- RIALL, Lucy. *Garibaldi: invenção de um herói* [@riall2007]. Como se fabrica uma celebridade política no século XIX.
+- BLACKBOURN, David; ELEY, Geoff. *The Peculiarities of German History* [@blackbournEley1993]. A demolição da ideia de "caminho normal" para a modernidade.
+
+**Fontes primárias**
+
+- O discurso do "**ferro e sangue**" (Bismarck, 30 de setembro de 1862) e o **Telegrama de Ems** nas duas versões — a original e a editada por Bismarck. A comparação entre elas é um exercício modelar de crítica documental (@sec-fontes-historicas).
+- MARX, Karl. *A guerra civil na França* (1871), sobre a Comuna de Paris. Documento militante e apaixonado — leia-o como **fonte**, não como relato neutro.
+
+**Filmes e literatura**
+
+- *O leopardo* (1963), dir. Luchino Visconti, a partir do romance de Lampedusa. Um príncipe siciliano atravessa a chegada de Garibaldi; dele é a frase que resume a revolução passiva: "É preciso que tudo mude para que tudo continue como está".
+- *1860* (1934) e *Noi credevamo* (2010), dois olhares italianos sobre o Risorgimento, separados por 76 anos e por concepções opostas de nação — bom exercício de história da memória (@sec-memoria-patrimonio).

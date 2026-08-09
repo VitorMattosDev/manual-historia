@@ -140,7 +140,7 @@
 | # | Capítulo | Arquivo | Status |
 |---|----------|---------|--------|
 | 1 | Liberalismo, nacionalismo e as revoluções de 1848 | `capitulos/vol10/cap01-liberalismo-nacionalismo-1848.qmd` | ✅ |
-| 2 | As unificações da Itália e da Alemanha | `capitulos/vol10/cap02-unificacoes-italia-alemanha.qmd` | ⬜ |
+| 2 | As unificações da Itália e da Alemanha | `capitulos/vol10/cap02-unificacoes-italia-alemanha.qmd` | ✅ |
 | 3 | Segunda Revolução Industrial e o movimento operário | `capitulos/vol10/cap03-segunda-revolucao-industrial-socialismo.qmd` | ⬜ |
 | 4 | Imperialismo e neocolonialismo na África e na Ásia | `capitulos/vol10/cap04-imperialismo.qmd` | ⬜ |
 | 5 | As independências na América Latina | `capitulos/vol10/cap05-independencias-america-latina.qmd` | ⬜ |
