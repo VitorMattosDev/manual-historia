@@ -1,5 +1,359 @@
 # Imperialismo e neocolonialismo na África e na Ásia {#sec-imperialismo}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Abra hoje um mapa da **África** e observe as fronteiras. Boa parte delas é feita de **linhas retas** — traçadas a régua, cortando rios, montanhas, línguas e povos. Essas linhas não nasceram na África. Foram desenhadas em salões europeus, sobretudo entre novembro de **1884** e fevereiro de **1885**, quando catorze países se reuniram no palácio da chancelaria de **Bismarck**, em **Berlim**, para acertar as regras da partilha de um continente inteiro. Nenhum africano foi convidado. Em 1880, cerca de 80% da África ainda era governada por africanos; em **1914**, restavam **dois** Estados independentes — a **Etiópia** e a **Libéria**. Foi a maior e mais rápida conquista territorial da história. As consequências não são passado arqueológico: guerras de fronteira, monoculturas de exportação, línguas oficiais europeias e disputas por memória e reparação seguem vivas no noticiário. Este capítulo explica por que aconteceu, como aconteceu, como foi resistido — e por que sua interpretação continua sendo um dos terrenos mais disputados da historiografia.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- definir **imperialismo** e **neocolonialismo** e distingui-los do **Antigo Sistema Colonial**;
+- explicar as causas **econômicas**, **políticas**, **tecnológicas** e **ideológicas** da expansão de 1870–1914;
+- descrever a **Conferência de Berlim** e as etapas da partilha da África, incluindo a violência do Congo de Leopoldo II;
+- caracterizar a dominação europeia na **Índia** e na **China** e explicar a trajetória singular do **Japão Meiji**;
+- reconhecer as diversas formas de **resistência** africana e asiática, evitando a imagem de vítimas passivas;
+- relacionar o **racismo científico** e o **darwinismo social** às políticas do período, inclusive no **Brasil**;
+- discutir as interpretações do imperialismo — de **Hobson** e **Lênin** às críticas posteriores e à leitura cultural de **Edward Said**.
 :::
+
+## Do velho colonialismo ao neocolonialismo {#sec-neocolonialismo}
+
+Colônias europeias existiam desde o século XVI (@sec-antigo-sistema-colonial). O que se chama de **imperialismo** ou **neocolonialismo** é a nova onda expansiva de **1870 a 1914**, com características bastante distintas da anterior.
+
+| | **Antigo Sistema Colonial** (séc. XVI–XVIII) | **Neocolonialismo / Imperialismo** (1870–1914) |
+|---|---|---|
+| **Área** | sobretudo América | **África**, **Ásia** e Oceania |
+| **Interesse** | metais preciosos, gêneros tropicais, tráfico de escravizados | **matérias-primas industriais**, **mercados** consumidores, **investimento de capital** |
+| **Lógica** | **mercantilismo**, monopólio, pacto colonial | **capitalismo industrial e financeiro**, exportação de capitais |
+| **Ocupação** | feitorias litorâneas e áreas de povoamento | **ocupação efetiva** do interior, administração direta |
+| **Ideologia** | evangelização, direito de conquista | **racismo científico**, **darwinismo social**, "missão civilizadora" |
+| **Meios técnicos** | vela, arma de fogo, cavalo | vapor, **ferrovia**, telégrafo, **quinino**, metralhadora |
+
+: O que muda entre as duas grandes ondas coloniais. A diferença fundamental é o sujeito: agora a expansão é movida pelas necessidades da **indústria** e do **capital financeiro**. {#tbl-colonialismos}
+
+## Por que aconteceu {#sec-causas-imperialismo}
+
+**Causas econômicas.** A **Segunda Revolução Industrial** (@sec-segunda-revolucao-industrial-socialismo) tornou as economias europeias dependentes de matérias-primas que não possuíam: **borracha** (para pneus e isolamento elétrico), **cobre** (para fios), petróleo, **algodão**, óleos vegetais, estanho, ouro, diamantes, cacau, chá. Ao mesmo tempo, a **Grande Depressão** de 1873–1896 — período de queda de preços e lucros — reacendeu o **protecionismo**: se cada potência fechava seu mercado com tarifas, tornava-se vital possuir **mercados cativos**. E, como o capital acumulado nas metrópoles rendia cada vez menos em casa, a **exportação de capitais** (empréstimos a governos, ferrovias, minas, portos, plantações) tornou-se altamente lucrativa — com a vantagem de que o investidor podia contar com o exército de seu país para garantir o retorno.
+
+**Causas políticas e estratégicas.** Colônias eram **prestígio**: numa Europa de nacionalismos exacerbados, um mapa com muitas manchas da cor do seu país valia votos e orgulho. Eram também posições estratégicas — bases navais, estações de carvão, o controle de rotas como o **Canal de Suez** (comprado pela Inglaterra em 1875). E a lógica da rivalidade se autoalimentava: se a França avançava no oeste africano, a Inglaterra precisava avançar antes que fosse tarde, mesmo em territórios de pouco valor econômico.
+
+**Causas técnicas.** A conquista só foi possível porque a diferença de poder se tornara abissal. Contam entre os fatores decisivos: o **navio a vapor** com casco de aço; o **telégrafo**, que permitia comandar de Londres; a **ferrovia**, que levava tropas e escoava minério; a descoberta do **quinino** como profilático contra a malária, que abriu o interior africano — antes chamado "túmulo do homem branco" — à penetração europeia; e as armas de repetição, culminando na **metralhadora Maxim** (1884). O poeta Hilaire Belloc resumiu o século em dois versos cínicos: "Aconteça o que acontecer, nós temos a Maxim, e eles não". Na batalha de **Omdurman** (Sudão, 1898), morreram cerca de 10 mil sudaneses e menos de 50 britânicos.
+
+**Causas ideológicas.** Aqui está o mais perturbador. A expansão foi justificada por um conjunto de doutrinas que davam ao domínio a aparência de **ciência** e de **dever moral**:
+
+- **Racismo científico:** teorias hoje inteiramente desacreditadas que dividiam a humanidade em "raças" hierarquizadas, medindo crânios (frenologia, craniometria) e atribuindo a cada grupo capacidades intelectuais e morais fixas.
+- **Darwinismo social:** transposição indevida da seleção natural de Darwin para as sociedades, feita sobretudo por **Herbert Spencer** — a ideia de "sobrevivência do mais apto" aplicada a povos e nações, tratando a dominação como resultado natural e a desigualdade como lei biológica. Darwin não formulou essa doutrina e ela não decorre de sua teoria.
+- **"Missão civilizadora":** a convicção de que a Europa tinha o dever de levar civilização, cristianismo, comércio e higiene aos "povos atrasados". Sua expressão mais célebre é o poema de **Rudyard Kipling**, *O fardo do homem branco* (1899), escrito para incentivar os Estados Unidos a ficar com as Filipinas [@kipling1899].
+
+::: {.callout-important title="Cuidado ao usar essas ideias em prova"}
+Duas advertências. Primeira: **explicar não é endossar**. O manual descreve o racismo científico porque sem ele não se entende o período — mas ele é falso do ponto de vista científico e foi construído **depois** dos interesses que justificava, servindo-lhes de álibi. Segunda: evite dizer que os europeus "acreditavam sinceramente e só por isso conquistaram". As duas coisas caminharam juntas: a ideologia tornava a conquista aceitável para a opinião pública das metrópoles — inclusive para setores populares e para muitos socialistas — e oferecia a cada colono, missionário ou soldado uma narrativa nobre para o que fazia. A relação entre interesse e crença é de reforço mútuo, não de simples causa e efeito.
+:::
+
+## A partilha da África {#sec-partilha-africa}
+
+Até 1880, a presença europeia na África limitava-se sobretudo ao litoral: a Argélia francesa, a Colônia do Cabo britânica, feitorias portuguesas em Angola e Moçambique. O interior era território de reinos e impérios africanos — os califados de Sokoto, o império de Samori Touré, o reino Ashanti, o reino zulu, a Etiópia, os Estados suaílis da costa oriental.
+
+Duas coisas mudaram esse quadro. As **expedições de exploração** — Livingstone, Burton, Speke e sobretudo **Henry Morton Stanley** — mapearam os grandes rios e criaram, nos jornais europeus, uma febre africana. E a ambição de **Leopoldo II**, rei dos belgas, que contratou Stanley para assinar "tratados" com chefes locais na bacia do Congo e reivindicar aquele território **como propriedade pessoal**, sob o nome enganoso de Associação Internacional Africana, apresentada como empreendimento humanitário e antiescravista.
+
+A corrida ameaçava gerar guerra entre europeus. Convocou-se então a **Conferência de Berlim** (novembro de 1884 – fevereiro de 1885), presidida por Bismarck, com catorze delegações — **nenhuma africana**. Suas decisões principais:
+
+- **Princípio da ocupação efetiva:** não bastava alegar direitos históricos ou de descobrimento; para ter a soberania reconhecida, era preciso **ocupar militarmente e administrar** o território, notificando as demais potências. Essa cláusula transformou a corrida em conquista armada acelerada.
+- **Livre navegação** nos rios **Congo** e **Níger**.
+- Reconhecimento do **Estado Livre do Congo** como domínio pessoal de **Leopoldo II** — cerca de 2,3 milhões de km², oitenta vezes a Bélgica.
+- Compromisso retórico de combater o **tráfico de escravizados** e de promover a "civilização".
+
+O que se seguiu foi vertiginoso. A **Inglaterra** perseguiu o projeto "**do Cabo ao Cairo**", eixo norte-sul: Egito (1882), Sudão, Quênia, Uganda, Rodésias, África do Sul. A **França** montou um eixo oeste-leste, do Senegal ao Chifre da África. Os dois se chocaram em **Fashoda** (Sudão, 1898), num incidente que quase gerou guerra e terminou com o recuo francês — episódio que, paradoxalmente, abriu caminho para o entendimento anglo-francês da *Entente Cordiale* de 1904. **Portugal** perdeu seu "mapa cor-de-rosa" (unir Angola a Moçambique) diante do Ultimato Britânico de 1890. A **Alemanha** e a **Itália**, chegando tarde, ficaram com sobras — e insatisfeitas. Na África do Sul, a **Guerra dos Bôeres** (1899–1902) opôs os britânicos aos colonos de origem holandesa pelo ouro do Transvaal, e nela os ingleses inauguraram em larga escala os **campos de concentração**, onde morreram dezenas de milhares de civis bôeres e africanos.
+
+::: {#fig-partilha-africa}
+
+```{.tikz}
+%%| filename: fig-partilha-africa
+%%| alt: Esquema da partilha da África em 1914, mostrando as potências coloniais, seus eixos de expansão e os dois Estados independentes.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \draw[thick, manualgray, rounded corners] (0,-5.6) rectangle (7.2,2.6);
+  \node[text=manualgray] at (3.6,2.9) {\textbf{ÁFRICA em 1914} (esquema)};
+
+  \fill[manualblue!22, rounded corners] (0.15,1.1) rectangle (3.5,2.45);
+  \node[align=center, text=manualblue] at (1.8,1.8) {\textbf{FRANÇA}\\ Magreb, África\\ Ocidental, Saara};
+
+  \fill[manualred!20, rounded corners] (3.65,1.1) rectangle (7.05,2.45);
+  \node[align=center, text=manualred] at (5.35,1.8) {\textbf{INGLATERRA}\\ Egito, Sudão\\ (eixo Cabo--Cairo)};
+
+  \fill[manualyellow!30, rounded corners] (0.15,-1.3) rectangle (2.6,0.95);
+  \node[align=center] at (1.4,-0.2) {\textbf{FRANÇA}\\ Congo francês};
+
+  \fill[manualgreen!22, rounded corners] (2.75,-1.3) rectangle (4.9,0.95);
+  \node[align=center, text=manualgreen!50!black] at (3.8,-0.2) {\textbf{BÉLGICA}\\ \textbf{Congo}\\ (Leopoldo II)};
+
+  \fill[manualgray!28, rounded corners] (5.05,-0.2) rectangle (7.05,0.95);
+  \node[align=center] at (6.05,0.4) {\textbf{ETIÓPIA}\\ \textit{independente}\\ (Adwa, 1896)};
+
+  \fill[manualblue!12, rounded corners] (5.05,-1.3) rectangle (7.05,-0.35);
+  \node[align=center] at (6.05,-0.82) {\textbf{ALEMANHA}\\ Tanganica};
+
+  \fill[manualyellow!22, rounded corners] (0.15,-3.4) rectangle (2.2,-1.45);
+  \node[align=center] at (1.17,-2.4) {\textbf{PORTUGAL}\\ Angola};
+
+  \fill[manualyellow!22, rounded corners] (4.9,-3.4) rectangle (7.05,-1.45);
+  \node[align=center] at (5.97,-2.4) {\textbf{PORTUGAL}\\ Moçambique};
+
+  \fill[manualblue!12, rounded corners] (2.35,-3.4) rectangle (4.75,-1.45);
+  \node[align=center] at (3.55,-2.4) {\textbf{ALEMANHA}\\ Sudoeste Africano\\ (genocídio herero)};
+
+  \fill[manualred!20, rounded corners] (1.6,-5.45) rectangle (5.6,-3.55);
+  \node[align=center, text=manualred] at (3.6,-4.5) {\textbf{INGLATERRA}\\ Rodésias e União\\ Sul-Africana\\ (Guerra dos Bôeres)};
+
+  \draw[vetor, very thick, manualred] (6.6,1.1) -- (4.6,-4.3);
+  \node[rotate=70, text=manualred] at (6.35,-1.9) {\textbf{eixo Cabo--Cairo}};
+  \draw[vetor, very thick, manualblue] (0.5,0.6) -- (6.3,0.6);
+  \node[text=manualblue, fill=white, inner sep=1pt] at (2.6,0.6) {\textbf{eixo francês oeste--leste}};
+  \node[draw, thick, rounded corners, fill=manualgray!12, align=center, text width=3.4cm] at (10.3,0.4) {\textbf{Conferência de}\\ \textbf{Berlim} (1884--85)\\[3pt] ocupação efetiva ·\\ livre navegação no\\ Congo e no Níger ·\\ \textbf{nenhum africano}\\ presente};
+  \node[draw, thick, rounded corners, fill=manualgreen!14, align=center, text width=3.4cm] at (10.3,-3.2) {\textbf{Independentes em 1914}\\[3pt] \textbf{Etiópia} (vitória de\\ Adwa, 1896) e\\ \textbf{Libéria}};
+  \node[align=center, text=manualgray] at (10.3,2.6) {\textit{choque em} \textbf{Fashoda} \textit{(1898)}};
+\end{tikzpicture}
+```
+
+Esquema da partilha: as manchas coloniais, os dois eixos de expansão que se cruzaram em Fashoda e os dois únicos Estados africanos independentes em 1914. As posições no diagrama são aproximadas e servem apenas para orientar a leitura.
+:::
+
+::: {.callout-warning title="O Congo de Leopoldo II"}
+O **Estado Livre do Congo** (1885–1908) foi apresentado ao mundo como obra humanitária e funcionou como o oposto: uma empresa extrativa privada movida a **trabalho forçado**, sobretudo para a coleta de **borracha** silvestre, então valiosíssima por causa dos pneus. Aldeias recebiam cotas; famílias eram tomadas como reféns até que a cota fosse entregue; a milícia (*Force Publique*) mutilava as mãos de quem não cumpria — e fotografias dessas mutilações, feitas por missionários, correram o mundo.
+
+A denúncia partiu do diplomata britânico **Roger Casement**, cujo relatório oficial (1904) foi decisivo, e da campanha do jornalista **E. D. Morel**; escritores como **Mark Twain** e **Arthur Conan Doyle** aderiram. Sob pressão internacional, o parlamento belga retirou o Congo das mãos do rei em **1908**, transformando-o em colônia do Estado. As estimativas de mortes por assassinato, fome e doenças ligadas ao regime variam muito entre os historiadores — vários trabalham com a ordem de **milhões**, frequentemente citando a cifra de cerca de 10 milhões, mas a base documental é frágil, pois nunca houve censo confiável antes ou depois, e o próprio regime destruiu arquivos. O caso é, por isso, um bom exercício de crítica das fontes (@sec-fontes-historicas): a incerteza numérica não põe em dúvida a natureza do regime, apenas a precisão da contabilidade [@hochschild1999].
+:::
+
+**A África resistiu.** É essencial abandonar a imagem de um continente entregue sem luta. Houve:
+
+- **Resistência militar organizada:** o **Império Ashanti** guerreou repetidamente contra os britânicos; os **zulus** destruíram uma coluna britânica em **Isandlwana** (1879); **Samori Touré** enfrentou os franceses por dezesseis anos na África Ocidental; o **movimento mahdista** derrotou os britânicos em Cartum (1885) e governou o Sudão por treze anos.
+- **A vitória etíope:** em **1º de março de 1896**, o imperador **Menelik II**, que modernizara seu exército e comprara armas europeias explorando as rivalidades entre as potências, esmagou o exército italiano em **Adwa**. Foi a única vitória decisiva de um Estado africano sobre uma potência europeia no período, e garantiu a independência da **Etiópia** — tornando-a, no século XX, símbolo do pan-africanismo.
+- **Revoltas contra a ocupação:** a **Maji Maji** (África Oriental Alemã, 1905–1907), que uniu diversos povos contra o trabalho forçado no algodão e terminou com centenas de milhares de mortos, muitos pela fome provocada pela política de terra arrasada alemã; e a guerra dos **hererós e namas** (Sudoeste Africano Alemão, 1904–1907), reprimida com uma ordem de extermínio explícita e considerada por muitos historiadores o **primeiro genocídio do século XX**, com a morte de cerca de 80% da população herero.
+- **Resistência cotidiana e cultural:** fuga, sabotagem, recusa a plantar, greves, igrejas independentes, movimentos religiosos, manutenção de línguas e tradições. Desses focos nasceriam o pan-africanismo e os movimentos de independência do século XX (@sec-descolonizacao-africa-asia).
+
+## A Ásia: dominação direta e indireta {#sec-asia-imperialismo}
+
+**Índia.** A **Companhia das Índias Orientais** — uma empresa privada com exército próprio — dominou o subcontinente ao longo do século XVIII. Em **1857** estourou a **Revolta dos Sipaios** (soldados indianos a serviço britânicos), detonada pelo boato de que os cartuchos dos novos fuzis eram untados com gordura de vaca (sagrada para hindus) e de porco (impura para muçulmanos) e precisavam ser abertos com os dentes; por trás disso havia descontentamento profundo com anexações, impostos e humilhações. Reprimida com extrema violência, a revolta levou a Coroa a assumir diretamente o governo em **1858** — o **Raj britânico** —, e em **1877** a rainha **Vitória** foi proclamada **Imperatriz da Índia**. O balanço da administração britânica é objeto de disputa acesa: houve ferrovias, telégrafo, universidades e um serviço civil unificado, mas também a destruição da indústria têxtil artesanal indiana pela concorrência de Manchester, a conversão de terras de alimento em plantações de exportação (chá, algodão, ópio, juta) e uma série de **fomes catastróficas** — a de 1876–78 e a de 1896–1902 mataram, somadas, mais de 10 milhões de pessoas, em anos nos quais a Índia continuou **exportando grãos**. Em **1885** fundou-se o **Congresso Nacional Indiano**, a princípio moderado, que se tornaria o motor da independência.
+
+**China.** O Império Chinês não foi colonizado, mas foi **semicolonizado** — reduzido a esferas de influência sem perder formalmente a soberania. O ponto de virada foram as **Guerras do Ópio** (1839–42 e 1856–60): a Inglaterra, para corrigir seu déficit comercial com a China, vendia **ópio** produzido na Índia; quando Pequim tentou proibir o tráfico da droga, foi derrotada militarmente. Seguiram-se os **tratados desiguais**: abertura de portos, cessão de **Hong Kong**, indenizações, tarifas fixadas pelos estrangeiros e **extraterritorialidade** (estrangeiros julgados por suas próprias leis em solo chinês). Internamente, a **Revolta Taiping** (1850–1864) — uma das guerras mais mortíferas da história, com estimativas de 20 a 30 milhões de mortos — quase derrubou a dinastia. Em **1900**, a **Revolta dos Boxers**, movimento popular antiestrangeiro, foi esmagada por uma força expedicionária de **oito potências**. A dinastia Qing caiu na **Revolução de 1911**, e Sun Yat-sen proclamou a república.
+
+**Japão.** A exceção. Forçado a se abrir pelos navios do comodoro Perry (1853), o Japão respondeu de modo oposto ao chinês: a **Restauração Meiji** (**1868**) derrubou o xogunato e promoveu uma modernização acelerada e dirigida pelo Estado — indústria, ferrovias, exército de conscrição, marinha, sistema educacional universal, constituição (1889), abolição dos privilégios samurais. Em uma geração, o país deixou de ser presa para se tornar **predador**: venceu a **China** (1894–95, anexando Taiwan e a influência sobre a Coreia) e, em **1905**, derrotou a **Rússia** — a primeira vitória de uma potência asiática sobre uma europeia na era industrial, com enorme repercussão entre nacionalistas de todo o mundo colonizado. A Coreia foi anexada em 1910.
+
+**Sudeste asiático e Pacífico.** A França montou a **Indochina** (Vietnã, Laos, Camboja); a Holanda consolidou as **Índias Orientais** (Indonésia); a Inglaterra tomou Birmânia e Malásia; o Sião (Tailândia) sobreviveu independente como Estado-tampão. Os **Estados Unidos**, vencendo a **Guerra Hispano-Americana** (1898), tomaram da Espanha as **Filipinas**, **Porto Rico** e **Guam** e estabeleceram protetorado sobre **Cuba** — entrando de vez no clube imperialista (@sec-eua-seculo-xix).
+
+::: {#fig-linha-do-tempo-imperialismo}
+
+```{.tikz}
+%%| filename: fig-linha-do-tempo-imperialismo
+%%| alt: Linha do tempo do imperialismo entre 1839 e 1914, com guerras do ópio, Conferência de Berlim, Adwa e a guerra russo-japonesa.
+\begin{tikzpicture}[>=stealth]
+  \draw[eixo] (0,0) -- (14.2,0);
+  \node[eixo, gray] at (14.2,-0.6) {\scriptsize tempo};
+
+  \fill[manualyellow!28] (2.6,-0.13) rectangle (13.4,0.13);
+  \node[text=manualyellow!60!black] at (8.0,-0.95) {\scriptsize \textbf{corrida imperialista} (1870--1914)};
+
+  \node[ponto] at (0.5,0) {};
+  \node[below] at (0.5,-0.25) {\scriptsize 1839--42};
+  \node[above, align=center, text=manualred] at (0.9,0.2) {\scriptsize \textbf{I Guerra do Ópio}\\\scriptsize (Hong Kong)};
+
+  \node[ponto] at (2.3,0) {};
+  \node[below] at (2.3,-0.25) {\scriptsize 1857--58};
+  \node[above, align=center, text=manualblue] at (2.4,1.1) {\scriptsize \textbf{Sipaios} $\rightarrow$\\\scriptsize \textbf{Raj britânico}};
+
+  \node[ponto] at (4.0,0) {};
+  \node[below] at (4.0,-0.25) {\scriptsize 1868};
+  \node[above, align=center, text=manualgreen] at (4.1,0.2) {\scriptsize \textbf{Era Meiji}\\\scriptsize (Japão)};
+
+  \node[ponto] at (5.3,0) {};
+  \node[below] at (5.3,-0.25) {\scriptsize 1869};
+  \node[above, align=center] at (5.4,1.1) {\scriptsize Canal de \textbf{Suez}};
+
+  \node[ponto] at (7.1,0) {};
+  \node[below] at (7.1,-0.25) {\scriptsize 1884--85};
+  \node[above, align=center, text=manualred] at (7.2,0.2) {\scriptsize \textbf{CONFERÊNCIA}\\\scriptsize \textbf{DE BERLIM}};
+
+  \node[ponto] at (9.0,0) {};
+  \node[below] at (9.0,-0.25) {\scriptsize 1896};
+  \node[above, align=center, text=manualgreen] at (9.1,1.1) {\scriptsize \textbf{Adwa}: Etiópia\\\scriptsize vence a Itália};
+
+  \node[ponto] at (10.4,0) {};
+  \node[below] at (10.4,-0.25) {\scriptsize 1898};
+  \node[above, align=center] at (10.5,0.2) {\scriptsize \textbf{Fashoda}; EUA\\\scriptsize tomam as Filipinas};
+
+  \node[ponto] at (12.0,0) {};
+  \node[below] at (12.0,-0.25) {\scriptsize 1899--1902};
+  \node[above, align=center, text=manualred] at (12.1,1.1) {\scriptsize Guerra dos \textbf{Bôeres};\\\scriptsize \textbf{Boxers} (1900)};
+
+  \node[ponto] at (13.4,0) {};
+  \node[below] at (13.4,-0.25) {\scriptsize 1904--05};
+  \node[above, align=center, text=manualgreen] at (13.3,0.2) {\scriptsize \textbf{Japão} vence\\\scriptsize a \textbf{Rússia}};
+\end{tikzpicture}
+```
+
+Da Guerra do Ópio à vitória japonesa sobre a Rússia: em duas gerações, o mundo inteiro é reorganizado em torno de meia dúzia de potências industriais.
+:::
+
+## Consequências {#sec-consequencias-imperialismo}
+
+**Para os colonizados.** Fronteiras arbitrárias que reuniram povos rivais e dividiram povos afins, gerando conflitos até hoje; economias remodeladas para a **monocultura de exportação**, tornando-as dependentes de um ou dois produtos e vulneráveis a oscilações de preço; destruição de artesanatos e indústrias locais; trabalho forçado e impostos que obrigavam camponeses a trabalhar para pagar em moeda; perda de terras para colonos; imposição de línguas, religiões e sistemas jurídicos; deslocamentos e diásporas. Houve também ferrovias, portos, hospitais, escolas e vacinação — mas concebidos, em regra, para servir à extração e à administração coloniais, não à população local. E houve, sobretudo, um efeito não previsto: a formação de **elites letradas** nas línguas dos colonizadores, que se apropriaram do vocabulário europeu de liberdade e autodeterminação para exigir a independência (@sec-descolonizacao-africa-asia).
+
+**Para a Europa.** Matérias-primas baratas, mercados, aplicação lucrativa de capitais — e um acirramento perigoso das rivalidades. As crises marroquinas (1905 e 1911), o incidente de Fashoda, a corrida naval anglo-alemã e a frustração de Alemanha e Itália, que chegaram tarde à partilha, alimentaram diretamente o sistema de alianças cuja falência produziria a **Primeira Guerra Mundial** (@sec-primeira-guerra-mundial).
+
+::: {.callout-tip title="Conexão Brasil: imperialismo sem colônia e racismo científico"}
+A América Latina não foi recolonizada — mas foi integrada como **periferia** desse sistema, no que se costuma chamar de **imperialismo informal**. O Brasil do Segundo Reinado e da Primeira República exportava café, açúcar, borracha e cacau e importava manufaturas, capital e serviços britânicos: ferrovias, iluminação a gás, bondes, seguros, bancos e empréstimos sucessivos (os *funding loans*), que produziam endividamento externo crônico. Não havia governador inglês no Rio — havia dependência financeira e comercial, o que para muitos autores é uma forma de domínio tão eficaz quanto a administração direta e bem mais barata.
+
+Mais direta ainda foi a importação das **ideias**. O **racismo científico** e o **darwinismo social** chegaram ao Brasil no fim do século XIX e foram adotados por parte relevante da elite intelectual — Sílvio Romero, Nina Rodrigues, Oliveira Vianna —, que via na população mestiça a explicação do "atraso" nacional. Daí nasceu a **teoria do branqueamento**: a aposta de que a **imigração europeia** subsidiada iria, ao longo de gerações, "clarear" a população. Essa doutrina orientou políticas públicas concretas de imigração e exclusão da população negra recém-liberta do mercado de trabalho formal, e sua crítica é indispensável para entender o Brasil republicano (@sec-escravidao-abolicao-imigracao e @sec-republica-velha). Note a ironia amarga: o mesmo aparato "científico" que justificava a partilha da África justificava, aqui, a marginalização dos descendentes dos africanos escravizados.
+:::
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+Poucos temas têm interpretações tão frontalmente opostas — e tão politicamente carregadas.
+
+**A explicação econômica clássica: Hobson e Lênin.** O economista liberal inglês **John A. Hobson**, em *Imperialismo: um estudo* (1902), escrito sob o impacto da Guerra dos Bôeres, propôs a tese do **subconsumo**: como a desigualdade interna comprime o poder de compra dos trabalhadores, sobra capital sem aplicação lucrativa nas metrópoles, e esse excedente busca colônias. Note a conclusão de Hobson: o imperialismo não beneficiava a nação, mas apenas um punhado de financistas e fornecedores militares — e poderia ser **evitado** por **reformas** que redistribuíssem renda internamente [@hobson1983].
+
+**Lênin** retomou Hobson em *Imperialismo, fase superior do capitalismo* (1917) e inverteu a conclusão. Para ele, o imperialismo não é uma política escolhida, mas um **estágio necessário** do capitalismo, definido por cinco traços: (i) concentração da produção em **monopólios**; (ii) fusão do capital bancário com o industrial, formando o **capital financeiro**; (iii) predomínio da **exportação de capitais** sobre a de mercadorias; (iv) partilha do mundo entre **associações monopolistas internacionais**; (v) partilha territorial do mundo entre as potências. Como o planeta é finito, uma vez repartido só resta a **repartilha** — isto é, a guerra —, o que fazia da Primeira Guerra Mundial uma consequência estrutural, e não um acidente diplomático. Se o imperialismo é fase do capitalismo, não há reforma que o corrija: só a revolução [@lenin2011].
+
+**As críticas.** A tese econômica enfrentou objeções empíricas sérias. A maior parte do capital britânico e francês não foi para as novas colônias africanas, mas para os **Estados Unidos**, a **Argentina**, a Rússia e outras áreas independentes; várias colônias custaram mais do que renderam; e territórios foram tomados por razões estratégicas, sem valor econômico algum. **Joseph Schumpeter** propôs uma explicação quase oposta: o imperialismo seria um **atavismo**, resíduo de mentalidades guerreiras aristocráticas e militares, contrário à racionalidade do capitalismo comercial. **John Gallagher** e **Ronald Robinson**, em textos que renovaram o debate a partir dos anos 1950, argumentaram que a Inglaterra praticara desde muito antes um "**imperialismo do livre-comércio**", exercendo domínio informal onde bastasse e recorrendo à anexação formal apenas quando o controle informal falhava — e sustentaram que muitas conquistas foram **reações a crises na periferia** (uma revolta no Egito, um vácuo de poder num sultanato), não planos concebidos em Londres. Nessa leitura, o imperialismo é também produto de "colaboradores" locais e de dinâmicas periféricas, e não só de decisões metropolitanas.
+
+**A virada cultural: Said.** Em *Orientalismo* (1978), **Edward Said** deslocou a pergunta do "por quê" econômico para o **como se produz o outro**. Ele mostra que a Europa construiu, em romances, relatos de viagem, pinturas, gramáticas e trabalhos acadêmicos, uma imagem do "Oriente" como estático, sensual, despótico, irracional e feminino — imagem que dizia mais sobre a Europa (que se definia por oposição: dinâmica, racional, viril) do que sobre os povos descritos. Esse saber não era inocente: **conhecer era dominar**, e os departamentos universitários de estudos orientais forneceram intérpretes, mapas e categorias administrativas ao poder colonial [@said2007]. O argumento de Said abriu os **estudos pós-coloniais** e foi criticado por generalizar excessivamente e por deixar pouco espaço à voz dos próprios colonizados — crítica que a corrente dos *subaltern studies*, na Índia, procurou responder.
+
+**A historiografia africana.** Talvez a mudança mais importante das últimas décadas tenha sido a recusa da África como objeto passivo. Historiadores como **Joseph Ki-Zerbo** e o coletivo da *História Geral da África* da Unesco reconstruíram Estados, economias, sistemas de pensamento e formas de resistência africanas anteriores e contemporâneos à conquista, mostrando que o século XIX africano tem uma história **própria** — com suas dinâmicas, guerras, reformas e projetos — que a narrativa da partilha costuma apagar [@kiZerbo2009; @unesco2010]. Nessa perspectiva, a colonização é um episódio relativamente breve (cerca de 70 anos na maior parte do continente) dentro de uma história muito mais longa.
+
+**Por que divergem?** Porque respondem a perguntas diferentes — *por que a Europa se expandiu?* (Hobson, Lênin, Schumpeter), *como a expansão se deu, caso a caso?* (Robinson e Gallagher), *que representações a tornaram pensável?* (Said), *o que aconteceu do outro lado?* (Ki-Zerbo, Unesco) — e porque cada uma escolhe fontes distintas: fluxos de capital, arquivos diplomáticos, romances e manuais acadêmicos, tradições orais e arqueologia. A maturidade aqui consiste em não escolher uma e descartar as demais, mas em perceber que o imperialismo foi, ao mesmo tempo, um negócio, uma disputa geopolítica, uma cultura e — para quem o sofreu — uma catástrofe e um desafio a que se respondeu de muitas maneiras.
+
+## Resumo do capítulo {#sec-resumo}
+
+- **Imperialismo/neocolonialismo (1870–1914):** nova onda expansiva voltada à **África**, à **Ásia** e à Oceania, movida pelas necessidades da indústria e do capital, com **ocupação efetiva** do interior — distinta do **Antigo Sistema Colonial**, mercantilista, americano e litorâneo.
+- **Causas econômicas:** matérias-primas industriais (borracha, cobre, algodão, petróleo, estanho), **mercados** protegidos após a depressão de 1873–96 e **exportação de capitais**.
+- **Causas políticas:** prestígio nacional, bases navais e rotas (**Suez**, 1869; comprado pela Inglaterra em 1875), lógica de rivalidade preventiva.
+- **Causas técnicas:** navio a vapor, telégrafo, ferrovia, **quinino** e armas de repetição (**metralhadora Maxim**, 1884) — em **Omdurman** (1898), cerca de 10 mil sudaneses e menos de 50 britânicos mortos.
+- **Causas ideológicas:** **racismo científico**, **darwinismo social** (Spencer), "missão civilizadora" e o "**fardo do homem branco**" (Kipling, 1899). São doutrinas falsas que **justificaram** interesses, e não causas isoladas.
+- **Conferência de Berlim (1884–85):** presidida por **Bismarck**, com 14 países e **nenhum africano**; estabeleceu a **ocupação efetiva**, a livre navegação no Congo e no Níger e entregou o **Estado Livre do Congo** a **Leopoldo II** como propriedade pessoal.
+- **Partilha:** eixo britânico "**do Cabo ao Cairo**" × eixo francês oeste-leste, chocando-se em **Fashoda** (1898); Ultimato Britânico a Portugal (1890); **Guerra dos Bôeres** (1899–1902), com campos de concentração. Em 1914, só **Etiópia** e **Libéria** permaneciam independentes.
+- **Congo:** trabalho forçado na coleta de **borracha**, reféns e mutilações; denúncias de **Roger Casement** e E. D. Morel levaram à transferência ao Estado belga em **1908**. As estimativas de mortos chegam à ordem de milhões, mas a base documental é frágil — bom exercício de crítica das fontes.
+- **Resistências:** Ashanti; **Isandlwana** (zulus, 1879); **Samori Touré**; mahdistas no Sudão; **Adwa** (1896), vitória de **Menelik II** da Etiópia sobre a Itália; **Maji Maji** (1905–07); genocídio dos **hererós e namas** (1904–07), tido por muitos como o primeiro do século XX; e formas cotidianas de resistência.
+- **Índia:** Companhia das Índias Orientais → **Revolta dos Sipaios** (1857) → **Raj britânico** (1858) → Vitória Imperatriz (1877). Ferrovias e universidades convivem com a ruína do artesanato têxtil e **fomes** que mataram milhões enquanto a Índia exportava grãos. **Congresso Nacional Indiano** em 1885.
+- **China:** **Guerras do Ópio** (1839–42, 1856–60) → **tratados desiguais**, Hong Kong, extraterritorialidade, esferas de influência; **Taiping** (1850–64), **Boxers** (1900) e a queda dos Qing em **1911**.
+- **Japão:** **Era Meiji** (1868) — modernização dirigida pelo Estado; vitórias sobre a **China** (1894–95) e sobre a **Rússia** (1904–05); anexação da Coreia (1910). De presa a potência imperialista.
+- **Consequências:** fronteiras arbitrárias, monoculturas de exportação, trabalho forçado, desestruturação social — e, involuntariamente, a formação das elites que liderariam a **descolonização**. Na Europa, acirramento das rivalidades que desembocam em **1914**.
+- **Brasil:** **imperialismo informal** — dependência comercial e financeira em relação à Inglaterra, sem colonização formal — e importação do **racismo científico**, que produziu a **teoria do branqueamento** e políticas de imigração europeia subsidiada.
+- **Historiografia:** subconsumo e crítica reformista (**Hobson**) × fase superior e necessária do capitalismo (**Lênin**) × atavismo aristocrático (**Schumpeter**) × "imperialismo do livre-comércio" e crises periféricas (**Robinson e Gallagher**) × construção cultural do "Oriente" (**Said**) × protagonismo africano (**Ki-Zerbo**, Unesco).
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Domine: (1) a comparação **Antigo Sistema Colonial × neocolonialismo**; (2) as **quatro famílias de causas**; (3) a **Conferência de Berlim** e o princípio da **ocupação efetiva**; (4) exemplos concretos de **resistência**, com **Adwa** em destaque; (5) as trajetórias contrastantes de **China** e **Japão**; (6) o **racismo científico** e sua versão brasileira; (7) as teses de **Hobson**, **Lênin** e **Said**.
+:::
+
+**1.** Aponte **quatro diferenças** entre o Antigo Sistema Colonial e o neocolonialismo do século XIX.
+
+::: {.callout-tip collapse="true" title="Solução"}
+1. **Área geográfica:** o antigo concentrou-se na **América**; o novo, na **África**, na **Ásia** e na Oceania.
+2. **Interesse econômico:** metais preciosos, gêneros tropicais e tráfico de escravizados no antigo; **matérias-primas industriais**, **mercados consumidores** e **aplicação de capitais** no novo.
+3. **Lógica econômica de fundo:** **mercantilismo**, monopólio metropolitano e pacto colonial no antigo; **capitalismo industrial e financeiro** no novo, com exportação de capitais e busca de lucro em investimentos (ferrovias, minas, plantações).
+4. **Forma de ocupação:** feitorias litorâneas e colônias de povoamento no antigo; **ocupação efetiva** do interior, com administração direta, exército e burocracia coloniais, no novo — princípio consagrado justamente na **Conferência de Berlim**.
+5. **Ideologia:** evangelização e direito de conquista no antigo; **racismo científico**, **darwinismo social** e "missão civilizadora" no novo.
+:::
+
+**2.** Explique as causas **tecnológicas** do imperialismo. Por que só no fim do século XIX a Europa conquistou o interior da África?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque antes disso ela **não conseguia**. Três barreiras caíram quase ao mesmo tempo:
+
+- **Doença.** A África tropical era chamada "túmulo do homem branco": a **malária** matava a maior parte dos europeus que se aventuravam no interior. O uso sistemático do **quinino** como profilático, a partir de meados do século, reduziu drasticamente essa mortalidade e tornou a penetração viável.
+- **Mobilidade e comunicação.** O **navio a vapor** com casco de aço subia rios contra a corrente e não dependia dos ventos; a **ferrovia** transportava tropas e escoava minérios do interior; o **telégrafo** permitia coordenar operações a partir da metrópole em horas, e não em meses.
+- **Superioridade militar.** Armas de repetição e, sobretudo, a **metralhadora Maxim** (1884) criaram um desnível de poder sem precedentes. Em **Omdurman** (1898), no Sudão, morreram cerca de 10 mil combatentes locais contra menos de 50 britânicos.
+
+**Cuidado com o determinismo tecnológico:** a técnica explica por que a conquista se tornou **possível** e barata, não por que foi **desejada**. Sem a demanda industrial por matérias-primas e mercados, sem a rivalidade entre potências e sem a ideologia que a legitimava, o quinino e a Maxim não teriam produzido a partilha.
+:::
+
+**3.** O que foi a **Conferência de Berlim** e qual a importância do princípio da **ocupação efetiva**?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Foi a reunião realizada em **Berlim entre novembro de 1884 e fevereiro de 1885**, convocada e presidida por **Bismarck**, com **catorze delegações** europeias mais os Estados Unidos e o Império Otomano — e **nenhum representante africano**. Seu objetivo era estabelecer regras para a partilha da África de modo a evitar guerra entre as potências. Decidiu: a **liberdade de navegação** nos rios Congo e Níger; o reconhecimento do **Estado Livre do Congo** como domínio pessoal de **Leopoldo II**; compromissos retóricos contra o tráfico de escravizados; e o **princípio da ocupação efetiva**.
+
+**Importância da ocupação efetiva:** até então, uma potência podia alegar direitos sobre um território com base em descoberta, exploração ou tratados antigos — foi o que Portugal tentou com o "mapa cor-de-rosa". A partir de Berlim, o reconhecimento internacional passou a exigir **presença administrativa e militar real**, além de notificação às demais potências. O efeito foi imediato e brutal: transformou a corrida diplomática em **corrida armada**, obrigando cada país a enviar expedições, assinar tratados com chefes locais (frequentemente em línguas que estes não liam), instalar postos e submeter populações **antes** que o rival o fizesse. É essa cláusula que explica a velocidade espantosa da conquista entre 1885 e 1900.
+:::
+
+**4.** Cite e explique **três** formas de resistência africana à ocupação europeia.
+
+::: {.callout-tip collapse="true" title="Solução"}
+1. **Vitória militar decisiva — Etiópia, Adwa (1896).** O imperador **Menelik II** modernizou seu exército comprando armas europeias e explorando as rivalidades entre França, Rússia e Itália. Em 1º de março de 1896, em **Adwa**, destruiu o exército italiano. Foi a única derrota decisiva de uma potência europeia por um Estado africano no período; garantiu a independência etíope e transformou o país em símbolo do **pan-africanismo**.
+2. **Guerra prolongada de resistência — Samori Touré (África Ocidental).** Construtor de um império no alto Níger, Samori enfrentou os franceses por cerca de dezesseis anos (até 1898), combinando guerrilha, retiradas estratégicas, produção local de armas e negociação diplomática. Outros exemplos: os **zulus**, que aniquilaram uma coluna britânica em **Isandlwana** (1879); o Império **Ashanti**; e o movimento **mahdista**, que governou o Sudão por treze anos após tomar Cartum (1885).
+3. **Revoltas contra o regime colonial já instalado — Maji Maji (1905–1907).** Na África Oriental Alemã, diversos povos se uniram contra o trabalho forçado no cultivo do algodão, mobilizados por uma crença religiosa comum (a água — *maji* — que protegeria os combatentes). A repressão alemã usou a **terra arrasada** e provocou fome, com centenas de milhares de mortos. Também se enquadra aqui a guerra dos **hererós e namas** (1904–07), reprimida com ordem explícita de extermínio e considerada por muitos historiadores o **primeiro genocídio do século XX**.
+
+Some-se a **resistência cotidiana**: fugas, sabotagem, recusa a plantar produtos de exportação, greves, igrejas independentes e a preservação de línguas e tradições. Reconhecer essas formas é essencial para desfazer a imagem — falsa e ainda comum — de uma África entregue passivamente.
+:::
+
+**5.** Compare as respostas da **China** e do **Japão** à pressão ocidental no século XIX.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**China.** O Império Qing resistiu à abertura e foi derrotado militarmente nas **Guerras do Ópio** (1839–42 e 1856–60), travadas porque a Inglaterra vendia **ópio** indiano para equilibrar seu déficit comercial e Pequim tentou proibir o tráfico. Seguiram-se os **tratados desiguais**: portos abertos à força, cessão de **Hong Kong**, indenizações pesadas, tarifas aduaneiras fixadas por estrangeiros e **extraterritorialidade**. O país foi dividido em **esferas de influência** sem perder formalmente a soberania — daí o termo **semicolônia**. Internamente, o Estado foi corroído pela **Revolta Taiping** (1850–64, com dezenas de milhões de mortos); as tentativas de modernização foram tardias e sabotadas pela corte; a **Revolta dos Boxers** (1900) foi esmagada por oito potências, e a dinastia caiu em **1911**.
+
+**Japão.** Também foi forçado a se abrir, pelos navios do comodoro **Perry** (1853), mas a reação foi oposta. A **Restauração Meiji** (**1868**) derrubou o xogunato e promoveu uma **modernização dirigida pelo Estado**: indústria pesada estatal depois transferida a grupos privados (os *zaibatsu*), ferrovias, telégrafo, exército de conscrição em moldes prussianos, marinha à inglesa, **educação universal obrigatória**, código civil, constituição (1889) e fim dos privilégios samurais. O lema era assimilar a técnica ocidental preservando a identidade japonesa.
+
+**Resultado do contraste:** em uma geração o Japão passou de presa a **predador**, vencendo a **China** (1894–95, anexando Taiwan), derrotando a **Rússia** (1904–05) — primeira vitória de uma potência asiática sobre uma europeia na era industrial, com enorme impacto sobre nacionalistas de todo o mundo colonizado — e anexando a **Coreia** (1910).
+
+**Cuidado interpretativo:** não se deve concluir que a China "errou" por incompetência e o Japão "acertou" por sabedoria. Pesaram diferenças estruturais enormes: escala territorial e populacional, grau de coesão da elite, existência de uma ameaça externa percebida como imediata, papel do imperador como símbolo unificador e o fato de que a China já estava, desde 1842, sob um regime de tratados que limitava sua autonomia — inclusive a tarifária, essencial para proteger uma indústria nascente.
+:::
+
+**6.** Explique o que foram o **racismo científico** e o **darwinismo social** e como essas ideias chegaram ao **Brasil**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+O **racismo científico** foi o conjunto de teorias, hoje inteiramente desacreditadas, que pretendiam demonstrar por métodos "científicos" — craniometria, antropometria, classificações raciais — a existência de raças humanas hierarquizadas, com capacidades intelectuais e morais inatas. O **darwinismo social** foi a transposição indevida da seleção natural para as sociedades, sobretudo por **Herbert Spencer**, com sua fórmula "sobrevivência do mais apto": povos e nações estariam em competição, e o domínio dos mais "aptos" seria natural e até benéfico. Darwin não formulou essa doutrina, e ela não decorre logicamente de sua teoria — trata-se de uma apropriação ideológica.
+
+Sua função histórica foi **legitimar**: transformar a conquista em dever ("missão civilizadora", o "**fardo do homem branco**" de Kipling) e a exploração em lei da natureza, tornando o imperialismo aceitável para a opinião pública das metrópoles.
+
+**No Brasil**, essas ideias foram adotadas por parte importante da intelectualidade do fim do século XIX e início do XX — **Sílvio Romero**, **Nina Rodrigues**, mais tarde Oliveira Vianna —, que localizava na composição racial da população a causa do suposto atraso nacional. Como o país era majoritariamente mestiço e a escravidão fora abolida apenas em **1888**, a saída formulada foi a **teoria do branqueamento**: subsidiar a **imigração europeia** para que, ao longo de gerações, a população se "clareasse". Diferentemente do modelo de segregação legal adotado nos Estados Unidos, aqui a exclusão operou por outros meios — mercado de trabalho, acesso à terra, políticas de imigração, repressão a manifestações culturais afro-brasileiras — e foi acompanhada, mais tarde, pela ideologia da **democracia racial**, que negava a existência do próprio racismo. O tema é retomado no @sec-escravidao-abolicao-imigracao e no @sec-republica-velha.
+:::
+
+**7.** (Estilo ENEM) Leia o texto.
+
+> "O imperialismo é o capitalismo na etapa de desenvolvimento em que ganhou corpo a dominação dos monopólios e do capital financeiro, adquiriu marcada importância a exportação de capitais, começou a partilha do mundo pelos trustes internacionais e terminou a partilha de toda a Terra entre os países capitalistas mais importantes."
+>
+> — V. I. Lênin, *Imperialismo, fase superior do capitalismo*, 1917 — @lenin2011
+
+De acordo com a interpretação apresentada no texto, a expansão colonial do fim do século XIX
+
+**(a)** decorreu principalmente do desejo europeu de difundir valores civilizatórios e religiosos.
+**(b)** resultou de escolhas políticas isoladas, corrigíveis por reformas nas metrópoles.
+**(c)** constituiu etapa necessária do desenvolvimento capitalista, marcada por monopólios e exportação de capitais.
+**(d)** foi consequência do atavismo de elites aristocráticas contrárias à racionalidade do mercado.
+**(e)** representou a superação das rivalidades entre as potências industriais europeias.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (c).** O texto define o imperialismo como uma **etapa** ("fase de desenvolvimento") do próprio capitalismo, caracterizada por **monopólios**, **capital financeiro**, **exportação de capitais** e partilha do mundo — exatamente o enunciado da alternativa. Para Lênin, não se trata de política escolhida por governos, mas de necessidade estrutural do sistema.
+
+As demais: **(a)** corresponde ao discurso da "missão civilizadora", que Lênin considerava mera ideologia justificadora; **(b)** é a tese de **Hobson**, que atribuía o imperialismo ao subconsumo e o julgava evitável por **reformas** redistributivas — foi precisamente essa conclusão reformista que Lênin rejeitou ao retomar sua análise; **(d)** é a tese de **Schumpeter**, o atavismo aristocrático, oposta à de Lênin; **(e)** inverte o argumento — o texto fala em partilha **entre** potências, e a conclusão de Lênin é que, esgotado o território disponível, resta a **repartilha**, isto é, a guerra, o que explicaria o conflito de 1914.
+:::
+
+**8.** (Estilo vestibular — dissertativa) "Conhecer é dominar." Explique a tese de **Edward Said** em *Orientalismo* e mostre como ela complementa as explicações econômicas do imperialismo.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**A tese.** Em *Orientalismo* (1978), **Edward Said** analisa o vasto conjunto de textos europeus sobre o "Oriente" — relatos de viajantes, romances, pinturas, gramáticas, traduções, tratados acadêmicos, relatórios administrativos — e mostra que eles não descrevem sociedades reais: **constroem** um objeto imaginário, o "Oriente", definido por um conjunto fixo de atributos (estático, sensual, despótico, irracional, feminino, incapaz de se autogovernar). Esse retrato funciona como espelho invertido: ao descrever o outro assim, a Europa se define implicitamente como dinâmica, racional, viril e apta a governar [@said2007].
+
+**Por que é poder, e não apenas preconceito.** Said mobiliza a ideia de que saber e poder se produzem mutuamente. O orientalismo era um **saber institucionalizado** — cátedras universitárias, sociedades asiáticas, museus, dicionários, censos — que fornecia ao Estado colonial intérpretes, mapas, classificações étnicas e religiosas e categorias administrativas. Ao mesmo tempo, oferecia a justificativa moral da tutela: se aqueles povos são por natureza incapazes de se governar, governá-los é dever, não roubo. E, por fim, o próprio domínio dava aos europeus o **acesso privilegiado às fontes** que confirmavam suas descrições, num circuito fechado em que o colonizado raramente tinha voz.
+
+**Como complementa a explicação econômica.** As análises de Hobson e Lênin explicam **por que havia interesse** na expansão — excedente de capital, matérias-primas, mercados —, mas não explicam **por que ela foi aceitável**, inclusive para eleitores, missionários, jornalistas e parte da esquerda europeia, nem por que assumiu formas administrativas e culturais específicas. Said fornece essa camada: mostra o trabalho simbólico que tornou a dominação pensável, respeitável e até generosa aos olhos de quem a praticava. As duas explicações operam em níveis distintos e compatíveis — **interesse** e **legitimação** —, e a articulação entre elas é mais forte do que qualquer uma isolada.
+
+**Críticas.** Said foi acusado de tratar o discurso ocidental como bloco homogêneo, ignorando divergências internas e orientalistas críticos do colonialismo; de conceder pouca **agência** aos colonizados, que aparecem sobretudo como objeto de representação; e de generalizar a partir de um recorte franco-britânico sobre o mundo árabe-islâmico. Essas objeções foram em boa parte incorporadas pelos estudos pós-coloniais posteriores — como os *subaltern studies* indianos e a historiografia africana de **Ki-Zerbo** e da Unesco [@kiZerbo2009] —, que buscam recuperar as vozes, os projetos e as estratégias dos próprios dominados.
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- HOBSBAWM, Eric. *A era dos impérios: 1875–1914* [@hobsbawmImperios2015]. A síntese de referência para o período inteiro.
+- HOCHSCHILD, Adam. *O fantasma do rei Leopoldo* [@hochschild1999]. Narrativa poderosa sobre o Congo e sobre a primeira grande campanha internacional de direitos humanos.
+- SAID, Edward. *Orientalismo* [@said2007]. Difícil e fundamental; comece pela introdução.
+- KI-ZERBO, Joseph. *História da África Negra* [@kiZerbo2009] e a coleção *História Geral da África* da Unesco [@unesco2010], disponível gratuitamente na internet em português.
+
+**Fontes primárias**
+
+- **Ata Geral da Conferência de Berlim** (1885). Leia o artigo sobre a **ocupação efetiva** e os artigos "humanitários" — o contraste entre eles e a prática é o exercício.
+- KIPLING, Rudyard. *O fardo do homem branco* (1899) [@kipling1899]. Um poema curto que condensa toda a ideologia do período.
+- HOBSON, J. A. *Imperialismo: um estudo* (1902) [@hobson1983] e LÊNIN, V. I. *Imperialismo, fase superior do capitalismo* (1917) [@lenin2011]. Leia os dois: o segundo é uma releitura polêmica do primeiro.
+- **Relatório Casement** sobre o Congo (1904).
+
+**Filmes e literatura**
+
+- *O coração das trevas* (1899), de Joseph Conrad, e sua adaptação livre *Apocalypse Now* (1979). Leia o romance junto com a crítica do escritor nigeriano **Chinua Achebe**, que o acusou de reduzir os africanos a cenário — um ótimo debate sobre os limites da crítica ao colonialismo feita de dentro dele.
+- *O jardineiro fiel* (2005) e *Adwa* (1999), documentário etíope sobre a batalha de 1896.
+- ACHEBE, Chinua. *O mundo se despedaça* (1958). A chegada dos missionários e da administração britânica vista de dentro de uma comunidade igbo — o contraponto necessário a Conrad.

@@ -100,7 +100,7 @@ Duas lições ficaram para a geração seguinte: os movimentos **isolados** eram
 
   \node[ponto] at (2.6,0) {};
   \node[below] at (2.6,-0.25) {\scriptsize 1820};
-  \node[above, align=center, text=manualblue] at (2.7,1.1) {\scriptsize 1\textsuperscript{a} onda: Espanha,\\\scriptsize Nápoles, \textbf{Porto}};
+  \node[above, align=center, text=manualblue] at (2.7,1.1) {\scriptsize \textbf{1a onda}: Espanha,\\\scriptsize Nápoles, \textbf{Porto}};
 
   \node[ponto] at (4.5,0) {};
   \node[below] at (4.5,-0.25) {\scriptsize 1822};
@@ -108,7 +108,7 @@ Duas lições ficaram para a geração seguinte: os movimentos **isolados** eram
 
   \node[ponto] at (5.9,0) {};
   \node[below] at (5.9,-0.25) {\scriptsize 1830};
-  \node[above, align=center, text=manualblue] at (6.1,1.1) {\scriptsize 2\textsuperscript{a} onda: Paris,\\\scriptsize \textbf{Bélgica}, Polônia};
+  \node[above, align=center, text=manualblue] at (6.1,1.1) {\scriptsize \textbf{2a onda}: Paris,\\\scriptsize \textbf{Bélgica}, Polônia};
 
   \node[ponto] at (7.6,0) {};
   \node[below] at (7.6,-0.25) {\scriptsize 1832};
