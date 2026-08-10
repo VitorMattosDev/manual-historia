@@ -1,5 +1,280 @@
 # Segunda Revolução Industrial e o movimento operário {#sec-segunda-revolucao-industrial-socialismo}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Em **1889**, Paris celebrou o centenário da Revolução Francesa com uma **Exposição Universal**. O símbolo escolhido foi uma torre de **ferro** de 300 metros, a mais alta construção do mundo, erguida em pouco mais de dois anos por Gustave Eiffel — um manifesto de metal a favor da técnica. Ao lado dela, o **Palácio das Máquinas** exibia dínamos, motores e lâmpadas elétricas a multidões que jamais tinham visto uma noite iluminada sem fogo. Naquele mesmo mês de julho, a poucos quilômetros dali, cerca de quatrocentos delegados de vinte países reuniram-se num salão modesto para fundar a **Segunda Internacional** — e uma de suas primeiras decisões foi consagrar o **1º de maio** como dia de luta dos trabalhadores, em memória dos operários mortos e enforcados em **Chicago**, em 1886, por reivindicarem jornada de oito horas. Duas Paris, no mesmo ano, na mesma cidade: a do progresso técnico deslumbrante e a dos homens e mulheres que o produziam em turnos de doze horas. Este capítulo é sobre as duas — porque elas são a mesma história.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- caracterizar a **Segunda Revolução Industrial** (c. 1870–1914) e compará-la com a primeira;
+- explicar a **concentração do capital** (cartel, truste, holding), o **capital financeiro** e a nova geografia industrial;
+- descrever o **taylorismo** e o **fordismo** e seus efeitos sobre o trabalho;
+- distinguir as principais correntes do movimento operário — **sindicalismo**, **anarquismo**, **marxismo**, **social-democracia reformista** — e situar as **Internacionais**;
+- identificar as conquistas obtidas pelos trabalhadores até 1914 e o significado da **Rerum Novarum**;
+- discutir o debate historiográfico sobre a formação da **classe operária** e sobre a invisibilidade histórica das **mulheres trabalhadoras**.
 :::
+
+## O que muda depois de 1870 {#sec-segunda-revolucao}
+
+Chama-se **Segunda Revolução Industrial** o conjunto de transformações técnicas, energéticas e organizacionais que, aproximadamente entre **1870 e 1914**, alterou de novo — e mais profundamente — a base produtiva do mundo capitalista. Ela não substitui a primeira (@sec-revolucao-industrial): soma-se a ela e muda sua escala.
+
+**Novas fontes de energia.** O carvão e o vapor continuaram fundamentais, mas surgiram dois concorrentes decisivos. A **eletricidade**, domesticada pelo dínamo, pela lâmpada incandescente de **Edison** (1879) e pela transmissão em corrente alternada de Tesla e Westinghouse, libertou as fábricas da proximidade das caldeiras, iluminou as cidades, permitiu o bonde elétrico e o metrô, e tornou possível o turno noturno em escala industrial. O **petróleo**, com o motor a explosão de Otto (1876) e o motor a diesel (1892), abriu caminho para o automóvel (Benz, 1886), o navio a óleo e, em 1903, o avião dos irmãos Wright — no mesmo período em que **Santos Dumont** fazia, em Paris, o voo do 14-Bis (1906), o primeiro homologado a decolar por meios próprios.
+
+**Novos materiais e a química.** O **aço** — mais leve e resistente que o ferro — tornou-se barato com o conversor **Bessemer** (1856) e o processo Siemens-Martin, viabilizando arranha-céus, pontes, trilhos e navios. Nasceram o alumínio, o cimento armado, a borracha vulcanizada. A **indústria química** produziu corantes sintéticos (que arruinaram plantações tradicionais de anil), **fertilizantes**, explosivos (a dinamite de Nobel, 1867), medicamentos (a aspirina, 1899) e, mais tarde, o processo Haber-Bosch de fixação do nitrogênio (1909), que multiplicaria a produção mundial de alimentos — e também de munição.
+
+**Ciência aplicada à produção.** Esta é talvez a mudança mais profunda. A Primeira Revolução Industrial fora obra sobretudo de **artesãos engenhosos** e mecânicos práticos. A Segunda é obra de **laboratórios**: empresas alemãs como Bayer, BASF e Siemens criaram departamentos de **pesquisa e desenvolvimento**, contrataram doutores em química e transformaram a inovação em rotina empresarial. Ciência, universidade e indústria passaram a formar um sistema — e essa é uma das razões da ascensão alemã.
+
+**Comunicação e transporte.** O **telégrafo** (com o cabo transatlântico permanente em 1866) reduziu a semanas de navegação a fração de horas; vieram o **telefone** (Bell, 1876) e o rádio (Marconi, 1901). O **Canal de Suez** (1869) e depois o do **Panamá** (1914) encurtaram o planeta; os navios a vapor com **casco de aço** e, sobretudo, os **navios frigoríficos** (a partir dos anos 1870) permitiram que carne argentina, trigo americano e frutas tropicais alimentassem a Europa — o que barateou os alimentos, arruinou a agricultura europeia tradicional e integrou o mundo num único mercado.
+
+**Uma nova geografia.** A Inglaterra, pioneira e por isso presa a instalações antigas, foi ultrapassada. Por volta de 1900, os **Estados Unidos** e a **Alemanha** lideravam a produção de aço, química e eletricidade; a **França** se especializava em automóveis e artigos de luxo; a **Rússia** industrializava-se aos saltos com capital estrangeiro; e o **Japão**, após a **Era Meiji** (1868), tornava-se a primeira potência industrial não ocidental — e por isso mesmo imperialista (@sec-imperialismo).
+
+| | **Primeira Revolução Industrial** (c. 1760–1850) | **Segunda Revolução Industrial** (c. 1870–1914) |
+|---|---|---|
+| **Energia** | carvão e vapor | **eletricidade** e **petróleo** (+ carvão) |
+| **Material** | ferro | **aço**, alumínio, cimento, plásticos iniciais |
+| **Setores** | têxtil, siderurgia, ferrovias | química, elétrica, automóvel, alimentos |
+| **Inovação** | inventores e artesãos práticos | **laboratórios** de P&D e ciência aplicada |
+| **Empresa** | familiar, pequena e média | **sociedade anônima**, cartéis, trustes |
+| **Trabalho** | disciplina fabril; ofício ainda relevante | **taylorismo** e **linha de montagem** |
+| **Liderança** | Inglaterra | **EUA e Alemanha**; Japão emergente |
+| **Alcance** | Europa Ocidental | mundial (mercado integrado, imperialismo) |
+
+: As duas revoluções industriais em comparação. Elas não se sucedem como capítulos fechados: convivem, e a segunda amplifica os efeitos da primeira. {#tbl-duas-revolucoes}
+
+## Concentração do capital e organização do trabalho {#sec-capitalismo-monopolista}
+
+O custo de uma siderúrgica moderna, de uma rede elétrica ou de um laboratório químico é incomparável ao de uma fiação de algodão de 1800. Essa escala exigiu formas novas de reunir dinheiro e de eliminar a incerteza da concorrência. Surge o que se convencionou chamar de **capitalismo monopolista** ou **financeiro**:
+
+- **Sociedade anônima:** capital dividido em ações negociadas em **bolsa**, o que permite reunir a poupança de milhares de investidores e separar a **propriedade** (acionistas) da **gestão** (administradores profissionais).
+- **Cartel:** acordo entre empresas **independentes** de um mesmo setor para fixar preços, dividir mercados ou limitar a produção. Comuns na Alemanha.
+- **Truste:** **fusão** de empresas de um setor sob controle único, eliminando a concorrência — modelo americano, cujo caso-símbolo é a **Standard Oil** de **John D. Rockefeller**, que chegou a controlar cerca de 90% do refino de petróleo dos EUA antes de ser desmembrada por decisão judicial em 1911.
+- **Holding:** empresa que controla outras por meio da posse majoritária de suas ações.
+- **Integração vertical:** controle de toda a cadeia, da matéria-prima à venda — a **Carnegie Steel** possuía minas de ferro, minas de carvão, ferrovias, portos e usinas.
+- **Capital financeiro:** a fusão do capital bancário com o industrial, analisada pelo austríaco Rudolf Hilferding em 1910 e retomada por **Lênin**. Bancos deixam de apenas emprestar e passam a **controlar** grupos industriais — o Deutsche Bank na Alemanha, a casa **J. P. Morgan** nos Estados Unidos.
+
+Ao mesmo tempo, o **trabalho** foi reorganizado. O engenheiro americano **Frederick W. Taylor** (1856–1915) publicou em 1911 os *Princípios de administração científica*, propondo o que ficou conhecido como **taylorismo**: cronometrar cada gesto do operário, decompor o trabalho em tarefas elementares, separar rigorosamente quem **planeja** (a gerência) de quem **executa** (o operário), padronizar o "melhor modo único" de fazer cada movimento e pagar por produtividade. O efeito foi ganho enorme de eficiência — e a **expropriação do saber do ofício**: o trabalhador qualificado, que dominava o conjunto do processo, é substituído pelo operário especializado num gesto repetitivo.
+
+**Henry Ford** levou a lógica adiante ao instalar, em 1913, a **linha de montagem móvel** em Highland Park: em vez de o operário ir até o produto, o produto passa diante do operário numa esteira, em ritmo determinado pela máquina. O tempo de montagem de um **Ford Modelo T** caiu de cerca de 12 horas para menos de 2, e o preço do carro despencou. Ford acrescentou uma peça essencial ao raciocínio, o **five-dollar day** (1914): pagar salários altos — o dobro da média — para reduzir a rotatividade insuportável causada pela monotonia da linha **e** transformar o operário em **consumidor** do que produzia. Nascia a **produção em massa para o consumo de massa**, que só se tornaria modelo dominante depois de 1945.
+
+::: {.callout-important title="Belle Époque: para quem?"}
+O período de 1871 a 1914 é frequentemente chamado de ***Belle Époque*** — a "bela época" de paz entre as grandes potências europeias, avanço técnico, bulevares iluminados, grandes lojas de departamentos, cafés, cabarés, cinema, automóveis, esportes e exposições universais. O rótulo é verdadeiro e enganoso ao mesmo tempo.
+
+Verdadeiro: houve, de fato, elevação dos salários reais e da expectativa de vida na Europa Ocidental, queda no preço dos alimentos, alfabetização em massa, saneamento urbano.
+
+Enganoso por três razões. **Primeira**, "bela" para as classes médias e altas das capitais europeias — não para a maioria operária, que vivia em cortiços, nem para os camponeses do sul e do leste da Europa, que emigravam aos milhões. **Segunda**, essa paz europeia foi contemporânea de **guerras coloniais brutais** na África e na Ásia; a expressão é eurocêntrica por construção (@sec-imperialismo). **Terceira**, o nome foi inventado **depois** da Primeira Guerra Mundial, por nostalgia do mundo destruído em 1914 — é um efeito de **memória**, não uma autodescrição da época (@sec-memoria-patrimonio). Use o termo, portanto, sempre entre aspas mentais.
+:::
+
+## A nova classe operária {#sec-classe-operaria}
+
+A industrialização multiplicou o número de trabalhadores assalariados e mudou seu perfil. Em 1900, a Alemanha tinha mais de 8 milhões de operários industriais; a Inglaterra havia se tornado o primeiro país da história com maioria da população vivendo em **cidades**. Grandes fábricas com milhares de trabalhadores substituíram as oficinas: a Krupp, em Essen, empregava cerca de 70 mil pessoas às vésperas da guerra. Essa concentração física é politicamente decisiva — mil pessoas sob o mesmo teto se organizam com muito mais facilidade do que mil pessoas espalhadas por cem oficinas.
+
+As condições melhoraram lentamente ao longo do período, mas partiam de um patamar duríssimo: jornadas de 12 a 14 horas no início do período; salários femininos equivalentes à metade ou a um terço dos masculinos para o mesmo trabalho; **trabalho infantil** disseminado; acidentes sem indenização; ausência de aposentadoria, seguro-desemprego ou licença-maternidade; moradia em cortiços insalubres. A **mulher trabalhadora** foi central e permaneceu invisível: predominava na indústria têxtil, na confecção, no trabalho a domicílio e no serviço doméstico, acumulava jornada dupla e era, com frequência, excluída dos próprios sindicatos, cujos estatutos às vezes defendiam abertamente o "salário-família" masculino e o retorno da mulher ao lar.
+
+## Doutrinas e organização: o movimento operário {#sec-movimento-operario}
+
+Diante disso, os trabalhadores construíram, ao longo do século, um repertório de ação que evoluiu da revolta espontânea à organização permanente.
+
+**As formas iniciais.** O **ludismo** (quebra de máquinas, Inglaterra, 1811–1817) foi a primeira reação — não uma irracionalidade, mas, como mostrou a historiografia recente, uma forma de pressão negociadora numa época sem sindicatos legais. O **cartismo** (1838–1848) transferiu a luta para o terreno político, reivindicando sufrágio universal masculino, voto secreto e remuneração dos parlamentares. E as **trade unions** — legalizadas na Inglaterra em 1824 — inauguraram a organização permanente por ofício, com fundos de auxílio mútuo, greves e negociação coletiva.
+
+**Anarquismo.** Corrente que recusa **toda** forma de autoridade coercitiva — Estado, Igreja, propriedade privada dos meios de produção — e defende uma sociedade organizada em associações livres e federadas. **Proudhon** ("a propriedade é um roubo") deu-lhe a formulação inicial; **Mikhail Bakunin** (1814–1876) e **Piotr Kropotkin** (1842–1921) a desenvolveram. O ponto de ruptura com os marxistas era o **Estado**: para Bakunin, tomar o poder estatal — mesmo em nome dos trabalhadores — apenas criaria uma nova classe dominante, previsão que a história do século XX tornaria difícil de ignorar. Do anarquismo derivaram o **anarcossindicalismo**, que via no sindicato e na **greve geral** os instrumentos da revolução (forte na França, na Espanha, na Itália, na Argentina e no **Brasil**), e a chamada "propaganda pelo ato", minoritária, responsável por atentados contra chefes de Estado no fim do século.
+
+**Socialismo científico (marxismo).** Marx e Engels apresentaram sua doutrina como **científica**, em oposição aos utópicos: a exploração não é injustiça moral acidental, mas mecanismo do modo de produção capitalista, analisado por Marx em *O capital* (1867) por meio do conceito de **mais-valia** — a parte do valor produzido pelo trabalhador que é apropriada pelo capitalista. A história avança pela **luta de classes**; o capitalismo produz sua própria coveira, a classe operária, que deverá tomar o poder e construir o socialismo. A organização é condição da vitória: daí os partidos operários.
+
+**As Internacionais.** A **Associação Internacional dos Trabalhadores** (AIT), ou **Primeira Internacional**, foi fundada em **Londres, em 1864**, reunindo sindicalistas ingleses, socialistas franceses, alemães e anarquistas. Rompeu-se em **1872** no conflito entre **Marx** e **Bakunin** — centralização partidária × federalismo antiautoritário — e se dissolveu em 1876, enfraquecida também pela repressão que se seguiu à Comuna de Paris (@sec-unificacoes-italia-alemanha). A **Segunda Internacional**, fundada em **Paris, em 1889**, foi obra sobretudo de partidos socialistas de massa já legalizados, com destaque para o **SPD** alemão; excluiu os anarquistas, instituiu o **1º de maio** e defendeu a jornada de **8 horas**. Sua fraqueza apareceria em **agosto de 1914**, quando quase todos os partidos socialistas votaram os créditos de guerra de seus próprios governos — o nacionalismo derrotou o internacionalismo proletário (@sec-primeira-guerra-mundial).
+
+**O debate revisionista.** No fim do século, com salários em alta, sindicatos legais e crescimento eleitoral socialista, o alemão **Eduard Bernstein** (1850–1932) propôs revisar Marx: o capitalismo não estava entrando em colapso, a classe média não desaparecia, e o socialismo poderia ser alcançado **gradualmente**, por reformas, sufrágio e legislação social — "o movimento é tudo, o objetivo final não é nada" [@bernstein1997]. Contra ele, **Rosa Luxemburgo** (1871–1919) respondeu em *Reforma ou revolução?* (1899) que reformas e revolução não são caminhos alternativos para o mesmo lugar: as reformas melhoram a condição do trabalhador **dentro** do capitalismo, mas não o abolem, e abandonar o objetivo revolucionário transformaria o partido em gestor da ordem existente [@luxemburgo1999]. Esse debate cindiria o socialismo em duas famílias — **social-democracia** reformista e **comunismo** revolucionário — divisão consumada após a Revolução Russa (@sec-revolucao-russa).
+
+**A resposta da Igreja.** Em **1891**, o papa **Leão XIII** publicou a encíclica ***Rerum Novarum*** ("das coisas novas"), primeiro documento da **Doutrina Social da Igreja**. Ela condena a exploração dos trabalhadores, defende o **salário justo**, o descanso semanal, a limitação da jornada, a proteção de mulheres e crianças e o **direito de associação** — e, simultaneamente, condena o **socialismo**, reafirmando a **propriedade privada** como direito natural e pregando a **harmonia entre as classes** em lugar da luta [@rerumNovarum1891]. Dela nasceram sindicatos católicos e, mais tarde, os partidos democratas-cristãos.
+
+::: {#fig-correntes-operarias}
+
+```{.tikz}
+%%| filename: fig-correntes-operarias
+%%| alt: Diagrama das correntes do movimento operário no século XIX e das duas Internacionais.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \node[draw, very thick, rounded corners, fill=manualgray!20, align=center, text width=3.4cm] (q) at (0,0) {\textbf{A ``questão social''}\\ industrialização,\\ proletariado urbano};
+
+  \node[draw, thick, rounded corners, fill=manualblue!14, align=center, text width=3.2cm] (sind) at (4.6,2.9) {\textbf{Sindicalismo}\\ \textit{trade unions}, greve,\\ negociação coletiva};
+  \node[draw, thick, rounded corners, fill=manualred!16, align=center, text width=3.2cm] (anar) at (4.6,1.0) {\textbf{Anarquismo}\\ Proudhon, \textbf{Bakunin},\\ Kropotkin · contra o Estado};
+  \node[draw, thick, rounded corners, fill=manualred!16, align=center, text width=3.2cm] (marx) at (4.6,-0.9) {\textbf{Marxismo}\\ luta de classes, mais-valia,\\ partido operário};
+  \node[draw, thick, rounded corners, fill=manualgreen!16, align=center, text width=3.2cm] (cat) at (4.6,-2.8) {\textbf{Doutrina Social}\\ \textbf{da Igreja}\\ \textit{Rerum Novarum} (1891)};
+
+  \node[draw, thick, rounded corners, fill=manualyellow!26, align=center, text width=3.3cm] (i1) at (9.6,0.6) {\textbf{I Internacional}\\ (Londres, \textbf{1864})\\ cisão Marx $\times$ Bakunin\\ (1872)};
+  \node[draw, thick, rounded corners, fill=manualyellow!26, align=center, text width=3.3cm] (i2) at (9.6,-2.2) {\textbf{II Internacional}\\ (Paris, \textbf{1889})\\ \textbf{1\textsuperscript{o} de maio}, 8 horas;\\ ruína em \textbf{1914}};
+
+  \node[draw, thick, rounded corners, fill=manualblue!12, align=center, text width=3.0cm] (rev) at (13.4,-0.8) {\textbf{Cisão final}\\ reformistas (Bernstein)\\ $\times$ revolucionários\\ (R.\ Luxemburgo)};
+
+  \draw[vetor, thick] (q.east) -- (sind.west);
+  \draw[vetor, thick] (q.east) -- (anar.west);
+  \draw[vetor, thick] (q.east) -- (marx.west);
+  \draw[vetor, thick] (q.east) -- (cat.west);
+  \draw[vetor, thick, manualgray] (anar.east) -- (i1.west);
+  \draw[vetor, thick, manualgray] (marx.east) -- (i1.west);
+  \draw[vetor, thick, manualgray] (sind.east) -- (i1.north west);
+  \draw[vetor, thick, manualgray] (i1.south) -- (i2.north);
+  \draw[vetor, thick, manualgray] (i2.east) -- (rev.south west);
+\end{tikzpicture}
+```
+
+As correntes do movimento operário e as duas Internacionais. Note que a Segunda Internacional exclui os anarquistas e termina cindida pelo debate entre reforma e revolução.
+:::
+
+**As conquistas até 1914.** Nada disso foi concedido: foi arrancado por greves, votos e organização. Ao início da Primeira Guerra, boa parte da Europa Ocidental já tinha **sindicatos legalizados**, **sufrágio universal masculino**, limitação da jornada (a de **8 horas** tornou-se lei geral sobretudo depois de 1918), proibição ou restrição do **trabalho infantil**, **seguros sociais** (pioneiros na Alemanha de Bismarck, entre 1883 e 1889), inspeção de fábricas e partidos operários com bancadas expressivas — o SPD alemão foi o partido mais votado nas eleições de **1912**. O mundo do trabalho de 1914 não era o de 1848, e a diferença foi conquistada.
+
+::: {.callout-tip title="Conexão Brasil: o operariado e o anarcossindicalismo"}
+O movimento operário chegou ao Brasil sobretudo com a **imigração** — italianos, espanhóis e portugueses — que abasteceu as fábricas de São Paulo e do Rio a partir do fim do século XIX. A corrente predominante nas primeiras décadas foi o **anarcossindicalismo**, com jornais como *A Plebe* e *A Voz do Trabalhador*, sociedades de resistência e a criação da **Confederação Operária Brasileira** (COB, 1906), que já reivindicava as **8 horas** e o fim do trabalho de menores.
+
+O ponto culminante foi a **greve geral de 1917**, iniciada no Cotonifício Crespi, em São Paulo, e detonada pela morte do sapateiro Antônio Martinez em confronto com a polícia: cerca de 70 mil trabalhadores pararam a cidade e obtiveram aumento salarial e o compromisso de libertação dos presos. A resposta do Estado foi tratar a questão operária como **caso de polícia** — expressão atribuída ao presidente Washington Luís — com a Lei Adolfo Gordo (1907), que permitia **deportar estrangeiros** considerados agitadores. O tema é desenvolvido no @sec-republica-velha.
+:::
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+**O que é uma "classe operária" — e como ela se forma?** A resposta clássica do marxismo estrutural define classe por **posição objetiva** nas relações de produção: é operário quem vende sua força de trabalho. A consciência de classe seria, então, o reflexo (ou o reflexo atrasado, "alienado") dessa posição.
+
+Em 1963, **E. P. Thompson** virou o problema do avesso em *A formação da classe operária inglesa*. Sua tese, anunciada já no prefácio, é que **classe não é uma coisa, é uma relação** — e um **processo histórico**. Ela "acontece quando alguns homens, como resultado de experiências comuns, herdadas ou partilhadas, sentem e articulam a identidade de seus interesses entre si e contra outros homens cujos interesses diferem". Daí duas consequências metodológicas enormes. Primeira: a classe se faz também **culturalmente** — em tradições, valores, canções, capelas metodistas, sociedades de socorro mútuo, tavernas, memórias de direitos antigos —, e não apenas na fábrica. Segunda: os trabalhadores são **sujeitos ativos** de sua própria formação, não vítimas passivas da industrialização. Thompson escreveu querendo resgatar tecelões, ludistas e artesãos "da enorme condescendência da posteridade", mostrando que a quebra de máquinas ou a defesa da "economia moral" tinham racionalidade própria, ainda que tenham sido derrotadas [@thompson1987]. **Eric Hobsbawm**, na mesma tradição, acrescentou peças importantes — entre elas a discussão sobre a **"aristocracia operária"**: um estrato de trabalhadores qualificados e mais bem pagos que, na Inglaterra vitoriana, teria desenvolvido interesses e hábitos próprios, ajudando a explicar por que o movimento operário do país mais industrializado do mundo foi tão pouco revolucionário [@hobsbawmMundos2000].
+
+**Onde estão as mulheres?** Uma segunda revisão veio da história das mulheres e dos estudos de gênero. **Michelle Perrot** mostrou que as operárias foram duplamente apagadas: pelos patrões, que as pagavam menos sob o argumento de que seu salário era "complementar"; e pela própria historiografia operária, que tomou como sujeito universal o **operário homem, adulto, qualificado e sindicalizado** — precisamente a minoria da classe. Recuperar greves de tecelãs, o trabalho a domicílio, o serviço doméstico e a economia informal das famílias trabalhadoras não é acrescentar um capítulo pitoresco: **muda a estatística e muda a explicação**, porque revela que boa parte do trabalho que sustentava a indústria não era registrada nem contabilizada [@perrot2017]. Na mesma direção, historiadoras como Joan Scott mostraram que a própria categoria "trabalhador" foi construída no século XIX com marca de gênero — o que ajuda a entender por que tantos sindicatos combateram o trabalho feminino em vez de organizá-lo.
+
+**No Brasil, a mesma discussão.** A historiografia brasileira reproduziu o percurso. Um marco é **Boris Fausto**, em *Trabalho urbano e conflito social* (1976), que estudou o operariado paulista da Primeira República com atenção à composição imigrante, ao peso do anarcossindicalismo e às limitações de um proletariado ainda pequeno numa economia agroexportadora [@fausto1976]. Gerações seguintes — na esteira de Thompson — deslocaram o foco das lideranças e dos jornais militantes para a **experiência cotidiana** dos trabalhadores: o bairro, a moradia, o lazer, a família, as estratégias de sobrevivência e, decisivamente, a continuidade entre o mundo do trabalho **escravizado e livre**, questão específica e incontornável do caso brasileiro, onde a abolição é de **1888** e boa parte da mão de obra "livre" era negra e egressa do cativeiro (@sec-escravidao-abolicao-imigracao).
+
+**Por que divergem?** Menos por discordância factual do que por **escolha de escala e de fontes**. Quem lê estatísticas de produção e relatórios de fábrica enxerga estruturas; quem lê processos judiciais, jornais operários, cartas e memórias enxerga sujeitos; quem procura mulheres nos registros censitários descobre que elas estavam lá o tempo todo, apenas classificadas como "sem ocupação". A lição metodológica vale para todo este manual: **a pergunta que se faz determina a fonte que se busca — e a fonte que se busca determina o passado que se encontra** (@sec-fontes-historicas).
+
+## Resumo do capítulo {#sec-resumo}
+
+- **Segunda Revolução Industrial** (c. **1870–1914**): novas energias (**eletricidade**, **petróleo**), novos materiais (**aço** pelo conversor Bessemer, alumínio, cimento), **indústria química** (corantes, fertilizantes, dinamite, aspirina) e **ciência aplicada** em laboratórios de P&D.
+- **Comunicação e transporte:** telégrafo e cabo transatlântico (1866), **telefone** (1876), rádio, automóvel (1886), avião; **Canal de Suez** (1869) e do **Panamá** (1914); navios de aço e **frigoríficos**, que integraram um mercado mundial de alimentos.
+- **Nova geografia:** a Inglaterra é ultrapassada por **EUA** e **Alemanha**; o **Japão** da **Era Meiji** (1868) torna-se a primeira potência industrial não ocidental.
+- **Concentração do capital:** **sociedade anônima**, **cartel** (acordo entre empresas), **truste** (fusão; Standard Oil de Rockefeller, desmembrada em 1911), **holding**, **integração vertical** (Carnegie) e **capital financeiro** (fusão de banco e indústria — Hilferding, retomado por Lênin).
+- **Organização do trabalho:** **taylorismo** (1911) — cronometragem, decomposição de tarefas, separação entre planejar e executar; **fordismo** — **linha de montagem** móvel (1913) e **five-dollar day** (1914), inaugurando a produção em massa para o consumo de massa.
+- ***Belle Époque***: rótulo criado **depois** de 1914, verdadeiro para as classes médias e altas europeias, mas contemporâneo de cortiços, jornadas longas e guerras coloniais.
+- **Classe operária:** concentração em grandes fábricas (Krupp, cerca de 70 mil empregados), urbanização, trabalho feminino e infantil mal pago e **invisível**, jornada dupla das mulheres.
+- **Correntes:** **ludismo** e **cartismo**; **trade unions** (legais na Inglaterra desde 1824); **anarquismo** (Proudhon, **Bakunin**, Kropotkin; anarcossindicalismo e **greve geral**); **marxismo** (mais-valia, luta de classes, partido); **Doutrina Social da Igreja** (***Rerum Novarum***, 1891: salário justo e associação, mas defesa da propriedade e da harmonia entre classes).
+- **Internacionais:** a **I** (Londres, **1864**), rompida pela cisão **Marx × Bakunin** (1872); a **II** (Paris, **1889**), que instituiu o **1º de maio** (em memória de **Chicago**, 1886) e a bandeira das **8 horas**, e ruiu em **1914**, quando os partidos socialistas apoiaram seus governos na guerra.
+- **Reforma × revolução:** o **revisionismo** de **Bernstein** (socialismo gradual por reformas) contra *Reforma ou revolução?* de **Rosa Luxemburgo** — divisão que separaria social-democracia e comunismo.
+- **Conquistas até 1914:** sindicatos legais, sufrágio universal masculino, restrição ao trabalho infantil, seguros sociais (Alemanha, 1883–1889), inspeção fabril, partidos operários fortes (o **SPD** foi o mais votado em 1912).
+- **Brasil:** operariado formado por **imigrantes**, hegemonia **anarcossindicalista**, **COB** (1906), **greve geral de 1917** em São Paulo, repressão pela **Lei Adolfo Gordo** (1907) e a questão social tratada como "caso de polícia".
+- **Historiografia:** classe como **posição estrutural** × classe como **relação e experiência** construída historicamente (**E. P. Thompson**); a **"aristocracia operária"** (**Hobsbawm**); a invisibilidade das **mulheres trabalhadoras** (**Michelle Perrot**, Joan Scott); no Brasil, de **Boris Fausto** à história social do cotidiano e à continuidade entre trabalho escravizado e livre.
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Fixe: (1) o quadro comparativo das **duas revoluções industriais**; (2) as formas de **concentração** (cartel × truste × holding) e o **capital financeiro**; (3) **taylorismo × fordismo**; (4) as **quatro correntes** do movimento operário e o que as separa; (5) as duas **Internacionais**, suas datas e suas rupturas; (6) o debate **reforma × revolução**; (7) a tese de **Thompson** sobre a formação da classe.
+:::
+
+**1.** Aponte **quatro diferenças** entre a Primeira e a Segunda Revolução Industrial.
+
+::: {.callout-tip collapse="true" title="Solução"}
+1. **Energia:** carvão e vapor na primeira; **eletricidade** e **petróleo** (sem abandonar o carvão) na segunda.
+2. **Materiais e setores:** ferro, têxtil e ferrovias na primeira; **aço**, química, elétrica, automobilística e alimentos industrializados na segunda.
+3. **Origem da inovação:** na primeira, inventores e artesãos práticos, com pouca base científica formal; na segunda, **laboratórios de pesquisa e desenvolvimento** dentro das empresas, com químicos e engenheiros diplomados (Bayer, BASF, Siemens) — a ciência torna-se força produtiva direta.
+4. **Estrutura empresarial e do trabalho:** empresas familiares e ofício ainda relevante na primeira; **sociedades anônimas**, cartéis e trustes na segunda, com o trabalho reorganizado pelo **taylorismo** e pela **linha de montagem**.
+5. **Geografia:** liderança inglesa e europeia ocidental na primeira; liderança de **EUA e Alemanha**, com emergência do **Japão**, e alcance verdadeiramente **mundial** na segunda.
+
+(Bastavam quatro; note que as revoluções não se sucedem como fases estanques — convivem e se reforçam.)
+:::
+
+**2.** Diferencie **cartel**, **truste** e **holding**, e explique o conceito de **capital financeiro**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+- **Cartel:** acordo entre empresas que permanecem **juridicamente independentes** para fixar preços, repartir mercados ou limitar a produção, eliminando a concorrência entre si sem fusão. Foi a forma típica na **Alemanha**.
+- **Truste:** **fusão** de várias empresas de um setor sob um comando único, formando uma empresa gigante que tende ao monopólio. Caso clássico: a **Standard Oil** de **Rockefeller**, que controlou cerca de 90% do refino americano e foi desmembrada por decisão da Suprema Corte em **1911**.
+- **Holding:** empresa cuja atividade é **controlar outras empresas** por meio da posse majoritária de suas ações, sem necessariamente produzir nada.
+
+**Capital financeiro:** conceito formulado por Rudolf Hilferding (1910) e adotado por **Lênin** para designar a **fusão entre o capital bancário e o capital industrial**. Com o gigantismo das novas indústrias, os bancos deixaram de ser apenas credores e passaram a **participar do capital e da direção** das empresas, formando grupos que reúnem bancos, indústrias, mineradoras e transportes (Deutsche Bank, J. P. Morgan). Lênin faria dessa concentração uma das cinco características do imperialismo, ligando-a diretamente à **exportação de capitais** para as colônias (@sec-imperialismo).
+:::
+
+**3.** O que é **taylorismo**? Quais suas consequências para o trabalhador?
+
+::: {.callout-tip collapse="true" title="Solução"}
+O **taylorismo** é o sistema de "administração científica" formulado por **Frederick W. Taylor** (*Princípios de administração científica*, 1911). Seus pilares: (i) **estudo de tempos e movimentos**, cronometrando cada gesto para eliminar os "improdutivos"; (ii) **decomposição** do trabalho em tarefas elementares e repetitivas; (iii) definição de um "**melhor modo único**" de executar cada tarefa, imposto a todos; (iv) **separação rígida entre concepção e execução** — a gerência planeja, o operário apenas executa; (v) **remuneração por desempenho**, premiando quem cumpre a meta.
+
+**Consequências para o trabalhador:** aumento brutal da produtividade acompanhado de **intensificação do ritmo** e de fadiga; **expropriação do saber do ofício**, pois o conhecimento do processo produtivo migra do trabalhador qualificado para o escritório de métodos — o que rebaixa salários, facilita a substituição de pessoal e enfraquece o poder de barganha dos sindicatos de ofício; **perda de autonomia** e monotonia, com alta rotatividade e adoecimento. Foi contra esse conjunto que o **fordismo** ofereceu, em 1914, sua compensação: o **five-dollar day**, salário alto para tornar suportável um trabalho que se tornara insuportável — e para criar o consumidor do produto.
+:::
+
+**4.** Explique o conflito entre **Marx** e **Bakunin** na Primeira Internacional.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Ambos queriam abolir o capitalismo e a exploração, mas divergiam sobre o **meio** e sobre o **Estado**.
+
+- **Marx** defendia que os trabalhadores deviam se organizar em **partidos operários**, disputar o terreno político (inclusive eleições, onde possível) e, na revolução, **tomar o poder do Estado**, usando-o transitoriamente — a "ditadura do proletariado" — para desmontar as bases da sociedade de classes; só então o Estado se extinguiria. Isso exigia uma Internacional com **direção centralizada**.
+- **Bakunin** sustentava que **todo Estado é opressor por natureza**, independentemente de quem o dirija: um Estado operário criaria uma nova classe dominante, formada por burocratas e intelectuais em nome do povo. Propunha a **abolição imediata** do Estado, a organização **federativa** e autônoma de comunas e associações de produtores e uma Internacional descentralizada, sem autoridade sobre as seções.
+
+Somavam-se divergências sobre a base social (Marx apostava no proletariado industrial; Bakunin dava peso também a camponeses e aos setores mais pobres e desenraizados) e desconfianças pessoais intensas. No **Congresso de Haia (1872)**, os marxistas conseguiram a expulsão de Bakunin; a Internacional cindiu-se e se dissolveu em 1876, também sob o efeito da repressão que se seguiu à **Comuna de Paris**.
+
+Importa notar o alcance da disputa: ela definiu duas famílias do movimento operário que seguiram caminhos distintos por mais de um século — e a advertência de Bakunin sobre a burocratização do Estado revolucionário voltaria a ser discutida à luz da experiência soviética (@sec-revolucao-russa).
+:::
+
+**5.** Compare a posição de **Bernstein** e a de **Rosa Luxemburgo** no debate revisionista.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Bernstein** (revisionismo, anos 1890) partia de constatações empíricas: os salários reais subiam, as crises não se agravavam como previsto, a classe média não desaparecia, a propriedade se pulverizava em ações e o **SPD** crescia eleitoralmente com sindicatos legais. Concluía que o colapso do capitalismo não viria, e que o socialismo seria alcançado **gradualmente**, por reformas, legislação social, cooperativas e conquista de maiorias parlamentares. Daí sua fórmula polêmica: "o movimento é tudo, o objetivo final não é nada" [@bernstein1997].
+
+**Rosa Luxemburgo** respondeu em *Reforma ou revolução?* (1899). Seu argumento central não é que as reformas sejam inúteis — ela as considerava indispensáveis e travava essa luta diariamente —, mas que reforma e revolução **não são dois caminhos para o mesmo destino**: as reformas melhoram a situação do trabalhador **dentro** do capitalismo, sem tocar na propriedade dos meios de produção nem no poder político da burguesia. Abandonar o objetivo revolucionário, advertia, transformaria o partido operário em **administrador da ordem existente**, e a prosperidade que Bernstein tomava por tendência permanente era conjuntural, apoiada, entre outros fatores, na expansão **imperialista** [@luxemburgo1999].
+
+**Desfecho:** a controvérsia foi vencida no papel pelos ortodoxos (Kautsky), mas vencida na prática pelos reformistas, como mostrou o voto dos créditos de guerra em **1914**. A cisão definitiva veio depois da Revolução Russa, separando **social-democracia** e **comunismo** (@sec-revolucao-russa). Rosa Luxemburgo seria assassinada em Berlim em janeiro de 1919, após a derrota da revolta espartaquista.
+:::
+
+**6.** Que conquistas os trabalhadores europeus haviam obtido até 1914 e por quais meios?
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Conquistas:** legalização dos **sindicatos** e do direito de greve; ampliação do **sufrágio universal masculino**; **redução da jornada** (de 12–14 horas para 10 e, em vários setores, 9, com as **8 horas** generalizando-se sobretudo após 1918); **proibição ou restrição do trabalho infantil** e regulamentação do trabalho feminino; **seguros sociais** — doença (1883), acidentes (1884) e velhice (1889) na Alemanha de Bismarck, seguidos por outros países; **inspeção do trabalho** e normas de segurança; **educação pública** obrigatória e gratuita; e representação política própria, com partidos operários de massa (o **SPD** foi o mais votado na Alemanha em 1912).
+
+**Meios:** (i) a **greve**, inclusive a greve geral, e a organização sindical permanente com fundos de resistência; (ii) a **ação parlamentar** dos partidos socialistas, uma vez conquistado o voto; (iii) a **imprensa operária**, as escolas e as associações de auxílio mútuo, que formavam militantes e criavam identidade coletiva; (iv) a **coordenação internacional** (as Internacionais, o 1º de maio); (v) e, do lado dos governos, o **cálculo preventivo** — Bismarck criou a seguridade social explicitamente para retirar bandeiras dos socialistas, enquanto proibia seu partido, e a **Rerum Novarum** (1891) mobilizou a Igreja para oferecer uma alternativa à luta de classes.
+
+A conclusão que importa: essas melhorias **não foram concessões espontâneas do progresso econômico**, mas resultado de conflito organizado — inclusive quando vieram na forma de concessões feitas por adversários que queriam evitar coisa pior.
+:::
+
+**7.** (Estilo ENEM) Leia o texto.
+
+> "Não veem que, quando se estabelece a divisão do trabalho de acordo com uma regra científica, é impossível que o trabalhador escolha o modo de executar sua tarefa. […] Cada homem deve aprender a abrir mão de sua maneira particular de fazer as coisas, adaptar seus métodos aos numerosos padrões novos e habituar-se a receber e obedecer a instruções que abrangem detalhes grandes e pequenos, antes deixados a seu julgamento."
+>
+> — Frederick W. Taylor, *Princípios de administração científica*, 1911.
+
+O modelo produtivo descrito no texto caracteriza-se por
+
+**(a)** valorizar a autonomia do trabalhador qualificado sobre o conjunto do processo produtivo.
+**(b)** transferir o controle do saber e do ritmo do trabalho do operário para a gerência.
+**(c)** substituir o assalariamento por formas cooperativas de organização da produção.
+**(d)** reduzir a produtividade em benefício de melhores condições de saúde dos trabalhadores.
+**(e)** restaurar o sistema de ofícios e o aprendizado artesanal característico das corporações.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (b).** O trecho é explícito: o trabalhador deve "abrir mão de sua maneira particular de fazer as coisas" e "obedecer a instruções" que cobrem detalhes "antes deixados a seu julgamento". É a formulação exata da **separação entre concepção e execução**: o conhecimento do processo migra do operário para o escritório de métodos, e com ele migra o **controle do ritmo**. Essa expropriação do saber do ofício é o núcleo do **taylorismo**.
+
+As demais: **(a)** afirma o contrário do texto, que retira do trabalhador justamente o julgamento sobre o próprio trabalho; **(c)** remete ao cooperativismo de Owen e dos socialistas utópicos, sem relação com Taylor, que trabalhava para elevar o lucro de empresas capitalistas; **(d)** inverte o objetivo declarado — o método existe para **aumentar** a produtividade, e sua consequência típica foi a intensificação do ritmo e a fadiga; **(e)** é o oposto histórico do processo, já que o taylorismo, seguido pela linha de montagem fordista, **destruiu** o ofício artesanal como forma dominante de trabalho industrial.
+:::
+
+**8.** (Estilo vestibular — dissertativa) Explique a tese de **E. P. Thompson** de que a classe operária "não surgiu como o sol numa hora determinada: ela esteve presente ao seu próprio fazer-se". Qual a diferença dessa concepção em relação à definição estrutural de classe?
+
+::: {.callout-tip collapse="true" title="Solução"}
+**A definição estrutural** entende classe como **posição objetiva** nas relações de produção: pertence à classe operária quem, não possuindo meios de produção, vende sua força de trabalho. É uma definição que se pode aplicar de fora, por critérios econômicos, e da qual a consciência de classe seria um reflexo (mais ou menos atrasado, mais ou menos "alienado").
+
+**Thompson** desloca o problema em três movimentos [@thompson1987]:
+
+1. **Classe é relação, não coisa.** Ela só existe entre grupos, e não como uma categoria estática de um quadro estatístico. "A classe acontece", escreve ele, "quando alguns homens, como resultado de experiências comuns, herdadas ou partilhadas, sentem e articulam a identidade de seus interesses entre si e contra outros homens cujos interesses diferem".
+2. **Classe é processo — e experiência.** A frase do enunciado nega que a classe tenha sido um subproduto automático das máquinas e das fábricas. Ela se formou ao longo de décadas, na **experiência** vivida de artesãos, tecelões e trabalhadores, que interpretaram sua situação a partir de tradições anteriores: os direitos costumeiros, a "economia moral" que julgava justo o preço do pão, o dissidentismo religioso, a memória dos "direitos dos ingleses livres".
+3. **Os trabalhadores são sujeitos ativos.** Eles "estiveram presentes ao seu próprio fazer-se": construíram sindicatos, sociedades de socorro mútuo, jornais, escolas, capelas, festas e uma cultura própria. A classe é, em boa medida, um **produto cultural e político** dessa atividade, não apenas um efeito econômico.
+
+**Diferenças e implicações.** A concepção estrutural explica por que existem interesses opostos, mas tem dificuldade em explicar **quando e por que** as pessoas passam a agir coletivamente — e tende a julgar como "atraso de consciência" tudo o que não corresponda ao modelo esperado. A concepção de Thompson devolve **agência e racionalidade** aos derrotados: os ludistas deixam de ser saudosistas irracionais e passam a ser negociadores sem outro instrumento de pressão. Em contrapartida, a abordagem foi criticada por eventual **excesso de culturalismo** — o risco de dissolver as determinações econômicas numa história de experiências — e por ter tomado como universal um sujeito bastante particular: o **operário homem, adulto e qualificado**, deixando na sombra mulheres, crianças e trabalhadores informais, lacuna que a historiografia posterior, com **Michelle Perrot** e outras, veio corrigir [@perrot2017]. No Brasil, essa abordagem inspirou uma renovação da história do trabalho voltada ao cotidiano, à moradia, ao lazer e à continuidade entre o trabalho **escravizado** e o **livre** (@sec-escravidao-abolicao-imigracao).
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- HOBSBAWM, Eric. *A era do capital: 1848–1875* [@hobsbawmCapital2015] e *Mundos do trabalho* [@hobsbawmMundos2000]. O segundo reúne os ensaios sobre a formação e os limites do movimento operário, inclusive o da "aristocracia operária".
+- THOMPSON, E. P. *A formação da classe operária inglesa* [@thompson1987]. Um dos livros de história mais influentes do século XX; comece pelo prefácio, que tem quatro páginas e vale um curso.
+- PERROT, Michelle. *Os excluídos da história: operários, mulheres, prisioneiros* [@perrot2017].
+- LANDES, David. *Prometeu desacorrentado* [@landes1994]. A referência clássica sobre a mudança tecnológica europeia.
+- FAUSTO, Boris. *Trabalho urbano e conflito social* [@fausto1976]. Ponto de partida para o operariado brasileiro da Primeira República.
+
+**Fontes primárias**
+
+- LEÃO XIII. *Rerum Novarum* (1891) [@rerumNovarum1891]. Curta e acessível; leia observando as duas faces — a crítica à exploração e a condenação do socialismo.
+- BERNSTEIN, Eduard. *Socialismo evolucionário* [@bernstein1997] e LUXEMBURGO, Rosa. *Reforma ou revolução?* [@luxemburgo1999]. Leia os dois na sequência: é um debate real, com argumentos fortes dos dois lados.
+- TAYLOR, F. W. *Princípios de administração científica* (1911). Espantoso pela franqueza com que descreve o que pretende fazer com o trabalhador.
+
+**Filmes e documentários**
+
+- *Tempos modernos* (1936), dir. Charlie Chaplin. A melhor crítica já feita à linha de montagem — e engraçadíssima.
+- *Germinal* (1993), a partir do romance de Émile Zola (1885), sobre uma greve de mineiros no norte da França.
+- *Metrópole* (1927), dir. Fritz Lang. A cidade industrial como pesadelo futurista, com a mais famosa cena de operários-engrenagem do cinema.
