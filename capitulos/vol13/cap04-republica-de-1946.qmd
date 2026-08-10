@@ -1,5 +1,418 @@
 # A República de 1946 e o desenvolvimentismo {#sec-republica-de-1946}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Na manhã de 24 de agosto de 1954, um tiro no peito, no quarto do Palácio do Catete, encerrou a vida de **Getúlio Vargas**. Horas antes, ele havia deixado sobre a mesa uma carta que começava com a palavra "Novamente" e terminava com uma frase que entraria na memória política brasileira: "**Serenamente dou o primeiro passo no caminho da eternidade e saio da vida para entrar na História**" [@vargas1954]. O efeito foi imediato e devastador. As multidões que saíram às ruas apedrejaram a embaixada dos Estados Unidos e as sedes dos jornais oposicionistas; os generais que exigiam a renúncia recolheram-se; a oposição que se preparava para governar foi varrida da cena por uma semana. Um homem politicamente derrotado transformou a própria morte na vitória mais duradoura de sua carreira. Este capítulo trata dos dezoito anos em que o Brasil viveu, pela primeira vez, uma democracia de massas com partidos, imprensa livre e eleições disputadas de verdade — e das razões pelas quais essa experiência terminou em 1964.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- caracterizar a **Constituição de 1946** e o sistema partidário PSD–PTB–UDN;
+- explicar o governo **Dutra**, o alinhamento à Guerra Fria e a cassação do PCB;
+- analisar o segundo governo **Vargas**, a campanha "**O petróleo é nosso**" e a crise de 1954;
+- descrever o **Plano de Metas** de **JK**, a construção de **Brasília** e os custos do desenvolvimentismo;
+- narrar a renúncia de **Jânio**, a **Campanha da Legalidade** e o parlamentarismo;
+- explicar as **Reformas de Base**, a radicalização de 1963–64 e o **golpe de 1964**;
+- caracterizar a efervescência cultural do período (ISEB, CPC, Cinema Novo, Bossa Nova, Paulo Freire);
+- contrastar as interpretações historiográficas sobre as causas do golpe de 1964.
 :::
+
+## O arranjo de 1946 {#sec-arranjo-1946}
+
+A **Constituição de 1946** restaurou o Estado de direito: separação e independência dos poderes, eleições diretas para todos os cargos executivos e legislativos, mandato presidencial de cinco anos sem reeleição, liberdade de imprensa, de associação e de organização partidária. Manteve, contudo, dois legados importantes: a **estrutura sindical corporativa** herdada de Vargas (unicidade, imposto sindical, subordinação ao Ministério do Trabalho) e a **exclusão dos analfabetos** do direito de voto — ou seja, ainda em 1960, cerca de metade dos adultos brasileiros não votava.
+
+::: {#fig-partidos-1946}
+
+```{.tikz}
+%%| filename: fig-partidos-1946
+%%| alt: Diagrama do sistema partidário da República de 1946, com PSD, PTB, UDN e PCB, e as coligações típicas.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \node[draw, very thick, rounded corners, fill=manualgreen!16, align=left, text width=4.4cm, text=manualgreen] (psd) at (-5.0,1.6)
+    {\textbf{PSD} (1945)\\ herdeiro da \textbf{máquina} varguista:\\ interventores, funcionalismo,\\ chefes locais\\ \textit{centro pragmático; o maior}\\ \textit{partido, quase sempre no governo}};
+  \node[draw, very thick, rounded corners, fill=manualred!16, align=left, text width=4.4cm, text=manualred] (ptb) at (0,1.6)
+    {\textbf{PTB} (1945)\\ herdeiro do \textbf{trabalhismo}:\\ sindicatos, operariado urbano,\\ Ministério do Trabalho\\ \textit{nacionalista e reformista;}\\ \textit{cresce em todas as eleições}};
+  \node[draw, very thick, rounded corners, fill=manualblue!16, align=left, text width=4.4cm, text=manualblue] (udn) at (5.0,1.6)
+    {\textbf{UDN} (1945)\\ \textbf{oposição} liberal-conservadora:\\ classes médias, imprensa,\\ antigetulismo, moralismo\\ \textit{``o partido que só perdia'';}\\ \textit{tentada pelo atalho golpista}};
+
+  \node[draw, thick, dashed, rounded corners, fill=manualyellow!24, align=center, text width=4.4cm] (pcb) at (-5.0,-1.4)
+    {\textbf{PCB}\\ legal em 1945--47 (4º maior\\ partido, $\sim$10\% dos votos);\\ \textbf{cassado} em maio de 1947};
+
+  \node[draw, thick, rounded corners, fill=manualgray!18, align=center, text width=8.6cm] (coa) at (2.2,-1.4)
+    {\textbf{A aliança que governa: PSD + PTB}\\ elege Dutra (1945), Vargas (1950), JK--Jango (1955) e sustenta Jango (1961--64).\\ A \textbf{UDN} só chega ao poder por vias indiretas: Café Filho, Jânio, e por fim \textbf{1964}.};
+
+  \draw[vetor, very thick, manualgray] (psd.south) -- ++(0,-0.5) -| (coa.north);
+  \draw[vetor, very thick, manualgray] (ptb.south) -- (coa.north);
+
+  \node[draw, dashed, rounded corners, fill=manualgray!12, align=center, text width=13.6cm] at (0,-3.4)
+    {\textbf{A frase que resume o sistema}, atribuída a Vargas: os dois partidos que ele criou eram para governar --- o \textbf{PSD} com as elites e\\ o \textbf{PTB} com os trabalhadores. O trabalhismo cresce eleição após eleição, e é esse crescimento que assusta a UDN e os militares.};
+\end{tikzpicture}
+```
+
+O sistema partidário de 1946: dois partidos de Vargas no governo, um partido de oposição que raramente vencia.
+:::
+
+**Os partidos.** Três forças estruturaram o período, e todas as três nasceram da Era Vargas:
+
+- **PSD (Partido Social Democrático)**: herdeiro da máquina do Estado Novo — interventores, prefeitos, funcionalismo, chefes políticos locais. Pragmático, de centro, o maior partido do país durante quase todo o período.
+- **PTB (Partido Trabalhista Brasileiro)**: herdeiro do trabalhismo, apoiado na estrutura sindical, no operariado urbano e no prestígio pessoal de Vargas. Nacionalista e reformista; **crescia a cada eleição**, e é esse crescimento que explica boa parte do medo que a direita passou a nutrir a partir de 1960.
+- **UDN (União Democrática Nacional)**: oposição liberal-conservadora, com base nas classes médias urbanas, na grande imprensa e no antigetulismo. Defendia liberdades públicas e moralidade administrativa **e**, repetidamente derrotada nas urnas, flertou com soluções golpistas — daí a expressão de Otávio Mangabeira sobre a tentação do "atalho". Seu principal orador, **Carlos Lacerda**, tornou-se o mais influente e destrutivo jornalista político do país.
+
+O **PCB**, legalizado em 1945, elegeu 14 deputados e um senador (Prestes) e obteve cerca de 10% dos votos — quarto maior partido. Em **maio de 1947**, no auge da Guerra Fria, teve o registro **cassado** pelo Tribunal Superior Eleitoral e seus parlamentares perderam os mandatos no ano seguinte. Passou o restante do período na clandestinidade, atuando por dentro do PTB e dos sindicatos.
+
+**Dutra (1946–1951).** O general eleito em 1945 governou de forma conservadora e alinhada aos **Estados Unidos**: rompeu relações com a URSS (1947), cassou o PCB, interveio em centenas de sindicatos, reprimiu greves e liberalizou as importações, esgotando em pouco tempo as reservas em dólares acumuladas durante a guerra — mas modernizando o parque industrial e o transporte. Seu **Plano SALTE** (Saúde, Alimentação, Transporte e Energia) foi mais intenção que realização, por falta de financiamento.
+
+## O segundo Vargas: "nos braços do povo" (1951–1954) {#sec-segundo-vargas}
+
+Em 1950, Vargas voltou — **eleito pelo voto direto**, com 48,7% dos votos, sob o lema de que retornava "nos braços do povo". Seu programa era **nacional-desenvolvimentista**: industrializar com forte participação do Estado, controlando os pontos de estrangulamento da economia (energia, transporte, insumos básicos).
+
+**As realizações:**
+
+- **Petrobras** (Lei 2.004, de 1953), criada como monopólio estatal da exploração e do refino, resultado da maior campanha cívica da história brasileira, "**O petróleo é nosso**", que mobilizou estudantes, militares nacionalistas, sindicatos, o PCB clandestino e setores da classe média;
+- **BNDE** (1952), banco de fomento ao desenvolvimento, e **Eletrobras** (projeto enviado em 1954, criada só em 1962);
+- **Comissão Mista Brasil–EUA** para planejar investimentos em infraestrutura;
+- aumento de **100%** do salário mínimo, anunciado em 1º de maio de 1954 pelo ministro do Trabalho **João Goulart** — medida que enfureceu o empresariado e parte dos militares, que a leram como demagogia e ameaça à hierarquia salarial das Forças Armadas.
+
+**A crise.** Vargas ficou entre dois fogos. À esquerda, o nacionalismo cobrava mais estatização; à direita, a UDN, a grande imprensa e setores militares acusavam-no de corrupção, de "república sindicalista" e de flertar com o comunismo. **Carlos Lacerda**, na *Tribuna da Imprensa*, conduziu uma campanha implacável, afirmando que Vargas "não deve ser candidato, se for candidato não deve ser eleito, se eleito não deve tomar posse, se tomar posse devemos recorrer à revolução".
+
+O golpe decisivo, porém, veio de um crime. Na madrugada de **5 de agosto de 1954**, na Rua Tonelero, um atentado contra Lacerda o feriu no pé e **matou o major da Aeronáutica Rubens Vaz**, que o acompanhava. A investigação, conduzida pela Aeronáutica no "**Inquérito do Galeão**", chegou à guarda pessoal do presidente e a seu chefe, Gregório Fortunato. A morte de um oficial fez das Forças Armadas parte ofendida.
+
+Em **24 de agosto**, com um manifesto de generais exigindo sua renúncia, Vargas **suicidou-se**. A **carta-testamento** [@vargas1954] denunciava "forças e interesses contra o povo", "grupos internacionais" e a "campanha subterrânea dos grupos internacionais aliados aos nacionais revoltados contra o regime de garantia do trabalho".
+
+::: {.callout-warning title="A carta-testamento como fonte histórica"}
+Trate-a com o cuidado que qualquer documento político exige. Há debate legítimo — nunca resolvido — sobre sua autoria material: o texto pode ter sido redigido a várias mãos, com participação de assessores. Mas a questão decisiva não é essa.
+
+A carta é um **ato político** deliberado, provavelmente o mais eficaz da carreira de Vargas. Ela reorganizou instantaneamente o campo político: transformou uma derrota iminente em martírio, converteu adversários em conspiradores e adiou por dez anos o desfecho que se anunciava em agosto de 1954. Seu efeito imediato — multidões nas ruas, embaixada americana apedrejada, jornais oposicionistas atacados, Lacerda obrigado a se exilar temporariamente, generais em recuo — mostra que a leitura correta de uma fonte não é apenas "o que ela diz é verdade?", mas também "**o que ela fez**?" (@sec-fontes-historicas).
+:::
+
+## Juscelino e o desenvolvimentismo (1956–1961) {#sec-jk-desenvolvimentismo}
+
+**Juscelino Kubitschek**, mineiro do PSD, elegeu-se em 1955 com **João Goulart** (PTB) como vice, com apenas 36% dos votos. Setores da UDN e militares tentaram impedir a posse; foi um **contragolpe preventivo** do general **Henrique Teixeira Lott**, em novembro de 1955, que garantiu a normalidade constitucional — episódio que vale a pena reter, porque mostra que as Forças Armadas não eram um bloco.
+
+**O Plano de Metas.** O slogan era "**cinquenta anos em cinco**". Trinta e uma metas em cinco áreas — energia, transporte, alimentação, indústria de base e educação — mais a "meta-síntese", **Brasília**.
+
+::: {#fig-plano-de-metas}
+
+```{.tikz}
+%%| filename: fig-plano-de-metas
+%%| alt: Diagrama do Plano de Metas de Juscelino Kubitschek, com áreas prioritárias, tripé de financiamento e consequências.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \node[draw, very thick, rounded corners, fill=manualblue!20, align=center, text width=6.0cm, text=manualblue] (t) at (0,3.0)
+    {\textbf{PLANO DE METAS} (1956--61)\\ ``\textbf{cinquenta anos em cinco}''\\ 31 metas $+$ a meta-síntese: \textbf{Brasília}};
+
+  \node[draw, thick, rounded corners, fill=manualgreen!16, align=center, text width=3.3cm] (a1) at (-6.0,0.6) {\textbf{ENERGIA}\\ hidrelétricas\\ (Furnas, Três Marias)\\ 43\% do investimento};
+  \node[draw, thick, rounded corners, fill=manualgreen!16, align=center, text width=3.3cm] (a2) at (-2.4,0.6) {\textbf{TRANSPORTE}\\ rodovias:\\ Belém--Brasília,\\ opção \textbf{rodoviarista}};
+  \node[draw, thick, rounded corners, fill=manualgreen!16, align=center, text width=3.3cm] (a3) at (1.2,0.6) {\textbf{INDÚSTRIA DE BASE}\\ \textbf{automobilística},\\ naval, siderurgia,\\ química, cimento};
+  \node[draw, thick, rounded corners, fill=manualgreen!16, align=center, text width=3.3cm] (a4) at (4.8,0.6) {\textbf{ALIMENTAÇÃO}\\ \textbf{e EDUCAÇÃO}\\ as metas mais\\ \textbf{negligenciadas}};
+
+  \node[draw, thick, rounded corners, fill=manualyellow!26, align=center, text width=13.0cm] (tri) at (-0.6,-1.6)
+    {\textbf{O tripé do financiamento:} \textbf{Estado} (planejamento, crédito do BNDE, infraestrutura) $+$ \textbf{capital estrangeiro}\\ (Instrução 113 da SUMOC: entrada de maquinário \textbf{sem cobertura cambial}) $+$ \textbf{capital privado nacional} (fornecedores)};
+
+  \node[draw, thick, rounded corners, fill=manualred!18, align=center, text width=6.2cm, text=manualred] (r1) at (-3.9,-3.6)
+    {\textbf{RESULTADOS}\\ PIB $+$8\% ao ano $\cdot$ indústria $+$80\%\\ Brasília inaugurada em \textbf{21 abr. 1960}};
+  \node[draw, thick, rounded corners, fill=manualred!18, align=center, text width=6.2cm, text=manualred] (r2) at (3.3,-3.6)
+    {\textbf{CUSTOS}\\ \textbf{inflação} de 12\% (1957) a 30\%+ (1960)\\ dívida externa $\cdot$ rompimento com o \textbf{FMI} (1959)\\ concentração de renda e êxodo rural};
+
+  \draw[vetor, thick, manualgray] (t) -- (a1); \draw[vetor, thick, manualgray] (t) -- (a2);
+  \draw[vetor, thick, manualgray] (t) -- (a3); \draw[vetor, thick, manualgray] (t) -- (a4);
+  \draw[vetor, thick, manualgray] (a2) -- (tri); \draw[vetor, thick, manualgray] (a3) -- (tri);
+  \draw[vetor, thick, manualgray] (tri) -- (r1); \draw[vetor, thick, manualgray] (tri) -- (r2);
+\end{tikzpicture}
+```
+
+O Plano de Metas: o que foi feito, como foi financiado e o que ficou de conta a pagar.
+:::
+
+**A indústria automobilística** é o símbolo do período: em 1957 o Brasil produzia 30 mil veículos; em 1960, mais de 130 mil, com índice de nacionalização acima de 90%. A **Instrução 113 da SUMOC**, herdada do governo anterior, permitia que empresas estrangeiras trouxessem **maquinário sem cobertura cambial** — vantagem decisiva que atraiu Volkswagen, Ford, GM e Willys, e que a indústria nacional acusou de discriminação.
+
+**Brasília** foi construída em **41 meses**, com projeto urbanístico de **Lúcio Costa** e arquitetura de **Oscar Niemeyer**, e inaugurada em **21 de abril de 1960**. Realizava uma ideia antiga — presente já na Inconfidência Mineira e inscrita na Constituição de 1891 — de interiorizar a capital. Foi erguida por dezenas de milhares de **candangos**, sobretudo nordestinos, que trabalharam em condições precárias e foram depois empurrados para as **cidades-satélites**, à margem do Plano Piloto: a nova capital reproduziu, desde o primeiro dia, a desigualdade que dizia superar.
+
+**Os custos.** O crescimento foi real e notável — cerca de **8% ao ano**, com a indústria crescendo 80% no quinquênio. Mas foi financiado por emissão e endividamento: a inflação saltou de 12% (1957) para mais de 30% (1960), a dívida externa cresceu e, em **1959**, JK **rompeu com o FMI**, recusando o programa de estabilização exigido — gesto de enorme popularidade nacionalista e de consequências duras para seu sucessor. O êxodo rural acelerou, inchando as periferias urbanas, e a concentração de renda aumentou.
+
+**A cultura do otimismo.** O período foi o mais confiante da história brasileira contemporânea: a **Bossa Nova** (*Chega de Saudade*, 1958), a **Copa do Mundo de 1958** e o Brasil de Pelé e Garrincha, o **Cinema Novo** nascente, a arquitetura modernista reconhecida no mundo. O **ISEB** (Instituto Superior de Estudos Brasileiros, 1955) produziu a formulação intelectual do **nacional-desenvolvimentismo**, dialogando com a **CEPAL** de Raúl Prebisch e com **Celso Furtado**, cuja tese central — a de que a **deterioração dos termos de troca** condena os países exportadores de produtos primários — sustentava a defesa da industrialização planejada [@furtado2007].
+
+## A crise: Jânio, a Legalidade e Jango (1961–1964) {#sec-crise-1961-1964}
+
+**Jânio Quadros** venceu em 1960 com a vassoura como símbolo e o slogan "varre a corrupção" — primeira e única vitória presidencial apoiada pela UDN, obtida por um candidato que não era udenista. Tomou posse em janeiro de 1961 e adotou uma política externa **independente**: reatou relações com a URSS, defendeu a autodeterminação de Cuba e condecorou **Che Guevara** com a Ordem do Cruzeiro do Sul — atos que romperam com o alinhamento automático aos EUA e enfureceram a direita que o elegera. No plano interno, aplicou medidas de austeridade impopulares e proibiu, por decreto, brigas de galo, biquínis em concurso de beleza e lança-perfume, o que lhe custou ridículo.
+
+Em **25 de agosto de 1961**, após sete meses, **renunciou**, alegando pressão de "forças terríveis". A hipótese mais aceita é que esperava ser reconduzido pelo clamor popular, com poderes ampliados. O Congresso simplesmente **aceitou** a renúncia.
+
+**A Campanha da Legalidade.** O vice, **João Goulart** — "Jango" —, do PTB, herdeiro político de Vargas e ex-ministro do Trabalho do aumento de 100%, estava em visita à China. Três ministros militares vetaram sua posse. Foi então que o governador do Rio Grande do Sul, **Leonel Brizola**, cunhado de Jango, organizou a resistência: ocupou a rádio, formou a **Rede da Legalidade**, com mais de uma centena de emissoras, distribuiu armas e conquistou o apoio do III Exército, sediado em Porto Alegre, cujo comandante, general Machado Lopes, recusou-se a cumprir a ordem de bombardear o Palácio Piratini. O país esteve à beira de uma guerra civil.
+
+A solução foi um **acordo**: emenda constitucional instituindo o **parlamentarismo**, que reduzia drasticamente os poderes do presidente. Jango tomou posse em setembro de 1961 nessas condições e, em **janeiro de 1963**, submeteu a questão a **plebiscito** — no qual o **presidencialismo** venceu com cerca de 80% dos votos.
+
+::: {.callout-important title="Duas lições da Campanha da Legalidade"}
+**Primeira:** as Forças Armadas **não eram um bloco monolítico**. Em 1955, Lott garantiu a posse de JK contra golpistas; em 1961, o III Exército garantiu a posse de Jango contra os ministros militares. Compreender isso é essencial para entender por que 1964 foi possível — e por que não era inevitável: o que mudou entre 1961 e 1964 foi, em boa medida, o **isolamento progressivo** dos setores legalistas dentro da corporação.
+
+**Segunda:** o parlamentarismo de 1961 foi uma solução **de emergência**, adotada não por convicção institucional, mas para esvaziar os poderes de um presidente que parte da elite considerava perigoso. Foi rejeitado por 80% dos eleitores dois anos depois — o que mostra a distância entre o arranjo negociado no Congresso e a opinião do eleitorado.
+:::
+
+**As Reformas de Base.** Com poderes plenos a partir de 1963, Jango propôs um conjunto de reformas estruturais: **agrária** (desapropriação de latifúndios improdutivos, com indenização em títulos da dívida pública, o que exigia emenda constitucional), **urbana**, **bancária**, **fiscal**, **eleitoral** (voto para analfabetos e legalização do PCB) e **universitária**. Aprovou a **Lei de Remessa de Lucros** (1962), limitando o envio de lucros ao exterior, e o **Estatuto do Trabalhador Rural** (1963), que finalmente estendeu direitos trabalhistas ao campo, vinte anos depois da CLT.
+
+**A radicalização.** O ano de 1963 foi de inflação acima de 70%, greves recordes e mobilização social sem precedentes:
+
+- as **Ligas Camponesas** de Francisco Julião, no Nordeste, exigindo "reforma agrária na lei ou na marra", e a sindicalização rural acelerada, também impulsionada pela Igreja;
+- o **CGT** (Comando Geral dos Trabalhadores), central sindical de fato ilegal, com poder de paralisar setores estratégicos;
+- a **Revolta dos Sargentos** (Brasília, setembro de 1963) e, em março de 1964, a **revolta dos marinheiros**, anistiada por Jango — episódio que rompeu o vínculo do governo com a oficialidade, para quem a quebra da hierarquia era intolerável;
+- do outro lado, a **Marcha da Família com Deus pela Liberdade** (São Paulo, 19 de março de 1964, com centenas de milhares de participantes), o **IPES/IBAD** — institutos financiados por empresários e por recursos externos, que produziam propaganda anticomunista em escala industrial [@dreifuss1981] — e a grande imprensa quase toda em oposição.
+
+**O Comício da Central (13 de março de 1964).** Diante de cerca de 150 mil pessoas no Rio, Jango assinou decretos de desapropriação de terras às margens de rodovias e ferrovias federais e de encampação de refinarias particulares, e anunciou o envio das demais reformas ao Congresso. Para seus apoiadores, foi a virada decisiva; para a oposição, a prova de que o presidente governaria por decreto, contra o Congresso — e o gatilho da mobilização final.
+
+**O golpe.** Em **31 de março de 1964**, o general **Olímpio Mourão Filho** — o mesmo que forjara o Plano Cohen em 1937 — moveu tropas de Juiz de Fora rumo ao Rio. Não houve resistência: os comandos que poderiam defender o governo aderiram ou se omitiram, e Jango, para evitar derramamento de sangue, seguiu para Brasília, depois para Porto Alegre e, em 4 de abril, para o **Uruguai**. Em **2 de abril**, com o presidente ainda em território nacional, o Congresso declarou **vaga a Presidência** — manobra juridicamente insustentável — e empossou o presidente da Câmara, Ranieri Mazzilli. Os EUA haviam preparado a **Operação Brother Sam**, uma força-tarefa naval com combustível e munição para apoiar os golpistas caso houvesse resistência prolongada; ela não chegou a ser necessária, mas sua existência, documentada em arquivos norte-americanos, comprova o **envolvimento** de Washington.
+
+## Cultura e educação: o Brasil que se pensava {#sec-cultura-1960}
+
+Entre 1958 e 1964 houve uma efervescência cultural difícil de exagerar, e quase toda ela girava em torno da mesma pergunta: **como transformar o Brasil?**
+
+- **ISEB**: o nacional-desenvolvimentismo como teoria — Hélio Jaguaribe, Nelson Werneck Sodré, Álvaro Vieira Pinto.
+- **CPC da UNE** (Centro Popular de Cultura, 1961): teatro de rua, cinema, música e cartilhas, com o objetivo declarado de produzir uma "arte popular revolucionária".
+- **Cinema Novo**: "uma câmera na mão e uma ideia na cabeça" — *Rio, 40 Graus* (1955) e *Vidas Secas* (1963), de Nelson Pereira dos Santos; *Deus e o Diabo na Terra do Sol* (1964), de Glauber Rocha; *Os Fuzis* (1964), de Ruy Guerra.
+- **Teatro de Arena** e **Teatro Oficina**, em São Paulo; *Opinião*, no Rio.
+- **Paulo Freire** e o **método** de alfabetização de adultos testado em **Angicos (RN, 1963)**, que alfabetizou 300 trabalhadores em 40 horas e propunha uma pedagogia em que ler a palavra é indissociável de ler o mundo [@freire1987]. O plano de estendê-lo a milhões tinha implicação política direta: **analfabetos não votavam**, e alfabetizá-los era ampliar o eleitorado em milhões de pessoas pobres. O programa foi extinto em abril de 1964 e Freire, preso e exilado.
+- **Bossa Nova** e, ao lado dela, a canção de protesto que se formaria nos festivais da TV a partir de 1965.
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+**Por que a democracia de 1946 morreu?** Três grandes respostas, com implicações políticas muito diferentes.
+
+**1. A tese da conspiração de classe — René Dreifuss.** Em *1964: a conquista do Estado* [@dreifuss1981], Dreifuss fez o que quase ninguém havia feito: foi aos **arquivos** do IPES (Instituto de Pesquisas e Estudos Sociais) e do IBAD, e reconstruiu nome por nome a rede de empresários, executivos de multinacionais, militares e técnicos que, desde 1961, financiou propaganda anticomunista, publicações, filmes, pesquisas de opinião, candidaturas e o treinamento de quadros. Sua conclusão: 1964 não foi reação improvisada a uma crise, e sim um **projeto de classe** preparado com anos de antecedência por um "bloco multinacional e associado", que tomou o Estado para implantar um modelo econômico definido. A força da tese está na documentação; a crítica mais frequente é que ela subestima a **autonomia** dos militares — que não governaram como executores de um empresariado, e sim segundo agenda própria — e a **contingência** dos acontecimentos de março de 1964.
+
+**2. A tese do impasse institucional — Argelina Figueiredo e Wanderley Guilherme dos Santos.** Aqui o foco se desloca da conspiração para o **funcionamento do sistema político** [@figueiredo1993; @santosWG1986]. O argumento: a Constituição de 1946 produziu um **presidencialismo com Congresso conservador**, em que um presidente reformista simplesmente não conseguia aprovar suas reformas — a reforma agrária exigia emenda constitucional, e não havia maioria para ela. Diante do bloqueio, Jango escolheu **radicalizar** (mobilizar as ruas, decretar, apostar no plebiscito da força), enquanto a oposição escolheu **paralisar**. Ambos abandonaram a via da negociação — Figueiredo mostra, com base em levantamentos legislativos, que havia margem para acordos parciais que não foram tentados. O resultado foi a **polarização** e o colapso do centro, quando moderados de ambos os lados concluíram que era preciso escolher entre "reforma" e "ordem".
+
+**3. A tese do contexto internacional.** A Guerra Fria latino-americana após a **Revolução Cubana** (1959) mudou tudo: os EUA passaram da tolerância à intervenção sistemática, com a **Aliança para o Progresso**, com programas de treinamento de policiais e militares, com financiamento de campanhas anticomunistas e, no Brasil, com a **Operação Brother Sam** (@sec-america-latina-ditaduras). A tese explica bem o **ambiente** e a **permissão** externa; é insuficiente, porém, para explicar por que o golpe encontrou tanto **apoio civil interno** — de governadores, da grande imprensa, da CNBB, de setores da classe média que foram às ruas na Marcha da Família.
+
+**4. Golpe militar ou civil-militar?** Este é o debate terminológico mais relevante e o de maior rendimento em prova. A expressão "**golpe civil-militar**", consagrada por historiadores como **Daniel Aarão Reis** e **Marcos Napolitano** [@reisDaniel2014; @napolitano2014], enfatiza que o movimento contou com apoio **civil** decisivo — empresários (IPES/IBAD), governadores como Lacerda (GB), Magalhães Pinto (MG) e Ademar de Barros (SP), quase toda a grande imprensa, a hierarquia católica, associações de classe média, milhares de manifestantes nas Marchas da Família. A crítica a essa formulação, feita por **Carlos Fico** [@fico2004], é que ela pode **diluir a responsabilidade**: quem deu o golpe, executou a repressão e governou por 21 anos foram os **militares**, e o apoio civil de 1964 encolheu drasticamente já a partir de 1968.
+
+A formulação mais precisa hoje é a que distingue os dois momentos: **golpe civil-militar** (março–abril de 1964, com ampla coalizão) que instaurou uma **ditadura militar** (1964–85, sob comando exclusivo da corporação). Usar essa distinção numa redação demonstra domínio real do debate.
+
+**5. O que as três teses têm em comum.** Todas rejeitam a explicação que circulou por décadas — a de que 1964 teria sido uma "revolução" que salvou o país de um golpe comunista iminente. Não há evidência de que Jango, o PCB ou o CGT preparassem tomada do poder; o PCB, aliás, defendia a via pacífica e institucional, e as forças à esquerda estavam divididas e desarmadas. O que havia era **mobilização social intensa e reformas redistributivas** — o que é coisa diferente, e é precisamente essa diferença que o debate historiográfico serve para estabelecer.
+
+## Resumo do capítulo {#sec-resumo}
+
+- A **Constituição de 1946** restaurou a democracia (três poderes, eleições diretas, liberdades públicas), mas manteve a **estrutura sindical corporativa** varguista e a **exclusão dos analfabetos** — cerca de metade dos adultos ainda não votava em 1960.
+- **Sistema partidário:** **PSD** (máquina varguista, centro pragmático), **PTB** (trabalhismo, crescendo a cada eleição) e **UDN** (oposição liberal-conservadora, antigetulista, tentada pelo golpe). A aliança **PSD+PTB** governou quase todo o período. O **PCB**, com ~10% dos votos em 1945, foi **cassado em 1947**.
+- **Dutra (1946–51):** alinhamento aos EUA, ruptura com a URSS, cassação do PCB, intervenção em sindicatos, liberalização das importações, **Plano SALTE**.
+- **Vargas (1951–54):** nacional-desenvolvimentismo; **Petrobras** (1953) após a campanha "**O petróleo é nosso**"; **BNDE**; aumento de 100% do salário mínimo (1954). Cercado pela UDN e por **Carlos Lacerda**, atingido pelo atentado da **Rua Tonelero** (que matou o major Rubens Vaz) e pelo Inquérito do Galeão, **suicidou-se em 24 de agosto de 1954**; a **carta-testamento** reverteu politicamente sua derrota.
+- **JK (1956–61):** **Plano de Metas**, "cinquenta anos em cinco", com tripé Estado + capital estrangeiro (**Instrução 113 da SUMOC**) + capital privado nacional. Indústria **automobilística**, hidrelétricas, rodovias e **Brasília** (Lúcio Costa e Niemeyer, inaugurada em 21/4/1960, erguida por **candangos** empurrados para as cidades-satélites). Resultados: PIB +8% a.a.; custos: **inflação**, dívida externa, **rompimento com o FMI** (1959), concentração de renda e êxodo rural.
+- **Jânio (1961):** eleito com apoio da UDN, adotou **política externa independente** (Che condecorado) e **renunciou** em 25 de agosto, apostando num clamor que não veio.
+- **Campanha da Legalidade:** **Brizola** e a Rede da Legalidade garantem a posse de **Jango** contra o veto dos ministros militares; solução de compromisso é o **parlamentarismo** (1961), rejeitado por ~80% no **plebiscito de janeiro de 1963**.
+- **Jango (1961–64):** **Reformas de Base** (agrária, urbana, bancária, fiscal, eleitoral, universitária), **Lei de Remessa de Lucros** (1962) e **Estatuto do Trabalhador Rural** (1963). Radicalização em 1963–64: inflação >70%, **Ligas Camponesas**, **CGT**, revolta dos sargentos e dos marinheiros de um lado; **Marcha da Família**, **IPES/IBAD** e a grande imprensa do outro. **Comício da Central** (13/3/1964) e **golpe em 31 de março**; Congresso declara vaga a Presidência em 2 de abril com Jango ainda no país; **Operação Brother Sam** comprova o envolvimento dos EUA.
+- **Cultura:** ISEB, **CPC da UNE**, **Cinema Novo**, Teatro de Arena, **Bossa Nova** e o método de **Paulo Freire** (Angicos, 1963) — cuja alfabetização de adultos tinha efeito eleitoral direto, já que analfabetos não votavam.
+- **Historiografia:** **Dreifuss** (golpe como projeto de classe preparado pelo **IPES/IBAD**) × **Figueiredo e Santos** (**impasse institucional**: presidente reformista com Congresso conservador; radicalização de ambos os lados e colapso do centro) × **contexto internacional** (Guerra Fria pós-Cuba, Aliança para o Progresso, Brother Sam). Sobre o nome: **golpe civil-militar** (ampla coalizão em 1964) que instaurou uma **ditadura militar** (1964–85) — distinção defendida por Reis e Napolitano e matizada por **Fico**.
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Domine: (1) o tripé partidário e por que a UDN raramente vencia; (2) o segundo Vargas e o efeito político da carta-testamento; (3) o Plano de Metas com seus resultados **e** custos; (4) a sequência Jânio → Legalidade → parlamentarismo → plebiscito; (5) o conteúdo das Reformas de Base; (6) a cadeia de radicalização de 1963–64; (7) o confronto Dreifuss × Figueiredo; (8) a distinção golpe civil-militar / ditadura militar.
+:::
+
+**1.** Caracterize o sistema partidário da República de 1946 e explique por que a **UDN** raramente vencia eleições presidenciais.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Os três partidos — todos filhos da Era Vargas.**
+
+- **PSD**: herdeiro direto da **máquina do Estado Novo** — interventores, prefeitos nomeados, funcionalismo público, chefes políticos municipais em todo o país. Partido de centro, pragmático e clientelista, com a maior capilaridade territorial e, na maior parte do período, a maior bancada.
+- **PTB**: herdeiro do **trabalhismo**, apoiado na estrutura sindical, no operariado urbano e na memória de Vargas. Nacionalista e reformista, **crescia sistematicamente** de eleição em eleição, acompanhando a urbanização do país.
+- **UDN**: **oposição** liberal-conservadora, com base nas classes médias urbanas, na grande imprensa e no antigetulismo militante; defendia liberdades públicas, moralidade administrativa e abertura ao capital estrangeiro.
+
+**Por que a UDN perdia.**
+
+1. **Aritmética eleitoral.** A aliança **PSD + PTB** somava a máquina do interior (PSD) com o voto urbano dos trabalhadores (PTB) — combinação que a UDN, restrita às classes médias urbanas e a algumas elites regionais, não tinha como superar.
+2. **Ausência de base popular.** Seu discurso moralista e antipopulista tinha pouco apelo entre os pobres, e sua defesa do livre mercado colidia com a expectativa de proteção e direitos que o trabalhismo consolidara.
+3. **Elitismo assumido.** A UDN chegou a defender restrições ao voto e desconfiava abertamente do sufrágio de massas, o que a afastava do eleitorado que se ampliava.
+
+**A consequência mais grave.** Repetidamente derrotada nas urnas, a UDN passou a buscar **atalhos**: tentou impedir a posse de JK em 1955, sustentou a "tese dos 50% + 1" para invalidar eleições vencidas com maioria simples, apoiou tentativas de golpe em 1954, 1955 e 1961, e finalmente apoiou o golpe de **1964**. Chegou ao Executivo só por vias indiretas — com Café Filho após o suicídio de Vargas, com Jânio (que não era udenista) e por fim com o regime militar. **A ironia final:** a ARENA, partido de sustentação da ditadura, absorveu boa parte de seus quadros — e a UDN, que se apresentava como o partido das liberdades, foi extinta em 1965 pelo regime que ajudara a instalar.
+:::
+
+**2.** Explique o contexto do **suicídio de Vargas** em 1954 e o efeito político da carta-testamento.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**O cerco.** Eleito em 1950 pelo voto direto, Vargas tentou um programa nacional-desenvolvimentista que o colocou entre dois fogos:
+
+- à **direita**, a UDN, a grande imprensa, o empresariado e setores militares o acusavam de corrupção, de "república sindicalista" e de tolerância com o comunismo; **Carlos Lacerda** conduzia campanha diária pedindo sua deposição;
+- à **esquerda**, o nacionalismo cobrava mais estatização e resistia a acordos com o capital estrangeiro;
+- economicamente, a inflação e a crise cambial estreitavam suas opções.
+
+O anúncio, em 1º de maio de 1954, do aumento de **100%** do salário mínimo — obra do ministro do Trabalho **João Goulart** — foi o ponto de inflexão: irritou o empresariado e, sobretudo, oficiais das Forças Armadas, cujos soldos ficariam próximos do novo mínimo, questão de status corporativo que se transformou em questão política.
+
+**O gatilho.** Na madrugada de **5 de agosto de 1954**, na **Rua Tonelero**, um atentado contra Lacerda o feriu de leve e **matou o major da Aeronáutica Rubens Vaz**, que o escoltava. O **Inquérito do Galeão**, conduzido pela Aeronáutica, apontou a guarda pessoal do presidente e seu chefe, Gregório Fortunato. Com a morte de um oficial, as Forças Armadas deixaram de ser árbitro e tornaram-se **parte ofendida**. Em 24 de agosto, um manifesto de generais exigiu a renúncia.
+
+**O ato.** Vargas suicidou-se na manhã de **24 de agosto de 1954**, deixando a **carta-testamento** [@vargas1954], que denunciava "forças e interesses contra o povo", grupos internacionais aliados a nacionais "revoltados contra o regime de garantia do trabalho" e encerrava com: "Saio da vida para entrar na História."
+
+**O efeito — que é o ponto da questão.** A carta **inverteu instantaneamente** a situação política:
+
+1. **Comoção popular imediata.** Multidões nas ruas do Rio, de Porto Alegre e de outras capitais; a embaixada dos **EUA** e as sedes de jornais oposicionistas (inclusive a *Tribuna da Imprensa*, de Lacerda) foram apedrejadas e atacadas.
+2. **Recuo dos golpistas.** Os generais que exigiam a renúncia recolheram-se; Lacerda deixou o país temporariamente; a oposição, que se preparava para assumir, foi politicamente varrida por semanas.
+3. **Fundação de um mito duradouro.** Vargas tornou-se mártir do nacionalismo e do trabalhismo, e sua memória sustentou o PTB — que **cresceu** nas eleições seguintes — e a candidatura vitoriosa de JK–Jango em 1955.
+4. **Adiamento de dez anos.** O desfecho que se anunciava em agosto de 1954 — a tomada do poder pelo campo antigetulista, com apoio militar — só se realizaria em **1964**.
+
+**Como usar isso em prova.** A carta é um exemplo modelar de fonte que deve ser lida menos por seu **valor de verdade** (há inclusive debate sobre sua autoria material) e mais por sua **eficácia como ato político**: o que ela fez ao ser lida importa mais, historicamente, do que a exatidão de cada uma de suas afirmações (@sec-fontes-historicas).
+:::
+
+**3.** Analise o **Plano de Metas** de JK: objetivos, financiamento, resultados e custos.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Objetivo.** Superar em cinco anos os "pontos de estrangulamento" da economia — energia, transporte e insumos básicos — que travavam a industrialização, sob o slogan "**cinquenta anos em cinco**". Trinta e uma metas em cinco áreas: **energia** (que recebeu cerca de 43% dos investimentos), **transporte**, **indústria de base**, **alimentação** e **educação**, mais a "meta-síntese", **Brasília**.
+
+**Financiamento — o tripé.**
+
+1. **Estado**: planejamento (Conselho de Desenvolvimento), crédito subsidiado do **BNDE**, obras de infraestrutura, empresas estatais.
+2. **Capital estrangeiro**: atraído sobretudo pela **Instrução 113 da SUMOC**, que permitia às multinacionais importar **maquinário sem cobertura cambial** — vantagem que a indústria nacional não tinha e que denunciou como discriminação. Vieram Volkswagen, Ford, GM, Willys, Mercedes.
+3. **Capital privado nacional**: sobretudo como fornecedor de autopeças, insumos e construção civil.
+
+**Resultados.**
+
+- crescimento do **PIB** em torno de **8% ao ano**, com a indústria crescendo cerca de 80% no quinquênio;
+- implantação da **indústria automobilística**: de 30 mil veículos (1957) para mais de 130 mil (1960), com nacionalização acima de 90%;
+- hidrelétricas (**Furnas**, Três Marias) e milhares de quilômetros de rodovias, incluindo a Belém–Brasília;
+- **Brasília** construída em 41 meses e inaugurada em **21 de abril de 1960**;
+- clima de otimismo nacional, amplificado pela Bossa Nova, pela Copa de 1958 e pelo reconhecimento internacional da arquitetura brasileira.
+
+**Custos.**
+
+- **inflação** de 12% (1957) para mais de 30% (1960), corroendo salários;
+- **dívida externa** crescente e crise cambial, culminando no **rompimento com o FMI** em 1959 — popular no momento, mas que fechou linhas de crédito e deixou a conta para os governos seguintes;
+- **concentração de renda** e aprofundamento das desigualdades **regionais** (o Sudeste concentrou o investimento; a SUDENE, criada em 1959 com Celso Furtado, foi resposta tardia e limitada);
+- opção **rodoviarista**, que fragilizou ferrovias e cabotagem e deixou o país dependente do petróleo e do transporte de caminhão;
+- as metas de **alimentação e educação** foram as mais negligenciadas — indicador de prioridade que não é detalhe: o Brasil industrializava-se mantendo analfabetismo e fome;
+- em **Brasília**, os **candangos** que a ergueram foram empurrados para as **cidades-satélites**, reproduzindo na capital planejada a segregação urbana que o projeto dizia superar.
+
+**Avaliação.** O Plano de Metas é o caso brasileiro exemplar de **modernização acelerada sem redistribuição**: transformou a estrutura produtiva do país em cinco anos, sem tocar na estrutura fundiária, na educação básica nem na distribuição de renda. Foi essa combinação — economia moderna sobre sociedade desigual — que produziu, poucos anos depois, tanto a pressão por **Reformas de Base** quanto a reação que se opôs a elas.
+:::
+
+**4.** Explique a **renúncia de Jânio Quadros** e a **Campanha da Legalidade**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**A eleição e o governo.** Jânio venceu em 1960 com apoio da **UDN**, símbolo da **vassoura** e promessa de "varrer a corrupção" — o maior número de votos até então dado a um presidente. Sete meses de governo bastaram para isolá-lo:
+
+- **política externa independente**: reatamento com a **URSS**, defesa da autodeterminação de **Cuba** e condecoração de **Che Guevara** com a Ordem do Cruzeiro do Sul, o que enfureceu a direita que o elegera (Lacerda rompeu publicamente);
+- **austeridade econômica** para conter a inflação herdada, o que desagradou os setores populares;
+- **decretos excêntricos** (proibição de brigas de galo, de lança-perfume e de biquíni em concurso de beleza), que o expuseram ao ridículo.
+
+**A renúncia (25 de agosto de 1961).** Jânio renunciou alegando pressão de "forças terríveis". A interpretação predominante é que se tratava de um **cálculo político**: esperava que o Congresso e a opinião pública o reconduzissem com **poderes ampliados**, livre da tutela partidária. O Congresso, porém, simplesmente **aceitou** a renúncia no mesmo dia.
+
+**A crise sucessória.** O vice era **João Goulart** — do PTB, herdeiro de Vargas, ex-ministro do Trabalho do aumento de 100% —, então em viagem à China, o que a direita explorou como prova de simpatia comunista. Os **três ministros militares** vetaram sua posse por meio de manifesto, alegando risco à segurança nacional. O veto era abertamente inconstitucional.
+
+**A Campanha da Legalidade.** O governador do Rio Grande do Sul, **Leonel Brizola**, cunhado de Jango, organizou a resistência a partir de Porto Alegre:
+
+- montou a **Rede da Legalidade**, cadeia de mais de cem emissoras de rádio que transmitiam apelos à defesa da Constituição;
+- distribuiu armas a voluntários e organizou a defesa do Palácio Piratini;
+- obteve a adesão do **III Exército**, cujo comandante, general **Machado Lopes**, recusou-se a cumprir a ordem de bombardear o palácio.
+
+O país esteve **à beira de uma guerra civil**, com forças armadas divididas entre si.
+
+**A solução de compromisso.** O Congresso aprovou uma emenda instituindo o **parlamentarismo**, que reduzia drasticamente os poderes presidenciais. Jango tomou posse em **7 de setembro de 1961** nessas condições. Em **janeiro de 1963**, um **plebiscito** restaurou o **presidencialismo** com cerca de **80%** dos votos.
+
+**As duas lições.** Primeira: as Forças Armadas **não eram monolíticas** — em 1955 o general Lott garantiu a posse de JK, em 1961 o III Exército garantiu a de Jango. O que mudou até 1964 foi o **isolamento progressivo** dos legalistas dentro da corporação, o que ajuda a explicar por que a resistência não se repetiu. Segunda: o parlamentarismo não foi uma reforma institucional pensada, e sim um **expediente** para esvaziar um presidente indesejado — e o eleitorado o rejeitou por ampla margem assim que teve oportunidade.
+:::
+
+**5.** Quais eram as **Reformas de Base** e por que provocaram tanta reação?
+
+::: {.callout-tip collapse="true" title="Solução"}
+**O conteúdo.**
+
+- **Reforma agrária**: desapropriação de latifúndios improdutivos com indenização em **títulos da dívida pública**, e não em dinheiro à vista como exigia a Constituição de 1946 — razão pela qual dependia de **emenda constitucional**, que exigia maioria qualificada inexistente no Congresso.
+- **Reforma urbana**: regulação da propriedade urbana, controle de aluguéis, acesso à moradia.
+- **Reforma bancária e fiscal**: controle do crédito, tributação progressiva.
+- **Reforma eleitoral**: **voto para analfabetos** (metade dos adultos!) e para praças, e **legalização do PCB**.
+- **Reforma universitária**: ampliação de vagas, fim da cátedra vitalícia, autonomia.
+- Complementadas por medidas já aprovadas: a **Lei de Remessa de Lucros** (1962), que limitava o envio de lucros ao exterior, e o **Estatuto do Trabalhador Rural** (1963), que estendeu ao campo os direitos trabalhistas — vinte anos depois da CLT.
+
+**Por que a reação foi tão intensa.**
+
+1. **Atingiam o núcleo da propriedade.** A reforma agrária tocava a estrutura fundiária, intocada desde a Lei de Terras de 1850 (@sec-segundo-reinado) e base econômica e política de boa parte da elite. A reforma urbana ameaçava proprietários das cidades.
+2. **Alterariam permanentemente o eleitorado.** Dar voto a **analfabetos** significava incorporar milhões de eleitores pobres — e, previsivelmente, favorecer o PTB, que já crescia a cada pleito. Não era uma reforma qualquer: era a mudança das regras do jogo em favor de quem propunha a mudança, e assim foi lida pela oposição.
+3. **Legalizar o PCB era inaceitável em plena Guerra Fria**, três anos depois da **Revolução Cubana** e um ano depois da crise dos mísseis.
+4. **O método assustou tanto quanto o conteúdo.** Sem maioria no Congresso, Jango passou a apostar na **pressão das ruas** — o **Comício da Central** (13 de março de 1964), com 150 mil pessoas e decretos assinados em praça pública, foi lido pela oposição como anúncio de que o presidente governaria **por decreto**, contra o Legislativo.
+5. **A quebra da hierarquia militar.** A **Revolta dos Sargentos** (1963) e a **revolta dos marinheiros** (março de 1964), esta anistiada por Jango, foram decisivas: para a oficialidade, a indisciplina tolerada pelo presidente ameaçava a própria existência das Forças Armadas como instituição. Vários historiadores consideram esse o fator que converteu a hesitação militar em adesão ao golpe.
+6. **Havia uma máquina pronta para amplificar tudo isso.** O **IPES/IBAD**, financiado por empresários e por recursos externos, produzia desde 1961 filmes, publicações, pesquisas e propaganda anticomunista em escala industrial [@dreifuss1981]; a grande imprensa era quase toda oposicionista.
+
+**Conclusão.** As Reformas de Base eram, em conteúdo, um programa de **capitalismo reformista** — comparável ao que já vigorava em vários países europeus e ao que a própria **Aliança para o Progresso** norte-americana recomendava no papel. Foram lidas, num ambiente de Guerra Fria e de polarização interna, como **antessala da revolução**. A distância entre o que as reformas eram e o que se acreditou que fossem é parte essencial da explicação de 1964.
+:::
+
+**6.** (Estilo ENEM) Leia o texto.
+
+> "Mais uma vez, as forças e os interesses contra o povo coordenaram-se e novamente se desencadeiam sobre mim. […] A campanha subterrânea dos grupos internacionais aliou-se à dos grupos nacionais revoltados contra o regime de garantia do trabalho. […] Nada mais vos posso dar a não ser meu sangue. […] Serenamente dou o primeiro passo no caminho da eternidade e saio da vida para entrar na História."
+>
+> — Getúlio Vargas, carta-testamento, 24 de agosto de 1954 [@vargas1954]
+
+O documento, além de registrar o suicídio do presidente, teve como principal efeito político imediato
+
+**(a)** viabilizar a imediata ascensão da UDN ao poder, com apoio popular majoritário.
+**(b)** produzir intensa comoção popular que desarticulou momentaneamente a oposição e adiou a ruptura institucional.
+**(c)** provocar a dissolução do PTB e o fim da influência trabalhista na política brasileira.
+**(d)** garantir a aprovação imediata das Reformas de Base pelo Congresso Nacional.
+**(e)** encerrar a intervenção dos Estados Unidos nos assuntos internos do país.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (b).** A carta é construída como **acusação e legado**: identifica inimigos ("forças e interesses contra o povo", "grupos internacionais", "grupos nacionais revoltados contra o regime de garantia do trabalho"), oferece o próprio corpo como prova ("nada mais vos posso dar a não ser meu sangue") e projeta o autor para além da disputa imediata ("saio da vida para entrar na História").
+
+O efeito foi imediato e mensurável: multidões saíram às ruas no Rio, em Porto Alegre e em outras capitais; a **embaixada dos Estados Unidos** e as sedes de jornais oposicionistas foram apedrejadas; **Carlos Lacerda** deixou o país temporariamente; os generais que horas antes exigiam a renúncia recuaram. A ruptura institucional que se desenhava em agosto de 1954 foi **adiada por dez anos**, até 1964.
+
+Por que as demais estão erradas:
+
+- **(a)** ocorreu o oposto: a UDN foi politicamente atropelada pela comoção e, no ano seguinte, perdeu a eleição para **JK–Jango**, herdeiros políticos de Vargas;
+- **(c)** o **PTB cresceu** após 1954, e o trabalhismo permaneceu força central até 1964 — a memória de Vargas foi um de seus principais ativos;
+- **(d)** as Reformas de Base são pauta do governo **Goulart**, quase uma década depois, e nunca foram aprovadas pelo Congresso;
+- **(e)** a atuação norte-americana na política brasileira **intensificou-se** nos anos seguintes, com a Aliança para o Progresso e, em 1964, com a **Operação Brother Sam**.
+
+**Observação de método.** A alternativa correta não afirma que as acusações da carta sejam verdadeiras. Ela descreve o **efeito** do documento. Distinguir "o que a fonte afirma" de "o que a fonte produziu" é exatamente o tipo de leitura que as bancas cobram.
+:::
+
+**7.** (Estilo vestibular — dissertativa) Confronte as explicações de **René Dreifuss** e de **Argelina Figueiredo** para o golpe de 1964 e avalie a expressão "golpe civil-militar".
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Dreifuss: 1964 como projeto de classe.** Em *1964: a conquista do Estado* [@dreifuss1981], o autor examinou os arquivos do **IPES** e do **IBAD** e reconstruiu a rede que, desde 1961, articulou empresários nacionais, executivos de multinacionais, militares e técnicos. Documentou financiamento de campanhas eleitorais, produção de filmes e publicações, pesquisas de opinião, cursos de formação de quadros e a elaboração de projetos de lei prontos para aplicação. Sua conclusão: o golpe não foi reação improvisada a uma crise, mas a **tomada do Estado por um bloco de classe** ("multinacional e associado") com projeto econômico definido — o que explicaria a rapidez com que o novo governo aplicou, já em 1964, um programa de estabilização e abertura ao capital externo.
+
+**Força:** a evidência documental é robusta e mudou o patamar do debate. **Limite:** tende a subestimar a **autonomia** dos militares — que não governaram como executores de um empresariado, mas segundo doutrina e interesses corporativos próprios — e a **contingência** dos dias de março, em que o desfecho dependeu de adesões e omissões decididas em poucas horas.
+
+**Figueiredo: 1964 como colapso institucional.** Em *Democracia ou reformas?* [@figueiredo1993], a autora desloca o foco para o **funcionamento do sistema político**. O presidencialismo de 1946 combinava um Executivo reformista com um Congresso conservador: a reforma agrária, por exigir **emenda constitucional**, não tinha os votos necessários. Diante do bloqueio, cada lado escolheu a estratégia máxima — Jango apostou na **mobilização das ruas** e nos decretos; a oposição apostou na **paralisia** e depois na ruptura. Figueiredo mostra, com base em levantamentos das votações e negociações, que **existiam alternativas de acordo parcial** que não foram exploradas. O resultado foi a polarização, o esvaziamento do centro e a conversão de moderados à ideia de que era preciso escolher entre "reforma" e "ordem". Wanderley Guilherme dos Santos chega a conclusão convergente pela análise da paralisia decisória [@santosWG1986].
+
+**Força:** explica por que atores moderados aderiram ao golpe e devolve **agência e responsabilidade** aos protagonistas, em vez de tratá-los como executores de um plano. **Limite:** pode subdimensionar o peso do dinheiro, da propaganda organizada e da pressão externa que **produziram** a polarização — que não brotou espontaneamente do jogo institucional.
+
+**Como articulá-las.** As duas operam em níveis distintos e são combináveis: Dreifuss explica **quem preparou e financiou** a ruptura e com que projeto; Figueiredo explica **por que o sistema político não conseguiu absorver** o conflito e por que tanta gente sem projeto golpista acabou aderindo. Some-se o **contexto internacional** — Guerra Fria pós-Cuba, Aliança para o Progresso, **Operação Brother Sam** — e se tem uma explicação em três níveis: estrutural, institucional e conjuntural.
+
+**A expressão "golpe civil-militar".** Consagrada por **Daniel Aarão Reis** e **Marcos Napolitano** [@reisDaniel2014; @napolitano2014], ela registra um fato incontestável: o movimento de 1964 teve **apoio civil decisivo** — empresariado organizado (IPES/IBAD), governadores (Lacerda na Guanabara, Magalhães Pinto em Minas, Ademar de Barros em São Paulo), quase toda a grande imprensa, a hierarquia católica, entidades de classe média e centenas de milhares de manifestantes nas **Marchas da Família**. Sem essa coalizão, o golpe teria sido muito mais difícil, e talvez impossível.
+
+**A ressalva de Carlos Fico** [@fico2004] é igualmente pertinente: a expressão, se usada sem cuidado, **dilui responsabilidades**. Quem tomou o poder, editou os atos institucionais, montou o aparato repressivo, torturou e governou por 21 anos foram os **militares**; e o apoio civil de 1964 encolheu drasticamente a partir de 1968, quando parte dos que aplaudiram passou à oposição — ou à cadeia.
+
+**A formulação recomendada.** Distinguir os dois momentos: um **golpe civil-militar** em março–abril de 1964, apoiado por ampla coalizão social, que instaurou uma **ditadura militar** de 1964 a 1985, comandada exclusivamente pela corporação. A distinção é historicamente precisa e evita tanto apagar a participação civil quanto transferir aos civis a responsabilidade pelo que os militares fizeram.
+:::
+
+**8.** Explique o significado político do método de alfabetização de **Paulo Freire** no contexto de 1963–64.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**O método.** Testado em **Angicos (RN)** em 1963, alfabetizou cerca de 300 trabalhadores em **40 horas**. Partia de "palavras geradoras" retiradas do universo concreto dos alunos — *tijolo*, *voto*, *salário*, *enxada* — que eram simultaneamente decompostas em sílabas (aprendizado da escrita) e discutidas em roda (aprendizado da análise da própria situação). O princípio, que Freire formularia depois em *Pedagogia do oprimido* [@freire1987], é que **ler a palavra e ler o mundo** são operações inseparáveis: o adulto não é uma criança grande nem um recipiente vazio, e sim alguém que já sabe muito sobre sua vida e a quem cabe apropriar-se da escrita como instrumento.
+
+**Por que isso era político — e explicitamente.**
+
+1. **Efeito eleitoral direto.** A Constituição de 1946 **proibia analfabetos de votar**, e em 1963 cerca de **metade** da população adulta brasileira era analfabeta, concentrada no campo, no Nordeste e entre os mais pobres. Alfabetizar em massa significava, na prática, **ampliar o eleitorado em milhões de pessoas** — as mesmas que mais teriam a ganhar com as Reformas de Base. Um plano nacional estava sendo montado, com meta de milhões de alfabetizandos.
+2. **Efeito organizativo.** O método formava pessoas capazes de nomear sua própria condição — latifúndio, salário, direito, sindicato — o que se somava à sindicalização rural e às **Ligas Camponesas** em curso no Nordeste.
+3. **Efeito simbólico.** Contrariava a ideia, então corrente, de que o povo brasileiro era "despreparado" para a política e precisava de tutela — argumento que a UDN e setores militares usavam havia décadas.
+
+**O desfecho.** O golpe de **abril de 1964** extinguiu o programa em suas primeiras semanas. **Paulo Freire** foi preso por cerca de 70 dias, interrogado e **exilado**: passou pela Bolívia, pelo Chile (onde escreveu *Pedagogia do oprimido*), pelos EUA e pela Suíça, retornando ao Brasil apenas em 1980, com a anistia. Em seu lugar, o regime criou em 1967 o **MOBRAL**, programa de alfabetização funcional, tecnicamente instrumental e deliberadamente esvaziado de conteúdo crítico — a comparação entre os dois programas é uma das melhores maneiras de entender o projeto educacional de cada regime.
+
+**A lição.** O episódio mostra que **educação nunca é politicamente neutra**, e que em sociedades com sufrágio restrito por critério de instrução, alfabetizar é literalmente redistribuir poder. É também um lembrete de que Freire, hoje o educador brasileiro mais citado no mundo, foi perseguido em seu próprio país por ensinar adultos pobres a ler.
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- FIGUEIREDO, Argelina. *Democracia ou reformas?* [@figueiredo1993] e SANTOS, Wanderley Guilherme dos. *Sessenta e quatro: anatomia da crise* [@santosWG1986]. As análises do impasse institucional.
+- DREIFUSS, René. *1964: a conquista do Estado* [@dreifuss1981]. Denso, documentadíssimo; leia ao menos a introdução e o capítulo sobre o IPES.
+- SKIDMORE, Thomas. *Brasil: de Getúlio a Castello* [@skidmore2010]. A melhor narrativa política do período em livro único.
+- FERREIRA, Jorge (org.). *O populismo e sua história* [@ferreira2001]. Indispensável para os debates sobre Vargas, Jango e o trabalhismo.
+- FURTADO, Celso. *Formação econômica do Brasil* [@furtado2007]. Escrito em 1959, no coração do desenvolvimentismo — leia-o também como **fonte** do período, e não só como análise.
+- NEGRO, Antonio Luigi; SILVA, Fernando Teixeira da. *Trabalhadores, sindicatos e política* [@negro2006]. Para ver o período de baixo para cima.
+
+**Fontes primárias**
+
+- A **carta-testamento** de Vargas [@vargas1954]. Uma página; leia-a inteira e depois pergunte-se por que funcionou.
+- FREIRE, Paulo. *Pedagogia do oprimido* [@freire1987]. Escrito no exílio chileno, é a formulação teórica do que foi interrompido em 1964.
+- Os documentos da **Operação Brother Sam**, desclassificados pelos EUA e disponíveis no *National Security Archive*, e as gravações da Casa Branca de 31 de março de 1964.
+- Os jornais de março de 1964 (*O Globo*, *Correio da Manhã*, *Última Hora*), digitalizados: comparar as manchetes dos dias 1 e 2 de abril nos diferentes jornais é um exercício de crítica de fonte que vale por um capítulo inteiro (@sec-fontes-historicas).
+
+**Filmes e documentários**
+
+- *Jango* (1984), dir. Silvio Tendler. Documentário fundamental sobre o período, feito assim que a censura permitiu.
+- *O Ano em que Meus Pais Saíram de Férias* (2006), dir. Cao Hamburger — ambientado em 1970, mas iluminando o que se seguiu ao que este capítulo narra.
+- *Vidas Secas* (1963), *Deus e o Diabo na Terra do Sol* (1964) e *Os Fuzis* (1964): o Cinema Novo filmando o Brasil às vésperas do golpe.
+- *Brasília: Contradições de uma Cidade Nova* (1967), dir. Joaquim Pedro de Andrade. Curta encomendado para celebrar a capital e que acabou mostrando as cidades-satélites — foi censurado.
