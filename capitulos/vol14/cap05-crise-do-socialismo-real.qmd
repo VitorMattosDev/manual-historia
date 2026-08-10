@@ -1,5 +1,432 @@
 # O socialismo real e o fim da URSS {#sec-crise-do-socialismo-real}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Na tarde de 9 de novembro de 1989, o porta-voz do Partido Socialista Unificado da Alemanha Oriental, **Günter Schabowski**, deu uma entrevista coletiva de rotina. Havia recebido, minutos antes, um papel com uma nova regulamentação de viagens ao exterior, e não tivera tempo de lê-la direito. Um jornalista italiano perguntou quando as novas regras entrariam em vigor. Schabowski folheou os papéis, hesitou e respondeu: "Pelo que sei… imediatamente, sem demora." Não era o que o documento dizia — previa-se um procedimento burocrático a começar no dia seguinte. Mas a frase foi ao ar na televisão, e naquela noite milhares de berlinenses orientais foram até os postos de fronteira exigir passagem. Os guardas, sem ordens, telefonaram para cima e não obtiveram resposta. Por volta das onze da noite, um oficial de posto decidiu, por conta própria, erguer a cancela. O muro que dividira a Europa por 28 anos foi aberto não por um tratado nem por uma revolução, mas por um mal-entendido de uma coletiva de imprensa — o que só foi possível porque, àquela altura, ninguém mais estava disposto a atirar para mantê-lo de pé. Este capítulo explica por quê.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- definir **socialismo real** e caracterizar o funcionamento de uma economia **planificada**;
+- avaliar as realizações e os limites estruturais do modelo soviético;
+- narrar a URSS de **Stálin a Brejnev**, a **desestalinização** e a **estagnação**;
+- explicar a **Doutrina Brejnev** e a repressão a **Budapeste** (1956) e à **Primavera de Praga** (1968);
+- caracterizar a resistência no Leste Europeu, com destaque para o **Solidariedade** polonês;
+- explicar a **glasnost**, a **perestroika** e o papel de **Gorbachev**;
+- narrar as **revoluções de 1989** e a **dissolução da URSS** em 1991;
+- comparar o caminho **chinês** de **Deng Xiaoping** com o soviético;
+- discutir as interpretações sobre **por que o socialismo real ruiu** e a tese do "fim da História".
 :::
+
+## O que era o "socialismo real" {#sec-o-que-era}
+
+::: {.callout-note title="Conceito: socialismo real"}
+**Socialismo real** (ou "socialismo realmente existente") é a expressão usada — inclusive **pelos próprios regimes**, o que é revelador — para designar os sistemas efetivamente implantados na URSS e nos países que seguiram seu modelo, em contraste com o socialismo **idealizado** pela teoria.
+
+Seus traços definidores:
+
+- **propriedade estatal** dos meios de produção: fábricas, bancos, terras, transportes e comércio pertencem ao Estado;
+- **planejamento central**: um órgão de planejamento — na URSS, o **Gosplan** — define metas de produção, preços, salários e investimentos em planos quinquenais, substituindo o mercado como mecanismo de coordenação;
+- **partido único**, com monopólio da atividade política e controle sobre imprensa, sindicatos, escolas e associações;
+- uma camada dirigente de administradores e funcionários do partido, a **nomenklatura**, sem propriedade privada dos meios de produção, mas com acesso privilegiado a bens, moradia, viagens e serviços.
+
+O próprio uso do adjetivo "real" era uma admissão embaraçosa: reconhecia-se implicitamente a distância entre o que existia e o que se prometera.
+:::
+
+**O que o modelo realizou — e ignorar isso é fazer má história.** A Rússia de 1917 era um país agrário, majoritariamente analfabeto e periférico (@sec-revolucao-russa). Em cerca de quatro décadas, a URSS industrializou-se, derrotou a Wehrmacht no principal teatro da Segunda Guerra (@sec-segunda-guerra-mundial), alfabetizou praticamente toda a população, construiu um sistema universal de saúde e educação gratuitas, garantiu emprego, moradia subsidiada e aposentadoria a todos, promoveu a incorporação massiva das mulheres ao trabalho qualificado e às profissões científicas — em proporções muito superiores às do Ocidente na mesma época — e lançou o primeiro satélite e o primeiro ser humano ao espaço. Nos anos 1950 e no início dos 1960, o crescimento soviético era mais rápido que o americano, e não era irracional supor que o modelo pudesse vencer a competição.
+
+**Os limites estruturais.** A partir dos anos 1970, o desempenho deteriorou-se de forma persistente, e as razões não eram conjunturais:
+
+1. **O problema da informação.** Numa economia de mercado, os preços transmitem, de forma descentralizada, informação sobre escassez e preferências. Sem eles, o planejador precisaria conhecer antecipadamente as necessidades de milhões de pessoas e as capacidades de dezenas de milhares de empresas — tarefa que nenhum órgão consegue cumprir. O resultado é o desajuste crônico entre o que se produz e o que se precisa.
+2. **A economia da escassez.** O economista húngaro **János Kornai** mostrou que o problema não era acidental, e sim sistêmico: como as empresas socialistas tinham **restrição orçamentária branda** — não iam à falência, porque o Estado sempre cobria o prejuízo —, elas acumulavam insumos e trabalhadores em excesso por precaução, gerando escassez permanente em toda a cadeia. Filas e desabastecimento não eram falha de execução; eram produto lógico do arranjo [@kornai1992].
+3. **Prioridade à indústria pesada.** Aço, cimento, máquinas e armamentos eram medidos e premiados; bens de consumo, moradia e alimentos, não. O cidadão soviético dos anos 1980 vivia num país capaz de construir estações espaciais e incapaz de garantir papel higiênico ou carne com regularidade — e esse contraste era ele próprio uma força política corrosiva.
+4. **Baixa inovação.** Sem concorrência nem risco de falência, e com prêmios atrelados a metas quantitativas, faltava incentivo para melhorar qualidade ou desenvolver produtos novos. A defasagem tornou-se dramática justamente na tecnologia que definiria o fim do século: a **informática**.
+5. **Agricultura ineficiente.** A coletivização stalinista deixou marcas duradouras. A URSS, com as terras negras mais férteis do mundo, tornou-se **importadora** de cereais nos anos 1970 — dependente de comprar trigo dos Estados Unidos.
+6. **Gasto militar esmagador.** Estimativas situam-no entre 15% e 20% do PIB soviético, contra cerca de 6% nos EUA. Uma economia menor sustentava paridade militar com uma economia maior, drenando recursos que faltavam em todo o resto.
+7. **Dependência do petróleo.** A partir dos anos 1970, as exportações de petróleo e gás sustentaram as importações de alimentos e tecnologia e adiaram qualquer reforma. Quando o preço do barril **despencou em 1986**, a conta chegou de uma vez.
+
+## Da desestalinização à estagnação {#sec-desestalinizacao-estagnacao}
+
+**Stálin** morreu em **5 de março de 1953**. Em 1956, no XX Congresso do PCUS, **Nikita Khruschev** denunciou a portas fechadas o culto à personalidade, as purgas e as prisões arbitrárias do período anterior [@khruschev1956]. A **desestalinização** libertou milhões de presos do Gulag, reduziu o terror como método corrente de governo e abriu um período de relativo degelo cultural. Mas fixou também os limites do que era reformável: criticava-se o "culto à personalidade" — um desvio pessoal —, não o sistema de partido único que o tornara possível. O relatório vazou em semanas e provocou crises em partidos comunistas do mundo inteiro, além de contribuir para o **rompimento sino-soviético** (@sec-ordem-bipolar).
+
+**A repressão dentro do bloco** mostrou onde estava a linha. Em **Berlim Oriental** (1953), uma greve operária foi esmagada por tanques soviéticos. Na **Hungria** (outubro–novembro de 1956), um levante popular levou ao poder o reformista **Imre Nagy**, que anunciou pluripartidarismo e a saída do Pacto de Varsóvia; o Exército Vermelho invadiu, cerca de 2.500 húngaros morreram, 200 mil fugiram do país e Nagy foi executado em 1958. Na **Tchecoslováquia**, a **Primavera de Praga** (1968) de **Alexander Dubček** propôs um "socialismo com face humana", com liberdade de imprensa e democratização interna do partido — e foi encerrada pela invasão de tropas do Pacto de Varsóvia em agosto.
+
+::: {.callout-note title="Conceito: Doutrina Brejnev"}
+Formulada em novembro de 1968 para justificar a invasão da Tchecoslováquia: a soberania dos países socialistas é **limitada** pelos interesses do socialismo como um todo, e a URSS tem o direito — e o dever — de intervir onde considerar o socialismo ameaçado.
+
+É a versão soviética do princípio que a Doutrina Truman e depois a Doutrina Johnson estabeleceram para o outro lado (@sec-ordem-bipolar; @sec-conflitos-guerra-fria), e sua importância aparece sobretudo quando ela é **abandonada**: em 1989, ao anunciar que não intervir seria a nova regra, Gorbachev retirou o único esteio que sustentava os governos do Leste Europeu.
+:::
+
+O período **Brejnev** (1964–1982) ficou conhecido como a "**era da estagnação**": estabilidade política, previsibilidade, elevação lenta do padrão de vida na década de 1970 — e, ao mesmo tempo, queda contínua das taxas de crescimento, envelhecimento da liderança, corrupção generalizada, cinismo social e imobilismo. O período fechou-se com a invasão do **Afeganistão** (dezembro de 1979), que se tornaria o "Vietnã soviético": dez anos de guerra, cerca de 15 mil militares soviéticos mortos, mais de um milhão de afegãos, e um adversário — os **mujahidin** — armado e financiado pelos EUA, pelo Paquistão e pela Arábia Saudita, com consequências que reapareceriam décadas depois (@sec-oriente-medio; @sec-nova-ordem-mundial). A retirada ocorreu em **fevereiro de 1989**.
+
+## O Leste Europeu e a resistência {#sec-leste-europeu}
+
+Os regimes do Leste Europeu tinham um problema de origem: não haviam nascido de revoluções internas, mas da presença do Exército Vermelho ao fim da guerra [@applebaum2017]. Sua legitimidade era, portanto, frágil e derivada — e dependia, em última instância, da disposição soviética de intervir.
+
+A **Polônia** foi o elo mais fraco, por três razões cumulativas: nacionalismo antirrusso de longa data, uma **Igreja Católica** poderosa e independente do Estado, e uma classe operária concentrada e combativa. Dois acontecimentos foram decisivos. Em **outubro de 1978**, o cardeal polonês **Karol Wojtyła** foi eleito papa como **João Paulo II**; sua visita ao país, em junho de 1979, reuniu multidões de milhões de pessoas e produziu um efeito difícil de exagerar — mostrou aos poloneses **quantos eram** e que o regime não controlava tudo. Em agosto de **1980**, uma greve no estaleiro Lênin, em **Gdańsk**, liderada pelo eletricista **Lech Wałęsa**, deu origem ao **Solidariedade**, o primeiro sindicato independente do bloco soviético, que chegou a **dez milhões de filiados** — um quarto da população adulta do país. O governo de **Jaruzelski** decretou lei marcial em dezembro de 1981 e prendeu a direção do movimento, mas não conseguiu destruí-lo: o Solidariedade sobreviveu na clandestinidade e voltaria a negociar em 1989.
+
+Em outros países, a resistência foi menos massiva e mais intelectual. Na Tchecoslováquia, a **Carta 77**, movimento de dissidentes entre os quais o dramaturgo **Václav Havel**, cobrava do governo o cumprimento dos direitos humanos que ele próprio assinara nos **Acordos de Helsinque** (1975) — estratégia inteligente que usava a assinatura oficial contra o regime. No ensaio *O poder dos sem poder*, Havel descreveu o sistema como sustentado menos pela crença que pelo **conformismo cotidiano**: o quitandeiro que põe na vitrine o cartaz "Proletários de todo o mundo, uni-vos!" não acredita nele, e todos sabem que não acredita; ele o põe para não ter problemas. Bastaria, argumentava Havel, "viver na verdade" — recusar-se a participar da mentira — para que o edifício revelasse sua fragilidade [@havel2013]. Em 1989, foi mais ou menos o que aconteceu.
+
+## Gorbachev: glasnost e perestroika {#sec-gorbachev}
+
+Depois de três dirigentes idosos que morreram em rápida sucessão, o Partido Comunista escolheu, em **março de 1985**, um secretário-geral de 54 anos: **Mikhail Gorbachev**. Seu diagnóstico era o de um comunista convicto: o sistema estava doente, mas curável, e a doença chamava-se burocracia, corrupção, mentira e falta de iniciativa. Suas duas palavras-chave tornaram-se conhecidas no mundo inteiro:
+
+- **glasnost** ("transparência"): fim da censura prévia, debate público sobre problemas reais, revisão crítica do passado — publicaram-se **Soljenítsin** [@soljenitsyn2019] e os arquivos das purgas, e discutiu-se em jornal o que antes só se dizia na cozinha;
+- **perestroika** ("reestruturação"): autonomia para as empresas estatais, autorização de cooperativas privadas, abertura ao investimento estrangeiro e, a partir de 1988–89, **eleições com mais de um candidato** e um novo parlamento com debates transmitidos ao vivo pela televisão [@gorbachev1987].
+
+No plano externo, Gorbachev acabou com a Guerra Fria em quatro anos: o tratado **INF** com Reagan (1987) eliminou uma classe inteira de mísseis; a retirada do **Afeganistão** foi concluída em 1989; e, sobretudo, ele **abandonou a Doutrina Brejnev** — cada país socialista faria "à sua maneira", brincou um porta-voz soviético, batizando a nova orientação de "**Doutrina Sinatra**".
+
+::: {.callout-warning title="Por que a reforma acelerou o colapso em vez de evitá-lo"}
+Gorbachev queria salvar o socialismo, e o desmontou. As razões estão entre as questões mais discutidas da história recente, e três mecanismos são amplamente reconhecidos:
+
+1. **A glasnost destruiu a legitimidade mais rápido do que a perestroika produziu resultados.** Quando se pode dizer publicamente que os planos não funcionam, que houve massacres, que os dirigentes vivem melhor que os operários e que o padrão de vida do Ocidente é superior, a paciência acumulada durante décadas se esgota. Enquanto isso, as reformas econômicas — meias-medidas entre plano e mercado — desorganizaram o sistema de suprimentos antigo **sem** criar um novo, e o desabastecimento **piorou**.
+2. **A liberdade de expressão liberou o nacionalismo.** A URSS era um Estado **multinacional**, com quinze repúblicas e mais de cem nacionalidades, mantido coeso pelo partido, pela repressão e por uma ideologia comum. Com os três enfraquecidos ao mesmo tempo, o que emergiu foi a reivindicação nacional — nos bálticos, no Cáucaso, na Ucrânia. Em agosto de 1989, dois milhões de pessoas formaram uma corrente humana de 600 km ligando as três capitais bálticas, a "Via Báltica".
+3. **O fim da Doutrina Brejnev retirou o alicerce dos regimes-satélites.** Os governos do Leste Europeu se sustentavam, em última instância, sobre a certeza de que os tanques soviéticos viriam se necessário — como em 1953, 1956 e 1968. Anunciar que não viriam mais equivalia a informar às populações que a repressão tinha limite. Elas testaram, e o limite era real.
+
+Um ponto que costuma passar despercebido: Gorbachev tinha, em cada momento, a **opção da força** — e recusou-a de forma sistemática, mesmo em 1989 e em 1991. Isso é uma escolha, e não um dado estrutural. É por essa razão que interpretações puramente econômicas do colapso deixam algo importante de fora.
+:::
+
+## 1989: o ano das revoluções {#sec-1989}
+
+Em pouco mais de seis meses, todos os regimes comunistas do Leste Europeu caíram, quase todos sem violência.
+
+::: {#fig-1989-leste-europeu}
+
+```{.tikz}
+%%| filename: fig-1989-leste-europeu
+%%| alt: Linha do tempo do ano de 1989 no Leste Europeu, da eleição polonesa em junho à execução de Ceausescu em dezembro.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \node[draw, very thick, rounded corners, fill=manualblue!16, align=center, text width=13.4cm, text=manualblue] (g) at (0,3.0)
+    {\textbf{A CONDIÇÃO DE POSSIBILIDADE:} Gorbachev abandona a \textbf{Doutrina Brejnev} --- ``cada país à sua maneira''.\\ Sem a garantia da intervenção soviética, os regimes do Leste ficam sozinhos diante de suas próprias sociedades.};
+
+  \draw[eixo] (0,0) -- (14.4,0);
+  \node[eixo, gray] at (14.4,-0.4) {1989 $\rightarrow$ 1991};
+
+  \node[ponto] at (0.9,0) {};
+  \node[below, align=center] at (0.9,-0.18) {\textbf{4 jun.}};
+  \node[above, align=center, text=manualgreen!45!black] at (0.9,0.2) {\textbf{POLÔNIA}\\ eleições semilivres\\ \textbf{Solidariedade} vence\\ todas as cadeiras\\ em disputa};
+
+  \node[ponto] at (3.3,0) {};
+  \node[below, align=center] at (3.3,-0.18) {\textbf{ago.--set.}};
+  \node[above, align=center, text=manualgreen!45!black] at (3.3,0.2) {\textbf{HUNGRIA}\\ abre a fronteira\\ com a Áustria:\\ o bloco tem\\ um \textbf{furo}};
+
+  \node[ponto] at (5.7,0) {};
+  \node[below, align=center] at (5.7,-0.18) {\textbf{9 nov.}};
+  \node[above, align=center, text=manualred] at (5.7,0.2) {\textbf{MURO DE BERLIM}\\ aberto após uma\\ coletiva de imprensa\\ mal conduzida};
+
+  \node[ponto] at (8.1,0) {};
+  \node[below, align=center] at (8.1,-0.18) {\textbf{nov.--dez.}};
+  \node[above, align=center, text=manualgreen!45!black] at (8.1,0.2) {\textbf{TCHECOSLOVÁQUIA}\\ ``Revolução de Veludo''\\ \textbf{Havel} presidente\\ \textbf{BULGÁRIA}};
+
+  \node[ponto] at (10.4,0) {};
+  \node[below, align=center] at (10.4,-0.18) {\textbf{25 dez.}};
+  \node[above, align=center, text=manualred] at (10.4,0.2) {\textbf{ROMÊNIA}\\ \textbf{Ceaușescu} deposto\\ e executado ---\\ a \textbf{única} revolução\\ violenta};
+
+  \node[ponto] at (12.4,0) {};
+  \node[below, align=center] at (12.4,-0.18) {\textbf{3 out. 1990}};
+  \node[above, align=center, text=manualblue] at (12.4,0.2) {\textbf{REUNIFICAÇÃO}\\ \textbf{ALEMÃ}};
+
+  \node[ponto] at (14.0,0) {};
+  \node[below, align=center] at (14.0,-0.18) {\textbf{dez. 1991}};
+  \node[above, align=center, text=manualblue] at (14.0,0.2) {\textbf{FIM DA URSS}};
+
+  \node[draw, dashed, rounded corners, fill=manualyellow!22, align=center, text width=13.4cm] at (0,-1.9)
+    {\textbf{No mesmo 4 de junho de 1989}, do outro lado do mundo, o governo chinês reprimiu com tanques as manifestações da \textbf{Praça da Paz Celestial}.\\ As duas datas coincidentes resumem os dois caminhos possíveis: \textbf{reforma política sem reforma econômica} (URSS) e\\ \textbf{reforma econômica sem reforma política} (China).};
+\end{tikzpicture}
+```
+
+1989: seis meses que desmontaram o bloco soviético.
+:::
+
+A sequência tem uma lógica de dominó: **Polônia** (eleições parcialmente livres em 4 de junho, nas quais o Solidariedade venceu **todas** as cadeiras em disputa); **Hungria**, que em agosto e setembro abriu sua fronteira com a Áustria, criando uma rota de fuga pela qual dezenas de milhares de alemães orientais deixaram o bloco — foi esse êxodo que gerou a crise que levou à noite de 9 de novembro; **Alemanha Oriental**, com manifestações semanais em Leipzig sob o lema "**Nós somos o povo**", culminando na abertura do Muro; **Tchecoslováquia**, onde a "**Revolução de Veludo**" levou **Havel**, preso poucos meses antes, à presidência em 29 de dezembro; **Bulgária**; e, por fim, a **Romênia**, único caso violento, com a queda e a execução sumária do ditador **Nicolae Ceaușescu** e de sua esposa no dia 25 de dezembro. A **reunificação alemã** consumou-se em 3 de outubro de 1990.
+
+## O fim da URSS {#sec-fim-da-urss}
+
+Na própria União Soviética, o processo foi mais lento e terminou de modo mais abrupto. As repúblicas bálticas — **Lituânia, Letônia e Estônia**, anexadas em 1940 em decorrência do pacto com a Alemanha nazista — reivindicaram independência a partir de 1990. A Rússia, maior das repúblicas, elegeu **Boris Yeltsin** presidente em junho de 1991, criando uma situação inédita: um presidente russo eleito pelo voto direto e um presidente soviético que não o fora.
+
+Em **19 de agosto de 1991**, setores conservadores do partido, do exército e da KGB tentaram um **golpe**, prendendo Gorbachev em sua casa de veraneio na Crimeia. O golpe fracassou em três dias: faltou-lhe decisão, apoio popular e coesão militar, e Yeltsin, de pé sobre um tanque diante do parlamento russo, tornou-se a imagem da resistência. O efeito foi o oposto do pretendido — a tentativa de salvar a URSS pela força a liquidou. Gorbachev voltou a Moscou com autoridade destruída; o Partido Comunista foi suspenso; as repúblicas declararam independência uma após a outra, com a **Ucrânia** aprovando a sua em referendo com mais de 90% dos votos.
+
+Em **8 de dezembro de 1991**, os presidentes de Rússia, Ucrânia e Bielorrússia reuniram-se na floresta de Belovezha e declararam que a União Soviética "deixava de existir como sujeito de direito internacional", criando em seu lugar a **Comunidade de Estados Independentes**. Em **25 de dezembro de 1991**, Gorbachev renunciou; na mesma noite, a bandeira vermelha com a foice e o martelo foi arriada do Kremlin e substituída pela bandeira russa. O país que nascera em 1922 acabou sem uma guerra e sem um tiro no seu último ato.
+
+**Os anos 1990 na Rússia** foram brutais. A "terapia de choque" — liberação súbita de preços, privatização acelerada por meio de vouchers, abertura comercial — produziu hiperinflação, queda do PIB superior à da Grande Depressão americana, concentração de ativos estratégicos nas mãos de um punhado de **oligarcas** e desmonte do sistema de proteção social. Os indicadores humanos registraram uma catástrofe em tempos de paz: a expectativa de vida masculina caiu de cerca de 64 para menos de 58 anos ao longo da década, com alcoolismo, suicídio e colapso da saúde pública. Foi nesse contexto de humilhação econômica e nacional que se formou o apoio ao governo autoritário de **Vladimir Putin**, a partir de 2000 — e é impossível entender a política russa do século XXI sem esse antecedente (@sec-nova-ordem-mundial).
+
+::: {#fig-por-que-caiu}
+
+```{.tikz}
+%%| filename: fig-por-que-caiu
+%%| alt: Diagrama das causas estruturais, conjunturais e políticas do colapso do socialismo real.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \node[draw, thick, rounded corners, fill=manualgray!16, align=left, text width=4.1cm] (a) at (-4.7,1.9)
+    {\textbf{CAUSAS ESTRUTURAIS}\\ (de longo prazo)\\[2pt]
+     problema da \textbf{informação}\\ sem preços de mercado\\ \textbf{economia da escassez}\\ (Kornai)\\ baixa \textbf{inovação}\\ agricultura ineficiente\\ gasto militar de \textbf{15--20\%}\\ do PIB};
+
+  \node[draw, thick, rounded corners, fill=manualyellow!24, align=left, text width=4.1cm] (b) at (0,1.9)
+    {\textbf{CAUSAS CONJUNTURAIS}\\ (anos 1980)\\[2pt]
+     \textbf{queda do petróleo} (1986)\\ guerra do \textbf{Afeganistão}\\ (1979--89)\\ \textbf{Chernobyl} (1986)\\ corrida armamentista\\ na era Reagan\\ revolução da \textbf{informática}};
+
+  \node[draw, thick, rounded corners, fill=manualblue!16, align=left, text width=4.1cm] (c) at (4.7,1.9)
+    {\textbf{CAUSAS POLÍTICAS}\\ (decisões e crenças)\\[2pt]
+     \textbf{glasnost} corrói a\\ legitimidade\\ \textbf{perestroika} desorganiza\\ sem substituir\\ fim da \textbf{Doutrina Brejnev}\\ \textbf{nacionalismos}\\ elite deixa de \textbf{acreditar}};
+
+  \node[draw, very thick, rounded corners, fill=manualred!18, align=center, text width=13.4cm, text=manualred] (r) at (0,-0.9)
+    {\textbf{1989:} queda dos regimes do Leste Europeu $\cdot$ \textbf{1991:} golpe fracassado de agosto e dissolução da URSS em 25 de dezembro};
+
+  \draw[vetor, thick, manualgray] (a) -- (r); \draw[vetor, thick, manualgray] (b) -- (r); \draw[vetor, thick, manualgray] (c) -- (r);
+
+  \node[draw, dashed, rounded corners, fill=manualgreen!14, align=center, text width=13.4cm] at (0,-2.4)
+    {\textbf{O contraste chinês:} \textbf{Deng Xiaoping} (a partir de 1978) fez o inverso --- \textbf{abriu a economia e fechou a política}.\\ Resultado: crescimento sem precedentes, e o \textbf{monopólio do partido preservado} até hoje.};
+\end{tikzpicture}
+```
+
+Por que o socialismo real ruiu — e por que na China não ruiu.
+:::
+
+## O caminho chinês e os sobreviventes {#sec-caminho-chines}
+
+A comparação com a **China** é o melhor instrumento analítico deste capítulo, porque isola as variáveis. Depois da morte de Mao (1976) e do desastre da Revolução Cultural, **Deng Xiaoping** iniciou, em dezembro de **1978**, a política de "reforma e abertura": devolução da gestão da terra às famílias camponesas, autorização de empresas privadas, criação de **zonas econômicas especiais** abertas ao capital estrangeiro — Shenzhen, uma vila de pescadores, tornou-se metrópole de milhões — e integração ao comércio mundial. Em quatro décadas, a China teve o crescimento econômico mais rápido e sustentado da história e retirou centenas de milhões de pessoas da pobreza extrema [@vogel2011].
+
+O que **não** mudou foi o monopólio político do Partido Comunista, e a demonstração ocorreu justamente em **4 de junho de 1989** — o mesmo dia das eleições polonesas —, quando o exército reprimiu com tanques as manifestações estudantis e operárias da **Praça da Paz Celestial**, em Pequim, com número de mortos até hoje não esclarecido e o assunto proibido dentro do país.
+
+A comparação sugere a hipótese que a historiografia mais discute: Gorbachev **liberalizou a política antes da economia**, e as liberdades novas foram usadas para contestar um sistema que não conseguia entregar melhorias materiais. Deng **liberalizou a economia e manteve fechada a política**, e a melhoria material comprou legitimidade. É uma hipótese poderosa e incompleta — ignora que a China partia de uma economia agrária com enorme reserva de mão de obra e ganhos fáceis a colher, enquanto a URSS era uma economia industrial madura e militarizada, cujos problemas eram muito mais difíceis de resolver por abertura ao mercado. Não é evidente que Gorbachev **pudesse** ter feito o que Deng fez.
+
+**Os sobreviventes.** O **Vietnã** adotou em 1986 sua própria abertura econômica (*Đổi Mới*), no modelo chinês. **Cuba** perdeu de uma vez seu principal parceiro comercial e mergulhou no "**Período Especial**", com queda do PIB em torno de um terço, escassez severa de alimentos e combustível, e sobreviveu com abertura parcial ao turismo e, mais tarde, com a parceria venezuelana. A **Coreia do Norte** fechou-se ainda mais, e a perda dos subsídios soviéticos contribuiu para a fome dos anos 1990. A **Iugoslávia**, que nunca integrara o bloco soviético, desfez-se em guerras que consumiriam toda a década (@sec-nova-ordem-mundial).
+
+**E no Brasil?** O impacto foi mais ideológico que econômico. O colapso do socialismo real desorganizou o campo da esquerda, dissolveu o PCB e o PC do B em crises internas, e retirou de circulação um modelo alternativo que servia de referência — inclusive negativa — havia setenta anos. Ao mesmo tempo, forneceu argumento decisivo à agenda de reformas de mercado que atravessaria os anos 1990 no país e no continente (@sec-redemocratizacao-nova-republica; @sec-globalizacao-neoliberalismo). O PT, que se consolidara nos anos 1980 sem vínculo com Moscou e com origens no sindicalismo e nas comunidades eclesiais de base (@sec-ditadura-militar), foi das poucas organizações de esquerda a **crescer** depois de 1991 — o que se explica em boa parte por não estar amarrada ao modelo que ruíra.
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+**1. Por que a URSS caiu? Cinco respostas em disputa.**
+
+- **Determinismo econômico.** O sistema era inviável a longo prazo por razões estruturais — cálculo econômico sem preços, economia da escassez, ausência de inovação —, e o colapso apenas demorou o tempo que o petróleo permitiu adiar [@kornai1992]. **Objeção:** economias ineficientes podem durar séculos; ineficiência explica declínio, não colapso súbito, e muito menos a data.
+- **A "escola da vitória".** A pressão militar e econômica americana na era Reagan — corrida armamentista, Iniciativa de Defesa Estratégica, apoio aos mujahidin, sanções — teria quebrado a URSS. **Objeção:** os arquivos soviéticos não mostram a IDE como fator central nas decisões de Moscou, e o gasto militar soviético já era insustentável muito antes de Reagan; além disso, a explicação atribui a um ator externo um processo cujos protagonistas foram internos.
+- **A agência de Gorbachev.** O colapso não estava determinado: resultou de decisões específicas — glasnost antes de resultados econômicos, abandono da Doutrina Brejnev, recusa sistemática do uso da força. **Stephen Kotkin** acrescenta uma tese provocadora: a URSS não foi derrubada pela sociedade civil, mas implodiu a partir de dentro, quando a **própria elite dirigente deixou de acreditar** no sistema que administrava — os dissidentes eram poucos, e o Solidariedade foi exceção, não regra [@kotkin2008]. **Objeção:** a tese subestima o efeito acumulado da pressão social no Leste Europeu, sobretudo na Polônia.
+- **O fator nacional.** A URSS era um **império multinacional**, e o que ocorreu em 1991 foi menos a queda de um sistema econômico do que uma **descolonização** — o mesmo processo que desfizera os impérios europeus três décadas antes (@sec-descolonizacao-africa-asia). **Objeção:** não explica por que os regimes comunistas **etnicamente homogêneos**, como a Polônia e a Hungria, caíram primeiro.
+- **A crise de legitimidade.** O sistema prometera **superar** o capitalismo em bem-estar material. Quando ficou evidente para todos — inclusive para os dirigentes — que não o superaria, o edifício perdeu a razão de ser. A televisão, o rádio ocidental e as viagens tornaram a comparação inescapável.
+
+**A posição hoje mais aceita** combina as camadas em vez de escolher uma: **causas estruturais** tornaram o sistema cada vez mais frágil; **causas conjunturais** dos anos 1980 — colapso do preço do petróleo em 1986, Afeganistão, Chernobyl, revolução da informática — precipitaram a crise; e **decisões políticas** específicas determinaram que o desfecho fosse este, nesta data e sem guerra civil. É um bom antídoto contra explicações monocausais, e vale lembrar que **praticamente nenhum especialista previu o colapso** — o que deveria produzir alguma humildade em quem hoje o explica como inevitável.
+
+**2. A natureza do sistema: totalitarismo ou sociedade?** Durante a Guerra Fria, a **escola totalitária** descreveu a URSS como um sistema de controle integral, movido de cima para baixo pelo terror e pela ideologia, com uma sociedade reduzida à condição de massa atomizada. A partir dos anos 1970, a **história social revisionista** — de que **Sheila Fitzpatrick** é a principal representante — passou a estudar a URSS de baixo para cima: mobilidade social, estratégias de sobrevivência, denúncias entre vizinhos, apoio genuíno de setores que ascenderam com o regime [@fitzpatrick2017]. Não se tratava de negar o terror, e sim de mostrar que o sistema **também** funcionava por adesão, oportunismo e negociação cotidiana, e não apenas por medo. A abertura dos arquivos após 1991 deu razão parcial aos dois lados: confirmou a escala do terror stalinista, próxima das estimativas mais altas, **e** revelou uma sociedade muito mais ativa, conflituosa e negociadora do que o modelo totalitário admitia.
+
+**3. O "fim da História".** Em 1989, **Francis Fukuyama** propôs que o colapso do comunismo marcava não apenas o fim de um conflito, mas o **ponto final da evolução ideológica** da humanidade: a democracia liberal e a economia de mercado teriam se estabelecido como a única forma de organização social capaz de satisfazer duradouramente as aspirações humanas [@fukuyama1992]. A tese foi imensamente influente e imensamente atacada. As objeções que se acumularam: a ascensão de capitalismos autoritários bem-sucedidos, sobretudo o **chinês**; o retorno de nacionalismos e fundamentalismos religiosos; a crise financeira de 2008 e a erosão democrática em países consolidados; e a crítica de que a tese confundia o triunfo de um modelo num momento particular com o encerramento da história das alternativas. Vale registrar que a formulação de Fukuyama era mais sofisticada do que a caricatura corrente sugere — ele não afirmava que os acontecimentos parariam. Mas o essencial, para você, é o ponto de método: **teleologias são perigosas em História**, venham da direita ou da esquerda. Tanto "o socialismo é o destino inevitável" quanto "a democracia liberal é o ponto final" cometem o mesmo erro — tratar como necessário aquilo que é contingente (@sec-o-que-e-historia; @sec-desafios-do-presente).
+
+**4. Como interpretar a nostalgia.** Pesquisas de opinião realizadas na Rússia e em vários países do Leste registram, com frequência, maiorias que lamentam o fim da URSS ou avaliam positivamente o período socialista, e há na Alemanha um termo para o fenômeno — *Ostalgie*, nostalgia do Leste. Isso **não** significa que as pessoas queiram o retorno do partido único e da censura, e ler os dados assim é erro elementar. O que essas respostas em geral expressam é a memória de **segurança material** — emprego garantido, moradia, creche, aposentadoria — em contraste com a experiência traumática dos anos 1990, quando a expectativa de vida masculina russa caiu quase sete anos em uma década. É um caso exemplar do que o historiador precisa fazer com fontes de opinião: perguntar **a que exatamente** a resposta está respondendo, e contra qual alternativa concreta o passado está sendo comparado (@sec-memoria-patrimonio).
+
+## Resumo do capítulo {#sec-resumo}
+
+- **Socialismo real:** propriedade **estatal** dos meios de produção, **planejamento central** (Gosplan), **partido único** e **nomenklatura**. O adjetivo "real" já admitia a distância entre o existente e o prometido.
+- **Realizações:** industrialização acelerada de um país agrário, derrota da Alemanha nazista, alfabetização quase universal, saúde e educação gratuitas, pleno emprego, incorporação das mulheres ao trabalho qualificado, liderança inicial na corrida espacial.
+- **Limites estruturais:** problema da **informação** sem preços de mercado; **economia da escassez** por restrição orçamentária branda (**Kornai**); prioridade à indústria pesada em detrimento do consumo; **baixa inovação**, sobretudo em informática; agricultura ineficiente (a URSS **importava** cereais); gasto militar de **15% a 20% do PIB**; dependência da exportação de **petróleo**, cujo preço despencou em **1986**.
+- **De Stálin a Brejnev:** morte de Stálin (**1953**); **Discurso Secreto** de Khruschev (1956) e **desestalinização** — que criticou o "culto à personalidade", não o sistema. Repressão em **Berlim** (1953), **Budapeste** (1956, Imre Nagy) e na **Primavera de Praga** (1968, Dubček), justificada pela **Doutrina Brejnev** (soberania limitada). **Estagnação** sob Brejnev (1964–82) e o "Vietnã soviético" no **Afeganistão** (1979–89).
+- **Resistência no Leste:** regimes de legitimidade frágil, implantados pela presença do Exército Vermelho. Na **Polônia**, **João Paulo II** (1978–79) e o **Solidariedade** de **Lech Wałęsa** (Gdańsk, 1980, dez milhões de filiados), reprimido pela lei marcial de 1981 mas não destruído. **Carta 77** e **Havel**, com a estratégia de cobrar os direitos assinados em **Helsinque** (1975) e a ideia de "viver na verdade".
+- **Gorbachev (1985):** **glasnost** (transparência) e **perestroika** (reestruturação); **INF** com Reagan (1987); retirada do Afeganistão (1989); abandono da **Doutrina Brejnev** ("Doutrina Sinatra"). As reformas aceleraram o colapso por três mecanismos: a glasnost corroeu a legitimidade antes que a perestroika produzisse resultados; a liberdade liberou os **nacionalismos**; e o fim da Doutrina Brejnev retirou o alicerce dos regimes-satélites.
+- **1989:** eleições na **Polônia** (4 de junho, mesmo dia da repressão na **Praça da Paz Celestial**); **Hungria** abre a fronteira; **Muro de Berlim** aberto em **9 de novembro**; **Revolução de Veludo** e **Havel** presidente; **Ceaușescu** deposto e executado em 25 de dezembro — o único caso violento. **Reunificação alemã** em 3 de outubro de 1990.
+- **Fim da URSS:** independências bálticas; **Yeltsin** eleito na Rússia (junho de 1991); **golpe fracassado de agosto de 1991**, que liquidou o que pretendia salvar; **Acordos de Belovezha** (8 de dezembro); renúncia de Gorbachev em **25 de dezembro de 1991**. Nos anos 1990, terapia de choque, **oligarcas**, colapso do PIB e queda da expectativa de vida masculina de ~64 para menos de 58 anos — o contexto que produziu **Putin**.
+- **A China de Deng** (desde 1978): abertura econômica **com** monopólio político preservado; crescimento sem precedentes e repressão em **1989**. A comparação sugere que a ordem das reformas importa — sem ignorar que os pontos de partida eram muito diferentes.
+- **Historiografia:** cinco explicações do colapso (**estrutural**, "**escola da vitória**", **agência de Gorbachev** e a tese de **Kotkin** sobre a elite que deixou de acreditar, **fator nacional**, **crise de legitimidade**), hoje combinadas em camadas; **escola totalitária** × **história social** de **Fitzpatrick**, com os arquivos dando razão parcial às duas; o "**fim da História**" de **Fukuyama** e a crítica às **teleologias**; e o modo correto de interpretar a **nostalgia** pelo período socialista.
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Domine: (1) o que era planejamento central e por que gerava escassez; (2) o que a desestalinização mudou e o que não mudou; (3) a Doutrina Brejnev e o efeito de seu abandono; (4) glasnost × perestroika; (5) por que a reforma acelerou o colapso; (6) a sequência de 1989; (7) o contraste com a China; (8) as cinco explicações do colapso.
+:::
+
+**1.** Explique o funcionamento de uma **economia planificada** e seus limites estruturais.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**O funcionamento.** O Estado é proprietário de fábricas, bancos, terras, transportes e comércio. Um órgão central — na URSS, o **Gosplan** — elabora planos, em geral quinquenais, que definem quanto cada empresa deve produzir, a que preços, com quais insumos, quantos trabalhadores e com que salários. O mercado é substituído pela **decisão administrativa** como mecanismo de coordenação.
+
+**A lógica por trás disso.** Não é arbitrariedade: a proposta era eliminar as crises de superprodução, o desemprego e a desigualdade do capitalismo (@sec-crise-de-1929-entreguerras), dirigindo conscientemente os recursos para prioridades sociais em vez de deixá-los à lucratividade privada. E, para os objetivos que o sistema priorizou, ele **funcionou**: industrialização pesada acelerada, esforço de guerra, alfabetização universal, saúde e educação gratuitas, pleno emprego, programa espacial.
+
+**Os limites estruturais.**
+
+1. **O problema da informação.** Numa economia de mercado, o preço é um sinal que agrega, de forma descentralizada, informação sobre escassez e preferências que ninguém possui inteira. Sem preços livres, o planejador precisaria saber, antecipadamente, do que milhões de pessoas precisam e o que dezenas de milhares de empresas conseguem produzir. Nenhum órgão dá conta disso, e o resultado é o descompasso permanente entre produção e necessidade.
+2. **A economia da escassez.** **Kornai** mostrou que o problema era sistêmico, e não de má execução: como as empresas socialistas tinham **restrição orçamentária branda** — o Estado cobria os prejuízos e ninguém falia —, elas acumulavam insumos, matérias-primas e trabalhadores por precaução, o que gerava falta em toda a cadeia. As filas eram efeito lógico do desenho, não incompetência dos gestores [@kornai1992].
+3. **Incentivos perversos.** O gerente era premiado por cumprir metas **quantitativas**. Se a meta era em toneladas, produziam-se pregos pesados demais; se em unidades, pregos finos demais. Qualidade, variedade e satisfação do consumidor não entravam na conta porque não eram medidas.
+4. **Ausência de inovação.** Sem concorrência, sem risco de falência e sem ganho pessoal em arriscar, inovar era só risco. A defasagem tornou-se crítica exatamente na tecnologia decisiva do fim do século — a informática —, cuja difusão o regime, ademais, temia por razões políticas: computadores pessoais e copiadoras são instrumentos de circulação livre de informação.
+5. **Distorção militar.** De 15% a 20% do PIB em defesa, contra cerca de 6% nos EUA. Uma economia menor sustentando paridade militar com uma maior sacrifica necessariamente tudo o mais.
+
+**A síntese.** O sistema mostrou-se eficaz em **mobilizar recursos** para objetivos definidos de cima — construir siderúrgicas, vencer uma guerra, alfabetizar um país, pôr um satélite em órbita — e ineficaz em **alocá-los** de acordo com necessidades difusas e mutáveis de milhões de consumidores. Enquanto o desafio foi do primeiro tipo, ele avançou; quando passou a ser do segundo, travou.
+:::
+
+**2.** O que foi a **desestalinização** e quais foram seus limites?
+
+::: {.callout-tip collapse="true" title="Solução"}
+**O ato inaugural.** Em fevereiro de 1956, no XX Congresso do PCUS, **Nikita Khruschev** leu a portas fechadas o relatório "Sobre o culto à personalidade e suas consequências", denunciando as purgas, as prisões arbitrárias, as confissões obtidas sob tortura, a execução de comunistas leais e os erros militares de Stálin em 1941 [@khruschev1956]. O texto vazou em semanas e circulou pelo mundo.
+
+**O que mudou de fato.**
+
+- **Libertação de presos.** Milhões de pessoas deixaram o Gulag e o exílio nos anos seguintes, e houve reabilitações — muitas póstumas.
+- **Fim do terror como método corrente.** A repressão continuou, mas deixou de operar por quotas de prisão e execução em massa; passou a ser mais seletiva, dirigida a dissidentes identificados, frequentemente por internação psiquiátrica, expulsão profissional ou exílio.
+- **Degelo cultural.** Publicou-se, com autorização, *Um dia na vida de Ivan Deníssovitch*, de **Soljenítsin**, sobre um campo de trabalho — impensável cinco anos antes.
+- **Reorientação externa:** a **coexistência pacífica** substituiu a tese da inevitabilidade do conflito com o Ocidente.
+
+**Os limites — e aqui está o núcleo da questão.**
+
+1. **Personalizou o problema.** A crítica recaiu sobre o "culto à personalidade", isto é, sobre um **desvio individual** de Stálin, e não sobre as estruturas — partido único, ausência de imprensa livre, polícia política, supressão do direito de organização — que permitiram que um indivíduo dispusesse daquele poder. Sem tocar nelas, nada garantia que o fenômeno não se repetisse.
+2. **Preservou a intocabilidade do Partido.** Lênin e a Revolução permaneceram fora de crítica, e o monopólio do Partido não foi questionado — pelo contrário, apresentou-se como o Partido que se autocorrigia.
+3. **Foi seletiva e reversível.** Sob Brejnev, a partir de 1964, houve **restalinização parcial**: o tema voltou a ser evitado, Soljenítsin foi expulso do país em 1974, e o *Arquipélago Gulag* só circulou clandestinamente [@soljenitsyn2019] até a glasnost.
+4. **Não se estendeu ao bloco.** No mesmo ano de 1956, o levante húngaro foi esmagado por tanques soviéticos e **Imre Nagy** foi executado em 1958. A mensagem foi inequívoca: podia-se criticar Stálin, não sair do bloco.
+
+**As consequências.** No bloco socialista, o relatório abalou a fé militante de muitos comunistas — e provocou rupturas em partidos do mundo inteiro, inclusive no Brasil, onde o PCB entrou em crise e se dividiu (@sec-republica-de-1946). No plano internacional, contribuiu para o **rompimento sino-soviético**: Mao considerou a denúncia um revisionismo que enfraquecia o campo socialista (@sec-ordem-bipolar). E, dentro da URSS, criou um precedente perigoso para o regime: uma vez admitido oficialmente que o Estado mentira e matara em grande escala, tornou-se muito mais difícil exigir crença incondicional. Trinta anos depois, a **glasnost** reabriria exatamente essa porta — e dessa vez não seria possível fechá-la.
+:::
+
+**3.** Explique a **Doutrina Brejnev** e as consequências de seu abandono.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**A formulação.** Enunciada em novembro de 1968, após a invasão da Tchecoslováquia: a soberania dos Estados socialistas é **limitada** pelos interesses do socialismo como sistema; quando o socialismo é ameaçado em um país, isso é problema de todos, e a URSS tem o direito e o dever de intervir. Na prática: **nenhum país do bloco poderia sair do bloco**, nem alterar substancialmente seu regime.
+
+**Os precedentes que a doutrina apenas formalizou.** Berlim Oriental (1953), greve operária reprimida por tanques; **Hungria** (1956), com o governo de Imre Nagy derrubado por invasão, cerca de 2.500 mortos e 200 mil refugiados; **Tchecoslováquia** (1968), com o "socialismo com face humana" de **Dubček** — liberdade de imprensa, democratização interna do partido, sem qualquer proposta de sair do Pacto de Varsóvia — encerrado por tropas de cinco países do Pacto.
+
+**A função real da doutrina — e este é o ponto que a questão cobra.** Ela não era apenas repressiva; era o **fundamento último de sustentação** dos regimes do Leste Europeu. Esses governos não haviam nascido de revoluções internas, mas da presença do Exército Vermelho em 1945 [@applebaum2017]. Sua estabilidade dependia menos de apoio popular do que da **certeza compartilhada** — pelas oposições e pelas próprias populações — de que qualquer contestação séria acabaria em tanques. Era uma legitimidade emprestada.
+
+**O abandono.** Gorbachev anunciou, entre 1988 e 1989, que a URSS não interviria mais nos assuntos internos dos países socialistas; cada um seguiria "à sua maneira" — daí o apelido irônico de "**Doutrina Sinatra**", em referência à canção *My Way*.
+
+**As consequências, imediatas e encadeadas.**
+
+1. **Os regimes ficaram sozinhos.** Sem a garantia externa, cada governo teve de enfrentar sua própria sociedade com os recursos que tinha — e nenhum deles tinha muitos.
+2. **As oposições calcularam de novo.** A relação entre risco e chance de sucesso mudou completamente. Na Polônia, o regime foi **negociar** com o Solidariedade que havia proibido em 1981, nas conversações da Mesa Redonda.
+3. **O efeito dominó de 1989.** Cada queda tornava a seguinte mais provável, porque demonstrava publicamente que ninguém viria socorrer. A Hungria abriu a fronteira com a Áustria sem sofrer represália, e a partir daí o bloco tinha um furo por onde escoavam dezenas de milhares de alemães orientais — foi essa crise que produziu a noite de 9 de novembro.
+4. **A ausência de violência.** Com exceção da **Romênia**, as revoluções de 1989 foram pacíficas, e a razão principal é essa: a repressão dependia de uma retaguarda que deixara de existir.
+
+**O contraste que fecha a resposta.** Em **4 de junho de 1989**, na China, o governo tomou a decisão oposta na Praça da Paz Celestial — e o regime chinês está no poder até hoje. A comparação é dura, mas é a que a história oferece: a sobrevivência daqueles regimes dependia, em última instância, da **disposição de atirar**. Onde ela existiu, eles sobreviveram; onde foi retirada, caíram em meses.
+:::
+
+**4.** Diferencie **glasnost** e **perestroika** e explique por que as reformas de Gorbachev aceleraram o colapso.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**As definições.**
+
+- **Glasnost** ("transparência", "publicidade"): reforma **política e informacional**. Fim da censura prévia, imprensa autorizada a noticiar acidentes, crimes, escassez e corrupção, revisão pública dos crimes do stalinismo, publicação de autores proibidos e, a partir de 1988–89, eleições com mais de um candidato e sessões parlamentares transmitidas ao vivo.
+- **Perestroika** ("reestruturação"): reforma **econômica**. Autonomia de gestão para empresas estatais, autorização de cooperativas privadas em serviços e comércio, abertura ao investimento estrangeiro, tentativa de vincular salários à produtividade [@gorbachev1987].
+
+**O objetivo declarado.** Gorbachev era um comunista convicto que pretendia **salvar** o socialismo, não sepultá-lo. Seu diagnóstico: o sistema estava sufocado por burocracia, corrupção, mentira oficial e falta de iniciativa; transparência e descentralização o revitalizariam.
+
+**Por que produziu o efeito oposto — três mecanismos.**
+
+1. **Descompasso de ritmos.** A glasnost operou **rápido** e a perestroika, **devagar**. Em dois ou três anos, os cidadãos podiam ler que os planos não funcionavam, que houvera massacres, que a nomenklatura vivia melhor, que o padrão de vida ocidental era muito superior. As reformas econômicas, enquanto isso, eram meias-medidas entre plano e mercado: desmontaram os canais antigos de suprimento **sem** criar canais novos, e o desabastecimento **piorou**. A combinação é explosiva — liberdade para criticar somada à deterioração material.
+2. **Liberação dos nacionalismos.** A URSS era um Estado **multinacional**, com quinze repúblicas e mais de cem nacionalidades, coeso graças ao partido, à repressão e a uma ideologia comum. Enfraquecidos os três simultaneamente, o que emergiu foi a reivindicação nacional: as repúblicas bálticas, anexadas em 1940 por consequência do pacto com a Alemanha nazista, tinham um argumento jurídico e histórico forte, e em agosto de 1989 dois milhões de pessoas formaram uma corrente humana de 600 km entre suas capitais.
+3. **Retirada do alicerce externo.** O abandono da **Doutrina Brejnev** deixou os regimes-satélites sem a garantia soviética. Em 1989, todos caíram — e a queda dos vizinhos realimentou, dentro da própria URSS, a percepção de que o sistema estava terminando.
+
+**A lição analítica — e é ela que distingue uma resposta boa.** Existe um problema clássico, formulado por Tocqueville a propósito do Antigo Regime francês (@sec-revolucao-francesa): **o momento mais perigoso para um regime autoritário costuma ser aquele em que ele começa a se reformar**. Enquanto a repressão é total, o custo de contestar é proibitivo e as expectativas são baixas. Quando a repressão afrouxa, o custo cai e as expectativas sobem — e a distância entre o que se espera e o que se recebe torna-se politicamente insuportável.
+
+**A ressalva necessária.** Isso **não** significa que a alternativa fosse a sobrevivência. As causas estruturais operavam há décadas, e o preço do petróleo despencara em 1986. O que as decisões de Gorbachev determinaram foi a **forma** e a **data** do desfecho: um colapso rápido, negociado e — para um império nuclear em dissolução — extraordinariamente pouco violento. Comparado ao desmanche da Iugoslávia, que produziu guerras e limpeza étnica ao longo de uma década, esse desfecho não era, de modo algum, garantido.
+:::
+
+**5.** (Estilo ENEM) Leia o texto.
+
+> "Muitos poderiam perguntar: mas o que se pode ganhar com a *glasnost*? Nós respondemos: não temos nada a esconder do nosso próprio povo. A informação é indispensável. Ela dá às pessoas a sensação de participar da vida do país, de que suas opiniões contam. […] Sem *glasnost* não há, nem pode haver, democratismo."
+>
+> — Mikhail Gorbachev, *Perestroika*, 1987 [@gorbachev1987]
+
+Na conjuntura em que foi escrito, o texto revela a intenção do dirigente soviético de
+
+**(a)** promover a dissolução imediata da União Soviética e a independência das repúblicas.
+**(b)** revitalizar o sistema socialista por meio da transparência informativa e da participação da população.
+**(c)** substituir o planejamento estatal pela economia de mercado nos moldes norte-americanos.
+**(d)** justificar a intervenção militar soviética nos países do Leste Europeu.
+**(e)** restaurar os métodos de governo vigentes no período stalinista.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (b).** O texto expressa exatamente o projeto reformista de Gorbachev: a **glasnost** como instrumento para **revitalizar** o socialismo, tornando o sistema mais transparente, mais participativo e por isso mais eficiente. Repare no vocabulário: "nosso próprio povo", "participar da vida do país", "democratismo" — a linguagem é de aperfeiçoamento interno, não de ruptura.
+
+Por que as demais estão erradas:
+
+- **(a)** Gorbachev **combateu** a dissolução até o último momento: propôs um novo Tratado da União em 1991 justamente para preservar o Estado soviético em forma federativa mais frouxa, e foi a tentativa de assinar esse tratado que precipitou o golpe de agosto. A dissolução foi consequência **não pretendida** de suas reformas;
+- **(c)** a perestroika buscava um socialismo **reformado**, com autonomia de empresas estatais e cooperativas, não a substituição do planejamento por economia de mercado; a "terapia de choque" veio **depois** de 1991, sob **Yeltsin**;
+- **(d)** é o inverso do que Gorbachev fez: ele **abandonou** a Doutrina Brejnev, e foi essa renúncia à intervenção que permitiu as revoluções de 1989;
+- **(e)** a glasnost foi precisamente o que permitiu a **denúncia pública** dos crimes do stalinismo, com abertura de arquivos e publicação de autores proibidos.
+
+**A ironia histórica que a questão permite explorar numa resposta discursiva.** Gorbachev acertou o diagnóstico — o sistema estava paralisado pela mentira oficial e pela falta de iniciativa — e desencadeou, com o remédio, o processo que liquidou o paciente. Quando se torna possível dizer publicamente o que não funciona, num sistema cuja legitimidade repousava justamente na afirmação de que funcionava melhor que o capitalismo, a legitimidade se dissolve mais depressa do que as reformas econômicas conseguem produzir resultados. O caso é um dos exemplos mais claros de **consequências não intencionais** na história do século XX.
+:::
+
+**6.** Descreva as revoluções de **1989** no Leste Europeu.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**A condição de possibilidade.** O abandono da **Doutrina Brejnev**. Sem a garantia de intervenção soviética, os regimes do Leste ficaram frente a frente com suas sociedades, sem a retaguarda que os sustentara desde 1945.
+
+**A sequência, que tem lógica de dominó.**
+
+1. **Polônia (fevereiro–junho).** Negociações da Mesa Redonda entre governo e **Solidariedade**, que resultaram em eleições parcialmente livres em **4 de junho**: o Solidariedade venceu **todas** as cadeiras em disputa, e em agosto formou-se o primeiro governo não comunista do bloco.
+2. **Hungria (maio–setembro).** O governo reformista desmontou a cerca de arame na fronteira com a **Áustria**. O efeito foi imprevisto e decisivo: dezenas de milhares de **alemães orientais** passaram a viajar "de férias" à Hungria para escapar ao Ocidente, criando na RDA a crise que levaria ao 9 de novembro.
+3. **Alemanha Oriental (outubro–novembro).** Manifestações semanais em **Leipzig** sob o lema "*Wir sind das Volk*" — "**Nós somos o povo**" —, crescendo de centenas a centenas de milhares sem que a ordem de reprimir fosse dada. Em **9 de novembro**, uma coletiva de imprensa mal conduzida levou multidões aos postos de fronteira, e o **Muro** foi aberto.
+4. **Tchecoslováquia (novembro–dezembro).** A "**Revolução de Veludo**": greve geral e manifestações de centenas de milhares levaram o partido a renunciar ao monopólio do poder em dias. **Václav Havel**, preso poucos meses antes, tornou-se presidente em 29 de dezembro.
+5. **Bulgária (novembro).** Deposição do dirigente que governava havia 35 anos, por iniciativa do próprio partido.
+6. **Romênia (dezembro).** O **único** caso violento. **Ceaușescu**, que mantinha um regime de culto à personalidade e miséria extrema, mandou atirar; a repressão virou insurreição, o exército mudou de lado, e o ditador e sua esposa foram julgados sumariamente e executados em **25 de dezembro**.
+
+**Por que foram, em regra, pacíficas.** Três razões combinadas: a certeza de que a URSS **não** intervira; a hesitação de dirigentes que, em muitos casos, já não acreditavam no que administravam; e a escala das mobilizações, que tornava a repressão politicamente inviável — atirar em centenas de milhares de pessoas exige uma decisão que ninguém, exceto Ceaușescu, esteve disposto a tomar.
+
+**Os desdobramentos.** **Reunificação alemã** em 3 de outubro de 1990. Dissolução do Pacto de Varsóvia e do Comecon em 1991. Transição ao capitalismo com custos sociais elevados — desemprego, desindustrialização, queda de renda — e trajetórias muito distintas: Polônia, Chéquia e os países bálticos integraram-se à União Europeia e à OTAN e prosperaram; outros permaneceram muito mais pobres. E, no caso da **Iugoslávia**, que não integrava o bloco soviético, o fim do comunismo abriu não uma transição, mas uma década de guerras e limpeza étnica (@sec-nova-ordem-mundial).
+
+**O contraponto que uma boa resposta menciona.** No **mesmo 4 de junho de 1989** das eleições polonesas, o governo chinês reprimiu com tanques as manifestações da **Praça da Paz Celestial**. As duas datas coincidentes resumem as duas escolhas disponíveis a um regime de partido único diante de sua própria sociedade — e os dois desfechos correspondentes.
+:::
+
+**7.** (Estilo vestibular) Compare o caminho **soviético** e o **chinês** de reforma, explicando os resultados opostos.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**O caminho chinês.** Após a morte de Mao (1976) e o desastre da Revolução Cultural, **Deng Xiaoping** iniciou em **dezembro de 1978** a política de "reforma e abertura", com sequência deliberada:
+
+- **primeiro o campo**: devolução da gestão da terra às famílias camponesas, com autorização de venda do excedente. A produção agrícola disparou em poucos anos, criando apoio popular imediato e liberando mão de obra;
+- **depois a indústria e o comércio**: empresas privadas e coletivas autorizadas, gradualmente;
+- **zonas econômicas especiais** abertas ao capital estrangeiro — **Shenzhen**, uma vila de pescadores em 1980, tornou-se metrópole de milhões;
+- **integração ao comércio mundial**, culminando na entrada na OMC em 2001;
+- **nada** de reforma política: o monopólio do Partido Comunista foi mantido integralmente, e a repressão da **Praça da Paz Celestial**, em 4 de junho de 1989, deixou isso explícito [@vogel2011].
+
+**O caminho soviético.** Gorbachev fez o contrário: começou pela **abertura política e informacional** (glasnost), com reformas econômicas tímidas, tardias e mal sequenciadas, que desmontaram o sistema antigo de coordenação sem instalar outro.
+
+**Os resultados.** A China teve o crescimento mais rápido e sustentado da história econômica, retirou centenas de milhões de pessoas da pobreza extrema e manteve o regime. A URSS teve deterioração econômica, crise de legitimidade e dissolução em seis anos.
+
+**A explicação corrente — e sua insuficiência.** A hipótese mais citada é a da **ordem das reformas**: liberalizar a economia **primeiro** produz melhoria material que compra legitimidade; liberalizar a política primeiro fornece à população os instrumentos para contestar um sistema que ainda não entrega resultados.
+
+A hipótese é plausível, mas incompleta, e uma resposta de alto nível aponta as diferenças de **ponto de partida**:
+
+1. **Estrutura econômica.** A China de 1978 era predominantemente **agrária**, com 80% da população no campo. Devolver a terra às famílias produz ganhos de produtividade enormes e rápidos — são os "frutos baixos". A URSS de 1985 era uma economia **industrial madura e militarizada**, cujos problemas eram muito mais difíceis: reestruturar complexos militar-industriais obsoletos não gera melhoria visível em dois anos.
+2. **Estrutura nacional.** A China é etnicamente homogênea em cerca de 92% (han); a URSS era um **Estado multinacional** de quinze repúblicas com fronteiras administrativas já desenhadas e órgãos de governo próprios — isto é, com Estados prontos para se tornarem independentes.
+3. **Fardo militar.** De 15% a 20% do PIB soviético em defesa, contra fração muito menor na China, que pôde direcionar recursos ao investimento produtivo.
+4. **Demografia e mão de obra.** A China dispunha de reserva imensa de trabalhadores baratos e jovens, atrativa ao capital estrangeiro num momento de reorganização das cadeias produtivas globais (@sec-globalizacao-neoliberalismo).
+
+**A conclusão que se espera.** A sequência das reformas **importa**, e a comparação é instrutiva. Mas não se pode concluir que Gorbachev simplesmente escolheu mal: as condições de partida eram tão diferentes que não é evidente que o caminho chinês estivesse **disponível** para a URSS. E há um ponto normativo que a comparação não resolve: o modelo chinês obteve crescimento econômico ao custo da manutenção de um regime que reprimiu seus cidadãos em 1989 e segue sem liberdade de imprensa, associação ou eleição. Chamar isso de "sucesso" exige explicitar segundo qual critério — e explicitar critérios é, precisamente, o que se pede de uma boa análise histórica.
+:::
+
+**8.** Discuta a tese do "**fim da História**" de Francis Fukuyama.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**A tese.** Formulada em artigo de 1989 e desenvolvida em livro de 1992, sustenta que o colapso do comunismo não foi apenas o fim de um conflito, mas o **ponto final da evolução ideológica** da humanidade: a **democracia liberal** combinada à economia de mercado teria se estabelecido como a única forma de organização social capaz de satisfazer duradouramente as aspirações humanas — por prosperidade e, sobretudo, por **reconhecimento**, no vocabulário hegeliano que Fukuyama adota [@fukuyama1992].
+
+**O que ele não disse — e é preciso registrar, porque a caricatura circula muito.** Fukuyama nunca afirmou que os acontecimentos cessariam, que não haveria mais guerras ou crises, nem que todos os países se tornariam democracias rapidamente. Sua tese é sobre **ideias**: não haveria mais um princípio de legitimação política rival capaz de disputar universalmente com a democracia liberal, como o fascismo e o comunismo haviam disputado.
+
+**As objeções acumuladas em três décadas.**
+
+1. **Capitalismos autoritários bem-sucedidos.** A **China** é o contraexemplo central: crescimento econômico sem paralelo, prosperidade crescente e regime de partido único, apresentando-se explicitamente como **alternativa de modelo** a outros países. Se um sistema assim funciona e se difunde, o monopólio ideológico da democracia liberal não se sustenta.
+2. **Retorno de nacionalismos e fundamentalismos.** Da Iugoslávia dos anos 1990 aos atentados de 2001 e às ondas nacionalistas do século XXI, projetos políticos apoiados em identidade nacional ou religiosa mostraram força mobilizadora que a tese não previa (@sec-nova-ordem-mundial).
+3. **Erosão democrática por dentro.** A crise financeira de **2008**, o crescimento da desigualdade e o avanço de lideranças autoritárias em democracias consolidadas indicam que o modelo não é autossustentável nem irreversível (@sec-desafios-do-presente).
+4. **Crítica de método.** A tese é uma **filosofia da história teleológica**: supõe que o processo histórico tem direção e destino. Historiadores desconfiam profundamente disso, e por boa razão.
+
+**O ponto de método que a questão realmente cobra.** **Teleologias são perigosas em História, venham de onde vierem.** A afirmação "o socialismo é o destino inevitável da humanidade" e a afirmação "a democracia liberal é o ponto final da história" cometem exatamente o mesmo erro lógico: tomam como **necessário** o que é **contingente**, e leem o passado inteiro como preparação de um presente que se toma por definitivo. Nos anos 1930, um observador competente poderia ter concluído com igual segurança que a democracia liberal era um episódio encerrado, esmagada entre fascismo e comunismo (@sec-totalitarismos). Estaria errado — e pelas mesmas razões.
+
+**Como concluir.** O valor duradouro do debate não está na resposta de Fukuyama, e sim na pergunta que ele obrigou o mundo a fazer em 1989: **o que vem depois da bipolaridade?** Trinta e cinco anos depois, a resposta continua em construção — e é exatamente esse o assunto do próximo volume (@sec-globalizacao-neoliberalismo; @sec-nova-ordem-mundial).
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- HOBSBAWM, Eric. *Era dos Extremos* [@hobsbawmExtremos1995]. A parte final, sobre o "desmoronamento", escrita por um historiador marxista analisando o fim do sistema que estudou a vida toda — leia atento também ao que o texto revela sobre seu autor.
+- JUDT, Tony. *Pós-guerra* [@judt2008]. Os capítulos sobre 1989 e sobre a transição são os melhores em qualquer língua.
+- KOTKIN, Stephen. *Armageddon Averted* [@kotkin2008]. Curto e provocador: sustenta que a URSS implodiu por dentro, quando a elite deixou de acreditar.
+- SERVICE, Robert. *Camaradas* [@service2015]. História mundial do comunismo, útil para ver o conjunto.
+- APPLEBAUM, Anne. *Cortina de ferro* [@applebaum2017]. Como os regimes do Leste foram construídos — indispensável para entender por que ruíram tão depressa.
+- FITZPATRICK, Sheila [@fitzpatrick2017]. A vida cotidiana soviética vista de baixo, contraponto necessário às histórias escritas do Kremlin.
+- VOGEL, Ezra. *Deng Xiaoping and the Transformation of China* [@vogel2011]. Para a comparação chinesa.
+
+**Fontes primárias**
+
+- GORBACHEV, Mikhail. *Perestroika* [@gorbachev1987]. Escrito **durante** o processo, sem saber o desfecho — é isso que o torna valioso como fonte.
+- HAVEL, Václav. *O poder dos sem poder* [@havel2013]. O ensaio do quitandeiro e do cartaz; um dos textos políticos mais argutos do século XX.
+- SOLJENÍTSIN, Aleksandr. *Arquipélago Gulag* [@soljenitsyn2019]. Denúncia e monumento literário; leia ao lado da historiografia acadêmica sobre os campos.
+- O **Discurso Secreto de Khruschev** [@khruschev1956]. Um dirigente comunista descrevendo os crimes do próprio regime a portas fechadas.
+
+**Filmes e documentários**
+
+- *Adeus, Lênin!* (2003), dir. Wolfgang Becker. O melhor retrato ficcional da *Ostalgie* e da estranheza de acordar em outro país sem ter saído de casa.
+- *A vida dos outros* (2006), dir. Florian Henckel von Donnersmarck. A Stasi, a vigilância e a conversão de um agente.
+- *Chernobyl* (2019), minissérie da HBO. Excelente sobre a mecânica do encobrimento burocrático; historicamente livre em vários pontos — assista com essa ressalva.
+- *O Homem de Ferro* (1981), dir. Andrzej Wajda. Rodado **durante** o Solidariedade, antes da lei marcial; cinema como acontecimento político.
+- *Gorbachev. Heaven* (2020), dir. Vitaly Mansky. Longas conversas com Gorbachev já velho, olhando para trás.
