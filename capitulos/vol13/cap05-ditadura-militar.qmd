@@ -1,5 +1,446 @@
 # A Ditadura Militar (1964–1985) {#sec-ditadura-militar}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Em 1964, o Brasil tinha um presidente eleito, um Congresso em funcionamento, partidos, eleições diretas para governador, imprensa livre e sindicatos atuantes. Em 1970, tinha um presidente escolhido por generais e referendado por um Congresso depurado, dois partidos criados por decreto, eleições indiretas para governador, censura prévia nas redações e um sistema nacional de centros de tortura instalado dentro dos quartéis. Entre uma coisa e outra não houve um golpe, e sim **vários** — cada ato institucional fechando um pouco mais o que o anterior deixara aberto. É essa engrenagem, e não apenas a data de 31 de março, que este capítulo precisa fazer você entender: como um regime que se apresentou como transitório e "revolucionário" durou **21 anos**, e por que a **Comissão Nacional da Verdade**, cinquenta anos depois, ainda estava reconstituindo o que aconteceu com pessoas cujos corpos nunca foram devolvidos às famílias.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- descrever o **golpe de 1964** e a instalação do regime, distinguindo suas fases;
+- explicar a função dos **Atos Institucionais**, sobretudo do **AI-5**;
+- caracterizar o **bipartidarismo** ARENA–MDB e as eleições sob a ditadura;
+- analisar o "**milagre econômico**", seus mecanismos e seu custo social;
+- descrever o **aparato repressivo** (SNI, DOI-CODI, Oban), a tortura e o desaparecimento forçado;
+- caracterizar as **oposições**: legal, armada, sindical, estudantil, eclesial e cultural;
+- explicar a **abertura** "lenta, gradual e segura", a **Anistia** de 1979 e as **Diretas Já**;
+- avaliar o impacto do regime sobre **povos indígenas** e sobre o meio ambiente;
+- contrastar as interpretações historiográficas sobre a natureza do regime e sobre a memória de suas violências.
 :::
+
+## A instalação do regime (1964–1968) {#sec-instalacao-regime}
+
+Os vencedores de 31 de março chamaram o movimento de "Revolução" e prometeram eleições em 1965. Nada disso se cumpriu.
+
+**O AI-1** (9 de abril de 1964), editado pelo "Comando Supremo da Revolução", manteve a Constituição de 1946 — mas acima dela. Deu ao Executivo poder de **cassar mandatos** e **suspender direitos políticos** por dez anos, sem apreciação judicial, e tornou **indireta** a eleição presidencial daquele ano. O preâmbulo, redigido por **Francisco Campos** — o mesmo autor da Constituição de 1937 (@sec-era-vargas) —, é uma peça notável: afirma que a legitimidade do ato não vinha da Constituição, mas da própria vitória, pois "a revolução se legitima por si mesma".
+
+Nas semanas seguintes: **Jango**, **Jânio**, **JK**, **Prestes**, **Brizola**, **Celso Furtado**, **Josué de Castro**, **Darcy Ribeiro** e centenas de outros perderam direitos políticos; foram criadas as primeiras **IPMs** (Inquéritos Policiais Militares); dezenas de milhares de pessoas foram presas nas primeiras semanas — em navios, quartéis e delegacias. Também em 1964 nasceu o **SNI (Serviço Nacional de Informações)**, concebido pelo general **Golbery do Couto e Silva**, que teria dito, anos depois, ter criado "um monstro".
+
+**Castelo Branco (1964–1967)** governou com o discurso da transitoriedade e a prática do endurecimento progressivo:
+
+- **PAEG** (Plano de Ação Econômica do Governo), de Roberto Campos e Octávio Bulhões: combate à inflação por arrocho salarial, corte de gastos e crédito; criação do **Banco Central** e do **BNH**; substituição da estabilidade no emprego pelo **FGTS** (1966) — medida que aumentou a rotatividade e enfraqueceu o poder de barganha dos trabalhadores;
+- **AI-2** (outubro de 1965): **extingue todos os partidos** e torna indiretas as eleições para presidente. Nasce o **bipartidarismo** por decreto: **ARENA** (situação) e **MDB** (oposição consentida);
+- **AI-3** (1966): eleições **indiretas para governador** e prefeitos de capitais nomeados;
+- **AI-4** (dezembro de 1966): convoca o Congresso, sob recesso e cassações, para aprovar a **Constituição de 1967**, que incorporou o entulho autoritário ao texto constitucional.
+
+::: {.callout-important title="Como funcionam os atos institucionais"}
+Não os decore como uma lista. Entenda a **lógica**: cada AI resolve um problema criado pelo anterior.
+
+O AI-1 permitiu cassar opositores — mas os que restaram, nos partidos existentes, continuavam incomodando. O **AI-2** extinguiu os partidos e criou dois sob medida. Mas o MDB, mesmo consentido, começou a vencer eleições estaduais — e o **AI-3** tornou indiretas as eleições para governador. O Congresso resultante ainda resistia a aprovar a nova Constituição — e o **AI-4** o convocou sob coação. Quando, apesar de tudo, o Congresso negou licença para processar um deputado que criticara o Exército, veio o **AI-5**, que simplesmente fechou o Congresso e aboliu o problema.
+
+A regra geral: **regimes de exceção não param sozinhos**. Cada instrumento de exceção cria a necessidade do próximo, porque a repressão gera oposição, que exige mais repressão. Reter essa dinâmica vale mais do que memorizar as datas.
+:::
+
+## 1968 e o AI-5 {#sec-1968-ai5}
+
+O ano de **1968** foi de contestação no mundo inteiro (@sec-conflitos-guerra-fria), e no Brasil teve marcos próprios:
+
+- a morte do estudante secundarista **Edson Luís de Lima Souto**, de 18 anos, baleado pela polícia no restaurante Calabouço, no Rio, em 28 de março; seu velório e sua missa de sétimo dia reuniram multidões;
+- a **Passeata dos Cem Mil** (26 de junho, Rio), reunindo estudantes, artistas, intelectuais, padres e mães de estudantes;
+- as **greves operárias** de **Contagem** (MG) e **Osasco** (SP), as primeiras desde 1964, com ocupação de fábricas;
+- o congresso clandestino da **UNE** em Ibiúna (SP), com prisão em massa de estudantes;
+- o **discurso do deputado Márcio Moreira Alves**, do MDB, sugerindo que as famílias boicotassem os desfiles de 7 de setembro e que as jovens não namorassem oficiais. O governo pediu licença para processá-lo; em **12 de dezembro de 1968**, a Câmara **negou** por 216 votos a 141 — muitos deles da ARENA.
+
+No dia seguinte, **13 de dezembro de 1968**, o presidente **Costa e Silva** editou o **Ato Institucional nº 5** [@ai5]. Foi o instrumento mais duro da história republicana brasileira:
+
+- fechamento do **Congresso Nacional**, das assembleias e das câmaras por tempo indeterminado (o Congresso ficou fechado quase um ano);
+- poder de **cassar mandatos** e **suspender direitos políticos** por dez anos, sem limite e sem revisão judicial;
+- **suspensão do habeas corpus** para crimes políticos — a autorização legal para a tortura sistemática;
+- **intervenção** em estados e municípios; **demissão, remoção e aposentadoria** compulsória de servidores, inclusive juízes e professores universitários;
+- **confisco de bens** por "enriquecimento ilícito"; **censura** prévia a imprensa, música, teatro, cinema e livros;
+- e a cláusula decisiva: os atos praticados com base nele ficavam **excluídos de apreciação judicial**.
+
+O AI-5 vigorou por **dez anos**, até 31 de dezembro de 1978.
+
+## Os "anos de chumbo" e o milagre (1969–1974) {#sec-anos-de-chumbo}
+
+::: {#fig-cronologia-ditadura}
+
+```{.tikz}
+%%| filename: fig-cronologia-ditadura
+%%| alt: Linha do tempo da ditadura militar brasileira de 1964 a 1985, com os cinco presidentes e os marcos de cada período.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize},
+   marco/.style={align=center, text width=2.9cm, font=\scriptsize}]
+  \fill[manualyellow!28] (0,-0.2) rectangle (3.0,0.2);
+  \fill[manualred!30]    (3.0,-0.2) rectangle (7.4,0.2);
+  \fill[manualgreen!25]  (7.4,-0.2) rectangle (15.2,0.2);
+  \draw[eixo, very thick, black] (-0.5,0) -- (15.8,0);
+
+  \foreach \x/\ano in {0/1964, 1.4/1967, 3.0/1968, 5.0/1969, 7.4/1974, 10.6/1979, 13.6/1984, 15.2/1985}
+    {\node[ponto] at (\x,0) {}; \draw[thick] (\x,-0.1) -- (\x,0.1);}
+
+  \node[align=center, font=\scriptsize\bfseries, text=manualyellow] at (1.5,0.45) {INSTALAÇÃO};
+  \node[align=center, font=\scriptsize\bfseries, text=manualred]    at (5.2,0.45) {ANOS DE CHUMBO};
+  \node[align=center, font=\scriptsize\bfseries, text=manualgreen]  at (11.3,0.45) {ABERTURA};
+
+  \node[marco, anchor=south] at (0,1.0)    {\textbf{1964} golpe\\ \textbf{AI-1}, SNI, IPMs\\ \textbf{Castelo Branco}};
+  \node[marco, anchor=north] at (1.7,-0.5) {\textbf{1965--67} \textbf{AI-2}:\\ ARENA e MDB\\ \textbf{AI-3}, \textbf{AI-4}\\ Constituição de 67};
+  \node[marco, anchor=south] at (3.6,1.0)  {\textbf{1968} Edson Luís,\\ Cem Mil, greves\\ \textbf{AI-5} (13 dez.)\\ \textbf{Costa e Silva}};
+  \node[marco, anchor=north] at (6.0,-0.5) {\textbf{1969--74} \textbf{Médici}\\ ``\textbf{milagre}'' (11\% a.a.)\\ DOI-CODI, tortura\\ luta armada e \textbf{Araguaia}};
+  \node[marco, anchor=south] at (9.0,1.0)  {\textbf{1974--79} \textbf{Geisel}\\ distensão ``lenta,\\ gradual e segura''\\ crise do petróleo, \textbf{II PND}\\ Herzog (1975), Pacote de Abril};
+  \node[marco, anchor=north] at (12.2,-0.5){\textbf{1979--85} \textbf{Figueiredo}\\ \textbf{Anistia} (1979)\\ greves do \textbf{ABC}\\ pluripartidarismo\\ \textbf{Riocentro} (1981)};
+  \node[marco, anchor=south] at (14.8,1.0) {\textbf{1984--85}\\ \textbf{Diretas Já}\\ Tancredo, \textbf{Sarney}};
+
+  \node[draw, dashed, rounded corners, fill=manualgray!14, align=center, text width=15.0cm] at (7.6,-3.4)
+    {\textbf{Números do regime, segundo a Comissão Nacional da Verdade (2014):} \textbf{434} mortos e desaparecidos políticos identificados $\cdot$\\ mais de \textbf{20 mil} pessoas torturadas $\cdot$ \textbf{8.350} indígenas mortos apenas nos casos apurados $\cdot$ centenas de milhares de perseguidos.};
+\end{tikzpicture}
+```
+
+Os 21 anos do regime em três fases. O AI-5 é a dobradiça: separa a ditadura instalada da ditadura escancarada.
+:::
+
+Costa e Silva sofreu um derrame em 1969; os ministros militares impediram a posse do vice **civil**, Pedro Aleixo — que fora, aliás, o único a votar contra o AI-5 —, e uma junta militar governou até escolher **Emílio Garrastazu Médici**.
+
+**A repressão organizada.** O governo Médici (1969–74) consolidou um **sistema nacional** de repressão política:
+
+- a **Oban** (Operação Bandeirantes, São Paulo, 1969), financiada por **empresários** e por multinacionais, serviu de modelo;
+- os **DOI-CODI** (Destacamentos de Operações de Informações–Centros de Operações de Defesa Interna), criados a partir de 1970, integraram Exército, Marinha, Aeronáutica e polícias sob comando unificado, com sedes nas principais capitais;
+- o **DOPS** estadual, o **CIE** do Exército, o **CENIMAR** da Marinha e o **CISA** da Aeronáutica compunham a rede;
+- a **tortura** tornou-se método rotineiro e ensinado: pau de arara, choques elétricos, afogamento, "cadeira do dragão", violência sexual. O relatório **Brasil: Nunca Mais**, montado clandestinamente a partir de cópias de processos da própria Justiça Militar, documentou centenas de casos com nomes de torturadores e de vítimas [@arns1985]; a **CNV** confirmou e ampliou o quadro [@cnv2014].
+
+::: {#fig-aparato-repressivo}
+
+```{.tikz}
+%%| filename: fig-aparato-repressivo
+%%| alt: Organograma do aparato repressivo da ditadura militar brasileira, da doutrina de segurança nacional aos centros de tortura.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \node[draw, very thick, rounded corners, fill=manualgray!20, align=center, text width=11.0cm] (d) at (0,3.2)
+    {\textbf{DOUTRINA DE SEGURANÇA NACIONAL} (Escola Superior de Guerra)\\ a guerra é \textbf{permanente} $\cdot$ o inimigo é \textbf{interno} $\cdot$ segurança e desenvolvimento são inseparáveis};
+
+  \node[draw, thick, rounded corners, fill=manualblue!18, align=center, text width=3.4cm] (sni) at (-6.0,1.0)
+    {\textbf{SNI} (1964)\\ informações,\\ arquivos, agentes\\ em toda a máquina};
+  \node[draw, thick, rounded corners, fill=manualblue!18, align=center, text width=3.4cm] (ser) at (-2.1,1.0)
+    {\textbf{SERVIÇOS DAS FORÇAS}\\ \textbf{CIE} (Exército)\\ \textbf{CENIMAR} (Marinha)\\ \textbf{CISA} (Aeronáutica)};
+  \node[draw, thick, rounded corners, fill=manualblue!18, align=center, text width=3.4cm] (dops) at (1.8,1.0)
+    {\textbf{DOPS} estaduais\\ e polícias civil\\ e militar};
+  \node[draw, thick, rounded corners, fill=manualblue!18, align=center, text width=3.4cm] (cen) at (5.7,1.0)
+    {\textbf{CENSURA}\\ Div. de Censura de\\ Diversões Públicas\\ (Polícia Federal)};
+
+  \node[draw, very thick, rounded corners, fill=manualred!24, align=center, text width=11.0cm, text=manualred] (doi) at (-0.15,-1.2)
+    {\textbf{Oban} (SP, 1969, financiada por \textbf{empresários}) $\rightarrow$ \textbf{DOI-CODI} (a partir de 1970)\\ integração das três Forças e das polícias sob comando unificado, nas principais capitais\\ \textbf{prisão sem registro $\cdot$ incomunicabilidade $\cdot$ tortura $\cdot$ execução $\cdot$ desaparecimento forçado}};
+
+  \node[draw, thick, dashed, rounded corners, fill=manualyellow!24, align=center, text width=11.0cm] (base) at (-0.15,-3.4)
+    {\textbf{A base jurídica: AI-5 (1968)} --- suspensão do \textbf{habeas corpus} (sem controle prévio)\\ $+$ exclusão de \textbf{apreciação judicial} (sem controle posterior) $=$ \textbf{impunidade estrutural}};
+
+  \draw[vetor, thick, manualgray] (d) -- (sni); \draw[vetor, thick, manualgray] (d) -- (ser);
+  \draw[vetor, thick, manualgray] (d) -- (dops); \draw[vetor, thick, manualgray] (d) -- (cen);
+  \draw[vetor, thick, manualgray] (sni) -- (doi); \draw[vetor, thick, manualgray] (ser) -- (doi);
+  \draw[vetor, thick, manualgray] (dops) -- (doi);
+  \draw[vetor, very thick, manualred] (base) -- (doi);
+\end{tikzpicture}
+```
+
+O aparato repressivo: doutrina no topo, órgãos de informação no meio, execução na base — e o AI-5 como fundamento jurídico de tudo.
+:::
+
+**A luta armada.** Cerca de vinte organizações de esquerda optaram pelo enfrentamento armado, com talvez 5 a 10 mil pessoas envolvidas no total: **ALN** (de **Carlos Marighella**, morto em emboscada em 1969), **MR-8**, **VPR** e **VAR-Palmares** (de que participou **Dilma Rousseff**, presa e torturada), **POLOP**, **PCdoB**. Realizaram expropriações bancárias e sequestros de embaixadores — o do embaixador norte-americano **Charles Elbrick** (1969) libertou 15 presos políticos — e a **Guerrilha do Araguaia** (1972–74), do PCdoB, no sul do Pará, foi combatida por milhares de soldados numa operação mantida em segredo; cerca de 70 guerrilheiros foram mortos ou desapareceram, e a maioria dos corpos nunca foi localizada.
+
+::: {.callout-warning title="Sobre a \"teoria dos dois demônios\""}
+Existe uma versão que apresenta o período como uma "guerra" entre dois extremos igualmente responsáveis: de um lado a guerrilha, de outro a repressão, com a sociedade no meio. Ela precisa ser examinada com cuidado, e não simplesmente aceita ou rejeitada.
+
+O que ela **acerta**: houve de fato organizações que optaram pela violência armada, com mortes que não devem ser omitidas nem romantizadas, e essa escolha teve consequências políticas — inclusive a de fornecer justificativa pública ao endurecimento.
+
+O que ela **erra**, e por isso não se sustenta como explicação: **(1)** a cronologia — a ditadura foi instalada em 1964, e a luta armada só se organiza a partir de 1968, isto é, **depois** do AI-5 e do fechamento de todos os canais legais; **(2)** a assimetria — de um lado, grupos com algumas centenas de militantes ativos; de outro, o **aparato do Estado**, com orçamento, quartéis, polícias, arquivos e imunidade legal; **(3)** a natureza dos atos — o Estado praticou **tortura sistemática, execução e desaparecimento forçado** de pessoas já sob sua custódia e indefesas, o que constitui categoria distinta de qualquer ação de combate; **(4)** o alcance — a repressão atingiu esmagadoramente pessoas **desarmadas**: sindicalistas, estudantes, jornalistas, padres, professores, camponeses, indígenas.
+
+A conclusão não é que os guerrilheiros sejam irrepreensíveis; é que a **equivalência é falsa**, porque compara um ator estatal, com dever legal de proteger, a atores privados sem poder de Estado — e ignora quem começou, quem tinha alternativas e quem detinha o monopólio da força.
+:::
+
+**O "milagre econômico" (1968–1973).** A economia cresceu a taxas espetaculares: **média de 11% ao ano**, chegando a 14% em 1973, com inflação relativamente controlada (15–20%) e explosão das exportações. As bases:
+
+- **arrocho salarial**, com reajustes abaixo da inflação e greves proibidas, garantindo lucros e investimento;
+- **crédito externo abundante e barato** — o mundo estava cheio de petrodólares —, que financiou obras e importações;
+- **grandes obras**: Transamazônica, Ponte Rio–Niterói, Usina de Itaipu, Angra I, ampliação da Petrobras e da siderurgia;
+- **crédito ao consumo** para bens duráveis (automóveis, eletrodomésticos), sustentando a demanda das classes médias;
+- forte **investimento estatal** em infraestrutura e empresas públicas.
+
+**O custo.** O crescimento foi **concentrador**: entre 1960 e 1970, a participação dos 10% mais ricos na renda subiu de 39,6% para 47,8%, enquanto a dos 50% mais pobres caiu. Quando questionado, o ministro **Delfim Netto** popularizou a fórmula de que era preciso "**esperar o bolo crescer para depois dividir**" — o bolo cresceu, a divisão não veio. A dívida externa saltou de cerca de 3 bilhões de dólares (1964) para 12 bilhões (1973) e mais de 100 bilhões nos anos 1980. Quando os **choques do petróleo** (1973 e 1979) e a alta dos juros americanos (1979) encerraram o crédito barato, a conta chegou — e foi paga pela década perdida dos anos 1980 (@sec-redemocratizacao-nova-republica).
+
+**Propaganda e ufanismo.** A **AERP** (Assessoria Especial de Relações Públicas) produziu a face simbólica do período: "Brasil, ame-o ou deixe-o", "Ninguém segura este país", "Pra Frente Brasil" na Copa de 1970 — vencida com o time de Pelé, Tostão e Jairzinho, e amplamente capitalizada pelo governo. A rede nacional de televisão, viabilizada pelo investimento estatal em telecomunicações (Embratel, satélites), integrou o país como nunca — e a **Rede Globo** cresceu nesse ambiente.
+
+**Povos indígenas.** O impacto foi devastador e por muito tempo silenciado. A abertura de rodovias na Amazônia (**Transamazônica**, BR-174, Perimetral Norte) e os projetos de colonização atingiram povos inteiros. A CNV, com base sobretudo no **Relatório Figueiredo** — documento de mais de 7 mil páginas produzido em 1967, dado por perdido e reencontrado em 2013 —, estimou em pelo menos **8.350** os indígenas mortos apenas nos casos apurados, por remoções forçadas, epidemias deliberadamente ignoradas, trabalho escravo e massacres; os **Waimiri-Atroari**, os **Wai-Wai**, os **Cinta-Larga**, os **Yanomami** e os **Krenak** estão entre os povos mais atingidos. Houve inclusive dois presídios indígenas, o **Reformatório Krenak** e a Fazenda Guarani, para onde eram enviados indígenas considerados "problemáticos" [@cnv2014].
+
+## Resistir sob a ditadura {#sec-resistencias}
+
+A oposição não se resume à luta armada — e, de fato, foram as outras formas que derrubaram o regime.
+
+- **Oposição legal:** o **MDB**, especialmente sua ala "autêntica", usou o Congresso como caixa de ressonância, mesmo depurado. Nas eleições de **1974**, venceu 16 das 22 disputas para o Senado — resultado que assustou o governo e mudou o cálculo da abertura.
+- **Igreja Católica:** de apoiadora inicial do golpe a principal instituição de oposição. Sob influência do Concílio Vaticano II e da **Teologia da Libertação**, a **CNBB**, arcebispos como **dom Paulo Evaristo Arns**, **dom Hélder Câmara** e **dom Pedro Casaldáliga**, a **Comissão Pastoral da Terra**, o **Conselho Indigenista Missionário** e milhares de **Comunidades Eclesiais de Base** protegeram perseguidos, denunciaram torturas e organizaram bairros e trabalhadores rurais. O projeto **Brasil: Nunca Mais** foi conduzido clandestinamente por dom Paulo e pelo pastor presbiteriano Jaime Wright [@arns1985].
+- **Movimento estudantil:** desarticulado após 1968 e a prisão em Ibiúna, ressurgiu no fim dos anos 1970 com a reconstrução da UNE (1979).
+- **Novo sindicalismo:** a partir de 1978, greves no **ABC paulista** — Scania, Ford, Mercedes, Volkswagen — sob liderança de **Luiz Inácio Lula da Silva**, então presidente do Sindicato dos Metalúrgicos de São Bernardo. Rompiam tanto com o regime quanto com o sindicalismo atrelado ao Estado, organizando-se na fábrica e em assembleias de massa no estádio da Vila Euclides [@sader1988]. Daí sairiam a **CUT** (1983) e o **PT** (1980).
+- **Cultura:** a **Tropicália** (Caetano Veloso, Gilberto Gil, Os Mutantes, Tom Zé, Torquato Neto), que respondeu ao país com deboche e antropofagia — e cujos principais nomes foram presos e exilados em 1969; a MPB dos festivais e das canções cifradas ("Cálice", "Apesar de Você", "O Bêbado e a Equilibrista"); o teatro de Augusto Boal e do Oficina; o **Cinema Novo** e depois o **Cinema Marginal**; a **imprensa alternativa** — *Opinião*, *Movimento*, *O Pasquim*, *Versus* —, que sobreviveu à censura com criatividade e teve bancas atacadas a bomba.
+- **Familiares e defensores:** advogados que impetravam habeas corpus sem esperança, o Comitê Brasileiro pela Anistia, o Movimento Feminino pela Anistia (fundado por Therezinha Zerbini em 1975) e as mães e esposas que percorriam quartéis atrás de notícias de desaparecidos. Foi essa mobilização, em grande medida feminina, que manteve viva a questão dos mortos e desaparecidos por décadas.
+
+**O caso Herzog.** Em **25 de outubro de 1975**, o jornalista **Vladimir Herzog**, diretor de jornalismo da TV Cultura, apresentou-se espontaneamente ao DOI-CODI de São Paulo para depor. Horas depois, o Exército anunciou seu **suicídio**, divulgando uma fotografia encenada em que ele aparecia enforcado com o próprio cinto num ponto baixo da cela. A farsa era grosseira e foi reconhecida como tal. O culto ecumênico celebrado por **dom Paulo Evaristo Arns** na Catedral da Sé, com o rabino Henry Sobel — que decidiu enterrá-lo em área comum do cemitério judaico, e não na reservada a suicidas —, reuniu 8 mil pessoas sob cerco policial e tornou-se um marco. Quando, em janeiro de 1976, o operário **Manoel Fiel Filho** morreu nas mesmas circunstâncias e no mesmo lugar, o presidente **Geisel** demitiu o comandante do II Exército, general Ednardo D'Ávila Mello — sinal de que a repressão descontrolada passara a ameaçar o próprio projeto do regime.
+
+## A abertura (1974–1985) {#sec-abertura}
+
+**Geisel (1974–1979)** anunciou uma distensão "**lenta, gradual e segura**", concebida com **Golbery do Couto e Silva**. As razões eram várias: o fim do milagre com os choques do petróleo, o desgaste internacional (o governo Carter passou a cobrar direitos humanos), a vitória eleitoral do MDB em 1974 e, sobretudo, a necessidade de a cúpula militar **recuperar o controle** sobre um aparato repressivo que se autonomizara — a chamada "comunidade de informações", cujos setores mais duros resistiam à abertura.
+
+A abertura foi, portanto, **conduzida de cima e controlada**, avançando e recuando:
+
+- **1974**: derrota eleitoral do governo; fim da censura prévia em parte da imprensa;
+- **1975–76**: casos **Herzog** e **Manoel Fiel Filho**; demissão do comandante do II Exército;
+- **1976**: **Lei Falcão**, restringindo a propaganda eleitoral a foto e currículo lido, para conter o MDB;
+- **1977**: **Pacote de Abril** — Geisel fecha o Congresso e impõe por decreto o "**senador biônico**" (um terço do Senado eleito indiretamente), o mandato presidencial de seis anos e regras que sub-representavam os estados urbanos;
+- **1977**: demissão do ministro do Exército Sylvio Frota, expoente da linha-dura, numa operação política decisiva;
+- **1978**: **fim do AI-5** (a partir de 1º de janeiro de 1979), restauração do habeas corpus e fim da censura prévia; começam as greves do ABC;
+- **1979**: **Lei da Anistia**, votada com emenda governista que estendeu o perdão aos "crimes conexos" — fórmula que abrangeu os **agentes do Estado** e impediu, até hoje, a responsabilização penal por tortura, execução e desaparecimento no Brasil, ao contrário do que ocorreu na Argentina, no Chile e no Uruguai;
+- **1979**: **reforma partidária** — fim do bipartidarismo, para fragmentar a oposição. Nascem **PDS** (ex-ARENA), **PMDB**, **PT**, **PDT** (de Brizola), **PTB**;
+- **1981**: atentado do **Riocentro** — bombas preparadas por agentes do Exército explodem no colo dos próprios militares num show de 1º de maio, expondo a resistência armada da linha-dura à abertura. O inquérito foi abafado por décadas;
+- **1982**: primeiras **eleições diretas para governador** desde 1965; a oposição vence nos maiores estados;
+- **1983–84**: campanha das **Diretas Já** — os maiores comícios da história do país, com mais de um milhão de pessoas na Candelária e no Vale do Anhangabaú. Em **25 de abril de 1984**, a **emenda Dante de Oliveira** obteve 298 votos, 22 a menos que os dois terços necessários. A votação foi transmitida com restrições, e a Rede Globo minimizou a cobertura dos comícios até a fase final;
+- **1985**: derrotadas as diretas, a oposição disputa e vence o **Colégio Eleitoral** com **Tancredo Neves**, apoiado pela dissidência do PDS (**Frente Liberal**, de José Sarney). Tancredo adoece na véspera da posse e morre em 21 de abril; assume o vice, **José Sarney** — que fora presidente do partido de sustentação do regime até poucos meses antes.
+
+::: {.callout-tip title="A pergunta de prova: quem fez a abertura?"}
+Nem só o regime, nem só a sociedade — e a resposta boa mostra a **interação**.
+
+**O regime** definiu o calendário, a velocidade e as regras (Lei Falcão, Pacote de Abril, anistia recíproca, reforma partidária, eleição indireta em 1985), garantindo uma transição sem responsabilização e sem ruptura.
+
+**A sociedade** forçou cada etapa: as vitórias eleitorais do MDB em 1974 e 1982, as greves do ABC, a campanha pela anistia, a mobilização da Igreja, a imprensa alternativa e o gigantismo das Diretas Já.
+
+A síntese: a abertura foi uma **transição negociada**, em que o regime conseguiu impor **a forma** (gradual, sem julgamentos, com o poder sendo entregue a um civil oriundo de sua própria base) e a sociedade conseguiu impor **o prazo** (muito mais curto do que a "distensão segura" previa). É exatamente esse desenho que explica as heranças que estudaremos no @sec-redemocratizacao-nova-republica.
+:::
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+**1. Que nome dar ao regime?** A discussão sobre "ditadura militar" ou "**ditadura civil-militar**" foi tratada no @sec-republica-de-1946 quanto ao golpe; aplicada ao **regime**, ela se desdobra. **Daniel Aarão Reis** argumenta que "civil-militar" descreve melhor os 21 anos, porque o regime contou com participação civil permanente: tecnocratas (Delfim, Roberto Campos, Simonsen), empresários que financiaram a Oban, juízes que homologaram, imprensa que colaborou, políticos da ARENA, e uma parcela da sociedade que aderiu ao ufanismo do milagre [@reisDaniel2014]. **Carlos Fico** responde que a fórmula, por mais bem-intencionada, **dilui a responsabilidade**: as decisões de exceção, a repressão e a sucessão presidencial ficaram sob controle **exclusivo** da corporação militar, e o apoio civil de 1964 evaporou rapidamente [@fico2004]. **Marcos Napolitano** propõe uma saída útil: falar em **golpe civil-militar** e **ditadura militar**, reservando a cada momento seu sujeito próprio [@napolitano2014].
+
+**2. O regime tinha um projeto ou apenas reagia?** **Maria Helena Moreira Alves** mostrou que havia um projeto explícito: a **Doutrina de Segurança Nacional**, elaborada na Escola Superior de Guerra a partir de conceitos norte-americanos e franceses (a guerra da Argélia foi laboratório), segundo a qual a guerra é permanente, o inimigo é **interno** e a segurança nacional se confunde com o desenvolvimento econômico sob comando militar. Alves descreve o regime como um ciclo de **"projeto de Estado × oposição"**: cada avanço da oposição gerava um novo instrumento de exceção, e cada instrumento gerava nova oposição [@alves1984]. **Elio Gaspari**, em sua tetralogia jornalística baseada nos arquivos de Golbery e Heitor Ferreira, matiza: houve projeto, mas também improviso, disputa interna feroz entre "castelistas" e "linha-dura", e decisões tomadas por conveniência de curto prazo [@gaspariElio2002; @gaspariElio2002b].
+
+**3. Modernização conservadora.** Há relativo consenso de que o regime **modernizou** o país — telecomunicações, sistema financeiro, pós-graduação e pesquisa (a Capes e o CNPq se expandiram enormemente), infraestrutura energética, integração do mercado nacional — e o fez **concentrando renda e suprimindo direitos**. **Rodrigo Patto Sá Motta** mostrou, no caso das universidades, que repressão e modernização não foram processos paralelos, mas **entrelaçados**: o mesmo regime que cassava professores criava a pós-graduação moderna, porque precisava de técnicos [@motta2014]. Reter esse entrelaçamento evita duas caricaturas simétricas: a de que a ditadura só destruiu e a de que "pelo menos" construiu.
+
+**4. Memória e justiça de transição.** Aqui o debate é também jurídico e político. A **Lei da Anistia de 1979**, com sua cláusula de "crimes conexos", foi interpretada pelo **STF** em 2010 (ADPF 153) como abrangendo os agentes do Estado — decisão que a **Corte Interamericana de Direitos Humanos** considerou, no mesmo ano, incompatível com a Convenção Americana no caso *Gomes Lund* (Guerrilha do Araguaia), condenando o Brasil. O resultado é a singularidade brasileira no Cone Sul: **nenhum agente do Estado foi punido criminalmente**, enquanto Argentina, Chile e Uruguai realizaram centenas de julgamentos. A **CNV** (2012–2014) identificou 434 mortos e desaparecidos, nomeou 377 agentes responsáveis e recomendou a responsabilização — recomendação não implementada [@cnv2014].
+
+**5. Por que os números importam — e por que não bastam.** Comparado a Argentina (cerca de 30 mil desaparecidos) ou Chile (mais de 3 mil mortos), o número brasileiro de 434 é menor, o que às vezes alimenta a ideia de uma "ditadura branda". A comparação é enganosa por três razões. Primeira, o Brasil **antecipou-se**: a repressão preventiva, as cassações e a vigilância desmontaram a oposição organizada **antes** que fosse necessário matar em escala — e a duração do regime, 21 anos, foi a maior do Cone Sul. Segunda, os números de mortos não medem a repressão **difusa**: mais de 20 mil torturados, dezenas de milhares de presos, milhares de exilados, centenas de cassados, milhões vigiados, e 8.350 indígenas mortos nos casos apurados. Terceira, e mais importante: gravidade não é uma questão aritmética. A pergunta historicamente produtiva não é "foi pior ou melhor que a vizinha?", mas **como funcionou** — quem decidiu, quem executou, quem lucrou, quem consentiu e o que ficou.
+
+## Resumo do capítulo {#sec-resumo}
+
+- **Instalação (1964–68):** **AI-1** (cassações, direitos políticos suspensos, eleição indireta), criação do **SNI**, IPMs e prisões em massa; **Castelo Branco** e o **PAEG** (arrocho salarial, Banco Central, BNH, **FGTS** em lugar da estabilidade); **AI-2** (extinção dos partidos, **ARENA × MDB**), **AI-3** (eleição indireta para governador), **AI-4** (Constituição de 1967). Cada ato resolve um problema criado pelo anterior — regimes de exceção não param sozinhos.
+- **1968:** morte de **Edson Luís**, **Passeata dos Cem Mil**, greves de **Contagem** e **Osasco**, congresso da UNE em Ibiúna, discurso de **Márcio Moreira Alves**. Em **13 de dezembro**, o **AI-5**: fechamento do Congresso, cassações sem revisão judicial, **suspensão do habeas corpus**, censura prévia, confisco de bens, atos excluídos de apreciação judicial. Vigorou até **31/12/1978**.
+- **Anos de chumbo (1969–74), governo Médici:** sistema nacional de repressão (**Oban**, financiada por empresários; **DOI-CODI**; DOPS, CIE, CENIMAR, CISA) com **tortura** como método rotineiro, documentada por *Brasil: Nunca Mais* e pela **CNV**. **Luta armada** (ALN de **Marighella**, MR-8, VPR, VAR-Palmares, PCdoB) e **Guerrilha do Araguaia** (1972–74).
+- **A "teoria dos dois demônios" não se sustenta:** a ditadura é de 1964 e a luta armada de 1968, **depois** do fechamento dos canais legais; a assimetria de forças é radical; tortura, execução e desaparecimento de pessoas sob custódia são categoria distinta; e a repressão atingiu esmagadoramente **desarmados**.
+- **"Milagre" (1968–73):** ~**11% a.a.** de crescimento, sustentado por **arrocho salarial**, **crédito externo barato**, grandes obras (Transamazônica, Itaipu, Rio–Niterói) e crédito ao consumo. Custo: **concentração de renda** (10% mais ricos passam de 39,6% para 47,8% da renda), explosão da **dívida externa** e a conta paga nos anos 1980. Propaganda da **AERP** e Copa de 1970.
+- **Povos indígenas:** ao menos **8.350** mortos nos casos apurados pela CNV (**Relatório Figueiredo**, reencontrado em 2013); Waimiri-Atroari, Cinta-Larga, Yanomami, Krenak; presídios indígenas como o **Reformatório Krenak**.
+- **Resistências:** **MDB** (vitória de 1974), **Igreja** (CNBB, dom Paulo, dom Hélder, CEBs, CPT, CIMI, *Brasil: Nunca Mais*), movimento estudantil, **novo sindicalismo** do **ABC** (Lula, 1978–80 → CUT e PT), cultura (**Tropicália**, MPB cifrada, teatro, **imprensa alternativa**) e a mobilização de familiares pela anistia. Casos **Herzog** (1975) e **Manoel Fiel Filho** (1976) marcam a virada.
+- **Abertura (1974–85):** **Geisel** e a distensão "lenta, gradual e segura" com **Golbery**; **Lei Falcão** (1976) e **Pacote de Abril** (1977, senador biônico); demissão de Sylvio Frota; **fim do AI-5** (1978); **Lei da Anistia** (1979) com "crimes conexos"; **reforma partidária** (PDS, PMDB, PT, PDT); **Riocentro** (1981); **diretas para governador** (1982); **Diretas Já** e derrota da **emenda Dante de Oliveira** (25/4/1984, 298 votos); **Tancredo** eleito no Colégio Eleitoral e morte; posse de **Sarney** em 1985.
+- **Historiografia:** "ditadura militar" × "**civil-militar**" (**Reis** × **Fico**, com a distinção de **Napolitano** entre golpe e regime); **projeto** da **Doutrina de Segurança Nacional** e o ciclo Estado × oposição (**Alves**) matizado pelo improviso e pelas disputas internas (**Gaspari**); **modernização conservadora** entrelaçada à repressão (**Motta**); e a **justiça de transição** — Lei da Anistia validada pelo **STF** (2010) e condenada pela **Corte Interamericana** no caso *Gomes Lund*, com nenhum agente punido criminalmente, ao contrário de Argentina, Chile e Uruguai.
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Domine: (1) a lógica encadeada dos atos institucionais; (2) o conteúdo do **AI-5** e o que 1968 tem a ver com ele; (3) os mecanismos **e** o custo do milagre; (4) a estrutura do aparato repressivo; (5) as formas de resistência **não** armadas; (6) as etapas e a lógica da abertura; (7) a crítica à "teoria dos dois demônios"; (8) a singularidade brasileira em justiça de transição.
+:::
+
+**1.** Explique a função dos **Atos Institucionais** e o significado do **AI-5**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**A função geral.** Os AIs eram normas editadas pelo Executivo **acima da Constituição**, cuja legitimidade os próprios textos declaravam derivar não da ordem jurídica, mas da vitória de 1964 — "a revolução se legitima por si mesma", escreveu Francisco Campos no preâmbulo do AI-1. Sua função era dar aparência de legalidade a decisões de exceção, permitindo que o regime **mantivesse instituições formais** (Congresso, tribunais, eleições) enquanto esvaziava seu conteúdo.
+
+**A lógica encadeada — o ponto que rende nota.**
+
+| Ato | Problema que resolvia |
+|---|---|
+| **AI-1** (abr. 1964) | opositores no Congresso e nos estados → cassação e suspensão de direitos; eleição presidencial indireta |
+| **AI-2** (out. 1965) | os partidos sobreviventes ainda abrigavam oposição → **extinção de todos os partidos**, bipartidarismo ARENA/MDB |
+| **AI-3** (fev. 1966) | o MDB vencia eleições estaduais → **eleição indireta para governador**, prefeitos de capitais nomeados |
+| **AI-4** (dez. 1966) | o Congresso resistia à nova Carta → convocação sob coação para aprovar a **Constituição de 1967** |
+| **AI-5** (dez. 1968) | o Congresso negou licença para processar Márcio Moreira Alves → **fechamento do Congresso** e poderes ilimitados |
+
+A regra que emerge: **cada instrumento de exceção cria a necessidade do seguinte**, porque a repressão produz oposição, que exige mais repressão.
+
+**O AI-5 em detalhe** [@ai5]. Editado em **13 de dezembro de 1968**, previa: fechamento por tempo indeterminado do Congresso, das assembleias e das câmaras; cassação de mandatos e suspensão de direitos políticos por dez anos sem revisão; **suspensão do habeas corpus** para crimes políticos; intervenção em estados e municípios; demissão e aposentadoria compulsória de servidores, juízes e professores; confisco de bens; **censura prévia** a imprensa, música, teatro, cinema e livros; e a cláusula-chave: **exclusão de qualquer apreciação judicial** dos atos praticados com base nele.
+
+**Por que é o marco divisor.** A suspensão do habeas corpus é o item decisivo: sem ele, um preso político deixa de ter qualquer meio de provar que está preso, onde está e em que estado — o que **viabilizou juridicamente** a tortura sistemática, a incomunicabilidade e o desaparecimento forçado. É por isso que se distingue a ditadura "envergonhada" (1964–68) da "escancarada" (1968–74), na formulação de Gaspari [@gaspariElio2002; @gaspariElio2002b]. O AI-5 vigorou por **dez anos**, até 31 de dezembro de 1978.
+:::
+
+**2.** O que foi o "**milagre econômico**"? Quais seus mecanismos e seus custos?
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Os números.** Entre 1968 e 1973, o PIB cresceu em média cerca de **11% ao ano**, atingindo 14% em 1973; a indústria cresceu ainda mais rápido; as exportações se diversificaram (manufaturados, soja, minério); a inflação, embora alta (15–20%), pareceu controlada diante do padrão anterior.
+
+**Os mecanismos.**
+
+1. **Arrocho salarial.** Reajustes por fórmula oficial abaixo da inflação real, greves proibidas e sindicatos sob intervenção. O salário mínimo perdeu poder de compra ao longo de todo o período. O resultado é uma transferência de renda do trabalho para o lucro, que financia o investimento.
+2. **Crédito externo abundante e barato.** O mercado internacional estava inundado de dólares e, depois de 1973, de petrodólares, com juros reais baixos. O Brasil se endividou para financiar importações, obras e empresas estatais.
+3. **Grandes obras e investimento estatal.** Transamazônica, Ponte Rio–Niterói, Itaipu, Angra I, expansão da Petrobras, da siderurgia e das telecomunicações.
+4. **Crédito ao consumo.** Financiamento de bens duráveis para as classes médias — automóveis, eletrodomésticos, televisores —, sustentando a demanda interna do setor mais dinâmico.
+5. **Contexto internacional favorável**, até o choque do petróleo de 1973.
+
+**Os custos.**
+
+- **Concentração de renda.** Entre 1960 e 1970, a fatia dos **10% mais ricos** subiu de 39,6% para 47,8% da renda nacional, enquanto a dos 50% mais pobres caiu. O ministro **Delfim Netto** justificou com a fórmula de "**esperar o bolo crescer para depois dividir**" — o bolo cresceu; a divisão nunca foi feita.
+- **Endividamento externo.** De cerca de 3 bilhões de dólares (1964) para 12 bilhões (1973) e mais de 100 bilhões nos anos 1980. Quando os juros americanos dispararam em 1979, a dívida se tornou impagável.
+- **Dependência de fatores externos.** O modelo dependia de crédito barato e petróleo barato; os **choques de 1973 e 1979** derrubaram os dois pilares.
+- **Custo ambiental e humano na Amazônia**: desmatamento, projetos de colonização fracassados e violência contra povos indígenas e populações ribeirinhas.
+- **Custo político.** O crescimento forneceu ao regime sua principal fonte de legitimidade — junto com a Copa de 1970 e a propaganda da **AERP**. Quando o milagre acabou, essa legitimidade evaporou, e é isso que ajuda a explicar o timing da abertura.
+
+**A avaliação.** O milagre foi crescimento **real** e **excludente**: modernizou a estrutura produtiva ao mesmo tempo em que ampliou a desigualdade, num país que já era um dos mais desiguais do mundo. E deixou uma conta — a dívida externa — que os governos civis pagariam com a **década perdida** dos anos 1980 (@sec-redemocratizacao-nova-republica).
+:::
+
+**3.** Descreva o **aparato repressivo** da ditadura brasileira.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**A doutrina.** A base era a **Doutrina de Segurança Nacional**, formulada na **Escola Superior de Guerra** a partir de conceitos norte-americanos e franceses (a experiência francesa na Argélia foi referência explícita). Seus princípios: a guerra é **permanente**; o inimigo é **interno** e pode estar em qualquer lugar da sociedade; segurança e desenvolvimento são inseparáveis; e cabe aos militares, como única instituição "acima dos interesses", zelar por ambos [@alves1984].
+
+**A estrutura.**
+
+- **SNI** (1964), criado por Golbery: órgão central de informações, com acesso direto ao presidente, agentes em ministérios, universidades e estatais, e arquivos sobre centenas de milhares de pessoas.
+- **Oban** (Operação Bandeirantes, São Paulo, 1969): primeiro centro a integrar as três Forças com as polícias civil e militar, **financiado por empresários e multinacionais** — fato documentado e essencial para entender a participação civil no regime. Serviu de modelo.
+- **DOI-CODI** (a partir de 1970): a Oban institucionalizada e replicada. Os **CODI** coordenavam; os **DOI** executavam prisões e interrogatórios. Instalados nas principais capitais.
+- Serviços próprios de cada Força — **CIE** (Exército), **CENIMAR** (Marinha), **CISA** (Aeronáutica) — e os **DOPS** estaduais.
+- **Censura**: Divisão de Censura de Diversões Públicas da Polícia Federal, com censores em redações e exame prévio de músicas, peças, filmes e livros.
+
+**Os métodos.** Prisão sem mandado e sem registro; incomunicabilidade; **tortura** sistemática e ensinada em cursos (pau de arara, choques elétricos, afogamento, "cadeira do dragão", violência sexual, ameaças a familiares); execução sumária disfarçada de "tentativa de fuga" ou "suicídio"; **desaparecimento forçado**, com ocultação de cadáveres — que é, juridicamente, um crime **permanente**, pois se prolonga enquanto o corpo não é entregue.
+
+**A documentação.** O projeto **Brasil: Nunca Mais** [@arns1985] foi conduzido clandestinamente entre 1979 e 1985 por dom Paulo Evaristo Arns e pelo pastor Jaime Wright: aproveitando o direito dos advogados de retirar processos por 24 horas, copiaram cerca de um milhão de páginas de autos da **própria Justiça Militar** e as microfilmaram no exterior. É prova produzida pelo próprio Estado contra si mesmo — o tipo de fonte mais difícil de contestar. A **CNV** (2014) confirmou o quadro, identificou **434** mortos e desaparecidos e nomeou **377 agentes** responsáveis [@cnv2014].
+
+**O que não se deve esquecer.** A repressão não se dirigiu apenas a guerrilheiros. Atingiu sindicalistas, estudantes, jornalistas, padres, freiras, professores, advogados, camponeses das Ligas e das CPTs, e **povos indígenas** — mais de **8.350** mortos apenas nos casos apurados. Mais de **20 mil** pessoas foram torturadas, segundo a CNV.
+:::
+
+**4.** Por que a chamada "**teoria dos dois demônios**" é criticada pelos historiadores?
+
+::: {.callout-tip collapse="true" title="Solução"}
+**O que ela afirma.** Que o período teria sido uma guerra entre dois extremos igualmente responsáveis — a guerrilha de esquerda e a repressão de direita —, com a sociedade como vítima passiva no meio. É uma versão que oferece a vantagem de dispensar qualquer juízo sobre o Estado.
+
+**O que ela acerta, e deve ser reconhecido.** Houve organizações que optaram pela violência armada; houve mortes causadas por elas — em assaltos, atentados e execuções internas —, que não devem ser omitidas nem romantizadas. E essa escolha teve consequências políticas reais, inclusive a de fornecer ao regime uma justificativa pública para o endurecimento.
+
+**Por que não se sustenta como explicação.**
+
+1. **Cronologia.** A ditadura foi instalada em **1964**; o AI-5 é de **dezembro de 1968**; a luta armada só se organiza **a partir de 1968**, quando já não havia eleição livre, imprensa livre, sindicato livre nem habeas corpus. Inverter a ordem — como se a violência do Estado respondesse à guerrilha — contradiz a documentação.
+2. **Assimetria de forças.** De um lado, cerca de vinte organizações com algumas centenas de militantes ativos, sem território, sem apoio de massa e sem recursos. De outro, o **Estado brasileiro**: Forças Armadas, polícias, serviços de informação, orçamento, arquivos, controle da comunicação e imunidade legal garantida pelo AI-5.
+3. **Natureza dos atos.** Tortura, execução sumária e **desaparecimento forçado** de pessoas **já sob custódia**, desarmadas e indefesas, não são atos de combate: são crimes contra a humanidade, e o agente que os pratica tem o dever legal de proteger quem prendeu. Equiparar isso a um tiroteio é apagar a distinção jurídica e moral fundamental.
+4. **Alcance da repressão.** A esmagadora maioria dos atingidos **nunca pegou em armas**: sindicalistas, estudantes, jornalistas (Herzog), operários (Manoel Fiel Filho), padres, professores, camponeses, indígenas. Uma "guerra entre dois demônios" não explica 8.350 indígenas mortos.
+5. **Duração.** A luta armada estava militarmente **liquidada em 1974**. A ditadura continuou por mais **onze anos** — o que desmente que sua razão de ser fosse combatê-la.
+
+**Conclusão.** Reconhecer a violência dos grupos armados e recusar a **equivalência** entre eles e o Estado não é contradição: é precisão. O que a "teoria dos dois demônios" faz não é acrescentar informação, e sim **suspender a assimetria** que constitui o próprio conceito de violência estatal — motivo pelo qual ela costuma aparecer, historicamente, como argumento de defesa, não como resultado de pesquisa.
+:::
+
+**5.** (Estilo ENEM) Leia o texto.
+
+> "Art. 2º — O Presidente da República poderá decretar o recesso do Congresso Nacional […]
+> Art. 4º — […] o Presidente da República poderá suspender os direitos políticos de quaisquer cidadãos pelo prazo de 10 anos e cassar mandatos eletivos federais, estaduais e municipais.
+> Art. 10 — Fica suspensa a garantia de *habeas corpus*, nos casos de crimes políticos contra a segurança nacional […]
+> Art. 11 — Excluem-se de qualquer apreciação judicial todos os atos praticados de acordo com este Ato Institucional."
+>
+> — Ato Institucional nº 5, 13 de dezembro de 1968 [@ai5]
+
+Entre os dispositivos citados, o que mais diretamente viabilizou a prática sistemática da tortura foi
+
+**(a)** o art. 2º, por permitir o fechamento do Congresso Nacional.
+**(b)** o art. 4º, por autorizar a cassação de mandatos eletivos.
+**(c)** os arts. 10 e 11, por suprimirem o *habeas corpus* e retirarem os atos do controle judicial.
+**(d)** a ausência de previsão de censura à imprensa no texto do ato.
+**(e)** a limitação do prazo de suspensão de direitos políticos a dez anos.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (c).** A resposta exige entender **o que cada dispositivo faz na prática**.
+
+O ***habeas corpus*** é a garantia pela qual qualquer pessoa pode exigir que o Estado apresente um preso a um juiz e justifique a prisão. É ele que torna possível descobrir **onde** alguém está, **em que estado** está e **por que** está preso. Suspendê-lo (art. 10) significa que uma pessoa pode ser levada, mantida incomunicável por tempo indeterminado e submetida a qualquer tratamento **sem que ninguém — família, advogado ou juiz — possa exigir vê-la**. É a condição material da tortura, da incomunicabilidade e do desaparecimento forçado.
+
+O art. 11 fecha o círculo: ao excluir os atos de "qualquer apreciação judicial", elimina também a possibilidade de responsabilização **posterior**. Sem controle prévio (art. 10) e sem controle posterior (art. 11), o agente que tortura opera com **impunidade estrutural**, e não apenas de fato.
+
+Por que as demais estão erradas:
+
+- **(a)** o fechamento do Congresso eliminou o controle **político** do Executivo — grave, mas indireto quanto à tortura;
+- **(b)** a cassação de mandatos atingia a representação política, não a integridade física dos presos;
+- **(d)** afirmação falsa: o AI-5 e sua regulamentação sustentaram a **censura prévia** a imprensa, música, teatro, cinema e livros;
+- **(e)** o prazo de dez anos é a **extensão** da punição, não um limite protetivo — e nada tem a ver com o tratamento dos presos.
+
+**Nota conceitual.** Este exercício mostra por que garantias processuais não são "formalidades para advogados". O *habeas corpus* é a diferença prática entre uma prisão e um desaparecimento — e é por isso que ele é sistematicamente atacado por regimes de exceção em toda parte.
+:::
+
+**6.** Descreva as formas de **resistência** à ditadura que não a luta armada.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**1. Oposição institucional.** O **MDB**, ainda que criado pelo próprio regime, tornou-se canal de denúncia e de acumulação eleitoral. A ala "autêntica" usava a tribuna para registrar em ata o que a imprensa não podia publicar. Nas eleições de **1974** venceu 16 das 22 disputas para o Senado — resultado que abalou o cálculo do governo e antecipou a abertura; em **1982**, venceu os governos dos maiores estados.
+
+**2. Igreja Católica.** A instituição que mais mudou de posição: de apoiadora do golpe (Marchas da Família) a principal oposição organizada. Sob influência do Vaticano II e da **Teologia da Libertação**, a **CNBB** denunciou torturas; **dom Paulo Evaristo Arns**, **dom Hélder Câmara** e **dom Pedro Casaldáliga** protegeram perseguidos; a **CPT** e o **CIMI** defenderam camponeses e indígenas; milhares de **Comunidades Eclesiais de Base** organizaram bairros periféricos e formaram lideranças — muitas das quais fundariam o PT e o MST. A Igreja tinha algo que ninguém mais tinha: **capilaridade nacional e proteção institucional relativa**.
+
+**3. Novo sindicalismo.** A partir de **1978**, greves no **ABC paulista**, com assembleias de dezenas de milhares no estádio da Vila Euclides, sob liderança de **Lula**. Rompiam com o regime **e** com o sindicalismo atrelado ao Estado desde 1943, organizando-se na fábrica e não no ministério [@sader1988]. Delas nasceram a **CUT** (1983) e o **PT** (1980).
+
+**4. Movimento estudantil.** Protagonista em 1968 (Edson Luís, Passeata dos Cem Mil), desarticulado com a prisão em massa em Ibiúna, e reconstruído no fim dos anos 1970 com a refundação da **UNE** (1979).
+
+**5. Cultura.** A **Tropicália**, que respondeu ao país com deboche e antropofagia — e cujos líderes, Caetano e Gil, foram presos e exilados em 1969; a MPB dos festivais e das canções cifradas ("Cálice", "Apesar de Você", "Que as Crianças Cantem Livres"); o teatro de Boal e do Oficina; o Cinema Novo e o Cinema Marginal; e a **imprensa alternativa** (*O Pasquim*, *Opinião*, *Movimento*, *Versus*), que driblava a censura com humor e alegoria e teve bancas atacadas a bomba.
+
+**6. Familiares, advogados e a campanha pela anistia.** Advogados que impetravam habeas corpus sem esperança apenas para registrar a existência do preso; o **Movimento Feminino pela Anistia** (Therezinha Zerbini, 1975) e o **Comitê Brasileiro pela Anistia**; e as mães, esposas e irmãs que percorriam quartéis atrás de notícias. Foi essa mobilização, em grande medida **feminina**, que impediu que a questão dos mortos e desaparecidos desaparecesse com eles.
+
+**A conclusão que importa.** A luta armada foi **militarmente derrotada em 1974**; o regime caiu em **1985**. Quem o derrubou foram estas outras formas de oposição — eleitoral, sindical, eclesial, cultural e de defesa dos direitos humanos —, mais lentas e menos espetaculares, e que tinham a vantagem decisiva de poder **crescer** dentro da sociedade em vez de se isolar dela.
+:::
+
+**7.** Explique o processo de **abertura política** e a controvérsia sobre a **Lei da Anistia**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Por que a abertura começou (1974).** Quatro fatores convergiram: o **fim do milagre** com o choque do petróleo de 1973, que retirou do regime sua principal fonte de legitimidade; a **derrota eleitoral** de 1974, que mostrou o desgaste; a **pressão internacional**, com o governo Carter cobrando direitos humanos; e — talvez o mais importante — a necessidade de a cúpula militar **retomar o controle** sobre a "comunidade de informações", um aparato repressivo que se autonomizara e ameaçava a hierarquia (casos Herzog e Manoel Fiel Filho).
+
+**Como foi conduzida.** Como distensão "**lenta, gradual e segura**", formulada por **Geisel** e **Golbery**, com avanços e recuos deliberados: fim da censura prévia em parte da imprensa (1974), mas **Lei Falcão** (1976) para conter o MDB na propaganda eleitoral; **Pacote de Abril** (1977), com o Congresso fechado por decreto para criar o "**senador biônico**" e regras que sub-representavam os estados urbanos; demissão do ministro linha-dura **Sylvio Frota** (1977); **fim do AI-5** (1978); **reforma partidária** (1979), que acabou com o bipartidarismo para **fragmentar** a oposição; **Riocentro** (1981), atentado da própria linha-dura contra a abertura; **diretas para governador** (1982); **Diretas Já** (1984) e a derrota da emenda Dante de Oliveira; **Colégio Eleitoral** (1985).
+
+**A Lei da Anistia (28 de agosto de 1979) — a controvérsia.**
+
+O projeto original do governo foi aprovado com uma **emenda** que estendia a anistia aos "crimes conexos" aos crimes políticos. A fórmula, deliberadamente ambígua, foi interpretada como abrangendo os **agentes do Estado** que praticaram tortura, execução e desaparecimento.
+
+**Os argumentos favoráveis, na época e depois.** A anistia foi uma **conquista da sociedade** — o movimento pela anistia era amplo e antigo — e permitiu o retorno de milhares de exilados e a libertação de presos políticos. Sustentou-se também que a reciprocidade era o **preço** de uma transição sem ruptura, num contexto em que a linha-dura ainda tinha capacidade de ação (o Riocentro, dois anos depois, mostrou que a ameaça era real).
+
+**Os argumentos contrários.** Primeiro, a anistia foi **incompleta e desigual**: muitos presos condenados por atos de violência não foram beneficiados de imediato, enquanto todos os agentes do Estado foram. Segundo, **crimes contra a humanidade são imprescritíveis e não anistiáveis** segundo o direito internacional, e o **desaparecimento forçado** é crime **permanente**, que continua sendo cometido enquanto o corpo não é entregue — logo, não estaria coberto por uma lei de 1979.
+
+**O desfecho jurídico.** Em **2010**, o **STF** julgou a ADPF 153 e manteve a interpretação abrangente, considerando a lei fruto de um "acordo político" de seu tempo. No mesmo ano, a **Corte Interamericana de Direitos Humanos** condenou o Brasil no caso ***Gomes Lund* (Guerrilha do Araguaia)**, declarando a lei incompatível com a Convenção Americana e determinando a investigação e a punição dos responsáveis. A sentença não foi cumprida.
+
+**A singularidade brasileira.** O resultado é que, no Cone Sul, **apenas o Brasil não puniu criminalmente nenhum agente do Estado**. A Argentina anulou suas leis de impunidade e realizou centenas de condenações; o Chile e o Uruguai também julgaram. A **CNV** (2014) identificou 434 mortos e desaparecidos, nomeou 377 agentes e recomendou responsabilização — recomendação não implementada [@cnv2014].
+
+**Por que isso importa hoje.** A discussão não é sobre vingança, e sim sobre **o que uma sociedade estabelece como fato público**. Onde houve julgamento, houve produção de prova, sentença e registro oficial do que aconteceu. Onde não houve, a disputa sobre os fatos permanece aberta — e é essa abertura que permite que ainda hoje se discuta se houve ou não ditadura no Brasil (@sec-desafios-do-presente).
+:::
+
+**8.** (Estilo vestibular — dissertativa) Discuta a expressão "**ditadura civil-militar**" e avalie a tese de que o regime promoveu uma "modernização conservadora".
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Parte 1 — o nome do regime.**
+
+**A favor de "civil-militar"** [@reisDaniel2014]. A participação civil foi permanente e estruturante, não acessória: **empresários** financiaram a **Oban**, embrião do sistema de tortura; **tecnocratas** civis (Roberto Campos, Delfim Netto, Simonsen) formularam e executaram a política econômica; **juízes** homologaram prisões e condenações produzidas sob tortura; a **grande imprensa** apoiou e praticou autocensura; a **ARENA** deu maioria parlamentar por 21 anos; **governadores** e associações de classe média aderiram; e parte considerável da sociedade consentiu, sobretudo nos anos do milagre. Chamar o regime apenas de "militar" permitiria à sociedade brasileira externalizar a responsabilidade para uma corporação, como se ela tivesse sido apenas vítima.
+
+**A ressalva de Fico** [@fico2004]. A fórmula, se aplicada sem cuidado, **dilui responsabilidades concretas**. As decisões de exceção (atos institucionais), o comando do aparato repressivo, a sucessão presidencial e as regras da abertura ficaram sob controle **exclusivo** da corporação militar; nenhum civil escolhia presidentes nem editava AIs. Além disso, a coalizão civil de 1964 **encolheu rapidamente**: em 1968, parte de quem havia marchado com a Família já estava na oposição — ou presa.
+
+**A solução de Napolitano** [@napolitano2014], que é a mais precisa: distinguir os momentos. **Golpe civil-militar** (março–abril de 1964), com ampla coalizão social; **ditadura militar** (1964–85), sob comando exclusivo da corporação, **com apoios civis** que variaram ao longo do tempo. Essa formulação preserva os dois fatos sem apagar nenhum.
+
+**Parte 2 — modernização conservadora.**
+
+**O que o regime efetivamente modernizou.** Telecomunicações (Embratel, satélites, rede nacional de TV); sistema financeiro (Banco Central, mercado de capitais, correção monetária); **pós-graduação e pesquisa**, com expansão notável da Capes e do CNPq; infraestrutura energética (Itaipu, hidrelétricas, Proálcool); expansão da fronteira agrícola; integração do mercado interno.
+
+**O que foi conservador.** A modernização se deu **sem** reforma agrária, **sem** universalização da educação básica, **sem** redistribuição de renda — e **com** supressão de direitos políticos e sindicais. A desigualdade **aumentou** durante o período de maior crescimento, o que é o dado decisivo. E a integração nacional pela comunicação de massa conviveu com censura prévia a tudo o que circulava nesses meios.
+
+**A observação de Motta** [@motta2014], que impede a leitura simplista: nas universidades, repressão e modernização não foram processos **paralelos**, e sim **entrelaçados** — o mesmo regime que cassava e aposentava professores criou a moderna pós-graduação, porque precisava de **técnicos** para o projeto de desenvolvimento. Não se trata, portanto, de um "lado bom" e um "lado ruim" que possam ser separados e pesados: são faces do mesmo projeto.
+
+**Como concluir.** A avaliação mais defensável recusa os dois extremos. Nem "a ditadura só destruiu" — o que é factualmente falso e enfraquece a crítica ao regime, por ser refutável. Nem "apesar de tudo, construiu" — argumento que trata direitos e vidas como preço aceitável por crescimento, e que ignora que outros países se desenvolveram sem torturar. A formulação precisa é: o regime realizou uma **modernização economicamente relevante, socialmente concentradora e politicamente autoritária**, cujas duas dimensões eram inseparáveis, porque foi exatamente a supressão da política — greves, eleições, imprensa — que tornou possível o padrão de acumulação escolhido.
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- NAPOLITANO, Marcos. *1964: história do regime militar brasileiro* [@napolitano2014]. A melhor síntese atual em volume único; comece por ela.
+- REIS, Daniel Aarão. *Ditadura e democracia no Brasil* [@reisDaniel2014] e FICO, Carlos. *Além do golpe* [@fico2004]. Os dois lados do debate sobre o nome e sobre a memória do regime.
+- ALVES, Maria Helena Moreira. *Estado e oposição no Brasil* [@alves1984]. A análise clássica da Doutrina de Segurança Nacional e do ciclo Estado × oposição.
+- GASPARI, Elio. *A ditadura envergonhada* e *A ditadura escancarada* [@gaspariElio2002; @gaspariElio2002b]. Reportagem histórica baseada nos arquivos de Golbery; narrativa excelente, leitura viciante.
+- MOTTA, Rodrigo Patto Sá. *As universidades e o regime militar* [@motta2014]. Sobre o entrelaçamento entre repressão e modernização.
+- SADER, Eder. *Quando novos personagens entraram em cena* [@sader1988]. Sobre o novo sindicalismo e os movimentos de bairro que refundaram a política brasileira pela base.
+
+**Fontes primárias**
+
+- O **Ato Institucional nº 5** [@ai5]. Tem duas páginas. Leia-o inteiro: é a experiência mais direta possível de como se escreve o fim das garantias.
+- **Brasil: nunca mais** [@arns1985]. Produzido a partir dos autos da própria Justiça Militar — documentação do Estado contra si mesmo.
+- **Relatório da Comissão Nacional da Verdade** [@cnv2014]. Os três volumes estão online. O volume II, com os capítulos sobre povos indígenas e sobre trabalhadores, é o menos conhecido e um dos mais importantes.
+- Os arquivos do **DOPS** e do **SNI**, no Arquivo Nacional (plataforma *Memórias Reveladas*), e as fichas de censura da Divisão de Censura de Diversões Públicas.
+
+**Filmes e documentários**
+
+- *O Dia que Durou 21 Anos* (2012), dir. Camilo Tavares, sobre o envolvimento dos EUA, com as gravações da Casa Branca.
+- *Cabra Marcado para Morrer* (1984), dir. Eduardo Coutinho. Um filme começado em 1964, interrompido pelo golpe e retomado 17 anos depois — é ao mesmo tempo obra-prima e documento do que a ditadura fez com pessoas comuns.
+- *Marighella* (2019), dir. Wagner Moura; *Batismo de Sangue* (2006), dir. Helvécio Ratton; *Zuzu Angel* (2006).
+- *Ainda Estou Aqui* (2024), dir. Walter Salles, a partir do livro de Marcelo Rubens Paiva sobre o desaparecimento de seu pai, o deputado **Rubens Paiva** — sobre o que o desaparecimento forçado faz com uma família ao longo de décadas.
+- *Vlado — 30 Anos Depois* (2005), dir. João Batista de Andrade, sobre o caso Herzog.
