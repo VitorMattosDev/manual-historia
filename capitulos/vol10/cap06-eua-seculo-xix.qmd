@@ -1,5 +1,393 @@
 # Os Estados Unidos no século XIX: expansão e Guerra Civil {#sec-eua-seculo-xix}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Em **19 de novembro de 1863**, num campo da Pensilvânia onde quatro meses antes haviam morrido cerca de 50 mil homens em três dias, um orador famoso discursou por duas horas. Depois dele, o presidente **Abraham Lincoln** levantou-se e falou por pouco mais de dois minutos — **272 palavras**. Começou lembrando que a nação fora fundada "oitenta e sete anos atrás" sobre a proposição de que "todos os homens são criados iguais", e terminou pedindo que os vivos se dedicassem à tarefa de garantir que aquela nação tivesse "**um novo nascimento da liberdade**" [@lincoln1863]. O detalhe que dá sentido à frase é este: a Declaração de Independência de 1776 afirmava a igualdade de todos os homens (@sec-independencia-eua) — e, em 1860, havia **quase quatro milhões de pessoas escravizadas** nos Estados Unidos. Foi preciso a guerra mais mortífera da história do país, com mais de 600 mil mortos, para começar a resolver essa contradição. E, mesmo assim, "começar" é a palavra exata: um século depois, negros americanos ainda lutariam pelo direito de votar e de sentar-se onde quisessem num ônibus. Este capítulo conta como, em cem anos, treze colônias na costa atlântica se tornaram uma potência continental — e a que preço.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- descrever a **expansão territorial** dos EUA e explicar a doutrina do **Destino Manifesto**;
+- analisar as consequências dessa expansão para os **povos indígenas** e para o **México**;
+- comparar as economias e os projetos de **Norte** e **Sul** e explicar por que o equilíbrio entre eles se tornou insustentável;
+- narrar a **Guerra Civil** (1861–1865), a **Proclamação de Emancipação** e as emendas constitucionais que a encerraram;
+- explicar a **Reconstrução**, sua derrota em **1877** e a implantação da segregação (**Jim Crow**, *Plessy v. Ferguson*);
+- relacionar o crescimento industrial à emergência dos EUA como **potência imperialista** a partir de **1898**;
+- comparar o fim da escravidão nos **EUA** e no **Brasil** e discutir os grandes debates historiográficos do período.
 :::
+
+## A marcha para o oeste e o Destino Manifesto {#sec-expansao-eua}
+
+Em 1783, os Estados Unidos independentes iam do Atlântico ao rio Mississippi. Em 1853, iam do Atlântico ao Pacífico. A expansão foi feita por compra, guerra, tratado e ocupação:
+
+- **Compra da Luisiana** (1803): Jefferson comprou de **Napoleão**, por 15 milhões de dólares, um território que **dobrou** o tamanho do país. Napoleão vendeu porque precisava de dinheiro para a guerra europeia e porque acabara de perder o **Haiti** — sem a ilha açucareira, o império americano da França perdia sentido.
+- **Flórida** (1819), comprada da Espanha após pressão militar.
+- **Texas**: colonos americanos instalados em território mexicano rebelaram-se, proclamaram uma república independente (1836) e foram **anexados** em **1845**.
+- **Oregon** (1846), partilhado com a Inglaterra por tratado.
+- **Guerra contra o México** (1846–1848): terminou com o **Tratado de Guadalupe Hidalgo**, pelo qual o México cedeu cerca de **metade** de seu território — Califórnia, Novo México, Arizona, Nevada, Utah e partes de outros estados. É o fato mais importante das relações entre os dois países e permanece vivo na memória mexicana.
+- **Compra de Gadsden** (1853) e, mais tarde, do **Alasca** (1867), adquirido da Rússia.
+
+A justificativa ideológica dessa expansão recebeu nome em **1845**, quando o jornalista John O'Sullivan escreveu que era o "**Destino Manifesto**" da nação americana "espalhar-se pelo continente destinado pela Providência ao livre desenvolvimento de nossos milhões que se multiplicam anualmente". O **Destino Manifesto** é a crença de que os Estados Unidos tinham a missão divina e natural de ocupar a América do Norte e levar consigo a liberdade, a democracia e o progresso. Como toda doutrina desse tipo, servia a interesses concretos — terra, ouro, portos no Pacífico — e, como veremos, dava à conquista a aparência de dever.
+
+A ocupação foi acelerada por três motores: a **corrida do ouro** da Califórnia (1848–1855), que levou centenas de milhares de pessoas ao Pacífico; o **Homestead Act** (1862), que concedia 160 acres de terra pública a quem a cultivasse por cinco anos; e a **ferrovia transcontinental**, concluída em **1869**, construída em grande parte por imigrantes **chineses** e **irlandeses** em condições brutais.
+
+::: {.callout-warning title="O outro lado da fronteira: os povos indígenas"}
+A "marcha para o oeste" foi, do ponto de vista dos povos originários, uma **conquista** acompanhada de catástrofe demográfica. Alguns marcos:
+
+- **Indian Removal Act** (1830), assinado por Andrew Jackson: autorizou a remoção forçada dos povos do sudeste para além do Mississippi. A deportação dos **cherokees** (1838–39) ficou conhecida como **Trilha das Lágrimas**: cerca de 4 mil dos 16 mil deportados morreram no caminho de fome, frio e doenças. Note o detalhe jurídico: a **Suprema Corte** havia decidido a favor dos cherokees em *Worcester v. Georgia* (1832), e o governo simplesmente **ignorou** a decisão.
+- **Guerras indígenas das planícies** (décadas de 1860–1890), com massacres de civis como os de **Sand Creek** (1864) e **Wounded Knee** (1890), este último encerrando simbolicamente a resistência armada.
+- **Extermínio do bisão**: de dezenas de milhões para algumas centenas de animais em poucas décadas, destruindo deliberadamente a base material das sociedades das planícies — foi política, e não acaso.
+- **Reservas** e políticas de assimilação forçada, como os **internatos** que separavam crianças de suas famílias para "matar o índio e salvar o homem", proibindo línguas e práticas próprias.
+
+Em **1890**, o censo declarou "fechada" a **fronteira**. A população indígena dos atuais Estados Unidos, estimada em vários milhões antes do contato europeu, havia caído para cerca de **250 mil pessoas** — resultado de epidemias, guerras, fome e remoções ao longo de quatro séculos.
+:::
+
+::: {#fig-expansao-eua}
+
+```{.tikz}
+%%| filename: fig-expansao-eua
+%%| alt: Esquema da expansão territorial dos Estados Unidos entre 1783 e 1853, com as principais aquisições e suas datas.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \draw[thick, manualgray, rounded corners] (0,-2.6) rectangle (11.0,2.6);
+  \node[text=manualgray] at (5.5,2.95) {\textbf{EXPANSÃO DOS ESTADOS UNIDOS} (esquema)};
+
+  \fill[manualblue!26, rounded corners] (8.0,-1.0) rectangle (10.85,2.45);
+  \node[align=center, text=manualblue] at (9.4,0.9) {\textbf{13 colônias}\\ e cessões\\ \textbf{1783}};
+
+  \fill[manualgreen!22, rounded corners] (4.2,-1.0) rectangle (7.85,2.45);
+  \node[align=center, text=manualgreen!50!black] at (6.0,0.9) {\textbf{Luisiana}\\ comprada de\\ Napoleão\\ \textbf{1803}\\ \textit{dobra o país}};
+
+  \fill[manualyellow!30, rounded corners] (2.4,0.6) rectangle (4.05,2.45);
+  \node[align=center] at (3.2,1.5) {\textbf{Oregon}\\ \textbf{1846}\\ (tratado com\\ a Inglaterra)};
+
+  \fill[manualred!22, rounded corners] (0.15,-1.0) rectangle (4.05,0.45);
+  \node[align=center, text=manualred] at (2.1,-0.28) {\textbf{Cessão mexicana} — \textbf{1848}\\ (Guadalupe Hidalgo): Califórnia, Novo\\ México, Arizona, Nevada, Utah};
+
+  \fill[manualred!14, rounded corners] (4.2,-2.45) rectangle (7.0,-1.15);
+  \node[align=center, text=manualred] at (5.6,-1.8) {\textbf{Texas}\\ anexado \textbf{1845}};
+
+  \fill[manualblue!14, rounded corners] (7.15,-2.45) rectangle (10.85,-1.15);
+  \node[align=center, text=manualblue] at (9.0,-1.8) {\textbf{Flórida} comprada\\ da Espanha \textbf{1819}};
+
+  \fill[manualgray!22, rounded corners] (0.15,-2.45) rectangle (4.05,-1.15);
+  \node[align=center] at (2.1,-1.8) {\textbf{Gadsden 1853}\\ (\textbf{Alasca} 1867, da Rússia)};
+
+  \node[draw, thick, rounded corners, fill=manualyellow!18, align=center, text width=3.6cm] at (14.2,1.3) {\textbf{DESTINO MANIFESTO}\\ (1845)\\[2pt] ``missão providencial''\\ de ocupar o continente};
+  \node[draw, thick, rounded corners, fill=manualgray!16, align=center, text width=3.6cm] at (14.2,-1.4) {\textbf{Custo humano}\\[2pt] \textit{Indian Removal Act} (1830)\\ \textbf{Trilha das Lágrimas} (1838)\\ Sand Creek (1864)\\ \textbf{Wounded Knee} (1890)};
+  \draw[vetor, very thick, manualgray] (10.9,0.2) -- (12.2,0.2);
+\end{tikzpicture}
+```
+
+Setenta anos de expansão: o país triplica de tamanho por compra, tratado, anexação e guerra. As posições são esquemáticas e apenas aproximam a geografia real.
+:::
+
+## Duas economias, dois projetos {#sec-norte-sul}
+
+Os Estados Unidos do século XIX não eram um bloco. O Norte e o Sul haviam se tornado sociedades tão diferentes que os contemporâneos falavam em "duas civilizações".
+
+| | **NORTE** | **SUL** |
+|---|---|---|
+| **Economia** | indústria, comércio, finanças, pequena propriedade familiar | **plantation** de exportação (algodão, tabaco, arroz) |
+| **Trabalho** | assalariado livre; imigração europeia maciça | **escravidão** — cerca de 4 milhões de pessoas em 1860 |
+| **Comércio exterior** | **protecionismo** para proteger a indústria nascente | **livre-comércio** (exportava algodão e importava manufaturas inglesas) |
+| **Sociedade** | urbanização, escolas públicas, imprensa | rural, hierárquica, dominada por uma minoria de grandes proprietários |
+| **Terras do oeste** | pequenas propriedades de colonos livres | extensão do sistema escravista |
+| **Ideal político** | *free soil, free labor, free men* | direitos dos estados e defesa da "instituição peculiar" |
+
+: Norte e Sul às vésperas da guerra. Note que o conflito não é apenas moral: é sobre **qual modelo econômico e social** ocuparia o oeste. {#tbl-norte-sul}
+
+O algodão explica muita coisa. Com o descaroçador de Eli Whitney (1793) e a fome insaciável das fábricas de Manchester (@sec-revolucao-industrial), o Sul tornou-se o maior produtor mundial — "**King Cotton**" —, e a escravidão, longe de definhar como alguns fundadores haviam previsto, tornou-se **mais** lucrativa e mais central. O valor de mercado das pessoas escravizadas nos EUA em 1860 superava o valor somado de todas as fábricas e ferrovias do país.
+
+**A crise do equilíbrio.** Como o Senado dava dois assentos a cada estado, a admissão de cada novo estado ameaçava romper o equilíbrio entre escravistas e livres. Daí uma sequência de acordos cada vez mais frágeis:
+
+- **Compromisso do Missouri** (1820): Missouri entra como escravista, Maine como livre, e traça-se uma linha (36°30') ao norte da qual a escravidão ficaria proibida no território da Luisiana.
+- **Compromisso de 1850**: Califórnia entra como livre, em troca de uma dura **Lei do Escravo Fugitivo**, que obrigava cidadãos do Norte a colaborar na captura de fugitivos — o que trouxe a escravidão para dentro da consciência nortista.
+- **Lei Kansas-Nebraska** (1854): revoga a linha do Missouri e entrega a decisão ao voto dos colonos ("soberania popular"). O resultado foi a guerra civil em miniatura conhecida como "**Kansas sangrento**".
+- **Caso Dred Scott** (1857): a Suprema Corte decide que uma pessoa negra não pode ser cidadã e que o Congresso não pode proibir a escravidão nos territórios. Foi a vitória jurídica total do Sul — e o que convenceu muitos nortistas moderados de que não havia acordo possível.
+- **John Brown** (1859): abolicionista branco tenta iniciar uma insurreição de escravizados atacando o arsenal de Harpers Ferry; é enforcado e vira **mártir** no Norte, **demônio** no Sul.
+
+O **abolicionismo** cresceu em paralelo, e não foi obra apenas de brancos benevolentes: **Frederick Douglass** (c. 1818–1895), que escapara do cativeiro, tornou-se o maior orador e editor do movimento; **Harriet Tubman** voltou repetidas vezes ao Sul para conduzir fugitivos pela **Underground Railroad**; e *A cabana do Pai Tomás* (1852), de Harriet Beecher Stowe, vendeu centenas de milhares de exemplares e mobilizou a opinião pública.
+
+## A Guerra Civil (1861–1865) {#sec-guerra-civil}
+
+A eleição de **Abraham Lincoln** em **novembro de 1860** foi o estopim. Lincoln e o novo **Partido Republicano** não propunham abolir a escravidão onde ela já existia — propunham **impedir sua expansão** para os territórios do oeste. Para o Sul, isso bastava: sem expansão, o sistema estava condenado a longo prazo e sua força política no Senado, condenada a encolher. Entre dezembro de 1860 e junho de 1861, **onze estados** declararam **secessão** e formaram os **Estados Confederados da América**, com capital em Richmond e Jefferson Davis como presidente. Em **12 de abril de 1861**, a artilharia confederada bombardeou o **Forte Sumter**. Começava a guerra.
+
+**As forças.** O Norte (União) tinha cerca de 22 milhões de habitantes, 90% da indústria, o dobro das ferrovias e a marinha. O Sul (Confederação) tinha cerca de 9 milhões — dos quais **3,5 milhões escravizados** —, mas contava com melhores generais, terreno defensivo e a esperança de que a Inglaterra interviesse por causa do algodão. A Inglaterra nunca interveio.
+
+**O curso da guerra.** A União adotou o "**plano Anaconda**": bloqueio naval do litoral, controle do rio Mississippi e estrangulamento econômico. A guerra foi muito mais longa e sangrenta do que os dois lados esperavam. Depois da batalha de **Antietam** (setembro de 1862), Lincoln pôde anunciar a **Proclamação de Emancipação**, em vigor em **1º de janeiro de 1863**: declarava livres as pessoas escravizadas nos estados em rebelião. A medida era, em parte, **estratégia de guerra** — não alcançava os estados escravistas que haviam permanecido na União — mas mudou o significado do conflito: agora a União lutava explicitamente **contra a escravidão**, o que tornou politicamente impossível qualquer apoio britânico à Confederação e abriu o alistamento de **cerca de 180 mil soldados negros** no exército da União.
+
+Julho de **1863** foi o mês decisivo: **Gettysburg**, no leste, deteve a invasão confederada do Norte; **Vicksburg**, no oeste, entregou à União o controle do Mississippi e cortou a Confederação em duas. Seguiram-se a guerra de desgaste de **Grant** na Virgínia e a **marcha ao mar** de **Sherman**, que atravessou a Geórgia destruindo sistematicamente a infraestrutura econômica do Sul — uma das primeiras aplicações em larga escala do conceito de **guerra total**. Em **9 de abril de 1865**, Lee rendeu-se em **Appomattox**. Cinco dias depois, **Lincoln foi assassinado** num teatro de Washington.
+
+O saldo: **mais de 600 mil mortos** — mais do que os americanos mortos em todas as outras guerras do país somadas até a do Vietnã. A Guerra Civil é considerada o **primeiro conflito industrial moderno**: ferrovias para mover exércitos, telégrafo para comandá-los, fuzis raiados e metralhadoras primitivas, couraçados, trincheiras, fotografia de guerra e mobilização total da economia. Observadores europeus estiveram lá — e, em boa medida, não aprenderam a lição, que se repetiria em 1914 (@sec-primeira-guerra-mundial).
+
+**As três emendas.** O que a guerra decidiu foi inscrito na Constituição: a **13ª Emenda** (1865) aboliu a escravidão; a **14ª** (1868) garantiu cidadania e "igual proteção das leis" a todos os nascidos no país; a **15ª** (1870) proibiu restringir o voto por raça ou condição anterior de escravidão. No papel, era uma revolução.
+
+::: {#fig-linha-do-tempo-eua-xix}
+
+```{.tikz}
+%%| filename: fig-linha-do-tempo-eua-xix
+%%| alt: Linha do tempo dos Estados Unidos no século XIX, de 1803 a 1898, com expansão, Guerra Civil, Reconstrução e imperialismo.
+\begin{tikzpicture}[>=stealth]
+  \draw[eixo] (0,0) -- (14.2,0);
+  \node[eixo, gray] at (14.2,-0.6) {\scriptsize tempo};
+
+  \fill[manualgreen!22] (0.5,-0.13) rectangle (7.5,0.13);
+  \node[text=manualgreen!55!black] at (4.0,-0.95) {\scriptsize \textbf{expansão territorial}};
+  \fill[manualred!24] (7.5,-0.13) rectangle (9.4,0.13);
+  \node[text=manualred] at (8.45,-0.95) {\scriptsize \textbf{Guerra Civil}};
+  \fill[manualblue!18] (9.4,-0.13) rectangle (11.4,0.13);
+  \node[text=manualblue] at (10.4,-0.95) {\scriptsize \textbf{Reconstrução}};
+  \fill[manualgray!26] (11.4,-0.13) rectangle (13.6,0.13);
+  \node[text=gray] at (12.5,-0.95) {\scriptsize \textbf{Jim Crow}};
+
+  \node[ponto] at (0.5,0) {};
+  \node[below] at (0.5,-0.25) {\scriptsize 1803};
+  \node[above, align=center, text=manualgreen] at (0.9,0.2) {\scriptsize \textbf{Luisiana}\\\scriptsize (de Napoleão)};
+
+  \node[ponto] at (2.3,0) {};
+  \node[below] at (2.3,-0.25) {\scriptsize 1830--38};
+  \node[above, align=center] at (2.4,1.1) {\scriptsize \textit{Indian Removal};\\\scriptsize \textbf{Trilha das Lágrimas}};
+
+  \node[ponto] at (4.2,0) {};
+  \node[below] at (4.2,-0.25) {\scriptsize 1846--48};
+  \node[above, align=center, text=manualred] at (4.3,0.2) {\scriptsize guerra contra o \textbf{México}\\\scriptsize (Guadalupe Hidalgo)};
+
+  \node[ponto] at (6.2,0) {};
+  \node[below] at (6.2,-0.25) {\scriptsize 1854--57};
+  \node[above, align=center] at (6.3,1.1) {\scriptsize Kansas-Nebraska;\\\scriptsize caso \textbf{Dred Scott}};
+
+  \node[ponto] at (7.5,0) {};
+  \node[below] at (7.5,-0.25) {\scriptsize 1861};
+  \node[above, align=center, text=manualred] at (7.5,0.2) {\scriptsize \textbf{Lincoln}; secessão;\\\scriptsize \textbf{Forte Sumter}};
+
+  \node[ponto] at (8.6,0) {};
+  \node[below] at (8.6,-0.25) {\scriptsize 1863};
+  \node[above, align=center, text=manualred] at (8.8,1.1) {\scriptsize \textbf{Emancipação};\\\scriptsize \textbf{Gettysburg}};
+
+  \node[ponto] at (9.4,0) {};
+  \node[below] at (9.4,-0.25) {\scriptsize 1865};
+  \node[above, align=center] at (9.6,0.2) {\scriptsize Appomattox;\\\scriptsize \textbf{13a Emenda}};
+
+  \node[ponto] at (11.4,0) {};
+  \node[below] at (11.4,-0.25) {\scriptsize 1877};
+  \node[above, align=center, text=gray] at (11.5,1.1) {\scriptsize \textbf{Compromisso de 1877}\\\scriptsize fim da Reconstrução};
+
+  \node[ponto] at (12.7,0) {};
+  \node[below] at (12.7,-0.25) {\scriptsize 1896};
+  \node[above, align=center] at (12.8,0.2) {\scriptsize \textit{Plessy}: ``iguais\\\scriptsize mas separados''};
+
+  \node[ponto] at (13.8,0) {};
+  \node[below] at (13.8,-0.25) {\scriptsize 1898};
+  \node[above, align=center, text=manualblue] at (13.6,1.1) {\scriptsize guerra contra a \textbf{Espanha}:\\\scriptsize Cuba e Filipinas};
+\end{tikzpicture}
+```
+
+Um século em que os EUA se tornam continentais, quase se dividem, reconstroem-se sobre a segregação e saem ao mundo como potência.
+:::
+
+## Reconstrução e sua derrota {#sec-reconstrucao}
+
+A **Reconstrução** (1865–1877) foi a tentativa de reorganizar o Sul e integrar os quatro milhões de libertos à cidadania. Houve conquistas notáveis e por muito tempo esquecidas: o **Freedmen's Bureau**, que distribuiu alimentos, criou escolas e hospitais; a fundação de universidades negras; e uma participação política sem precedentes — **cerca de 2 mil negros ocuparam cargos públicos**, entre eles 16 congressistas e 2 senadores federais, num Sul onde poucos anos antes eram propriedade.
+
+A reação foi feroz. Formaram-se milícias terroristas, com destaque para a **Ku Klux Klan** (1866), que assassinava lideranças negras e brancos aliados. Os estados sulistas aprovaram **Códigos Negros** restringindo circulação, contratos e posse de terra. E a promessa de redistribuição fundiária ("**quarenta acres e uma mula**") foi abandonada: sem terra, a maioria dos libertos caiu na **parceria agrícola** (*sharecropping*), regime de endividamento perpétuo que os manteve presos às mesmas plantações.
+
+O golpe final foi político. A eleição presidencial de 1876 terminou em impasse, e o **Compromisso de 1877** deu a presidência ao republicano Rutherford Hayes em troca da **retirada das tropas federais** do Sul. Sem elas, as elites brancas retomaram o controle ("Redenção") e construíram, ao longo das décadas seguintes, o sistema de segregação legal conhecido como **Jim Crow**: escolas, trens, hospitais, banheiros e cemitérios separados; testes de alfabetização, impostos eleitorais e cláusulas de avô que eliminaram na prática o voto negro conquistado pela 15ª Emenda; e o terror do **linchamento** — milhares de assassinatos públicos entre 1880 e 1950, quase sempre impunes. Em **1896**, no caso ***Plessy v. Ferguson***, a Suprema Corte declarou a segregação constitucional sob a fórmula "**iguais, mas separados**". Só seria revertida em 1954 (@sec-movimentos-por-direitos).
+
+## Uma potência entra em cena {#sec-eua-potencia}
+
+Enquanto isso, a economia explodia. Entre 1870 e 1900, os EUA absorveram cerca de **12 milhões de imigrantes**, cobriram o país de ferrovias, exploraram o petróleo da Pensilvânia, o carvão dos Apalaches e o ferro dos Grandes Lagos, e por volta de **1890** já eram a maior economia industrial do mundo, à frente da Inglaterra (@sec-segunda-revolucao-industrial-socialismo). Foi a era dos **trustes** e dos "**barões ladrões**" — Rockefeller, Carnegie, Vanderbilt, Morgan —, das primeiras leis antitruste (Sherman Act, 1890), da urbanização acelerada e de conflitos operários violentos, como a greve ferroviária de 1877, o **Haymarket** de Chicago (1886) e a greve de Pullman (1894).
+
+Fechada a fronteira interna em 1890, a expansão voltou-se para fora. A **Guerra Hispano-Americana** (**1898**) — desencadeada pela explosão do encouraçado *Maine* em Havana e por uma campanha de imprensa sensacionalista — deu aos EUA **Porto Rico**, **Guam** e as **Filipinas**, além de protetorado sobre **Cuba** pela **Emenda Platt**, que autorizava a intervenção na ilha. Nas Filipinas, a guerra contra os independentistas filipinos durou anos e foi extremamente violenta. Vieram então a política do "**Big Stick**" de **Theodore Roosevelt**, o apoio à separação do **Panamá** da Colômbia (1903) para construir o canal, o **Corolário Roosevelt** à Doutrina Monroe — que reivindicava aos EUA o papel de "polícia internacional" no hemisfério — e a "**diplomacia do dólar**". A América Latina, incluindo o Brasil, passaria o século XX lidando com essa nova hegemonia (@sec-america-latina-ditaduras).
+
+::: {.callout-tip title="Conexão Brasil: dois escravismos, dois desfechos"}
+Brasil e Estados Unidos foram as duas maiores sociedades escravistas das Américas, e o contraste entre os modos como a escravidão terminou é um dos exercícios comparativos mais ricos da história do continente.
+
+- **Como terminou:** nos EUA, por **guerra civil** e emenda constitucional (1865); no Brasil, por um **processo gradual** de leis — Eusébio de Queirós (1850), Ventre Livre (1871), Sexagenários (1885) — coroado pela **Lei Áurea** (**1888**), sem guerra, mas sob forte pressão do movimento abolicionista, das fugas em massa e da desagregação do sistema.
+- **Em ambos, sem terra.** Nenhum dos dois países fez reforma agrária: nos EUA, os libertos caíram no *sharecropping*; no Brasil, foram largados sem terra, sem crédito e sem escolas, enquanto o Estado subsidiava a **imigração europeia** (@sec-escravidao-abolicao-imigracao).
+- **A diferença do racismo institucional.** Os EUA criaram segregação **legal** (Jim Crow, "iguais mas separados"), com leis explícitas de separação. O Brasil não teve leis raciais equivalentes — e produziu, em seu lugar, a ideologia da **democracia racial**, que negava a existência do racismo enquanto a desigualdade se reproduzia por outros mecanismos. Duas formas distintas de exclusão, com resultados igualmente duradouros.
+- **Efeito internacional.** A abolição americana em 1865 deixou o Brasil, Cuba e Porto Rico praticamente sozinhos como grandes sociedades escravistas do Ocidente, aumentando enormemente a pressão diplomática — sobretudo britânica — e o constrangimento internacional sobre o Império brasileiro.
+- **Curiosidade histórica reveladora:** derrotados em 1865, alguns milhares de sulistas emigraram para o Brasil justamente porque aqui a escravidão continuava legal. Seus descendentes, os "**confederados**", ainda mantêm cemitério e festas em **Santa Bárbara d'Oeste** e Americana, no interior de São Paulo — e o uso da bandeira confederada nessas festas é hoje objeto de contestação pública, o que faz do caso um ótimo exemplo de disputa de **memória** (@sec-memoria-patrimonio).
+:::
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+Três debates americanos são particularmente instrutivos — e os três mostram como a escrita da história responde a disputas políticas do presente.
+
+**Por que houve a Guerra Civil?** Durante quase um século, a interpretação dominante no Sul e influente no país inteiro foi a da "**Causa Perdida**" (*Lost Cause*): a guerra teria sido travada pelos **direitos dos estados** contra a tirania federal, e não pela escravidão; o Sul seria uma civilização nobre injustamente destruída. Essa narrativa produziu monumentos, filmes (*O nascimento de uma nação*, 1915; *E o vento levou*, 1939), nomes de escolas e bases militares — e sustentou politicamente o regime de **Jim Crow**. Na mesma linha do afastamento da escravidão como causa, a **interpretação econômica** de **Charles e Mary Beard** (1927) descreveu o conflito como uma "segunda revolução americana": o choque entre o capitalismo industrial do Norte e a economia agrária do Sul, no qual a escravidão seria detalhe secundário de uma luta entre modelos econômicos [@beard1927].
+
+A historiografia atual reverteu esse quadro de forma quase unânime. **James McPherson** e **Eric Foner** demonstraram, com base nos documentos dos próprios secessionistas, que a **escravidão** foi a causa central: as declarações de secessão dos estados sulistas mencionam a escravidão explicitamente e repetidamente como o motivo do rompimento, e o vice-presidente confederado Alexander Stephens afirmou em discurso, em 1861, que a "pedra angular" da nova república era a desigualdade racial e a escravidão como condição natural do negro [@mcpherson1990]. O argumento dos "direitos dos estados" também não resiste ao exame: o Sul havia exigido, poucos anos antes, que o governo federal **passasse por cima** dos direitos dos estados do Norte, ao impor a Lei do Escravo Fugitivo. A pergunta útil, hoje, deixou de ser "qual foi a causa?" e passou a ser "**por que a versão da Causa Perdida se tornou tão poderosa e durou tanto?**" — pergunta de história da **memória**, e não de causalidade.
+
+**A Reconstrução foi um erro?** Aqui a inversão é ainda mais dramática. Do início do século XX aos anos 1950, prevaleceu a **Escola de Dunning**, que descrevia a Reconstrução como um período de corrupção e desgoverno, em que negros supostamente despreparados e aventureiros nortistas teriam saqueado o Sul até que os brancos "redimissem" seus estados. Era uma historiografia abertamente racista, e serviu de justificativa acadêmica para a segregação.
+
+Contra ela, em **1935**, o sociólogo e historiador negro **W. E. B. Du Bois** publicou *Black Reconstruction in America*, um dos livros mais corajosos já escritos na disciplina. Du Bois inverteu tudo: mostrou que os governos da Reconstrução criaram os **primeiros sistemas públicos de ensino** do Sul, que a participação política negra foi competente e legítima, que os libertos haviam contribuído decisivamente para a vitória da União — inclusive por meio do que chamou de "**greve geral**" dos escravizados, que abandonavam as plantações e se dirigiam às linhas da União — e que a Reconstrução não fracassou por incapacidade dos negros, mas foi **derrotada** pela violência organizada e pelo abandono do Norte. Seu último capítulo, "A propaganda da história", denuncia diretamente o modo como a historiografia acadêmica de sua época falsificava o passado [@duBois2021]. Ignorado por décadas por ser negro e marxista, Du Bois foi plenamente reabilitado a partir dos anos 1960, e o trabalho de **Eric Foner** consolidou a leitura da Reconstrução como uma "**revolução inacabada**" [@foner2017].
+
+**A fronteira: expansão ou conquista?** Em **1893**, **Frederick Jackson Turner** apresentou a **tese da fronteira**: o que definiria o caráter americano — individualismo, igualitarismo, democracia, inventividade — seria a existência contínua de terra livre a oeste, que renovava a sociedade a cada geração; e o fechamento da fronteira, anunciado em 1890, encerraria um capítulo da história nacional [@turner1893]. A tese foi enormemente influente e moldou o imaginário do faroeste.
+
+A chamada **Nova História do Oeste**, a partir dos anos 1980, com autoras como **Patricia Limerick**, virou-a do avesso. Objeções centrais: a terra **não era vazia nem livre** — estava ocupada por povos indígenas e por populações mexicanas, e sua obtenção foi **conquista**, com guerra, remoção forçada e tratados violados; a colonização do oeste não foi obra de pioneiros autônomos, mas dependeu maciçamente do **governo federal** (exército, concessão de terras, subsídios ferroviários) e de grandes empresas; e a fronteira foi também o cenário de exploração de trabalhadores chineses, mexicanos e negros, ausentes da narrativa heroica. A conclusão da Nova História do Oeste é que o oeste deve ser estudado como uma **região com história contínua e conflitos de conquista**, e não como um processo que "termina" em 1890.
+
+**Por que divergem?** Porque em cada um dos três casos a história funcionou como **instrumento de legitimação política**: a Causa Perdida legitimava Jim Crow; a Escola de Dunning justificava a exclusão política dos negros; a tese da fronteira dava ao expansionismo a face de destino natural. As revisões vieram acompanhadas de mudanças sociais — o movimento pelos direitos civis, a mobilização indígena, a entrada de historiadores negros, indígenas e mulheres na universidade — e de fontes antes ignoradas: depoimentos de libertos, registros de tratados indígenas, arquivos de tribunais locais. É a demonstração mais clara possível do que este manual repete desde o primeiro capítulo: **a história é uma construção do conhecimento, e quem pergunta determina o que se encontra** (@sec-correntes-historiograficas).
+
+## Resumo do capítulo {#sec-resumo}
+
+- **Expansão territorial:** **Luisiana** comprada de Napoleão (**1803**, dobra o país); **Flórida** (1819); anexação do **Texas** (1845); **Oregon** (1846); **guerra contra o México** (1846–48) e o **Tratado de Guadalupe Hidalgo**, que transferiu cerca de **metade** do território mexicano; **Gadsden** (1853) e **Alasca** (1867).
+- **Destino Manifesto** (termo de 1845): crença na missão providencial de ocupar o continente. Motores práticos: **corrida do ouro** (1848), **Homestead Act** (1862) e a **ferrovia transcontinental** (1869), construída por imigrantes chineses e irlandeses.
+- **Povos indígenas:** **Indian Removal Act** (1830) e a **Trilha das Lágrimas** (1838–39, cerca de 4 mil mortos entre os cherokees, com a Suprema Corte desrespeitada); massacres de **Sand Creek** (1864) e **Wounded Knee** (1890); extermínio deliberado do **bisão**; reservas e internatos de assimilação forçada. Fronteira declarada "fechada" em **1890**.
+- **Norte × Sul:** indústria, trabalho livre, imigração e **protecionismo** contra ***plantation*** algodoeira, **escravidão** (cerca de 4 milhões de pessoas em 1860) e **livre-comércio**. O conflito girava sobre qual modelo ocuparia o **oeste**.
+- **Crise dos compromissos:** **Missouri** (1820, linha 36°30'), **Compromisso de 1850** (com a Lei do Escravo Fugitivo), **Kansas-Nebraska** (1854, o "Kansas sangrento"), **Dred Scott** (1857) e **John Brown** (1859). Abolicionismo com **Frederick Douglass**, **Harriet Tubman** e a *Underground Railroad*.
+- **Guerra Civil (1861–65):** eleição de **Lincoln** (1860) → **secessão** de 11 estados e criação dos **Estados Confederados** → **Forte Sumter** (abril de 1861). União com 22 milhões de habitantes e 90% da indústria; Confederação com 9 milhões, dos quais 3,5 milhões escravizados. **Plano Anaconda**; **Proclamação de Emancipação** (1º de janeiro de 1863), que muda o sentido da guerra e permite o alistamento de cerca de **180 mil soldados negros**; **Gettysburg** e **Vicksburg** (julho de 1863); marcha de **Sherman**; rendição em **Appomattox** (abril de 1865); assassinato de **Lincoln**. Mais de **600 mil mortos** — o **primeiro conflito industrial moderno**.
+- **Emendas:** **13ª** (1865, fim da escravidão), **14ª** (1868, cidadania e igual proteção) e **15ª** (1870, voto sem distinção de raça).
+- **Reconstrução (1865–77):** *Freedmen's Bureau*, escolas, cerca de 2 mil negros em cargos públicos. Reação: **Ku Klux Klan**, **Códigos Negros**, ausência de reforma agrária (a promessa dos "quarenta acres e uma mula") e **parceria agrícola**. O **Compromisso de 1877** retirou as tropas federais e abriu caminho para o **Jim Crow**, a supressão do voto negro, o **linchamento** e a decisão ***Plessy v. Ferguson*** (**1896**): "iguais, mas separados".
+- **Potência:** cerca de **12 milhões de imigrantes** entre 1870 e 1900; maior economia industrial do mundo por volta de **1890**; trustes e "barões ladrões"; **Guerra Hispano-Americana** (**1898**) — Porto Rico, Guam, Filipinas e protetorado sobre **Cuba** (**Emenda Platt**); "**Big Stick**", separação do **Panamá** (1903), **Corolário Roosevelt** e "diplomacia do dólar".
+- **Brasil comparado:** abolição por **guerra** (EUA, 1865) × por **processo gradual** e a **Lei Áurea** (Brasil, **1888**); em ambos, **sem terra** para os libertos; segregação **legal** (Jim Crow) × ideologia da **democracia racial**; e o caso dos "**confederados**" de Santa Bárbara d'Oeste.
+- **Historiografia:** causas da guerra — "**Causa Perdida**" e a interpretação econômica dos **Beard** × o consenso atual sobre a centralidade da **escravidão** (**McPherson**, **Foner**); Reconstrução — **Escola de Dunning** × ***Black Reconstruction*** de **W. E. B. Du Bois** (1935) e a "revolução inacabada" de **Foner**; fronteira — tese de **Turner** (1893) × **Nova História do Oeste** (**Limerick**): não expansão para o vazio, mas **conquista**.
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Fixe: (1) as aquisições territoriais e o **Destino Manifesto**; (2) o custo para indígenas e para o **México**; (3) o quadro **Norte × Sul** e a sequência dos compromissos até 1860; (4) o roteiro da guerra, com a **Proclamação de Emancipação** e as **três emendas**; (5) **Reconstrução → 1877 → Jim Crow**; (6) 1898 e o imperialismo americano; (7) a comparação com o **Brasil**; (8) os três debates historiográficos.
+:::
+
+**1.** O que foi o **Destino Manifesto** e a que interesses concretos ele servia?
+
+::: {.callout-tip collapse="true" title="Solução"}
+O **Destino Manifesto** é a doutrina, batizada em **1845** pelo jornalista John O'Sullivan, segundo a qual os Estados Unidos teriam a missão **providencial** — designada por Deus — de expandir-se pelo continente norte-americano, levando consigo a liberdade, a democracia e o progresso. Combinava religiosidade protestante, nacionalismo e a crença na superioridade das instituições americanas (e, para muitos de seus defensores, na superioridade racial anglo-saxã).
+
+**Interesses concretos a que servia:** (i) **terra** para agricultores, especuladores e companhias ferroviárias; (ii) **ouro** e minérios, sobretudo após a descoberta na Califórnia em 1848; (iii) **portos no Pacífico**, essenciais para o comércio com a Ásia; (iv) a disputa entre Norte e Sul sobre **qual sistema de trabalho** ocuparia o oeste — livre ou escravista; (v) a justificação de anexações e guerras, com destaque para a **guerra contra o México** (1846–48), que transferiu cerca de metade do território mexicano.
+
+**Função ideológica:** transformava **conquista em dever**. Ao apresentar a expansão como desígnio divino e como benefício para os próprios conquistados, tornava dispensável justificar caso a caso a tomada de terras indígenas e mexicanas — mecanismo idêntico ao da "missão civilizadora" europeia na África e na Ásia (@sec-imperialismo).
+:::
+
+**2.** Explique por que a questão dos **territórios do oeste** tornou insustentável o equilíbrio entre Norte e Sul.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque cada novo estado admitido alterava a **relação de forças no Senado**, onde cada estado — grande ou pequeno — tem dois assentos. Enquanto o número de estados livres e escravistas se mantivesse igual, o Sul podia bloquear qualquer legislação hostil à escravidão. A expansão territorial destruiu esse equilíbrio, porque cada território conquistado precisava ser classificado.
+
+A sequência de tentativas de acordo mostra a deterioração: o **Compromisso do Missouri** (1820) admitiu Missouri como escravista e Maine como livre e traçou a linha dos 36°30'; o **Compromisso de 1850** admitiu a Califórnia como livre em troca da severa **Lei do Escravo Fugitivo**, que obrigava nortistas a colaborar na captura de fugitivos e assim levou o conflito para dentro do cotidiano do Norte; a **Lei Kansas-Nebraska** (1854) revogou a linha do Missouri e entregou a decisão ao voto local, provocando a guerra civil em miniatura do "**Kansas sangrento**"; e o caso **Dred Scott** (1857) foi além, ao decidir que o Congresso **não podia** proibir a escravidão em território algum e que uma pessoa negra não podia ser cidadã.
+
+Havia ainda uma razão econômica: a **plantation** algodoeira esgotava o solo e dependia de novas terras para se reproduzir. Sem expansão, o Sul via seu sistema condenado a longo prazo e sua influência política a encolher a cada novo estado livre. Por isso a eleição de **Lincoln** em 1860 bastou para desencadear a secessão: seu programa não era abolir a escravidão onde existia, mas **impedir sua expansão** — o que o Sul entendeu, corretamente, como sentença de morte adiada.
+:::
+
+**3.** Qual a importância da **Proclamação de Emancipação** (1863)? Ela aboliu a escravidão?
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Não aboliu.** A Proclamação, em vigor em **1º de janeiro de 1863**, declarava livres as pessoas escravizadas nos **estados em rebelião** — precisamente onde o governo federal não tinha, naquele momento, poder para executá-la — e **não** alcançava os estados escravistas que haviam permanecido na União (Maryland, Delaware, Kentucky, Missouri), cuja lealdade Lincoln não queria arriscar. A abolição efetiva e universal só veio com a **13ª Emenda**, ratificada em **dezembro de 1865**.
+
+**Sua importância, no entanto, foi enorme:**
+
+1. **Mudou o significado da guerra.** Até então, a União lutava oficialmente para preservar a Federação; a partir dali, lutava também **contra a escravidão**, o que deu ao conflito uma dimensão moral decisiva.
+2. **Bloqueou a intervenção estrangeira.** A **Inglaterra**, que dependia do algodão sulista e considerava reconhecer a Confederação, tornou-se politicamente incapaz de apoiar um Estado que agora aparecia diante do mundo como defensor explícito da escravidão — a opinião pública britânica, que abolira o tráfico em 1807 e a escravidão em 1833, não permitiria.
+3. **Permitiu o alistamento de negros.** Cerca de **180 mil** soldados negros serviram no exército da União — reforço militar substancial e, mais que isso, argumento político poderoso para a cidadania depois da guerra.
+4. **Acelerou a desagregação do sistema** no próprio Sul: escravizados abandonavam as plantações e se dirigiam às linhas da União, movimento que **W. E. B. Du Bois** chamaria de "**greve geral**" dos escravizados [@duBois2021].
+
+Em suma: medida de guerra em sua forma jurídica, revolução em seus efeitos práticos e simbólicos.
+:::
+
+**4.** Descreva a **Reconstrução**, suas conquistas e as razões de sua derrota.
+
+::: {.callout-tip collapse="true" title="Solução"}
+A **Reconstrução** (1865–1877) foi o esforço federal de reorganizar os estados derrotados e integrar cerca de quatro milhões de libertos à cidadania.
+
+**Conquistas:** as **13ª, 14ª e 15ª Emendas** (fim da escravidão, cidadania e igual proteção das leis, direito de voto sem distinção de raça); o **Freedmen's Bureau**, que forneceu alimentos, criou hospitais e milhares de escolas; a fundação de universidades negras; a criação dos **primeiros sistemas públicos de ensino** do Sul, abertos também a brancos pobres; e uma participação política inédita — **cerca de 2 mil negros** em cargos públicos, incluindo 16 congressistas e 2 senadores federais.
+
+**Razões da derrota:**
+
+1. **Ausência de base material.** A promessa de redistribuição de terras ("quarenta acres e uma mula") foi abandonada. Sem terra, crédito ou alternativa, a maioria dos libertos caiu na **parceria agrícola** (*sharecropping*), regime de endividamento permanente que os prendia às mesmas plantações — liberdade jurídica sem independência econômica.
+2. **Terrorismo organizado.** A **Ku Klux Klan** e milícias similares assassinaram lideranças negras e aliados brancos, atacaram escolas e impediram eleitores de votar, sem punição efetiva.
+3. **Legislação estadual restritiva.** Os **Códigos Negros** limitaram circulação, contratos de trabalho, posse de armas e acesso à terra, recriando formas de coerção próximas ao cativeiro.
+4. **Desgaste político no Norte.** A opinião pública nortista cansou-se de ocupar militarmente o Sul, voltou-se para a industrialização, a expansão para o oeste e a crise econômica de 1873; o Partido Republicano abandonou progressivamente a agenda dos direitos.
+5. **O Compromisso de 1877.** O impasse da eleição de 1876 foi resolvido com a entrega da presidência a Rutherford Hayes em troca da **retirada das tropas federais** do Sul — o que selou a "Redenção" pelas elites brancas.
+
+**Resultado:** a construção do sistema **Jim Crow**, com segregação legal, eliminação prática do voto negro por testes de alfabetização e impostos eleitorais, linchamentos e a chancela da Suprema Corte em ***Plessy v. Ferguson*** (1896), "iguais, mas separados". Por isso **Eric Foner** chama a Reconstrução de "**revolução inacabada**" [@foner2017].
+:::
+
+**5.** Compare o fim da escravidão nos **Estados Unidos** e no **Brasil**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Diferenças:**
+
+- **Forma.** Nos EUA, a abolição resultou de uma **guerra civil** (1861–65) com mais de 600 mil mortos, sendo consagrada pela **13ª Emenda** em 1865. No Brasil, foi um **processo gradual e legislativo**: fim do tráfico (Eusébio de Queirós, **1850**), **Lei do Ventre Livre** (1871), **Lei dos Sexagenários** (1885) e a **Lei Áurea** (**1888**) — sem guerra, mas sob pressão crescente do movimento abolicionista, das fugas em massa, da resistência nos quilombos e da recusa do Exército em capturar fugitivos.
+- **Ritmo e ordem.** O Brasil foi o **último** país das Américas a abolir a escravidão, 23 anos depois dos EUA.
+- **O que veio depois.** Os EUA implantaram, após 1877, um regime de **segregação legal** — Jim Crow, com leis explícitas separando escolas, transportes e espaços públicos, chancelado por *Plessy v. Ferguson* (1896). O Brasil **não** teve legislação racial equivalente e desenvolveu, em seu lugar, a ideologia da **democracia racial**, que afirmava a inexistência de racismo enquanto a desigualdade se reproduzia pelo mercado de trabalho, pela terra, pela escola e pela repressão policial.
+
+**Semelhanças fundamentais:**
+
+- Em **nenhum dos dois** houve reparação ou **reforma agrária**: os libertos foram entregues à sorte, sem terra, crédito, escolas ou indenização — nos EUA, no *sharecropping*; no Brasil, na marginalidade de um mercado de trabalho que o Estado abastecia com **imigrantes europeus subsidiados** (@sec-escravidao-abolicao-imigracao).
+- Em ambos, a exclusão racial sobreviveu longamente ao fim jurídico da escravidão, sustentada por doutrinas de **racismo científico** (@sec-imperialismo).
+
+**Efeito internacional:** a abolição americana em 1865 isolou o Brasil e Cuba como últimos grandes escravismos do Ocidente, ampliando a pressão diplomática britânica e o custo político do sistema para o Império brasileiro. Uma curiosidade que ilustra a conexão entre os dois casos: alguns milhares de sulistas derrotados emigraram para o Brasil **porque aqui a escravidão continuava legal**, dando origem à colônia dos "confederados" de Santa Bárbara d'Oeste (SP).
+:::
+
+**6.** (Estilo ENEM) Leia o texto.
+
+> "Nossa nova república tem seus fundamentos assentados, sua pedra angular repousa sobre a grande verdade de que o negro não é igual ao homem branco; que a escravidão, a subordinação à raça superior, é sua condição natural e normal. Este, nosso novo governo, é o primeiro na história do mundo baseado sobre essa grande verdade física, filosófica e moral."
+>
+> — Alexander Stephens, vice-presidente dos Estados Confederados, discurso de 21 de março de 1861.
+
+O documento contraria diretamente a interpretação segundo a qual a Guerra Civil Americana
+
+**(a)** decorreu da divergência entre um Norte industrial protecionista e um Sul agrário livre-cambista.
+**(b)** teve como causa central a defesa dos direitos dos estados contra a centralização federal, e não a escravidão.
+**(c)** resultou da disputa entre os dois modelos de ocupação dos territórios do oeste.
+**(d)** foi precipitada pela eleição de Abraham Lincoln em 1860 e pela secessão dos estados do Sul.
+**(e)** representou o primeiro conflito de caráter industrial moderno da história.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (b).** O texto é uma declaração pública do próprio **vice-presidente da Confederação**, feita no momento da fundação do novo Estado, e nela a **escravidão** e a desigualdade racial são apresentadas como a "**pedra angular**" do regime — não os direitos dos estados, não as tarifas, não a autonomia federativa. É, portanto, evidência direta contra a tese da "**Causa Perdida**" (*Lost Cause*), segundo a qual o Sul teria lutado por autonomia estadual e não pela escravidão. Esse tipo de documento é o que levou historiadores como **McPherson** e **Foner** a consolidar o consenso atual sobre a centralidade da escravidão [@mcpherson1990].
+
+As demais alternativas **não são contrariadas** pelo texto: **(a)** descreve diferenças econômicas reais entre Norte e Sul, que existiam e que o documento não nega; **(c)** e **(d)** relatam fatos corretos e compatíveis com o discurso — a disputa pelos territórios e a eleição de Lincoln são justamente o contexto em que ele foi pronunciado; **(e)** é uma caracterização militar e tecnológica da guerra, sem relação com a questão de suas causas.
+
+**Observação útil para prova:** repare que o enunciado pede a interpretação **contrariada**, não a confirmada. Ler o comando com atenção vale tanto quanto conhecer o conteúdo.
+:::
+
+**7.** (Estilo vestibular — dissertativa) Explique a importância de ***Black Reconstruction***, de **W. E. B. Du Bois**, para a historiografia. O que ele mudou?
+
+::: {.callout-tip collapse="true" title="Solução"}
+**O que existia antes.** Do início do século XX até os anos 1950, a interpretação dominante da Reconstrução era a da **Escola de Dunning**: o período teria sido um desastre de corrupção e desgoverno, resultado de entregar o poder a negros supostamente despreparados e a aventureiros nortistas, até que os brancos sulistas "redimissem" seus estados. Essa versão, produzida nas melhores universidades americanas, fornecia justificativa acadêmica ao regime de **Jim Crow**: se a experiência de cidadania negra havia fracassado, a segregação seria realismo, não injustiça.
+
+**O que Du Bois fez em 1935** [@duBois2021]:
+
+1. **Inverteu o balanço.** Mostrou que os governos da Reconstrução criaram os **primeiros sistemas públicos de ensino** do Sul — que beneficiaram também brancos pobres —, reformaram códigos legais arcaicos e ampliaram serviços públicos; e que a corrupção existente não era maior que a de governos brancos contemporâneos no Norte.
+2. **Devolveu protagonismo aos libertos.** Cunhou a expressão "**greve geral**" para descrever o abandono maciço das plantações pelos escravizados durante a guerra, tratando-os como **agentes** da própria emancipação, e não como beneficiários passivos de uma dádiva de Lincoln.
+3. **Explicou a derrota corretamente.** A Reconstrução não fracassou por incapacidade negra: foi **derrotada** pelo terrorismo organizado (Ku Klux Klan), pela ausência de redistribuição de terras e pelo abandono político do Norte, selado no **Compromisso de 1877**.
+4. **Analisou o racismo como mecanismo econômico.** Argumentou que a segregação servia para **dividir** trabalhadores brancos e negros, oferecendo aos primeiros uma compensação simbólica de status — o que impedia a formação de um movimento operário unificado no Sul.
+5. **Criticou a própria disciplina.** No capítulo final, "A propaganda da história", denunciou como universidades e manuais escolares falsificavam sistematicamente o passado, mostrando que a historiografia é ela mesma um **campo de disputa política**.
+
+**O que mudou — e por que demorou.** O livro foi largamente ignorado por décadas: Du Bois era negro, marxista e escrevia fora do circuito acadêmico branco que controlava a área. Foi o **movimento pelos direitos civis** dos anos 1950–60, junto com a entrada de historiadores negros nas universidades, que tornou possível a reabilitação de suas teses, hoje consolidadas na obra de **Eric Foner**, que trata a Reconstrução como uma "**revolução inacabada**" [@foner2017].
+
+**A lição metodológica** é a mais valiosa e vale para todo este manual: uma interpretação pode dominar a academia por meio século não por ser mais bem fundamentada, mas por **servir a uma ordem social** — e sua revisão costuma depender tanto de novas perguntas e novos historiadores quanto de novos documentos (@sec-correntes-historiograficas).
+:::
+
+**8.** Explique a **tese da fronteira** de Turner e a crítica da Nova História do Oeste.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**A tese de Turner (1893).** Para **Frederick Jackson Turner**, o traço definidor da história americana não seria a herança europeia, mas a existência contínua de **terra livre a oeste**. O avanço sucessivo da **fronteira** teria forjado o caráter nacional — individualismo, praticidade, igualitarismo, desconfiança da autoridade, democracia —, funcionando como uma "válvula de escape" social e renovando a sociedade a cada geração. Turner apresentou o texto em 1893, três anos depois de o censo declarar a fronteira "fechada", e concluiu que ali terminava a primeira era da história americana [@turner1893].
+
+**As críticas da Nova História do Oeste** (a partir dos anos 1980, com **Patricia Limerick** e outros):
+
+1. **A terra não estava vazia nem era livre.** Estava ocupada por povos indígenas e por populações mexicanas. Chamar o processo de "expansão para a fronteira" apaga o que foi: **conquista**, com guerras, remoções forçadas, massacres e tratados sistematicamente violados.
+2. **Os pioneiros não eram autônomos.** A ocupação dependeu maciçamente do **governo federal** — exército, agrimensura, concessão de terras pelo *Homestead Act*, subsídios bilionários às ferrovias — e de grandes empresas mineradoras, pecuaristas e ferroviárias. O mito do indivíduo autossuficiente encobre um dos maiores programas estatais do século XIX.
+3. **Faltam sujeitos.** A narrativa turneriana é branca e masculina: omite os trabalhadores **chineses** da ferrovia, os **mexicanos** que se tornaram estrangeiros em sua própria terra, as **mulheres**, os negros que migraram para o oeste após a Reconstrução.
+4. **A fronteira não "fecha" em 1890.** O oeste não é um processo com fim, mas uma **região** com história contínua — disputas por água, terra e recursos, tratados indígenas em litígio, dependência de subsídios federais — que segue até hoje.
+
+**Por que a tese de Turner foi tão influente?** Porque oferecia à nação uma **narrativa de origem lisonjeira**, que explicava a democracia americana como produto do próprio solo e não de conflito e conquista. Sua revisão acompanhou a mobilização política indígena e chicana e a renovação da historiografia — mais um exemplo de como as perguntas do presente reorganizam o passado.
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- McPHERSON, James. *Battle Cry of Freedom* [@mcpherson1990]. A melhor narrativa em volume único da Guerra Civil.
+- FONER, Eric. *Reconstruction: America's Unfinished Revolution* [@foner2017]. A obra de referência sobre o período.
+- DU BOIS, W. E. B. *Black Reconstruction in America* [@duBois2021]. Difícil, apaixonado e essencial; leia ao menos o capítulo final, "A propaganda da história".
+- ZINN, Howard. *A história do povo dos Estados Unidos* [@zinn2005]. A contranarrativa clássica, escrita do ponto de vista dos derrotados — militante e por isso mesmo útil para exercitar leitura crítica.
+
+**Fontes primárias**
+
+- LINCOLN, Abraham. **Discurso de Gettysburg** (1863) [@lincoln1863]. Duzentas e setenta e duas palavras; leia em voz alta e cronometre.
+- **Declarações de secessão** dos estados sulistas (1860–61) e o "discurso da pedra angular" de Alexander Stephens. São a prova documental contra a tese da "Causa Perdida".
+- DOUGLASS, Frederick. *Narrativa da vida de Frederick Douglass, um escravo americano* (1845) e o discurso "**O que é, para o escravo, o 4 de julho?**" (1852).
+- TURNER, F. J. *O significado da fronteira na história americana* (1893) [@turner1893].
+
+**Filmes e literatura**
+
+- *Lincoln* (2012), dir. Steven Spielberg: a negociação política em torno da **13ª Emenda**.
+- *12 anos de escravidão* (2013), a partir do relato de Solomon Northup, e *Django livre* (2012) — compare o rigor histórico de um e a fantasia de vingança do outro.
+- *E o vento levou* (1939) e *O nascimento de uma nação* (1915): assista com olhos críticos. São documentos da **Causa Perdida** e do racismo do século XX, não do século XIX — e explicam por que a memória da Guerra Civil ainda é disputada nos EUA (@sec-memoria-patrimonio).
