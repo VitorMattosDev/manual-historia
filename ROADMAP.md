@@ -194,7 +194,7 @@
 
 | # | Capítulo | Arquivo | Status |
 |---|----------|---------|--------|
-| 1 | Globalização e neoliberalismo | `capitulos/vol15/cap01-globalizacao-neoliberalismo.qmd` | ⬜ |
+| 1 | Globalização e neoliberalismo | `capitulos/vol15/cap01-globalizacao-neoliberalismo.qmd` | ✅ |
 | 2 | A Nova Ordem Mundial e os conflitos do século XXI | `capitulos/vol15/cap02-nova-ordem-mundial.qmd` | ⬜ |
 | 3 | Movimentos por direitos: civis, feministas e ambientais | `capitulos/vol15/cap03-movimentos-por-direitos.qmd` | ⬜ |
 | 4 | Tecnologia, informação e a sociedade em rede | `capitulos/vol15/cap04-sociedade-em-rede.qmd` | ⬜ |

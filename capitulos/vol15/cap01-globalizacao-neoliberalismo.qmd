@@ -1,5 +1,485 @@
 # Globalização e neoliberalismo {#sec-globalizacao-neoliberalismo}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Pegue o celular que está por perto e vire-o. Em algum lugar, provavelmente atrás ou nas configurações, há uma frase que resume meio século de história econômica: "Projetado na Califórnia. Montado na China." O que essa frase não diz é o resto do percurso. O **cobalto** da bateria talvez tenha saído de uma mina na República Democrática do Congo; o **lítio**, de um salar na Bolívia ou no Chile; as **terras raras**, da China; o processador foi desenhado por engenheiros nos Estados Unidos, fabricado em Taiwan com máquinas holandesas, e o software que roda nele foi escrito por equipes espalhadas por três continentes. O aparelho chegou até você num navio porta-contêineres, foi vendido por uma empresa cuja sede fiscal pode estar na Irlanda e pago com um cartão processado por servidores que você jamais verá. Nenhum país do mundo é capaz de produzir sozinho o objeto que você tem na mão. Essa dependência mútua, minuciosa e planetária, é o fato econômico central das últimas décadas — e ela não caiu do céu. Foi construída por decisões políticas datadas, tomadas por governos identificáveis, contra alternativas que existiam. Este capítulo conta como.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- definir **globalização** e discutir quando ela começou, distinguindo as principais respostas a essa pergunta;
+- explicar a **crise dos anos 1970** — fim de Bretton Woods, choques do petróleo, estagflação — como o ponto de virada do capitalismo do pós-guerra;
+- caracterizar o **neoliberalismo** como projeto intelectual (Hayek, Friedman, Mont Pèlerin) e como política de governo (Pinochet, Thatcher, Reagan);
+- descrever o **Consenso de Washington**, a **crise da dívida** latino-americana e a "**década perdida**";
+- narrar a inserção do **Brasil** nesse processo: Collor, **Plano Real**, privatizações, abertura comercial e o **Mercosul**;
+- explicar a **financeirização**, a **crise de 2008** e o crescimento da **desigualdade**;
+- reconhecer as **resistências**: o movimento altermundialista, o **Fórum Social Mundial** e as críticas do Sul global;
+- discutir a historiografia: globalização como novidade ou como longa duração, e o debate entre **Milton Santos**, **Harvey**, **Hobsbawm** e os defensores da abertura.
 :::
+
+## O que é globalização — e desde quando {#sec-o-que-e-globalizacao}
+
+::: {.callout-note title="Conceito: globalização"}
+**Globalização** é o processo de intensificação das interdependências econômicas, políticas, culturais e tecnológicas em escala planetária, marcado pela redução do tempo e do custo necessários para deslocar **mercadorias**, **capitais**, **pessoas** e sobretudo **informações** entre pontos distantes do globo.
+
+Preste atenção ao que essa definição não diz. Ela **não** diz que o mundo ficou homogêneo — as diferenças persistem e algumas se aprofundaram. Ela **não** diz que todos participam igualmente: capitais e mercadorias circulam com muito mais liberdade do que pessoas, e um passaporte europeu abre portas que um passaporte africano não abre. E ela **não** diz que o processo é espontâneo: cada etapa dependeu de tratados, leis, decisões de bancos centrais e, não raro, de força militar.
+:::
+
+A pergunta "quando começou a globalização?" divide historiadores, e a divisão é instrutiva porque cada resposta corresponde a uma ideia diferente do que é essencial no fenômeno.
+
+- **No século XVI**, com a expansão marítima. Quem defende esta data — e é a preferida da maioria dos historiadores — observa que foi então que os continentes passaram a integrar um único circuito de trocas, com a prata americana financiando o comércio asiático e o **tráfico atlântico** movimentando milhões de pessoas (@sec-expansao-maritima). **Immanuel Wallerstein** chama isso de nascimento do "**sistema-mundo**" capitalista, com um **centro**, uma **semiperiferia** e uma **periferia** [@wallerstein2001], e **Fernand Braudel** já havia mostrado a formação de "economias-mundo" articuladas em torno de cidades dominantes [@braudel1996].
+- **No fim do século XIX**, a chamada "primeira globalização". Entre 1870 e 1914, a Segunda Revolução Industrial, o telégrafo, o navio a vapor, o padrão-ouro e o imperialismo produziram um grau de integração comercial e financeira que, em alguns indicadores, só voltaria a ser alcançado nos anos 1980 (@sec-imperialismo). A migração internacional foi então **proporcionalmente maior** do que é hoje.
+- **A partir dos anos 1970–80**, a globalização "contemporânea". É o recorte deste capítulo. O que a distingue não é o comércio internacional em si, que é antiquíssimo, mas três novidades de grau que viraram novidades de natureza: a **simultaneidade** (a informação viaja instantaneamente), a **fragmentação produtiva** (um mesmo produto é feito em dezenas de países, em cadeias globais de valor) e o **volume e a velocidade dos fluxos financeiros**, que passaram a superar em muitas vezes o valor do comércio de bens reais.
+
+::: {.callout-important title="Armadilha de prova: globalização não é sinônimo de neoliberalismo"}
+São coisas distintas, e confundi-las custa pontos.
+
+**Globalização** é um **processo** histórico de integração, com dimensões técnicas, econômicas e culturais. **Neoliberalismo** é um **projeto político-ideológico** específico, com autores, partidos e programas de governo, que orientou o modo como essa integração foi conduzida a partir dos anos 1980.
+
+A distinção importa porque a globalização poderia ter sido — e em alguns lugares foi — conduzida de outras maneiras. A China integrou-se ao comércio mundial mantendo controle estatal sobre bancos, câmbio e setores estratégicos; os países escandinavos abriram-se mantendo Estados de bem-estar robustos. Tratar globalização e neoliberalismo como a mesma coisa é aceitar de antemão a tese de que "não havia alternativa" — que é, precisamente, o *slogan* político do lado neoliberal do debate.
+:::
+
+## O fim dos "trinta anos gloriosos" {#sec-fim-dos-trinta-gloriosos}
+
+Entre 1945 e 1973, o capitalismo ocidental viveu a fase mais próspera de sua história. Os franceses chamaram o período de *Trente Glorieuses*, "trinta anos gloriosos"; **Hobsbawm** chamou de "**Era de Ouro**" [@hobsbawmExtremos1995]. O arranjo tinha nome e regras:
+
+- **Bretton Woods (1944):** o dólar era conversível em ouro a uma taxa fixa (US$ 35 a onça) e as demais moedas eram atreladas ao dólar. Criaram-se o **FMI** e o **Banco Mundial**. Os capitais especulativos eram controlados, e as taxas de câmbio, estáveis.
+- **Keynesianismo:** o Estado gastava para sustentar a demanda, investia em infraestrutura e regulava a economia (@sec-crise-de-1929-entreguerras).
+- **Estado de bem-estar social** (*welfare state*): saúde, educação, previdência e seguro-desemprego financiados por impostos progressivos, num pacto entre sindicatos fortes, empresas e governos.
+- **Produção fordista:** grandes fábricas, linha de montagem, produção em massa, emprego estável e sindicalizado.
+
+Esse mundo entrou em crise no início dos anos 1970, por vários motivos simultâneos. Em **agosto de 1971**, os Estados Unidos, pressionados pelos custos da Guerra do Vietnã e por déficits crescentes, **suspenderam unilateralmente a conversibilidade do dólar em ouro** — decisão conhecida como "choque Nixon", que dinamitou o sistema de Bretton Woods e inaugurou a era do **câmbio flutuante**, em que o valor das moedas passa a ser definido diariamente pelos mercados. Em **1973** e novamente em **1979**, os **choques do petróleo** (@sec-oriente-medio) multiplicaram o custo da energia. E, ao longo da década, a taxa de lucro das grandes empresas industriais caiu, enquanto a concorrência de novos produtores — Japão à frente — corroía a hegemonia industrial americana.
+
+O resultado foi um fenômeno que a teoria econômica dominante considerava impossível: a **estagflação**.
+
+::: {.callout-note title="Conceito: estagflação"}
+**Estagflação** é a combinação simultânea de **estagnação** econômica (crescimento baixo ou negativo, desemprego alto) e **inflação** elevada.
+
+Por que isso foi um terremoto intelectual? Porque o receituário keynesiano se apoiava na chamada **curva de Phillips**, segundo a qual havia uma troca (*trade-off*) entre desemprego e inflação: para reduzir um, aceitava-se aumentar o outro. Os anos 1970 apresentaram os dois **ao mesmo tempo**, e nenhuma das duas alavancas funcionava. Estimular a economia agravava a inflação; conter a inflação agravava o desemprego.
+
+Esse impasse abriu a porta política e intelectual para um conjunto de ideias que havia trinta anos era minoritário, quase marginal, nas universidades e nos governos.
+:::
+
+## O neoliberalismo: das ideias ao poder {#sec-neoliberalismo}
+
+**As ideias.** Em 1944, o economista austríaco **Friedrich Hayek** (1899–1992) publicou *O caminho da servidão*, argumentando que o planejamento econômico estatal, mesmo bem-intencionado, conduziria inevitavelmente à supressão das liberdades individuais [@hayek2010]. Em **1947**, Hayek reuniu um grupo de economistas, filósofos e jornalistas no vilarejo suíço de Mont Pèlerin, fundando a **Sociedade Mont Pèlerin** — uma rede internacional destinada a combater, no longo prazo, o consenso keynesiano e social-democrata que então dominava o Ocidente. Do outro lado do Atlântico, **Milton Friedman** (1912–2006), da Universidade de Chicago, desenvolvia o **monetarismo**: a tese de que a inflação é sempre e em toda parte um fenômeno monetário, e que a prioridade da política econômica deve ser controlar a quantidade de moeda, não perseguir o pleno emprego [@friedman1984].
+
+::: {.callout-note title="Conceito: neoliberalismo"}
+**Neoliberalismo** designa o conjunto de doutrinas e políticas que defendem a redução da intervenção estatal na economia, a liberalização do comércio e dos fluxos de capital, a **privatização** de empresas e serviços públicos, a **desregulamentação** dos mercados — inclusive o de trabalho —, a disciplina fiscal e o combate prioritário à inflação.
+
+Duas precisões que separam a boa resposta da resposta decorada:
+
+1. **Não é "Estado mínimo" na prática.** O neoliberalismo realmente existente não eliminou o Estado: **reorientou-o**. Manteve ou ampliou o aparato de segurança e o poder judiciário, criou agências reguladoras, socorreu bancos com dinheiro público em 2008 e sustentou grandes empresas com subsídios. O que mudou foi para **quem** e para **quê** o Estado age.
+2. **Não é o liberalismo clássico repetido.** Adam Smith e os liberais do século XVIII combatiam privilégios aristocráticos e monopólios reais em nome de uma sociedade de produtores (@sec-iluminismo). O neoliberalismo do século XX opera num mundo de grandes corporações, bancos centrais e sindicatos, e sua novidade é ativa: o Estado deve **construir e garantir** mercados onde eles não existiam — na saúde, na educação, na previdência, na água.
+:::
+
+**O primeiro laboratório: o Chile.** As ideias saíram do papel primeiro num lugar que raramente aparece nos manuais de economia: o **Chile** de **Augusto Pinochet**. Após o golpe de 11 de setembro de 1973, que derrubou Salvador Allende (@sec-america-latina-ditaduras), a política econômica foi entregue aos "*Chicago boys*", economistas chilenos formados sob Friedman. Aplicaram-se privatizações em massa, abertura comercial abrupta, desregulamentação financeira e a primeira privatização integral de um sistema previdenciário no mundo (1981). Os resultados foram mistos e violentamente distribuídos: inflação controlada e crescimento em alguns períodos, mas também a grave crise de 1982, desemprego que passou de 20% e forte aumento da desigualdade. O ponto historicamente decisivo é outro: **o primeiro experimento neoliberal completo foi implantado sob uma ditadura militar**, com sindicatos ilegais, partidos fechados, imprensa censurada e oposição perseguida. Não é um detalhe biográfico do modelo; é um dado que qualquer avaliação séria precisa incorporar.
+
+**Thatcher e Reagan.** Em **1979**, **Margaret Thatcher** tornou-se primeira-ministra do Reino Unido; em **1981**, **Ronald Reagan** assumiu a presidência dos Estados Unidos. Ambos aplicaram, agora em democracias e em economias centrais, o mesmo receituário: corte de impostos sobre as faixas mais altas de renda, redução de gastos sociais, privatizações (no Reino Unido: telefonia, gás, água, aço, ferrovias), desregulamentação financeira e confronto direto com o movimento sindical. Thatcher derrotou a greve dos mineiros de 1984–85 depois de quase um ano de embate; Reagan demitiu de uma vez mais de 11 mil controladores de voo em greve, em 1981. Foram vitórias simbólicas tanto quanto práticas: sinalizaram que a correlação de forças mudara.
+
+De Thatcher vem a frase que se tornou o resumo do período: "**There is no alternative**" — não há alternativa —, abreviada como **TINA**. Ela merece ser tratada como fonte histórica, e não como constatação: era um argumento político formulado para encerrar o debate, e funcionou.
+
+**A guinada dos juros.** Um episódio técnico teve consequências gigantescas. Em 1979, **Paul Volcker**, presidente do banco central americano (Federal Reserve), elevou as taxas de juros a patamares até então inconcebíveis — mais de 20% ao ano. A inflação americana foi de fato debelada, ao custo de recessão e desemprego. E, do outro lado do mundo, os países que haviam tomado empréstimos baratos em dólares durante os anos 1970 viram sua dívida explodir da noite para o dia.
+
+::: {#fig-linha-do-tempo-neoliberalismo}
+
+```{.tikz}
+%%| filename: fig-linha-do-tempo-neoliberalismo
+%%| alt: Linha do tempo da globalização e do neoliberalismo, de 1944 a 2008, com Bretton Woods, choque Nixon, choques do petróleo, Thatcher e Reagan, Consenso de Washington, Plano Real, crise asiática e crise de 2008.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \fill[manualgreen!16, rounded corners] (0.3,-1.5) rectangle (4.0,-0.55);
+  \node[text=manualgreen!45!black, font=\scriptsize\bfseries, align=center] at (2.15,-1.02) {Era de Ouro\\ Bretton Woods};
+  \fill[manualred!14, rounded corners] (4.2,-1.5) rectangle (7.3,-0.55);
+  \node[text=manualred, font=\scriptsize\bfseries, align=center] at (5.75,-1.02) {crise dos\\ anos 1970};
+  \fill[manualblue!14, rounded corners] (7.5,-1.5) rectangle (12.0,-0.55);
+  \node[text=manualblue, font=\scriptsize\bfseries, align=center] at (9.75,-1.02) {ofensiva neoliberal};
+  \fill[manualyellow!24, rounded corners] (12.2,-1.5) rectangle (15.0,-0.55);
+  \node[text=manualyellow!55!black, font=\scriptsize\bfseries, align=center] at (13.6,-1.02) {crises da\\ globalização};
+
+  \draw[eixo] (0,0) -- (15.2,0);
+  \node[eixo, gray] at (15.2,-0.42) {tempo (fora de escala)};
+
+  \node[ponto] at (0.9,0) {};
+  \node[below, align=center] at (0.9,-0.18) {\textbf{1944}};
+  \node[above, align=center, text=manualgreen!45!black] at (0.9,0.2) {\textbf{Bretton}\\ \textbf{Woods}\\ FMI e Banco\\ Mundial};
+
+  \node[ponto] at (2.9,0) {};
+  \node[below, align=center] at (2.9,-0.18) {\textbf{1947}};
+  \node[above, align=center, text=manualgray!40!black] at (2.9,0.2) {Sociedade\\ \textbf{Mont Pèlerin}\\ (Hayek)};
+
+  \node[ponto] at (4.7,0) {};
+  \node[below, align=center] at (4.7,-0.18) {\textbf{1971}};
+  \node[above, align=center, text=manualred] at (4.7,0.2) {\textbf{choque Nixon}\\ fim da conversão\\ dólar--ouro};
+
+  \node[ponto] at (6.4,0) {};
+  \node[below, align=center] at (6.4,-0.18) {\textbf{1973}};
+  \node[above, align=center, text=manualred] at (6.4,0.2) {\textbf{choque do}\\ \textbf{petróleo}\\ estagflação\\ Chile: Pinochet};
+
+  \node[ponto] at (8.1,0) {};
+  \node[below, align=center] at (8.1,-0.18) {\textbf{1979--81}};
+  \node[above, align=center, text=manualblue] at (8.1,0.2) {\textbf{Thatcher} e\\ \textbf{Reagan}\\ choque dos\\ juros (Volcker)};
+
+  \node[ponto] at (9.9,0) {};
+  \node[below, align=center] at (9.9,-0.18) {\textbf{1982}};
+  \node[above, align=center, text=manualyellow!55!black] at (9.9,0.2) {\textbf{crise da dívida}\\ México\\ ``década perdida''};
+
+  \node[ponto] at (11.5,0) {};
+  \node[below, align=center] at (11.5,-0.18) {\textbf{1989--91}};
+  \node[above, align=center, text=manualblue] at (11.5,0.2) {\textbf{Consenso de}\\ \textbf{Washington}\\ fim da URSS\\ \textbf{Mercosul}};
+
+  \node[ponto] at (13.0,0) {};
+  \node[below, align=center] at (13.0,-0.18) {\textbf{1994--99}};
+  \node[above, align=center, text=manualgreen!45!black] at (13.0,0.2) {\textbf{Plano Real}\\ OMC (1995)\\ crise asiática\\ (1997)};
+
+  \node[ponto] at (14.6,0) {};
+  \node[below, align=center] at (14.6,-0.18) {\textbf{2008}};
+  \node[above, align=center, text=manualred] at (14.6,0.2) {\textbf{crise}\\ \textbf{financeira}\\ global};
+\end{tikzpicture}
+```
+
+Da Era de Ouro à crise de 2008: os marcos da globalização contemporânea.
+:::
+
+## O Consenso de Washington e a América Latina {#sec-consenso-de-washington}
+
+Em **1989**, o economista britânico **John Williamson** publicou uma lista das dez reformas que, a seu ver, as instituições sediadas em Washington — Tesouro americano, **FMI** e **Banco Mundial** — consideravam necessárias para a América Latina [@williamson1990]. Ele batizou o conjunto de "**Consenso de Washington**", expressão que escapou ao controle do autor e passou a designar todo o receituário neoliberal aplicado ao mundo em desenvolvimento.
+
+::: {#fig-consenso-de-washington}
+
+```{.tikz}
+%%| filename: fig-consenso-de-washington
+%%| alt: Diagrama do Consenso de Washington, com as medidas prescritas, os mecanismos de imposição e as críticas.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \node[draw, very thick, rounded corners, fill=manualblue!16, align=center, text width=13.4cm] (t) at (0,3.5)
+    {\textbf{CONSENSO DE WASHINGTON} (1989) --- receituário do FMI, do Banco Mundial e do Tesouro dos EUA\\ para países endividados da América Latina, África e, depois, do Leste Europeu};
+
+  \node[draw, thick, rounded corners, fill=manualgray!14, align=left, text width=6.3cm] (a) at (-3.6,1.35)
+    {\textbf{DISCIPLINA MACROECONÔMICA}\\[2pt]
+     $\cdot$ austeridade fiscal (corte de gastos)\\
+     $\cdot$ reforma tributária de base ampla\\
+     $\cdot$ juros e câmbio definidos pelo mercado\\
+     $\cdot$ prioridade absoluta ao controle da inflação};
+  \node[draw, thick, rounded corners, fill=manualgray!14, align=left, text width=6.3cm] (b) at (3.6,1.35)
+    {\textbf{ABERTURA E REDUÇÃO DO ESTADO}\\[2pt]
+     $\cdot$ liberalização comercial (queda de tarifas)\\
+     $\cdot$ abertura ao investimento estrangeiro\\
+     $\cdot$ \textbf{privatização} de empresas estatais\\
+     $\cdot$ desregulamentação e direitos de propriedade};
+
+  \draw[vetor, thick, manualblue] (t) -- (a); \draw[vetor, thick, manualblue] (t) -- (b);
+
+  \node[draw, thick, rounded corners, fill=manualyellow!24, align=center, text width=13.4cm] (m) at (0,-0.5)
+    {\textbf{COMO SE IMPÔS:} \textit{condicionalidade}. País endividado precisa de novo empréstimo $\rightarrow$ FMI concede\\ \textbf{mediante} a adoção das reformas $\rightarrow$ a política econômica passa a ser negociada fora do país.};
+
+  \draw[vetor, thick, manualyellow!60!black] (a) -- (m); \draw[vetor, thick, manualyellow!60!black] (b) -- (m);
+
+  \node[draw, very thick, rounded corners, fill=manualred!14, align=left, text width=13.4cm, text=manualred] (c) at (0,-2.8)
+    {\textbf{AS TRÊS CRÍTICAS PRINCIPAIS}\\[2pt]
+     \textbf{1. Receita única:} o mesmo pacote para países com histórias, estruturas e problemas distintos --- ``tamanho único'' (Stiglitz).\\
+     \textbf{2. Custo social:} desemprego, queda de salários e corte de serviços públicos recaíram sobre os mais pobres.\\
+     \textbf{3. Incoerência histórica:} os países ricos se desenvolveram com protecionismo e Estado ativo, e depois\\ recomendaram o oposto aos demais --- ``\textbf{chutando a escada}'' (Chang).};
+\end{tikzpicture}
+```
+
+O Consenso de Washington: prescrições, mecanismo de imposição e críticas.
+:::
+
+**A crise da dívida e a "década perdida".** O gatilho foi a alta dos juros americanos. Em **agosto de 1982**, o **México** declarou-se incapaz de pagar sua dívida externa, e o efeito dominó atingiu toda a América Latina. A região passou os anos 1980 negociando reescalonamentos com credores, transferindo recursos líquidos para o exterior, convivendo com **hiperinflação** e vendo a renda por habitante estagnar ou cair — daí o nome "**década perdida**". Foi exatamente nesse contexto de fragilidade extrema que o receituário do Consenso encontrou terreno: um país que precisa refinanciar sua dívida amanhã tem pouca margem para discutir a política econômica que lhe é proposta hoje.
+
+::: {.callout-warning title="A palavra-chave é condicionalidade"}
+Nada disso foi imposto por invasão. O mecanismo foi a **condicionalidade**: o empréstimo do FMI é liberado em parcelas, mediante o cumprimento de metas acordadas em uma "carta de intenções" — superávit fiscal, privatizações, reformas.
+
+Isso levanta a questão política de fundo do período: **quem decide a política econômica de um país soberano?** Os defensores respondem que ninguém obrigou governo algum a se endividar, que a condicionalidade é a garantia mínima de qualquer credor e que muitas das reformas eram necessárias por mérito próprio. Os críticos respondem que decisões que afetam a vida de milhões passaram a ser tomadas em negociações técnicas, sem eleição nem debate público, e que a assimetria entre um país à beira da moratória e seus credores torna a palavra "acordo" um eufemismo.
+
+Guarde a pergunta. Ela reaparece, com outras roupas, em toda discussão contemporânea sobre soberania, mercados e democracia — e é matéria recorrente de redação e de questões discursivas.
+:::
+
+## O Brasil na globalização {#sec-brasil-na-globalizacao}
+
+O Brasil chegou aos anos 1990 com uma economia fechada, um Estado empresário construído desde Vargas (@sec-era-vargas) e uma inflação fora de controle — em 1993, os preços subiram cerca de **2.500% ao ano**. A sequência dos acontecimentos é matéria certa de vestibular:
+
+**Collor (1990–92).** O primeiro presidente eleito por voto direto após a ditadura (@sec-redemocratizacao-nova-republica) inaugurou a agenda: **abertura comercial** com redução acelerada de tarifas de importação — a frase sobre os carros nacionais serem "carroças" ficou célebre —, início do Programa Nacional de Desestatização e o traumático **Plano Collor** (1990), que bloqueou por 18 meses depósitos e poupanças acima de certo valor. A inflação voltou, e o presidente sofreu **impeachment** em 1992 por corrupção.
+
+**O Plano Real (1994).** Concebido por uma equipe econômica sob o ministro **Fernando Henrique Cardoso**, o plano atacou a **inércia inflacionária** — a inflação que se reproduz porque todos os contratos são reajustados pela inflação passada — com uma solução engenhosa em três etapas: ajuste fiscal, criação de uma unidade de conta puramente virtual (a **URV**, Unidade Real de Valor, que atualizava preços diariamente sem ser dinheiro) e, quando os preços relativos já estavam alinhados nessa unidade, a conversão da URV na nova moeda, o **real**, em 1º de julho de 1994. A inflação despencou de milhares por cento ao ano para um dígito. É, sem exagero, uma das políticas públicas mais bem-sucedidas da história brasileira, e explica boa parte da eleição de FHC naquele mesmo ano.
+
+**FHC (1995–2002).** A estabilidade foi sustentada por juros altos e câmbio valorizado — que barateava importações e continha preços, ao custo de déficits comerciais e de pressão sobre a indústria. O período consolidou a agenda de reformas: **privatizações** de grande porte (siderurgia, telecomunicações, mineração, energia, bancos estaduais), quebra de monopólios estatais, criação de **agências reguladoras** e a **Lei de Responsabilidade Fiscal** (2000). Sucessivas crises externas — México (1994), Ásia (1997), Rússia (1998) — atingiram o país, e em **janeiro de 1999** o Brasil abandonou o câmbio fixo e desvalorizou o real, adotando em seguida o tripé **câmbio flutuante, metas de inflação e superávit primário**. Em 2002, às vésperas da eleição, uma nova crise de confiança levou a um acordo com o FMI e à "Carta ao Povo Brasileiro", em que **Lula** se comprometeu a manter contratos e a política de estabilidade.
+
+::: {.callout-important title="As privatizações brasileiras: o debate, sem torcida"}
+Este é um tema em que a maioria das pessoas já chegou com opinião formada — e é justamente por isso que ele serve para treinar o exame de argumentos.
+
+**A favor.** As estatais consumiam recursos públicos escassos num Estado endividado; muitas eram ineficientes e usadas como moeda de troca política; a venda gerou receita para abater dívida; setores privatizados — telefonia é o exemplo sempre citado — passaram por expansão e queda de preços que o Estado não teria financiado. Em 1994, havia cerca de 5 milhões de linhas telefônicas no Brasil e uma linha custava o preço de um carro popular; hoje há mais celulares do que habitantes.
+
+**Contra.** Ativos estratégicos construídos com dinheiro público foram vendidos abaixo do valor, e às vezes financiados pelo próprio **BNDES** — isto é, o Estado emprestou para que comprassem o que era seu; o argumento fiscal foi superestimado, pois a receita foi consumida rapidamente sem resolver o endividamento; houve demissões em massa; e a regulação nasceu frágil, o que explica reclamações crônicas de consumidores em telefonia e energia.
+
+**O que a análise histórica acrescenta.** Nem tudo é comparável: privatizar uma siderúrgica que compete em mercado aberto é diferente de privatizar um monopólio natural, como distribuição de energia elétrica, em que não há concorrência possível e tudo depende da qualidade da regulação. Além disso, o desempenho posterior variou enormemente de setor para setor — o que sugere que a variável decisiva não foi a propriedade em si, mas o **desenho regulatório** e o contexto de cada mercado. Numa prova, é essa distinção — e não a adesão a um dos lados — que caracteriza a resposta madura.
+:::
+
+**A integração regional.** Em **1991**, o Tratado de Assunção criou o **Mercosul** (Brasil, Argentina, Uruguai e Paraguai; a Venezuela ingressou em 2012 e foi suspensa em 2016), estabelecendo uma zona de livre-comércio e uma união aduaneira imperfeita. Foi parte de um movimento mundial de formação de **blocos econômicos**: a **União Europeia** consolidou-se com o Tratado de Maastricht (1992) e criou o **euro** (1999/2002); os Estados Unidos, o Canadá e o México formaram o **Nafta** (1994); e o **GATT** deu lugar, em 1995, à **OMC** (Organização Mundial do Comércio), com poder de arbitrar disputas comerciais entre países. Nos anos 2000, o Brasil liderou a rejeição da **Alca** — a área de livre-comércio hemisférica proposta pelos Estados Unidos —, sepultada na Cúpula de Mar del Plata em 2005, e investiu na integração sul-americana e no diálogo Sul–Sul, do qual o **BRICS** (sigla criada em 2001, agrupamento formalizado a partir de 2009) é a expressão mais visível.
+
+## Financeirização, desigualdade e a crise de 2008 {#sec-financeirizacao-2008}
+
+Um dado organiza a compreensão do capitalismo contemporâneo: o volume diário de transações nos mercados de câmbio do mundo é hoje muitas vezes superior ao valor do comércio internacional de bens e serviços de um dia inteiro. Ou seja: a maior parte do dinheiro que circula pelo planeta **não** está pagando mercadorias, mas comprando e vendendo ativos financeiros.
+
+::: {.callout-note title="Conceito: financeirização"}
+**Financeirização** é o processo pelo qual as atividades e os critérios financeiros passam a dominar a economia: o lucro origina-se cada vez mais de operações com ativos (juros, títulos, derivativos, ações) e menos da produção de bens; empresas industriais passam a ser geridas segundo o objetivo de maximizar o valor de suas ações no curto prazo; e famílias comuns têm suas vidas atravessadas por crédito, hipoteca e previdência privada.
+
+Duas consequências históricas se destacam. A primeira é a **volatilidade**: capitais que entram e saem de um país em horas podem derrubar moedas e governos — foi o que se viu nas crises do México (1994), da Ásia (1997), da Rússia (1998) e da Argentina (2001). A segunda é a **assimetria de risco**, exposta cruamente em 2008: em situações de colapso, os ganhos dos anos bons já haviam sido privatizados e as perdas foram socializadas pelo resgate público.
+:::
+
+**A crise de 2008.** Sua origem estava no mercado imobiliário americano. Bancos concederam hipotecas de alto risco (*subprime*) a compradores sem capacidade de pagamento, e essas dívidas foram empacotadas em títulos complexos, revendidos mundo afora e classificados como seguros por agências de risco pagas pelos próprios emissores. Quando os preços dos imóveis pararam de subir e a inadimplência cresceu, o castelo desabou. Em **setembro de 2008**, a falência do banco **Lehman Brothers** congelou o crédito mundial. Seguiram-se a maior recessão global desde 1929 (@sec-crise-de-1929-entreguerras), resgates bilionários com dinheiro público, a crise da dívida soberana na zona do euro (Grécia, Portugal, Irlanda, Espanha) e anos de austeridade que alimentaram a desconfiança nas instituições e nos partidos tradicionais — combustível direto dos fenômenos políticos que o @sec-desafios-do-presente examina. O Brasil, com reservas internacionais robustas, bancos pouco expostos e demanda chinesa por *commodities*, atravessou o pior momento com relativa suavidade, e o então presidente Lula chamou a crise de "marolinha" — avaliação que os anos seguintes tornariam otimista demais.
+
+**A desigualdade.** O economista francês **Thomas Piketty** e sua equipe reconstruíram, a partir de registros fiscais de dezenas de países, a evolução da distribuição de renda e riqueza ao longo de dois séculos [@piketty2014]. O resultado desenha um **U**: desigualdade altíssima até 1914, forte queda entre as guerras e os anos 1970 — efeito da destruição de patrimônios, da tributação progressiva e do Estado de bem-estar —, e nova alta a partir dos anos 1980, chegando em vários países a patamares comparáveis aos do início do século XX. A tese central é que, quando o rendimento do capital (*r*) supera de forma persistente o crescimento da economia (*g*), a riqueza herdada tende a se concentrar mais rápido do que a renda do trabalho pode acompanhar. As críticas são numerosas — sobre a qualidade dos dados de riqueza, sobre a generalidade da fórmula, sobre a viabilidade política de suas propostas —, mas o trabalho estabeleceu de forma duradoura um fato empírico que hoje ninguém contesta: a desigualdade **aumentou** nas economias centrais desde 1980.
+
+Simultaneamente, a **desigualdade entre países** diminuiu, sobretudo por causa da China, que tirou centenas de milhões de pessoas da pobreza extrema em uma geração. É um dos paradoxos centrais do período, e um bom teste de honestidade analítica: a mesma globalização que concentrou renda dentro dos países ricos reduziu a distância média entre países. Quem usa apenas um dos dois fatos está fazendo propaganda, não análise.
+
+## Resistências: o mundo não é uma mercadoria {#sec-resistencias}
+
+A globalização neoliberal produziu oposição desde cedo. Em **1º de janeiro de 1994**, dia em que o Nafta entrava em vigor, o **Exército Zapatista de Libertação Nacional** (EZLN) ergueu-se em Chiapas, no sul do México, articulando reivindicações indígenas e camponesas a uma crítica global — e usando a internet, então incipiente, como arma de comunicação. Em **1999**, protestos em **Seattle** paralisaram a reunião da OMC, revelando uma coalizão inédita de sindicalistas, ambientalistas, estudantes, camponeses e ONGs. Em **2001**, nasceu em **Porto Alegre** o **Fórum Social Mundial**, contraponto explícito ao Fórum Econômico Mundial de Davos, com o lema "**Um outro mundo é possível**".
+
+Vale registrar uma correção de vocabulário que os próprios participantes fizeram: o movimento recusou o rótulo de "antiglobalização" e preferiu **altermundialista** — a crítica não era à existência de laços mundiais, e sim ao **tipo** de mundialização em curso, financeira e desigual. A distinção é fina e cai em prova.
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+**1. Novidade ou longa duração?** A primeira divergência é cronológica e conceitual. Para a **historiografia da longa duração**, na linhagem de **Braudel** e de **Wallerstein**, a globalização não tem nada de nova: o capitalismo é, desde o século XVI, um sistema mundial hierarquizado em centro e periferia, e o que mudou nas últimas décadas foi a intensidade, não a natureza [@braudel1996; @wallerstein2001]. Para autores como **Anthony Giddens** e **David Harvey**, houve sim uma ruptura qualitativa: a **compressão do espaço-tempo** produzida pelas tecnologias de informação alterou a experiência da distância e a organização da produção de um modo sem precedentes [@giddens1991; @harvey2012].
+
+Como escolher? Note que a discordância é menos factual do que de **escala de observação** — o mesmo problema que **Braudel** formalizou ao distinguir os tempos da história (@sec-correntes-historiograficas). Observado em séculos, o comércio transcontinental é antigo; observado em décadas, a fragmentação das cadeias produtivas e a simultaneidade financeira são inéditas. Ambos os grupos estão olhando a mesma coisa com lentes de aumento diferentes, e o erro seria imaginar que uma das lentes é "a" correta.
+
+**2. Fukuyama e a euforia dos anos 1990.** Em 1989, **Francis Fukuyama** propôs que o colapso do socialismo real marcava o "**fim da História**" — não o fim dos acontecimentos, mas o esgotamento da disputa entre grandes projetos de sociedade, com a vitória definitiva da democracia liberal e do mercado como horizonte último [@fukuyama1992]. A tese foi enormemente influente e enormemente criticada (@sec-nova-ordem-mundial). **Hobsbawm**, escrevendo no mesmo momento, chegava a conclusão oposta: encerrado o "**breve século XX**" em 1991, o mundo entrava numa era de incerteza, sem os mecanismos de contenção que a rivalidade bipolar oferecia, com Estados enfraquecidos diante de forças econômicas transnacionais [@hobsbawmExtremos1995]. Três décadas depois, com autoritarismos em ascensão, guerras na Europa e uma crise climática sem governança à altura, o diagnóstico de Hobsbawm envelheceu melhor — o que não significa que Fukuyama tenha sido tolo, e sim que **prognósticos** são o produto mais perecível do trabalho intelectual.
+
+**3. Milton Santos: a globalização vista do Sul.** O geógrafo brasileiro **Milton Santos** (1926–2001) ofereceu, em *Por uma outra globalização* (2000), uma das análises mais originais produzidas na periferia do sistema. Sua tese: existem **três globalizações** superpostas. A primeira é a **fábula** — o discurso da aldeia global, do mercado que a todos beneficia, do encolhimento das distâncias, que circula como se fosse descrição da realidade. A segunda é a globalização **como perversidade**: o que de fato existe, com desemprego estrutural, pobreza, fome, doenças reemergentes, "tiranias do dinheiro e da informação". A terceira é a globalização **como possibilidade**: as mesmas bases técnicas — informação instantânea, mistura de povos, consciência planetária — poderiam sustentar um mundo diferente, mais solidário, se fossem apropriadas por outras forças sociais [@santosMilton2001].
+
+O que faz dessa formulação uma contribuição historiográfica, e não apenas retórica, é a distinção entre a **técnica** e o **uso político da técnica**. Santos recusa tanto o entusiasmo tecnológico quanto o pessimismo que atribui às máquinas a responsabilidade pelo que os homens fazem com elas. É a mesma operação intelectual que o @sec-sociedade-em-rede aplica à internet.
+
+**4. Harvey e a "acumulação por espoliação".** **David Harvey**, geógrafo marxista britânico, lê o neoliberalismo como um **projeto político de classe**, e não como um programa técnico de eficiência: sua função histórica teria sido **restaurar o poder e a parcela de renda das elites econômicas**, erodidos pelo arranjo social-democrata do pós-guerra [@harvey2008]. O mecanismo central que descreve é a **acumulação por espoliação**: em vez de produzir novo valor, o capital se expande cercando e mercantilizando o que estava fora do mercado — serviços públicos, previdência, água, terras comunais, patrimônio genético, dados pessoais. É uma releitura contemporânea do que Marx chamou de acumulação primitiva, com a diferença de que, em Harvey, ela não é uma fase inicial superada, e sim um recurso permanente do sistema.
+
+A objeção mais séria é que a tese explica **demais**: se todo movimento do capitalismo pode ser descrito como espoliação, o conceito perde poder discriminatório. Além disso, críticos apontam que a evidência de intencionalidade — a ideia de um projeto consciente de classe — é mais assumida do que demonstrada documentalmente.
+
+**5. A defesa da abertura, e por que ela não é desprezível.** Um manual honesto precisa apresentar o outro lado com seus melhores argumentos, e não em caricatura. Economistas como **Jagdish Bhagwati** e, em versão bem mais crítica, **Joseph Stiglitz**, argumentam a partir de dados robustos: a proporção da população mundial em pobreza extrema caiu drasticamente entre 1990 e 2015; a expectativa de vida e a alfabetização aumentaram em quase toda parte; e os países que mais se abriram ao comércio — na Ásia oriental — cresceram mais do que os que se fecharam. Stiglitz, ex-economista-chefe do Banco Mundial e prêmio Nobel, é particularmente útil aqui porque ocupa uma posição intermediária: defende a integração comercial e ataca com dureza o modo como o FMI a conduziu, especialmente a liberalização financeira apressada e as receitas idênticas para países diferentes [@stiglitz2002].
+
+**Ha-Joon Chang** desloca o debate para o terreno histórico, e é por isso que interessa particularmente a um manual de História. Em *Chutando a escada*, mostra com evidência documental que os países hoje ricos — Reino Unido, Estados Unidos, Alemanha, Japão, Coreia do Sul — desenvolveram-se com tarifas altas, subsídios, empresas estatais e violação sistemática de patentes alheias, e só passaram a pregar o livre-comércio **depois** de consolidada sua vantagem industrial [@chang2004]. Se ele estiver certo, a controvérsia deixa de ser sobre teoria econômica e passa a ser sobre **evidência histórica** — terreno em que o historiador tem algo a dizer. É um bom exemplo de como a História intervém em debates que pareciam pertencer a outra disciplina.
+
+## Resumo do capítulo {#sec-resumo}
+
+- **Globalização** é a intensificação das interdependências mundiais, com aceleração dos fluxos de mercadorias, capitais, pessoas e informações. Sua datação varia conforme o critério: **século XVI** (sistema-mundo de Wallerstein, economias-mundo de Braudel), **1870–1914** ("primeira globalização") ou **pós-1970** (simultaneidade, cadeias globais de valor, fluxos financeiros).
+- **Não confunda** globalização (processo) com neoliberalismo (projeto político). China e países escandinavos integraram-se com modelos muito distintos do anglo-americano.
+- **Fim da Era de Ouro:** o arranjo de **Bretton Woods** (1944), o keynesianismo, o *welfare state* e o fordismo sustentaram o crescimento até 1973. Ruíram com o **choque Nixon** (1971, fim da conversibilidade dólar-ouro), os **choques do petróleo** (1973 e 1979) e a **estagflação**, que invalidou a curva de Phillips e abriu espaço político para ideias até então minoritárias.
+- **Neoliberalismo:** formulado por **Hayek** (*O caminho da servidão*, 1944; **Mont Pèlerin**, 1947) e **Friedman** (monetarismo, Escola de Chicago). Aplicado primeiro no **Chile de Pinochet** pelos "*Chicago boys*" — sob ditadura —, depois por **Thatcher** (1979) e **Reagan** (1981). Slogan: **TINA**, "não há alternativa". O **choque de juros de Volcker** (1979) desencadeou a crise da dívida.
+- **Consenso de Washington** (1989): disciplina fiscal, liberalização comercial e financeira, privatização, desregulamentação. Imposto por **condicionalidade** do FMI. Críticas: receita única, custo social e a incoerência histórica denunciada por **Chang** ("chutando a escada").
+- **América Latina:** moratória do **México** (1982), **década perdida**, hiperinflação.
+- **Brasil:** **Collor** (abertura comercial, início das privatizações, confisco de 1990, impeachment em 1992); **Plano Real** (1994, URV e combate à inércia inflacionária); **FHC** (privatizações, agências reguladoras, LRF de 2000, desvalorização de 1999 e o tripé câmbio flutuante/metas de inflação/superávit primário); **Mercosul** (1991), **OMC** (1995), rejeição da **Alca** (2005), **BRICS**.
+- **Financeirização**, volatilidade e crises (México 1994, Ásia 1997, Rússia 1998, Argentina 2001). **Crise de 2008**: *subprime*, quebra do **Lehman Brothers**, recessão global, resgates públicos, austeridade na Europa.
+- **Desigualdade: o paradoxo central.** Aumentou **dentro** dos países ricos desde 1980 (o "U" de **Piketty**) e diminuiu **entre** países, sobretudo pela ascensão chinesa. Usar só um dos dados é propaganda.
+- **Resistências:** zapatistas (1994), Seattle (1999), **Fórum Social Mundial** (Porto Alegre, 2001), "um outro mundo é possível" — movimento **altermundialista**, e não "antiglobalização".
+- **Historiografia:** longa duração (Braudel, Wallerstein) × ruptura (Giddens, Harvey); **Fukuyama** × **Hobsbawm**; as três globalizações de **Milton Santos** (fábula, perversidade, possibilidade); a **acumulação por espoliação** de **Harvey** e sua crítica; e a defesa da abertura por **Stiglitz** e a objeção histórica de **Chang**.
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Domine: (1) a definição de globalização e o debate sobre sua datação; (2) a diferença entre globalização e neoliberalismo; (3) a cadeia causal 1971 → 1973 → estagflação → neoliberalismo; (4) as dez medidas do Consenso e o mecanismo da condicionalidade; (5) a sequência brasileira Collor → Real → FHC; (6) o mecanismo da crise de 2008; (7) o paradoxo da desigualdade dentro/entre países; (8) as três globalizações de Milton Santos.
+:::
+
+**1.** Explique o que foi a **estagflação** dos anos 1970 e por que ela foi decisiva para a ascensão do neoliberalismo.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**O que é.** **Estagflação** é a ocorrência simultânea de **estagnação econômica** (crescimento baixo ou negativo, desemprego alto) e **inflação** elevada.
+
+**Por que ocorreu.** Três fatores se combinaram:
+
+1. **O fim de Bretton Woods.** Em agosto de **1971**, os Estados Unidos suspenderam a conversibilidade do dólar em ouro, pressionados pelos gastos da Guerra do Vietnã e por déficits crescentes. O sistema de câmbio fixo ruiu, e as moedas passaram a flutuar — o que aumentou a instabilidade e a especulação.
+2. **Os choques do petróleo** de **1973** e **1979** (@sec-oriente-medio), que multiplicaram o custo da energia e, portanto, de praticamente toda a produção industrial e do transporte.
+3. **A queda das taxas de lucro** industriais nos países centrais, num quadro de concorrência crescente do Japão e da Alemanha e de esgotamento do modelo fordista.
+
+**Por que foi decisiva — e este é o ponto que a questão quer.** O receituário keynesiano dominante desde os anos 1930 baseava-se na chamada **curva de Phillips**, que supunha uma troca entre inflação e desemprego: aceitava-se mais de um para reduzir o outro. A estagflação apresentou **os dois males ao mesmo tempo**, o que desativou as duas alavancas disponíveis: estimular a economia agravava a inflação; contrair a economia agravava o desemprego.
+
+Esse impasse não foi apenas econômico, foi **intelectual e político**. Ele produziu uma crise de autoridade da doutrina dominante e criou a oportunidade para que um conjunto de ideias até então minoritário — o de **Hayek** e **Friedman**, cultivado desde 1947 na **Sociedade Mont Pèlerin** — se apresentasse como a alternativa disponível. É um exemplo notável de como **ideias derrotadas podem permanecer em circulação por décadas e chegar ao poder quando a conjuntura muda**: os neoliberais não convenceram o mundo nos anos 1950; eles esperaram, organizados, até que o adversário falhasse.
+
+**A conclusão que fecha a resposta.** A vitória neoliberal não foi apenas o efeito automático de uma crise: dependeu de uma rede intelectual construída pacientemente, de financiamento de fundações e institutos, de acesso à imprensa e, decisivamente, de vitórias políticas concretas — Pinochet em 1973, Thatcher em 1979, Reagan em 1981.
+:::
+
+**2.** Explique o **Consenso de Washington** e apresente as principais críticas dirigidas a ele.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**O que foi.** Expressão cunhada por **John Williamson** em **1989** para descrever o conjunto de reformas que as instituições sediadas em Washington — Tesouro americano, **FMI** e **Banco Mundial** — consideravam necessárias aos países da América Latina [@williamson1990]. Passou a designar, de modo mais amplo, o receituário neoliberal aplicado ao mundo em desenvolvimento nos anos 1990.
+
+**As medidas, agrupadas.**
+
+- **Disciplina macroeconômica:** austeridade fiscal, reforma tributária de base ampla, juros e câmbio determinados pelo mercado, prioridade absoluta ao controle da inflação.
+- **Abertura:** redução de tarifas de importação, liberalização do investimento estrangeiro direto e dos fluxos de capital.
+- **Redução do Estado:** **privatização** de empresas estatais, **desregulamentação** de mercados, garantia de direitos de propriedade.
+
+**Como se impôs — e este item costuma faltar nas respostas medianas.** Não houve imposição militar: o mecanismo foi a **condicionalidade**. Países endividados que precisavam de novos empréstimos assinavam com o FMI cartas de intenções em que se comprometiam com metas e reformas; o desembolso era feito em parcelas, condicionado ao cumprimento. Na prática, aspectos centrais da política econômica passaram a ser negociados fora do processo eleitoral doméstico. O contexto de **fragilidade** — a crise da dívida iniciada com a moratória mexicana de **1982** — é o que explica a aceitação: um país à beira do colapso cambial tem pouquíssima margem de negociação.
+
+**As críticas.**
+
+1. **Receita única.** O mesmo pacote foi prescrito a países com estruturas produtivas, instituições e problemas muito diferentes. **Stiglitz**, ex-economista-chefe do Banco Mundial, é o crítico mais autorizado desse ponto, e concentra sua objeção na **liberalização financeira apressada**, que expôs economias frágeis a fluxos de capital voláteis e produziu as crises da Ásia (1997) e da Rússia (1998) [@stiglitz2002].
+2. **Custo social.** Austeridade e cortes recaíram desproporcionalmente sobre os mais pobres, via desemprego, queda de salários reais e deterioração de serviços públicos.
+3. **Incoerência histórica.** **Ha-Joon Chang** documenta que os países hoje desenvolvidos cresceram com tarifas altas, subsídios, estatais e desrespeito a patentes, adotando o livre-comércio apenas **depois** de consolidada sua liderança industrial — daí a imagem de "**chutar a escada**" pela qual se subiu [@chang2004].
+4. **Resultados fracos.** Na América Latina, o crescimento médio dos anos 1990 foi inferior ao do período desenvolvimentista anterior, e a desigualdade permaneceu altíssima.
+
+**A ressalva que o rigor exige.** Nem tudo no pacote foi ruim ou fracassou. O **controle da inflação** foi uma conquista real e socialmente progressiva — a inflação alta é um imposto que recai sobretudo sobre quem não tem como se proteger, isto é, os assalariados de baixa renda. A responsabilidade fiscal evitou a repetição de colapsos monetários. A crítica historicamente sólida não é ao conjunto indiscriminadamente, e sim à **generalização** de um receituário único, à **pressa** da abertura financeira e à **ausência de amortecedores sociais** durante a transição.
+:::
+
+**3.** Descreva a inserção do **Brasil** na globalização entre 1990 e 2002.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**O ponto de partida.** O Brasil chegou aos anos 1990 com economia relativamente fechada, forte presença estatal na produção (herança do modelo desenvolvimentista iniciado com **Vargas** e aprofundado sob os militares) e **hiperinflação** — cerca de 2.500% em 1993 —, após uma década perdida marcada pela crise da dívida e por planos de estabilização fracassados (Cruzado, Bresser, Verão).
+
+**Collor (1990–92).** Primeiro presidente eleito diretamente após a ditadura. Iniciou a **abertura comercial**, com redução acelerada das tarifas de importação, e o **Programa Nacional de Desestatização**. O **Plano Collor** (1990) bloqueou por 18 meses depósitos e aplicações acima de determinado valor — medida traumática e juridicamente contestada, que não conteve a inflação por muito tempo. Sofreu **impeachment** em 1992, sob acusações de corrupção, num processo acompanhado por grande mobilização popular (@sec-redemocratizacao-nova-republica).
+
+**Plano Real (1994).** Elaborado por equipe econômica sob o ministro **Fernando Henrique Cardoso**, atacou a **inércia inflacionária** — a inflação que se perpetua porque os contratos são reajustados pela inflação passada. Três etapas: (i) ajuste fiscal; (ii) criação da **URV**, unidade de conta virtual atualizada diariamente, na qual preços e contratos foram progressivamente cotados sem que ela fosse dinheiro em circulação; (iii) conversão da URV na nova moeda, o **real**, em 1º de julho de 1994, quando os preços relativos já estavam alinhados. A inflação caiu para um dígito, o poder de compra dos salários mais baixos aumentou de imediato e FHC elegeu-se presidente naquele ano.
+
+**FHC (1995–2002).** A estabilidade foi inicialmente sustentada por **juros altos** e **câmbio valorizado**, o que barateava importações e ancorava preços, ao custo de déficits comerciais crescentes e de pressão sobre a indústria nacional. O período consolidou a agenda de reformas: **privatizações** de grande porte (telecomunicações, siderurgia, mineração, energia elétrica, bancos estaduais), fim de monopólios estatais, criação das **agências reguladoras** e a **Lei de Responsabilidade Fiscal** (2000). As crises externas sucessivas — México (1994), Ásia (1997), Rússia (1998) — atingiram o país e culminaram, em **janeiro de 1999**, no abandono do câmbio fixo e na desvalorização do real, seguidos da adoção do tripé **câmbio flutuante, metas de inflação e superávit primário**. Em 2002, uma nova crise de confiança levou a acordo com o FMI e à "Carta ao Povo Brasileiro" de **Lula**.
+
+**A dimensão regional.** **Mercosul** (Tratado de Assunção, **1991**), integrando Brasil, Argentina, Uruguai e Paraguai, no mesmo movimento mundial que consolidava a **União Europeia** (Maastricht, 1992; euro em 1999/2002) e criava o **Nafta** (1994) e a **OMC** (1995).
+
+**O balanço, apresentado com equilíbrio.** A estabilização monetária foi uma conquista duradoura e socialmente relevante, e a abertura modernizou parte do parque produtivo e ampliou o acesso a bens e serviços. Em contrapartida, o crescimento médio do período foi modesto, o desemprego aumentou na segunda metade da década, a vulnerabilidade externa se manteve elevada, e as privatizações permanecem objeto de disputa quanto a preços, ao financiamento público via BNDES e à qualidade da regulação criada.
+:::
+
+**4.** Analise o texto a seguir e responda:
+
+> "O mundo é hoje objeto de todos os olhares, mas o que se vê é uma fábrica de perversidades. O desemprego crescente torna-se crônico. A pobreza aumenta e as classes médias perdem em qualidade de vida. [...] A globalização atual não é irreversível. É esse, aliás, um dos temas centrais deste livro."
+>
+> — Milton Santos, *Por uma outra globalização* [@santosMilton2001]
+
+**(a)** Explique as **três globalizações** distinguidas pelo autor. **(b)** Que consequência metodológica tem a afirmação de que a globalização "não é irreversível"?
+
+::: {.callout-tip collapse="true" title="Solução"}
+**(a) As três globalizações de Milton Santos.**
+
+1. **A globalização como fábula.** É o **discurso** dominante sobre o processo: a aldeia global, a morte das distâncias, o mercado que a todos beneficia, a informação universalmente disponível. Santos não diz que essas afirmações são inteiramente falsas — diz que são apresentadas como **descrição** do mundo quando funcionam, na prática, como **ideologia**: naturalizam o que é resultado de escolhas e escondem quem ganha e quem perde.
+2. **A globalização como perversidade.** É o processo **tal como realmente se realiza**: desemprego crônico, pobreza persistente, perda de qualidade de vida das classes médias, retorno de doenças, "tirania do dinheiro e da informação". Não são efeitos colaterais acidentais, na leitura do autor, mas produtos sistemáticos do modo como a globalização foi organizada.
+3. **A globalização como possibilidade.** É o que **poderia** ser feito com as mesmas bases materiais existentes. A unificação técnica do planeta, a mistura de povos, a consciência de uma humanidade comum e a informação instantânea são condições reais que poderiam sustentar um mundo mais solidário — se apropriadas por outras forças sociais, a partir de baixo, especialmente pelos "de baixo" das grandes cidades periféricas.
+
+**(b) A consequência metodológica: contra a naturalização e contra o determinismo tecnológico.**
+
+Dizer que a globalização atual "não é irreversível" é uma afirmação **historiográfica**, e não apenas política. Ela implica três coisas:
+
+- **A globalização é obra humana, datável e reversível.** Tem autores, decisões, tratados e leis identificáveis. Portanto pode ser objeto de história — e de disputa política —, e não de fatalismo. É a negação direta do lema **TINA** ("não há alternativa") de Thatcher.
+- **A técnica não determina o uso da técnica.** Santos separa cuidadosamente as **bases materiais** (satélites, redes, computadores, contêineres) do **uso político** que delas se faz. As mesmas redes que hoje sustentam a especulação financeira poderiam sustentar outra coisa. Isso é uma recusa explícita do **determinismo tecnológico** — a ideia de que a tecnologia impõe por si só uma forma de sociedade (@sec-sociedade-em-rede).
+- **Evita-se a teleologia.** Tratar o presente como ponto de chegada inevitável do passado é o erro que este manual combate desde o primeiro capítulo (@sec-o-que-e-historia). Se a globalização neoliberal foi uma **escolha** entre alternativas disponíveis, então o historiador deve reconstituir também as alternativas derrotadas — os projetos que existiam e não venceram —, e não apenas narrar o vencedor como se fosse destino.
+
+**O que dá força à análise, e vale registrar.** Santos escreve do **Sul global**, e faz disso um recurso analítico, não uma queixa: o mundo visto de São Paulo, de Salvador ou de Lagos revela aspectos que o mundo visto de Nova York ou Londres não revela. É a mesma lição que **Said** extraiu quanto ao "Oriente" (@sec-oriente-medio) e que a historiografia pós-colonial generalizou: **o lugar de onde se observa faz parte do que se observa**.
+:::
+
+**5.** (Estilo ENEM) Leia o texto:
+
+> Entre 1980 e 2016, a participação do 1% mais rico na renda nacional dos Estados Unidos passou de cerca de 10% para cerca de 20%, enquanto a participação da metade mais pobre caiu de cerca de 20% para cerca de 13%. No mesmo período, a proporção da população mundial vivendo em situação de pobreza extrema caiu de aproximadamente 42% para menos de 10%, sobretudo em razão do crescimento econômico da China e de outros países asiáticos.
+
+Os dados apresentados indicam que, no período da globalização contemporânea,
+
+**(a)** a desigualdade aumentou de forma homogênea em todos os países e regiões do mundo.
+**(b)** a desigualdade dentro dos países centrais cresceu, ao passo que a distância média entre países se reduziu.
+**(c)** a redução da pobreza extrema resultou diretamente da adoção do receituário neoliberal pela China.
+**(d)** a concentração de renda nos Estados Unidos foi compensada por ganhos equivalentes da classe média americana.
+**(e)** os dados demonstram que a globalização não teve efeito mensurável sobre a distribuição de renda.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Resposta: (b).**
+
+**Por quê.** O texto apresenta **dois movimentos simultâneos e de sinais opostos**, e a questão testa se você consegue segurá-los juntos sem escolher o que prefere:
+
+- **Dentro** dos países centrais — o exemplo são os Estados Unidos —, a desigualdade **aumentou**: o 1% mais rico dobrou sua fatia, enquanto a metade mais pobre perdeu cerca de um terço da sua. Esse é o movimento que **Piketty** documentou para várias economias avançadas, formando um "U" ao longo do século XX [@piketty2014].
+- **Entre** países, a distância média **diminuiu**, sobretudo pelo crescimento chinês e asiático, que retirou centenas de milhões de pessoas da pobreza extrema.
+
+**Por que as demais estão erradas.**
+
+- **(a)** O próprio texto desmente a homogeneidade: a Ásia teve trajetória oposta à dos Estados Unidos em termos de pobreza.
+- **(c)** É a alternativa mais tentadora, e por isso a mais instrutiva. A China de fato abriu-se ao comércio e ao investimento externo a partir de 1978, mas **não** aplicou o receituário do Consenso de Washington: manteve o **Partido Comunista** no poder, o controle estatal sobre o sistema bancário, o câmbio administrado, grandes empresas estatais e forte planejamento industrial. Atribuir seu desempenho ao neoliberalismo é um erro factual — e é justamente esse contraexemplo que sustenta a distinção entre **globalização** e **neoliberalismo**.
+- **(d)** O texto não menciona ganho algum da classe média; ao contrário, o ganho do topo corresponde à perda da metade inferior.
+- **(e)** Os dados mostram efeitos distributivos grandes e mensuráveis; a afirmação contraria diretamente o texto.
+
+**A lição de método.** Diante de dois dados que puxam para lados opostos, a resposta correta é quase sempre a que **preserva os dois**. Selecionar apenas o dado favorável à própria posição — o crítico que cita só a desigualdade americana, o entusiasta que cita só a queda da pobreza asiática — é o erro típico do debate público sobre globalização, e as bancas o cobram deliberadamente.
+:::
+
+**6.** Explique o mecanismo da **crise financeira de 2008** e suas consequências políticas.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**O mecanismo, em cinco etapas.**
+
+1. **Crédito farto e juros baixos** nos Estados Unidos após 2001 estimularam o mercado imobiliário e uma alta contínua no preço dos imóveis.
+2. **Hipotecas *subprime*.** Bancos concederam financiamentos de alto risco a compradores sem renda comprovada ou capacidade de pagamento, apostando que o imóvel valorizado serviria de garantia suficiente.
+3. **Securitização.** Essas dívidas foram empacotadas em **títulos** complexos, misturadas a créditos bons, fatiadas e revendidas a investidores do mundo inteiro. Assim, o risco original deixou de ser identificável — e se espalhou globalmente.
+4. **Falha da avaliação de risco.** As agências classificadoras deram nota máxima a muitos desses títulos. Um conflito de interesses estrutural explica parte disso: as agências são **pagas pelos emissores** dos títulos que avaliam.
+5. **O estouro.** Quando os preços dos imóveis pararam de subir e a inadimplência cresceu, os títulos desabaram. Como ninguém sabia quem carregava quanto lixo no balanço, os bancos pararam de emprestar uns aos outros. Em **setembro de 2008**, a falência do **Lehman Brothers** transformou uma crise setorial em congelamento do crédito mundial.
+
+**As consequências econômicas.** Maior recessão global desde 1929 (@sec-crise-de-1929-entreguerras); **resgates públicos** de bancos e montadoras em escala inédita; políticas monetárias ultraexpansionistas; e, na Europa, a transformação de dívida privada em **crise de dívida soberana** (Grécia, Irlanda, Portugal, Espanha), com programas de austeridade impostos pela "troika" — Comissão Europeia, Banco Central Europeu e FMI.
+
+**As consequências políticas — e é aqui que a questão se distingue de uma prova de economia.**
+
+- **Perda de legitimidade do consenso neoliberal.** O episódio contradisse frontalmente a tese da autorregulação dos mercados, e o Estado, tido como problema, foi convocado como solução.
+- **A assimetria que marcou a memória do período:** bancos foram socorridos com dinheiro público, quase nenhum executivo foi responsabilizado criminalmente, e milhões de famílias perderam casa e emprego. Essa percepção de **dois pesos e duas medidas** teve efeito político duradouro.
+- **Erosão da confiança nas instituições e nos partidos tradicionais**, alimentando movimentos de contestação de sinais opostos: **Occupy Wall Street** e os *indignados* espanhóis à esquerda; e, ao longo da década seguinte, o crescimento de forças **nacionalistas e antiestablishment** à direita, do Brexit a lideranças que fizeram da hostilidade às elites globalizadas seu programa (@sec-desafios-do-presente).
+
+**O caso brasileiro.** O impacto imediato foi relativamente suave — reservas internacionais elevadas, sistema bancário pouco exposto aos títulos tóxicos, demanda chinesa por *commodities* aquecida e políticas anticíclicas de crédito e consumo. Daí a expressão "marolinha", usada pelo então presidente **Lula**. Os desdobramentos de médio prazo, contudo, foram bem mais sérios: a resposta mundial à crise alterou preços de *commodities* e fluxos de capital, e o Brasil entrou, a partir de 2014, na mais grave recessão de sua história estatística — parte de um encadeamento que ajuda a explicar a crise política dos anos seguintes.
+:::
+
+**7.** (Estilo vestibular) Compare o **Estado de bem-estar social** do pós-guerra com o modelo **neoliberal**, indicando a lógica de cada um.
+
+::: {.callout-tip collapse="true" title="Solução"}
+| Dimensão | Estado de bem-estar (1945–1973) | Modelo neoliberal (a partir de 1979–80) |
+|---|---|---|
+| **Papel do Estado** | Indutor do desenvolvimento, produtor direto, garantidor de direitos sociais | Regulador e garantidor de contratos; deve sair da produção |
+| **Prioridade econômica** | **Pleno emprego** e crescimento | **Estabilidade monetária** e controle da inflação |
+| **Base teórica** | **Keynes**: a demanda agregada precisa ser sustentada | **Hayek** e **Friedman**: mercados alocam melhor; planejamento leva à servidão |
+| **Serviços públicos** | Universais, financiados por tributos progressivos | Focalizados nos mais pobres; abertos à provisão privada |
+| **Trabalho** | Contratos estáveis, sindicatos fortes, negociação coletiva | Flexibilização, enfraquecimento sindical, terceirização |
+| **Câmbio e capitais** | Câmbio fixo (Bretton Woods), controle de capitais | Câmbio flutuante, liberdade de movimento de capitais |
+| **Empresas estatais** | Instrumento estratégico de desenvolvimento | Devem ser **privatizadas** |
+
+**A lógica de cada modelo, que é o que a questão pede de fato.**
+
+O **Estado de bem-estar** nasceu de uma leitura histórica precisa: a Grande Depressão e a ascensão do fascismo (@sec-totalitarismos) foram entendidas como demonstração de que o mercado desregulado produz desemprego em massa, e o desemprego em massa produz radicalização política. A conclusão prática foi que o capitalismo precisava ser **domesticado** para sobreviver — e a existência da URSS como alternativa concreta deu urgência ao argumento. O pacto era explícito: as classes trabalhadoras aceitavam a propriedade privada e a economia de mercado; em troca, recebiam emprego, direitos sociais e crescimento dos salários reais.
+
+O **neoliberalismo** nasceu da leitura oposta, formulada por Hayek já em 1944 e aplicada a partir da crise dos anos 1970: o problema não era o mercado, e sim o Estado — sua expansão geraria inflação, ineficiência, captura por grupos de interesse e, no limite, a erosão das liberdades individuais. A conclusão prática foi **desmontar** os mecanismos criados no período anterior.
+
+**Os pontos que separam a resposta boa da resposta média.**
+
+1. **Não confunda "Estado mínimo" com o que efetivamente ocorreu.** O gasto público não desapareceu nos países que adotaram o modelo; foi **reorientado** — menos proteção social e mais segurança pública, subsídios empresariais e, em 2008, resgate a bancos.
+2. **Contextualize as duas viradas.** Cada modelo respondeu a uma crise concreta: o *welfare state*, à Depressão e à guerra; o neoliberalismo, à estagflação. Nenhum dos dois é a aplicação de uma doutrina abstrata a um mundo em repouso.
+3. **Não trate o desfecho como inevitável.** Países com trajetórias distintas — os nórdicos, que mantiveram alto gasto social com abertura comercial; a China, que se integrou sem abrir mão do controle estatal — mostram que havia variações possíveis. Aceitar a inevitabilidade é comprar o **TINA** como se fosse análise, e não *slogan*.
+:::
+
+**8.** Explique o que foi o movimento **altermundialista** e por que seus participantes recusavam o rótulo de "antiglobalização".
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Do que se trata.** Conjunto heterogêneo de movimentos sociais, sindicatos, ONGs, organizações camponesas, redes ambientalistas, grupos indígenas e partidos que, a partir dos anos 1990, contestaram a forma neoliberal da globalização.
+
+**Os marcos.**
+
+- **1994, Chiapas (México):** no dia em que o **Nafta** entrou em vigor, o **EZLN** (zapatistas) iniciou seu levante, articulando demandas indígenas e camponesas a uma crítica ao livre-comércio, e usando a internet nascente para se comunicar diretamente com apoiadores no mundo inteiro — algo então inédito para um movimento armado camponês.
+- **1999, Seattle (EUA):** grandes protestos inviabilizaram a reunião ministerial da **OMC**, reunindo uma coalizão improvável de sindicalistas americanos, ambientalistas, estudantes e camponeses de vários países.
+- **2001, Porto Alegre (Brasil):** primeiro **Fórum Social Mundial**, criado como contraponto declarado ao Fórum Econômico Mundial de **Davos**, com o lema "**Um outro mundo é possível**". Sua escolha por uma cidade do Sul global e por um formato de encontro aberto, sem documento final único, era parte da mensagem.
+
+**Por que recusavam "antiglobalização" — o núcleo da resposta.** Porque o rótulo distorcia a posição de duas maneiras:
+
+1. **Eles não eram contrários à existência de laços mundiais.** Ao contrário: eram, eles próprios, um movimento **transnacional**, que se organizava por redes internacionais, reunia participantes de dezenas de países e defendia solidariedade global entre trabalhadores, povos indígenas e ambientalistas. Rejeitar a globalização em si seria negar a própria forma de existência do movimento.
+2. **A crítica era ao tipo de mundialização, não à mundialização.** O alvo era a primazia das finanças sobre as decisões democráticas, o poder das corporações transnacionais, a desregulamentação do trabalho e a mercantilização de bens comuns — água, sementes, saúde, conhecimento. Daí o termo **altermundialista** (de *altermondialisme*): não "menos mundo", mas "**outro** mundo".
+
+**A observação de método que a questão premia.** Chamar o adversário de "antiglobalização" era uma forma eficaz de **enquadrá-lo como atrasado**, contrário ao progresso e à tecnologia — e, portanto, dispensável de resposta argumentativa. Prestar atenção a **quem nomeia** um movimento, e com que finalidade, é um exercício elementar de crítica de fontes (@sec-fontes-historicas) e vale para qualquer episódio: os "cabanos", os "sans-culottes" e os "farrapos" também não escolheram seus nomes.
+
+**O balanço, sem exagero para nenhum lado.** O movimento não reverteu a globalização neoliberal, e o Fórum Social Mundial perdeu força ao longo dos anos 2010. Mas pautou temas que se tornaram centrais — desigualdade, justiça climática, tributação de fortunas e de transações financeiras, direitos dos povos indígenas —, contribuiu para eleger governos de esquerda na América Latina nos anos 2000 e para enterrar a **Alca** em 2005, e deixou como legado formas de organização em rede que reapareceriam em quase todos os ciclos de protesto da década seguinte.
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- SANTOS, Milton. *Por uma outra globalização* [@santosMilton2001]. Curto, acessível e um dos textos brasileiros mais citados sobre o tema; leitura obrigatória para quem quer entender a globalização vista do Sul.
+- HARVEY, David. *O neoliberalismo: história e implicações* [@harvey2008]. A síntese crítica de maior alcance, com boa reconstituição do caso chileno.
+- CHANG, Ha-Joon. *Chutando a escada* [@chang2004]. O argumento **histórico** contra o livre-comércio como receita universal — e um exemplo do que a História pode fazer pela economia.
+- STIGLITZ, Joseph. *A globalização e seus malefícios* [@stiglitz2002]. Crítica ao FMI feita por quem estava dentro do sistema, e não fora dele.
+- PIKETTY, Thomas. *O capital no século XXI* [@piketty2014]. Longo, mas os capítulos históricos são acessíveis e recompensadores.
+- HOBSBAWM, Eric. *Era dos extremos* [@hobsbawmExtremos1995], últimos capítulos, e BAUMAN, Zygmunt. *Globalização: as consequências humanas* [@bauman1999], sobre a divisão entre os que se movem por escolha e os que se movem por necessidade.
+- SADER, Emir; GENTILI, Pablo (org.). *Pós-neoliberalismo* [@sader2000], e FIORI, José Luís. *Os moedeiros falsos* [@fiori1997]. Os debates brasileiros dos anos 1990, em tempo real.
+
+**Fontes primárias**
+
+- O artigo original de **Williamson** em que a expressão "Consenso de Washington" aparece [@williamson1990]. Compare o que ele escreveu com o que a expressão passou a significar: a distância entre as duas coisas é, ela mesma, um objeto histórico.
+- **Hayek**, *O caminho da servidão* [@hayek2010], e **Friedman**, *Capitalismo e liberdade* [@friedman1984]. Leia os adversários nos originais, e não em resumos hostis.
+- Cartas de intenções do Brasil ao **FMI** (1998–2002), disponíveis nos sites do Banco Central e do Ministério da Fazenda. São documentos áridos e extraordinariamente reveladores sobre quem negocia o quê.
+
+**Filmes e documentários**
+
+- *Trabalho interno* (*Inside Job*, 2010), dir. Charles Ferguson. Documentário premiado sobre a crise de 2008; a melhor explicação audiovisual do mecanismo.
+- *A grande aposta* (*The Big Short*, 2015), dir. Adam McKay. Ficção baseada em fatos, que consegue explicar derivativos com humor.
+- *Roger e eu* (1989) e *Capitalismo: uma história de amor* (2009), dir. Michael Moore. Panfletários e assumidamente parciais — assista-os sabendo disso, como fontes sobre a percepção social da desindustrialização.
+- *Encontro com Milton Santos: o mundo global visto do lado de cá* (2006), dir. Silvio Tendler. O próprio Milton Santos expondo suas teses.
+- *Que horas ela volta?* (2015), dir. Anna Muylaert. Não é sobre globalização, mas sobre desigualdade brasileira e mobilidade social nos anos 2000 — e diz mais sobre o período do que muitos ensaios.
