@@ -1,5 +1,348 @@
 # O Primeiro Reinado {#sec-primeiro-reinado}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Na noite de **12 de novembro de 1823**, soldados cercaram o prédio onde funcionava a Assembleia Constituinte do Brasil. Os deputados, que havia meses discutiam o primeiro projeto de Constituição do país, foram dissolvidos pela força, e alguns dos mais atuantes — entre eles os irmãos **Andrada**, os mesmos que haviam arquitetado a Independência quinze meses antes — foram presos e deportados. O episódio ficou conhecido como a **Noite da Agonia**. Seis meses depois, em **25 de março de 1824**, o imperador **outorgou** — isto é, impôs, sem votação — uma Constituição escrita por um Conselho de Estado que ele mesmo nomeara. Essa Constituição criava um quarto poder, o **Poder Moderador**, exercido exclusivamente pelo imperador e definido como "a chave de toda a organização política". O detalhe intrigante é que essa Carta imposta à força seria a **mais longeva da história do Brasil**: durou **sessenta e cinco anos**, sobreviveu a nove regências e regentes, a uma dezena de revoltas armadas e a uma guerra internacional. Este capítulo explica como um Estado nascido do gesto autoritário de 1823 conseguiu produzir tamanha estabilidade — e por que, ainda assim, seu criador foi obrigado a abdicar do trono em menos de nove anos.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- explicar o conflito entre D. Pedro I e a **Assembleia Constituinte de 1823** e o significado da **"Constituição da Mandioca"**;
+- descrever a estrutura da **Constituição de 1824**, com destaque para o **Poder Moderador**, o **voto censitário** e o **padroado**;
+- caracterizar a **Confederação do Equador** (1824) e situá-la na tradição das revoltas do Nordeste;
+- avaliar os custos do **reconhecimento internacional** e da **Guerra da Cisplatina** (1825–1828);
+- relacionar a crise econômica, a "questão portuguesa" e a "questão sucessória" à **abdicação de 7 de abril de 1831**;
+- discutir as interpretações historiográficas sobre o caráter — liberal ou autoritário — do reinado e do Poder Moderador.
 :::
+
+## A Constituinte de 1823 e a dissolução {#sec-constituinte-1823}
+
+Convocada em junho de 1822, a **Assembleia Geral Constituinte e Legislativa** instalou-se em **3 de maio de 1823**, com 90 deputados eleitos indiretamente — advogados, magistrados, padres, militares e proprietários rurais. Não era uma assembleia revolucionária: quase todos eram monarquistas convictos. O ponto de atrito era outro, e é o ponto de atrito de toda a história constitucional do século XIX: **quem manda em quem** — o imperador ou a representação nacional?
+
+O projeto que a Assembleia começou a debater, apelidado de "**Constituição da Mandioca**", ficou célebre pelo critério de renda adotado para os direitos políticos: para votar era preciso ter renda mínima equivalente à produção de **150 alqueires de farinha de mandioca**; para ser eleito, valores progressivamente maiores. O apelido virou piada, mas o mecanismo — **voto censitário**, isto é, condicionado à renda — era regra em quase todo o mundo liberal da época (@sec-liberalismo-nacionalismo-1848) e apareceria também na Carta de 1824.
+
+O que realmente incomodava D. Pedro estava em outro lugar. O projeto: (i) submetia o imperador à Constituição e à Assembleia, atribuindo a esta última a última palavra em matéria legislativa; (ii) reduzia o poder de veto imperial; (iii) restringia a possibilidade de o imperador dissolver o Legislativo; e (iv) previa que as tropas estrangeiras — havia muitos oficiais e soldados portugueses no exército — se submetessem ao poder civil. Havia ainda um forte **antilusitanismo** entre os deputados, que atingia diretamente a corte do imperador, cheia de portugueses.
+
+A crise estourou em novembro, com a chamada **questão dos Andradas**: jornais ligados aos irmãos José Bonifácio, Antônio Carlos e Martim Francisco atacaram militares portugueses; o imperador exigiu punições; a Assembleia declarou-se em sessão permanente. Em **12 de novembro de 1823**, D. Pedro dissolveu-a militarmente e prometeu dar ao país uma Constituição "duas vezes mais liberal" que a que estava sendo escrita. A promessa era retoricamente hábil e substancialmente falsa: a Carta que ele impôs concentrava no trono mais poder do que qualquer artigo do projeto dissolvido.
+
+## A Constituição de 1824 {#sec-constituicao-1824}
+
+Redigida em poucas semanas pelo **Conselho de Estado** nomeado pelo próprio imperador, a **Constituição do Império do Brasil** foi **outorgada em 25 de março de 1824**. Foi, em vários aspectos, um documento tecnicamente sofisticado — e é isso que explica sua longevidade.
+
+**Estrutura de governo.** Monarquia **hereditária, constitucional e representativa**; Estado **unitário**, dividido em províncias cujos presidentes eram nomeados pelo imperador (não havia federalismo); e uma inovação decisiva: **quatro** poderes, em vez dos três de Montesquieu (@sec-iluminismo).
+
+::: {#fig-poderes-1824}
+
+```{.tikz}
+%%| filename: fig-poderes-1824
+%%| alt: Organograma dos quatro poderes da Constituição brasileira de 1824, com o Poder Moderador acima do Executivo, Legislativo e Judiciário.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \node[draw, very thick, rounded corners, fill=manualred!22, align=center, text width=5.2cm, text=manualred] (mod) at (0,3.1)
+    {\textbf{PODER MODERADOR} (art. 98)\\ exercido \textbf{privativamente pelo Imperador}\\ ``a chave de toda a organização política''\\ \textit{irresponsável: não responde perante ninguém}};
+
+  \node[draw, thick, rounded corners, fill=manualblue!18, align=center, text width=3.5cm] (exe) at (-4.7,0.4)
+    {\textbf{EXECUTIVO}\\ o Imperador\\ e seus ministros};
+  \node[draw, thick, rounded corners, fill=manualgreen!18, align=center, text width=3.7cm] (leg) at (0,0.4)
+    {\textbf{LEGISLATIVO}\\ Assembleia Geral:\\ \textbf{Câmara} (eletiva, temporária)\\ \textbf{Senado} (\textbf{vitalício})};
+  \node[draw, thick, rounded corners, fill=manualyellow!25, align=center, text width=3.5cm] (jud) at (4.7,0.4)
+    {\textbf{JUDICIÁRIO}\\ juízes e tribunais;\\ Supremo Tribunal\\ de Justiça};
+
+  \draw[vetor, very thick, manualred] (mod) -- (exe);
+  \draw[vetor, very thick, manualred] (mod) -- (leg);
+  \draw[vetor, very thick, manualred] (mod) -- (jud);
+
+  \node[align=left, text width=4.0cm, text=manualred] at (-5.0,-2.2)
+    {\textbf{Sobre o Executivo}\\ nomeia e demite livremente\\ os ministros de Estado};
+  \node[align=left, text width=4.2cm, text=manualred] at (0.2,-2.2)
+    {\textbf{Sobre o Legislativo}\\ dissolve a Câmara e convoca\\ novas eleições; sanciona,\\ veta e adia; escolhe senadores\\ em lista tríplice};
+  \node[align=left, text width=4.0cm, text=manualred] at (5.2,-2.2)
+    {\textbf{Sobre o Judiciário}\\ suspende magistrados;\\ concede anistia e perdoa penas};
+
+  \node[draw, dashed, rounded corners, fill=manualgray!14, align=center, text width=11.2cm] at (0,-3.9)
+    {\textbf{Quem escolhe a Câmara:} eleição \textbf{indireta} em dois turnos e \textbf{censitária} (renda mínima em mil-réis). Mulheres, escravizados e a imensa maioria da população livre e pobre ficam de fora. \textbf{Religião oficial:} católica, com \textbf{padroado} — o Imperador nomeia bispos e aprova documentos papais.};
+\end{tikzpicture}
+```
+
+Os quatro poderes de 1824. O Moderador não é um poder "acima" no sentido meramente cerimonial: ele intervém diretamente na composição e no funcionamento dos outros três.
+:::
+
+**O Poder Moderador.** A ideia veio do teórico francês **Benjamin Constant** (1767–1830), que propunha um "poder neutro", exercido por um monarca sem funções executivas, para arbitrar conflitos entre os demais poderes. No Brasil, a fórmula foi **modificada num ponto decisivo**: o imperador acumulou o Moderador **e** o Executivo. Ou seja, o suposto árbitro neutro era também um dos jogadores. Somando as atribuições listadas no @fig-poderes-1824, o resultado é um chefe de Estado que podia demitir ministros, dissolver a Câmara, escolher senadores vitalícios e suspender juízes — tudo isso sendo constitucionalmente **irresponsável**, isto é, sem prestar contas a ninguém.
+
+**Cidadania e voto.** O sistema era **indireto** (os cidadãos votavam em eleitores, que elegiam os deputados) e **censitário**. Não era, porém, tão restrito quanto às vezes se diz: a exigência de renda para o primeiro turno era relativamente baixa, e **homens livres pobres, inclusive negros e libertos nascidos no Brasil**, podiam votar — algo raro no mundo da época, e que **José Murilo de Carvalho** costuma destacar [@carvalho2019]. As exclusões decisivas eram outras: **escravizados** (cerca de um terço da população) não eram cidadãos; **mulheres** de qualquer condição não votavam; e a exigência de renda mais alta para ser **eleitor** e **elegível** garantia que a representação continuasse nas mãos dos proprietários. Além disso, o voto era **descoberto** — não havia sigilo —, o que tornava a coação rotineira.
+
+**Igreja e Estado.** O catolicismo era a **religião oficial**; outros cultos eram tolerados apenas em âmbito doméstico e sem forma exterior de templo. Vigorava o **padroado**: o imperador nomeava bispos, pagava o clero e concedia o *beneplácito*, sem o qual documentos papais não valiam no Brasil. O padre era, na prática, um funcionário público — arranjo que produziria a "questão religiosa" nos anos 1870 (@sec-crise-do-imperio).
+
+::: {.callout-important title="Erro comum: confundir Constituição outorgada com Constituição promulgada"}
+- **Outorgada:** imposta unilateralmente pelo governante, sem participação de assembleia eleita. É o caso de **1824** e de **1937** (Estado Novo).
+- **Promulgada:** elaborada e aprovada por uma assembleia constituinte eleita. É o caso de **1891**, **1934**, **1946** e **1988**.
+
+Não confunda também **outorgar** com **ser ilegítima na prática**: a Carta de 1824 foi imposta, mas foi depois jurada pelas câmaras municipais, aceita pelas elites provinciais e emendada em 1834 (Ato Adicional). Sua longevidade vem justamente da combinação entre um núcleo autoritário e uma notável **flexibilidade** de aplicação — o mesmo texto serviu ao autoritarismo de Pedro I, ao experimento descentralizador da Regência e ao parlamentarismo do Segundo Reinado.
+:::
+
+## A Confederação do Equador (1824) {#sec-confederacao-do-equador}
+
+A reação à outorga veio de onde já viera em 1817. Em **2 de julho de 1824**, o presidente da província de Pernambuco, **Manuel de Carvalho Pais de Andrade**, proclamou a **Confederação do Equador**, movimento **republicano, federalista e separatista** que reuniu Pernambuco, Paraíba, Rio Grande do Norte e Ceará. O programa adotava como referência a Constituição da **Colômbia** de Simón Bolívar (@sec-independencias-america-latina) e defendia autonomia provincial, república e limitação do poder central. Havia divergências internas sobre a escravidão — alguns líderes propunham emancipação gradual —, mas, como em 1817, o movimento não a aboliu.
+
+A repressão, comandada por **Lorde Cochrane** no mar e pelo general Francisco de Lima e Silva em terra, foi rápida e implacável. Entre os executados estava **Frei Joaquim do Amor Divino Caneca** (1779–1825), carmelita, jornalista e teórico político, sobrevivente de 1817 e autor de uma crítica precoce e lúcida ao **Poder Moderador**, que ele identificou desde logo como instrumento de despotismo disfarçado de arbitragem. Conta-se que nenhum carrasco aceitou enforcá-lo, e ele acabou **fuzilado**. A Confederação custou caro ao prestígio do imperador: sufocar uma revolta constitucionalista com tropas mercenárias, poucos meses depois de dissolver uma assembleia, comprometeu de forma duradoura sua imagem de monarca liberal.
+
+## O preço da soberania e a Guerra da Cisplatina {#sec-cisplatina}
+
+Você viu no @sec-independencia que o reconhecimento internacional foi comprado: **2 milhões de libras esterlinas** pagas a Portugal em 1825, financiadas por empréstimo **inglês**, e a renovação, em 1826, dos privilégios comerciais britânicos, acompanhada do compromisso de **extinguir o tráfico de escravizados** em três anos. Some-se a isso um cofre já esvaziado por D. João VI em 1821 e uma economia de exportação em baixa, e o quadro fiscal do Primeiro Reinado se explica: emissão de papel-moeda, inflação e a **liquidação do primeiro Banco do Brasil** em 1829.
+
+Sobre esse cenário veio a guerra. A **Província Cisplatina** — a atual República Oriental do Uruguai — fora anexada em 1821 e nunca aceitou a dominação. Em 1825, o grupo dos "**Trinta e Três Orientais**", liderado por Juan Antonio Lavalleja, proclamou a incorporação do território às Províncias Unidas do Rio da Prata (Argentina). Seguiu-se a **Guerra da Cisplatina** (1825–1828): custosa, impopular, marcada por derrotas em terra (**Ituzaingó**, 1827) e por um bloqueio naval ineficaz. A mediação **britânica** — interessada em manter a foz do Prata livre e sob controle de nenhuma das duas potências regionais — impôs a solução: em **1828**, o Brasil e a Argentina reconheceram a **independência do Uruguai**.
+
+Para D. Pedro I, o desastre foi triplo: **militar** (derrota), **financeiro** (mais dívida e emissão) e **político** (recrutamento forçado de homens pobres, uso de mercenários alemães e irlandeses — que em 1828 se amotinaram no Rio — e perda de território). A Bacia do Prata permaneceria como o eixo da política externa brasileira até a Guerra do Paraguai (@sec-crise-do-imperio).
+
+## O caminho da abdicação {#sec-abdicacao}
+
+Entre 1826 e 1831, a autoridade do imperador foi corroída por cinco processos simultâneos.
+
+**1. A questão sucessória portuguesa.** Em 1826 morreu **D. João VI**, e D. Pedro tornou-se herdeiro do trono português. Ele abdicou de Portugal em favor da filha, **Maria da Glória**, mas continuou profundamente envolvido nas disputas contra seu irmão **D. Miguel**, absolutista. Para a opinião pública brasileira, o imperador parecia mais interessado na Europa do que no Brasil — acusação que os jornais repetiram até a exaustão.
+
+**2. O antilusitanismo.** Os portugueses ocupavam posições de destaque no comércio, no exército e na corte, e o "**partido português**" era visto como o círculo real do poder. O nativismo brasileiro converteu-se em força política de massa nas cidades.
+
+**3. A imprensa e a oposição liberal.** A **Câmara**, aberta em 1826, tornou-se palco de oposição sistemática. Jornais como o *Aurora Fluminense*, de **Evaristo da Veiga**, e o combativo *Sentinela da Liberdade* atacavam o governo. Em **1830**, o jornalista italiano naturalizado **Líbero Badaró** foi assassinado em São Paulo; ao morrer, teria dito que "um liberal morre, mas não morre a liberdade". O crime, atribuído a partidários do governo, teve enorme repercussão e coincidiu, na Europa, com a **Revolução de Julho** na França, que derrubou Carlos X — exemplo vivo de que um rei podia cair.
+
+**4. A crise econômica.** Dívida externa, déficit crônico, papel-moeda depreciado e falência do Banco do Brasil.
+
+**5. A ruptura com o Exército e com a rua.** Em março de 1831, a chegada do imperador ao Rio, vindo de Minas, onde fora mal recebido, foi "comemorada" por portugueses com fogos e agressões contra brasileiros. Seguiram-se cinco noites de conflitos de rua conhecidas como a **Noite das Garrafadas** (11 a 15 de março de 1831), em que brasileiros e portugueses trocaram pedradas, garrafadas e tiros. Pressionado, D. Pedro trocou um ministério liberal por outro de sua confiança; a tropa e a população reuniram-se no Campo de Santana exigindo a volta dos ministros demitidos. Quando a guarnição militar aderiu aos manifestantes, o imperador ficou sem base de apoio.
+
+Na madrugada de **7 de abril de 1831**, D. Pedro I **abdicou** em favor de seu filho **Pedro de Alcântara**, então com **cinco anos**, e embarcou para a Europa, onde morreria em 1834 depois de vencer a guerra civil portuguesa contra D. Miguel. Deixou o Brasil sob a tutela de um tutor — José Bonifácio, seu antigo aliado e depois adversário — e nas mãos de uma **Regência** (@sec-periodo-regencial).
+
+::: {#fig-linha-do-tempo-primeiro-reinado}
+
+```{.tikz}
+%%| filename: fig-linha-do-tempo-primeiro-reinado
+%%| alt: Linha do tempo do Primeiro Reinado, de 1822 a 1831, com a Constituinte, a Constituição de 1824, a Confederação do Equador, a Guerra da Cisplatina e a abdicação.
+\begin{tikzpicture}[>=stealth]
+  \draw[eixo] (0,0) -- (14.4,0);
+  \node[eixo, gray] at (14.4,-0.6) {\scriptsize tempo};
+
+  \fill[manualblue!20] (0.6,-0.13) rectangle (4.6,0.13);
+  \node[text=manualblue] at (2.6,-1.05) {\scriptsize \textbf{construção do Estado}};
+  \fill[manualred!24] (4.6,-0.13) rectangle (9.8,0.13);
+  \node[text=manualred] at (7.2,-1.05) {\scriptsize \textbf{revolta e guerra externa}};
+  \fill[manualgray!28] (9.8,-0.13) rectangle (13.9,0.13);
+  \node[text=gray] at (11.9,-1.05) {\scriptsize \textbf{crise e queda}};
+
+  \node[ponto] at (0.6,0) {};
+  \node[below] at (0.6,-0.28) {\scriptsize 1822};
+  \node[above, align=center, text=manualblue] at (1.0,0.2) {\scriptsize coroação\\\scriptsize (1º dez.)};
+
+  \node[ponto] at (2.2,0) {};
+  \node[below] at (2.2,-0.28) {\scriptsize 1823};
+  \node[above, align=center, text=manualred] at (2.4,1.15) {\scriptsize \textbf{dissolução da Constituinte}\\\scriptsize (``Noite da Agonia'', 12 nov.)};
+
+  \node[ponto] at (4.0,0) {};
+  \node[below] at (4.0,-0.28) {\scriptsize 1824};
+  \node[above, align=center] at (4.1,0.2) {\scriptsize \textbf{Constituição outorgada}\\\scriptsize (\textbf{Poder Moderador})};
+
+  \node[ponto] at (5.4,0) {};
+  \node[below] at (5.4,-0.28) {\scriptsize 1824};
+  \node[above, align=center, text=manualred] at (5.9,1.15) {\scriptsize \textbf{Confederação do Equador};\\\scriptsize execução de \textbf{Frei Caneca} (1825)};
+
+  \node[ponto] at (7.2,0) {};
+  \node[below] at (7.2,-0.28) {\scriptsize 1825};
+  \node[above, align=center, text=manualblue] at (7.3,0.2) {\scriptsize Portugal reconhece:\\\scriptsize \textbf{2 milhões de libras}};
+
+  \node[ponto] at (8.6,0) {};
+  \node[below] at (8.6,-0.28) {\scriptsize 1825--28};
+  \node[above, align=center, text=manualred] at (9.0,1.15) {\scriptsize \textbf{Guerra da Cisplatina}\\\scriptsize $\rightarrow$ independência do \textbf{Uruguai}};
+
+  \node[ponto] at (10.6,0) {};
+  \node[below] at (10.6,-0.28) {\scriptsize 1829};
+  \node[above, align=center] at (10.7,0.2) {\scriptsize falência do\\\scriptsize \textbf{Banco do Brasil}};
+
+  \node[ponto] at (12.0,0) {};
+  \node[below] at (12.0,-0.28) {\scriptsize 1830};
+  \node[above, align=center, text=gray] at (12.1,1.15) {\scriptsize assassinato de\\\scriptsize \textbf{Líbero Badaró}};
+
+  \node[ponto] at (13.5,0) {};
+  \node[below] at (13.5,-0.28) {\scriptsize 1831};
+  \node[above, align=center, text=manualred] at (13.2,0.2) {\scriptsize \textbf{Noite das Garrafadas};\\\scriptsize \textbf{abdicação} (7 abr.)};
+\end{tikzpicture}
+```
+
+Nove anos: um Estado é montado, uma assembleia é dissolvida, uma província se perde e um imperador cai.
+:::
+
+::: {.callout-tip title="Como cai um governante: um roteiro comparativo"}
+A abdicação de 1831 combina ingredientes que reaparecem em outras quedas estudadas neste manual — e reconhecê-los ajuda em prova:
+
+1. **Derrota militar externa** que desgasta o prestígio (Cisplatina) — compare com a crise do Império espanhol nas independências americanas (@sec-independencias-america-latina).
+2. **Crise fiscal** e inflação, que atingem diretamente a vida urbana.
+3. **Oposição parlamentar e imprensa livre** capazes de organizar a insatisfação (Evaristo da Veiga, Líbero Badaró).
+4. **Clivagem identitária** mobilizável nas ruas (brasileiros × portugueses).
+5. **Perda do apoio da força armada** — o fator decisivo em quase todos os casos. Sem a guarnição do Rio, D. Pedro não tinha como resistir.
+
+O mesmo roteiro, com outros nomes, reaparece em **1889** (@sec-crise-do-imperio) e, em versão diferente, em **1930** e **1945**. Guarde o item 5: em quedas de governo no Brasil, a posição das Forças Armadas costuma ser o dado que decide.
+:::
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+**D. Pedro I foi um liberal ou um déspota?** A pergunta atravessa dois séculos e tem uma razão de ser: as evidências puxam para os dois lados. A favor da tese liberal: ele rompeu com o absolutismo português, aceitou o título de imperador **constitucional**, outorgou uma Carta que consagrava direitos individuais, previa eleições e Parlamento, e mais tarde lutou contra o irmão absolutista para garantir o regime constitucional em Portugal. A favor da tese autoritária: dissolveu à força a assembleia eleita, impôs a Constituição, reprimiu com fuzilamentos a Confederação do Equador e concentrou em si um poder sem controle.
+
+A historiografia do século XIX resolvia o dilema pelo elogio. **Varnhagen** e a tradição do IHGB apresentavam o imperador como fundador da nacionalidade, e a dissolução de 1823 como necessidade diante de uma assembleia "faccioosa". A leitura oposta, formulada já pelos contemporâneos e sistematizada depois, aparece com clareza em **Frei Caneca**, que em 1824 escreveu que o Poder Moderador era "a chave-mestra da opressão" — invertendo com precisão a fórmula constitucional da "chave de toda a organização política" [@caneca2001]. É raro encontrar uma crítica tão precoce e tão exata: quase todo o debate político do Império seria, depois, uma discussão sobre a extensão desse poder.
+
+Uma saída analítica mais fecunda que o julgamento moral é a proposta por **José Murilo de Carvalho**. Em vez de perguntar se o imperador era sincero, ele examina **como a máquina funcionava**: a elite política imperial era um grupo notavelmente **homogêneo** — formado em **Coimbra**, socializado na magistratura e na burocracia, treinado para pensar o Estado antes da região — e foi essa homogeneidade, e não a virtude de um monarca, que permitiu construir e manter o Estado unitário [@carvalho2003]. O Poder Moderador, nessa chave, não é uma anomalia pessoal de D. Pedro I, mas uma **peça funcional** de um sistema em que a representação era ficcional e a decisão pertencia a um círculo estreito — o que Carvalho batizou, num título feliz, de "**teatro de sombras**".
+
+**A Constituição de 1824: autoritária ou flexível?** Aqui a historiografia recente produziu uma revisão interessante. A leitura tradicional a vê como camisa de força autoritária. Mas há um fato incômodo para essa versão: **a mesma Carta** serviu ao gesto de força de 1823, ao experimento descentralizador do **Ato Adicional de 1834** (@sec-periodo-regencial) e ao parlamentarismo do Segundo Reinado, com gabinetes que caíam e se formavam ao ritmo de crises políticas. **Miriam Dolhnikoff** argumentou que o Império não foi tão centralizado quanto se supunha e que as elites provinciais dispunham, via Assembleias Legislativas provinciais, de autonomia real sobre impostos, obras e força policial — de modo que o arranjo imperial teria sido um **pacto negociado** entre centro e províncias, e não uma imposição do Rio [@dolhnikoff2005]. Já **Ilmar Rohloff de Mattos** insiste no movimento contrário: houve um projeto deliberado de **construção do Estado** conduzido pelos conservadores, que expandia o centro sobre o território [@mattos1987]. As duas leituras, note, tratam do mesmo texto constitucional — e discordam sobre o que ele produziu **na prática**, que é sempre a pergunta mais difícil.
+
+**Por que divergem?** Em parte porque olham para lugares diferentes: quem lê os debates do Parlamento e a legislação do centro vê centralização; quem lê os arquivos das assembleias provinciais vê negociação e autonomia. Em parte, também, porque a pergunta mudou de agenda: a discussão sobre federalismo e autonomia regional voltou ao primeiro plano no Brasil depois da **Constituição de 1988**, e não é coincidência que a historiografia tenha reexaminado o século XIX à luz dela. É o mecanismo que este manual repete desde o começo: **o presente formula as perguntas que o passado responde** (@sec-correntes-historiograficas).
+
+## Resumo do capítulo {#sec-resumo}
+
+- **Constituinte de 1823:** instalada em maio, discutiu o projeto apelidado de "**Constituição da Mandioca**" (voto censitário medido em alqueires de farinha). O conflito real era sobre a **subordinação do imperador à Assembleia**. Dissolvida à força em **12 de novembro de 1823** ("**Noite da Agonia**"), com prisão e deportação dos **Andradas**.
+- **Constituição de 1824 (outorgada em 25 de março):** monarquia hereditária, constitucional e representativa; Estado **unitário** com presidentes de província nomeados; **quatro poderes** — Executivo, Legislativo, Judiciário e **Moderador**.
+- **Poder Moderador:** inspirado em **Benjamin Constant**, mas com a diferença decisiva de que o imperador acumulava Moderador **e** Executivo. Permitia demitir ministros, **dissolver a Câmara**, escolher **senadores vitalícios** em lista tríplice e suspender magistrados, sendo constitucionalmente **irresponsável**.
+- **Voto:** **indireto** e **censitário**, **descoberto** (sem sigilo). Homens livres pobres, inclusive negros libertos nascidos no Brasil, podiam votar no primeiro turno; **escravizados** e **mulheres**, não.
+- **Religião:** catolicismo oficial, **padroado** e *beneplácito* — clero como funcionalismo, origem da futura "questão religiosa".
+- **Confederação do Equador (1824):** movimento **republicano, federalista e separatista** em Pernambuco, Paraíba, Rio Grande do Norte e Ceará, com referência à Constituição da Colômbia. Reprimido; **Frei Caneca** fuzilado em 1825, autor da crítica pioneira ao Poder Moderador.
+- **Custos externos:** indenização de **2 milhões de libras** a Portugal (1825), financiada pela Inglaterra; renovação dos privilégios britânicos (1826) e compromisso de fim do tráfico; crise fiscal, inflação e **falência do Banco do Brasil** (1829).
+- **Guerra da Cisplatina (1825–1828):** derrota em **Ituzaingó**, mediação **britânica** e **independência do Uruguai** (1828).
+- **Rumo à abdicação:** **questão sucessória portuguesa** (morte de D. João VI, 1826), **antilusitanismo**, oposição parlamentar e da imprensa (**Evaristo da Veiga**, *Aurora Fluminense*), assassinato de **Líbero Badaró** (1830), crise econômica e a **Noite das Garrafadas** (março de 1831). Sem apoio da guarnição militar, D. Pedro I **abdica em 7 de abril de 1831** em favor do filho de **cinco anos**.
+- **Historiografia:** elogio fundador de **Varnhagen**/IHGB × crítica contemporânea de **Frei Caneca** ("chave-mestra da opressão") × análise funcional de **José Murilo de Carvalho** (elite homogênea formada em Coimbra; "teatro de sombras") × debate atual entre **Dolhnikoff** (pacto negociado, autonomia provincial real) e **Ilmar Mattos** (construção deliberada e centralizadora do Estado).
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Fixe: (1) o motivo real da dissolução de 1823; (2) as atribuições do **Poder Moderador** e a diferença em relação a Benjamin Constant; (3) quem votava e quem não votava em 1824; (4) o programa da **Confederação do Equador**; (5) o encadeamento **dívida → Cisplatina → crise → abdicação**; (6) as leituras historiográficas do Império.
+:::
+
+**1.** Por que D. Pedro I dissolveu a Assembleia Constituinte de 1823? A "Constituição da Mandioca" era o problema?
+
+::: {.callout-tip collapse="true" title="Solução"}
+**O apelido engana.** A "Constituição da Mandioca" ficou famosa pelo critério de renda — para votar, era preciso ter rendimento equivalente à produção de **150 alqueires de farinha de mandioca**. Mas o **voto censitário** não incomodava o imperador: ele foi mantido, com outra medida, na Carta de 1824, e era prática comum no mundo liberal da época.
+
+**O problema era a soberania.** O projeto de 1823 (i) submetia o imperador à Constituição e à **Assembleia**, dando a esta a palavra final em matéria legislativa; (ii) limitava o **veto** imperial; (iii) restringia a possibilidade de dissolver o Legislativo; e (iv) submetia as tropas — em grande parte comandadas por oficiais **portugueses** — à autoridade civil. Ou seja: definia uma monarquia em que o rei **reina segundo a lei feita por outros**. D. Pedro pretendia o contrário.
+
+O estopim foi a **questão dos Andradas**: jornais ligados aos irmãos Andrada atacaram militares portugueses, o imperador exigiu punições e a Assembleia declarou-se em sessão permanente. Em **12 de novembro de 1823**, tropas dissolveram a Constituinte e prenderam deputados ("Noite da Agonia").
+
+**A ironia final:** ele prometeu uma Constituição "duas vezes mais liberal" e outorgou, quatro meses depois, uma Carta que criava o **Poder Moderador** — concentrando no trono muito mais poder do que o projeto dissolvido jamais lhe daria.
+:::
+
+**2.** Explique o **Poder Moderador** e a diferença entre a formulação de Benjamin Constant e a aplicação brasileira.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Em Constant.** O teórico francês **Benjamin Constant** propôs um "**poder neutro**" (*pouvoir neutre*), exercido pelo monarca, cuja função seria **arbitrar** conflitos entre Executivo, Legislativo e Judiciário. A premissa essencial é que esse árbitro **não governa**: ele fica acima da disputa porque não é parte dela. O Executivo caberia a um gabinete de ministros responsáveis perante o Parlamento.
+
+**No Brasil de 1824.** A Constituição adotou o quarto poder (art. 98: "a chave de toda a organização política"), mas com uma alteração que muda tudo: o **mesmo imperador** exercia o **Moderador e o Executivo**. O árbitro era também jogador — e jogador com poderes excepcionais:
+
+- **nomear e demitir livremente os ministros** de Estado;
+- **dissolver a Câmara dos Deputados** e convocar novas eleições;
+- **sancionar, vetar ou adiar** decisões do Legislativo;
+- **escolher senadores vitalícios** a partir de listas tríplices;
+- **suspender magistrados**, conceder anistia e perdoar penas;
+- e tudo isso sendo **irresponsável**, isto é, sem responder por seus atos perante nenhum poder.
+
+**A crítica contemporânea.** **Frei Caneca** percebeu o mecanismo em 1824 e o chamou de "**chave-mestra da opressão**" [@caneca2001] — inversão deliberada da fórmula constitucional. Seu argumento: um poder que escolhe ministros, dissolve a Câmara e nomeia senadores não arbitra conflitos, **produz** o resultado que deseja.
+
+**Consequência de longo prazo.** No Segundo Reinado, o Moderador tornou-se o eixo do "**parlamentarismo às avessas**" (@sec-segundo-reinado): em vez de o Parlamento sustentar o gabinete, o imperador nomeava o gabinete e, quando este não tinha maioria, dissolvia a Câmara e mandava fazer eleições — que o próprio gabinete vencia. A crítica ao Poder Moderador seria uma das bandeiras dos republicanos em 1870.
+:::
+
+**3.** Quem podia votar sob a Constituição de 1824? A afirmação "só a elite votava" é exata?
+
+::: {.callout-tip collapse="true" title="Solução"}
+**O sistema.** Eleições **indiretas**, em dois turnos: os "votantes" escolhiam **eleitores**, e estes elegiam deputados e senadores. Exigia-se **renda mínima** — crescente a cada etapa — e o voto era **descoberto**, sem sigilo.
+
+**Quem ficava de fora, sempre:** as pessoas **escravizadas** (cerca de um terço da população), que não eram cidadãs; as **mulheres**, de qualquer condição ou renda; os menores de 25 anos (com exceções); os religiosos regulares.
+
+**Onde a afirmação precisa ser qualificada.** A exigência de renda para o **primeiro turno** era relativamente baixa, e a legislação **não** excluía por cor: homens **livres e libertos nascidos no Brasil**, inclusive negros e pardos pobres, podiam votar como votantes. Comparada às regras de países europeus da mesma época e ao voto americano, a base eleitoral do primeiro turno brasileiro era **ampla** — ponto sublinhado por **José Murilo de Carvalho** [@carvalho2019].
+
+**Mas o filtro decisivo estava adiante.** Para ser **eleitor** (segundo turno) e sobretudo para ser **elegível**, a renda exigida subia muito, o que reservava a representação aos proprietários. Além disso, o voto descoberto permitia coação aberta por parte de chefes locais, e as eleições imperiais foram notórias pela violência e pela fraude (@sec-segundo-reinado). O resultado prático: **participação relativamente larga na base, decisão estreitamente concentrada no topo** — exatamente o que **Carvalho** descreve como "teatro de sombras" [@carvalho2003].
+
+**Resposta sintética:** a afirmação é imprecisa quanto ao direito formal de votar e correta quanto ao **poder efetivo de decidir**.
+:::
+
+**4.** Caracterize a **Confederação do Equador** e compare-a com a Revolução Pernambucana de 1817.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**A Confederação do Equador (1824)** foi proclamada em Pernambuco, em 2 de julho, por **Manuel de Carvalho Pais de Andrade**, em reação direta à **dissolução da Constituinte** e à **outorga** da Carta de 1824. Reuniu Pernambuco, Paraíba, Rio Grande do Norte e Ceará. Seu programa era **republicano**, **federalista** e, no limite, **separatista**, tomando como modelo a Constituição da **Colômbia** de Bolívar. Foi reprimida por mar (**Lorde Cochrane**) e por terra, com execuções — entre elas a de **Frei Caneca**, fuzilado em 1825.
+
+**Semelhanças com 1817:** mesma região (Pernambuco e províncias vizinhas) e mesma base social — senhores de engenho em dificuldade, comerciantes, padres, militares, setores urbanos; mesmas causas de fundo — crise do açúcar e do algodão, impostos destinados a sustentar o centro político distante, privilégios concedidos a portugueses; mesmo ideário **republicano e liberal**; e, em ambos os casos, a **escravidão não foi abolida**, embora houvesse defensores da emancipação gradual.
+
+**Diferenças:** em 1817 o adversário era a monarquia **portuguesa** instalada no Rio; em 1824, o adversário era o **Estado brasileiro independente** — o que mostra que a Independência não resolveu, e em certo sentido reformulou, o conflito entre centro e províncias. Além disso, 1824 tem um alvo constitucional preciso (o Poder Moderador e a outorga), enquanto 1817 era mais difuso; e 1824 já invoca explicitamente o **federalismo** hispano-americano como alternativa.
+
+**O que os dois casos ensinam:** a insatisfação nordestina não era antiportuguesa em essência, era **antiforma centralizada de poder**. Por isso reapareceria nas revoltas regenciais (@sec-periodo-regencial) e na bandeira federalista que atravessa todo o Império.
+:::
+
+**5.** (Estilo ENEM) Leia o texto.
+
+> "Art. 98. O Poder Moderador é a chave de toda a organização política, e é delegado privativamente ao Imperador, como Chefe Supremo da Nação e seu Primeiro Representante, para que incessantemente vele sobre a manutenção da independência, equilíbrio e harmonia dos demais Poderes Políticos."
+>
+> — Constituição Política do Império do Brasil, 1824.
+
+A criação desse poder, tal como aplicado no Brasil, resultou na
+
+**(a)** submissão do imperador às decisões da Assembleia Geral, típica das monarquias parlamentaristas.
+**(b)** separação rigorosa entre os três poderes, conforme o modelo proposto por Montesquieu.
+**(c)** concentração no monarca de prerrogativas sobre os demais poderes, sem responsabilização por seus atos.
+**(d)** transferência da soberania para as províncias, que passaram a eleger seus próprios presidentes.
+**(e)** adoção do sufrágio universal masculino como forma de legitimar o arbítrio imperial.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (c).** Embora o artigo apresente o Moderador com a linguagem neutra da "harmonia entre os poderes", suas atribuições concretas na Carta de 1824 permitiam ao imperador **dissolver a Câmara**, **nomear e demitir ministros**, escolher **senadores vitalícios** e **suspender magistrados** — e a Constituição declarava a pessoa do imperador "inviolável e sagrada", isto é, **irresponsável**, não sujeita a responsabilização. Como o mesmo monarca acumulava o Moderador e o **Executivo**, a neutralidade prevista por Benjamin Constant desaparecia na prática.
+
+Por que as demais estão erradas: **(a)** é o oposto — o Moderador subordina a Câmara ao imperador, e o "parlamentarismo" do Segundo Reinado funcionaria "às avessas"; **(b)** a criação de um **quarto** poder já rompe o esquema tripartite de Montesquieu, e o acúmulo de funções contraria a separação rigorosa; **(d)** o Império era **unitário**, e os presidentes de província eram **nomeados** pelo imperador, não eleitos; **(e)** o voto era **censitário**, indireto e descoberto, e as mulheres e os escravizados estavam excluídos — não havia sufrágio universal.
+
+**Dica de prova:** quando um enunciado apresenta um texto normativo que se descreve como neutro ou harmônico, a questão quase sempre pede o **contraste entre a letra da lei e sua aplicação**.
+:::
+
+**6.** Explique as causas da **abdicação de 7 de abril de 1831**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Nenhuma causa isolada explica a queda; foi a **convergência** de cinco processos.
+
+1. **Desgaste político desde 1823–24.** A dissolução da Constituinte, a outorga da Carta e a repressão sangrenta à Confederação do Equador destruíram a imagem do imperador como monarca liberal e criaram uma oposição permanente.
+2. **Crise financeira.** Cofre esvaziado por D. João VI em 1821, indenização de **2 milhões de libras** a Portugal, empréstimos ingleses, emissão de papel-moeda, inflação e **falência do Banco do Brasil** (1829). O custo de vida urbano foi diretamente afetado.
+3. **Derrota na Guerra da Cisplatina** (1825–28), com **recrutamento forçado**, uso de **mercenários** estrangeiros (que se amotinaram no Rio em 1828), gasto elevado e **perda do território**, que se tornou o Uruguai.
+4. **Questão portuguesa e antilusitanismo.** Com a morte de **D. João VI** (1826), D. Pedro envolveu-se na disputa dinástica contra o irmão **D. Miguel**, parecendo mais preocupado com a Europa que com o Brasil. Somava-se a isso a hostilidade contra o "partido português", que dominava comércio, exército e corte, e que se converteu em força política nas ruas.
+5. **Oposição organizada e perda do apoio militar.** A **Câmara** (aberta em 1826) e a imprensa liberal — *Aurora Fluminense*, de **Evaristo da Veiga** — sistematizaram a crítica; o assassinato de **Líbero Badaró** em 1830 escandalizou a opinião pública, no mesmo ano em que a **Revolução de Julho** derrubava Carlos X na França, mostrando que reis caem. A **Noite das Garrafadas** (março de 1831) transformou o conflito em violência de rua e, quando a **guarnição militar do Rio** aderiu aos manifestantes reunidos no Campo de Santana, o imperador ficou sem base de força.
+
+**Conclusão:** sem dinheiro, sem prestígio, sem maioria parlamentar e — decisivamente — **sem o apoio da tropa**, restou abdicar em favor de **Pedro de Alcântara**, de cinco anos, abrindo o período regencial (@sec-periodo-regencial).
+:::
+
+**7.** (Estilo vestibular — dissertativa) A Constituição de 1824 durou 65 anos, mais que qualquer outra na história brasileira. Como explicar a longevidade de uma Carta imposta?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Uma boa resposta articula três ordens de fatores.
+
+**1. Flexibilidade do texto e da prática.** A Carta era autoritária em seu núcleo (Poder Moderador), mas suficientemente aberta para acomodar arranjos muito diferentes: serviu ao gesto de força de D. Pedro I, ao experimento **descentralizador** do **Ato Adicional de 1834**, à recentralização da **Lei Interpretativa de 1840** e ao **parlamentarismo às avessas** do Segundo Reinado, com dezenas de gabinetes se alternando. Uma constituição que permite tantas configurações sem ser substituída tende a durar.
+
+**2. Convergência de interesses da elite.** O texto assegurava exatamente o que importava aos grupos dominantes: manutenção da **escravidão**, garantia da **propriedade**, representação **censitária** e um Estado central capaz de reprimir revoltas. **José Murilo de Carvalho** acrescenta um dado sociológico decisivo: a elite política imperial era **homogênea**, formada majoritariamente em **Coimbra** e socializada na magistratura e na burocracia, o que produzia consenso sobre o essencial mesmo em meio à disputa partidária [@carvalho2003]. Onde as elites concordam no fundamental, as instituições duram.
+
+**3. Capacidade de negociação com as províncias.** **Miriam Dolhnikoff** argumenta que o Império sobreviveu porque não foi tão centralizado quanto se supunha: as **Assembleias Legislativas provinciais**, criadas em 1834, deram às elites regionais controle real sobre orçamento, obras, cargos e polícia, transformando o arranjo imperial num **pacto** de fato federativo sob roupagem unitária [@dolhnikoff2005]. Já **Ilmar Mattos** enfatiza o lado oposto — a construção deliberada de um Estado centralizado pelos conservadores do "tempo saquarema" [@mattos1987]. Uma resposta madura pode usar as duas: a Carta durou porque comportou **tanto** a expansão do centro **quanto** a autonomia negociada das províncias, conforme a correlação de forças de cada momento.
+
+**Conclusão possível.** A longevidade não prova legitimidade democrática: prova **eficácia** como moldura para um pacto entre proprietários escravistas. Prova disso é que a Carta caiu **junto com** o que ela protegia — apenas dezoito meses depois da abolição da escravidão em 1888 (@sec-crise-do-imperio).
+:::
+
+**8.** A **Guerra da Cisplatina** costuma ser tratada como episódio menor. Por que ela é importante para entender o Primeiro Reinado e o século XIX brasileiro?
+
+::: {.callout-tip collapse="true" title="Solução"}
+**O que foi.** A **Banda Oriental**, anexada em 1821 como **Província Cisplatina**, rebelou-se em 1825 com o grupo dos "**Trinta e Três Orientais**", liderado por **Lavalleja**, que proclamou a incorporação às Províncias Unidas do Rio da Prata. Seguiu-se a guerra entre o Brasil e a Argentina (1825–1828), com derrota brasileira em terra (**Ituzaingó**, 1827), bloqueio naval ineficaz e mediação **britânica**, que resultou no reconhecimento da **independência do Uruguai** em 1828.
+
+**Por que importa.**
+
+1. **Explica a queda de D. Pedro I.** Recrutamento forçado nas camadas pobres, contratação de mercenários alemães e irlandeses (amotinados no Rio em 1828), gasto elevado num Estado já endividado e a humilhação da perda territorial — tudo isso alimentou diretamente a crise de 1831.
+2. **Revela o padrão da política externa brasileira.** A **Bacia do Prata** era vital: quem controlasse a foz dos rios Paraná e Uruguai controlaria o acesso ao interior do continente, inclusive ao Mato Grosso brasileiro. Essa lógica governaria as intervenções no Uruguai e na Argentina nas décadas seguintes e desembocaria na **Guerra do Paraguai** (@sec-crise-do-imperio).
+3. **Mostra o peso da Inglaterra.** A mediação britânica não foi generosidade: interessava a Londres que **nenhuma** das duas potências regionais controlasse sozinha a foz do Prata, e que surgisse ali um Estado-tampão. É um exemplo prático da posição semicolonial do Brasil no sistema internacional do século XIX (@sec-imperialismo).
+4. **Ilumina a formação dos Estados sul-americanos.** O Uruguai não nasce de um projeto nacional prévio, mas do **equilíbrio de forças** entre Brasil, Argentina e Inglaterra — bom antídoto contra a ideia de que as fronteiras nacionais expressam nações naturalmente preexistentes (@sec-liberalismo-nacionalismo-1848).
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- CARVALHO, José Murilo de. *A construção da ordem / Teatro de sombras* [@carvalho2003]. Análise clássica da elite política imperial; o capítulo sobre a formação em Coimbra é imperdível.
+- DOLHNIKOFF, Miriam. *O pacto imperial: origens do federalismo no Brasil* [@dolhnikoff2005]. A revisão mais consistente da tese da centralização absoluta.
+- MATTOS, Ilmar Rohloff de. *O tempo saquarema* [@mattos1987]. A leitura oposta: o Estado imperial como projeto conservador de expansão.
+- COSTA, Emília Viotti da. *Da Monarquia à República* [@costa1999]; FAUSTO, Boris. *História do Brasil* [@fausto2015]. Sínteses seguras para revisão.
+
+**Fontes primárias**
+
+- **Constituição Política do Império do Brasil** (1824) [@constituicao1824]. Leia ao menos os artigos 98 a 101 (Poder Moderador) e o título sobre direitos dos cidadãos — a distância entre os dois é o próprio tema do capítulo.
+- CANECA, Frei Joaquim do Amor Divino. *Ensaios políticos* [@caneca2001], em especial a crítica ao Poder Moderador de 1824.
+- *Aurora Fluminense*, de **Evaristo da Veiga** (1827–1835): a oposição liberal em ação.
+
+**Filmes e documentários**
+
+- *O Brasil no tempo de D. Pedro I* e materiais do **Museu do Ipiranga** e do **Arquivo Nacional**, disponíveis online, com documentos digitalizados da Constituinte e da abdicação.
+- Compare a imagem de D. Pedro I em livros didáticos de diferentes décadas: a variação diz mais sobre cada época do que sobre o imperador (@sec-memoria-patrimonio).
