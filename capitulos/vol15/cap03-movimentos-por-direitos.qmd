@@ -1,5 +1,501 @@
 # Movimentos por direitos: civis, feministas e ambientais {#sec-movimentos-por-direitos}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Em 1º de dezembro de 1955, em Montgomery, no Alabama, uma costureira negra de 42 anos recusou-se a ceder seu lugar no ônibus a um passageiro branco e foi presa. A história que se conta é a de uma mulher cansada depois de um dia de trabalho, cuja exaustão acidental acendeu um movimento. É uma boa história — e é falsa em quase tudo o que importa. **Rosa Parks** era secretária da seção local da NAACP havia doze anos, havia frequentado meses antes um curso de formação em desobediência civil na Highlander Folk School, e o movimento aguardava havia tempo o caso certo para levar aos tribunais. Ela mesma foi explícita: "As pessoas sempre dizem que não cedi o lugar porque estava cansada. Não é verdade. O único cansaço que eu tinha era de ceder." Guardar essa correção não é preciosismo. É a diferença entre entender direitos como acidentes felizes e entendê-los como o que de fato são: **conquistas organizadas, planejadas e pagas caro**. Este capítulo é sobre isso.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- explicar a **segregação racial** nos Estados Unidos e a trajetória do **movimento por direitos civis**, de Montgomery ao *Black Power*;
+- caracterizar o **apartheid** sul-africano e o processo que levou à sua queda;
+- distinguir as chamadas **ondas do feminismo** e discutir os limites dessa periodização;
+- explicar **interseccionalidade** e o feminismo negro, com **Angela Davis**, **Kimberlé Crenshaw** e **Lélia Gonzalez**;
+- situar **1968** como ano-símbolo de contestação global, em Paris, Praga, México e São Paulo;
+- narrar a formação do movimento **LGBT**, de **Stonewall** à epidemia de aids e ao reconhecimento jurídico;
+- reconstituir a emergência do **ambientalismo**, de Rachel Carson a **Chico Mendes** e ao **Acordo de Paris**;
+- descrever as conquistas de direitos no **Brasil** — Constituição de 1988, **Lei Maria da Penha**, cotas, criminalização do racismo;
+- discutir a historiografia: **história vista de baixo**, a crítica ao culto dos grandes líderes e o debate entre classe e identidade.
 :::
+
+## Direitos civis nos Estados Unidos {#sec-direitos-civis}
+
+**O ponto de partida.** A abolição da escravidão nos Estados Unidos (1865) e as emendas constitucionais que a seguiram não produziram igualdade (@sec-eua-seculo-xix). A partir do fim do século XIX, os estados do Sul instituíram as chamadas **leis Jim Crow**: segregação legal de escolas, ônibus, restaurantes, banheiros, hospitais, cemitérios e casamentos, somada a mecanismos para impedir o voto negro — testes de alfabetização aplicados arbitrariamente, taxas eleitorais, "cláusulas do avô". A Suprema Corte havia legitimado tudo isso no caso *Plessy v. Ferguson* (1896), com a fórmula "**iguais, mas separados**". A tudo isso somava-se o terror privado da **Ku Klux Klan** e os **linchamentos** — milhares deles entre 1880 e 1950, com frequência públicos e impunes.
+
+**A virada jurídica.** Em **1954**, no caso ***Brown v. Board of Education***, a Suprema Corte decidiu por unanimidade que a segregação escolar era inconstitucional, porque instalações separadas são "inerentemente desiguais". Foi uma vitória de uma estratégia jurídica construída durante décadas pela **NAACP** e pelo advogado **Thurgood Marshall** — futuro primeiro juiz negro da Suprema Corte. A decisão não se cumpriu sozinha: em 1957, foi preciso que o presidente Eisenhower enviasse tropas federais a Little Rock, no Arkansas, para escoltar nove estudantes negros até a escola.
+
+**O ciclo de mobilização.** A partir de 1955, o movimento combinou pressão judicial, ação direta não violenta e enorme habilidade no uso da imprensa:
+
+- **Boicote aos ônibus de Montgomery** (1955–56): 381 dias de caminhada e caronas organizadas pela população negra da cidade, sustentados por igrejas e por redes de mulheres. Projetou nacionalmente um pastor de 26 anos, **Martin Luther King Jr.**
+- ***Sit-ins*** (a partir de 1960): estudantes negros sentavam-se em balcões de lanchonete reservados a brancos e permaneciam, sem revidar, até serem presos.
+- ***Freedom Rides*** (1961): viagens interestaduais de ônibus com passageiros negros e brancos misturados, testando decisões judiciais e enfrentando espancamentos.
+- **Birmingham** (1963): a repressão com cães e jatos de mangueira contra manifestantes, inclusive crianças, foi fotografada e transmitida, chocando a opinião pública nacional e internacional. Preso, King escreveu a **Carta da prisão de Birmingham**, resposta a clérigos brancos moderados que o acusavam de "impaciência" [@king1963].
+- **Marcha sobre Washington** (agosto de 1963): 250 mil pessoas e o discurso "**Eu tenho um sonho**" [@kingSonho1963].
+- **Selma** (1965): a marcha reprimida com brutalidade na ponte Edmund Pettus acelerou a aprovação da lei do direito de voto.
+
+**As conquistas legais.** O **Civil Rights Act** (1964) proibiu a discriminação em locais públicos e no emprego; o **Voting Rights Act** (1965) derrubou os mecanismos que impediam o voto negro no Sul, com efeitos eleitorais imediatos e maciços; o **Fair Housing Act** (1968) atacou a discriminação na moradia.
+
+::: {.callout-warning title="Duas estratégias, e por que reduzi-las a 'bom' e 'mau' é um erro"}
+O movimento negro americano não foi monolítico, e a oposição entre **Martin Luther King** e **Malcolm X** costuma ser caricaturada.
+
+**King** defendia a **não violência ativa**, inspirada em **Gandhi** (@sec-descolonizacao-africa-asia) e no cristianismo protestante negro, e o objetivo da **integração**. A não violência não era passividade: era uma tática deliberada e disciplinada, que exigia treinamento — apanhar sem revidar diante de câmeras transferia o ônus moral para o agressor e conquistava a opinião pública branca do Norte, cujo apoio era necessário para aprovar leis federais.
+
+**Malcolm X**, ligado à Nação do Islã até 1964, criticava a integração como assimilação a uma sociedade que não desejava reformar-se, defendia a autodefesa "por todos os meios necessários", o **orgulho negro** e a autonomia econômica e cultural. Sua ênfase era menos jurídica e mais psicológica e material: de que adianta o direito de entrar num restaurante se não há dinheiro para pagar a refeição? Após romper com a Nação do Islã e peregrinar a Meca, revisou parte de suas posições sobre raça; foi assassinado em 1965 [@malcolmX2011].
+
+**O que a historiografia recente estabeleceu.** As duas correntes eram **complementares na prática**, e não apenas rivais. A existência de uma ala radical tornava King aceitável aos olhos do poder — fenômeno que os cientistas políticos chamam de "efeito do flanco radical". E o próprio King radicalizou-se nos últimos anos: passou a denunciar a **Guerra do Vietnã** (@sec-conflitos-guerra-fria), a pobreza e o militarismo, organizou a Campanha dos Pobres e morreu em 1968, em Memphis, apoiando uma greve de garis. Essa fase final é sistematicamente omitida nas homenagens oficiais — e a omissão é, ela própria, um objeto histórico: mostra como a memória pública **domestica** figuras incômodas.
+:::
+
+**Depois de 1968.** O assassinato de King (abril de 1968) desencadeou revoltas em mais de cem cidades. O ***Black Power***, o **Partido dos Panteras Negras** — que combinava autodefesa armada com programas sociais de base, como merenda gratuita para crianças — e a valorização estética e cultural da negritude marcaram a fase seguinte. As conquistas legais foram reais e irreversíveis; a desigualdade material, muito menos: encarceramento em massa, brutalidade policial e disparidades de renda, saúde e patrimônio persistem, e alimentaram o movimento **Black Lives Matter** a partir de 2013.
+
+## O apartheid sul-africano {#sec-apartheid}
+
+Na **África do Sul**, o Partido Nacional, vencedor das eleições de 1948 (com eleitorado exclusivamente branco), instituiu o ***apartheid*** — palavra africâner para "separação". Não era apenas segregação: era um projeto de engenharia social total. A população foi classificada por raça em registro oficial; os casamentos e as relações inter-raciais foram criminalizados; a residência, o trabalho e a escola foram determinados pela classificação; negros foram despojados da cidadania sul-africana e atribuídos a "**bantustões**", territórios nominalmente independentes e economicamente inviáveis; e a **lei do passe** obrigava os negros a portar documento que autorizasse sua presença nas áreas brancas — onde trabalhavam, sendo a base da economia do país.
+
+A resistência, liderada pelo **Congresso Nacional Africano** (CNA), foi inicialmente pacífica. Após o **massacre de Sharpeville** (1960), em que a polícia matou 69 manifestantes desarmados que protestavam contra a lei do passe, o CNA foi proibido e adotou a luta armada. **Nelson Mandela** foi condenado à prisão perpétua em 1964 e permaneceu preso **27 anos** [@mandela2012]. A revolta estudantil de **Soweto** (1976), desencadeada pela imposição do africâner como língua de ensino e reprimida com dezenas de mortes — entre elas a do menino Hector Pieterson, cuja fotografia correu o mundo —, marcou a passagem a um confronto permanente.
+
+O regime caiu por uma combinação de fatores: resistência interna crescente e ingovernabilidade, **sanções econômicas** e boicote esportivo e cultural internacionais, custo militar das guerras na região, e o fim da Guerra Fria, que retirou do governo sul-africano o argumento de que era um baluarte anticomunista. Mandela foi libertado em **1990**, o *apartheid* foi desmantelado juridicamente, e em **1994** realizaram-se as primeiras eleições multirraciais, que o elegeram presidente. Seguiu-se a **Comissão da Verdade e Reconciliação**, presidida pelo arcebispo **Desmond Tutu**, que optou por anistia condicionada à confissão pública e completa — modelo estudado no mundo inteiro e discutido no @sec-desafios-do-presente.
+
+## Os feminismos {#sec-feminismos}
+
+::: {.callout-important title="Cuidado com a metáfora das 'ondas'"}
+É comum organizar a história do feminismo em **ondas**, e a divisão é útil como esquema de memorização. Mas ela tem três defeitos sérios que qualquer boa resposta deve mencionar:
+
+1. **Sugere refluxo total entre as ondas**, quando na verdade houve atividade contínua nos intervalos, apenas menos visível na imprensa.
+2. **É anglocêntrica.** A cronologia foi construída a partir da experiência dos Estados Unidos e da Europa ocidental, e se aplica mal ao Brasil, à América Latina, à África e à Ásia, cujas periodizações são outras.
+3. **Homogeneíza.** Fala de "o feminismo" quando sempre houve **feminismos** em disputa — liberal, socialista, radical, negro, decolonial, com desacordos profundos entre si.
+
+Use o esquema, portanto, como andaime, e não como verdade.
+:::
+
+**Primeira onda (séc. XIX – anos 1930): direitos civis e políticos.** A pauta era o **voto**, o acesso à educação e à propriedade e a capacidade jurídica das mulheres casadas. As **sufragistas** britânicas encabeçadas por Emmeline Pankhurst adotaram táticas de confronto — greves de fome, quebra de vitrines, prisões. A Nova Zelândia foi pioneira (1893); o Reino Unido concedeu o voto pleno em 1928; os Estados Unidos, em 1920. No **Brasil**, o direito de voto veio com o Código Eleitoral de **1932**, resultado de campanha longa liderada pela bióloga **Bertha Lutz** e pela Federação Brasileira pelo Progresso Feminino — e foi confirmado pela Constituição de 1934 (@sec-era-vargas).
+
+**Segunda onda (anos 1960–80): "o pessoal é político".** O lema desloca o eixo: a subordinação não está apenas na lei, mas nas relações domésticas, na sexualidade, no trabalho não remunerado, nos padrões de beleza, na divisão do cuidado. Dois livros fundam o período. **Simone de Beauvoir**, em *O segundo sexo* (1949), formula a frase que se tornou o programa do feminismo contemporâneo: "**Não se nasce mulher: torna-se mulher**" — isto é, o feminino é uma **construção social**, não um destino biológico [@beauvoir2016]. **Betty Friedan**, em *A mística feminina* (1963), descreve "o problema sem nome": a insatisfação de mulheres de classe média americanas confinadas ao papel doméstico [@friedan1971]. Entram na pauta a **pílula anticoncepcional** (comercializada a partir de 1960), o divórcio, a violência doméstica, o direito ao aborto e a igualdade salarial.
+
+**Terceira onda (anos 1990–2000) e o que veio depois.** A crítica principal partiu de dentro: as pautas das ondas anteriores refletiam a experiência de mulheres **brancas, de classe média e do Norte global**. Quando Friedan descrevia o confinamento doméstico como o problema central, mulheres negras e pobres — que sempre trabalharam fora, inclusive nas casas dessas mesmas mulheres — não se reconheciam no diagnóstico. A partir dos anos 2010, fala-se de uma **quarta onda**, marcada pela organização em redes digitais, pelas denúncias em massa de assédio (#MeToo, 2017), pelas grandes marchas latino-americanas contra o feminicídio (*Ni Una Menos*, 2015) e, no Brasil, pelo #EleNão (2018) e pela "primavera feminista" de 2015.
+
+::: {.callout-note title="Conceito: interseccionalidade"}
+**Interseccionalidade** é a ideia de que os sistemas de opressão — racismo, sexismo, exploração de classe, LGBTfobia, capacitismo — não se somam como camadas independentes, mas se **entrelaçam**, produzindo experiências específicas que não se explicam por nenhum deles isoladamente.
+
+O termo foi cunhado pela jurista **Kimberlé Crenshaw** em 1989, a partir de um problema concreto e prático: mulheres negras que processavam empresas por discriminação perdiam as ações porque os tribunais exigiam que provassem discriminação **de raça** (e a empresa mostrava que contratava homens negros) **ou** discriminação **de gênero** (e a empresa mostrava que contratava mulheres brancas). A discriminação que sofriam existia precisamente no **cruzamento**, e o direito não tinha categoria para enxergá-la [@crenshaw2002].
+
+**Angela Davis**, em *Mulheres, raça e classe* (1981), já havia mostrado historicamente essa articulação: analisou o movimento sufragista americano e documentou seus acordos com o racismo do Sul, além de recuperar a experiência das mulheres escravizadas, para quem a "esfera doméstica" nunca foi um refúgio [@davis2016].
+
+No Brasil, **Lélia Gonzalez** (1935–1994) desenvolveu formulação própria e original, cunhando as noções de "**amefricanidade**" e de "**racismo por denegação**" — o racismo brasileiro que se nega enquanto opera —, e denunciando o lugar reservado à mulher negra na cultura nacional: exaltada como "mulata" no Carnaval e como "mãe preta" no imaginário afetivo, e tratada como doméstica no restante do ano [@gonzalez2020]. Ao lado dela, **Beatriz Nascimento**, **Sueli Carneiro** e, na tradição norte-americana, **bell hooks** [@hooks2019] compõem a bibliografia essencial do tema — e caem com frequência em vestibulares.
+:::
+
+::: {#fig-ondas-feminismo}
+
+```{.tikz}
+%%| filename: fig-ondas-feminismo
+%%| alt: Diagrama das ondas do feminismo, com pautas de cada onda, os limites da periodização e o conceito de interseccionalidade.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \node[draw, thick, rounded corners, fill=manualblue!14, align=left, text width=3.15cm] (o1) at (-5.1,1.6)
+    {\textbf{1ª ONDA}\\ \textit{séc. XIX--1930}\\[3pt]
+     Direitos \textbf{civis e}\\ \textbf{políticos}: voto,\\ educação, propriedade,\\ capacidade jurídica.\\[3pt]
+     \textbf{Brasil: 1932}\\ (Bertha Lutz)};
+
+  \node[draw, thick, rounded corners, fill=manualred!13, align=left, text width=3.15cm] (o2) at (-1.7,1.6)
+    {\textbf{2ª ONDA}\\ \textit{1960--1980}\\[3pt]
+     ``\textbf{O pessoal é}\\ \textbf{político}'': corpo,\\ sexualidade, trabalho\\ doméstico, violência.\\[3pt]
+     \textbf{Beauvoir} (1949)\\ \textbf{Friedan} (1963)};
+
+  \node[draw, thick, rounded corners, fill=manualgreen!16, align=left, text width=3.15cm] (o3) at (1.7,1.6)
+    {\textbf{3ª ONDA}\\ \textit{1990--2000}\\[3pt]
+     Crítica \textbf{interna}: as\\ pautas anteriores eram\\ de mulheres brancas,\\ de classe média e do\\ Norte global.\\[3pt]
+     Diversidade de sujeitos};
+
+  \node[draw, thick, rounded corners, fill=manualyellow!24, align=left, text width=3.15cm] (o4) at (5.1,1.6)
+    {\textbf{4ª ONDA}\\ \textit{a partir de 2010}\\[3pt]
+     Organização em \textbf{redes}\\ \textbf{digitais}; denúncia de\\ assédio (\#MeToo, 2017);\\ \textbf{Ni Una Menos} (2015);\\ \#EleNão (2018)};
+
+  \draw[vetor, thick, manualgray] (o1) -- (o2);
+  \draw[vetor, thick, manualgray] (o2) -- (o3);
+  \draw[vetor, thick, manualgray] (o3) -- (o4);
+
+  \node[draw, very thick, rounded corners, fill=manualgray!16, align=left, text width=13.6cm] (i) at (0,-1.35)
+    {\textbf{INTERSECCIONALIDADE} (Crenshaw, 1989) --- as opressões não se \textbf{somam}, se \textbf{entrelaçam}.\\
+     Origem \textbf{jurídica}: mulheres negras perdiam ações porque o tribunal exigia provar discriminação \textbf{de raça} (e a empresa\\ mostrava homens negros contratados) \textbf{ou} \textbf{de gênero} (e a empresa mostrava mulheres brancas contratadas).\\ A discriminação existia no \textbf{cruzamento} --- e o direito não tinha categoria para vê-la.\\[3pt]
+     Genealogia: \textbf{Sojourner Truth} (1851) $\cdot$ \textbf{Angela Davis} $\cdot$ \textbf{bell hooks} $\cdot$ no Brasil, \textbf{Lélia Gonzalez} (amefricanidade,\\ ``racismo por denegação''), \textbf{Beatriz Nascimento} e \textbf{Sueli Carneiro} (``enegrecer o feminismo'')};
+
+  \node[draw, dashed, rounded corners, fill=manualred!10, align=center, text width=13.6cm, text=manualred] at (0,-3.35)
+    {\textbf{Os três defeitos da metáfora das ondas:} sugere \textbf{refluxo} total nos intervalos (houve atividade contínua);\\ é \textbf{anglocêntrica} (a cronologia do Brasil, da América Latina, da África e da Ásia é outra);\\ e \textbf{homogeneíza} --- sempre houve \textbf{feminismos} em disputa, não ``o'' feminismo.};
+\end{tikzpicture}
+```
+
+As ondas do feminismo, a interseccionalidade e os limites da periodização.
+:::
+
+**O feminismo no Brasil.** Teve uma particularidade decisiva: os anos de sua reorganização, na década de 1970, foram os da **ditadura militar**, o que fez com que a luta por direitos das mulheres se entrelaçasse desde o início com a luta pela redemocratização [@pinto2003; @teles1999]. Movimentos de mães e donas de casa contra a carestia, clubes de mães nas periferias, o Movimento Feminino pela Anistia (1975) e a atuação de exiladas que voltavam com contato com o feminismo europeu compuseram um feminismo que era, ao mesmo tempo, **popular e democrático**. As conquistas legais vieram em cadeia: fim da figura do "chefe da sociedade conjugal" e igualdade entre cônjuges na **Constituição de 1988**; criação das **Delegacias da Mulher** (a primeira em São Paulo, 1985); a **Lei Maria da Penha** (2006), reconhecida pela ONU como uma das legislações mais avançadas do mundo contra a violência doméstica e nascida de uma condenação do Brasil na Comissão Interamericana de Direitos Humanos [@leiMariaDaPenha2006]; e a **Lei do Feminicídio** (2015).
+
+::: {#fig-linha-do-tempo-direitos}
+
+```{.tikz}
+%%| filename: fig-linha-do-tempo-direitos
+%%| alt: Linha do tempo dos movimentos por direitos, de 1948 a 2015, com apartheid, Brown v. Board, O segundo sexo, Montgomery, Primavera silenciosa, Civil Rights Act, Stonewall, Estocolmo, MNU, Constituição de 1988, Rio-92, Lei Maria da Penha e Acordo de Paris.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \fill[manualblue!14, rounded corners] (0.3,-1.5) rectangle (6.2,-0.55);
+  \node[text=manualblue, font=\scriptsize\bfseries, align=center] at (3.25,-1.02) {ciclo dos direitos civis};
+  \fill[manualred!13, rounded corners] (6.4,-1.5) rectangle (10.3,-0.55);
+  \node[text=manualred, font=\scriptsize\bfseries, align=center] at (8.35,-1.02) {contestação e\\ novos sujeitos};
+  \fill[manualgreen!16, rounded corners] (10.5,-1.5) rectangle (15.0,-0.55);
+  \node[text=manualgreen!45!black, font=\scriptsize\bfseries, align=center] at (12.75,-1.02) {institucionalização\\ e agenda ambiental};
+
+  \draw[eixo] (0,0) -- (15.2,0);
+  \node[eixo, gray] at (15.2,-0.42) {tempo (fora de escala)};
+
+  \node[ponto] at (0.9,0) {};
+  \node[below, align=center] at (0.9,-0.18) {\textbf{1948--49}};
+  \node[above, align=center, text=manualgray!40!black] at (0.9,0.2) {\textbf{apartheid}\\ (África do Sul)\\ \textbf{O segundo sexo}\\ (Beauvoir)};
+
+  \node[ponto] at (2.7,0) {};
+  \node[below, align=center] at (2.7,-0.18) {\textbf{1954--56}};
+  \node[above, align=center, text=manualblue] at (2.7,0.2) {\textbf{Brown v. Board}\\ boicote de\\ \textbf{Montgomery}};
+
+  \node[ponto] at (4.4,0) {};
+  \node[below, align=center] at (4.4,-0.18) {\textbf{1960--63}};
+  \node[above, align=center, text=manualblue] at (4.4,0.2) {\textit{sit-ins} $\cdot$ \textbf{Sharpeville}\\ \textbf{Birmingham}\\ Marcha sobre\\ Washington};
+
+  \node[ponto] at (6.0,0) {};
+  \node[below, align=center] at (6.0,-0.18) {\textbf{1964--65}};
+  \node[above, align=center, text=manualblue] at (6.0,0.2) {\textbf{Civil Rights Act}\\ \textbf{Voting Rights Act}\\ morte de Malcolm X};
+
+  \node[ponto] at (7.5,0) {};
+  \node[below, align=center] at (7.5,-0.18) {\textbf{1968--69}};
+  \node[above, align=center, text=manualred] at (7.5,0.2) {\textbf{1968} global\\ morte de \textbf{King}\\ \textbf{Stonewall}};
+
+  \node[ponto] at (9.0,0) {};
+  \node[below, align=center] at (9.0,-0.18) {\textbf{1972--78}};
+  \node[above, align=center, text=manualgreen!45!black] at (9.0,0.2) {\textbf{Estocolmo} (1972)\\ \textbf{Soweto} (1976)\\ \textbf{MNU} (1978)};
+
+  \node[ponto] at (10.7,0) {};
+  \node[below, align=center] at (10.7,-0.18) {\textbf{1988}};
+  \node[above, align=center, text=manualgreen!45!black] at (10.7,0.2) {\textbf{Constituição}\\ \textbf{brasileira}\\ racismo = crime\\ morte de Chico Mendes};
+
+  \node[ponto] at (12.3,0) {};
+  \node[below, align=center] at (12.3,-0.18) {\textbf{1992--94}};
+  \node[above, align=center, text=manualgreen!45!black] at (12.3,0.2) {\textbf{Rio-92}\\ fim do \textbf{apartheid}\\ Mandela presidente};
+
+  \node[ponto] at (13.8,0) {};
+  \node[below, align=center] at (13.8,-0.18) {\textbf{2006--12}};
+  \node[above, align=center, text=manualblue] at (13.8,0.2) {\textbf{Maria da Penha}\\ \textbf{Lei de Cotas}\\ (2012)};
+
+  \node[ponto] at (14.9,0) {};
+  \node[below, align=center] at (14.9,-0.18) {\textbf{2015}};
+  \node[above, align=center, text=manualgreen!45!black] at (14.9,0.2) {\textbf{Acordo de}\\ \textbf{Paris}};
+\end{tikzpicture}
+```
+
+Sete décadas de lutas por direitos: marcos internacionais e brasileiros.
+:::
+
+## 1968: o ano que não terminou {#sec-1968}
+
+Poucos anos concentram tanta contestação simultânea em lugares tão distintos. **1968** foi um fenômeno global, e a coincidência não é acaso: uma geração numerosa, nascida no *baby boom* do pós-guerra, chegava à universidade em número inédito, com acesso à televisão e a uma cultura jovem transnacional, num momento de crescimento econômico que tornara o autoritarismo das instituições — famílias, escolas, universidades, partidos — cada vez mais dissonante.
+
+- **França (Maio de 68).** Começou com protestos estudantis em Nanterre e no Quartier Latin, contra a rigidez universitária e a Guerra do Vietnã; escalou com barricadas e repressão; e transformou-se na maior greve geral da história francesa, com cerca de **dez milhões** de trabalhadores parados. O presidente **De Gaulle** chegou a deixar o país por algumas horas. Politicamente, a direita venceu as eleições convocadas em junho; culturalmente, o Maio de 68 alterou de modo duradouro a autoridade, os costumes, a sexualidade e a educação na França e além dela.
+- **Tchecoslováquia (Primavera de Praga).** **Alexander Dubček** tentou um "socialismo com face humana": liberdade de imprensa, reabilitação de perseguidos, autonomia econômica. Em agosto, tropas do **Pacto de Varsóvia** invadiram o país e encerraram a experiência (@sec-crise-do-socialismo-real). O episódio afastou definitivamente boa parte da esquerda ocidental do modelo soviético.
+- **México (massacre de Tlatelolco).** Dez dias antes da abertura das Olimpíadas da Cidade do México, em 2 de outubro, o Exército abriu fogo contra estudantes na praça das Três Culturas, matando um número de pessoas que até hoje não se conhece com precisão — estimativas variam de dezenas a centenas.
+- **Estados Unidos.** Assassinatos de **Martin Luther King** (abril) e de **Robert Kennedy** (junho), revoltas urbanas, ocupação da Universidade Columbia, protestos contra a Guerra do Vietnã e o confronto na convenção democrata de Chicago.
+- **Brasil.** Passeatas estudantis contra a ditadura, com a **Passeata dos Cem Mil** no Rio em junho; a greve dos metalúrgicos de Osasco e Contagem; o discurso do deputado Márcio Moreira Alves; e, em **13 de dezembro**, o **AI-5**, que fechou o Congresso, suspendeu o *habeas corpus* e inaugurou a fase mais dura do regime (@sec-ditadura-militar) [@ventura2008; @ridenti2010].
+
+::: {.callout-warning title="1968 fracassou?"}
+A pergunta é clássica em provas discursivas, e a resposta exige distinguir planos.
+
+**No plano do poder de Estado, sim.** Nenhum governo foi derrubado pelos movimentos; De Gaulle venceu as eleições; Praga foi invadida; no Brasil e no México, a repressão se intensificou. Quem esperava revolução foi derrotado.
+
+**No plano cultural e social, não — e de forma duradoura.** As relações de autoridade em famílias, escolas, universidades e empresas mudaram; a sexualidade e o corpo entraram na política; surgiram ou ganharam força os movimentos feminista, ambientalista, homossexual e de minorias étnicas — os chamados "**novos movimentos sociais**", que deslocaram o eixo da contestação da fábrica para a vida cotidiana.
+
+**A ironia que a historiografia recente sublinha.** Parte do impulso libertário de 1968 — a ênfase na autonomia individual, na criatividade, na recusa da hierarquia rígida — foi **absorvida** pelo capitalismo das décadas seguintes, que reorganizou o trabalho em torno de flexibilidade, projetos e autonomia, muitas vezes com perda de proteções coletivas. Não é uma tese contra 1968; é um lembrete de que movimentos históricos raramente produzem apenas os efeitos que pretendiam.
+:::
+
+## Movimento LGBT {#sec-movimento-lgbt}
+
+Na madrugada de **28 de junho de 1969**, uma batida policial de rotina no **Stonewall Inn**, bar frequentado por homossexuais, travestis e drag queens em Nova York, encontrou algo inesperado: resistência. Os confrontos duraram vários dias, e no ano seguinte a data foi marcada pela primeira marcha do orgulho — origem do que hoje é a **Parada do Orgulho LGBT**, cuja edição paulistana está entre as maiores do mundo. Como no caso de Rosa Parks, a historiografia recente corrigiu a narrativa simplificada: Stonewall não foi o começo absoluto — havia organizações homófilas desde os anos 1950 —, e o protagonismo, durante décadas apagado, coube em boa medida a mulheres trans e travestis negras e latinas, entre elas **Marsha P. Johnson** e **Sylvia Rivera**.
+
+A trajetória seguinte teve marcos claros: a retirada da homossexualidade da lista de transtornos mentais pela Associação Psiquiátrica Americana (1973) e pela **OMS** (1990); a devastação da epidemia de **aids** nos anos 1980, que matou uma geração inteira em meio a estigma e negligência governamental, e que paradoxalmente forçou uma organização política sem precedentes; e o reconhecimento jurídico das uniões, iniciado nos Países Baixos em 2001.
+
+No **Brasil**, a homossexualidade nunca foi criminalizada no Código Penal republicano, mas a repressão policial por "vadiagem" e "atentado ao pudor" foi intensa, sobretudo durante a ditadura [@green2000]. O jornal *Lampião da Esquina* (1978–81) e o grupo Somos marcaram a organização política; o Conselho Federal de Psicologia proibiu terapias de "conversão" em 1999; e o **Supremo Tribunal Federal** reconheceu a união estável entre pessoas do mesmo sexo em **2011**, o que abriu caminho para o casamento civil (2013), e equiparou a **LGBTfobia** ao crime de racismo em **2019**. O Brasil segue, ao mesmo tempo, entre os países que mais registram assassinatos de pessoas trans no mundo — uma dissonância entre avanço jurídico e realidade social que se repete em vários temas deste capítulo.
+
+## Ambientalismo e justiça climática {#sec-ambientalismo}
+
+**As origens.** Em **1962**, a bióloga americana **Rachel Carson** publicou *Primavera silenciosa*, denunciando os efeitos do DDT e de outros pesticidas sobre a cadeia alimentar e a saúde humana [@carson2010]. O livro sofreu ataque organizado da indústria química, resistiu e é hoje considerado o marco inicial do ambientalismo contemporâneo. Seguiram-se o relatório *Limites do crescimento* (Clube de Roma, 1972), a primeira **Conferência da ONU sobre o Meio Ambiente Humano** (Estocolmo, **1972**) — na qual, registre-se, o Brasil da ditadura militar liderou a resistência de países em desenvolvimento sob o argumento de que "a pior poluição é a pobreza" — e a criação de organizações como o Greenpeace.
+
+**Os conceitos-chave.** O relatório **Brundtland** (1987) consagrou a noção de **desenvolvimento sustentável**: aquele que atende às necessidades do presente sem comprometer a capacidade das gerações futuras de atender às suas. A **Rio-92** (Conferência das Nações Unidas sobre Meio Ambiente e Desenvolvimento, no Rio de Janeiro) produziu a Agenda 21, a Convenção sobre Diversidade Biológica e a Convenção-Quadro sobre Mudança do Clima, que originou as conferências anuais (**COPs**), o **Protocolo de Kyoto** (1997) e o **Acordo de Paris** (**2015**), no qual 195 países se comprometeram a limitar o aquecimento global a bem menos de 2 °C acima dos níveis pré-industriais [@acordoParis2015].
+
+::: {.callout-note title="Conceito: justiça ambiental"}
+**Justiça ambiental** é a constatação — e a agenda política dela decorrente — de que os danos ambientais **não** se distribuem por igual: aterros, indústrias poluentes, refinarias, mineração e áreas de risco concentram-se onde vivem as populações mais pobres e, no Brasil e nos Estados Unidos, majoritariamente negras e indígenas [@acselrad2009].
+
+O conceito nasceu nos Estados Unidos nos anos 1980, a partir da constatação estatística de que a variável que melhor previa a localização de depósitos de resíduos tóxicos era a **composição racial** da vizinhança. No Brasil, ele organiza a compreensão de casos como as tragédias de **Mariana** (2015) e **Brumadinho** (2019), a contaminação em áreas industriais e a exposição diferenciada a enchentes e deslizamentos.
+
+Sua versão internacional é o princípio das "**responsabilidades comuns, porém diferenciadas**", inscrito nos acordos climáticos: todos os países devem agir, mas os que historicamente mais emitiram — e que se industrializaram queimando carvão e petróleo sem restrição — têm obrigações maiores. É um argumento **histórico** dentro de uma negociação diplomática, e por isso interessa particularmente a este manual.
+:::
+
+**O ambientalismo brasileiro** tem uma característica que o distingue: nasceu articulado a lutas **sociais**, e não apenas à preservação da natureza. **Chico Mendes** (1944–1988), seringueiro e sindicalista no Acre, organizou os "**empates**" — mobilizações pacíficas em que comunidades inteiras se colocavam diante das motosserras — e formulou uma proposta que unia conservação da floresta e sustento das populações que nela viviam: as **reservas extrativistas** [@mendes1989]. Assassinado a mando de fazendeiros em dezembro de 1988, tornou-se símbolo mundial da união entre causa ambiental e justiça social — a chamada **socioambientalismo**. A mesma lógica aparece na aliança entre seringueiros e povos indígenas, na atuação de lideranças como **Ailton Krenak** e **Davi Kopenawa** (@sec-historia-indigena-afrobrasileira) e na luta de comunidades quilombolas e ribeirinhas. O Brasil paga por isso um preço alto: está entre os países que mais assassinam defensores ambientais no mundo.
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+**1. A "história vista de baixo" e a agência dos subalternos.** O estudo dos movimentos sociais é indissociável de uma revolução historiográfica ocorrida a partir dos anos 1960. **E. P. Thompson**, em *A formação da classe operária inglesa* (1963), propôs-se a resgatar os trabalhadores pobres "**da enorme condescendência da posteridade**" e demonstrou que a classe não é uma estrutura dada pela economia, mas algo que se **faz** na experiência e na luta [@thompson1987]. Junto com a história oral, a micro-história e os estudos subalternos indianos, essa corrente deslocou o olhar dos gabinetes para as ruas, e dos decretos para as práticas.
+
+O efeito sobre este capítulo é direto: os direitos que hoje parecem naturais não foram **concedidos** por legisladores esclarecidos; foram **arrancados** por pessoas organizadas, em processos longos, com derrotas, prisões e mortes. Essa diferença de enquadramento tem consequência política imediata — direitos concedidos podem ser vistos como favores revogáveis; direitos conquistados são entendidos como patrimônio a defender.
+
+**2. Contra o culto dos grandes líderes.** A narrativa escolar tende a reduzir movimentos a nomes: King, Mandela, Rosa Parks, Chico Mendes. A pesquisa das últimas décadas desmontou sistematicamente esse enquadramento, e o caso de **Montgomery** é o mais instrutivo. O boicote não começou com um gesto individual e espontâneo: a **NAACP** local buscava havia meses um caso adequado para litigar; Rosa Parks era secretária da entidade e havia recebido formação em desobediência civil; houvera antes o caso de Claudette Colvin, uma adolescente de 15 anos presa nas mesmas circunstâncias, descartada como símbolo porque estava grávida e solteira — decisão que revela a preocupação estratégica do movimento com a respeitabilidade aos olhos do público branco; e o boicote de 381 dias foi sustentado por uma logística formidável de caronas, igrejas e redes de mulheres, entre as quais **Jo Ann Robinson**, que mimeografou e distribuiu 35 mil panfletos numa única noite.
+
+Nada disso diminui King, Parks ou Mandela. Muda o que se aprende com eles. A pergunta "como uma pessoa extraordinária mudou a história?" não ensina nada replicável. A pergunta "**como se organiza um boicote de 381 dias?**" ensina.
+
+**3. Classe ou identidade?** Um debate real e áspero atravessa a esquerda intelectual desde os anos 1980. De um lado, autores argumentam que a fragmentação das lutas em pautas identitárias — raça, gênero, orientação sexual — enfraqueceu a capacidade de contestar a **estrutura econômica**, e que essa fragmentação foi conveniente para o neoliberalismo, que absorve o reconhecimento simbólico sem alterar a distribuição de riqueza. De outro, responde-se que a **desigualdade material é ela própria estruturada por raça e gênero** — quem ocupa os piores empregos, quem morre mais cedo, quem faz o trabalho de cuidado não remunerado —, de modo que uma política de classe que ignore esses eixos é apenas a política dos setores mais bem posicionados da classe trabalhadora.
+
+O melhor caminho é o que a própria tradição do **feminismo negro** já oferecia antes de o debate se acirrar: **Angela Davis** [@davis2016], **Lélia Gonzalez** [@gonzalez2020] e **bell hooks** [@hooks2019] nunca trataram raça, classe e gênero como alternativas, e sim como dimensões de um mesmo processo histórico. A **interseccionalidade** de **Crenshaw** [@crenshaw2002] é, nesse sentido, menos uma novidade teórica do que a formalização jurídica de uma leitura que essas autoras já praticavam. Quem apresenta o dilema como escolha obrigatória entre "classe" e "identidade" está, em geral, defendendo uma posição política — e vale examinar qual.
+
+**4. Quando um movimento vence?** Avaliar movimentos sociais exige critérios explícitos, e a escolha do critério determina a resposta:
+
+- Pela **mudança legal**, os direitos civis americanos foram uma vitória inequívoca: Jim Crow acabou, o voto negro foi assegurado.
+- Pela **mudança material**, o balanço é muito mais sombrio: disparidades de renda, patrimônio, expectativa de vida e encarceramento persistem, algumas praticamente inalteradas desde 1968.
+- Pela **mudança cultural**, houve transformação profunda no que é dizível e aceitável em público — o que os críticos consideram superficial e os defensores consideram condição prévia de tudo o mais.
+- Pela **capacidade de organização deixada como legado**, os movimentos formaram quadros, repertórios de ação e redes que reapareceram em ciclos posteriores — de Seattle a Black Lives Matter, de junho de 2013 no Brasil às marchas feministas latino-americanas.
+
+Um historiador honesto usa **mais de um** critério e diz qual está usando. Respostas que afirmam sem qualificação que "o movimento venceu" ou que "nada mudou" costumam estar selecionando o critério que confirma a conclusão desejada.
+
+## Resumo do capítulo {#sec-resumo}
+
+- **Direitos civis nos EUA:** leis **Jim Crow**, *Plessy v. Ferguson* (1896, "iguais mas separados"), Klan e linchamentos. Virada em ***Brown v. Board*** (1954). Ciclo: **Montgomery** (1955–56, 381 dias, **Rosa Parks** — militante formada, não passageira cansada), *sit-ins* (1960), *Freedom Rides* (1961), **Birmingham** (1963), **Marcha sobre Washington** ("Eu tenho um sonho"), **Selma** (1965). Leis: **Civil Rights Act** (1964), **Voting Rights Act** (1965), Fair Housing Act (1968).
+- **King × Malcolm X:** não violência ativa e integração × autodefesa, orgulho e autonomia. Eram **complementares** na prática ("efeito do flanco radical"), e o King tardio — contra a Guerra do Vietnã, a pobreza e o militarismo — é sistematicamente omitido das homenagens oficiais.
+- **Apartheid** (1948–1994): classificação racial oficial, **bantustões**, **lei do passe**. **Sharpeville** (1960), prisão de **Mandela** (27 anos), **Soweto** (1976), sanções internacionais, libertação em 1990, eleições em **1994**, **Comissão da Verdade e Reconciliação** de **Tutu**.
+- **Feminismos:** a metáfora das **ondas** é útil e defeituosa (sugere refluxo, é anglocêntrica, homogeneíza). **Primeira onda**: voto e direitos civis (Brasil, **1932**, **Bertha Lutz**). **Segunda onda**: "o pessoal é político"; **Beauvoir** ("não se nasce mulher, torna-se mulher") e **Friedan**; pílula, divórcio, violência doméstica. **Terceira e quarta**: crítica ao universalismo branco de classe média, redes digitais, #MeToo, *Ni Una Menos*.
+- **Interseccionalidade** (**Crenshaw**, 1989): opressões se entrelaçam, não se somam; nasceu de um problema jurídico concreto. **Angela Davis**, **Lélia Gonzalez** (amefricanidade, racismo por denegação), **Sueli Carneiro**, **Beatriz Nascimento**, **bell hooks**.
+- **Brasil:** feminismo dos anos 1970 entrelaçado à luta contra a **ditadura**; **Constituição de 1988** (igualdade conjugal), Delegacias da Mulher (1985), **Lei Maria da Penha** (2006), Lei do Feminicídio (2015).
+- **1968:** Maio francês (dez milhões em greve), **Primavera de Praga** e invasão soviética, **Tlatelolco** no México, King e Kennedy assassinados nos EUA, **Passeata dos Cem Mil** e **AI-5** no Brasil. Derrota no plano do poder, vitória cultural duradoura, com surgimento dos "**novos movimentos sociais**" — e absorção parcial do impulso libertário pelo capitalismo posterior.
+- **LGBT:** **Stonewall** (1969), com protagonismo apagado de mulheres trans e travestis; despatologização (APA 1973, **OMS 1990**); epidemia de **aids** nos anos 1980; no Brasil, *Lampião da Esquina*, união estável no **STF** (2011), casamento civil (2013), **LGBTfobia** equiparada ao racismo (2019) — ao lado de altíssimos índices de violência.
+- **Ambientalismo:** **Rachel Carson** (*Primavera silenciosa*, 1962), Clube de Roma (1972), **Estocolmo** (1972), relatório **Brundtland** (1987, desenvolvimento sustentável), **Rio-92**, **Kyoto** (1997), **Paris** (2015). **Justiça ambiental**: danos ambientais recaem sobre populações pobres, negras e indígenas; princípio das "**responsabilidades comuns, porém diferenciadas**". No Brasil, **Chico Mendes**, os **empates**, as **reservas extrativistas** e o **socioambientalismo**.
+- **Historiografia:** a "**história vista de baixo**" de **Thompson** e a recusa da "condescendência da posteridade"; a crítica ao **culto dos grandes líderes** (o caso de Montgomery e de Claudette Colvin); o debate **classe × identidade** e a resposta do feminismo negro; e a exigência de **explicitar o critério** ao avaliar se um movimento venceu.
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Domine: (1) a cronologia Jim Crow → Brown → Montgomery → 1964–65; (2) King × Malcolm X sem caricatura; (3) o que era o apartheid e por que caiu; (4) as ondas do feminismo e os limites do esquema; (5) a definição precisa de interseccionalidade e sua origem jurídica; (6) 1968 em cinco países; (7) o socioambientalismo brasileiro e Chico Mendes; (8) por que a narrativa de Rosa Parks foi corrigida.
+:::
+
+**1.** Explique a **segregação racial** nos Estados Unidos e as principais conquistas do movimento por direitos civis.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**O que era a segregação.** Após a abolição (1865) e o fim da Reconstrução, os estados do Sul instituíram, a partir das décadas de 1870–90, as leis **Jim Crow**: separação obrigatória por raça em escolas, transportes, restaurantes, hotéis, hospitais, banheiros, bebedouros e cemitérios, além da proibição de casamentos inter-raciais. Somavam-se a isso os mecanismos de **supressão do voto** — testes de alfabetização aplicados com critério arbitrário, taxas eleitorais, "cláusulas do avô" que isentavam brancos das exigências — e o **terror privado**, exercido pela **Ku Klux Klan** e por linchamentos públicos que somaram milhares de vítimas entre 1880 e 1950, quase sempre impunes.
+
+**A base jurídica.** O caso ***Plessy v. Ferguson*** (1896), no qual a Suprema Corte validou a doutrina "**iguais, mas separados**". Na prática, as instalações destinadas a negros eram sistematicamente inferiores em investimento, instalações e pessoal — o "separados" era rigoroso, o "iguais" era ficção.
+
+**As etapas da conquista.**
+
+1. **Estratégia jurídica.** Construída ao longo de décadas pela **NAACP** e por **Thurgood Marshall**, culminou em ***Brown v. Board of Education*** (**1954**), decisão unânime que declarou a segregação escolar inconstitucional porque instalações separadas são "inerentemente desiguais". A decisão não se aplicou sozinha: em Little Rock (1957) foi preciso enviar tropas federais.
+2. **Ação direta não violenta.** **Boicote de Montgomery** (1955–56), *sit-ins* em balcões de lanchonete (1960), *Freedom Rides* (1961), campanha de **Birmingham** (1963), **Marcha sobre Washington** (1963), marchas de **Selma** (1965).
+3. **Uso estratégico da imagem.** Este item raramente aparece nas respostas e é decisivo: o movimento **escolhia** os locais de confronto onde a repressão seria mais brutal e mais visível. As imagens de cães policiais e jatos de mangueira contra crianças em Birmingham circularam nacional e internacionalmente e produziram a pressão política que viabilizou a legislação federal. Era uma tática deliberada, não uma consequência fortuita.
+
+**As conquistas legais.**
+
+- **Civil Rights Act (1964):** proibiu a discriminação em locais públicos, no emprego e em programas com financiamento federal.
+- **Voting Rights Act (1965):** suprimiu os obstáculos ao voto negro no Sul, com supervisão federal das eleições. O efeito foi imediato e maciço no número de eleitores e de representantes eleitos.
+- **Fair Housing Act (1968):** contra a discriminação na venda e locação de imóveis.
+
+**O balanço, que é o que separa a boa resposta.** As conquistas **jurídicas** foram inequívocas e irreversíveis. As **materiais** ficaram muito aquém: disparidades de renda, patrimônio, educação, saúde e, sobretudo, encarceramento persistem, algumas praticamente estáveis desde os anos 1970. O próprio **King**, em seus últimos anos, deslocou o foco exatamente por perceber isso: passou a denunciar a pobreza, o militarismo e a Guerra do Vietnã, e organizava a Campanha dos Pobres quando foi assassinado, em 1968, em Memphis, apoiando uma greve de garis. A persistência da desigualdade material explica o surgimento, em 2013, do movimento **Black Lives Matter**.
+:::
+
+**2.** Compare as estratégias de **Martin Luther King** e de **Malcolm X**, evitando a oposição simplista entre pacifismo e violência.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**King: não violência ativa e integração.**
+
+- **Base:** cristianismo protestante negro, com forte tradição de organização em igrejas, e o exemplo de **Gandhi** na Índia (@sec-descolonizacao-africa-asia).
+- **Objetivo:** integração plena à sociedade americana, com igualdade de direitos assegurada por lei federal.
+- **Método:** desobediência civil disciplinada — ocupar espaços proibidos, recusar-se a sair, apanhar sem revidar, ser preso.
+- **A lógica tática, que precisa ser explicitada:** a não violência **não** era passividade nem ingenuidade moral. Era um cálculo. Sofrer violência sem revidar, diante de câmeras, transferia o ônus moral inteiramente para o agressor, tornava impossível a narrativa de "confronto entre dois lados" e mobilizava a opinião pública branca do Norte — cujo apoio era **necessário** para aprovar leis no Congresso. Exigia treinamento formal: havia oficinas em que militantes eram xingados e empurrados para aprender a não reagir.
+
+**Malcolm X: autodefesa, orgulho e autonomia.**
+
+- **Base:** experiência urbana do Norte — guetos, desemprego, violência policial — onde não havia leis segregacionistas a derrubar e, ainda assim, a situação era desesperadora. Ligou-se à **Nação do Islã** até 1964.
+- **Objetivo:** menos a integração do que a **autodeterminação** — autonomia econômica, cultural e política, e orgulho negro.
+- **Método:** confronto verbal direto, defesa do direito à **autodefesa armada** "por todos os meios necessários", crítica frontal à liderança moderada.
+- **O argumento central:** de que serve o direito legal de sentar-se num restaurante se não se tem dinheiro para pagar? A ênfase é **material e psicológica**, e não apenas jurídica — daí a insistência na reconstrução da autoestima de um povo ensinado a se odiar.
+- **A revisão final:** após romper com a Nação do Islã e peregrinar a Meca em 1964, onde conviveu com muçulmanos de todas as cores, revisou suas posições sobre a impossibilidade de cooperação inter-racial e passou a enquadrar a luta como questão de **direitos humanos** internacionais. Foi assassinado em fevereiro de 1965 [@malcolmX2011].
+
+**Por que a oposição simplista é errada — o núcleo da questão.**
+
+1. **King não era ingênuo, e Malcolm não pregava agressão.** Um praticava uma tática exigente e calculada; o outro defendia o direito de **se defender** quando atacado — que é diferente de propor ataque.
+2. **Eram complementares na prática.** A existência de uma alternativa radical tornava King **mais aceitável** aos olhos do poder branco: negociar com o moderado passou a ser preferível a enfrentar o radical. Cientistas políticos chamam isso de **efeito do flanco radical**, e ele é observável em muitos movimentos.
+3. **Ambos convergiram no fim da vida.** King radicalizou-se em direção à crítica econômica e anti-imperialista; Malcolm universalizou sua leitura da luta. Os dois foram assassinados, com três anos de distância.
+4. **A memória oficial escolheu um e domesticou-o.** King foi transformado em feriado nacional e em ícone consensual, à custa de suas posições finais sobre pobreza, Vietnã e militarismo — que eram, na época, tão impopulares que lhe custaram apoios importantes. Perceber **o que a memória pública seleciona e o que descarta** é um exercício de análise histórica tão importante quanto o estudo dos fatos (@sec-memoria-patrimonio).
+:::
+
+**3.** Explique o conceito de **interseccionalidade** e sua importância para o estudo dos movimentos sociais.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**A definição.** **Interseccionalidade** é a compreensão de que os sistemas de opressão — racismo, sexismo, exploração de classe, LGBTfobia, capacitismo, xenofobia — não operam de forma isolada nem simplesmente se **somam**: eles se **entrelaçam**, gerando experiências específicas que não podem ser deduzidas de nenhum deles tomado separadamente.
+
+**A origem, que é jurídica e concreta.** O termo foi proposto pela jurista americana **Kimberlé Crenshaw** em 1989, a partir de um problema prático de tribunal. Mulheres negras que processavam empregadores por discriminação perdiam as ações porque o direito exigia enquadrar o caso em **uma** categoria: ou discriminação racial — e a empresa demonstrava que contratava homens negros — ou discriminação de gênero — e a empresa demonstrava que contratava mulheres brancas. A discriminação real ocorria exatamente na **interseção** das duas, e o instrumento jurídico era cego para ela [@crenshaw2002]. A metáfora do cruzamento de vias, de onde vem o nome, descreve isso: um acidente na interseção pode ter vindo de qualquer das direções, ou de ambas.
+
+**A genealogia mais longa.** O conceito nomeou algo que a tradição do pensamento negro já articulava havia mais de um século. **Sojourner Truth**, em 1851, perguntava "*Ain't I a Woman?*" ("Não sou eu uma mulher?") diante de um feminismo que falava de fragilidade feminina enquanto ela trabalhava como um homem no campo. **Angela Davis**, em *Mulheres, raça e classe* (1981), demonstrou historicamente a articulação: analisou os acordos do movimento sufragista americano com o racismo do Sul e recuperou a experiência das mulheres escravizadas, para quem a "esfera doméstica" jamais foi refúgio, mas local de trabalho e de violência [@davis2016].
+
+**No Brasil.** **Lélia Gonzalez** (1935–1994) desenvolveu formulação própria, e não apenas importada: cunhou a noção de **amefricanidade**, para pensar a experiência negra nas Américas em seus próprios termos, e a de **racismo por denegação**, para descrever a forma brasileira do racismo — aquele que se nega enquanto opera, sob o manto da "democracia racial" (@sec-historia-indigena-afrobrasileira). Analisou, além disso, o lugar simbólico reservado à mulher negra na cultura nacional: exaltada como "mulata" no Carnaval e como "mãe preta" na memória afetiva, tratada como empregada doméstica nos outros 363 dias do ano [@gonzalez2020]. **Sueli Carneiro** sintetizou a crítica ao feminismo hegemônico na fórmula "**enegrecer o feminismo**".
+
+**Por que importa para o estudo dos movimentos — três razões.**
+
+1. **Explica cisões internas que de outro modo pareceriam mera divergência pessoal.** Mulheres negras nos movimentos negros dos anos 1970 encontravam machismo; nos movimentos feministas, racismo. A criação de organizações próprias não foi capricho: foi resposta a uma dupla exclusão.
+2. **Refina o diagnóstico e, portanto, a política pública.** Uma política dirigida a "mulheres" que ignore raça e classe tende a beneficiar sobretudo as mulheres brancas de classe média — as mais bem posicionadas para acessá-la. Dados brasileiros de renda, mortalidade materna e violência tornam isso mensurável.
+3. **Impede a hierarquização estéril das opressões.** A pergunta "qual opressão é a principal?" pressupõe que se possa separar o que na experiência concreta é indissociável.
+
+**A crítica que merece registro.** Argumenta-se que a difusão do conceito favoreceu uma fragmentação de identidades cada vez mais específicas, dificultando a construção de maiorias políticas. A resposta usual é que as autoras fundadoras — Davis, Gonzalez, hooks — sempre articularam raça e gênero **à classe** e a projetos coletivos de transformação, e que a versão despolitizada e individualista do conceito é uma deformação posterior, não seu conteúdo original.
+:::
+
+**4.** (Estilo ENEM) Leia o texto:
+
+> "Não se nasce mulher: torna-se mulher. Nenhum destino biológico, psíquico, econômico define a forma que a fêmea humana assume no seio da sociedade; é o conjunto da civilização que elabora esse produto intermediário entre o macho e o castrado que qualificam de feminino."
+>
+> — Simone de Beauvoir, *O segundo sexo* [@beauvoir2016]
+
+A tese central expressa no trecho é a de que
+
+**(a)** as diferenças entre homens e mulheres decorrem de determinações biológicas imutáveis.
+**(b)** o que se entende por "feminino" é uma construção histórica e social, e não uma consequência da natureza.
+**(c)** as mulheres devem renunciar à maternidade para alcançar a emancipação econômica.
+**(d)** a igualdade jurídica entre os sexos é suficiente para eliminar a desigualdade entre eles.
+**(e)** a condição feminina é determinada exclusivamente pela posição de classe da mulher.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Resposta: (b).**
+
+**Por quê.** A frase de Beauvoir é a formulação clássica da distinção entre o dado **biológico** (nascer com determinado corpo) e a construção **social** (tornar-se aquilo que a sociedade chama de "mulher", com seus comportamentos, expectativas, limites e destinos prescritos). O próprio texto explicita a negação: "**nenhum** destino biológico, psíquico, econômico define a forma que a fêmea humana assume" — e a atribuição da causa: "**é o conjunto da civilização** que elabora esse produto".
+
+**Por que as demais estão erradas.**
+
+- **(a)** É exatamente a tese que o trecho **nega**, e a alternativa apenas inverte o sentido do texto — o erro mais comum em questões de interpretação.
+- **(c)** Beauvoir critica a redução da mulher ao papel materno, mas o trecho não trata de maternidade nem propõe renúncia a ela.
+- **(d)** A igualdade jurídica não é o tema do trecho; ao contrário, o argumento aponta para dimensões culturais e subjetivas **que a lei sozinha não alcança** — e essa percepção é justamente o que caracteriza a chamada segunda onda ("o pessoal é político").
+- **(e)** O texto nega expressamente o determinismo **econômico** junto com o biológico e o psíquico.
+
+**O desdobramento histórico, que vale conhecer.** Publicada em **1949**, a obra foi condenada pelo Vaticano e recebida com hostilidade, mas tornou-se a referência intelectual da segunda onda feminista, dos anos 1960–80, que deslocou a pauta dos direitos formais — já em grande parte conquistados na primeira onda — para as relações cotidianas: trabalho doméstico não remunerado, sexualidade, violência, padrões de beleza, divisão do cuidado. A distinção entre **sexo** (biológico) e **gênero** (construção social), formalizada nas décadas seguintes, é herdeira direta dessa frase.
+
+**A ressalva que uma resposta discursiva ganharia em incluir.** A própria Beauvoir foi criticada, décadas depois, por partir da experiência de uma mulher **branca, europeia e intelectual**, tomando-a como universal. É a crítica que o feminismo negro e o feminismo decolonial dirigiram à segunda onda — sem invalidar a tese central da construção social do gênero, mas mostrando que essa construção opera de modos muito diferentes conforme raça, classe e lugar no mundo.
+:::
+
+**5.** Explique o que foi o ***apartheid*** e os fatores que levaram ao seu fim.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**O que foi.** Implantado a partir de **1948** pelo Partido Nacional na **África do Sul**, o *apartheid* (africâner para "separação") foi um sistema de segregação racial **legal, total e administrado pelo Estado**. Não era só proibição de convivência: era engenharia social completa.
+
+- **Classificação racial obrigatória** de toda a população em registro oficial (branco, negro, "colorido", asiático), com uma burocracia dedicada a decidir casos duvidosos.
+- **Proibição de casamentos e relações inter-raciais.**
+- **Segregação territorial:** áreas urbanas reservadas a brancos; remoções forçadas de comunidades inteiras.
+- **Bantustões:** os negros — cerca de 80% da população — foram formalmente atribuídos a "pátrias" tribais declaradas independentes, perdendo a cidadania sul-africana. Esses territórios somavam uma fração mínima do país, eram economicamente inviáveis e não foram reconhecidos por nenhum outro Estado.
+- **Lei do passe:** obrigava negros a portar documento autorizando sua presença nas áreas brancas — onde, note-se a contradição estrutural, eles trabalhavam, sustentando toda a economia. O sistema precisava simultaneamente **excluir** politicamente e **incluir** como mão de obra barata.
+- Educação separada e deliberadamente inferior, salários desiguais, proibição de sindicatos negros.
+
+**A resistência.**
+
+- O **Congresso Nacional Africano** (CNA) começou com métodos pacíficos: petições, campanhas de desobediência, a Carta da Liberdade (1955).
+- O **massacre de Sharpeville** (março de **1960**), em que a polícia matou 69 manifestantes desarmados que protestavam contra a lei do passe, foi o ponto de inflexão: o CNA foi banido e adotou a luta armada.
+- **Nelson Mandela** foi condenado à prisão perpétua em 1964 (julgamento de Rivonia) e cumpriu **27 anos**, boa parte em Robben Island [@mandela2012].
+- A revolta estudantil de **Soweto** (1976), desencadeada pela imposição do africâner como língua de ensino e reprimida com dezenas de mortes — a fotografia do corpo de Hector Pieterson correu o mundo —, iniciou um período de confronto permanente e ingovernabilidade crescente.
+
+**Por que caiu — cinco fatores combinados.**
+
+1. **Resistência interna insustentável:** greves, boicotes, tornar as cidades negras ingovernáveis, estado de emergência permanente com custo político e econômico crescente.
+2. **Pressão internacional:** sanções econômicas, desinvestimento de empresas e fundos, embargo de armas, boicote esportivo (exclusão das Olimpíadas e do rúgbi internacional) e cultural. O impacto econômico e simbólico foi real e cumulativo.
+3. **Custo militar:** guerras nas fronteiras, sobretudo em Angola e Namíbia, financeiramente ruinosas.
+4. **Fim da Guerra Fria:** o governo perdeu seu principal argumento junto ao Ocidente — o de ser um baluarte anticomunista —, e o CNA perdeu o apoio soviético, o que reduziu o temor branco de uma revolução socialista e tornou a negociação possível para os dois lados.
+5. **Cálculo da elite branca:** com o país à beira do colapso e as sanções apertando, negociar uma transição com garantias tornou-se preferível a resistir até a derrota total.
+
+**O desfecho e a lição.** **Mandela** foi libertado em fevereiro de **1990**; as leis do *apartheid* foram revogadas; em **1994** realizaram-se as primeiras eleições multirraciais, que o elegeram presidente. A **Comissão da Verdade e Reconciliação**, presidida por **Desmond Tutu**, ofereceu anistia **condicionada à confissão pública e completa** dos crimes — modelo estudado no mundo inteiro, comparável e contrastante com o caso brasileiro (@sec-desafios-do-presente).
+
+**O que não se resolveu, e a resposta madura deve dizê-lo.** O fim do *apartheid* **jurídico** não desfez o *apartheid* **econômico**: a África do Sul continua entre os países mais desiguais do mundo, com concentração fundiária e patrimonial que reproduz de perto a divisão racial anterior. A comparação com os Estados Unidos pós-1965 é instrutiva: em ambos os casos, a igualdade legal foi conquistada, e a material, muito menos.
+:::
+
+**6.** Analise o significado histórico de **1968**, considerando ao menos três países.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Por que tantos lugares ao mesmo tempo.** A simultaneidade não é coincidência. Uma geração numerosa, nascida no *baby boom* do pós-guerra, chegava às universidades em números inéditos; a televisão e a cultura jovem — música, cinema, moda — circulavam internacionalmente; e o crescimento econômico da Era de Ouro tornava cada vez mais dissonante o autoritarismo persistente de famílias, escolas, universidades, partidos e Estados. A Guerra do Vietnã (@sec-conflitos-guerra-fria) forneceu um símbolo comum de indignação.
+
+**França — Maio de 68.** Começou com protestos estudantis em Nanterre e no Quartier Latin, contra a rigidez universitária, o autoritarismo e a guerra; a repressão brutal às barricadas gerou solidariedade e escalou o conflito, que se converteu na maior greve geral da história francesa, com cerca de **dez milhões** de trabalhadores parados. **De Gaulle** chegou a deixar o país por algumas horas para assegurar-se do apoio militar. As eleições de junho deram vitória à direita: **derrota política, vitória cultural** — mudaram costumes, relações de autoridade, educação e o lugar da sexualidade no debate público.
+
+**Tchecoslováquia — Primavera de Praga.** **Alexander Dubček** promoveu reformas para um "socialismo com face humana": fim da censura, reabilitação de vítimas dos expurgos, descentralização econômica. Em agosto, tropas do **Pacto de Varsóvia** invadiram o país e encerraram a experiência (@sec-crise-do-socialismo-real). Consequência de longo alcance: o episódio afastou definitivamente do modelo soviético grande parte da esquerda ocidental, acelerando o surgimento de novas correntes ("eurocomunismo", nova esquerda) que buscavam socialismo **sem** o exemplo da URSS.
+
+**México — Tlatelolco.** Dez dias antes da abertura das **Olimpíadas** da Cidade do México, em **2 de outubro**, o Exército abriu fogo contra uma manifestação estudantil na praça das Três Culturas. O número de mortos jamais foi estabelecido — estimativas vão de dezenas a centenas —, e o Estado ocultou a informação por décadas. O caso mostra a vulnerabilidade das versões oficiais e a importância da abertura de arquivos: o episódio permanece como ferida e como objeto de disputa historiográfica no México.
+
+**Brasil.** Passeatas estudantis contra a ditadura, com a **Passeata dos Cem Mil** no Rio em junho; greves operárias em **Osasco** e **Contagem**, as primeiras grandes desde 1964; efervescência cultural intensa — Tropicália, Cinema Novo, teatro; e, em **13 de dezembro**, o **AI-5**, que fechou o Congresso, suspendeu o *habeas corpus* para crimes políticos, autorizou cassações e instaurou censura prévia, inaugurando a fase mais repressiva do regime (@sec-ditadura-militar). É por isso que, no Brasil, 1968 tem um duplo sentido: **auge da mobilização e início do período mais duro** [@ventura2008].
+
+**Estados Unidos.** Assassinatos de **Martin Luther King** (abril) e **Robert Kennedy** (junho); revoltas urbanas em mais de cem cidades; a Ofensiva Tet no Vietnã abalando a confiança na guerra; ocupação da Universidade Columbia; e a violenta repressão policial aos protestos durante a convenção democrata em Chicago.
+
+**O balanço historiográfico.**
+
+- **No plano do poder de Estado: derrota.** Nenhum governo caiu; De Gaulle venceu; Praga foi invadida; no Brasil e no México a repressão se aprofundou.
+- **No plano cultural e social: transformação profunda e duradoura.** Relações de autoridade, costumes, sexualidade e educação mudaram. Sobretudo, consolidaram-se os "**novos movimentos sociais**" — feminista, ambientalista, homossexual, étnico —, que deslocaram o eixo da política da fábrica e do partido para a **vida cotidiana** e a identidade.
+- **A ironia registrada pela pesquisa recente:** parte do impulso libertário de 1968 — autonomia, criatividade, recusa da hierarquia rígida, trabalho como realização pessoal — foi **incorporada** pela gestão empresarial das décadas seguintes, muitas vezes com perda das proteções coletivas que a rigidez anterior garantia. Não é um argumento contra 1968; é um caso exemplar de que movimentos históricos produzem efeitos que seus protagonistas não previram nem desejaram.
+:::
+
+**7.** (Estilo vestibular) Explique a especificidade do **ambientalismo brasileiro**, com base na trajetória de **Chico Mendes**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**O contexto internacional.** O ambientalismo contemporâneo nasceu nos países ricos nos anos 1960, com **Rachel Carson** e *Primavera silenciosa* (1962) [@carson2010], e organizou-se em torno da **preservação** — proteger a natureza da ação humana, criar parques, reduzir poluição. Um de seus pressupostos implícitos, nem sempre examinado, era a separação entre "natureza" e "sociedade", com áreas naturais idealmente **desabitadas**.
+
+**A especificidade brasileira.** No Brasil, a questão ambiental apareceu desde o início ligada a **conflitos sociais por terra e por meios de vida**, protagonizados por populações que **vivem dentro** das áreas ameaçadas: seringueiros, indígenas, ribeirinhos, quilombolas, pescadores artesanais, quebradeiras de coco. Isso produziu uma corrente própria, chamada **socioambientalismo**: a proteção do ambiente é inseparável da garantia dos direitos das populações que dele dependem — e essas populações são, frequentemente, as melhores guardiãs do território.
+
+**Chico Mendes (1944–1988).** Seringueiro e sindicalista no **Acre**, alfabetizado tardiamente, tornou-se presidente do sindicato de Xapuri. Enfrentava a expansão da pecuária sobre a floresta, financiada por incentivos fiscais federais desde a ditadura, que derrubava a mata e expulsava os seringueiros.
+
+- **Os "empates".** Sua tática mais original: comunidades inteiras — homens, mulheres e crianças — postavam-se **pacificamente** diante das motosserras e dos tratores, impedindo fisicamente a derrubada sem confronto armado. É desobediência civil, comparável em lógica às táticas de King e de Gandhi, aplicada à floresta.
+- **A proposta.** As **reservas extrativistas** (RESEX): terras públicas destinadas ao uso coletivo de populações extrativistas, que permanecem no território explorando-o de forma sustentável — borracha, castanha, óleos —, o que garante ao mesmo tempo a conservação da floresta e o sustento das famílias. Rompe com o modelo de preservação por esvaziamento humano.
+- **A aliança dos povos da floresta.** Mendes articulou seringueiros e **povos indígenas**, historicamente em conflito, em torno de um interesse comum: a floresta em pé. Foi uma inovação política de grande alcance.
+- **A projeção internacional.** Levou o argumento a Washington e obteve que bancos multilaterais condicionassem financiamentos de estradas na Amazônia a salvaguardas ambientais — o que lhe rendeu inimizades poderosas [@mendes1989].
+
+**O assassinato e o legado.** Foi morto a tiros em 22 de dezembro de **1988**, em Xapuri, a mando de fazendeiros locais, poucos meses depois de a **Constituição de 1988** ter consagrado o meio ambiente como bem de uso comum do povo. A repercussão mundial acelerou a criação das reservas extrativistas — a primeira em 1990 — e ajudou a pautar a **Rio-92**, realizada quatro anos depois no Brasil.
+
+**A conexão com o conceito de justiça ambiental.** O caso ilustra exemplarmente o que se chama de **justiça ambiental** [@acselrad2009]: os danos ambientais não se distribuem de forma neutra, e recaem sobre populações pobres, negras e indígenas — como mostram também **Mariana** (2015) e **Brumadinho** (2019). E os custos de resistir são altíssimos: o Brasil está entre os países que mais assassinam defensores ambientais no mundo, sendo os casos de Chico Mendes, da irmã **Dorothy Stang** (2005) e de **Bruno Pereira** e **Dom Phillips** (2022) os mais conhecidos de uma lista longa.
+
+**A conclusão que a questão espera.** O ambientalismo brasileiro não é uma cópia atrasada do ambientalismo do Norte: é uma **contribuição original**, que articula conservação e justiça social e que hoje influencia o debate internacional, especialmente através do reconhecimento de que territórios indígenas e de comunidades tradicionais são as áreas mais bem conservadas da Amazônia — fato hoje demonstrado por dados de satélite (@sec-historia-indigena-afrobrasileira).
+:::
+
+**8.** Por que a historiografia recente corrigiu a narrativa tradicional sobre **Rosa Parks**, e o que essa correção ensina?
+
+::: {.callout-tip collapse="true" title="Solução"}
+**A narrativa tradicional.** Em 1º de dezembro de 1955, uma costureira negra, cansada após um dia de trabalho, recusou-se espontaneamente a ceder seu assento a um passageiro branco num ônibus de Montgomery, foi presa, e seu gesto individual acendeu o movimento por direitos civis.
+
+**O que a pesquisa estabeleceu.**
+
+1. **Rosa Parks era militante experiente.** Havia doze anos era secretária da seção local da **NAACP**, tendo trabalhado, entre outras coisas, na documentação de casos de violência sexual contra mulheres negras — um trabalho perigoso e pouco lembrado. Meses antes, frequentara um curso de formação em desobediência civil e organização na Highlander Folk School, no Tennessee.
+2. **Ela negou explicitamente a versão do cansaço.** Em sua autobiografia: "As pessoas sempre dizem que não cedi o lugar porque estava cansada. Não é verdade. [...] O único cansaço que eu tinha era de ceder."
+3. **O movimento procurava um caso.** A NAACP local buscava havia meses uma pessoa cuja prisão pudesse sustentar um processo judicial contra a segregação nos transportes.
+4. **Houve casos anteriores, descartados por cálculo.** Meses antes, **Claudette Colvin**, de 15 anos, fora presa nas mesmas circunstâncias, e outras mulheres também. Colvin não foi escolhida como símbolo principalmente porque estava grávida e solteira — decisão que revela a preocupação estratégica do movimento com a **respeitabilidade** aos olhos do público branco cujo apoio buscava. Esse dado, incômodo, é historicamente revelador.
+5. **O boicote foi uma operação logística formidável.** Durou **381 dias**, exigiu um sistema de caronas com centenas de motoristas e pontos de embarque, financiamento, uso das igrejas como estrutura e o trabalho decisivo de mulheres como **Jo Ann Robinson**, que mimeografou e distribuiu 35 mil panfletos numa única noite. A comunidade negra representava cerca de 75% dos passageiros: o boicote atingiu a empresa de transporte onde doía.
+6. **A vitória foi jurídica.** Veio da decisão da Suprema Corte em *Browder v. Gayle* (1956), resultado da estratégia processual — não de uma conversão espontânea da opinião local.
+
+**O que a correção ensina — três lições.**
+
+**1. Direitos não caem do céu, nem resultam de acidentes felizes.** São produto de **organização**: planejamento, formação de quadros, financiamento, escolha de táticas, estratégia jurídica e persistência ao longo de anos. A versão do gesto espontâneo apaga exatamente o que há de aprendível na história.
+
+**2. A pergunta que se faz determina o que se aprende.** "Como uma pessoa extraordinária mudou a história?" produz admiração e nada mais. "**Como se organiza e se sustenta um boicote de 381 dias?**" produz conhecimento transferível. A escolha da pergunta é uma decisão metodológica com consequências políticas.
+
+**3. Mitos fundadores costumam ser conservadores no efeito, mesmo quando celebram causas progressistas.** A imagem da mulher cansada é palatável: individualiza, remove o conflito organizado, transforma a luta contra um sistema em um momento de coragem pessoal. A história real — militância de doze anos, formação política, cálculo estratégico, disciplina coletiva, escolha deliberada da vítima simbólica — é mais desconfortável e infinitamente mais instrutiva.
+
+**A conexão com a historiografia.** É exatamente o programa que **E. P. Thompson** enunciou ao propor resgatar os trabalhadores pobres "da enorme condescendência da posteridade" [@thompson1987]: a **história vista de baixo** não substitui grandes homens por outros grandes homens, mas mostra as pessoas comuns como **sujeitos** que deliberam, planejam e agem (@sec-correntes-historiograficas).
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- DAVIS, Angela. *Mulheres, raça e classe* [@davis2016]. O melhor ponto de entrada para a articulação entre os três eixos; os capítulos sobre o sufragismo e sobre o trabalho doméstico são especialmente fortes.
+- GONZALEZ, Lélia. *Por um feminismo afro-latino-americano* [@gonzalez2020]. Coletânea de uma das pensadoras brasileiras mais originais do século XX, longamente subestimada.
+- hooks, bell. *Teoria feminista: da margem ao centro* [@hooks2019], e BEAUVOIR, Simone de. *O segundo sexo* [@beauvoir2016]. Leia a introdução de Beauvoir mesmo que não leia o resto — são trinta páginas que mudaram o século.
+- PINTO, Céli Regina Jardim. *Uma história do feminismo no Brasil* [@pinto2003], e TELES, Maria Amélia. *Breve história do feminismo no Brasil* [@teles1999]. Curtos, claros e feitos para o leitor brasileiro.
+- MANDELA, Nelson. *Longa caminhada até a liberdade* [@mandela2012]. Autobiografia; leia atento também ao que ela **escolhe** contar.
+- X, Malcolm; HALEY, Alex. *Autobiografia de Malcolm X* [@malcolmX2011]. Um dos grandes livros do século XX, independentemente de concordância política.
+- CARSON, Rachel. *Primavera silenciosa* [@carson2010]. Ciência bem escrita e um caso exemplar de livro que mudou legislações.
+- GREEN, James N. *Além do carnaval* [@green2000]. História da homossexualidade masculina no Brasil do século XX, pesquisa pioneira.
+- VENTURA, Zuenir. *1968: o ano que não terminou* [@ventura2008]. Reportagem histórica sobre o Brasil daquele ano, escrita por quem estava lá.
+- THOMPSON, E. P. *A formação da classe operária inglesa* [@thompson1987]. O prefácio, com a frase sobre a "condescendência da posteridade", é leitura obrigatória para entender a história vista de baixo.
+
+**Fontes primárias**
+
+- A **Carta da prisão de Birmingham** [@king1963]. Escrita nas margens de um jornal, é uma das grandes peças de argumentação do século XX — e sua resposta aos moderados que pediam paciência continua atual.
+- O discurso "**Eu tenho um sonho**" [@kingSonho1963]. Assista ao vídeo, não leia apenas: a segunda metade foi improvisada.
+- A **Lei Maria da Penha** [@leiMariaDaPenha2006] e o **Acordo de Paris** [@acordoParis2015]. Leia os primeiros artigos de cada um e observe as definições que estabelecem.
+
+**Filmes e documentários**
+
+- *Selma* (2014), dir. Ava DuVernay, e *A 13ª Emenda* (2016), da mesma diretora, sobre a linha que liga a escravidão ao encarceramento em massa.
+- *Estrelas além do tempo* (2016) e *Malcolm X* (1992), dir. Spike Lee.
+- *Invictus* (2009), dir. Clint Eastwood, sobre a África do Sul de 1995 — e sobre o uso político do esporte.
+- *AmarElo* (2020), dir. Emicida, e *Ilha das Flores* (1989), dir. Jorge Furtado: treze minutos que ensinam mais sobre desigualdade e meio ambiente do que muitos livros.
+- *Chico Mendes: eu quero viver* (1989) e *Uma noite em Miami* (2020), este último uma ficção sobre um encontro real entre Malcolm X, Muhammad Ali, Sam Cooke e Jim Brown — e sobre as estratégias em disputa dentro do movimento negro.

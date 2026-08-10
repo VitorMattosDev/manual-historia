@@ -196,7 +196,7 @@
 |---|----------|---------|--------|
 | 1 | Globalização e neoliberalismo | `capitulos/vol15/cap01-globalizacao-neoliberalismo.qmd` | ✅ |
 | 2 | A Nova Ordem Mundial e os conflitos do século XXI | `capitulos/vol15/cap02-nova-ordem-mundial.qmd` | ✅ |
-| 3 | Movimentos por direitos: civis, feministas e ambientais | `capitulos/vol15/cap03-movimentos-por-direitos.qmd` | ⬜ |
+| 3 | Movimentos por direitos: civis, feministas e ambientais | `capitulos/vol15/cap03-movimentos-por-direitos.qmd` | ✅ |
 | 4 | Tecnologia, informação e a sociedade em rede | `capitulos/vol15/cap04-sociedade-em-rede.qmd` | ⬜ |
 | 5 | História indígena e afro-brasileira | `capitulos/vol15/cap05-historia-indigena-afrobrasileira.qmd` | ⬜ |
 | 6 | Desafios do presente: democracia, memória e negacionismo | `capitulos/vol15/cap06-desafios-do-presente.qmd` | ⬜ |
