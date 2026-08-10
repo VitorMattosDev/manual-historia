@@ -1,5 +1,518 @@
 # História indígena e afro-brasileira {#sec-historia-indigena-afrobrasileira}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Se você estudou no Brasil, é provável que tenha aprendido que os portugueses "descobriram" o Brasil em 1500 e "encontraram" índios; que os africanos "vieram" para trabalhar; e que, exceto por Zumbi e talvez um capítulo sobre a Semana do Índio, negros e indígenas praticamente desapareceram da narrativa depois de 1888. Duas leis mudaram isso: a **Lei 10.639**, de 2003, tornou obrigatório o ensino de história e cultura **afro-brasileira** em todas as escolas do país; a **Lei 11.645**, de 2008, acrescentou a história e a cultura **indígena** [@lei10639; @lei11645]. Não foram leis sobre currículo apenas — foram o reconhecimento oficial de que a versão anterior estava **errada**, e não meramente incompleta. Este capítulo trata do que a pesquisa das últimas décadas descobriu e de por que essas descobertas demoraram tanto a chegar às salas de aula.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- explicar a virada da **nova história indígena** e o conceito de **protagonismo** ou **agência** indígena;
+- reconstituir a política indigenista brasileira: **SPI**, **Relatório Figueiredo**, **Funai**, **Estatuto do Índio** e a ditadura;
+- analisar o **artigo 231** da Constituição de 1988 e o processo de demarcação, incluindo **Raposa Serra do Sol** e a tese do **marco temporal**;
+- caracterizar o **pós-abolição** e a persistência da desigualdade racial;
+- explicar o **racismo científico**, a política de **branqueamento** e o mito da **democracia racial**;
+- reconstituir o movimento negro brasileiro: **Frente Negra**, **TEN**, **MNU** e o movimento contemporâneo;
+- explicar as **políticas de ação afirmativa** — cotas, quilombolas, Estatuto da Igualdade Racial — e os argumentos em disputa;
+- discutir a historiografia: **Freyre**, **Florestan Fernandes**, o **Projeto Unesco**, **Beatriz Nascimento**, **Lélia Gonzalez** e **Manuela Carneiro da Cunha**.
 :::
+
+## A virada da história indígena {#sec-nova-historia-indigena}
+
+Durante quase toda a história da historiografia brasileira, os povos indígenas apareceram de dois modos, ambos como não sujeitos: como **obstáculo** ao progresso ou como **vítima** passiva de um processo que os atropelava. Em ambos os casos, sua história terminava no século XVI, e o que restava era assunto de antropólogos, não de historiadores.
+
+A virada é datável. Em 1992 — ano do quinto centenário da chegada de Colombo à América, que mobilizou revisões em todo o continente —, a antropóloga **Manuela Carneiro da Cunha** organizou a *História dos índios no Brasil*, obra coletiva que reuniu historiadores, antropólogos, arqueólogos e linguistas e estabeleceu um programa novo [@cunhaManuela1992]. Suas teses centrais:
+
+1. **Os povos indígenas têm história**, e não apenas "cultura" congelada. Mudaram, migraram, guerrearam entre si, formaram e desfizeram alianças, adotaram e rejeitaram tecnologias, muito antes e muito depois de 1500.
+2. **Foram sujeitos das relações com os europeus, não apenas objetos.** Fizeram alianças estratégicas, escolheram lados nas guerras coloniais, negociaram, usaram os tribunais portugueses, converteram-se por conveniência, fugiram, resistiram e, muitas vezes, integraram-se em seus próprios termos.
+3. **A "extinção" foi frequentemente um efeito de registro, não de desaparecimento.** Muitos grupos declarados extintos haviam se deslocado, se misturado ou deixado de ser reconhecidos como indígenas por autoridades interessadas em liberar terras. O crescimento da população autodeclarada indígena nos censos recentes deve-se em grande parte a **reemergência étnica**: grupos que reafirmam publicamente uma identidade antes ocultada como estratégia de sobrevivência.
+
+::: {.callout-important title="Três erros correntes sobre os povos indígenas"}
+1. **Falar em "o índio", no singular.** Havia, em 1500, entre mil e mil e quinhentos povos distintos, com línguas mutuamente incompreensíveis, organizações sociais, religiões e economias diferentes. Hoje o **IBGE** registra mais de 300 povos e cerca de 270 línguas indígenas faladas no Brasil. Dizer "o índio" é como dizer "o europeu" e supor que suecos e sicilianos são a mesma coisa.
+2. **Supor que o indígena "verdadeiro" é o que vive isolado e sem tecnologia.** Essa é a armadilha mais comum, e ela é politicamente perigosa: sob a premissa de que quem usa celular, dirige caminhonete ou tem diploma "deixou de ser índio", nega-se identidade — e, com ela, direitos territoriais. Nenhum povo do mundo é obrigado a permanecer congelado no tempo para continuar sendo ele mesmo. Como observa **Manuela Carneiro da Cunha**, culturas não são conjuntos fixos de traços, e sim modos de organizar e reinterpretar continuamente o que chega de fora [@cunhaManuela2009]. Os portugueses adotaram a pólvora chinesa e o algarismo indo-arábico sem deixar de ser portugueses.
+3. **Tratar 1500 como o início da história do território.** Há evidências de ocupação humana no Brasil de pelo menos 12 mil anos, com sítios como Lagoa Santa e a Serra da Capivara, e sociedades complexas na Amazônia — geoglifos no Acre, ilha de Marajó, **terra preta de índio** — que indicam populações numerosas e manejo sofisticado da floresta (@sec-pre-historia-brasil-america) [@funariNoelli2018].
+:::
+
+## Política indigenista: do SPI ao Estatuto {#sec-politica-indigenista}
+
+**O SPI (1910).** O **Serviço de Proteção aos Índios**, criado sob influência do positivismo e dirigido inicialmente pelo marechal **Cândido Rondon** — ele próprio descendente de indígenas —, representou um avanço em relação ao extermínio explícito e adotou o lema "morrer se preciso for, matar nunca". Mas seu pressuposto era **integracionista**: os indígenas eram considerados transitoriamente incapazes, sob **tutela** do Estado, e destinados a se tornar trabalhadores rurais nacionais. A proteção era pensada como acompanhamento de um desaparecimento inevitável.
+
+**O Relatório Figueiredo (1967).** Em 1967, o procurador **Jader de Figueiredo Correia** entregou um relatório de mais de sete mil páginas, resultado de inspeções em postos do SPI por todo o país. O documento descrevia crimes cometidos por funcionários e por particulares com sua conivência: assassinatos em massa, inclusive com uso de dinamite lançada de avião e de alimentos envenenados; inoculação deliberada de doenças; escravização, torturas, cárcere privado e violência sexual; e apropriação de terras e de recursos. O relatório desapareceu por décadas — dado como perdido em um incêndio — e foi reencontrado em 2013, durante os trabalhos da Comissão Nacional da Verdade [@relatorioFigueiredo1967]. O SPI foi extinto em 1967 e substituído pela **Funai**.
+
+**A ditadura militar.** O relatório da **Comissão Nacional da Verdade** (2014) dedicou um capítulo específico aos povos indígenas e estimou em pelo menos **8.350** os indígenas mortos em decorrência direta de ações ou omissões do Estado entre 1946 e 1988 — número que a própria comissão considerou subestimado [@cnv2014]. As causas: abertura de estradas na Amazônia (Transamazônica, BR-163, Perimetral Norte) sem qualquer consulta; remoções forçadas; epidemias resultantes de contatos provocados; instalações de detenção e trabalho forçado para indígenas, como o Reformatório Krenak, em Minas Gerais; e a violência de grileiros e fazendeiros com apoio ou omissão oficial (@sec-ditadura-militar).
+
+**O Estatuto do Índio (1973).** A lei manteve o regime **tutelar** e o horizonte **integracionista**, classificando os indígenas como "isolados", "em vias de integração" e "integrados" — ou seja, tratando a integração como destino e a identidade indígena como fase transitória [@estatutoIndio1973]. Foi, contudo, também um instrumento de garantias territoriais, e vários de seus dispositivos permanecem em vigor no que não contrariam a Constituição de 1988.
+
+**A organização do movimento indígena.** A partir dos anos 1970, com apoio de setores da Igreja Católica ligados ao Cimi e de antropólogos, formaram-se as primeiras assembleias de líderes indígenas — encontros inéditos entre povos que antes não dialogavam entre si. Lideranças como **Mário Juruna**, primeiro deputado federal indígena (eleito em 1982, célebre por gravar as promessas dos políticos), **Ailton Krenak**, **Raoni Metuktire** e **Álvaro Tukano** projetaram-se nacional e internacionalmente. Na Assembleia Constituinte, em 1987, Krenak fez um discurso enquanto pintava o rosto de preto com pasta de jenipapo, gesto de luto que foi transmitido pela televisão e se tornou uma das imagens mais fortes do processo constituinte [@munduruku2012].
+
+## A Constituição de 1988 e a questão territorial {#sec-constituicao-1988-indigena}
+
+O **artigo 231** da Constituição de 1988 é uma ruptura de paradigma, e vale ler com atenção o que ele estabelece:
+
+> São reconhecidos aos índios sua **organização social, costumes, línguas, crenças e tradições**, e os **direitos originários** sobre as terras que tradicionalmente ocupam, competindo à União demarcá-las, proteger e fazer respeitar todos os seus bens.
+
+::: {.callout-note title="Por que o artigo 231 muda tudo"}
+Três mudanças conceituais, todas com efeitos jurídicos concretos:
+
+1. **Fim do integracionismo.** A Constituição reconhece o direito dos povos indígenas de **permanecerem indígenas**, com suas próprias formas de organização. A identidade deixa de ser uma etapa transitória rumo à assimilação.
+2. **"Direitos originários".** A expressão significa que o direito à terra é **anterior** ao próprio Estado brasileiro e não deriva de concessão dele. A demarcação apenas **reconhece e delimita** um direito preexistente — é declaratória, não constitutiva. Essa é a base jurídica de quase toda a disputa territorial contemporânea.
+3. **Fim da tutela.** O Ministério Público passou a ser o defensor dos direitos indígenas, e os próprios povos e suas organizações ganharam legitimidade para ingressar em juízo — deixaram de precisar de um tutor para falar por eles.
+
+A Constituição fixou prazo de cinco anos para concluir todas as demarcações. Mais de trinta anos depois, o processo permanece inacabado.
+:::
+
+**Raposa Serra do Sol e o marco temporal.** A demarcação da terra indígena **Raposa Serra do Sol**, em Roraima, homologada em 2005, foi contestada judicialmente por arrozeiros e por políticos locais. Em **2009**, o **STF** confirmou a demarcação em área contínua, mas estabeleceu na decisão uma série de condicionantes, entre elas a chamada tese do **marco temporal**: só teriam direito às terras os povos que estivessem nelas — ou em disputa judicial por elas — em **5 de outubro de 1988**, data da promulgação da Constituição.
+
+A tese tornou-se o centro do conflito fundiário brasileiro contemporâneo. Os **críticos** apontam que ela ignora a história: muitos povos foram **expulsos à força** de seus territórios exatamente nas décadas anteriores a 1988, por obras públicas, grilagem e violência — de modo que a tese premiaria quem os expulsou e puniria quem foi expulso; e que ela contradiz a noção de "direitos originários", que são por definição anteriores a qualquer data. Os **defensores** argumentam que a segurança jurídica exige um marco objetivo, sem o qual não haveria limite para novas reivindicações, e que a data escolhida é a da própria Constituição. Em **2023**, o STF julgou a tese **inconstitucional**; no mesmo ano, o Congresso aprovou lei que a incorporava, e a disputa entre os poderes prosseguiu. É um caso vivo e exemplar de como interpretações da **história** produzem efeitos jurídicos diretos — e de por que a pesquisa histórica sobre remoções e expulsões passou a ser prova em processos judiciais.
+
+**Dados e reemergência.** Segundo o Censo 2022, o Brasil tem cerca de **1,7 milhão** de pessoas indígenas, de mais de 300 povos, falando cerca de 270 línguas — a maioria delas em risco de desaparecimento. Cerca de dois terços vivem em terras indígenas demarcadas; um terço vive em cidades, o que desmente a associação automática entre identidade indígena e isolamento. Dados de satélite mostram consistentemente que **terras indígenas demarcadas apresentam as menores taxas de desmatamento da Amazônia**, incluindo áreas de proteção integral — evidência empírica que reposicionou o debate ambiental (@sec-movimentos-por-direitos). Em **2023**, foi criado o **Ministério dos Povos Indígenas**, chefiado por **Sonia Guajajara**, e **Joenia Wapichana** tornou-se a primeira mulher indígena a presidir a Funai, após ter sido, em 2018, a primeira deputada federal indígena.
+
+::: {#fig-linha-do-tempo-indigena-afro}
+
+```{.tikz}
+%%| filename: fig-linha-do-tempo-indigena-afro
+%%| alt: Linha do tempo dos marcos da história indígena e afro-brasileira, de 1888 a 2023, com abolição, Frente Negra, Lei Afonso Arinos, Estatuto do Índio, MNU, Constituição de 1988, Lei 10.639, cotas e Ministério dos Povos Indígenas.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \fill[manualgray!16, rounded corners] (0.3,-1.5) rectangle (5.0,-0.55);
+  \node[text=manualgray!45!black, font=\scriptsize\bfseries, align=center] at (2.65,-1.02) {pós-abolição e\\ branqueamento};
+  \fill[manualred!13, rounded corners] (5.2,-1.5) rectangle (9.4,-0.55);
+  \node[text=manualred, font=\scriptsize\bfseries, align=center] at (7.3,-1.02) {tutela, integracionismo\\ e violência de Estado};
+  \fill[manualgreen!16, rounded corners] (9.6,-1.5) rectangle (15.0,-0.55);
+  \node[text=manualgreen!45!black, font=\scriptsize\bfseries, align=center] at (12.3,-1.02) {reconhecimento de direitos e ação afirmativa};
+
+  \draw[eixo] (0,0) -- (15.2,0);
+  \node[eixo, gray] at (15.2,-0.42) {tempo (fora de escala)};
+
+  \node[ponto] at (0.9,0) {};
+  \node[below, align=center] at (0.9,-0.18) {\textbf{1888--1910}};
+  \node[above, align=center, text=manualgray!40!black] at (0.9,0.2) {\textbf{Abolição} sem\\ reparação\\ \textbf{SPI} (1910)};
+
+  \node[ponto] at (2.7,0) {};
+  \node[below, align=center] at (2.7,-0.18) {\textbf{1931--33}};
+  \node[above, align=center, text=manualgray!40!black] at (2.7,0.2) {\textbf{Frente Negra}\\ \textbf{Brasileira}\\ \textit{Casa-grande}\\ \textit{\& senzala}};
+
+  \node[ponto] at (4.5,0) {};
+  \node[below, align=center] at (4.5,-0.18) {\textbf{1944--51}};
+  \node[above, align=center, text=manualblue] at (4.5,0.2) {\textbf{TEN} (Abdias)\\ \textbf{Lei Afonso}\\ \textbf{Arinos} (1951)\\ Projeto \textbf{Unesco}};
+
+  \node[ponto] at (6.3,0) {};
+  \node[below, align=center] at (6.3,-0.18) {\textbf{1964--67}};
+  \node[above, align=center, text=manualred] at (6.3,0.2) {ditadura\\ \textbf{Relatório}\\ \textbf{Figueiredo} (1967)\\ Funai};
+
+  \node[ponto] at (8.0,0) {};
+  \node[below, align=center] at (8.0,-0.18) {\textbf{1973--78}};
+  \node[above, align=center, text=manualred] at (8.0,0.2) {\textbf{Estatuto do}\\ \textbf{Índio} (1973)\\ \textbf{MNU} (1978)};
+
+  \node[ponto] at (9.9,0) {};
+  \node[below, align=center] at (9.9,-0.18) {\textbf{1988}};
+  \node[above, align=center, text=manualgreen!45!black] at (9.9,0.2) {\textbf{Constituição}\\ art. \textbf{231} $\cdot$ art. \textbf{68 ADCT}\\ racismo = crime\\ \textbf{inafiançável}};
+
+  \node[ponto] at (11.7,0) {};
+  \node[below, align=center] at (11.7,-0.18) {\textbf{2003--08}};
+  \node[above, align=center, text=manualgreen!45!black] at (11.7,0.2) {\textbf{Lei 10.639}\\ \textbf{Lei 11.645}\\ Seppir};
+
+  \node[ponto] at (13.4,0) {};
+  \node[below, align=center] at (13.4,-0.18) {\textbf{2009--12}};
+  \node[above, align=center, text=manualblue] at (13.4,0.2) {\textbf{Raposa Serra}\\ \textbf{do Sol} (STF)\\ \textbf{Lei de Cotas}\\ (2012)};
+
+  \node[ponto] at (14.9,0) {};
+  \node[below, align=center] at (14.9,-0.18) {\textbf{2023}};
+  \node[above, align=center, text=manualgreen!45!black] at (14.9,0.2) {\textbf{Ministério dos}\\ \textbf{Povos Indígenas}\\ marco temporal\\ julgado no STF};
+\end{tikzpicture}
+```
+
+Marcos da história indígena e afro-brasileira, da abolição aos dias atuais.
+:::
+
+## O pós-abolição: liberdade sem reparação {#sec-pos-abolicao}
+
+A **Lei Áurea** (13 de maio de 1888) tem 24 palavras e dois artigos. Declara extinta a escravidão e revoga as disposições em contrário. Não menciona terra, indenização, crédito, educação, trabalho ou qualquer forma de reparação — nem para os libertos, é preciso registrar, nem para os proprietários, o que gerou a adesão de parte da elite escravista à República no ano seguinte (@sec-crise-do-imperio).
+
+O contraste histórico é revelador: nos Estados Unidos, discutiu-se seriamente a distribuição de terras aos libertos (a promessa dos "40 acres e uma mula", em boa parte revogada); no Haiti, a revolução produziu redistribuição fundiária; na Jamaica e em outras colônias britânicas, houve indenização — **aos senhores**. No Brasil, não houve política pública alguma dirigida à população recém-libertada, e as políticas efetivamente adotadas foram, em vários casos, **contrárias** a ela.
+
+**O que se fez em vez de reparação.**
+
+- **Imigração subsidiada.** O Estado brasileiro custeou passagens e instalação de centenas de milhares de europeus para trabalhar nas lavouras de café (@sec-escravidao-abolicao-imigracao). O trabalhador negro liberto, já disponível e experiente, não recebeu nada equivalente — e a preferência dos fazendeiros pelo imigrante branco tinha, além do cálculo econômico, um componente racial explícito na documentação da época.
+- **Branqueamento.** Não é uma metáfora crítica: era **política de Estado declarada**. Baseava-se nas teorias raciais europeias do século XIX, e a projeção mais célebre é a de João Baptista de Lacerda, diretor do Museu Nacional, que em conferência internacional em Londres (1911) previu que o Brasil se tornaria majoritariamente branco em cerca de um século, por miscigenação e imigração europeia. Decretos de 1890 e da década de 1940 restringiram a imigração africana e asiática. **Lilia Schwarcz** documentou como o racismo científico foi produzido e difundido pelas instituições brasileiras — museus, faculdades de medicina e de direito, institutos históricos — entre 1870 e 1930 [@schwarcz1993].
+- **Criminalização de práticas culturais.** O Código Penal de 1890 criminalizou a capoeira, e o "curandeirismo" e as religiões de matriz africana foram sistematicamente reprimidos pela polícia por décadas. A vadiagem — a condição de estar sem trabalho comprovado — era contravenção, aplicada de forma seletiva.
+- **Ausência de acesso à terra e à educação.** Sem propriedade, sem escola e sem crédito, a população negra foi empurrada para os piores empregos e para as periferias urbanas, num processo que estruturou a segregação socioespacial das cidades brasileiras até hoje.
+
+**As consequências mensuráveis.** Os indicadores contemporâneos brasileiros mostram desigualdades sistemáticas por cor: renda média, escolaridade, mortalidade infantil e materna, expectativa de vida, taxa de homicídio de jovens, composição da população carcerária e representação em cargos de direção. Como observa **Silvio Almeida**, o **racismo estrutural** não depende da intenção consciente de indivíduos: opera pela reprodução normal de instituições e de mecanismos de acesso a recursos que já nasceram desiguais [@almeida2019].
+
+## O mito da democracia racial {#sec-democracia-racial}
+
+::: {.callout-warning title="A tese mais influente e mais disputada da história do pensamento brasileiro"}
+Em *Casa-grande & senzala* (1933), **Gilberto Freyre** rompeu com o racismo científico ao substituir a explicação **racial** pela **cultural**: a suposta inferioridade não vinha da raça, mas de condições sociais e sanitárias. Valorizou positivamente a contribuição africana e indígena à formação brasileira e descreveu uma sociedade constituída pelo intercâmbio íntimo entre casa-grande e senzala [@freyre2003]. Para os padrões de 1933, com a eugenia em alta no mundo inteiro (@sec-totalitarismos), foi uma ruptura importante e corajosa.
+
+**O problema.** Ao enfatizar a intimidade, a miscigenação e a suposta brandura das relações, a obra ofereceu matéria-prima para a tese de que o Brasil seria uma **democracia racial** — sociedade sem preconceito, em contraste com os Estados Unidos segregados e com a África do Sul do *apartheid*. Convertida em ideologia oficial, sobretudo a partir do Estado Novo (@sec-era-vargas), essa tese teve um efeito político preciso: **tornou o racismo indizível**. Se não há racismo, quem denuncia está inventando, exagerando ou, pior, "trazendo para o Brasil um problema americano". A desigualdade passa a ser explicada apenas por classe, e o negro pobre é pobre por acaso histórico, não por discriminação.
+
+**Duas precisões que uma boa resposta faz.** Primeira: Freyre não usou a expressão "democracia racial" em 1933, e a fórmula consolidou-se depois, por apropriação. Segunda: reconhecer os problemas da obra não exige negar sua importância — foi um livro que deslocou o eixo do debate brasileiro e continua a ser leitura obrigatória, inclusive para entender **como** se constrói uma ideologia nacional a partir de um trabalho intelectual sério.
+:::
+
+**O Projeto Unesco.** Aqui está uma das ironias mais instrutivas da história intelectual brasileira. Nos anos 1950, a **Unesco** financiou uma ampla pesquisa sobre relações raciais no Brasil, motivada precisamente pelo prestígio internacional da imagem de harmonia racial brasileira: a organização, recém-criada em resposta ao nazismo, queria **estudar e divulgar** o caso de sucesso. Reuniram-se pesquisadores brasileiros e estrangeiros — Roger Bastide, **Florestan Fernandes**, Oracy Nogueira, Thales de Azevedo, Costa Pinto — em estudos no Rio, em São Paulo, na Bahia e no Recife.
+
+O resultado foi o oposto do esperado. As pesquisas documentaram discriminação sistemática no emprego, na escola, no casamento e no acesso a espaços públicos, e concluíram que a "democracia racial" era um **mito** — no sentido preciso de uma representação socialmente eficaz que ocultava a realidade [@unescoProjeto2011]. **Florestan Fernandes**, em *A integração do negro na sociedade de classes* (1964), formulou o achado que se tornou clássico: no Brasil, existe "o preconceito de ter preconceito" — a discriminação convive com a negação sincera de que ela exista [@fernandes2008]. **Oracy Nogueira** acrescentou a distinção que continua sendo a chave analítica mais útil do tema: nos Estados Unidos vigora um preconceito de **origem** (basta ter um ancestral negro para ser classificado como negro); no Brasil, um preconceito de **marca** (a discriminação incide sobre a aparência física, em gradações), o que produz uma classificação racial fluida e uma discriminação igualmente real.
+
+**Lélia Gonzalez** deu a esse fenômeno sua formulação mais precisa: **racismo por denegação** — o racismo que opera **negando-se** [@gonzalez2020]. E **Abdias do Nascimento**, em *O genocídio do negro brasileiro* (1978), radicalizou a crítica: a miscigenação celebrada seria, em sua leitura, um projeto de eliminação da população negra por absorção, e a "democracia racial" a máscara desse processo [@nascimentoAbdias2016].
+
+::: {#fig-democracia-racial}
+
+```{.tikz}
+%%| filename: fig-democracia-racial
+%%| alt: Diagrama do debate sobre a democracia racial no Brasil, de Freyre ao Projeto Unesco e à crítica de Florestan Fernandes, Nogueira, Gonzalez e Abdias do Nascimento.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \node[draw, thick, rounded corners, fill=manualgray!16, align=left, text width=13.6cm] (a) at (0,3.9)
+    {\textbf{ANTES (1870--1930): RACISMO CIENTÍFICO}\\ A desigualdade é explicada pela \textbf{raça}. Diagnóstico das elites: a miscigenação seria a ``doença'' brasileira.\\ Política de Estado correspondente: \textbf{branqueamento} --- imigração europeia subsidiada e restrições à imigração africana e asiática.};
+
+  \node[draw, thick, rounded corners, fill=manualyellow!24, align=left, text width=13.6cm] (f) at (0,1.85)
+    {\textbf{1933 --- GILBERTO FREYRE}, \textit{Casa-grande \& senzala}\\ Substitui a explicação \textbf{racial} pela \textbf{cultural} e valoriza as contribuições africana e indígena. \textbf{Ruptura real} com a eugenia.\\ \textbf{Mas:} a ênfase na intimidade e na miscigenação alimenta a tese de um Brasil \textbf{sem preconceito}, convertida em\\ ideologia oficial a partir do Estado Novo. Efeito político: o racismo torna-se \textbf{indizível}.};
+
+  \draw[vetor, thick, manualgray] (a) -- (f);
+
+  \node[draw, very thick, rounded corners, fill=manualblue!14, align=left, text width=13.6cm] (u) at (0,-0.35)
+    {\textbf{ANOS 1950 --- PROJETO UNESCO: a ironia fundadora}\\ A Unesco financia a pesquisa para \textbf{estudar e divulgar} um caso de harmonia racial, após o nazismo.\\ Bastide, \textbf{Florestan Fernandes}, \textbf{Oracy Nogueira}, Thales de Azevedo e Costa Pinto documentam o \textbf{oposto}:\\ discriminação sistemática no emprego, na escola, no casamento e no acesso a espaços públicos.};
+
+  \draw[vetor, thick, manualblue] (f) -- (u);
+
+  \node[draw, thick, rounded corners, fill=manualred!13, align=left, text width=6.55cm] (c1) at (-3.65,-2.75)
+    {\textbf{AS FORMULAÇÕES CLÁSSICAS}\\[2pt]
+     \textbf{Florestan}: ``o \textbf{preconceito de ter preconceito}''\\
+     \textbf{Nogueira}: preconceito de \textbf{marca} (Brasil, pela\\ aparência) $\times$ de \textbf{origem} (EUA, pela ascendência)};
+  \node[draw, thick, rounded corners, fill=manualred!13, align=left, text width=6.55cm] (c2) at (3.65,-2.75)
+    {\textbf{A CRÍTICA NEGRA}\\[2pt]
+     \textbf{Lélia Gonzalez}: \textbf{racismo por denegação}\\ --- o racismo que opera \textbf{negando-se}\\
+     \textbf{Abdias do Nascimento}: a miscigenação\\ celebrada como projeto de eliminação};
+
+  \draw[vetor, thick, manualred] (u) -- (c1); \draw[vetor, thick, manualred] (u) -- (c2);
+\end{tikzpicture}
+```
+
+Do racismo científico ao mito da democracia racial: a genealogia de um debate.
+:::
+
+## O movimento negro brasileiro {#sec-movimento-negro}
+
+- **Imprensa negra paulista** (anos 1910–30): jornais como *O Menelik*, *O Clarim da Alvorada* e *A Voz da Raça*, feitos por e para a população negra, discutindo trabalho, educação e discriminação.
+- **Frente Negra Brasileira** (1931): a maior organização negra da história do país até então, com dezenas de milhares de associados, escolas, departamento jurídico e serviço médico. Chegou a se registrar como partido político e foi fechada em 1937, junto com todos os partidos, pelo Estado Novo.
+- **Teatro Experimental do Negro** (1944), de **Abdias do Nascimento**: companhia teatral que era também projeto político, educacional e de alfabetização, criada porque atores negros só recebiam papéis subalternos — quando os personagens negros não eram interpretados por brancos pintados.
+- **Lei Afonso Arinos** (1951): primeira lei antirracista brasileira, aprovada após um episódio internacionalmente constrangedor, a recusa de hospedagem à bailarina americana Katherine Dunham num hotel de São Paulo. Classificava a discriminação como **contravenção** — punida com multa ou prisão simples —, o que a tornava, na prática, quase inaplicável [@leiCaoBrasil1951].
+- **Movimento Negro Unificado** (**MNU**, 1978): fundado em plena ditadura, com ato público nas escadarias do Teatro Municipal de São Paulo, em resposta à morte sob tortura do trabalhador **Robson Silveira da Luz** e à discriminação sofrida por atletas negros num clube. O MNU rompeu com a estratégia de integração discreta e adotou denúncia frontal do racismo, articulando-se com movimentos de outros países e com a luta contra o *apartheid*. Ressignificou o **20 de novembro** — data da morte de **Zumbi dos Palmares** — como **Dia da Consciência Negra**, em contraposição ao 13 de maio, entendido como celebração da benevolência branca. Em 2023, a data tornou-se feriado nacional.
+- **Constituição de 1988:** tornou o **racismo crime inafiançável e imprescritível** (art. 5º, XLII), e o **artigo 68 do ADCT** reconheceu aos remanescentes de comunidades de **quilombos** o direito à propriedade definitiva de suas terras — dispositivo cuja regulamentação e aplicação seguem lentas e disputadas.
+- **Marcha Zumbi dos Palmares** (1995), em Brasília, no tricentenário da morte de Zumbi: momento em que a agenda de **ação afirmativa** entrou formalmente na pauta do Estado brasileiro.
+- **Anos 2000:** criação da Seppir (2003), **Lei 10.639** (2003) e **Lei 11.645** (2008), **Estatuto da Igualdade Racial** (2010), **Lei de Cotas** nas universidades federais (**2012**) e cotas em concursos públicos federais (2014).
+
+::: {.callout-note title="As cotas: o debate, com os melhores argumentos dos dois lados"}
+**Contra.**
+
+- O critério deveria ser **social** (renda, escola pública), não racial, para não introduzir classificação por raça num país de fronteiras raciais fluidas.
+- Corre-se o risco de **institucionalizar a raça** como categoria jurídica, contrariando o ideal de uma sociedade que não classifique pessoas por cor.
+- Objeções de **mérito** e de possível impacto sobre o desempenho acadêmico dos cursos.
+- **Fraudes** na autodeclaração, num país onde a classificação é gradativa e negociada socialmente.
+
+**A favor.**
+
+- A desigualdade racial brasileira é **mensurável e persistente**, e políticas universais não a reduziam no ritmo observado: comparando pessoas de mesma renda e escolaridade, as diferenças por cor permanecem.
+- O critério racial existe porque a **discriminação** opera por marca, e não por renda: como mostrou **Oracy Nogueira**, é a aparência que aciona o tratamento desigual.
+- **A evidência acumulada.** Este é o argumento decisivo, e é empírico: mais de uma década de dados mostra que estudantes cotistas apresentam desempenho e taxas de conclusão **equivalentes ou superiores** aos dos não cotistas em grande parte dos cursos, e que a política alterou substancialmente o perfil das universidades públicas brasileiras. As previsões de queda de qualidade não se confirmaram.
+- Bancas de heteroidentificação foram criadas para tratar as fraudes, que existem e são combatidas sem invalidar a política.
+
+**O que a História acrescenta ao debate.** A pergunta central não é apenas "é justo tratar pessoas de modo diferente?", mas "**partimos de uma situação de igualdade?**". Três séculos e meio de escravidão, uma abolição sem qualquer reparação, décadas de política estatal de branqueamento e de criminalização de práticas culturais negras constituem uma **desvantagem acumulada** que não se dissolve espontaneamente com a igualdade formal. É por isso que a discussão sobre cotas é, inescapavelmente, uma discussão sobre **história** — e é assim que ela deve ser conduzida numa prova ou numa redação.
+:::
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+**1. Freyre × Florestan: a controvérsia fundadora.** O debate mais importante da sociologia e da historiografia brasileiras opôs duas leituras da formação nacional. **Gilberto Freyre** [@freyre2003] enfatizou a **plasticidade** cultural, a miscigenação e o intercâmbio entre casa-grande e senzala, produzindo uma imagem de sociedade constituída por mistura e proximidade. **Florestan Fernandes** e a "escola paulista" — com Fernando Henrique Cardoso, Octavio Ianni e Roger Bastide — descreveram uma sociedade estruturada pela **violência** da escravidão e pela exclusão sistemática do liberto, que chegou à sociedade de classes sem os meios de competir nela [@fernandes2008].
+
+O que torna o debate produtivo é que ambos captaram algo real. É verdade que a sociedade brasileira produziu formas intensas de convivência, mistura cultural e circulação de práticas — a música, a religião, a língua e a comida brasileiras são testemunhos disso. E é verdade que essa proximidade **conviveu** com violência extrema e com exclusão sistemática, e que a intimidade não é sinônimo de igualdade: a relação entre a casa-grande e a senzala era íntima **e** brutalmente hierárquica, e uma coisa não desmente a outra. O erro de Freyre não foi ver a mistura; foi tomá-la como prova de ausência de hierarquia racial. O erro de certas leituras de Florestan foi minimizar a **agência** dos escravizados, que a historiografia posterior recuperaria.
+
+**2. A terceira geração: agência, negociação e resistência.** A partir dos anos 1980, historiadores como **Sidney Chalhoub**, **João José Reis**, **Robert Slenes** e **Hebe Mattos** produziram uma renovação decisiva ao trabalhar com fontes até então pouco exploradas: processos criminais, inventários, ações de liberdade, registros paroquiais. O que encontraram desmontou tanto a imagem do escravo passivo quanto a do escravo em rebelião permanente. Documentaram **estratégias**: ações judiciais movidas por escravizados para obter alforria, formação e defesa de famílias escravas, acúmulo de pecúlio, negociação de dias de trabalho próprio, fugas, quilombos, revoltas organizadas — como a dos **malês**, na Bahia em 1835 [@chalhoub1990; @reis2003; @slenes2011].
+
+A tese central: os escravizados foram **sujeitos** que calcularam, negociaram e resistiram dentro de margens estreitíssimas, e a própria margem de negociação existiu porque foi conquistada. É a mesma operação intelectual que a nova história indígena realizou, e é o programa da **história vista de baixo** aplicado ao Brasil (@sec-movimentos-por-direitos).
+
+**3. Vozes negras e indígenas como produtoras de teoria.** Uma mudança recente e importante: pensadores negros e indígenas brasileiros deixaram de ser tratados apenas como **objeto** ou como testemunho e passaram a ser lidos como **autores de teoria**. **Beatriz Nascimento** (1942–1995), historiadora, reinterpretou o **quilombo** não como episódio isolado de fuga, mas como forma persistente de organização social e territorial negra, com continuidade nas favelas e nos terreiros — e trabalhou o corpo negro como território e arquivo [@nascimentoBeatriz2018]. **Lélia Gonzalez** cunhou "amefricanidade" e "racismo por denegação" [@gonzalez2020]. **Clóvis Moura** insistiu na centralidade da rebeldia negra na formação social brasileira [@mouraClovis1988]. **Sueli Carneiro** articulou raça, gênero e classe na análise da desigualdade brasileira [@carneiro2011].
+
+Do lado indígena, **Davi Kopenawa**, xamã yanomami, coassinou com o antropólogo Bruce Albert *A queda do céu* [@kopenawa2015], obra que apresenta uma **cosmologia e uma crítica** yanomami do mundo dos brancos — e não apenas um depoimento a ser interpretado por outros. **Ailton Krenak**, em *Ideias para adiar o fim do mundo* [@krenak2019], questiona a própria noção ocidental de "humanidade" separada da natureza. O ponto historiográfico é preciso e vale ser retido: **quem detém a autoridade para interpretar** faz parte do que se está estudando (@sec-fontes-historicas).
+
+**4. Os riscos do campo, ditos com franqueza.** Um manual honesto registra também as armadilhas.
+
+- **Vitimização.** Narrar apenas a opressão reproduz a negação da agência que se pretendia corrigir. Povos indígenas e africanos escravizados sofreram violência extrema **e** agiram, criaram, negociaram e produziram cultura.
+- **Idealização.** O oposto simétrico: transformar os oprimidos em figuras necessariamente sábias, harmônicas e ecologicamente perfeitas é outra forma de negar-lhes humanidade — a de seres que também disputam, erram e divergem entre si. Sociedades indígenas fizeram guerras, tiveram cativos e discordam entre si sobre quase tudo, como qualquer sociedade humana.
+- **Presentismo.** Julgar o século XVI com as categorias do XXI impede compreender por que as pessoas agiram como agiram. Explicar não é justificar, e a distinção precisa ser mantida com firmeza (@sec-o-que-e-historia).
+- **Homogeneização.** "Os indígenas", "os negros" e "os africanos" são abstrações que apagam centenas de povos, línguas, religiões e trajetórias distintas.
+- **Anacronismo identitário.** As próprias categorias "índio" e "negro" são **produtos históricos** da colonização: ninguém era "índio" antes de 1492 — era tupinambá, guarani, tapajó. Essas identidades foram criadas pelo colonizador e depois **reapropriadas politicamente** pelos próprios grupos como base de articulação. Compreender essa dupla origem é entender por que identidades podem ser simultaneamente construções históricas e realidades políticas plenamente efetivas.
+
+## Resumo do capítulo {#sec-resumo}
+
+- **Leis 10.639/2003** e **11.645/2008**: tornaram obrigatório o ensino de história e cultura **afro-brasileira** e **indígena** — reconhecimento oficial de que a narrativa anterior estava errada, não apenas incompleta.
+- **Nova história indígena** (**Manuela Carneiro da Cunha**, 1992): povos indígenas **têm história**; foram **sujeitos** das relações coloniais (alianças, negociações, uso dos tribunais, fugas); e a "extinção" foi muitas vezes efeito de registro, não desaparecimento — daí a **reemergência étnica** nos censos.
+- **Três erros a evitar:** falar de "o índio" no singular (havia 1.000–1.500 povos; hoje mais de 300 e ~270 línguas); supor que o indígena "verdadeiro" é o isolado e sem tecnologia (o que serve para negar direitos); e tratar 1500 como início da história do território.
+- **Política indigenista: SPI** (1910, Rondon; protetor mas **integracionista** e **tutelar**); **Relatório Figueiredo** (1967, mais de 7 mil páginas documentando massacres, torturas e escravização; desaparecido e reencontrado em 2013); **Funai** (1967); **Estatuto do Índio** (1973, ainda integracionista). A **CNV** estimou ao menos **8.350** indígenas mortos por ação ou omissão do Estado entre 1946 e 1988.
+- **Constituição de 1988, art. 231:** reconhece organização social, línguas e crenças, e os **direitos originários** sobre as terras — anteriores ao próprio Estado, de modo que a demarcação apenas **reconhece** um direito preexistente. Fim do integracionismo e da tutela.
+- **Marco temporal:** tese surgida no julgamento de **Raposa Serra do Sol** (STF, 2009), segundo a qual só haveria direito às terras ocupadas em **5/10/1988**. Críticos apontam que ela premia quem expulsou; defensores invocam segurança jurídica. Julgada inconstitucional pelo STF em **2023**, com disputa subsequente com o Congresso.
+- **Dados:** ~1,7 milhão de indígenas (Censo 2022); terras indígenas demarcadas têm as **menores taxas de desmatamento** da Amazônia; **Ministério dos Povos Indígenas** e **Sonia Guajajara** em 2023.
+- **Pós-abolição:** a **Lei Áurea** não previu terra, crédito, escola ou qualquer reparação. Em vez disso: **imigração europeia subsidiada**, política de **branqueamento** (racismo científico, decretos restritivos à imigração africana e asiática), **criminalização** da capoeira e das religiões de matriz africana, e ausência de acesso a terra e educação. Resultado: **racismo estrutural** mensurável em todos os indicadores.
+- **Mito da democracia racial:** **Freyre** (*Casa-grande & senzala*, 1933) rompeu com o racismo científico ao substituir raça por cultura, mas forneceu base para a tese de um Brasil sem preconceito — que tornou o racismo **indizível**. O **Projeto Unesco** dos anos 1950, criado para estudar o "sucesso" brasileiro, documentou o contrário. **Florestan Fernandes**: o "preconceito de ter preconceito". **Oracy Nogueira**: preconceito de **marca** (Brasil) × de **origem** (EUA). **Lélia Gonzalez**: **racismo por denegação**. **Abdias do Nascimento**: *O genocídio do negro brasileiro*.
+- **Movimento negro:** imprensa negra (1910–30), **Frente Negra Brasileira** (1931, fechada em 1937), **TEN** de **Abdias** (1944), **Lei Afonso Arinos** (1951, mera contravenção), **MNU** (1978) e a ressignificação do **20 de novembro**; Constituição de 1988 (racismo **inafiançável e imprescritível**; art. **68 do ADCT** para **quilombolas**); Marcha Zumbi (1995); Seppir (2003), Estatuto da Igualdade Racial (2010), **Lei de Cotas** (2012).
+- **Cotas:** contra — critério deveria ser social, risco de institucionalizar a raça, mérito, fraudes. A favor — a desigualdade racial persiste **controlando por renda**, a discriminação opera por **marca**, e mais de uma década de dados mostra desempenho de cotistas **equivalente ou superior**. O argumento histórico decisivo: **não se parte de igualdade**.
+- **Historiografia:** **Freyre × Florestan** (ambos captaram algo real: houve mistura **e** violência; intimidade não é igualdade); a terceira geração (**Chalhoub**, **Reis**, **Slenes**) e a recuperação da **agência** dos escravizados; vozes negras e indígenas como **produtoras de teoria** (**Beatriz Nascimento**, **Lélia Gonzalez**, **Clóvis Moura**, **Sueli Carneiro**, **Kopenawa**, **Krenak**); e os riscos de **vitimização**, **idealização**, **presentismo**, **homogeneização** e **anacronismo identitário**.
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Domine: (1) as teses da nova história indígena; (2) SPI → Relatório Figueiredo → Funai → Estatuto; (3) o art. 231 e por que "direitos originários" é decisivo; (4) os dois lados do marco temporal; (5) o que se fez em vez de reparação após 1888; (6) a genealogia do mito da democracia racial e o Projeto Unesco; (7) a cronologia do movimento negro; (8) os argumentos empíricos sobre cotas.
+:::
+
+**1.** Explique a virada da "**nova história indígena**" e o conceito de **protagonismo indígena**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**O que se pensava antes.** Na historiografia brasileira tradicional, os povos indígenas apareciam de dois modos, e ambos os excluíam da condição de sujeito histórico: como **obstáculo** ao avanço da colonização, a ser removido, ou como **vítima** passiva de um processo inexorável. Em qualquer dos casos, sua história começava e terminava no século XVI, e o que restava era tema de antropólogos — como se indígenas tivessem "cultura" e não "história".
+
+**A virada.** Consolidou-se em torno de **1992**, quinto centenário da chegada de Colombo, quando revisões críticas ocorreram em todo o continente. A obra coletiva *História dos índios no Brasil*, organizada por **Manuela Carneiro da Cunha**, reuniu historiadores, antropólogos, arqueólogos e linguistas e fixou um novo programa de pesquisa [@cunhaManuela1992].
+
+**As teses centrais.**
+
+1. **Os povos indígenas têm história.** Migraram, guerrearam, aliaram-se, incorporaram e rejeitaram tecnologias, transformaram-se — antes e depois de 1500. Tratar suas sociedades como imóveis até o contato é um pressuposto, não um achado.
+2. **Foram sujeitos das relações coloniais.** Formaram alianças estratégicas (tupinambás com franceses, tupiniquins com portugueses), escolheram lados calculando vantagens, negociaram condições, **usaram os tribunais portugueses** para reivindicar terras e liberdade, converteram-se por conveniência, fugiram e resistiram. A conquista não foi um rolo compressor sobre corpos inertes: dependeu, em enorme medida, de alianças indígenas — sem as quais teria sido militarmente inviável (@sec-conquista-da-america).
+3. **A "extinção" foi frequentemente efeito de registro.** Muitos povos declarados extintos haviam se deslocado, se misturado ou deixado de ser reconhecidos como indígenas por autoridades interessadas em liberar terras. Daí o fenômeno da **reemergência étnica**: grupos que reafirmam publicamente identidades antes ocultadas por estratégia de sobrevivência — o que explica boa parte do crescimento da população autodeclarada indígena nos censos recentes.
+
+**O conceito de protagonismo (ou agência).** Refere-se à capacidade dos sujeitos de **agir, decidir e produzir efeitos** dentro de circunstâncias que não escolheram. Reconhecer agência **não** significa minimizar a violência sofrida — o colapso demográfico foi real e catastrófico, e a violência foi extrema. Significa recusar a redução das pessoas à condição de puro objeto do que lhes foi feito.
+
+**Por que isso importa politicamente hoje.** A imagem do indígena como ser passivo e destinado a desaparecer sustentou juridicamente a **tutela** (o incapaz que precisa de tutor) e o **integracionismo** (a identidade indígena como fase transitória). O reconhecimento do protagonismo sustenta o paradigma inverso, consagrado no **artigo 231** da Constituição de 1988: povos indígenas são sujeitos de direitos **próprios**, inclusive o de permanecerem indígenas nos seus termos.
+
+**A armadilha correlata, que a resposta completa menciona.** A ideia de que o indígena "verdadeiro" é o que vive isolado e sem tecnologia é logicamente frágil e politicamente perigosa: sob ela, quem usa celular, dirige, estuda ou se elege deputada "deixou de ser índio" — e perde direitos. Nenhum povo é obrigado a congelar-se no tempo para continuar existindo. Culturas, como observa Carneiro da Cunha, são modos de reinterpretar continuamente o que chega de fora, e não listas fixas de traços [@cunhaManuela2009].
+:::
+
+**2.** Analise o **artigo 231** da Constituição de 1988 e a controvérsia do **marco temporal**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**O texto e sua ruptura.** O art. 231 reconhece aos indígenas "sua organização social, costumes, línguas, crenças e tradições, e os **direitos originários** sobre as terras que tradicionalmente ocupam", cabendo à União demarcá-las e protegê-las.
+
+Três rupturas com todo o direito anterior:
+
+1. **Fim do integracionismo.** Reconhece-se o direito de **permanecer indígena**. Toda a legislação anterior — do SPI ao Estatuto de 1973 — tratava a identidade indígena como estágio transitório rumo à assimilação, classificando os povos como "isolados", "em vias de integração" e "integrados".
+2. **Direitos originários.** A expressão é tecnicamente decisiva: o direito à terra é **anterior** ao Estado brasileiro e não decorre de concessão dele. A demarcação é ato **declaratório** (reconhece e delimita algo que já existe), não **constitutivo** (não cria o direito). É a base jurídica de praticamente toda a disputa territorial contemporânea.
+3. **Fim da tutela.** O Ministério Público assume a defesa dos direitos indígenas e os próprios povos e suas organizações passam a ter legitimidade processual — deixam de precisar de um tutor que fale por eles.
+
+**A controvérsia do marco temporal.**
+
+**Origem.** No julgamento da demarcação de **Raposa Serra do Sol** (Roraima), o **STF** confirmou em **2009** a demarcação em área contínua, mas incluiu na decisão condicionantes, entre as quais a de que a terra indígena seria aquela ocupada em **5 de outubro de 1988**, data da promulgação da Constituição.
+
+**Os argumentos a favor.**
+
+- **Segurança jurídica:** sem um marco objetivo, não haveria limite temporal para reivindicações, o que geraria incerteza permanente sobre a propriedade rural.
+- **Legitimidade da data:** 1988 não é arbitrária — é a data da Constituição que criou o próprio direito em sua forma atual.
+- **Proteção de terceiros de boa-fé** que adquiriram terras legalmente.
+
+**Os argumentos contra.**
+
+- **O argumento histórico, que é o decisivo:** muitos povos **foram expulsos à força** de seus territórios precisamente nas décadas anteriores a 1988 — por obras da ditadura (Transamazônica, BR-163, hidrelétricas), grilagem, violência de fazendeiros e remoções conduzidas pelo próprio Estado, tudo documentado no **Relatório Figueiredo** [@relatorioFigueiredo1967] e no relatório da **CNV** [@cnv2014]. Aplicar a tese significa, na prática, **premiar a expulsão**: quanto mais eficaz tiver sido a remoção antes de 1988, mais seguro fica o expulsor.
+- **Contradição interna:** "direitos originários" são, por definição, anteriores a qualquer marco. Fixar uma data converte um direito originário em direito **condicionado**, o que contraria o próprio texto que se pretende aplicar.
+- **Impossibilidade prática:** povos que estavam em fuga, confinados em reformatórios como o Krenak, ou dispersos em cidades por efeito da violência não tinham como estar fisicamente na terra na data exigida.
+
+**O desfecho, provisório.** Em **2023**, o STF julgou a tese do marco temporal **inconstitucional**. No mesmo ano, o Congresso Nacional aprovou lei incorporando-a, gerando um conflito institucional entre poderes que seguiu em disputa judicial e legislativa. É um caso em aberto — e este manual, como sempre em história do tempo presente, registra o estado da questão e não o seu desfecho (@sec-nova-ordem-mundial).
+
+**A conclusão metodológica que a questão premia.** O caso mostra com clareza incomum que **interpretações da história produzem efeitos jurídicos diretos**. Saber se um povo estava ou não em determinada terra em 1988, e por quê, é uma questão **histórica** — e laudos antropológicos e pesquisas documentais sobre remoções passaram a ser peças processuais. O trabalho do historiador, aqui, não é acessório: é prova.
+:::
+
+**3.** Por que se diz que a abolição de 1888 foi uma "**liberdade sem reparação**"? Quais foram suas consequências?
+
+::: {.callout-tip collapse="true" title="Solução"}
+**O texto da lei.** A **Lei Áurea** (13 de maio de 1888) tem dois artigos e cerca de 24 palavras. Declara extinta a escravidão e revoga as disposições em contrário. **Não** menciona terra, indenização, crédito, educação, assistência, política de emprego ou qualquer medida dirigida às pessoas libertadas.
+
+**A comparação internacional, que dá dimensão ao ponto.** Nos Estados Unidos, discutiu-se a distribuição de terras aos libertos — a promessa dos "40 acres e uma mula", em grande parte revogada, mas seriamente debatida. No Haiti, a revolução produziu redistribuição fundiária. Em colônias britânicas, houve indenização — **paga aos senhores**, não aos escravizados. No Brasil, nem uma coisa nem outra: nenhuma reparação aos libertos e nenhuma indenização aos proprietários, o que ajuda a explicar a adesão de parte da elite escravista à República no ano seguinte (@sec-crise-do-imperio).
+
+**O que se fez em vez de reparação — e este é o núcleo da resposta.**
+
+1. **Imigração europeia subsidiada.** O Estado custeou passagens e instalação de centenas de milhares de europeus para a lavoura de café (@sec-escravidao-abolicao-imigracao). O trabalhador negro liberto, já presente e experiente, não recebeu nada equivalente. A preferência pelo imigrante branco tinha, além de motivação econômica, componente racial explícito na documentação oficial e privada da época.
+2. **Política de branqueamento.** Não era metáfora crítica: era **política de Estado declarada**, apoiada nas teorias raciais europeias. A projeção mais célebre é a de João Baptista de Lacerda, diretor do Museu Nacional, que em 1911 previu, em conferência internacional, que o Brasil se tornaria majoritariamente branco em cerca de um século, por miscigenação e imigração europeia. Decretos de 1890 e dos anos 1940 restringiram a imigração africana e asiática. **Lilia Schwarcz** documentou a produção e difusão do racismo científico pelas instituições brasileiras entre 1870 e 1930 [@schwarcz1993].
+3. **Criminalização de práticas culturais negras.** O Código Penal de 1890 criminalizou a **capoeira**; o "curandeirismo" e as religiões de matriz africana foram sistematicamente reprimidos por décadas; e a **vadiagem** — estar sem trabalho comprovado — era contravenção aplicada de modo seletivo, funcionando como instrumento de controle da população negra.
+4. **Ausência de acesso a terra, crédito e escola.** Sem esses três meios, a mobilidade social ficou praticamente vedada, e a população negra foi empurrada para os piores empregos e para as periferias — processo que estruturou a segregação socioespacial das cidades brasileiras.
+
+**As consequências, mensuráveis hoje.** Indicadores brasileiros mostram desigualdades sistemáticas por cor: renda, escolaridade, mortalidade infantil e materna, expectativa de vida, taxa de homicídio de jovens, composição carcerária, presença em cargos de direção. Como argumenta **Silvio Almeida**, o **racismo estrutural** não requer intenção consciente: opera pelo funcionamento **normal** das instituições e dos mecanismos de acesso a recursos, que já nasceram desiguais e se reproduzem por inércia [@almeida2019]. Complementarmente, **Carlos Hasenbalg** demonstrou estatisticamente, já nos anos 1970, que as desigualdades raciais brasileiras **não** se explicam apenas pela herança da escravidão: há discriminação **contemporânea** em curso, verificável quando se comparam pessoas de mesma origem social [@hasenbalg2005].
+
+**A conexão com o debate atual.** É exatamente esse acúmulo histórico que fundamenta as políticas de **ação afirmativa**. A pergunta relevante não é "é justo tratar as pessoas de modo diferente?", mas "**partimos de uma situação de igualdade?**" — e a resposta histórica é inequivocamente não.
+:::
+
+**4.** (Estilo ENEM) Leia o texto:
+
+> "O Projeto Unesco, desenvolvido no Brasil na década de 1950, tinha como propósito inicial estudar uma sociedade tida como exemplo de convivência harmoniosa entre diferentes grupos raciais, de modo a extrair lições aplicáveis a um mundo que saía da experiência do nazismo. As pesquisas realizadas em São Paulo, no Rio de Janeiro, na Bahia e no Recife, contudo, documentaram formas persistentes de discriminação no emprego, na escola e no acesso a espaços públicos."
+
+O resultado descrito no texto contribuiu decisivamente para
+
+**(a)** confirmar a tese da democracia racial brasileira e difundi-la internacionalmente.
+**(b)** desconstruir cientificamente a ideia de democracia racial, evidenciando a discriminação sob o discurso da harmonia.
+**(c)** demonstrar que a desigualdade brasileira decorre exclusivamente de fatores econômicos, sem componente racial.
+**(d)** justificar a adoção do sistema de segregação legal existente nos Estados Unidos.
+**(e)** comprovar que o preconceito racial no Brasil se baseia em critérios de origem, como nos Estados Unidos.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Resposta: (b).**
+
+**Por quê.** O texto contém explicitamente a inversão: o projeto **partiu** da suposição de harmonia — a Unesco, criada em resposta ao nazismo, queria estudar e divulgar um caso de sucesso — e **encontrou** discriminação persistente no emprego, na escola e no acesso a espaços públicos. Esse contraste entre expectativa e resultado é o que fez do Projeto Unesco um marco: a "democracia racial" passou a ser tratada, na sociologia e na historiografia brasileiras, como **mito** — no sentido preciso de representação socialmente eficaz que oculta a realidade que descreve.
+
+**Por que as demais estão erradas.**
+
+- **(a)** Contraria diretamente o texto, que descreve resultado oposto ao esperado.
+- **(c)** As pesquisas mostraram exatamente que há um componente **racial** que não se reduz ao econômico. **Carlos Hasenbalg** demonstraria depois, estatisticamente, que as desigualdades persistem mesmo comparando pessoas de mesma origem social [@hasenbalg2005].
+- **(d)** Nenhum dos pesquisadores propôs adotar a segregação americana; o objetivo era compreender o caso brasileiro.
+- **(e)** É o inverso do que a pesquisa estabeleceu. **Oracy Nogueira** formulou a distinção clássica: nos Estados Unidos vigora o preconceito de **origem** (basta ter ascendência negra para ser classificado como negro); no Brasil, o preconceito de **marca** (a discriminação incide sobre a aparência, em gradações). Daí a fluidez da classificação racial brasileira — e a plena realidade da discriminação.
+
+**O aprofundamento que uma questão discursiva exigiria.**
+
+- **Origem da tese.** *Casa-grande & senzala* (1933), de **Gilberto Freyre**, rompeu com o racismo científico ao substituir a explicação racial pela cultural e valorizar as contribuições africana e indígena [@freyre2003]. Foi um avanço no contexto da eugenia dos anos 1930. Mas a ênfase na intimidade e na miscigenação forneceu matéria para a tese da harmonia racial, que se converteu em **ideologia oficial** a partir do Estado Novo (@sec-era-vargas).
+- **O efeito político.** Ao afirmar que não há racismo, torna-se o racismo **indizível**: quem o denuncia é acusado de inventar, exagerar ou importar um problema alheio. **Florestan Fernandes** captou isso na fórmula do "**preconceito de ter preconceito**" [@fernandes2008]; **Lélia Gonzalez** o nomeou **racismo por denegação** [@gonzalez2020]; e **Abdias do Nascimento** foi além, tratando a miscigenação celebrada como projeto de eliminação por absorção [@nascimentoAbdias2016].
+- **A precisão que evita injustiça com Freyre.** Ele não usou a expressão "democracia racial" em 1933; a fórmula consolidou-se depois, por apropriação política. E reconhecer os problemas da obra não exige negar sua importância intelectual nem seu papel na ruptura com o racismo biológico.
+:::
+
+**5.** Reconstitua a trajetória do **movimento negro brasileiro** no século XX.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Imprensa negra paulista (1910–1930).** Jornais como *O Menelik*, *O Clarim da Alvorada* e *A Voz da Raça*, produzidos por e para a população negra, discutiam trabalho, educação, discriminação e organização comunitária. São hoje fontes de primeira ordem para a história do pós-abolição, porque registram a perspectiva de quem viveu o período — o oposto das fontes policiais e patronais que dominavam o campo.
+
+**Frente Negra Brasileira (1931).** A maior organização negra do país até então: dezenas de milhares de associados, escolas, departamento jurídico, serviço médico, jornal próprio. Chegou a se registrar como **partido político** em 1936. Foi fechada em **1937**, junto com todos os partidos, pelo **Estado Novo** (@sec-era-vargas). Sua pauta combinava educação, inserção no trabalho e afirmação de dignidade — e parte de suas posições, hoje, seria considerada conservadora, o que é um bom lembrete de que movimentos históricos devem ser lidos em seu contexto, e não pelas categorias atuais.
+
+**Teatro Experimental do Negro (1944).** Criado por **Abdias do Nascimento**, era companhia teatral e, ao mesmo tempo, projeto político, educacional e de alfabetização. Nasceu de uma constatação concreta: atores negros só recebiam papéis subalternos, e personagens negros eram frequentemente interpretados por atores brancos pintados. O TEN organizou também convenções nacionais do negro brasileiro e propôs medidas que só entrariam na agenda pública décadas depois.
+
+**Lei Afonso Arinos (1951).** Primeira lei antirracista brasileira, aprovada após repercussão internacional negativa da recusa de hospedagem à bailarina americana Katherine Dunham em hotel paulistano. Classificava a discriminação como **contravenção penal** — punida com multa ou prisão simples —, o que, somado à dificuldade de prova e à ausência de política de fiscalização, tornou-a quase inaplicável [@leiCaoBrasil1951]. É um exemplo útil de que **existir lei não é o mesmo que haver efetividade**.
+
+**Movimento Negro Unificado (1978).** Fundado em plena ditadura, com ato público nas escadarias do Teatro Municipal de São Paulo, motivado pela morte sob tortura do trabalhador **Robson Silveira da Luz** e pela discriminação sofrida por atletas negros num clube esportivo. Suas rupturas:
+
+- abandonou a estratégia de **integração discreta** e adotou a **denúncia frontal** do racismo brasileiro;
+- articulou-se internacionalmente, especialmente com a luta contra o *apartheid* e com o movimento negro americano;
+- **ressignificou o 20 de novembro** — data da morte de **Zumbi dos Palmares** — como **Dia da Consciência Negra**, em contraposição ao 13 de maio, entendido como celebração da benevolência branca. A escolha da data é, ela própria, um ato de política de memória (@sec-memoria-patrimonio). Em 2023 tornou-se feriado nacional.
+
+**Constituição de 1988.** Tornou o **racismo crime inafiançável e imprescritível** (art. 5º, XLII) — resposta direta à ineficácia da Lei Afonso Arinos — e reconheceu, no **artigo 68 do ADCT**, o direito dos remanescentes de comunidades de **quilombos** à propriedade definitiva de suas terras. A regulamentação e a titulação seguem lentas e judicialmente disputadas.
+
+**Marcha Zumbi dos Palmares (1995).** No tricentenário da morte de Zumbi, uma grande marcha a Brasília entregou ao governo um programa de superação do racismo. É o momento em que a **ação afirmativa** entra formalmente na agenda do Estado brasileiro.
+
+**Anos 2000 — a fase das políticas públicas.** Criação da Seppir (2003); **Lei 10.639/2003** e **Lei 11.645/2008**, que tornaram obrigatório o ensino de história e cultura afro-brasileira e indígena [@lei10639; @lei11645]; **Estatuto da Igualdade Racial** (2010); **Lei de Cotas** nas universidades federais (**2012**) [@leiCotas2012]; cotas em concursos públicos federais (2014); e, em 2019, a equiparação da **LGBTfobia** ao crime de racismo pelo STF (@sec-movimentos-por-direitos).
+
+**A leitura de conjunto.** A trajetória mostra três deslocamentos sucessivos de estratégia: da **autoajuda comunitária** (imprensa negra, Frente Negra) à **denúncia pública** (TEN, MNU) e desta às **políticas públicas de Estado** (anos 2000). Mostra também uma constante: cada avanço legal foi precedido de décadas de organização, e nenhum foi concedido espontaneamente.
+:::
+
+**6.** Apresente os argumentos favoráveis e contrários às **cotas raciais** e explique o que a análise histórica acrescenta ao debate.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**O que são.** Políticas de **ação afirmativa**: reserva de vagas em universidades públicas e em concursos para grupos historicamente discriminados. No Brasil, a **Lei 12.711/2012** reservou metade das vagas das universidades federais para egressos de escola pública, com subcotas por renda e por cor (pretos, pardos e indígenas), em proporção à composição de cada estado; em 2016 incluíram-se pessoas com deficiência; em 2014, criaram-se cotas em concursos federais [@leiCotas2012].
+
+**Os argumentos contrários.**
+
+1. **O critério deveria ser social**, não racial: bastaria considerar renda e escola pública, evitando classificar cidadãos por cor.
+2. **Risco de institucionalizar a raça** como categoria jurídica num país de fronteiras raciais fluidas, o que contrariaria o ideal de uma sociedade que não classifique pessoas por cor.
+3. **Mérito**: a seleção deveria basear-se exclusivamente em desempenho.
+4. **Fraudes** na autodeclaração, num país onde a classificação racial é gradativa e socialmente negociada.
+
+**Os argumentos favoráveis.**
+
+1. **A desigualdade racial persiste controlando por classe.** Este é o argumento empírico central: comparando pessoas de mesma renda e escolaridade, permanecem diferenças significativas de acesso, salário e trajetória por cor. **Carlos Hasenbalg** demonstrou isso estatisticamente já nos anos 1970 [@hasenbalg2005]. Se a desigualdade fosse apenas de classe, um critério apenas de classe bastaria — e os dados dizem que não basta.
+2. **A discriminação opera por marca.** Como formulou **Oracy Nogueira**, é a **aparência** que aciona o tratamento desigual no Brasil, não a origem declarada — daí a pertinência de um critério que a leve em conta.
+3. **A evidência acumulada desmentiu as previsões.** Mais de uma década de dados de universidades federais mostra que estudantes cotistas apresentam desempenho e taxas de conclusão **equivalentes ou superiores** aos dos não cotistas em grande parte dos cursos, e que a política transformou substancialmente o perfil social e racial das universidades públicas brasileiras. As previsões de queda de qualidade acadêmica não se confirmaram — e isso é verificável, não opinável.
+4. **As fraudes são tratáveis.** Bancas de heteroidentificação foram criadas justamente para enfrentá-las. Fraude em qualquer política pública é problema de fiscalização, não argumento contra a política.
+5. **O "mérito" não é um ponto de partida neutro.** Notas de vestibular refletem em grande medida a qualidade da educação básica recebida, que por sua vez reflete renda, bairro e escola — variáveis correlacionadas com cor no Brasil.
+
+**O que a História acrescenta — e é isso que a questão pede.**
+
+A pergunta central não é "é justo tratar pessoas de modo diferente?", mas "**partimos de igualdade?**". A resposta histórica é documentada e inequívoca:
+
+- **três séculos e meio de escravidão** (@sec-escravidao-e-resistencia);
+- uma **abolição sem qualquer reparação** — a Lei Áurea não previu terra, crédito, escola ou assistência;
+- **imigração europeia subsidiada** pelo Estado, enquanto ao liberto não se ofereceu nada equivalente;
+- **política oficial de branqueamento**, com base no racismo científico e em decretos restritivos à imigração africana e asiática [@schwarcz1993];
+- **criminalização** da capoeira e das religiões de matriz africana;
+- décadas de negação pública da existência do racismo, sob a ideologia da **democracia racial**, que tornou o problema indizível.
+
+Isso constitui uma **desvantagem acumulada e transmitida entre gerações** — em patrimônio, em rede de contatos, em capital escolar, em expectativa de tratamento — que a mera igualdade formal não dissolve. A ação afirmativa é a tentativa de intervir nesse acúmulo.
+
+**A conclusão que caracteriza a resposta madura.** É legítimo divergir sobre o **desenho** da política — proporções, duração, critérios de verificação, articulação com melhorias na educação básica. O que não é sustentável, diante da evidência histórica e estatística, é a premissa de que se parte de uma situação de igualdade. Uma boa resposta, portanto, expõe os dois lados com seus melhores argumentos e demonstra domínio dos **dados** — que hoje existem em abundância — em vez de apenas declarar uma posição.
+:::
+
+**7.** (Estilo vestibular) Explique a política indigenista brasileira do **SPI** ao **Estatuto do Índio**, e o que revelou o **Relatório Figueiredo**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**O SPI (1910).** O **Serviço de Proteção aos Índios** nasceu sob influência do **positivismo** e foi dirigido inicialmente pelo marechal **Cândido Rondon**, ele próprio descendente de indígenas, com o lema "morrer se preciso for, matar nunca". Representou avanço real frente à prática corrente de extermínio e ao debate público da época, em que setores defendiam abertamente a eliminação dos "selvagens".
+
+Seu pressuposto, porém, era **integracionista e tutelar**: os indígenas eram considerados **relativamente incapazes** perante a lei, sob tutela do Estado, e destinados a se tornar trabalhadores rurais nacionais. Ou seja, a proteção era concebida como acompanhamento humanitário de um desaparecimento tido por inevitável — não como garantia do direito de continuar existindo como povo.
+
+**O Relatório Figueiredo (1967).** Em 1967, o procurador **Jader de Figueiredo Correia**, após inspecionar postos do SPI em todo o país, entregou um relatório de mais de **sete mil páginas**. O documento descrevia:
+
+- **assassinatos em massa**, incluindo o uso de dinamite lançada de avião e a distribuição deliberada de alimentos envenenados;
+- **inoculação intencional de doenças** (varíola, sarampo, gripe) em populações sem imunidade;
+- **escravização**, trabalho forçado, torturas — inclusive instrumentos específicos para castigo — e cárcere privado;
+- **violência sexual** contra mulheres e meninas indígenas;
+- **apropriação de terras** e desvio de recursos por funcionários e por particulares com sua conivência.
+
+O relatório **desapareceu** por décadas, dado como destruído em incêndio, e foi reencontrado em **2013**, durante os trabalhos da Comissão Nacional da Verdade [@relatorioFigueiredo1967]. O SPI foi extinto naquele mesmo ano de 1967 e substituído pela **Funai**.
+
+**A ditadura militar.** O relatório da **CNV** (2014) dedicou capítulo específico ao tema e estimou em ao menos **8.350** os indígenas mortos por ação ou omissão do Estado entre 1946 e 1988 — número que a própria comissão considerou subestimado [@cnv2014]. As causas documentadas: abertura de estradas na Amazônia (Transamazônica, BR-163, Perimetral Norte) sem consulta e sem qualquer plano sanitário; remoções forçadas; epidemias resultantes de contatos provocados; instalações de detenção e trabalho forçado para indígenas, como o **Reformatório Krenak**, em Minas Gerais, e a Guarda Rural Indígena; e violência de grileiros com apoio ou omissão oficial (@sec-ditadura-militar).
+
+**O Estatuto do Índio (1973).** Aprovado no auge do regime militar, manteve a **tutela** e o horizonte **integracionista**, classificando os indígenas como "isolados", "em vias de integração" e "integrados" — isto é, tratando a integração como destino natural e a identidade indígena como etapa transitória [@estatutoIndio1973]. Continha, porém, garantias territoriais relevantes, e dispositivos seus permanecem em vigor naquilo que não contraria a Constituição de 1988.
+
+**A ruptura de 1988.** O **artigo 231** encerra o paradigma tutelar e integracionista: reconhece a organização social, as línguas e as crenças, e os **direitos originários** sobre as terras tradicionalmente ocupadas — direitos anteriores ao próprio Estado, que a demarcação apenas reconhece.
+
+**A conclusão que a questão espera.** A trajetória mostra a passagem de uma política concebida **para** os indígenas — protetora na intenção, mas assimilacionista no princípio e frequentemente criminosa na execução — para uma política que reconhece os povos indígenas como **sujeitos de direitos próprios**, inclusive o de permanecerem indígenas. E mostra, no episódio do relatório desaparecido e reencontrado, que **arquivos são objeto de disputa política**: o que se guarda, o que se perde e o que reaparece nunca é acidental (@sec-fontes-historicas).
+:::
+
+**8.** Explique por que pensadores negros e indígenas passaram a ser lidos como **produtores de teoria**, e não apenas como fontes.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**A situação anterior.** Durante a maior parte da história da academia brasileira, indígenas e negros apareciam como **objetos** de estudo: eram descritos, medidos, classificados, entrevistados. Seus depoimentos entravam como **fonte** — matéria bruta a ser interpretada por um pesquisador, quase sempre branco e universitário, que fornecia a teoria. A divisão de trabalho era clara: uns forneciam experiência; outros, conceitos.
+
+**A mudança.** Nas últimas décadas, esse arranjo foi contestado e parcialmente desfeito, e autores negros e indígenas passaram a ser lidos como **autores de teoria**, cujos conceitos são aplicados a outros objetos e discutidos em seus próprios termos.
+
+**Os casos brasileiros principais.**
+
+- **Beatriz Nascimento** (1942–1995), historiadora, reinterpretou o **quilombo**: não como episódio isolado de fuga, encerrado em 1695 com Palmares, mas como **forma persistente de organização social e territorial negra**, com continuidade nas favelas, nos terreiros e nas comunidades urbanas. Trabalhou também o **corpo negro como território e arquivo** — conceito hoje amplamente utilizado [@nascimentoBeatriz2018].
+- **Lélia Gonzalez** cunhou **amefricanidade**, categoria para pensar a experiência negra nas Américas em seus próprios termos, e **racismo por denegação**, para nomear a forma brasileira de racismo — aquele que opera negando-se [@gonzalez2020].
+- **Clóvis Moura** colocou a **rebeldia negra** no centro da formação social brasileira, contra as leituras que a tratavam como episódio marginal [@mouraClovis1988].
+- **Sueli Carneiro** articulou raça, gênero e classe na análise da desigualdade brasileira e formulou a proposta de "**enegrecer o feminismo**" [@carneiro2011].
+- **Davi Kopenawa**, xamã yanomami, coassinou com Bruce Albert *A queda do céu*, obra que apresenta uma **cosmologia yanomami** e uma **crítica ao mundo dos brancos** — não um depoimento a ser decifrado, mas um pensamento que se dirige ao leitor em pé de igualdade [@kopenawa2015].
+- **Ailton Krenak**, em *Ideias para adiar o fim do mundo*, questiona a própria noção ocidental de "humanidade" separada da natureza e a ideia de progresso [@krenak2019].
+
+**Por que isso importa — quatro razões.**
+
+1. **É uma questão de rigor, não apenas de justiça.** Quem viveu determinada experiência dispõe de perguntas, distinções e evidências que o observador externo não formula. **Nogueira**, **Gonzalez** e **Nascimento** produziram categorias — preconceito de marca, racismo por denegação, quilombo como continuidade — que descrevem o Brasil melhor do que os conceitos importados que estavam disponíveis.
+2. **Quem interpreta faz parte do que se estuda.** Como este manual sustenta desde o começo, o lugar de onde se observa condiciona o que se vê (@sec-fontes-historicas; @sec-correntes-historiograficas). Reconhecer isso não é relativismo — é a aplicação normal da crítica de fontes ao próprio historiador.
+3. **Corrige uma assimetria de arquivo.** Historicamente, as fontes sobre indígenas e negros foram produzidas por quem os dominava: cronistas, missionários, senhores, delegados, funcionários do SPI. Ler autores desses grupos como teóricos ajuda a compensar um acervo estruturalmente enviesado (@sec-oriente-medio).
+4. **Amplia o repertório conceitual disponível.** Categorias como amefricanidade e a crítica de Krenak à separação humanidade/natureza são hoje usadas para pensar problemas gerais — inclusive a crise climática —, e não apenas o Brasil.
+
+**As objeções, que devem ser tratadas com seriedade.**
+
+- **"Isso substitui rigor por identidade."** A resposta é que ninguém propõe aceitar um argumento por causa de quem o formula: os textos de Gonzalez, Nascimento e Kopenawa são discutidos, criticados e refutáveis como quaisquer outros. O que se corrigiu foi a exclusão prévia — a recusa em admiti-los na discussão.
+- **"Corre-se o risco de idealizar."** Risco real, e este manual o registra: transformar os oprimidos em figuras necessariamente sábias e harmônicas é outra forma de negar-lhes humanidade plena. A leitura crítica vale para todos os autores, sem exceção.
+
+**A conclusão.** A pergunta "**quem tem autoridade para interpretar?**" não é externa à disciplina histórica: é uma de suas questões centrais, e a resposta que uma sociedade dá a ela é, ela própria, um fato histórico digno de estudo.
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros — história indígena**
+
+- CUNHA, Manuela Carneiro da (org.). *História dos índios no Brasil* [@cunhaManuela1992]. A obra que fundou o campo; leia ao menos a introdução, que é um manifesto metodológico.
+- KOPENAWA, Davi; ALBERT, Bruce. *A queda do céu* [@kopenawa2015]. Longo e diferente de tudo o que você já leu — e por isso mesmo vale o esforço.
+- KRENAK, Ailton. *Ideias para adiar o fim do mundo* [@krenak2019]. Curtíssimo, provocador, ideal para começar.
+- MUNDURUKU, Daniel. *O caráter educativo do movimento indígena brasileiro* [@munduruku2012], escrito por um autor indígena sobre a própria história do movimento.
+- VIVEIROS DE CASTRO, Eduardo. *A inconstância da alma selvagem* [@viveirosDeCastro2002]. Antropologia difícil e recompensadora sobre os modos de pensar ameríndios.
+
+**Livros — história afro-brasileira**
+
+- NASCIMENTO, Beatriz. *Uma história feita por mãos negras* [@nascimentoBeatriz2018]. Reunião dos textos de uma historiadora que só recentemente recebeu o reconhecimento devido.
+- NASCIMENTO, Abdias do. *O genocídio do negro brasileiro* [@nascimentoAbdias2016]. Contundente e polêmico; leia sabendo disso.
+- FERNANDES, Florestan. *A integração do negro na sociedade de classes* [@fernandes2008], e FREYRE, Gilberto. *Casa-grande & senzala* [@freyre2003]. Leia os dois — é o debate fundador do pensamento social brasileiro, e nenhum resumo substitui o contato com os originais.
+- SCHWARCZ, Lilia. *O espetáculo das raças* [@schwarcz1993]. Como as instituições brasileiras produziram e difundiram o racismo científico.
+- ALMEIDA, Silvio. *Racismo estrutural* [@almeida2019], e RIBEIRO, Djamila. *Pequeno manual antirracista* [@ribeiroDjamila2019]. Curtos e claros, para entrar no debate contemporâneo.
+- CHALHOUB, Sidney. *Visões da liberdade* [@chalhoub1990], e REIS, João José. *Rebelião escrava no Brasil* [@reis2003]. A historiografia da agência dos escravizados em seu melhor nível.
+- GOMES, Laurentino. *Escravidão* [@gomes2019]. Narrativa acessível e bem documentada, útil como porta de entrada.
+
+**Fontes primárias**
+
+- O **Relatório Figueiredo** [@relatorioFigueiredo1967], hoje digitalizado e público. É uma leitura dura; leia ao menos alguns trechos, porque nenhum resumo transmite o que ele registra.
+- O **artigo 231** da Constituição e o **artigo 68 do ADCT** [@constituicao1988]. Duas passagens curtas com efeitos jurídicos imensos.
+- As **Leis 10.639/2003** e **11.645/2008** [@lei10639; @lei11645] e a **Lei de Cotas** [@leiCotas2012]. Observe o que cada uma efetivamente determina — costuma ser diferente do que se diz sobre elas.
+- Os jornais da **imprensa negra paulista** (1910–1930), digitalizados e disponíveis online.
+
+**Filmes e documentários**
+
+- *Martírio* (2016), dir. Vincent Carelli, sobre a luta dos Guarani-Kaiowá pela terra no Mato Grosso do Sul. Difícil e essencial.
+- *A última floresta* (2021), dir. Luiz Bolognesi, com roteiro coassinado por **Davi Kopenawa**.
+- *Ôrí* (1989), dir. Raquel Gerber, com narração e presença de **Beatriz Nascimento** — a própria autora expondo suas teses sobre o quilombo.
+- *Vista minha pele* (2003), dir. Joel Zito Araújo: uma inversão — um Brasil em que os negros são a elite e os brancos, a maioria pobre. Curto e didaticamente devastador.
+- *AmarElo* (2020), dir. Emicida, e *Kbela* (2015), dir. Yasmin Thayná.
+- *Xingu* (2011), dir. Cao Hamburger, sobre os irmãos Villas-Bôas — assista atento ao que o filme mostra e ao que ele deixa de fora sobre o protagonismo indígena.
