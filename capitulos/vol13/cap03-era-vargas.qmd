@@ -1,5 +1,450 @@
 # A Era Vargas (1930–1945) {#sec-era-vargas}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Todo primeiro de maio, milhões de brasileiros não trabalham. Quem tem carteira assinada recebe **férias remuneradas**, **décimo terceiro salário**, descanso semanal, aposentadoria, adicional noturno e limite de jornada. Quase nada disso existia no Brasil antes de 1930 — e quase tudo isso foi criado, ou consolidado, por um governo que, ao mesmo tempo, **fechou o Congresso**, censurou a imprensa, torturou opositores, prendeu adversários sem julgamento e entregou uma militante judia grávida à Gestapo. **Getúlio Vargas** (1882–1954) é a figura mais divisiva da história do Brasil precisamente porque as duas listas são verdadeiras e pertencem ao mesmo homem, ao mesmo governo, muitas vezes ao mesmo ano. Este capítulo não pede que você escolha entre elas. Pede que entenda **como** as duas coisas podiam funcionar juntas — porque essa é a pergunta que os quinze anos de Vargas legaram à política brasileira e que ainda não terminou de ser respondida.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- distinguir as **três fases** da Era Vargas e o que caracteriza cada uma;
+- explicar as medidas do **Governo Provisório** e o significado da **Revolução Constitucionalista de 1932**;
+- analisar a **Constituição de 1934** e suas inovações (voto feminino, Justiça Eleitoral, direitos sociais);
+- caracterizar a polarização entre **ANL** e **AIB** e o papel do **Plano Cohen** no golpe de 1937;
+- descrever a estrutura do **Estado Novo**: DIP, DASP, interventores, censura e repressão;
+- explicar a **legislação trabalhista**, a **CLT** e a estrutura sindical corporativista;
+- avaliar a política econômica de industrialização e a **barganha** da política externa na Segunda Guerra;
+- narrar a participação da **FEB** e a contradição que derrubou o regime em 1945;
+- contrastar as interpretações de **populismo** e **trabalhismo** e o debate sobre o caráter do Estado Novo.
 :::
+
+## As três fases {#sec-tres-fases}
+
+::: {#fig-fases-era-vargas}
+
+```{.tikz}
+%%| filename: fig-fases-era-vargas
+%%| alt: Linha do tempo das três fases da Era Vargas, de 1930 a 1945, com os principais marcos de cada uma.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \fill[manualyellow!30] (0,-0.2) rectangle (4.2,0.2);
+  \fill[manualgreen!25]  (4.2,-0.2) rectangle (7.2,0.2);
+  \fill[manualred!25]    (7.2,-0.2) rectangle (15.0,0.2);
+  \draw[eixo, very thick, black] (-0.4,0) -- (15.6,0);
+
+  \foreach \x/\ano in {0/1930, 4.2/1934, 7.2/1937, 15.0/1945}
+    {\node[ponto] at (\x,0) {}; \node[below=4pt, font=\scriptsize\bfseries] at (\x,-0.2) {\ano};}
+
+  \node[align=center, font=\scriptsize\bfseries, text=manualyellow] at (2.1,0.62) {GOVERNO PROVISÓRIO};
+  \node[align=center, font=\scriptsize\bfseries, text=manualgreen]  at (5.7,0.62) {CONSTITUCIONAL};
+  \node[align=center, font=\scriptsize\bfseries, text=manualred]    at (11.1,0.62) {ESTADO NOVO};
+
+  \node[draw, thick, rounded corners, fill=manualyellow!18, align=left, text width=3.9cm] at (2.1,-2.3)
+    {governo por \textbf{decreto}\\ \textbf{interventores} nos estados\\ Min. do \textbf{Trabalho} e da\\ \textbf{Educação} (1930)\\ Código Eleitoral (1932)\\ \textbf{Revolução Constitucionalista}\\ de 1932 (SP)};
+  \node[draw, thick, rounded corners, fill=manualgreen!16, align=left, text width=3.5cm] at (5.9,-2.3)
+    {\textbf{Constituição de 1934}\\ voto \textbf{feminino} e \textbf{secreto}\\ \textbf{Justiça Eleitoral}\\ direitos sociais\\ \textbf{ANL} $\times$ \textbf{AIB}\\ Intentona (nov. 1935)\\ Lei de Segurança Nacional};
+  \node[draw, thick, rounded corners, fill=manualred!16, align=left, text width=5.2cm] at (11.4,-2.3)
+    {\textbf{Plano Cohen} e golpe (10 nov. 1937)\\ Constituição ``\textbf{polaca}'' $\cdot$ \textbf{DIP} e \textbf{DASP}\\ \textbf{CLT} (1943) e salário mínimo (1940)\\ \textbf{CSN} de Volta Redonda $\cdot$ \textbf{FEB}\\ Manifesto dos Mineiros (1943)\\ queda: \textbf{29 out. 1945}};
+
+  \node[draw, dashed, rounded corners, fill=manualgray!14, align=center, text width=14.6cm] at (7.4,-4.7)
+    {\textbf{A contradição que derruba o regime:} o Brasil manda a \textbf{FEB} lutar contra o \textbf{fascismo} na Itália (1944--45)\\ enquanto vive sob um regime de \textbf{partido único, censura e polícia política} --- e volta vitorioso.};
+\end{tikzpicture}
+```
+
+Os quinze anos de Vargas em três regimes sucessivos e muito diferentes entre si.
+:::
+
+Um erro frequente é tratar a "Era Vargas" como um bloco. São **três regimes distintos**: uma ditadura provisória revolucionária (1930–34), uma democracia limitada e conturbada (1934–37) e uma ditadura de tipo corporativo-autoritário (1937–45). Guardar essa divisão é a primeira condição para não errar em prova — e para não confundir o que Vargas fez em cada uma.
+
+## Governo Provisório (1930–1934) {#sec-governo-provisorio}
+
+Vargas assumiu com **poderes discricionários**: dissolveu o Congresso Nacional, as assembleias legislativas e as câmaras municipais, suspendeu a Constituição de 1891 e nomeou **interventores** para os estados — muitos deles tenentes, o que rompia com o poder das oligarquias locais.
+
+**As medidas estruturantes:**
+
+- criação do **Ministério do Trabalho, Indústria e Comércio** e do **Ministério da Educação e Saúde Pública** (ambos em novembro de 1930), sinal de que o Estado assumia funções que antes recusava (@sec-republica-velha);
+- **Código Eleitoral de 1932**: instituiu o **voto secreto**, a **Justiça Eleitoral** e o **voto feminino** — atendendo às bandeiras tenentistas e a décadas de campanha do movimento sufragista brasileiro, liderado pela bióloga **Bertha Lutz** e pela Federação Brasileira pelo Progresso Feminino;
+- primeiras leis trabalhistas por decreto: jornada de 8 horas (indústria, 1932), regulamentação do trabalho de mulheres e menores, carteira profissional, sindicalização controlada;
+- **Conselho Nacional do Café** e compra e **queima de estoques** — cerca de 78 milhões de sacas destruídas entre 1931 e 1944 — para sustentar o preço em plena depressão.
+
+**A Revolução Constitucionalista de 1932.** São Paulo, que perdera a Presidência e recebera um interventor **não paulista** (João Alberto, tenente pernambucano), reagiu. Em **9 de julho de 1932**, o estado pegou em armas exigindo a **convocação de uma Assembleia Constituinte** e a autonomia paulista. Houve mobilização social notável — o movimento **MMDC**, batizado com as iniciais de quatro estudantes mortos em maio, a campanha "Ouro para o bem de São Paulo", voluntários, indústria convertida em produção bélica. Mas São Paulo lutou **sozinho**: Minas e o Rio Grande do Sul, que haviam prometido apoio, não se moveram. Após três meses e cerca de mil mortos, os paulistas se renderam em outubro.
+
+::: {.callout-tip title="O paradoxo de 1932"}
+São Paulo **perdeu a guerra e ganhou a pauta**. Militarmente, foi derrotado; politicamente, Vargas antecipou as eleições para a Constituinte (maio de 1933), nomeou um interventor paulista e promoveu a nova Constituição em 1934. Por quê? Porque o custo de manter São Paulo submetido pela força — sendo ele o centro econômico do país — era maior que o de conceder. É um bom exemplo de que o resultado militar de um conflito e seu resultado político podem divergir. Guarde também a ambiguidade do movimento: ele pedia **legalidade constitucional** (bandeira democrática) e, ao mesmo tempo, a **restauração do peso político** de uma oligarquia regional (bandeira conservadora). As duas coisas conviviam nele.
+:::
+
+## O período constitucional (1934–1937) {#sec-periodo-constitucional}
+
+A **Constituição de 1934** [@constituicao1934] foi a mais avançada que o país tivera até então e a de vida mais curta — durou três anos. Suas inovações:
+
+- **voto secreto**, **obrigatório** e **feminino**; **Justiça Eleitoral** consolidada; voto a partir dos 18 anos;
+- um capítulo inteiro de **direitos sociais**: salário mínimo, jornada de 8 horas, férias, repouso semanal, proibição de trabalho a menores de 14 anos, indenização por dispensa sem justa causa;
+- **nacionalização** progressiva das riquezas do subsolo, dos bancos e das empresas de seguros;
+- **representação classista** no Legislativo: deputados eleitos por sindicatos e associações patronais, ao lado dos eleitos pelo voto — traço **corporativista** que indica para onde o regime caminhava;
+- ensino primário gratuito e obrigatório; a União passa a legislar sobre diretrizes da educação.
+
+Ainda excluía **analfabetos** do voto, e Vargas foi eleito **indiretamente** pela própria Constituinte para um mandato até 1938.
+
+**A polarização.** Os anos 1934–37 foram dominados por dois movimentos de massa, os primeiros da história brasileira — e ambos, note-se, **antiliberais**.
+
+::: {#fig-anl-aib}
+
+```{.tikz}
+%%| filename: fig-anl-aib
+%%| alt: Quadro comparativo entre a Aliança Nacional Libertadora e a Ação Integralista Brasileira nos anos 1930.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \node[draw, very thick, rounded corners, fill=manualred!16, align=left, text width=6.2cm, text=manualred] (anl) at (-3.6,0)
+    {\textbf{ANL --- Aliança Nacional Libertadora} (1935)\\[2pt]
+     \textbf{presidente de honra:} Luís Carlos Prestes\\
+     \textbf{base:} PCB, socialistas, sindicatos, setores\\ militares e da classe média urbana\\
+     \textbf{programa:} suspensão da dívida externa,\\ nacionalização de empresas estrangeiras,\\ \textbf{reforma agrária}, liberdades democráticas\\
+     \textbf{lema:} ``Pão, Terra e Liberdade''\\
+     \textbf{fim:} posta na ilegalidade em jul. 1935;\\ \textbf{Intentona Comunista} em nov. 1935};
+  \node[draw, very thick, rounded corners, fill=manualgreen!16, align=left, text width=6.2cm, text=manualgreen] (aib) at (3.6,0)
+    {\textbf{AIB --- Ação Integralista Brasileira} (1932)\\[2pt]
+     \textbf{chefe nacional:} Plínio Salgado\\
+     \textbf{base:} classes médias, militares, imigrantes,\\ setores da Igreja; $\sim$centenas de milhares\\
+     \textbf{programa:} Estado integral e corporativo,\\ nacionalismo, anticomunismo, antiliberalismo,\\ antissemitismo em parte da liderança\\
+     \textbf{lema:} ``Deus, Pátria e Família''; saudação\\ \textit{Anauê!} e camisas verdes\\
+     \textbf{fim:} apoia o golpe de 1937 e é \textbf{dissolvida};\\ tenta golpe contra Vargas em maio de 1938};
+
+  \node[draw, dashed, rounded corners, fill=manualyellow!22, align=center, text width=13.4cm] at (0,-3.6)
+    {\textbf{O que os une, apesar de tudo:} ambos são movimentos de \textbf{massa} e ambos rejeitam a democracia \textbf{liberal}\\ --- que consideram, cada um a seu modo, uma fachada. É esse consenso antiliberal, e não a força de um\\ dos dois, que abre caminho para 1937. \textbf{Vargas derrotou os dois} e ficou com o Estado que ambos queriam.};
+\end{tikzpicture}
+```
+
+A polarização de 1935: os dois primeiros movimentos de massa do Brasil — e o que ambos rejeitavam.
+:::
+
+**A Intentona Comunista (novembro de 1935).** Após a ANL ser posta na ilegalidade, o PCB, seguindo orientação da Internacional Comunista e sob liderança de Prestes, tentou uma insurreição militar em Natal, Recife e Rio de Janeiro. Foi **mal planejada, isolada e rapidamente esmagada**. Soldados legalistas foram mortos dormindo na Escola de Aviação, episódio explorado ao máximo pela propaganda oficial nos anos seguintes.
+
+As consequências foram muito maiores que o levante:
+
+- **estado de sítio** e depois **estado de guerra**, renovados sucessivamente;
+- prisão de milhares de opositores; **Prestes** preso em 1936 e condenado; sua companheira, a comunista alemã e judia **Olga Benário**, grávida, foi **entregue à Gestapo** e morta num centro de eutanásia nazista em 1942 (@sec-holocausto-balanco);
+- criação da **Comissão Nacional de Repressão ao Comunismo** e fortalecimento da polícia política de **Filinto Müller**, com uso sistemático de tortura;
+- consolidação do **anticomunismo** como cimento ideológico capaz de unir militares, Igreja, empresariado e classes médias — o ativo político que Vargas usaria em 1937.
+
+**O golpe de 1937.** Às vésperas das eleições presidenciais de janeiro de 1938 — com três candidatos na disputa e Vargas constitucionalmente impedido de concorrer —, o Estado-Maior divulgou o **Plano Cohen**: um suposto plano comunista de insurreição, com incêndios, saques e assassinatos. Era **falso**, forjado pelo capitão integralista **Olímpio Mourão Filho** (que, ironia, seria o general a deflagrar o golpe de 1964). Com base nele, o Congresso aprovou o estado de guerra; em **10 de novembro de 1937**, Vargas fechou o Congresso, cancelou as eleições e anunciou pelo rádio uma nova Constituição, já pronta.
+
+## O Estado Novo (1937–1945) {#sec-estado-novo}
+
+**A Constituição de 1937** [@constituicao1937], redigida por **Francisco Campos**, ficou conhecida como "**Polaca**" por inspirar-se na Constituição autoritária polonesa de 1935. Ela:
+
+- concentrava poderes no presidente, que legislava por **decreto-lei**;
+- dissolvia o Congresso, as assembleias e as câmaras municipais; extinguia os partidos;
+- previa um **plebiscito** de ratificação que **nunca foi convocado**;
+- instituía a **pena de morte** para crimes políticos e permitia a suspensão de imunidades;
+- proibia **greve** e **lock-out**, definidos como recursos "antissociais" e nocivos ao trabalho e ao capital.
+
+::: {#fig-estado-novo-pilares}
+
+```{.tikz}
+%%| filename: fig-estado-novo-pilares
+%%| alt: Diagrama dos quatro pilares do Estado Novo: repressão, propaganda, tecnoburocracia e legislação social.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \node[draw, very thick, rounded corners, fill=manualgray!22, align=center, text width=5.4cm] (c) at (0,2.6)
+    {\textbf{ESTADO NOVO} (1937--1945)\\ Constituição ``\textbf{Polaca}''\\ presidente legisla por \textbf{decreto-lei}};
+
+  \node[draw, thick, rounded corners, fill=manualred!16, align=center, text width=3.5cm] (r) at (-5.6,0.1)
+    {\textbf{REPRESSÃO}\\ polícia política de\\ \textbf{Filinto Müller}\\ tortura, prisões,\\ deportações};
+  \node[draw, thick, rounded corners, fill=manualyellow!28, align=center, text width=3.5cm] (p) at (-1.85,0.1)
+    {\textbf{PROPAGANDA}\\ \textbf{DIP} (1939): censura\\ prévia, \textit{Hora do Brasil},\\ culto ao ``pai dos\\ pobres''};
+  \node[draw, thick, rounded corners, fill=manualblue!16, align=center, text width=3.5cm] (t) at (1.85,0.1)
+    {\textbf{TECNOBUROCRACIA}\\ \textbf{DASP} (1938):\\ concurso público,\\ mérito, planejamento,\\ \textbf{interventores}};
+  \node[draw, thick, rounded corners, fill=manualgreen!18, align=center, text width=3.5cm] (s) at (5.6,0.1)
+    {\textbf{LEGISLAÇÃO SOCIAL}\\ salário mínimo (1940)\\ \textbf{CLT} (1943)\\ sindicato \textbf{único} e\\ imposto sindical};
+
+  \draw[vetor, very thick, manualgray] (c) -- (r);
+  \draw[vetor, very thick, manualgray] (c) -- (p);
+  \draw[vetor, very thick, manualgray] (c) -- (t);
+  \draw[vetor, very thick, manualgray] (c) -- (s);
+
+  \node[draw, dashed, rounded corners, fill=manualgray!14, align=center, text width=12.6cm] at (0,-2.4)
+    {\textbf{A chave do regime:} os quatro pilares não são contraditórios, são \textbf{complementares}. A legislação social\\ é concedida \textbf{de cima}, sem negociação, por um Estado que ao mesmo tempo \textbf{proíbe a greve} e controla o sindicato --- \\ e a propaganda transforma o direito conquistado em \textbf{dádiva} do governante.};
+\end{tikzpicture}
+```
+
+Os quatro pilares do Estado Novo. Repare que a repressão e a política social operam sobre o mesmo público.
+:::
+
+**O DIP e a construção do mito.** O **Departamento de Imprensa e Propaganda** (1939) exercia censura prévia sobre imprensa, rádio, teatro, cinema e música; produzia o *Cine Jornal Brasileiro*, exibido obrigatoriamente antes dos filmes; e comandava a **Hora do Brasil**, programa de transmissão obrigatória em todas as emissoras — que existe até hoje, sob outro nome. O rádio, tecnologia nova e capaz de alcançar analfabetos, foi o instrumento decisivo: Vargas falava diretamente ao povo, sem intermediários, e se construía como "**pai dos pobres**". Simultaneamente, o DIP promovia uma **cultura nacional oficial**: o samba (desde que exaltasse o trabalho, não a malandragem), o futebol, o carnaval, a *feijoada* como símbolos de brasilidade. É a mesma operação que a Itália fascista e outros regimes fizeram — e não deixa de ser verdade que várias dessas manifestações eram genuinamente populares antes de serem oficializadas.
+
+**O DASP e a modernização do Estado.** O **Departamento Administrativo do Serviço Público** (1938) introduziu **concurso público**, carreiras, orçamento centralizado e planejamento. É a origem da burocracia técnica brasileira e, junto com os interventores, o mecanismo pelo qual Vargas quebrou o poder das oligarquias estaduais — simbolizado na queima pública das bandeiras dos estados em 1937, ato deliberado de afirmação da unidade nacional sobre os regionalismos.
+
+**A repressão.** Não se pode listar as realizações sem listar o preço. A polícia política de **Filinto Müller** praticou tortura sistemática, prisões sem processo, invasão de domicílio e deportações. Escritores foram presos (**Graciliano Ramos** relatou a experiência em *Memórias do cárcere*), jornais fechados, livros queimados em praça pública. A **campanha de nacionalização** proibiu o ensino e a imprensa em língua estrangeira, atingindo duramente as colônias alemã, italiana e japonesa do Sul e de São Paulo, com fechamento de escolas e prisões de pessoas por falarem sua língua materna.
+
+### A legislação trabalhista e a estrutura sindical {#sec-clt}
+
+A obra social do período é vasta e real:
+
+- **salário mínimo** (1940), o primeiro do país;
+- **Consolidação das Leis do Trabalho — CLT** (1943), que reuniu e sistematizou a legislação: jornada de 8 horas, férias remuneradas, repouso semanal, aviso prévio, indenização, proteção ao trabalho da mulher e do menor, **Justiça do Trabalho** (instalada em 1941) para julgar conflitos;
+- expansão dos **Institutos de Aposentadorias e Pensões (IAPs)**, por categoria profissional;
+- carteira de trabalho como documento de acesso a todos esses direitos.
+
+E vem com um desenho institucional específico, copiado em parte da **Carta del Lavoro** italiana:
+
+- **unicidade sindical**: um único sindicato por categoria e por base territorial, reconhecido pelo Ministério do Trabalho;
+- **imposto sindical** obrigatório (um dia de trabalho por ano), que financiava o sindicato **independentemente** de ele ter filiados — retirando-lhe a necessidade de conquistar apoio;
+- **proibição da greve** e intervenção ministerial nas diretorias;
+- vinculação de direitos à **carteira assinada** — o que deixava de fora os **trabalhadores rurais**, a maioria da população brasileira, que só seria contemplada em 1963.
+
+::: {.callout-important title="Direito conquistado ou concedido?"}
+Esta é a discussão mais importante do capítulo, e ela tem três posições defensáveis.
+
+**(1) Concessão.** Vargas outorgou de cima, sem negociação, e cobrou o preço: lealdade política e sindicatos domesticados. A legislação teria sido uma forma de **prevenir** a organização autônoma dos trabalhadores, não de reconhecê-la.
+
+**(2) Conquista prévia.** Quase todas as reivindicações da CLT constavam das pautas do movimento operário desde as greves de 1917 (@sec-republica-velha) e figuravam em leis anteriores parcialmente descumpridas. Vargas **codificou e fez cumprir** o que já era demanda histórica — e o fez porque havia pressão acumulada.
+
+**(3) Apropriação simbólica.** A síntese mais aceita hoje: os **direitos** vinham de uma luta anterior, mas a **narrativa** foi capturada pelo Estado, que os apresentou como dádiva pessoal do governante. O DIP transformou lei em favor.
+
+Para prova, a formulação de maior rendimento é: *os direitos tinham origem na luta operária, mas foram outorgados dentro de uma estrutura corporativa que subordinava o sindicato ao Estado — e a propaganda oficial converteu conquista em dádiva.*
+:::
+
+### Economia e industrialização {#sec-economia-vargas}
+
+A crise de 1929 tornara impossível importar. O Estado assumiu, então, o papel de **indutor da industrialização**, criando empresas em setores estratégicos que o capital privado não financiava:
+
+- **CSN — Companhia Siderúrgica Nacional** (1941), em Volta Redonda, a primeira grande usina de aço integrada do país;
+- **Companhia Vale do Rio Doce** (1942), para o minério de ferro;
+- **Fábrica Nacional de Motores**, **Companhia Nacional de Álcalis**, **Conselho Nacional do Petróleo** (1938).
+
+**A barganha da Segunda Guerra.** Aqui está a peça mais reveladora do período. Entre 1937 e 1941, o Brasil manteve relações comerciais e diplomáticas com a **Alemanha nazista** (que chegou a ser seu segundo maior parceiro comercial) **e** com os **Estados Unidos**, jogando um contra o outro. Quando Washington precisou de bases aéreas no Nordeste — essenciais para a rota do Atlântico Sul rumo à África —, Vargas cobrou: os americanos financiaram, via Eximbank, a construção da **CSN**. O historiador **Gerson Moura** chamou essa estratégia de "**equidistância pragmática**", ou autonomia na dependência: um país periférico extraindo vantagem da rivalidade entre potências [@moura2012].
+
+O Brasil rompeu com o Eixo em janeiro de 1942 e declarou guerra em agosto, depois que submarinos alemães afundaram navios mercantes brasileiros, matando cerca de 1.000 pessoas — o que produziu comoção popular e manifestações exigindo a declaração de guerra.
+
+**A FEB.** A **Força Expedicionária Brasileira**, com cerca de 25 mil homens, combateu na **Itália** entre 1944 e 1945, sob comando norte-americano, com participação decisiva em **Monte Castello** e na rendição alemã em Fornovo. Cerca de 460 brasileiros morreram. A FEB foi também a primeira força armada racialmente **integrada** enviada ao exterior por um país americano — soldados negros e brancos serviram nas mesmas unidades, ao contrário do Exército dos EUA da época.
+
+## A queda (1943–1945) {#sec-queda-vargas}
+
+::: {.callout-tip title="A contradição fatal, em uma frase"}
+**Não se combate o fascismo no exterior mantendo uma ditadura em casa.** Essa era a frase, em variações, que circulava entre oficiais da FEB, estudantes e liberais — e é a explicação mais econômica da queda do Estado Novo. Um regime que censurava a imprensa, proibia partidos e prendia opositores enviara 25 mil homens para lutar contra regimes que faziam o mesmo. Os soldados voltaram sabendo disso.
+:::
+
+Os passos finais:
+
+- **Manifesto dos Mineiros** (outubro de 1943): 92 intelectuais e políticos liberais mineiros pedem publicamente o retorno ao Estado de direito. Vários perdem seus empregos;
+- **1945**: sob pressão, Vargas anistia presos políticos, legaliza os partidos e marca eleições para dezembro. Nascem a **UDN** (oposição liberal-conservadora, com **Eduardo Gomes**), o **PSD** (situação, máquina de interventores e do funcionalismo, com o general **Dutra**) e o **PTB** (trabalhista, apoiado na estrutura sindical e no nome de Vargas). O **PCB** é legalizado e Prestes, libertado;
+- **queremismo**: movimento popular com o lema "**Queremos Getúlio**", que pedia a permanência do presidente e uma Constituinte **com** Vargas — mobilização que assustou tanto a oposição quanto os militares, que a leram como manobra para adiar as eleições;
+- **29 de outubro de 1945**: após Vargas nomear seu irmão Benjamim chefe de polícia do Distrito Federal, os generais **Góis Monteiro** e **Dutra** — os mesmos que o haviam colocado no poder em 1930 — o **depuseram**. Não houve resistência.
+
+Vargas retirou-se para São Borja, foi eleito **senador** em 1945 e retornaria à Presidência em 1951, pelo voto direto (@sec-republica-de-1946).
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+**Populismo ou trabalhismo?** Poucos debates historiográficos brasileiros tiveram tanto impacto sobre o vocabulário público — e vale a pena entender por que o conceito mudou.
+
+**1. A teoria do populismo (anos 1950–70).** Formulada por sociólogos ligados ao ISEB e à USP — **Francisco Weffort**, **Octavio Ianni** —, explicava a política brasileira de 1930 a 1964 assim: a industrialização acelerada produziu **massas urbanas** recém-chegadas do campo, desenraizadas, sem consciência de classe e sem organização própria. Nesse vazio, um **líder carismático** estabelece com elas uma relação **direta**, emocional e sem mediações institucionais, oferecendo benefícios em troca de apoio. O populismo seria, então, uma forma de **manipulação** que substitui a organização autônoma dos trabalhadores por vínculo pessoal com o chefe [@weffort1978; @ianni1968]. O Estado, nessa leitura, é o "Estado de compromisso" que arbitra entre classes sem se identificar com nenhuma.
+
+**2. A crítica: os trabalhadores como sujeitos (anos 1980–2000).** A partir de **Angela de Castro Gomes**, e depois de **Jorge Ferreira**, a tese sofreu revisão profunda [@gomesAngela2005; @ferreira2001]. As objeções:
+
+- **Ela nega agência.** Descreve trabalhadores como massa amorfa e manipulável, incapaz de calcular interesses. Mas as fontes — cartas enviadas a Vargas, processos na Justiça do Trabalho, jornais e atas sindicais — mostram trabalhadores que **cobravam** direitos, negociavam, escolhiam quando apoiar e quando não, e usavam a lei a seu favor. Gomes analisou milhares dessas cartas: elas não são de súditos agradecidos, e sim de cidadãos exigindo o cumprimento do que lhes foi prometido.
+- **Ela é anacrônica e teleológica.** Pressupõe uma consciência de classe "correta" (a do operário socialista europeu) contra a qual a experiência brasileira aparece como desvio ou atraso.
+- **Ela ignora a construção de sentido.** O **trabalhismo**, argumenta Gomes, foi um **pacto**: o Estado ofereceu direitos e um lugar simbólico de dignidade — o trabalhador como pilar da nação, contraposto ao "vadio" —, e os trabalhadores aderiram porque aquilo **fazia sentido** para eles e lhes rendia ganhos concretos. Não é manipulação; é uma **negociação assimétrica**, em que o lado mais fraco também joga.
+- **Ela explica mal a durabilidade.** Se fosse mera manipulação carismática, o trabalhismo deveria morrer com o líder. Não morreu: o PTB cresceu depois de 1954, a memória de Vargas se manteve entre trabalhadores por décadas, e o vínculo sobreviveu ao próprio homem.
+
+**3. O que restou do conceito.** Hoje, boa parte dos historiadores brasileiros evita "populismo" como categoria **explicativa**, considerando-o impreciso e carregado de juízo de valor — mas reconhece que ele descreve **fenômenos reais**: a comunicação direta líder–povo pelo rádio, a personalização da política, a fragilidade das mediações partidárias, o uso do Estado como distribuidor de benefícios. A recomendação prática, para prova e para redação, é: **use o termo com aspas conceituais**, explicando o que ele capta e o que ele deixa escapar, em vez de aplicá-lo como rótulo.
+
+**4. O Estado Novo era fascista?** Segundo debate, igualmente clássico. As **semelhanças** são reais e não devem ser minimizadas: partido único de fato, culto ao chefe, corporativismo, aparato de propaganda, polícia política, repressão ao comunismo, estética de massa. As **diferenças**, porém, são estruturais [@fausto1997; @trindade1979]:
+
+| | **Fascismo (Itália, Alemanha)** | **Estado Novo (Brasil)** |
+|---|---|---|
+| **Origem** | movimento de massas que conquista o Estado | golpe **de dentro** do Estado, sem partido de massa |
+| **Partido** | partido único **organizador** da sociedade | **nenhum** partido; a AIB foi **dissolvida** em dezembro de 1937 |
+| **Mobilização** | permanente, milícias, enquadramento total | **desmobilização**: a população é público, não militante |
+| **Expansão** | militarismo e guerra externa como projeto | nenhum projeto expansionista |
+| **Raça** | racismo de Estado, genocídio (Alemanha) | não há doutrina racial de Estado, embora haja racismo e política imigratória restritiva |
+
+A caracterização mais aceita é a de um **autoritarismo modernizador de tipo corporativo**, aparentado ao salazarismo português e a regimes ibero-americanos do período, e não de um fascismo propriamente dito. Uma prova interna é decisiva: Vargas **destruiu** o movimento fascista brasileiro. A AIB o apoiou em 1937, foi dissolvida no mês seguinte junto com todos os partidos, tentou um golpe contra ele em maio de 1938 e teve suas lideranças presas ou exiladas.
+
+**5. Por que essas duas discussões importam.** Porque as duas mostram o mesmo mecanismo: rótulos importados ("populismo", "fascismo") **organizam** a percepção, mas também **obscurecem** o que é específico. O bom procedimento é sempre o mesmo — descrever primeiro as práticas concretas (quem decide, quem se beneficia, quem é reprimido, com que instituições), e só depois discutir o nome. Vale para Vargas e vale para qualquer regime, inclusive os que você verá nos próximos capítulos (@sec-ditadura-militar).
+
+## Resumo do capítulo {#sec-resumo}
+
+- A Era Vargas tem **três fases**: **Governo Provisório** (1930–34, por decreto), **Constitucional** (1934–37, democracia limitada) e **Estado Novo** (1937–45, ditadura corporativa). Não trate o período como bloco.
+- **Governo Provisório:** interventores nos estados; criação dos ministérios do **Trabalho** e da **Educação** (1930); **Código Eleitoral de 1932** com **voto secreto, feminino e Justiça Eleitoral**; primeiras leis trabalhistas; queima de estoques de café.
+- **Revolução Constitucionalista de 1932:** São Paulo pega em armas pela Constituinte e pela autonomia, luta **sozinho**, perde militarmente (~1.000 mortos) e **vence politicamente** — Constituinte antecipada, interventor paulista, Constituição de 1934.
+- **Constituição de 1934:** voto secreto, obrigatório e **feminino**; direitos sociais (salário mínimo, 8 horas, férias); nacionalização do subsolo; **representação classista** (traço corporativista); ainda exclui **analfabetos**.
+- **Polarização de 1935:** **ANL** (Prestes; "Pão, Terra e Liberdade"; reforma agrária) × **AIB** (Plínio Salgado; "Deus, Pátria e Família"; *Anauê*). Ambos são movimentos de **massa** e ambos são **antiliberais**. A **Intentona Comunista** (nov. 1935) fracassa e serve de pretexto para o estado de guerra, a prisão de milhares, a entrega de **Olga Benário** à Gestapo e a consolidação do **anticomunismo**.
+- **Golpe de 1937:** o falso **Plano Cohen**, forjado por Olímpio Mourão Filho, justifica o fechamento do Congresso em **10 de novembro** e a Constituição "**Polaca**" de Francisco Campos — decreto-lei, extinção dos partidos, pena de morte política, plebiscito nunca convocado, greve proibida.
+- **Quatro pilares do Estado Novo:** **repressão** (Filinto Müller, tortura, campanha de nacionalização), **propaganda** (**DIP**, Hora do Brasil, "pai dos pobres"), **tecnoburocracia** (**DASP**, concurso público, planejamento) e **legislação social** (salário mínimo de 1940, **CLT** de 1943, Justiça do Trabalho, IAPs).
+- **Estrutura sindical corporativa:** **unicidade**, **imposto sindical**, proibição de greve, direitos atrelados à **carteira assinada** — excluindo os **trabalhadores rurais** até 1963.
+- **Economia:** **CSN** (1941), **Vale do Rio Doce** (1942), Conselho Nacional do Petróleo. Na guerra, a "**equidistância pragmática**": barganha entre EUA e Alemanha que rende o financiamento de Volta Redonda em troca das bases do Nordeste. A **FEB** (25 mil homens, Monte Castello, ~460 mortos) combate na Itália.
+- **A queda:** a contradição de combater o fascismo fora e manter a ditadura dentro; **Manifesto dos Mineiros** (1943); anistia, partidos (**UDN**, **PSD**, **PTB**, PCB) e eleições em 1945; **queremismo**; deposição em **29 de outubro de 1945** por Góis Monteiro e Dutra.
+- **Historiografia:** **populismo** (Weffort, Ianni: massas desenraizadas manipuladas por líder carismático) × **trabalhismo** (**Gomes**, Ferreira: pacto negociado em que trabalhadores exercem **agência**, comprovada por cartas, processos e atas). Sobre o caráter do regime: **não** foi fascismo — golpe de dentro do Estado, **sem** partido de massas (a AIB foi dissolvida e tentou golpe em 1938), com **desmobilização** em vez de mobilização — e sim **autoritarismo modernizador corporativo**.
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Domine: (1) as três fases e o que muda entre elas; (2) o paradoxo de 1932; (3) o quadro ANL × AIB; (4) a sequência Intentona → anticomunismo → Plano Cohen → golpe; (5) os quatro pilares do Estado Novo; (6) o desenho corporativo da CLT e o que ele deixa de fora; (7) a barganha da guerra; (8) o debate populismo × trabalhismo e o teste "foi fascismo?".
+:::
+
+**1.** Caracterize as **três fases** da Era Vargas.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**1. Governo Provisório (1930–1934) — ditadura revolucionária.** Vargas governa com **poderes discricionários**: dissolve Congresso, assembleias e câmaras, suspende a Constituição de 1891 e nomeia **interventores** (muitos deles tenentes) para os estados, quebrando o poder oligárquico local. Cria os ministérios do **Trabalho, Indústria e Comércio** e da **Educação e Saúde** (1930), edita o **Código Eleitoral de 1932** (voto secreto, feminino, Justiça Eleitoral), decreta as primeiras leis trabalhistas e compra e queima estoques de café. Enfrenta a **Revolução Constitucionalista de 1932**.
+
+**2. Governo Constitucional (1934–1937) — democracia limitada e conturbada.** A **Constituição de 1934** traz voto secreto, obrigatório e feminino, capítulo de direitos sociais, nacionalização do subsolo e representação classista; mantém a exclusão dos analfabetos. Vargas é eleito **indiretamente** pela Constituinte. O período é dominado pela polarização **ANL × AIB**, pela **Intentona Comunista** (novembro de 1935) e pela repressão subsequente, com estado de sítio e depois estado de guerra permanentes.
+
+**3. Estado Novo (1937–1945) — ditadura corporativa.** Golpe de **10 de novembro de 1937**, justificado pelo falso **Plano Cohen**. Constituição "**Polaca**": decreto-lei, extinção dos partidos, plebiscito nunca convocado, pena de morte política, greve proibida. Estrutura-se sobre **DIP** (propaganda e censura), **DASP** (burocracia técnica), polícia política de **Filinto Müller** e **legislação social** (salário mínimo de 1940, CLT de 1943). Industrialização por empresas estatais (**CSN**, **Vale**). Participação na Segunda Guerra com a **FEB**. Queda em **29 de outubro de 1945**.
+
+**Por que a distinção importa.** Porque medidas frequentemente atribuídas em bloco a "Vargas" pertencem a fases com lógicas opostas: o voto feminino e a Justiça Eleitoral são de 1932, **antes** da ditadura; a CLT é de 1943, **durante** ela. Confundir isso produz erros graves de interpretação — e é exatamente onde as bancas cobram.
+:::
+
+**2.** Explique a **Revolução Constitucionalista de 1932** e por que se diz que São Paulo perdeu a guerra e ganhou a paz.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**As causas.** São Paulo era o estado mais rico e o centro do poder na Primeira República. Com 1930, perdeu a Presidência, viu suas elites afastadas e recebeu um **interventor não paulista** — o tenente pernambucano João Alberto —, além de sofrer com a política econômica do novo governo. Somava-se a isso a bandeira **institucional**: dois anos depois da revolução, o país continuava sem Constituição e governado por decreto.
+
+**O movimento.** Em **9 de julho de 1932**, São Paulo se levantou exigindo a convocação de uma **Assembleia Constituinte** e a autonomia estadual. Houve mobilização social intensa: o **MMDC** (iniciais de Martins, Miragaia, Dráusio e Camargo, estudantes mortos em maio), voluntários, doação de joias na campanha "Ouro para o bem de São Paulo", conversão de indústrias para produção bélica.
+
+**A derrota.** Minas Gerais e Rio Grande do Sul, que haviam sinalizado apoio, **não aderiram**. Isolado, São Paulo resistiu quase três meses e se rendeu em **2 de outubro de 1932**, com cerca de mil mortos.
+
+**A vitória política.** Vargas, no entanto, **atendeu a pauta**: convocou eleições para a Constituinte já em maio de 1933, nomeou um interventor paulista, anistiou combatentes e promulgou a **Constituição de 1934**.
+
+**Por quê?** Porque manter pela força o estado que respondia pela maior parte da economia e da arrecadação do país sairia caro demais, e porque a bandeira constitucionalista tinha apoio muito além de São Paulo. Ceder no procedimento (dar uma Constituição) preservava o essencial (a nova distribuição de poder).
+
+**A ambiguidade a registrar.** O movimento combinava uma bandeira **democrática** (fim do governo por decreto, Constituição) com uma bandeira **conservadora** (recuperar a hegemonia política de uma oligarquia regional). As duas coexistiam, e reduzir 1932 a apenas uma delas — seja "luta pela democracia", seja "revolta de elites derrotadas" — empobrece a análise.
+:::
+
+**3.** Compare a **ANL** e a **AIB**. O que elas revelam sobre a política brasileira dos anos 1930?
+
+::: {.callout-tip collapse="true" title="Solução"}
+| | **ANL** (1935) | **AIB** (1932) |
+|---|---|---|
+| **Liderança** | Luís Carlos Prestes (presidente de honra) | Plínio Salgado (chefe nacional) |
+| **Base** | PCB, socialistas, sindicatos, setores militares e da classe média | classes médias urbanas, militares, imigrantes, setores da Igreja |
+| **Programa** | suspensão da dívida externa, nacionalização de empresas estrangeiras, **reforma agrária**, liberdades democráticas | Estado **integral** e corporativo, nacionalismo, anticomunismo, antiliberalismo; antissemitismo em parte da liderança |
+| **Lema e símbolos** | "Pão, Terra e Liberdade" | "Deus, Pátria e Família"; saudação *Anauê!*, camisas verdes, sigma |
+| **Destino** | ilegal em julho de 1935; **Intentona** em novembro; repressão massiva | apoia o golpe de 1937 e é **dissolvida** em dezembro; tenta golpe contra Vargas em maio de 1938 |
+
+**O que revelam.**
+
+1. **A política de massas chegou ao Brasil.** Pela primeira vez, movimentos organizam centenas de milhares de pessoas com programa, símbolos, imprensa e militância de rua — coisa impensável no arranjo oligárquico anterior.
+2. **A polarização brasileira espelha a mundial.** É o mesmo confronto entre comunismo e fascismo que atravessa a Europa dos anos 1930 (@sec-totalitarismos), adaptado às questões locais (latifúndio, imperialismo, identidade nacional).
+3. **O consenso antiliberal.** Este é o ponto mais importante e o menos lembrado: **os dois** rejeitavam a democracia liberal — a ANL por considerá-la fachada da dominação burguesa, a AIB por vê-la como fonte de desordem e divisão. Numa disputa em que os dois maiores movimentos de massa são antiliberais, a democracia representativa fica sem defensores mobilizados. É esse vácuo, mais do que a força de qualquer um dos dois, que explica a facilidade do golpe de 1937.
+4. **Quem ganhou foi o Estado.** Vargas usou o medo do comunismo (Intentona) para obter poderes de exceção, aceitou o apoio integralista para dar o golpe e, um mês depois, **dissolveu também a AIB**. Ao fim, implantou uma versão própria do Estado corporativo que os integralistas defendiam — sem os integralistas.
+:::
+
+**4.** Analise a **legislação trabalhista** do Estado Novo. Ela representou conquista dos trabalhadores ou concessão do governo?
+
+::: {.callout-tip collapse="true" title="Solução"}
+**O que foi criado.** Salário mínimo (1940); **CLT** (1943), consolidando jornada de 8 horas, férias remuneradas, repouso semanal, aviso prévio, indenização por dispensa, proteção ao trabalho da mulher e do menor; **Justiça do Trabalho** (1941); expansão dos **IAPs**; carteira de trabalho como chave de acesso a tudo isso.
+
+**O desenho institucional que acompanha.** Inspirado na *Carta del Lavoro* italiana: **unicidade sindical** (um sindicato por categoria, reconhecido pelo Ministério), **imposto sindical** obrigatório (que financia o sindicato mesmo sem filiados, tornando-o independente de sua base), **proibição da greve**, intervenção do ministério nas diretorias e exclusão dos **trabalhadores rurais** — a maioria da população — do alcance da lei.
+
+**Argumentos para "concessão".** Foi outorgada de cima, sem negociação, num regime que **proibia** a organização autônoma. O objetivo declarado por Vargas era prevenir o conflito de classes e "harmonizar" capital e trabalho. E a contrapartida era política: lealdade, e sindicatos convertidos em correia de transmissão do Estado.
+
+**Argumentos para "conquista".** Praticamente todas as reivindicações da CLT já constavam das pautas operárias desde as greves de 1917, e várias figuravam em leis anteriores sistematicamente descumpridas. Vargas **codificou, unificou e fez cumprir** demandas históricas — e o fez porque havia pressão social acumulada e porque um Estado que se queria árbitro precisava de instrumentos para arbitrar.
+
+**A síntese hoje predominante.** Angela de Castro Gomes mostrou, a partir de milhares de **cartas** enviadas a Vargas, de processos na Justiça do Trabalho e de atas sindicais, que os trabalhadores **não** eram receptores passivos [@gomesAngela2005]: eles cobravam o cumprimento da lei, acionavam a Justiça do Trabalho, negociavam, apoiavam seletivamente. O que houve foi um **pacto assimétrico**: o Estado ofereceu direitos reais e um lugar simbólico de dignidade (o trabalhador como pilar da nação); os trabalhadores aderiram porque aquilo fazia sentido e rendia ganhos concretos — e, ao mesmo tempo, o Estado capturou a **narrativa**, apresentando como dádiva pessoal do governante o que era resultado de décadas de luta.
+
+**Formulação recomendada para prova.** "Os direitos tinham origem em reivindicações históricas do movimento operário, mas foram outorgados dentro de uma estrutura corporativa que subordinava o sindicato ao Estado e proibia a greve; a propaganda oficial converteu conquista em concessão." Essa frase é preferível a escolher um dos polos, porque descreve o que efetivamente aconteceu.
+:::
+
+**5.** (Estilo ENEM) Leia o texto.
+
+> "O Governo, sem descurar dos interesses do trabalhador, cuidou de organizá-lo profissionalmente, dando-lhe a assistência da Justiça do Trabalho e a proteção das leis sociais. Não permitirei, entretanto, que agitadores profissionais, a serviço de ideologias estranhas, perturbem a harmonia entre o capital e o trabalho, que é a base da nossa ordem social."
+>
+> — Discurso de Getúlio Vargas na Hora do Brasil, década de 1940 (adaptado)
+
+O trecho evidencia que, no Estado Novo, a política trabalhista
+
+**(a)** resultava de negociação direta entre sindicatos autônomos e representantes patronais.
+**(b)** combinava a concessão de direitos sociais com o controle estatal da organização dos trabalhadores.
+**(c)** priorizava a liberdade de greve como instrumento legítimo de reivindicação.
+**(d)** estendia igualmente seus benefícios aos trabalhadores urbanos e rurais.
+**(e)** era conduzida pelo Ministério do Trabalho sem qualquer aparato de divulgação oficial.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (b).** As duas metades do texto exibem exatamente as duas faces da política.
+
+A primeira metade enuncia a **concessão**: o governo "organizou" o trabalhador, deu-lhe "a assistência da Justiça do Trabalho e a proteção das leis sociais" — direitos reais, e note o verbo: quem organiza é o Governo, não os trabalhadores.
+
+A segunda metade enuncia o **controle**: "não permitirei" que "agitadores profissionais, a serviço de ideologias estranhas" perturbem "a harmonia entre o capital e o trabalho". Traduzindo do varguês: qualquer organização autônoma — comunista, anarquista ou simplesmente independente — é definida como estrangeira e ilegítima, e o conflito entre patrões e empregados é declarado inexistente por princípio. É a doutrina corporativista em duas linhas.
+
+Por que as demais estão erradas:
+
+- **(a)** não havia negociação autônoma: o sindicato era **único**, reconhecido e financiado pelo Estado (imposto sindical) e sujeito a intervenção ministerial;
+- **(c)** a greve era **proibida** pela Constituição de 1937, que a classificava como recurso "antissocial";
+- **(d)** os **trabalhadores rurais** — a maioria da população brasileira — ficaram de fora da CLT, só sendo contemplados pelo Estatuto do Trabalhador Rural em **1963**;
+- **(e)** o texto é um discurso da **Hora do Brasil**, programa de transmissão obrigatória produzido pelo **DIP** — ou seja, é ele próprio uma peça do aparato de propaganda, e o enunciado o informa.
+
+**Dica de leitura de fonte.** Discursos oficiais são excelentes fontes desde que você os leia como **atos políticos**, e não como descrições da realidade. Este documento não prova que havia harmonia entre capital e trabalho; prova que o governo queria **impor** essa definição e deslegitimar quem discordasse.
+:::
+
+**6.** Explique a política externa brasileira durante a Segunda Guerra e o conceito de "**equidistância pragmática**".
+
+::: {.callout-tip collapse="true" title="Solução"}
+**A situação inicial (1937–1941).** O Brasil mantinha relações intensas com os **dois** blocos. Comercialmente, a **Alemanha nazista** chegou a ser seu segundo maior parceiro, comprando algodão e café num sistema de compensação que dispensava divisas; ideologicamente, havia simpatias autoritárias em setores do governo e do Exército. Ao mesmo tempo, os **Estados Unidos** eram o principal comprador de café e a fonte natural de capital e tecnologia.
+
+**A barganha.** Vargas não escolheu cedo — e essa foi a estratégia. Com a guerra, o Nordeste brasileiro tornou-se estrategicamente vital para os EUA: era o ponto do continente mais próximo da África e, portanto, a escala obrigatória da rota aérea do Atlântico Sul para o teatro africano e europeu. Washington precisava de **bases** em Natal, Recife e Belém. Vargas cobrou o preço: financiamento norte-americano, via **Eximbank**, para a construção da **Companhia Siderúrgica Nacional** em Volta Redonda, inaugurada em 1941 — a peça que faltava para a industrialização pesada do país.
+
+**O conceito.** **Gerson Moura** chamou essa estratégia de "**equidistância pragmática**", ou **autonomia na dependência** [@moura2012]: um país periférico, sem poder militar próprio, obtém ganhos concretos explorando a **rivalidade** entre potências, mantendo deliberadamente a ambiguidade enquanto pode e vendendo caro seu alinhamento quando ele se torna inevitável.
+
+**O alinhamento e a guerra.** Em janeiro de 1942, na Conferência do Rio, o Brasil rompeu relações com o Eixo. Submarinos alemães passaram a torpedear navios mercantes brasileiros: cerca de **1.000 mortos**, o que produziu comoção nacional e manifestações populares exigindo resposta. Em **agosto de 1942**, o Brasil declarou guerra. A **FEB**, com cerca de 25 mil homens, combateu na **Itália** em 1944–45, com destaque para **Monte Castello**, e perdeu cerca de 460 combatentes. Foi a única força terrestre latino-americana a combater na Europa, e a primeira força americana racialmente **integrada** enviada ao exterior.
+
+**O efeito bumerangue.** A escolha, racional do ponto de vista econômico e diplomático, teve custo político fatal para o regime: era insustentável combater ditaduras fascistas no exterior mantendo censura, partido único e polícia política em casa. A FEB voltou em 1945; Vargas caiu em outubro do mesmo ano. É um caso exemplar de **consequência não intencionada**: a decisão que fortaleceu o país enfraqueceu o governo que a tomou.
+:::
+
+**7.** (Estilo vestibular — dissertativa) Explique o debate historiográfico entre as noções de **populismo** e de **trabalhismo** e posicione-se com argumentos.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**A tese do populismo.** Formulada nas décadas de 1950–70 por Weffort e Ianni [@weffort1978; @ianni1968], sustenta que a industrialização e o êxodo rural produziram **massas urbanas** recém-chegadas, desenraizadas de suas comunidades de origem e ainda não constituídas como classe. Nesse vácuo organizacional, um **líder carismático** estabelece com elas um vínculo **direto e emocional**, sem mediação de partidos ou sindicatos autônomos, distribuindo benefícios em troca de apoio. O populismo seria, portanto, uma forma de **manipulação** que **substitui** a organização de classe. Vargas, com o rádio, a imagem de "pai dos pobres" e a legislação outorgada, seria o caso exemplar.
+
+**As objeções.** A partir dos anos 1980, Angela de Castro Gomes e Jorge Ferreira reviram a tese [@gomesAngela2005; @ferreira2001] com quatro críticas:
+
+1. **Nega agência.** Trata trabalhadores como massa manipulável. Mas as fontes contam outra história: milhares de **cartas** enviadas a Vargas cobram direitos e denunciam patrões; processos na **Justiça do Trabalho** mostram trabalhadores usando ativamente a lei; atas sindicais e jornais registram negociação, cálculo e apoio seletivo. Quem escreve cobrando o cumprimento de uma promessa não é súdito — é alguém que se reconhece portador de um direito.
+2. **É anacrônica.** Pressupõe um modelo "correto" de consciência de classe — o operário socialista europeu — e transforma a experiência brasileira em desvio, atraso ou falsa consciência. É julgar o passado por um padrão externo, e não compreendê-lo.
+3. **Ignora a produção de sentido.** O **trabalhismo** ofereceu não só benefícios, mas uma **identidade**: o trabalhador como pilar da nação, digno, distinto do "vadio". Essa identidade foi ativamente apropriada e ressignificada pelos próprios trabalhadores, inclusive contra o governo, quando cobravam coerência.
+4. **Explica mal a durabilidade.** Se fosse pura manipulação carismática, o vínculo deveria morrer com o líder. Não morreu: o PTB **cresceu** depois de 1954, a memória de Vargas permaneceu viva entre trabalhadores por décadas e o repertório trabalhista atravessou a ditadura.
+
+**Posicionamento (com argumento, que é o que a banca avalia).** A leitura mais defensável reconhece o **fenômeno** que o conceito de populismo descreve — comunicação direta líder–povo pelo rádio, personalização, mediações partidárias frágeis, Estado como distribuidor — mas rejeita sua **explicação** central, a da manipulação de massas passivas, por não resistir à documentação. O que houve foi uma **relação assimétrica e negociada**: o Estado detinha muito mais poder e definiu as regras do jogo (sindicato único, greve proibida, direito atrelado à carteira), mas os trabalhadores jogaram dentro delas, extraíram ganhos reais e cobraram o cumprimento do pacto.
+
+**Nota final sobre o uso do termo.** "Populismo" carrega hoje forte carga pejorativa e é aplicado a fenômenos muito distintos entre si, o que o torna pouco operacional como categoria analítica. Se você o usar em redação, explicite o que entende por ele. Descrever as práticas concretas — quem decide, quem se beneficia, quem é reprimido, com que instituições — vale sempre mais do que aplicar um rótulo.
+:::
+
+**8.** O Estado Novo pode ser classificado como um regime **fascista**? Justifique com critérios.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**As semelhanças, que são reais.** Culto ao chefe; corporativismo (Estado como árbitro que nega a legitimidade do conflito de classes); aparato de propaganda estatal (**DIP**); censura; polícia política com uso sistemático de tortura; anticomunismo militante; nacionalismo; estética de massa em desfiles e paradas cívicas; inspiração declarada na *Carta del Lavoro* italiana para a legislação sindical.
+
+**As diferenças, que são estruturais** [@fausto1997; @trindade1979]:
+
+| Critério | Fascismo (Itália, Alemanha) | Estado Novo |
+|---|---|---|
+| **Origem do poder** | movimento de massas que conquista o Estado a partir da sociedade | **golpe de dentro do Estado**, dado por quem já governava |
+| **Partido** | partido único que **organiza** e enquadra a sociedade | **nenhum partido**; todos extintos, inclusive a AIB |
+| **Relação com as massas** | **mobilização** permanente, milícias, juventude enquadrada | **desmobilização**; a população é audiência do rádio, não militância |
+| **Projeto externo** | expansão territorial e guerra como fins em si | nenhum projeto expansionista; o país luta **contra** o Eixo |
+| **Doutrina racial** | racismo de Estado; genocídio na Alemanha | não há doutrina racial de Estado (o que **não** significa ausência de racismo: houve política imigratória restritiva, circulares secretas contra vistos a judeus e repressão a culturas de imigrantes) |
+
+**O teste decisivo.** Vargas **destruiu** o movimento fascista brasileiro. A **AIB** o apoiou no golpe de novembro de 1937; foi **dissolvida** em dezembro, junto com todos os demais partidos; tentou um golpe contra ele em **maio de 1938**, atacando o Palácio Guanabara; e teve suas lideranças presas ou exiladas — Plínio Salgado passou anos em Portugal. Um regime fascista não elimina seu próprio partido fascista.
+
+**A classificação mais adequada.** **Autoritarismo modernizador de tipo corporativo**, aparentado ao **salazarismo** português e a outros regimes ibero-americanos do período: concentração de poder no Executivo, corporativismo, controle da sociedade civil e projeto de modernização estatal — **sem** partido de massas, **sem** mobilização permanente e **sem** projeto expansionista ou racial.
+
+**A lição de método, que vale a nota.** Classificar regimes exige **critérios explícitos**, não impressões de semelhança. Duas ditaduras podem compartilhar práticas (censura, tortura, propaganda) e diferir na estrutura (origem do poder, relação com as massas, projeto). Aplicar rótulos importados sem verificar os critérios é o erro que transforma análise em xingamento — e a mesma advertência vale para o regime que você estudará no @sec-ditadura-militar.
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- FAUSTO, Boris. *A Revolução de 1930* [@fausto1997] e *História do Brasil* [@fausto2015]. A base conceitual do "Estado de compromisso" e a síntese do período.
+- GOMES, Angela de Castro. *A invenção do trabalhismo* [@gomesAngela2005]. O livro que virou o debate; leia ao menos a discussão das cartas enviadas a Vargas.
+- FERREIRA, Jorge (org.). *O populismo e sua história* [@ferreira2001]. Reúne os principais textos do debate, dos dois lados.
+- LIRA NETO. *Getúlio* [@lira2013]. Biografia em três volumes, narrativa e documentada.
+- SKIDMORE, Thomas. *Brasil: de Getúlio a Castello* [@skidmore2010]. Clássico da historiografia estrangeira sobre o Brasil, forte na análise política.
+- MOURA, Gerson. *Autonomia na dependência* [@moura2012]. Sobre a barganha diplomática da guerra.
+
+**Fontes primárias**
+
+- A **Constituição de 1934** [@constituicao1934] e a **Constituição de 1937** [@constituicao1937]. Compare os artigos sobre direitos políticos e sobre greve: a distância entre as duas, separadas por apenas três anos, é a própria história do período.
+- RAMOS, Graciliano. *Memórias do cárcere*. Relato da prisão do escritor em 1936, sem autopiedade e sem heroísmo — um dos melhores livros brasileiros sobre o que uma ditadura faz com as pessoas comuns.
+- O acervo do **CPDOC-FGV**, com o arquivo pessoal de Vargas, o *Dicionário Histórico-Biográfico Brasileiro* e os **cinejornais do DIP**, disponíveis online. Assistir a dez minutos de *Cine Jornal Brasileiro* ensina mais sobre propaganda do que muitas páginas de análise.
+
+**Filmes e documentários**
+
+- *Olga* (2004), dir. Jayme Monjardim, sobre Olga Benário Prestes.
+- *Memórias do Cárcere* (1984), dir. Nelson Pereira dos Santos, a partir de Graciliano Ramos.
+- *Getúlio* (2014), dir. João Jardim. Reconstrói os últimos dias de agosto de 1954 — assista depois de ler o @sec-republica-de-1946.
+- O *Cine Jornal Brasileiro*, no acervo digital da **Cinemateca Brasileira**: a estética oficial do Estado Novo em movimento, produzida pelo próprio DIP.
+- *A Estrada 47* (2013), dir. Vicente Ferraz, sobre um pelotão da FEB na campanha da Itália.
