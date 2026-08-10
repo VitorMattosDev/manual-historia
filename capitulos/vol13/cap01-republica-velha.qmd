@@ -1,5 +1,433 @@
 # A República Velha: oligarquias e coronelismo {#sec-republica-velha}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Em 15 de novembro de 1889, o marechal **Deodoro da Fonseca** saiu de casa doente, montou um cavalo no Campo de Santana, no Rio de Janeiro, e depôs o gabinete imperial. Não houve tiros, não houve barricadas, não houve multidão. Aristides Lobo, republicano histórico que estava lá, escreveu dias depois, com evidente frustração, que o povo assistira àquilo "**bestializado**", sem compreender o que se passava — muitos, contou ele, acreditavam estar diante de uma parada militar. A frase virou a mais citada da história da República brasileira e deu título ao livro mais influente sobre o período [@carvalho1987]. Ela guarda uma pergunta que atravessa os quarenta anos seguintes e que este capítulo pretende responder: se a República nasceu sem o povo, **quem** exatamente ela veio servir — e o que fizeram, ao longo dessas quatro décadas, os milhões de brasileiros que não foram convidados para a cerimônia?
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- explicar as causas e o caráter da **Proclamação da República** (1889) e o que a **Constituição de 1891** instituiu;
+- caracterizar a **República da Espada** e a passagem ao domínio civil das oligarquias;
+- descrever o funcionamento da **política dos governadores**, da **política do café com leite** e das **comissões de verificação**;
+- definir **coronelismo**, **voto de cabresto** e **mandonismo**, distinguindo-os com rigor;
+- analisar a economia do café, a **valorização** do Convênio de Taubaté e o ciclo da borracha;
+- interpretar as revoltas do período — **Canudos**, **Contestado**, **Vacina**, **Chibata**, cangaço — como respostas à ordem oligárquica;
+- explicar a formação da classe operária, a imigração e o **anarcossindicalismo**;
+- contrastar interpretações historiográficas sobre o coronelismo e sobre a exclusão política na Primeira República.
 :::
+
+## De 15 de novembro à Constituição de 1891 {#sec-proclamacao-1891}
+
+A crise final do Império foi examinada no @sec-crise-do-imperio: o Exército ressentido desde o Paraguai, a Igreja afastada pela Questão Religiosa, os cafeicultores do Oeste Paulista insatisfeitos com um Estado que não os representava e, sobretudo, a **Abolição de 1888**, que retirou da monarquia o apoio dos grandes proprietários escravistas do Vale do Paraíba. Em 1889, o Império estava sozinho.
+
+O golpe militar de 15 de novembro foi, na prática, obra de uma **articulação estreita** entre oficiais positivistas da Escola Militar, republicanos históricos como Quintino Bocaiúva e proprietários paulistas. **Deodoro da Fonseca** (1827–1892), monarquista de formação e amigo pessoal do imperador, aderiu apenas na véspera — e sob a informação (falsa) de que o gabinete de Ouro Preto pretendia prendê-lo. D. Pedro II e a família imperial partiram para o exílio dias depois. Não houve resistência armada em parte alguma do país.
+
+**O governo provisório** decretou de imediato o essencial: federação (as províncias viraram **estados**, com governo próprio), separação entre Igreja e Estado, casamento civil, secularização dos cemitérios, naturalização em massa dos estrangeiros residentes e o **Encilhamento** — a política de emissão monetária de Rui Barbosa, ministro da Fazenda, destinada a financiar a industrialização e que acabou em bolha especulativa e inflação.
+
+::: {#fig-imperio-republica}
+
+```{.tikz}
+%%| filename: fig-imperio-republica
+%%| alt: Diagrama comparativo entre a organização política do Império e a da República instituída pela Constituição de 1891.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \node[text=manualblue] at (-3.6,3.6) {\textbf{IMPÉRIO (Constituição de 1824)}};
+  \node[draw, thick, rounded corners, fill=manualblue!14, align=left, text width=5.2cm] (a1) at (-3.6,2.5)
+    {\textbf{4 poderes} --- inclui o \textbf{Moderador}\\ monarquia \textbf{hereditária} e vitalícia};
+  \node[draw, thick, rounded corners, fill=manualblue!14, align=left, text width=5.2cm] (a2) at (-3.6,1.1)
+    {\textbf{Estado unitário}: províncias com\\ presidentes \textbf{nomeados} pelo Imperador};
+  \node[draw, thick, rounded corners, fill=manualblue!14, align=left, text width=5.2cm] (a3) at (-3.6,-0.3)
+    {\textbf{voto censitário}, indireto e aberto\\ Senado \textbf{vitalício}};
+  \node[draw, thick, rounded corners, fill=manualblue!14, align=left, text width=5.2cm] (a4) at (-3.6,-1.7)
+    {\textbf{catolicismo} como religião oficial\\ (Estado confessional)};
+
+  \draw[very thick, manualgray, dashed] (0,-2.6) -- (0,3.8);
+
+  \node[text=manualred] at (3.7,3.6) {\textbf{REPÚBLICA (Constituição de 1891)}};
+  \node[draw, thick, rounded corners, fill=manualred!14, align=left, text width=5.2cm] (b1) at (3.7,2.5)
+    {\textbf{3 poderes} --- fim do Moderador\\ \textbf{presidencialismo}, mandato de 4 anos};
+  \node[draw, thick, rounded corners, fill=manualred!14, align=left, text width=5.2cm] (b2) at (3.7,1.1)
+    {\textbf{federalismo}: estados com governador\\ \textbf{eleito}, constituição e receita próprias};
+  \node[draw, thick, rounded corners, fill=manualred!14, align=left, text width=5.2cm] (b3) at (3.7,-0.3)
+    {voto \textbf{universal masculino} $>$ 21 anos,\\ \textbf{aberto} --- exclui \textbf{analfabetos},\\ mulheres, praças, mendigos, religiosos};
+  \node[draw, thick, rounded corners, fill=manualred!14, align=left, text width=5.2cm] (b4) at (3.7,-1.7)
+    {\textbf{Estado laico}: casamento civil,\\ cemitérios seculares, liberdade de culto};
+
+  \draw[vetor, very thick, manualgray] (a1) -- (b1);
+  \draw[vetor, very thick, manualgray] (a2) -- (b2);
+  \draw[vetor, very thick, manualgray] (a3) -- (b3);
+  \draw[vetor, very thick, manualgray] (a4) -- (b4);
+
+  \node[draw, dashed, rounded corners, fill=manualyellow!22, align=center, text width=12.0cm] at (0.1,-3.4)
+    {\textbf{A pegadinha das provas:} o voto deixou de ser censitário, mas a exclusão dos \textbf{analfabetos} --- cerca de \textbf{três quartos} da população --- manteve o eleitorado em torno de \textbf{2\% a 5\%} dos brasileiros. Mudou o critério, não o tamanho da exclusão.};
+\end{tikzpicture}
+```
+
+Do Império à República: o que muda na letra da lei e o que permanece na prática política.
+:::
+
+**A Constituição de 1891**, inspirada no modelo norte-americano (@sec-independencia-eua), instituiu a República **federativa**, **presidencialista** e **laica**, com três poderes e mandato presidencial de quatro anos sem reeleição imediata [@constituicao1891]. Aboliu o voto censitário e adotou o sufrágio "universal" masculino para maiores de 21 anos — mas excluiu **analfabetos**, mulheres, praças de pré, mendigos e religiosos de ordens regulares. Como cerca de três quartos da população era analfabeta, o eleitorado permaneceu minúsculo: entre 2% e 5% dos brasileiros votavam, percentual comparável — e às vezes inferior — ao do Império.
+
+::: {.callout-important title="Armadilha: \"a República ampliou a participação política\""}
+Não ampliou de modo significativo. O critério mudou (renda → alfabetização), o número não. Nas eleições presidenciais da Primeira República, o comparecimento raramente passou de **3%** da população; em 1930, ainda estava em torno de 5%. Some-se a isso que o voto era **aberto** (não secreto) até 1932 e que a **verificação de poderes** era feita pelo próprio Congresso. Dizer que "a República democratizou o país" é um erro factual — e um erro que os vestibulares adoram cobrar.
+:::
+
+## A República da Espada (1889–1894) {#sec-republica-da-espada}
+
+Os dois primeiros presidentes foram marechais, daí o nome do período.
+
+**Deodoro da Fonseca (1889–1891).** Eleito indiretamente pelo Congresso Constituinte em fevereiro de 1891, governou em conflito permanente com o Legislativo. Em novembro, fechou o Congresso por decreto. A reação foi imediata: a **Revolta da Armada**, liderada pelo almirante Custódio de Melo, ameaçou bombardear o Rio. Deodoro renunciou em 23 de novembro de 1891.
+
+**Floriano Peixoto (1891–1894).** Vice, assumiu sem convocar novas eleições — o que a Constituição exigia se a vacância ocorresse no primeiro biênio. Governou com mão pesada, depôs governadores adversários, ganhou o apelido de "**Marechal de Ferro**" e enfrentou duas crises graves:
+
+- a **segunda Revolta da Armada** (1893–94), no Rio, com adesão de setores monarquistas;
+- a **Revolução Federalista** (1893–95), no Rio Grande do Sul, guerra civil entre "**pica-paus**" (republicanos governistas de Júlio de Castilhos) e "**maragatos**" (federalistas de Gaspar Silveira Martins), com milhares de mortos e a prática das degolas.
+
+Floriano venceu ambas, apoiado por setores do Exército e pelos cafeicultores paulistas — que financiaram batalhões em troca de garantias. Em 1894, entregou o poder ao paulista **Prudente de Morais**, primeiro presidente civil. Ali termina a República da Espada e começa o que se chama de **República Oligárquica** ou **dos Governadores**.
+
+## A engenharia do poder oligárquico {#sec-politica-dos-governadores}
+
+Como um regime formalmente democrático, federativo e presidencialista funcionou por 35 anos praticamente sem alternância? A resposta está num sistema de três engrenagens encaixadas.
+
+::: {#fig-engrenagem-oligarquica}
+
+```{.tikz}
+%%| filename: fig-engrenagem-oligarquica
+%%| alt: Diagrama em três níveis mostrando a articulação entre coronelismo municipal, política dos governadores e política do café com leite na Primeira República.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \node[draw, very thick, rounded corners, fill=manualblue!22, align=center, text width=10.4cm, text=manualblue] (n3) at (0,3.1)
+    {\textbf{NÍVEL FEDERAL --- ``política do café com leite''}\\ presidentes alternam entre \textbf{São Paulo} (café) e \textbf{Minas Gerais} (leite/eleitorado)\\ o presidente garante apoio federal aos governadores aliados};
+  \node[draw, very thick, rounded corners, fill=manualgreen!20, align=center, text width=10.4cm, text=manualgreen] (n2) at (0,0.9)
+    {\textbf{NÍVEL ESTADUAL --- ``política dos governadores'' (Campos Sales, 1899)}\\ os governadores entregam ao presidente uma \textbf{bancada fiel} no Congresso;\\ em troca, o presidente \textbf{não interfere} na política do estado --- e a \textbf{Comissão de Verificação} ``\textbf{degola}'' os eleitos da oposição};
+  \node[draw, very thick, rounded corners, fill=manualyellow!28, align=center, text width=10.4cm] (n1) at (0,-1.3)
+    {\textbf{NÍVEL MUNICIPAL --- coronelismo}\\ o \textbf{coronel} entrega os votos do ``\textbf{curral eleitoral}'' ao governador;\\ em troca recebe cargos, verbas, delegacia, escola, nomeações --- e o monopólio local do poder};
+
+  \draw[vetor, very thick, manualgray] (n1.west) -- ++(-1.0,0) |- node[pos=0.25, left, align=right] {\textbf{votos}} (n2.west);
+  \draw[vetor, very thick, manualgray] (n2.west) -- ++(-1.0,0) |- node[pos=0.25, left, align=right] {\textbf{bancada}} (n3.west);
+  \draw[vetor, very thick, manualred] (n3.east) -- ++(1.0,0) |- node[pos=0.25, right, align=left] {\textbf{autonomia}} (n2.east);
+  \draw[vetor, very thick, manualred] (n2.east) -- ++(1.0,0) |- node[pos=0.25, right, align=left] {\textbf{recursos}} (n1.east);
+
+  \node[draw, dashed, rounded corners, fill=manualgray!16, align=center, text width=12.2cm] at (0,-3.3)
+    {\textbf{O voto era aberto} (até 1932) e não havia Justiça Eleitoral: quem apurava e diplomava era o \textbf{próprio Congresso}.\\ Sem esses dois elementos, o sistema não funcionaria --- e é por isso que 1930 começa por atacá-los.};
+\end{tikzpicture}
+```
+
+As três engrenagens da ordem oligárquica. Repare que cada nível entrega votos para cima e recebe recursos de volta.
+:::
+
+**A política dos governadores.** Formulada pelo presidente **Campos Sales** (1898–1902), consistia num acordo simples: o governo federal reconhecia e apoiava as oligarquias dominantes em cada estado; estas, em troca, elegiam deputados e senadores fiéis ao presidente. O instrumento decisivo era a **Comissão de Verificação de Poderes** da Câmara, que examinava as atas eleitorais e podia simplesmente **não diplomar** o candidato eleito da oposição — prática apelidada de "**degola**". Como resumiu Campos Sales em suas memórias, "o que de lá [dos estados] vem é o que representa o espírito, a vida e a alma do regímen". Traduzindo: o presidente governaria com quem os governadores mandassem, desde que os governadores mandassem os certos.
+
+**A política do café com leite.** Na prática, dois estados dominavam: **São Paulo**, o mais rico (café), e **Minas Gerais**, o de maior eleitorado. A alternância entre paulistas e mineiros na Presidência não foi tão mecânica quanto os manuais às vezes sugerem — houve presidentes do Rio (Nilo Peçanha), da Paraíba (Epitácio Pessoa) e militares —, mas o eixo São Paulo–Minas de fato controlou a sucessão na maior parte do período, e sua ruptura em 1929 desencadeia a crise que estudaremos no @sec-anos-1920-tenentismo-22.
+
+**O coronelismo.** Na base, o poder local. O título de "**coronel**" vinha da extinta Guarda Nacional, criada em 1831, e passou a designar o grande proprietário rural que exercia domínio político, econômico e às vezes judicial sobre sua área. Ele controlava o **curral eleitoral**: como o voto era aberto e a dependência dos trabalhadores era total — emprego, terra, crédito, casamento, remédio, enterro —, o coronel entregava blocos de votos ao candidato oficial. Daí o **voto de cabresto**. Onde a persuasão falhava, havia jagunços, e onde falhava a violência, havia a fraude: o "**voto de defunto**" (mortos que compareciam), o "**voto fantasma**" e as atas falsas, chamadas "**bico de pena**", redigidas na mesa da apuração.
+
+::: {.callout-note title="Conceito-chave: coronelismo, mandonismo e clientelismo"}
+Três termos que os vestibulares confundem de propósito.
+
+- **Mandonismo**: o poder pessoal de um chefe local sobre uma população, com base no controle de recursos (terra, água, emprego). É antiquíssimo e não depende de eleições.
+- **Clientelismo**: a troca de favores por lealdade política. Também é geral e existe em muitos regimes, inclusive hoje.
+- **Coronelismo**: um **sistema historicamente específico** — Brasil, Primeira República — em que o mandonismo local se **acopla** a um Estado que já se moderniza e a um regime **representativo** com sufrágio amplo. É essa combinação que define o conceito [@lealVN2012].
+
+A distinção importa porque o coronelismo, tecnicamente, **acaba** com a Primeira República; mandonismo e clientelismo, não.
+:::
+
+## A economia do café e seus limites {#sec-economia-cafe}
+
+O café respondia por cerca de **70%** das exportações brasileiras no início do século XX, chegando a mais de 60% do café consumido no mundo. A economia toda girava em torno dele: as ferrovias iam das zonas de plantio ao porto de Santos, o crédito internacional dependia dele, e a política cambial era feita para servi-lo.
+
+**A crise da superprodução.** A partir de 1896, os preços internacionais despencaram — havia café demais. A resposta veio no **Convênio de Taubaté** (1906), acordo entre São Paulo, Minas e Rio de Janeiro que instituiu a **política de valorização do café**: o governo tomaria empréstimos no exterior para **comprar o excedente** e retirá-lo do mercado, sustentando o preço; a dívida seria paga com um imposto sobre a saca exportada; e o câmbio seria desvalorizado, para que o exportador recebesse mais em mil-réis.
+
+::: {.callout-important title="Socialização das perdas"}
+A expressão é de **Celso Furtado** [@furtado2007] e é a chave analítica do Convênio de Taubaté. Quem lucrava com o café alto eram os fazendeiros; quem pagava a conta da valorização era o **conjunto da sociedade**, via dívida externa e via inflação provocada pela desvalorização cambial (que encarecia todos os produtos importados, consumidos por toda a população urbana). Lucros privados, prejuízos socializados. Note também o efeito perverso: ao garantir o preço, a política **estimulava** o plantio de mais café — agravando exatamente o problema que pretendia resolver. Em 1929, o Brasil tinha estoques equivalentes a mais de um ano de exportação mundial quando a Bolsa de Nova York quebrou (@sec-crise-de-1929-entreguerras).
+:::
+
+**A borracha.** Entre 1880 e 1912, a Amazônia viveu um ciclo espetacular: a demanda mundial por pneus e isolantes fez de Manaus e Belém cidades com bondes elétricos, luz, porto flutuante e o **Teatro Amazonas** (1896). O trabalho era feito por seringueiros — em sua maioria nordestinos fugidos da seca de 1877 — presos ao **barracão** por um sistema de dívida perpétua. O ciclo desabou depois de 1912, quando plantações do Sudeste Asiático, feitas com sementes levadas clandestinamente do Brasil pelo inglês Henry Wickham em 1876, passaram a produzir com custo muito menor. Foi o primeiro grande colapso regional da economia brasileira no século XX.
+
+**Indústria.** Contra a imagem de um país puramente agrário, a Primeira República viu nascer um parque industrial relevante, sobretudo em São Paulo e no Rio: têxteis, alimentos, bebidas. O capital vinha em boa parte do próprio café e de imigrantes empreendedores (Matarazzo, Crespi, Jafet). A **Primeira Guerra Mundial** (@sec-primeira-guerra-mundial) deu impulso decisivo ao dificultar importações — um caso clássico de **substituição de importações** antes que o termo existisse.
+
+## O Brasil que não votava: revoltas e resistências {#sec-revoltas-primeira-republica}
+
+Se a política oficial era um arranjo entre poucos, a história social do período é feita de explosões. Elas não são "episódios curiosos": são a forma como as maiorias excluídas se manifestaram num sistema que não lhes dava voz.
+
+::: {#fig-revoltas-republica-velha}
+
+```{.tikz}
+%%| filename: fig-revoltas-republica-velha
+%%| alt: Linha do tempo das principais revoltas e marcos da Primeira República brasileira, de 1889 a 1930.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize},
+   marco/.style={align=center, text width=2.4cm, font=\scriptsize}]
+  \draw[eixo, very thick, black] (-0.6,0) -- (16.2,0);
+
+  \foreach \x/\ano in {0/1889, 1.6/1893, 3.1/1896, 4.5/1904, 6.0/1910, 7.4/1912,
+                       9.0/1917, 10.7/1922, 12.2/1924, 13.7/1926, 15.4/1930}
+    {\draw[thick] (\x,-0.1) -- (\x,0.1); \node[ponto] at (\x,0) {};}
+
+  % marcos acima (ímpares) e abaixo (pares), para evitar sobreposição
+  \node[marco, text=manualblue, anchor=south] at (0,0.75)   {\textbf{1889}\\ Proclamação\\ da República};
+  \node[marco, text=manualred,  anchor=north] at (1.6,-0.75) {\textbf{1893}\\ Federalista (RS)\\ e Armada};
+  \node[marco, text=manualred,  anchor=south] at (3.1,0.75)  {\textbf{1896--97}\\ Canudos (BA)};
+  \node[marco, text=manualgreen,anchor=north] at (4.5,-0.75) {\textbf{1904}\\ Revolta da\\ Vacina (RJ)};
+  \node[marco, text=manualred,  anchor=south] at (6.0,0.75)  {\textbf{1910}\\ Revolta da\\ Chibata};
+  \node[marco, text=manualred,  anchor=north] at (7.4,-0.75) {\textbf{1912--16}\\ Contestado\\ (SC/PR)};
+  \node[marco, text=manualgreen,anchor=south] at (9.0,0.75)  {\textbf{1917}\\ greve geral\\ de São Paulo};
+  \node[marco, text=manualblue, anchor=north] at (10.7,-0.75){\textbf{1922}\\ 18 do Forte,\\ Semana de 22,\\ PCB};
+  \node[marco, text=manualblue, anchor=south] at (12.2,0.75) {\textbf{1924}\\ revolta\\ paulista};
+  \node[marco, text=manualblue, anchor=north] at (13.7,-0.75){\textbf{1926}\\ fim da\\ Coluna Prestes};
+  \node[marco, text=manualred,  anchor=south] at (15.4,0.75) {\textbf{1930}\\ Revolução\\ de 1930};
+
+  \draw[auxiliar] (0,0.1) -- (0,0.75);      \draw[auxiliar] (1.6,-0.1) -- (1.6,-0.75);
+  \draw[auxiliar] (3.1,0.1) -- (3.1,0.75);  \draw[auxiliar] (4.5,-0.1) -- (4.5,-0.75);
+  \draw[auxiliar] (6.0,0.1) -- (6.0,0.75);  \draw[auxiliar] (7.4,-0.1) -- (7.4,-0.75);
+  \draw[auxiliar] (9.0,0.1) -- (9.0,0.75);  \draw[auxiliar] (10.7,-0.1) -- (10.7,-0.75);
+  \draw[auxiliar] (12.2,0.1) -- (12.2,0.75);\draw[auxiliar] (13.7,-0.1) -- (13.7,-0.75);
+  \draw[auxiliar] (15.4,0.1) -- (15.4,0.75);
+
+  \node[align=center, text=manualgray, text width=15.5cm] at (7.8,-3.3)
+    {\textbf{azul}: política institucional e movimento militar $\cdot$ \textbf{vermelho}: revolta armada e repressão $\cdot$ \textbf{verde}: movimento urbano e popular};
+\end{tikzpicture}
+```
+
+Os quarenta anos da Primeira República, vistos pelas suas rupturas.
+:::
+
+**Canudos (1896–1897).** No sertão da Bahia, o beato **Antônio Conselheiro** (1830–1897) reuniu milhares de sertanejos — vaqueiros, ex-escravizados, indígenas, pequenos posseiros — no arraial de **Belo Monte**, comunidade autossuficiente que chegou a 25 mil habitantes. Conselheiro pregava contra os impostos republicanos e o casamento civil; a República, por sua vez, viu ali uma conspiração monarquista financiada por potências estrangeiras — acusação sem qualquer base documental. Foram necessárias **quatro expedições militares**; a terceira foi derrotada e seu comandante, o coronel Moreira César, morto. A quarta, com artilharia pesada e cerca de 8 mil soldados, arrasou o arraial em outubro de 1897. Os últimos defensores foram degolados. Estima-se que **15 a 25 mil pessoas** morreram.
+
+**Contestado (1912–1916).** Na fronteira entre Paraná e Santa Catarina, a construção da ferrovia São Paulo–Rio Grande pela empresa norte-americana **Brazil Railway** expulsou posseiros de suas terras e trouxe milhares de trabalhadores que foram dispensados ao fim da obra. Sob liderança de monges — José Maria e sucessores —, formaram-se "cidades santas" com organização própria e milícia (os "pelados"). A repressão mobilizou tropas federais, artilharia e, pela primeira vez na América Latina, **aviões em reconhecimento militar**. Morreram entre 5 e 8 mil pessoas.
+
+::: {.callout-warning title="Não chame de \"fanatismo\""}
+A explicação corrente na época — e repetida por manuais até os anos 1970 — atribuía Canudos e Contestado ao "fanatismo religioso" de sertanejos ignorantes. A historiografia recente desmontou essa leitura. Em ambos os casos há um **conteúdo social preciso**: disputa por terra, expulsão de posseiros, cobrança de impostos novos, ruptura de formas tradicionais de vida por um Estado e um capital que chegavam de fora. A linguagem era religiosa porque era a linguagem disponível — o messianismo dava forma e legitimidade a uma revolta que era, no conteúdo, agrária [@villa1999; @levine1995]. Interpretar a linguagem de uma revolta como sendo a sua **causa** é um erro de método que você deve evitar em qualquer análise histórica.
+:::
+
+**A Revolta da Vacina (1904).** No Rio de Janeiro, o prefeito **Pereira Passos** conduzia uma reforma urbana radical — o "**bota-abaixo**" — que derrubou cortiços do centro, abriu avenidas e expulsou a população pobre para os morros e subúrbios, acelerando a formação das favelas. Simultaneamente, o sanitarista **Oswaldo Cruz** conduzia campanhas contra febre amarela, peste e varíola. Em novembro de 1904, a lei da **vacinação obrigatória** contra a varíola — aplicada por "brigadas" que entravam nas casas sem aviso, com poder de multar e desalojar — provocou uma semana de insurreição popular na cidade, com barricadas, bondes virados e mais de 30 mortos. Houve também uma tentativa paralela de golpe militar da Escola Militar da Praia Vermelha.
+
+::: {.callout-tip title="Como interpretar a Revolta da Vacina em prova"}
+A leitura ingênua diz: "o povo era ignorante e tinha medo da vacina". A leitura histórica, consolidada por Nicolau Sevcenko [@sevcenko2018] e Sidney Chalhoub [@chalhoub1996], é mais interessante. A revolta reagiu a **três coisas ao mesmo tempo**: (1) a **invasão do domicílio** por agentes do Estado, num contexto em que a mesma população vinha sendo despejada pelo "bota-abaixo"; (2) a **imposição autoritária**, sem qualquer campanha de esclarecimento, de uma política decidida por técnicos e aplicada com a polícia; (3) o **pudor**, já que se exigia vacinar mulheres em partes do corpo, por agentes homens, à revelia dos maridos. Em outras palavras: não era antivacina — era **antiarbítrio**. É um exemplo modelar de como uma política sanitariamente correta pode fracassar politicamente quando é imposta sobre uma população já tratada como inimiga.
+:::
+
+**A Revolta da Chibata (1910).** Marinheiros da Marinha de Guerra, em sua maioria **negros** e filhos de escravizados, comandados por oficiais brancos, sublevaram-se nos encouraçados *Minas Gerais* e *São Paulo* — os mais modernos navios do país, recém-comprados na Inglaterra — e apontaram os canhões para o Rio de Janeiro. Sob liderança de **João Cândido Felisberto** (1880–1969), exigiam o fim dos **castigos corporais**, herança escravista ainda vigente na Marinha 22 anos depois da Abolição. O governo cedeu, aboliu a chibata e concedeu anistia. Dias depois, descumpriu o acordo: houve prisões em massa, marinheiros mortos por asfixia numa cela da Ilha das Cobras e deportações para a Amazônia. João Cândido sobreviveu, foi internado como louco, absolvido em 1912 e morreu pobre, vendendo peixe, em 1969.
+
+**Cangaço.** No sertão nordestino, bandos armados como o de **Virgulino Ferreira, o Lampião** (1898–1938), circularam por décadas entre a criminalidade, a vingança pessoal e a proteção de coronéis aliados. A historiografia debate se se trata de "**banditismo social**", na formulação de Eric Hobsbawm — revolta primitiva de camponeses contra a opressão —, ou de uma violência plenamente integrada ao mandonismo local, ora contra, ora a serviço dos coronéis. A resposta mais aceita hoje é: **as duas coisas**, dependendo do bando, do momento e da região.
+
+## Cidades, imigrantes e operários {#sec-cidades-operarios}
+
+Entre 1890 e 1930, entraram no Brasil cerca de **3,5 milhões de imigrantes** — italianos, portugueses, espanhóis, alemães, sírio-libaneses e, a partir de 1908, **japoneses**, cuja imigração começou com o navio *Kasato Maru*. A política imigratória, como vimos no @sec-escravidao-abolicao-imigracao, foi subsidiada pelo Estado e orientada por um projeto de "**branqueamento**" da população, formulado em termos abertamente racistas pelas elites do período [@schwarcz1993].
+
+Nas lavouras de café, o **colonato** substituiu a escravidão sem eliminar a coerção: o colono recebia um lote para subsistência, um pagamento por mil pés cuidados e outro pela colheita, mas ficava frequentemente endividado no armazém da fazenda. Nas cidades, o imigrante formou o núcleo da nascente **classe operária** — em 1901, mais de 90% dos operários da indústria têxtil paulista eram estrangeiros.
+
+**O movimento operário.** Trouxeram consigo o **anarcossindicalismo**, corrente que rejeitava a ação partidária e a mediação do Estado e apostava na **ação direta** e na **greve geral** como armas dos trabalhadores. As condições eram brutais: jornadas de 12 a 16 horas, trabalho infantil desde os 8 anos, ausência total de legislação, salários femininos até 50% menores. O ponto alto foi a **greve geral de 1917** em São Paulo, deflagrada a partir do Cotonifício Crespi e do funeral do sapateiro espanhol José Martinez, morto pela polícia; cerca de 45 mil trabalhadores pararam a cidade e arrancaram um acordo com aumento de 20%. A resposta do Estado foi a repressão e a **Lei Adolfo Gordo** (1907, ampliada em 1921), que permitia expulsar estrangeiros "perigosos" do país.
+
+::: {.callout-note title="A célebre frase da \"questão social\""}
+Atribui-se ao presidente **Washington Luís** (1926–1930) a frase de que "a questão social é uma questão de polícia". A atribuição é duvidosa e provavelmente apócrifa. Mas a frase resume com exatidão a política efetiva do período: até 1930, os conflitos entre capital e trabalho eram tratados pelo Estado como **caso de ordem pública**, não como matéria de direito. Foi exatamente essa concepção que a Era Vargas inverteu (@sec-era-vargas) — e reter o contraste é a melhor forma de entender por que o trabalhismo teve tanto apelo.
+:::
+
+A partir de **1922**, com a fundação do **Partido Comunista do Brasil (PCB)** por dissidentes anarquistas, o eixo do movimento começa a se deslocar da ação direta para a organização partidária — mudança influenciada pela Revolução Russa (@sec-revolucao-russa) e que marcará toda a política brasileira do século XX.
+
+**A população negra na República.** A Abolição de 1888 não veio acompanhada de nenhuma política de acesso à terra, à educação ou ao emprego. Ex-escravizados e seus descendentes foram sistematicamente preteridos em favor de imigrantes europeus subsidiados, empurrados para o trabalho precário e para as periferias urbanas, e perseguidos por uma legislação que criminalizava a capoeira (Código Penal de 1890), a vadiagem e os cultos afro-brasileiros. Ao mesmo tempo, foi nesse período e nesses espaços que se formaram instituições centrais da cultura brasileira: as **casas de tias baianas** na Praça Onze, onde nasceu o samba urbano carioca ("Pelo Telefone", 1917), os **ranchos** e **blocos** que originaram as escolas de samba (Deixa Falar, 1928), a imprensa negra paulista (*O Clarim d'Alvorada*, 1924) e as primeiras entidades de mobilização racial, que desembocariam na **Frente Negra Brasileira** (1931) [@fernandes2008].
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+**O coronel era forte ou fraco?** A pergunta parece estranha e é a mais produtiva do tema.
+
+**1. Vitor Nunes Leal e a tese da decadência.** O livro *Coronelismo, enxada e voto* (1949) fundou o campo e continua sendo a referência obrigatória. Sua tese é contraintuitiva: o coronelismo **não** é a expressão da força do latifúndio, e sim de sua **decadência relativa**. Para Leal, o sistema é um "**compromisso**" entre um poder privado em declínio econômico e um Estado que se fortalece mas ainda não alcança o interior. O coronel precisa do governo (para nomear o delegado, conseguir a verba da estrada, empregar seus dependentes) tanto quanto o governo precisa dele (para obter votos). O coronelismo, portanto, é uma **fase de transição**: existe justamente porque nem o poder privado é mais absoluto, nem o poder público é ainda pleno [@lealVN2012]. Note a elegância do argumento: ele explica por que o fenômeno tem data de nascimento (o sufrágio amplo) e data de morte (o fortalecimento do Estado a partir de 1930).
+
+**2. Maria Isaura Pereira de Queiroz e o mandonismo de longa duração.** A socióloga contrapôs que Leal ilumina o arranjo institucional mas subestima a permanência do fenômeno. Para ela, o **mandonismo local** — o poder pessoal do chefe sobre uma clientela — atravessa o Império, a República e o século XX inteiro, adaptando-se a cada regime; o que muda são as formas de acoplamento com o Estado, não a substância da dominação [@queiroz1976]. A implicação é incômoda e atual: se Queiroz estiver certa, o fim do coronelismo em 1930 não significou o fim do mandonismo, apenas sua **modernização**.
+
+**3. José Murilo de Carvalho e a cidadania que não veio.** Retomando a frase de Aristides Lobo, *Os bestializados* pergunta por que o povo do Rio não participou da República. A resposta que Carvalho constrói é sutil: não foi apatia nem burrice. Foi **ausência de canais**. A população carioca era intensamente ativa em associações, irmandades, sociedades mutualistas e revoltas — mas via a política institucional como coisa alheia, um jogo de "doutores" do qual não se esperava nada. Daí sua fórmula: os brasileiros teriam sido "**cidadãos em negativo**", ou "estadania" em vez de cidadania — buscavam do Estado benefícios pessoais, não direitos gerais [@carvalho1987; @carvalho2019]. Em *A formação das almas*, Carvalho mostra o outro lado da mesma moeda: a República precisou **inventar** símbolos, mitos e heróis (a bandeira positivista, a alegoria da República, a disputa em torno de Tiradentes) justamente porque não nascera de mobilização popular [@carvalho1990].
+
+**4. E Canudos?** O caso é um laboratório de crítica de fontes (@sec-fontes-historicas). **Euclides da Cunha** foi a Canudos como correspondente do *O Estado de S. Paulo* convencido de que enfrentava uma conspiração monarquista; voltou transformado e escreveu *Os sertões* (1902), obra que denuncia a campanha como "crime" e "espetáculo de vergonha" — mas que explica o sertanejo com as categorias do **determinismo racial e geográfico** de sua época, falando em "sub-raça" e "retrógrados" ainda que para concluir que "o sertanejo é, antes de tudo, um forte" [@cunha2016]. É uma fonte extraordinária **e** um documento do racismo científico do período: as duas coisas, simultaneamente. A historiografia posterior, com **Marco Antonio Villa** e **Robert Levine**, foi aos arquivos, aos inventários e aos processos, e reconstruiu Canudos como comunidade **camponesa** com economia funcional, comércio regular com cidades vizinhas e projeto de vida próprio — não como surto patológico do sertão [@villa1999; @levine1995]. Repare no movimento: a mudança de interpretação veio de **novas perguntas** (quem eram, do que viviam, que terra ocupavam?) aplicadas a fontes que já existiam, e não apenas da descoberta de documentos novos.
+
+**5. A síntese possível.** As leituras não se anulam. Leal explica o **mecanismo institucional**; Queiroz, a **duração** do fenômeno; Carvalho, a **experiência** de quem ficou de fora; a historiografia de Canudos, o que faziam os excluídos quando organizavam a vida por conta própria — e o preço que pagaram por isso. Junte as quatro e você tem o retrato da Primeira República: um regime representativo cuja representação era fabricada, sobre uma sociedade intensamente ativa cujas formas de ação não cabiam nas urnas.
+
+## Resumo do capítulo {#sec-resumo}
+
+- A **Proclamação da República** (15/11/1889) foi um **golpe militar** com apoio de republicanos e cafeicultores paulistas, sem participação popular — daí a frase de Aristides Lobo sobre o povo "bestializado". O Império já estava isolado desde a Abolição de 1888.
+- A **Constituição de 1891** instituiu república **federativa, presidencialista e laica**, com três poderes (fim do Moderador) e voto universal masculino aberto para maiores de 21 anos, **excluindo analfabetos** — o eleitorado ficou entre **2% e 5%** da população. Mudou o critério de exclusão, não seu tamanho.
+- **República da Espada** (1889–94): **Deodoro** fecha o Congresso e renuncia após a **Revolta da Armada**; **Floriano**, o "Marechal de Ferro", enfrenta a segunda Revolta da Armada e a **Revolução Federalista** no RS (pica-paus × maragatos).
+- A ordem oligárquica tinha **três engrenagens**: **coronelismo** (município: votos por favores), **política dos governadores** de **Campos Sales** (estado: bancada fiel por autonomia, com a "**degola**" da Comissão de Verificação) e **política do café com leite** (federal: SP e MG). Sustentavam-na o **voto aberto** e a ausência de Justiça Eleitoral.
+- **Coronelismo** ≠ mandonismo ≠ clientelismo: só o primeiro é o **sistema específico** de acoplamento entre poder local e regime representativo, e é o único que termina com a Primeira República [@lealVN2012].
+- **Economia:** café = ~70% das exportações; crise de superprodução leva ao **Convênio de Taubaté** (1906) e à **valorização** — "**socialização das perdas**" (Furtado), que estimulava novos plantios e legou estoques gigantescos em 1929. Ciclo da **borracha** amazônica (1880–1912) e seu colapso diante da concorrência asiática. Indústria cresce, impulsionada pela **Primeira Guerra**.
+- **Revoltas:** **Canudos** (BA, 1896–97; Antônio Conselheiro; quatro expedições; 15–25 mil mortos), **Contestado** (SC/PR, 1912–16; ferrovia e expulsão de posseiros), **Revolta da Vacina** (RJ, 1904; reforma Pereira Passos + vacinação obrigatória = revolta contra o **arbítrio**), **Revolta da Chibata** (1910; **João Cândido**; fim dos castigos corporais e repressão posterior), **cangaço** (Lampião; debate sobre "banditismo social").
+- **Sociedade:** ~3,5 milhões de imigrantes; **colonato** no café; classe operária de maioria estrangeira; **anarcossindicalismo** e a **greve geral de 1917**; **Lei Adolfo Gordo**; fundação do **PCB** em 1922. A "questão social" tratada como caso de polícia. População negra excluída da terra e do emprego, mas criadora do **samba urbano**, da imprensa negra e das primeiras entidades de luta racial.
+- **Historiografia:** **Leal** (coronelismo como compromisso e sinal de **decadência** do poder privado) × **Queiroz** (**mandonismo** de longa duração que apenas se moderniza) × **Carvalho** (ausência de canais de participação: "estadania" em vez de cidadania; a República teve de **inventar** seus símbolos). Sobre **Canudos**: *Os sertões* como fonte genial **e** documento do determinismo racial, revisto por **Villa** e **Levine** a partir de novas perguntas.
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Domine: (1) o que muda e o que permanece de 1824 para 1891; (2) as três engrenagens do poder oligárquico e como se encaixam; (3) a distinção **coronelismo / mandonismo / clientelismo**; (4) a lógica econômica da valorização do café; (5) o conteúdo **social** das revoltas messiânicas; (6) a Revolta da Vacina como reação ao arbítrio; (7) as teses de Leal, Queiroz e Carvalho.
+:::
+
+**1.** Compare a organização política do Império e a da República instituída em 1891. O que efetivamente mudou em relação à participação política?
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Mudanças reais na estrutura do Estado.**
+
+| Dimensão | Império (1824) | República (1891) |
+|---|---|---|
+| Poderes | quatro, com o **Moderador** nas mãos do imperador | três, sem o Moderador |
+| Chefia | monarquia hereditária e vitalícia | **presidencialismo**, mandato de 4 anos, sem reeleição imediata |
+| Organização territorial | Estado **unitário**; presidentes de província nomeados | **federalismo**; governadores eleitos, com constituição e receitas próprias |
+| Religião | catolicismo oficial | **Estado laico**; casamento civil, cemitérios seculares |
+| Senado | vitalício | temporário e eletivo |
+
+**O que quase não mudou: a participação.** Aboliu-se o voto **censitário** (por renda), mas instituiu-se a exclusão dos **analfabetos**, numa população em que cerca de três quartos não sabia ler. O resultado prático foi um eleitorado equivalente a **2% a 5%** dos brasileiros — mesma ordem de grandeza do Império. Continuaram excluídas as **mulheres**, os praças de pré, os mendigos e os religiosos regulares.
+
+Pior: o voto permaneceu **aberto** até 1932, não havia **Justiça Eleitoral** (a apuração e a diplomação cabiam ao próprio Congresso) e o alistamento era facultativo e controlado localmente. Ou seja: os instrumentos que permitiam fabricar resultados continuaram intactos, e o federalismo até **reforçou** o poder das oligarquias estaduais, que agora dispunham de receita própria, força pública própria e autonomia garantida.
+
+**Conclusão para prova.** A mudança foi **institucional e simbólica**, não social. Trocou-se a forma de governo sem alterar a estrutura da propriedade, a distribuição do poder local nem o tamanho do corpo político.
+:::
+
+**2.** Explique o funcionamento da **política dos governadores** e o papel das comissões de verificação de poderes.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**O problema que Campos Sales queria resolver.** Ao assumir em 1898, o presidente enfrentava um Congresso fragmentado, oposição organizada e uma crise financeira grave (o **Funding Loan**, acordo de renegociação da dívida externa, exigia austeridade e, portanto, estabilidade política). Ele precisava de uma maioria parlamentar segura e permanente.
+
+**A solução.** Um pacto informal em dois sentidos:
+
+1. o **governo federal** reconhece e apoia a oligarquia dominante em cada estado, não interferindo em suas disputas internas — o que, na prática, significa **congelar** o grupo que já está no poder;
+2. os **governadores** garantem a eleição de deputados e senadores fiéis ao presidente.
+
+**O instrumento coercitivo: a "degola".** A **Comissão de Verificação de Poderes** da Câmara examinava as atas eleitorais e decidia quem seria diplomado. Como não havia Justiça Eleitoral independente, a comissão — controlada pela situação — podia simplesmente **não reconhecer** o candidato oposicionista eleito e diplomar o derrotado governista. A prática ficou conhecida como **degola**. Era o cadeado do sistema: ainda que a oposição vencesse nas urnas, não tomava posse.
+
+**Por que funcionava.** Porque se apoiava, na base, no **coronelismo** — que produzia os votos — e, no topo, na **política do café com leite** — que garantia a sucessão presidencial dentro do eixo SP–MG. Note a circularidade: o presidente devia sua eleição aos governadores, os governadores deviam sua sobrevivência ao presidente, e os coronéis dependiam de ambos. Nenhum tinha interesse em romper.
+
+**Por que acabou.** Porque bastava que uma peça se recusasse a jogar. Em 1929, ao indicar outro paulista (Júlio Prestes) para sucedê-lo, **Washington Luís** rompeu o acordo com Minas — e a coalizão dissidente (MG, RS, PB) que se formou em resposta abriu o caminho para 1930 (@sec-anos-1920-tenentismo-22).
+:::
+
+**3.** Diferencie **coronelismo**, **mandonismo** e **clientelismo**, explicando por que a distinção é historicamente importante.
+
+::: {.callout-tip collapse="true" title="Solução"}
+- **Mandonismo.** Poder pessoal de um chefe local (o "mandão") sobre a população de sua área, fundado no controle de recursos escassos: terra, água, crédito, emprego, proteção. É um traço de **longa duração** na história brasileira, presente no período colonial, no Império e depois de 1930. Não depende de eleições.
+- **Clientelismo.** Relação de **troca** assimétrica — favores, cargos e benefícios em troca de lealdade e apoio político. É um fenômeno amplo, presente em muitos países e regimes, inclusive democracias contemporâneas.
+- **Coronelismo.** Sistema **historicamente delimitado** (Brasil, Primeira República, aproximadamente 1889–1930) no qual o mandonismo local se **acopla** a duas condições novas: um regime **representativo com sufrágio amplo** (o voto de muitos passa a ter valor de troca) e um **Estado em fortalecimento** que ainda não alcança diretamente o interior.
+
+**Por que a distinção importa.**
+
+1. **Precisão histórica.** Chamar de "coronelismo" qualquer prática clientelista atual é anacronismo: falta a estrutura institucional que definia o fenômeno (voto aberto, ausência de Justiça Eleitoral, autonomia estadual quase soberana).
+2. **Explica o nascimento e a morte.** O coronelismo **surge** com o sufrágio amplo de 1891 — antes, com voto censitário, o coronel não precisava de tanta gente — e **declina** a partir de 1930, com voto secreto (1932), Justiça Eleitoral, centralização do Estado e interventores nomeados.
+3. **Revela a tese de Leal.** Se o coronel fosse todo-poderoso, não precisaria negociar com o governador. O fato de que precisa mostra que seu poder econômico está em **declínio relativo** e que ele depende do Estado para se sustentar [@lealVN2012].
+4. **Evita conclusões apressadas.** Que o coronelismo tenha acabado **não** significa que mandonismo e clientelismo tenham acabado — e é exatamente esse o ponto de Maria Isaura Pereira de Queiroz [@queiroz1976].
+:::
+
+**4.** Analise a política de **valorização do café** definida no Convênio de Taubaté (1906). Por que Celso Furtado a chamou de "socialização das perdas"?
+
+::: {.callout-tip collapse="true" title="Solução"}
+**O contexto.** Desde 1896, a superprodução derrubava o preço internacional do café. Como o produto respondia por cerca de 70% das exportações, a queda ameaçava as receitas do Estado, o câmbio e o crédito externo do país inteiro.
+
+**O mecanismo (Convênio de Taubaté, 1906, entre SP, MG e RJ).**
+
+1. o governo toma **empréstimos externos** e compra o **excedente** da safra, estocando-o e retirando-o do mercado, o que sustenta o preço internacional;
+2. a dívida é paga por um **imposto** cobrado sobre cada saca exportada;
+3. o **câmbio é desvalorizado**, de modo que o exportador receba mais mil-réis por cada libra obtida.
+
+**Por que "socialização das perdas".** Porque a distribuição de custos e benefícios é assimétrica [@furtado2007]:
+
+- os **ganhos** (preço sustentado, receita cambial garantida) vão para um grupo restrito: os cafeicultores;
+- os **custos** recaem sobre toda a sociedade. A dívida externa é do Estado, isto é, de todos os contribuintes. E a desvalorização cambial **encarece todos os produtos importados** — dos tecidos aos alimentos e insumos —, gerando inflação que atinge sobretudo assalariados urbanos, que não têm renda em moeda estrangeira para se proteger.
+
+Em suma: quando o café ia bem, o lucro era **privado**; quando ia mal, o prejuízo era **público**.
+
+**O efeito perverso adicional.** Ao garantir preço mínimo, a política **eliminava o sinal de mercado** que desestimularia novos plantios. Resultado: mais café plantado, mais excedente, mais compras governamentais — um círculo que se retroalimentou por duas décadas. Em 1929, o Brasil acumulava estoques equivalentes a mais de uma safra mundial inteira. Quando a demanda internacional evaporou com a quebra da Bolsa de Nova York (@sec-crise-de-1929-entreguerras), o país tinha, ao mesmo tempo, o maior estoque e o pior preço de sua história — e o governo Vargas acabaria queimando dezenas de milhões de sacas.
+
+**Uma observação analítica.** Furtado nota também um efeito **não intencionado e positivo**: ao sustentar a renda dos cafeicultores em plena crise, a política manteve a demanda interna e, com a importação inviabilizada pelo câmbio, **transferiu capital para a indústria**. A valorização do café ajudou, sem querer, a industrialização brasileira.
+:::
+
+**5.** Por que **Canudos** e o **Contestado** não devem ser explicados como movimentos de "fanatismo religioso"?
+
+::: {.callout-tip collapse="true" title="Solução"}
+**O que a explicação pelo fanatismo faz.** Ela toma a **linguagem** do movimento (messiânica, milenarista, católica popular) e a apresenta como sua **causa**. Isso desqualifica os participantes como irracionais, apaga o conflito material que está na origem e — não por acaso — legitima retroativamente a repressão que os exterminou.
+
+**O conteúdo social de Canudos (BA, 1896–97).** O arraial de Belo Monte reuniu vaqueiros, ex-escravizados, indígenas e posseiros num sertão marcado por concentração fundiária, seca e crise da pecuária. A comunidade produzia, comerciava com cidades vizinhas e organizava a vida coletivamente — pesquisas de arquivo e escavações mostraram economia funcional, e não delírio coletivo [@villa1999; @levine1995]. O conflito com a República era **concreto**: novos impostos, casamento civil (que retirava da Igreja e da comunidade o controle sobre a família) e, sobretudo, a existência de uma população de milhares de pessoas **fora** do controle dos coronéis locais — que perdiam mão de obra e votos. Foram eles, e não o "fanatismo", que primeiro pediram tropas.
+
+**O conteúdo social do Contestado (SC/PR, 1912–16).** Aqui o gatilho é ainda mais explícito: a concessão de uma faixa de terra à empresa norte-americana **Brazil Railway** para a construção da ferrovia expulsou posseiros que ocupavam a região havia gerações; a madeireira associada desmatou áreas de uso comum; e milhares de trabalhadores contratados para a obra foram **dispensados** ao final dela, sem terra e sem emprego, numa região em litígio entre dois estados (daí "contestado"), onde o Estado era ausente. O messianismo dos monges deu **forma, liderança e legitimidade** a essa massa desenraizada.
+
+**Por que a linguagem era religiosa.** Porque era a linguagem disponível. Numa população sem escolas, sem sindicatos, sem partidos e sem imprensa, a religiosidade popular era o único repertório coletivo capaz de nomear a injustiça, projetar um futuro e mobilizar milhares de pessoas. Movimentos camponeses medievais e modernos, na Europa e em outros continentes, fizeram o mesmo (@sec-baixa-idade-media).
+
+**A lição de método.** Distinga sempre a **linguagem** de um movimento de suas **causas**. Perguntar "em que termos eles falavam?" é diferente de perguntar "por que se revoltaram?". Confundir as duas coisas produz o erro clássico de tratar os dominados como irracionais — e de deixar de ver o conflito real que produziu a revolta.
+:::
+
+**6.** (Estilo ENEM) Leia o texto.
+
+> "Aquilo não era uma campanha vulgar. Era uma diversão a um passado remoto. E não era uma guerra, era uma degola. […] A nossa civilização mal se aventurara ao sertão; e a Nação em armas atirava-se sobre a insurreição, com a inconsciência dos que se acreditam predestinados a extinguir um perigo iminente."
+>
+> — Euclides da Cunha, *Os sertões*, 1902 [@cunha2016]
+
+O trecho, escrito por um jornalista que acompanhou a campanha, permite compreender que
+
+**(a)** a Guerra de Canudos foi um conflito entre potências estrangeiras disputando o sertão baiano.
+**(b)** o Estado republicano interpretou como ameaça política uma comunidade rural que escapava ao seu controle, respondendo com violência desproporcional.
+**(c)** os habitantes de Canudos possuíam armamento moderno e organização militar equivalente à do Exército.
+**(d)** a comunidade de Belo Monte foi criada por iniciativa oficial para a ocupação econômica do interior.
+**(e)** o Exército brasileiro recusou-se a atacar a população civil, encerrando o conflito por negociação.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (b).** O texto sustenta dois pontos que se combinam exatamente nessa alternativa.
+
+Primeiro, a **percepção deformada** do Estado: Euclides fala da "Nação em armas" atirando-se sobre a insurreição "com a inconsciência dos que se acreditam predestinados a extinguir um perigo iminente". A expressão marca que o perigo era **acreditado**, não real — de fato, a acusação de conspiração monarquista financiada pelo estrangeiro nunca teve base documental.
+
+Segundo, a **desproporção**: "não era uma guerra, era uma degola". O autor recusa o vocabulário militar convencional justamente porque não havia dois exércitos, e sim uma população sendo eliminada — o que quatro expedições, artilharia pesada e 15 a 25 mil mortos confirmam.
+
+Por que as demais estão erradas:
+
+- **(a)** não houve envolvimento de potências estrangeiras; a suspeita de apoio externo aos "monarquistas" era infundada;
+- **(c)** os sertanejos tinham armas antigas e conhecimento do terreno, e não organização equivalente à do Exército — a superioridade material era esmagadoramente federal;
+- **(d)** Belo Monte foi fundada por Antônio Conselheiro e seus seguidores em terras de uma antiga fazenda, à revelia e contra o interesse do poder local;
+- **(e)** o conflito terminou com a destruição total do arraial e a degola dos últimos prisioneiros — o oposto de uma negociação.
+
+**Nota de leitura crítica.** Ao usar *Os sertões* como fonte, lembre-se: Euclides denuncia o massacre **e** descreve o sertanejo com as categorias do determinismo racial do seu tempo. Uma fonte pode ser simultaneamente um testemunho valioso e um documento dos preconceitos da época que a produziu (@sec-fontes-historicas).
+:::
+
+**7.** A **Revolta da Vacina** (1904) costuma ser resumida como reação popular contra a ciência. Avalie essa interpretação.
+
+::: {.callout-tip collapse="true" title="Solução"}
+A interpretação é **insuficiente e enganosa**. Ela isola a vacina de todo o contexto e transforma um conflito político em ignorância popular.
+
+**O que estava acontecendo simultaneamente no Rio.**
+
+1. **A reforma Pereira Passos ("bota-abaixo").** A prefeitura demolia cortiços e quarteirões inteiros do centro para abrir avenidas nos moldes da Paris de Haussmann. Milhares de famílias pobres, muitas negras e recém-libertas, foram despejadas sem alternativa habitacional e empurradas para morros e subúrbios — episódio central na formação das favelas cariocas.
+2. **Um pacote de normas invasivas.** Além da vacinação, proibiram-se vendedores ambulantes, criação de animais, cortiços e diversas práticas populares. A cidade estava sendo reformada **contra** os hábitos de sua população pobre.
+3. **A forma da campanha sanitária.** A lei de novembro de 1904 tornava a vacinação obrigatória e autorizava "brigadas" a **entrar nas casas**, acompanhadas de policiais, com poder de multar e até de despejar quem recusasse. Não houve campanha prévia de esclarecimento.
+4. **A dimensão do pudor.** Exigia-se expor e vacinar mulheres, por agentes homens, dentro de casa, sem consentimento do chefe da família — afronta direta às normas de honra e intimidade da época.
+
+**A conclusão da historiografia.** Sevcenko [@sevcenko2018] e Chalhoub [@chalhoub1996] mostram que a revolta foi uma reação ao **arbítrio do Estado** sobre corpos e casas de uma população que já vinha sendo despejada, e não uma rejeição da medicina. Prova disso: o mesmo Oswaldo Cruz conduzira com relativo êxito campanhas anteriores contra a febre amarela e a peste; e a varíola voltou a matar em 1908, ano em que a população **procurou** os postos em massa.
+
+**O que o episódio ensina.** Uma política sanitária pode estar **tecnicamente correta** e ainda assim fracassar politicamente, se for imposta sem consentimento, sem informação e sobre uma população que o Estado já trata como obstáculo. É um caso clássico de por que legitimidade não é um detalhe de comunicação — é condição de eficácia. Note, por fim, que reconhecer a legitimidade da revolta **não** implica endossar a recusa da vacina: são duas afirmações distintas, e distingui-las é justamente o exercício histórico.
+:::
+
+**8.** (Estilo vestibular — dissertativa) Explique a tese de **Vitor Nunes Leal** sobre o coronelismo e confronte-a com as leituras de **Maria Isaura Pereira de Queiroz** e de **José Murilo de Carvalho**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**A tese de Leal (1949).** O coronelismo não é a expressão da **força** do latifúndio, mas de sua **decadência relativa**. Trata-se de um "**compromisso**" — a palavra é dele — entre dois poderes que se precisam mutuamente:
+
+- o **poder privado em declínio**: o coronel perde peso econômico à medida que a economia se urbaniza e monetariza, mas ainda controla uma população rural dependente e, portanto, votos;
+- o **poder público em ascensão**: o Estado se fortalece, mas ainda não alcança diretamente o interior, e precisa dos votos que o coronel entrega.
+
+A troca é concreta: o coronel entrega o **curral eleitoral** ao governador; recebe de volta a nomeação do delegado, do professor e do coletor de impostos, a verba da estrada, o emprego para os afilhados. Duas condições institucionais tornam o arranjo possível: o **sufrágio amplo** (que dá valor de troca ao voto dos pobres) e o **voto aberto** somado à ausência de Justiça Eleitoral (que permite controlar o resultado) [@lealVN2012].
+
+**A crítica de Queiroz.** Para a socióloga, Leal descreve bem o **arranjo institucional** da Primeira República, mas confunde uma configuração conjuntural com o fenômeno de fundo. O **mandonismo local** — poder pessoal do chefe sobre uma clientela — atravessa o Império, a República Velha e o século XX, mudando de forma conforme o regime, mas não de natureza [@queiroz1976]. A implicação é desconfortável: 1930 encerrou o coronelismo **enquanto sistema eleitoral**, sem encerrar a dominação personalizada, que se adaptou ao Estado centralizado, aos partidos e à comunicação de massa.
+
+**A contribuição de Carvalho.** Ele desloca o olhar do **topo** para a **base**: em vez de perguntar como as elites se arranjavam, pergunta o que fazia a população. Sua resposta desmonta a ideia de apatia. Os cariocas eram intensamente organizados em irmandades, mutuais, associações de bairro — e capazes de insurreições como a de 1904. O que faltava não era disposição, era **canal**: a política institucional lhes aparecia como jogo alheio, do qual se esperava favor pessoal, não direito. Daí a fórmula da "**estadania**" — relação com o Estado sem cidadania plena [@carvalho1987; @carvalho2019]. E em *A formação das almas*, Carvalho mostra a contrapartida simbólica: a República teve de **fabricar** heróis e mitos (a disputa em torno de Tiradentes, a alegoria feminina da República, a bandeira positivista) exatamente porque lhe faltava a legitimidade que só a participação popular teria dado [@carvalho1990].
+
+**Síntese.** As três leituras operam em **escalas diferentes** e por isso são complementares, não excludentes: Leal explica o **mecanismo** (como o sistema funcionava), Queiroz explica a **duração** (por que ele não desaparece de todo), Carvalho explica a **experiência** (o que significava estar fora dele). Uma boa resposta de vestibular articula as três e conclui: a Primeira República foi um regime formalmente representativo cuja representação era produzida de cima para baixo, o que ajuda a entender por que sua crise, em 1930, começou justamente por bandeiras institucionais — **voto secreto** e **Justiça Eleitoral** (@sec-anos-1920-tenentismo-22).
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- LEAL, Victor Nunes. *Coronelismo, enxada e voto* [@lealVN2012]. O clássico absoluto sobre o tema; leia ao menos o capítulo I, que é autocontido.
+- CARVALHO, José Murilo de. *Os bestializados* e *A formação das almas* [@carvalho1987; @carvalho1990]. O primeiro sobre a exclusão política; o segundo sobre como se inventa o imaginário de um regime.
+- FAUSTO, Boris. *História do Brasil* [@fausto2015]. A síntese mais segura do período; capítulos sobre a Primeira República.
+- SCHWARCZ, Lilia; STARLING, Heloisa. *Brasil: uma biografia* [@schwarczStarling2015]. Narrativa ágil, com forte atenção à história social.
+- VILLA, Marco Antonio. *Canudos: o povo da terra* [@villa1999] e LEVINE, Robert. *O sertão prometido* [@levine1995]. A revisão historiográfica de Canudos.
+- SEVCENKO, Nicolau. *A Revolta da Vacina* [@sevcenko2018] e CHALHOUB, Sidney. *Cidade febril* [@chalhoub1996]. O Rio da reforma urbana visto de baixo.
+
+**Fontes primárias**
+
+- A **Constituição de 1891** [@constituicao1891]. Leia os artigos sobre eleitorado e sobre competências dos estados: o federalismo oligárquico está inteiro ali.
+- CUNHA, Euclides da. *Os sertões* [@cunha2016]. Grande literatura, grande reportagem — e documento do racismo científico do período. Leia com as duas lentes.
+- A **imprensa negra paulista** (*O Clarim d'Alvorada*, *A Voz da Raça*) e os jornais anarquistas (*A Plebe*, *A Terra Livre*), disponíveis em acervos digitalizados da Biblioteca Nacional: mostram um debate público muito mais amplo do que o Congresso da época sugere.
+
+**Filmes e documentários**
+
+- *Deus e o Diabo na Terra do Sol* (1964), dir. Glauber Rocha. Não é sobre Canudos, mas é a mais poderosa tradução cinematográfica do messianismo e do cangaço.
+- *Guerra de Canudos* (1997), dir. Sérgio Rezende.
+- *Policarpo Quaresma, Herói do Brasil* (1998), a partir do romance de Lima Barreto — que é, ele próprio, a melhor sátira contemporânea da Primeira República.
+- *Baile Perfumado* (1996), dir. Lírio Ferreira e Paulo Caldas, sobre Lampião e o mascate libanês que o filmou.
