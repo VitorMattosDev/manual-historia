@@ -1,5 +1,377 @@
 # A Primeira Guerra Mundial {#sec-primeira-guerra-mundial}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Na manhã de **28 de junho de 1914**, o motorista do arquiduque **Francisco Ferdinando**, herdeiro do trono austro-húngaro, errou o caminho. Depois de uma primeira tentativa de atentado com granada naquela manhã, a comitiva decidiu mudar de itinerário em Sarajevo — mas ninguém avisou o chofer, que entrou na rua Francisco José e teve de parar para dar marcha à ré. O carro imobilizou-se a menos de dois metros de **Gavrilo Princip**, um jovem sérvio-bósnio de 19 anos, tuberculoso, ligado a uma organização nacionalista clandestina, que já dava o atentado por fracassado. Ele sacou a pistola e disparou duas vezes. Cinco semanas depois, o continente que se dizia o mais civilizado do planeta entrava numa guerra que mataria cerca de **10 milhões de combatentes**, derrubaria **quatro impérios** e inauguraria o que o historiador Eric Hobsbawm chamaria de "a Era das Catástrofes" [@hobsbawm1995]. A pergunta que a historiografia persegue há um século não é "quem atirou" — isso sabemos. É outra, muito mais difícil: **como um assassinato nos Bálcãs se converteu em catástrofe mundial?** Este capítulo é uma tentativa de resposta.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- explicar as causas estruturais da Primeira Guerra Mundial — **imperialismo**, **nacionalismo**, **corrida armamentista** e **sistema de alianças** — e distinguir causas profundas de estopim;
+- descrever a **Crise de Julho** de 1914 e a lógica de escalada que levou seis potências à guerra em cinco semanas;
+- caracterizar as fases do conflito (guerra de **movimento**, guerra de **trincheiras**, 1917 como ano de virada, ofensivas de 1918);
+- explicar o conceito de **guerra total** e seus efeitos sobre a economia, as mulheres, as colônias e a vida civil;
+- avaliar a participação do **Brasil** e da América Latina no conflito;
+- analisar o **Tratado de Versalhes** e a **Liga das Nações**, e discutir por que a paz de 1919 preparou uma nova guerra;
+- contrastar as principais interpretações historiográficas sobre a **responsabilidade** pela guerra (de Versalhes a Fritz Fischer e Christopher Clark).
 :::
+
+## O mundo de 1914: a "Paz Armada" {#sec-paz-armada}
+
+Vista de fora, a Europa de 1914 parecia o auge da civilização. Era a **Belle Époque**: eletricidade nas cidades, automóveis, cinema, telefone, aviões que já cruzavam o Canal da Mancha, uma economia mundial integrada por navios a vapor, telégrafos submarinos e pelo padrão-ouro. Circulava a ideia — hoje profundamente irônica — de que o comércio internacional tornara a guerra entre grandes potências **economicamente impossível**.
+
+Por baixo dessa superfície, quatro tensões se acumulavam.
+
+**1. O imperialismo.** Como você viu no @sec-imperialismo, entre 1870 e 1914 as potências europeias repartiram a África e disputaram zonas de influência na Ásia. Sobrava pouco território livre e cresciam os atritos diretos: França e Alemanha quase entraram em guerra duas vezes pelo **Marrocos** (1905 e 1911); Inglaterra e Alemanha rivalizavam por mercados e colônias. A Alemanha, unificada tardiamente (@sec-unificacoes-italia-alemanha) e já a maior potência industrial da Europa continental, reclamava seu "lugar ao sol" — uma **Weltpolitik**, política mundial à altura de seu poder econômico.
+
+**2. O nacionalismo.** Não era mais o nacionalismo liberal e emancipador de 1848 (@sec-liberalismo-nacionalismo-1848). Transformara-se em doutrina agressiva, frequentemente racializada, que exaltava a superioridade do próprio povo e via a guerra como prova de vitalidade nacional. Na França, o **revanchismo** alimentava o desejo de retomar a **Alsácia-Lorena**, perdida em 1871. Na Itália, o **irredentismo** reivindicava territórios sob domínio austríaco. E, nos **Bálcãs**, o **pan-eslavismo** — a ideia de união dos povos eslavos sob liderança russa — colidia frontalmente com o Império Austro-Húngaro, um mosaico de mais de dez nacionalidades que a ascensão nacionalista ameaçava desmontar por dentro.
+
+::: {.callout-note title="Conceito-chave: o 'barril de pólvora dos Bálcãs'"}
+A península balcânica concentrava tudo o que podia dar errado: o **Império Otomano** em desagregação deixava um vácuo de poder; a **Sérvia**, país pequeno e ambicioso, queria liderar a unificação dos eslavos do sul (o projeto **iugoslavo**); a **Áustria-Hungria** havia anexado a **Bósnia-Herzegóvina** em 1908, com forte população sérvia; e a **Rússia** se apresentava como protetora dos eslavos ortodoxos. Duas **Guerras Balcânicas** (1912 e 1913) redesenharam o mapa e deixaram todos insatisfeitos. A expressão "barril de pólvora" é da época — e, pela primeira vez na história das metáforas políticas, foi literal.
+:::
+
+**3. A corrida armamentista.** Os exércitos europeus dobraram de tamanho entre 1890 e 1914, sustentados pelo **serviço militar obrigatório** e por orçamentos crescentes. A disputa mais visível foi naval: a Alemanha decidiu construir uma esquadra capaz de desafiar a Marinha britânica, e a Inglaterra respondeu com os **dreadnoughts**, encouraçados que tornaram obsoletos todos os navios anteriores. Mais grave que o volume de armas era a **doutrina**: os estados-maiores haviam elaborado planos de mobilização rígidos, cronometrados por horários ferroviários, nos quais **atrasar era perder**. O **Plano Schlieffen** alemão previa invadir a França pela **Bélgica neutra**, vencê-la em seis semanas e só então voltar-se contra a Rússia, considerada lenta para mobilizar. Planos assim converteram cada crise diplomática numa corrida contra o relógio.
+
+**4. O sistema de alianças.** Concebido para dissuadir a guerra, ele acabou garantindo que qualquer conflito local se tornasse geral.
+
+::: {#fig-aliancas-1914}
+
+```{.tikz}
+%%| filename: fig-aliancas-1914
+%%| alt: Diagrama dos dois blocos de alianças europeias em 1914, com a Tríplice Aliança e a Tríplice Entente e os pontos de atrito entre eles.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \node[draw, very thick, rounded corners, fill=manualblue!16, align=center, text width=5.0cm, text=manualblue] (ta) at (-3.6,3.0)
+    {\textbf{TRÍPLICE ALIANÇA} (1882)\\[2pt] Alemanha $\cdot$ Áustria-Hungria\\ Itália\\[2pt] \textit{a Itália troca de lado em 1915;\\ entram Otomanos e Bulgária}};
+
+  \node[draw, very thick, rounded corners, fill=manualred!16, align=center, text width=5.0cm, text=manualred] (te) at (3.6,3.0)
+    {\textbf{TRÍPLICE ENTENTE} (1907)\\[2pt] França $\cdot$ Rússia $\cdot$ Reino Unido\\[2pt] \textit{entram Itália (1915),\\ Romênia, EUA (1917), Brasil}};
+
+  \draw[vetor, ultra thick, manualgray] (ta) -- node[above, black]{\textbf{rivalidade}} (te);
+
+  \node[draw, thick, rounded corners, fill=manualyellow!26, align=center, text width=3.2cm] (a1) at (-5.2,0.4)
+    {\textbf{Alsácia-Lorena}\\ França $\times$ Alemanha\\ (revanchismo de 1871)};
+  \node[draw, thick, rounded corners, fill=manualyellow!26, align=center, text width=3.2cm] (a2) at (-1.7,0.4)
+    {\textbf{Marrocos}\\ crises de 1905 e 1911\\ (imperialismo)};
+  \node[draw, thick, rounded corners, fill=manualyellow!26, align=center, text width=3.2cm] (a3) at (1.8,0.4)
+    {\textbf{Corrida naval}\\ Reino Unido $\times$ Alemanha\\ (\textit{dreadnoughts})};
+  \node[draw, thick, rounded corners, fill=manualyellow!26, align=center, text width=3.2cm] (a4) at (5.3,0.4)
+    {\textbf{Bálcãs}\\ Áustria $\times$ Sérvia/Rússia\\ (pan-eslavismo)};
+
+  \draw[vetor, thick, manualgray] (ta.south) -- (a1.north);
+  \draw[vetor, thick, manualgray] (ta.south) -- (a2.north);
+  \draw[vetor, thick, manualgray] (te.south) -- (a3.north);
+  \draw[vetor, thick, manualgray] (te.south) -- (a4.north);
+
+  \node[draw, very thick, rounded corners, fill=manualred!24, align=center, text width=8.0cm, text=manualred] at (0,-2.0)
+    {\textbf{28 de junho de 1914 — SARAJEVO}\\[2pt] o atentado ativa simultaneamente \textbf{todos} os compromissos\\ de aliança: em 5 semanas, seis potências estão em guerra};
+\end{tikzpicture}
+```
+
+O sistema de alianças foi construído para **evitar** a guerra pelo equilíbrio de poder. Funcionou ao contrário: transformou um atentado local num conflito continental.
+:::
+
+## A Crise de Julho e o estopim {#sec-crise-de-julho}
+
+O que aconteceu entre 28 de junho e 4 de agosto de 1914 é um dos episódios mais estudados da história diplomática — e vale acompanhá-lo passo a passo, porque ele mostra como decisões humanas, e não uma fatalidade, produziram a catástrofe.
+
+O atentado foi obra de jovens nacionalistas sérvio-bósnios armados pela **Mão Negra**, sociedade secreta com ramificações na inteligência militar sérvia. A **Áustria-Hungria** viu ali a oportunidade de esmagar de vez a Sérvia. Antes de agir, consultou Berlim e recebeu o famoso "**cheque em branco**" (5 de julho): apoio alemão **incondicional**. Em 23 de julho, Viena enviou a Belgrado um **ultimato** deliberadamente inaceitável, com prazo de 48 horas. A Sérvia aceitou quase todos os pontos, recusando apenas o que feria sua soberania. Não bastou: em **28 de julho**, a Áustria declarou guerra à Sérvia.
+
+A partir daí, a máquina rodou sozinha. A **Rússia** mobilizou para proteger a Sérvia; a **Alemanha** exigiu que ela desmobilizasse e, diante da recusa, declarou guerra à Rússia (1º de agosto) e à **França** (3 de agosto); executando o Plano Schlieffen, invadiu a **Bélgica**, cuja neutralidade era garantida por tratado. Foi essa invasão que levou o **Reino Unido** a declarar guerra à Alemanha em **4 de agosto**. Em cinco semanas, o assassinato de um arquiduque tornara-se guerra europeia.
+
+::: {.callout-important title="Distinga causa de pretexto"}
+Uma das confusões mais comuns em provas: tratar o atentado de Sarajevo como **causa** da guerra. Ele foi o **estopim** (ou pretexto). As **causas** são estruturais e vinham se acumulando havia décadas: imperialismo, nacionalismo, corrida armamentista e alianças. A prova disso é simples: houve crises igualmente graves antes (Marrocos, 1905 e 1911; anexação da Bósnia, 1908; guerras balcânicas, 1912–13) que **não** viraram guerra mundial. O que mudou em 1914 não foi a gravidade do incidente, e sim a disposição dos governos de aceitar o risco.
+:::
+
+Um detalhe frequentemente esquecido: quase todos esperavam uma guerra **curta**. Multidões saudaram a mobilização nas ruas de Berlim, Paris, Viena e Londres, e soldados partiram acreditando que estariam "em casa no Natal". A **Segunda Internacional** socialista, que prometera responder à guerra com greve geral, viu seus partidos votarem os créditos de guerra em nome da defesa nacional — um colapso do internacionalismo operário cujas consequências você reencontrará no @sec-revolucao-russa.
+
+## As fases da guerra (1914–1918) {#sec-fases-da-guerra}
+
+::: {#fig-linha-do-tempo-primeira-guerra}
+
+```{.tikz}
+%%| filename: fig-linha-do-tempo-primeira-guerra
+%%| alt: Linha do tempo da Primeira Guerra Mundial, de 1914 a 1919, com as fases de movimento, trincheiras, o ano de 1917 e as ofensivas finais.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \fill[manualblue!16, rounded corners] (0.2,-0.42) rectangle (3.0,0.42);
+  \fill[manualgray!22, rounded corners] (3.1,-0.42) rectangle (8.9,0.42);
+  \fill[manualred!18, rounded corners] (9.0,-0.42) rectangle (11.6,0.42);
+  \fill[manualgreen!20, rounded corners] (11.7,-0.42) rectangle (13.6,0.42);
+
+  \node[text=manualblue] at (1.6,0.0) {\textbf{movimento}};
+  \node[text=manualgray!40!black] at (6.0,0.0) {\textbf{trincheiras (guerra de posição)}};
+  \node[text=manualred] at (10.3,0.0) {\textbf{1917: virada}};
+  \node[text=manualgreen!45!black] at (12.65,0.0) {\textbf{desfecho}};
+
+  \draw[eixo] (0,-1.1) -- (13.8,-1.1);
+
+  \node[ponto] at (0.6,-1.1) {};
+  \node[below] at (0.6,-1.25) {\textbf{jun. 1914}};
+  \node[above, align=center, text=manualred] at (0.7,-1.02) {};
+
+  \node[ponto] at (2.4,-1.1) {};
+  \node[below, align=center] at (2.4,-1.25) {\textbf{set. 1914}\\ 1ª Marne};
+
+  \node[ponto] at (5.0,-1.1) {};
+  \node[below, align=center] at (5.0,-1.25) {\textbf{1915}\\ gases $\cdot$ Itália\\ muda de lado};
+
+  \node[ponto] at (7.4,-1.1) {};
+  \node[below, align=center] at (7.4,-1.25) {\textbf{1916}\\ Verdun $\cdot$ Somme\\ Jutlândia};
+
+  \node[ponto] at (9.9,-1.1) {};
+  \node[below, align=center] at (9.9,-1.25) {\textbf{1917}\\ EUA entram\\ Rússia sai};
+
+  \node[ponto] at (12.0,-1.1) {};
+  \node[below, align=center] at (12.0,-1.25) {\textbf{11 nov. 1918}\\ armistício};
+
+  \node[ponto] at (13.4,-1.1) {};
+  \node[below, align=center] at (13.4,-1.25) {\textbf{1919}\\ Versalhes};
+
+  \node[above, align=center, text=manualblue] at (2.4,-1.0) {};
+\end{tikzpicture}
+```
+
+Quatro anos e três meses em quatro fases. Repare na desproporção: a guerra de movimento durou **semanas**; o impasse das trincheiras, **três anos**.
+:::
+
+**1914 — a guerra de movimento.** O Plano Schlieffen quase funcionou: os alemães varreram a Bélgica e chegaram a cerca de 50 km de Paris. Foram detidos na **Primeira Batalha do Marne** (setembro de 1914), numa operação em que o comando francês chegou a transportar tropas em **táxis parisienses**. Depois do Marne, os dois lados tentaram flanquear-se rumo ao mar e, ao fracassarem, **cavaram**. Ao fim do ano, uma linha contínua de trincheiras ia do Canal da Mancha à fronteira suíça — cerca de **700 km**. A guerra curta acabara; começava a longa.
+
+**1915–1916 — a guerra de trincheiras.** É a imagem que define o conflito: dois sistemas de trincheiras separados por uma faixa arrasada, a **"terra de ninguém"**, cheia de arame farpado e crateras. A defesa tinha vantagem esmagadora sobre o ataque, graças a três tecnologias: a **metralhadora**, a **artilharia** de tiro rápido e o próprio **arame farpado**. Ofensivas custavam dezenas de milhares de vidas para ganhar algumas centenas de metros. Em **Verdun** (1916), franceses e alemães sofreram cerca de 700 mil baixas somadas em dez meses; no **Somme** (1916), o exército britânico perdeu quase **20 mil mortos em um único dia**, o 1º de julho. Nas trincheiras, o inimigo cotidiano não era só o outro exército: eram a lama, os ratos, os piolhos, o "pé de trincheira" e o **shell shock**, o colapso nervoso que a medicina da época mal sabia nomear.
+
+Novas armas foram introduzidas para quebrar o impasse — **gases venenosos** (cloro e, depois, gás mostarda, usados desde 1915), **lança-chamas**, **submarinos** (os *U-boots* alemães), **aviões** (primeiro para reconhecimento, depois em combate) e, a partir de 1916, os **tanques** britânicos. Nenhuma delas foi decisiva isoladamente, mas todas aumentaram a letalidade.
+
+O conflito também se espalhou: houve frente **oriental** (mais móvel, entre alemães, austríacos e russos), frente **italiana** nos Alpes, campanhas no **Oriente Médio** contra o Império Otomano — onde atuou o oficial britânico T. E. Lawrence, o "Lawrence da Arábia", junto à revolta árabe —, combates na **África** colonial e no **Extremo Oriente**. Daí o nome: guerra **mundial**.
+
+::: {.callout-warning title="O genocídio armênio (1915)"}
+Sob a cobertura da guerra, o governo dos **Jovens Turcos** do Império Otomano promoveu a deportação e o extermínio da população **armênia** da Anatólia, cristã e acusada de simpatia pela Rússia. As estimativas mais aceitas apontam entre **800 mil e 1,5 milhão de mortos** entre 1915 e 1917, por massacres diretos, marchas forçadas ao deserto sírio, fome e doença. É considerado pela maioria dos historiadores o **primeiro genocídio do século XX** — e foi, aliás, ao refletir sobre esse caso e sobre o Holocausto que o jurista Raphael Lemkin cunharia, em 1944, a própria palavra "genocídio". O Estado turco contesta oficialmente a qualificação até hoje, o que faz do tema um dos exemplos mais nítidos de como a **memória** de um evento histórico continua sendo objeto de disputa política (@sec-memoria-patrimonio).
+:::
+
+**1917 — o ano da virada.** Dois acontecimentos mudaram o eixo do conflito em direções opostas.
+
+- A **entrada dos Estados Unidos** (abril de 1917). Neutros desde 1914 — mas fornecedores e credores dos Aliados —, os EUA reagiram à retomada da **guerra submarina irrestrita** alemã (que já afundara o transatlântico *Lusitânia* em 1915, com 128 norte-americanos a bordo) e à interceptação do **Telegrama Zimmermann**, no qual Berlim propunha ao México uma aliança com a promessa de recuperar Texas, Novo México e Arizona. A entrada norte-americana significou dinheiro, alimentos, indústria e, em 1918, mais de um milhão de soldados frescos.
+- A **saída da Rússia**. A Revolução de 1917 (@sec-revolucao-russa) derrubou o czarismo e, com os bolcheviques no poder, levou à paz separada de **Brest-Litovsk** (março de 1918), em que a Rússia cedeu territórios imensos para sair da guerra. A frente oriental fechou-se, liberando divisões alemãs para o Ocidente.
+
+**1918 — o desfecho.** A Alemanha apostou tudo numa ofensiva de primavera antes que os americanos chegassem em massa. Avançou, mas exauriu-se; a contraofensiva aliada, agora com tanques e superioridade material, empurrou os alemães de volta. No interior, os Impérios Centrais desmoronavam: fome causada pelo **bloqueio naval** britânico, greves, motins na Marinha alemã em Kiel e revolução em Berlim, que derrubou o **Kaiser Guilherme II** em 9 de novembro. Em **11 de novembro de 1918**, às 11 horas, assinou-se o **armistício** num vagão de trem na floresta de Compiègne. Guarde esse vagão: ele reaparecerá em 1940 (@sec-segunda-guerra-mundial).
+
+E, sobrepondo-se ao fim da guerra, veio a **gripe espanhola** (1918–19) — assim chamada só porque a Espanha, neutra, não censurava a imprensa e por isso noticiava a doença. A pandemia matou entre 20 e 50 milhões de pessoas no mundo, mais do que a própria guerra, e chegou ao Brasil em navios, matando cerca de 35 mil pessoas, entre elas o presidente eleito **Rodrigues Alves**.
+
+## A guerra total {#sec-guerra-total}
+
+O traço mais original do conflito não foi a duração nem a tecnologia: foi a **mobilização integral da sociedade**. Chama-se **guerra total** o conflito em que o Estado subordina toda a economia, a população e a cultura ao esforço bélico, e em que a distinção entre alvo militar e alvo civil se desfaz.
+
+Isso implicou:
+
+- **Economia dirigida.** Governos liberais passaram a fixar preços, racionar alimentos, requisitar fábricas, controlar matérias-primas e dirigir a produção — uma intervenção estatal sem precedentes que serviria de modelo tanto para o planejamento socialista quanto para as políticas dos anos 1930 (@sec-crise-de-1929-entreguerras).
+- **Trabalho feminino.** Com milhões de homens no front, **mulheres** ocuparam fábricas de munições, transportes, escritórios e serviços de enfermagem. Terminada a guerra, muitas foram devolvidas ao lar — mas a experiência acelerou decisivamente as campanhas pelo **sufrágio feminino**, conquistado no Reino Unido (1918, com restrições de idade), na Alemanha (1918) e nos Estados Unidos (1920).
+- **Propaganda e censura.** Cartazes, cinema, jornais e escolas foram mobilizados para sustentar o moral e desumanizar o inimigo. Nasce ali a propaganda de Estado moderna, ferramenta que os regimes dos anos 1930 levariam ao extremo (@sec-totalitarismos).
+- **Colônias no front.** Centenas de milhares de africanos, indianos, argelinos, senegaleses, vietnamitas e caribenhos combateram ou trabalharam para as metrópoles. A promessa implícita de reconhecimento não se cumpriu — e a frustração alimentaria os movimentos anticoloniais das décadas seguintes (@sec-descolonizacao-africa-asia).
+
+::: {.callout-tip title="Por que a guerra durou tanto?"}
+Se a defesa tinha vantagem tão grande, por que ninguém parou? Três razões se combinam: **(1)** militar — não havia, até 1917-18, tecnologia capaz de romper linhas fortificadas em profundidade; **(2)** política — cada governo já havia sacrificado tanto que uma paz sem vitória equivaleria a admitir que as mortes tinham sido em vão; **(3)** econômica — a mobilização total permitia sustentar perdas antes inimagináveis. Guerras longas raramente continuam porque alguém acredita que vai vencer rápido; continuam porque **desistir se torna politicamente mais caro que prosseguir**.
+:::
+
+## O Brasil e a América Latina na guerra {#sec-brasil-primeira-guerra}
+
+A América Latina viveu o conflito, sobretudo, como **choque econômico**. O bloqueio naval e a reconversão industrial europeia desorganizaram o comércio: caíram as exportações de café e as importações de manufaturados, o que estimulou uma **substituição de importações** e um surto de crescimento industrial no Brasil e na Argentina — tema que retornará no @sec-republica-velha. Ao mesmo tempo, a alta do custo de vida e a inflação alimentaram um ciclo de greves operárias que culminaria na **Greve Geral de 1917** em São Paulo.
+
+O **Brasil** manteve neutralidade até 1917. Rompeu com a Alemanha em abril daquele ano, depois do torpedeamento do navio mercante **Paraná**, e **declarou guerra em 26 de outubro de 1917**, após novos afundamentos de navios brasileiros. Foi o **único país sul-americano a declarar guerra** às Potências Centrais (Bolívia, Equador, Peru e Uruguai apenas romperam relações; o México e a Argentina permaneceram neutros). A participação militar foi modesta, mas real:
+
+- a **Divisão Naval em Operações de Guerra (DNOG)**, esquadra enviada ao Atlântico para patrulhar a costa africana, atingida duramente pela gripe espanhola;
+- uma **missão médica** enviada à França;
+- alguns **aviadores** e oficiais integrados às forças aliadas;
+- o fornecimento de alimentos e matérias-primas.
+
+A guerra teve, ainda, consequências internas: a repressão a imigrantes e à imprensa de língua alemã no Sul, a expansão do nacionalismo (a **Liga de Defesa Nacional**, de Olavo Bilac, fazia campanha pelo serviço militar obrigatório) e, mais adiante, a presença do Brasil na **Conferência de Paz de Paris** e entre os membros fundadores da **Liga das Nações** — que o país deixaria em 1926, ao não conseguir um assento permanente no Conselho.
+
+## A paz que não pacificou: Versalhes e a nova ordem {#sec-versalhes}
+
+A **Conferência de Paz de Paris** abriu-se em janeiro de 1919. Alemanha e Rússia não foram convidadas a negociar. As decisões couberam ao "Conselho dos Quatro": **Woodrow Wilson** (EUA), **Georges Clemenceau** (França), **David Lloyd George** (Reino Unido) e **Vittorio Orlando** (Itália) — e o choque entre eles definiu a paz. Wilson chegara com os **Catorze Pontos**, programa de paz baseado em diplomacia aberta, liberdade dos mares, redução de armamentos, **autodeterminação dos povos** e uma organização internacional permanente [@wilson1918]. Clemenceau queria outra coisa: garantias de que a Alemanha nunca mais poderia atacar a França.
+
+O **Tratado de Versalhes** (assinado em 28 de junho de 1919, cinco anos exatos depois de Sarajevo) impôs à Alemanha:
+
+- o **artigo 231**, a "**cláusula de culpa de guerra**", segundo o qual a Alemanha e seus aliados eram responsáveis por todas as perdas e danos;
+- **reparações** financeiras astronômicas (fixadas em 1921 em 132 bilhões de marcos-ouro);
+- perdas territoriais: **Alsácia-Lorena** devolvida à França, territórios cedidos à nova **Polônia** (com o "corredor polonês" separando a Prússia Oriental do resto do país), Sarre sob administração internacional, e a perda de **todas as colônias**;
+- **desmilitarização**: exército limitado a 100 mil homens, proibição de aviação militar, submarinos e serviço obrigatório; Renânia desmilitarizada.
+
+Outros tratados (Saint-Germain, Trianon, Neuilly, Sèvres) desmontaram os impérios **Austro-Húngaro** e **Otomano** e criaram ou ampliaram Estados: **Polônia**, **Tchecoslováquia**, **Iugoslávia**, **Áustria**, **Hungria**, Finlândia e os países bálticos. O princípio da autodeterminação, porém, foi aplicado seletivamente: valeu para os europeus, não para as colônias — que foram redistribuídas às potências vencedoras sob o nome de **mandatos** da Liga das Nações. No Oriente Médio, o acordo secreto **Sykes-Picot** (1916) e a **Declaração Balfour** (1917) semearam conflitos que atravessariam o século (@sec-oriente-medio).
+
+Criou-se, enfim, a **Liga das Nações**, primeira organização internacional destinada a preservar a paz pela segurança coletiva. Nasceu com três fragilidades fatais: os **Estados Unidos nunca aderiram** (o Senado rejeitou o tratado, e o país voltou ao isolacionismo); a Alemanha e a URSS ficaram inicialmente de fora; e a Liga não dispunha de **forças próprias** para impor suas decisões.
+
+::: {.callout-important title="A paz de 1919 causou a guerra de 1939?"}
+É uma tese antiga e sedutora — e precisa de cuidado. O economista britânico **John Maynard Keynes**, que participou da conferência e saiu indignado, publicou ainda em 1919 *As consequências econômicas da paz*, argumentando que as reparações arruinariam a Alemanha e a Europa [@keynes2002]. De fato, o tratado forneceu ao nacionalismo alemão o slogan do "**Diktat**" (paz imposta) e da "punhalada nas costas", explorado à exaustão pelos nazistas.
+
+Mas historiadores hoje ponderam: as reparações foram sucessivamente renegociadas e reduzidas (Planos **Dawes**, 1924, e **Young**, 1929) e boa parte jamais foi paga; a Alemanha permaneceu a maior economia da Europa continental; e outros fatores — a crise de 1929, a fragilidade da República de Weimar, as escolhas políticas dos anos 1930 — foram decisivos. A fórmula mais defensável é esta: Versalhes foi **duro o bastante para humilhar, brando o bastante para não incapacitar**. Não determinou 1939; criou condições que outros souberam explorar. Cuidado com a **teleologia** de ler 1919 apenas como antessala de 1939.
+:::
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+**Quem começou a Primeira Guerra Mundial?** Poucas perguntas históricas produziram debate tão longo, tão técnico e tão politicamente carregado. Vale acompanhar quatro momentos.
+
+**1. A tese da culpa alemã (1919).** O **artigo 231** do Tratado de Versalhes converteu uma questão histórica em cláusula jurídica: a Alemanha era culpada, e por isso pagaria. A tese não nasceu de pesquisa, mas de negociação diplomática — o que a fragilizou desde o início.
+
+**2. O revisionismo do entreguerras: "a culpa é do sistema".** Nos anos 1920 e 1930, historiadores alemães (com apoio ativo do governo, que publicou dezenas de volumes de documentos diplomáticos selecionados) e também britânicos e norte-americanos passaram a defender que **nenhum país** era singularmente culpado: a guerra teria resultado do sistema de alianças, dos planos militares automáticos e de uma sucessão de mal-entendidos. O ex-primeiro-ministro britânico Lloyd George resumiu a versão consagrada: as nações "**escorregaram para dentro do caldeirão fervente da guerra**". Era uma tese confortável para quase todos — inclusive para os que, nos anos 1930, defendiam a revisão de Versalhes.
+
+**3. A "tese Fischer" (1961) e a tempestade que ela provocou.** O historiador alemão **Fritz Fischer** publicou *Griff nach der Weltmacht* ("Assalto ao poder mundial"), baseado em arquivos alemães até então pouco explorados, e sustentou algo explosivo **na própria Alemanha**: Berlim não escorregou para a guerra — **quis** a guerra. Fischer mostrou que as elites políticas, militares e econômicas alemãs perseguiam objetivos expansionistas anteriores ao conflito, apontou o "conselho de guerra" de dezembro de 1912 e destacou o **Programa de Setembro** de 1914, no qual o chanceler Bethmann-Hollweg listava anexações a serem obtidas — prova, para ele, de que a Alemanha entrara na guerra com um projeto de hegemonia continental. Mais: sugeriu uma **continuidade** entre o expansionismo imperial de 1914 e o de 1939 [@fischer1967]. O impacto foi enorme na Alemanha do pós-guerra, que reabria dolorosamente a discussão sobre suas responsabilidades históricas, e a "controvérsia Fischer" dominou o campo por duas décadas.
+
+**4. A virada dos anos 2000: multicausalidade e responsabilidade compartilhada.** Historiadores recentes reequilibraram o quadro sem retornar à ingenuidade do "escorregão". O australiano **Christopher Clark**, em *Os sonâmbulos* (2012), reconstitui a Crise de Julho como um processo de decisões **interativas** entre atores múltiplos — e devolve protagonismo aos Bálcãs, à Sérvia e à Rússia, muitas vezes tratados como coadjuvantes. Sua imagem-título é precisa: os líderes europeus foram "**sonâmbulos**", vigilantes mas cegos, conscientes de suas próprias razões e inconscientes do resultado coletivo de seus atos. Clark insiste que a pergunta "quem é o culpado?" é menos produtiva que "**como isso aconteceu?**" [@clark2014]. Na linha oposta, autores como **Max Hastings** reafirmam a responsabilidade preponderante da Alemanha e da Áustria-Hungria; e **Niall Ferguson** chegou a defender que a entrada britânica foi um erro evitável [@ferguson1999]. O debate segue aberto.
+
+**Por que essas interpretações divergem?** Por três razões que valem como método geral. Primeira, **fontes**: a abertura sucessiva de arquivos — alemães nos anos 1960, soviéticos e sérvios depois de 1991 — mudou o que se podia ver. Segunda, **perguntas**: quem procura "o culpado" busca intenções e documentos de gabinete; quem procura "o processo" analisa percepções, cadeias de decisão e mal-entendidos. Terceira, e decisiva, o **presente de cada historiador**: a tese da culpa serviu à ordem de 1919; o revisionismo serviu à Alemanha que queria revisar o tratado; Fischer escreveu numa Alemanha que, depois do nazismo, era obrigada a encarar suas continuidades; e a leitura multicausal de Clark ganhou força numa Europa integrada, que via a integração como o oposto de 1914. Como você aprendeu no @sec-o-que-e-historia, a História é reescrita porque as perguntas mudam — não porque os fatos se inventem.
+
+## Resumo do capítulo {#sec-resumo}
+
+- **Causas estruturais:** **imperialismo** (disputa por colônias e mercados; crises do Marrocos em 1905 e 1911), **nacionalismo** agressivo (revanchismo francês pela **Alsácia-Lorena**, irredentismo italiano, **pan-eslavismo** nos Bálcãs), **corrida armamentista** (serviço obrigatório, *dreadnoughts*, **Plano Schlieffen**) e **sistema de alianças** (**Tríplice Aliança**, 1882 × **Tríplice Entente**, 1907). O período é chamado de **Paz Armada**.
+- **Estopim:** assassinato do arquiduque **Francisco Ferdinando** em **Sarajevo**, 28 de junho de 1914, por **Gavrilo Princip**. Segue-se a **Crise de Julho**: "cheque em branco" alemão (5/7), ultimato austríaco (23/7), declaração de guerra à Sérvia (28/7), mobilização russa, invasão da **Bélgica** neutra e entrada britânica (4/8).
+- **Fases:** guerra de **movimento** (1914, detida na **1ª Batalha do Marne**) → guerra de **trincheiras** (1915–16: **Verdun**, **Somme**; gases, tanques, submarinos, aviões) → **1917**, ano da virada (**entrada dos EUA** após a guerra submarina irrestrita e o **Telegrama Zimmermann**; **saída da Rússia** pela Revolução, formalizada em **Brest-Litovsk**, 1918) → ofensivas de **1918** e **armistício de 11 de novembro**.
+- **Guerra total:** economia dirigida pelo Estado, racionamento, **trabalho feminino** em massa (impulso ao sufragismo), propaganda e censura, uso de tropas e trabalhadores **coloniais**. Sob a guerra ocorre o **genocídio armênio** (1915), com 800 mil a 1,5 milhão de mortos.
+- **Custos:** cerca de **10 milhões de combatentes mortos**, milhões de civis, quatro impérios derrubados (**Alemão**, **Austro-Húngaro**, **Russo** e **Otomano**), Europa endividada e deslocamento do centro financeiro mundial de Londres para **Nova York**. A **gripe espanhola** (1918–19) matou ainda mais que a guerra.
+- **Brasil:** neutro até 1917; rompe com a Alemanha após o torpedeamento do **Paraná** e **declara guerra em 26 de outubro de 1917** — único país sul-americano a fazê-lo. Envia a **DNOG**, uma missão médica e aviadores. Internamente: surto industrial por **substituição de importações**, inflação e **Greve Geral de 1917**; nacionalismo e repressão a imigrantes alemães.
+- **Paz de 1919:** **Tratado de Versalhes** com o **artigo 231** ("culpa de guerra"), **reparações**, perdas territoriais e **desmilitarização** da Alemanha; fim dos impérios Austro-Húngaro e Otomano; novos Estados na Europa Central; **autodeterminação** aplicada seletivamente (colônias viram **mandatos**). Criação da **Liga das Nações**, sem a adesão dos **EUA** e sem força própria.
+- **Historiografia:** culpa alemã (art. 231, 1919) → **revisionismo** do entreguerras ("escorregamos para a guerra") → **tese Fischer** (1961: a Alemanha *quis* a guerra, com continuidade até 1939) → leitura **multicausal** recente (**Clark**, *Os sonâmbulos*: decisões interativas, protagonismo balcânico, "como aconteceu" em vez de "quem é o culpado").
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Domine: (1) a distinção entre **causas estruturais** e **estopim**; (2) a cadeia da **Crise de Julho**; (3) as fases e por que a guerra travou nas trincheiras; (4) o conceito de **guerra total**; (5) o duplo significado de **1917**; (6) as cláusulas de **Versalhes** e as falhas da **Liga das Nações**; (7) o caso brasileiro; (8) a controvérsia sobre a responsabilidade.
+:::
+
+**1.** Explique por que o atentado de Sarajevo é considerado o **estopim**, e não a **causa**, da Primeira Guerra Mundial.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Estopim** é o evento imediato que desencadeia um processo já maduro; **causas** são os fatores estruturais que o tornaram possível. As causas da guerra vinham se acumulando havia décadas:
+
+1. **Imperialismo** — o esgotamento dos territórios disponíveis convertia cada disputa colonial em atrito direto entre potências (Marrocos, 1905 e 1911);
+2. **Nacionalismo agressivo** — revanchismo francês pela Alsácia-Lorena, irredentismo italiano, pan-eslavismo russo-sérvio contra um Império Austro-Húngaro multinacional;
+3. **Corrida armamentista** — exércitos de massa, corrida naval e, sobretudo, **planos de mobilização rígidos** (como o Schlieffen) que premiavam quem atacasse primeiro;
+4. **Sistema de alianças** — dois blocos que garantiam a generalização automática de qualquer conflito local.
+
+**A prova decisiva do argumento** é comparativa: houve crises anteriores tão ou mais graves — Marrocos (1905, 1911), anexação da Bósnia (1908), guerras balcânicas (1912–13) — que **não** produziram guerra mundial. Se o incidente bastasse para explicar a guerra, elas teriam bastado. O que mudou em 1914 não foi a natureza do incidente, mas a **disposição dos governos** de aceitar o risco de uma guerra geral — e a rigidez dos planos militares, que encurtou o tempo da diplomacia.
+:::
+
+**2.** Descreva a escalada da **Crise de Julho** de 1914, indicando as decisões que converteram um conflito austro-sérvio em guerra europeia.
+
+::: {.callout-tip collapse="true" title="Solução"}
+1. **28 de junho** — Francisco Ferdinando é assassinado em Sarajevo por Gavrilo Princip, ligado à **Mão Negra**, com conexões na inteligência militar sérvia.
+2. **5 de julho** — Viena consulta Berlim e obtém o "**cheque em branco**": apoio alemão incondicional a uma ação contra a Sérvia. É a decisão que transforma uma crise regional em risco continental.
+3. **23 de julho** — **ultimato** austríaco à Sérvia, com prazo de 48 horas e exigências deliberadamente inaceitáveis (incluindo participação austríaca na investigação em solo sérvio).
+4. **25 de julho** — a Sérvia aceita quase tudo, recusando apenas o que fere sua soberania. A Áustria considera a resposta insuficiente.
+5. **28 de julho** — a Áustria-Hungria declara guerra à Sérvia.
+6. **30 de julho** — a **Rússia** decreta mobilização geral em apoio à Sérvia. Como mobilizar era, na doutrina da época, quase equivalente a declarar guerra, o relógio dispara.
+7. **1º e 3 de agosto** — a **Alemanha** declara guerra à Rússia e à França.
+8. **3–4 de agosto** — executando o **Plano Schlieffen**, a Alemanha invade a **Bélgica neutra**; o **Reino Unido**, garantidor dessa neutralidade (e preocupado com portos no Canal), declara guerra à Alemanha.
+
+**O que o encadeamento mostra:** não houve fatalidade. Cada passo foi uma **decisão** — o cheque em branco, o ultimato, a mobilização russa, a escolha de invadir a Bélgica. Mas cada decisão reduzia o espaço da seguinte, porque os planos militares eram cronometrados e a diplomacia funcionava mais devagar que as ferrovias.
+:::
+
+**3.** Por que a guerra de movimento se converteu em **guerra de trincheiras**, e por que o impasse durou três anos?
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Como se chegou às trincheiras.** O Plano Schlieffen dependia de uma vitória rápida sobre a França. Detida a ofensiva alemã na **Primeira Batalha do Marne** (setembro de 1914), os dois lados tentaram flanquear-se em direção ao mar (a "corrida ao mar"); fracassando, entrincheiraram-se. Formou-se uma linha contínua de cerca de **700 km**, do Canal da Mancha à Suíça, sem flancos a contornar — restava atacar de frente.
+
+**Por que o ataque frontal fracassava.** Três tecnologias davam vantagem esmagadora à defesa: a **metralhadora** (que multiplicava por dezenas o poder de fogo de um punhado de defensores), a **artilharia** de tiro rápido e o **arame farpado**, que retardava o assaltante justamente na zona batida pelo fogo. Somem-se as trincheiras em profundidade e os abrigos subterrâneos. O resultado: ofensivas custavam dezenas de milhares de vidas por poucas centenas de metros — **Verdun** (cerca de 700 mil baixas somadas em dez meses) e **Somme** (quase 20 mil britânicos mortos em 1º de julho de 1916) são os exemplos canônicos.
+
+**Por que ninguém parou.** (a) **Militarmente**, faltava até 1917–18 a combinação de tanques, artilharia coordenada e infiltração capaz de romper linhas em profundidade; (b) **politicamente**, cada governo já havia gasto tantas vidas que uma paz sem vitória equivaleria a declará-las inúteis; (c) **economicamente**, a mobilização total permitia sustentar perdas antes impensáveis. O impasse só se rompeu quando o equilíbrio material mudou: entrada dos **EUA**, bloqueio naval sufocando a Alemanha e esgotamento das reservas humanas alemãs após a ofensiva de 1918.
+:::
+
+**4.** Explique o conceito de **guerra total** e dê três exemplos concretos de suas manifestações.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Guerra total** é o conflito em que o Estado mobiliza integralmente a sociedade — economia, população, ciência e cultura — para o esforço bélico, e em que a fronteira entre combatentes e civis se dissolve.
+
+Exemplos:
+
+1. **Economia dirigida.** Estados liberais assumiram o controle de preços, o racionamento de alimentos e combustíveis, a requisição de fábricas e a alocação de matérias-primas. Essa experiência de **planejamento estatal** influenciaria tanto a economia soviética quanto as políticas intervencionistas dos anos 1930 (@sec-crise-de-1929-entreguerras).
+2. **Mobilização do trabalho feminino.** Milhões de mulheres entraram em fábricas de munições, transportes, escritórios e hospitais. Embora a maioria tenha sido afastada desses postos após 1918, a experiência fortaleceu as campanhas pelo **sufrágio feminino** (Reino Unido e Alemanha em 1918, EUA em 1920).
+3. **Propaganda, censura e ataque ao inimigo civil.** Cartazes, cinema e imprensa foram postos a serviço do moral nacional e da desumanização do adversário; o **bloqueio naval** britânico visava deliberadamente à fome da população alemã, e os bombardeios aéreos e de submarinos atingiam navios e cidades. A ideia de que **a população inteira é alvo legítimo** é a marca mais sinistra do conceito — e chegaria ao extremo na Segunda Guerra (@sec-segunda-guerra-mundial).
+
+Vale acrescentar um quarto exemplo, muitas vezes esquecido: a mobilização de tropas e trabalhadores **coloniais** (indianos, argelinos, senegaleses, vietnamitas), que envolveu no conflito sociedades inteiras fora da Europa.
+:::
+
+**5.** Por que **1917** é considerado o ano decisivo da guerra? Explique os dois processos em sentidos opostos.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Processo 1 — a entrada dos Estados Unidos (abril de 1917).** Formalmente neutros desde 1914, os EUA já eram fornecedores e principais credores dos Aliados. A ruptura decorreu de dois fatores imediatos: a retomada pela Alemanha da **guerra submarina irrestrita** (que atacava navios neutros e já afundara o *Lusitânia* em 1915, com 128 norte-americanos a bordo) e a divulgação do **Telegrama Zimmermann**, no qual a Alemanha propunha ao México uma aliança militar com a promessa de recuperar territórios perdidos aos EUA. As consequências foram decisivas: crédito, alimentos, capacidade industrial e, ao longo de 1918, mais de um milhão de soldados descansados numa Europa exaurida.
+
+**Processo 2 — a saída da Rússia.** A **Revolução de Fevereiro** derrubou o czarismo; o Governo Provisório manteve a guerra e por isso ruiu; a **Revolução de Outubro** levou os bolcheviques ao poder com a palavra de ordem "paz, terra e pão" (@sec-revolucao-russa). O resultado foi a paz separada de **Brest-Litovsk** (março de 1918), com cessão de vastos territórios, e o fechamento da **frente oriental**, liberando divisões alemãs para o Ocidente.
+
+**Por que "decisivo".** Os dois processos deram à Alemanha uma **janela**: por alguns meses ela teria superioridade no Ocidente, antes que os americanos chegassem em massa. Foi exatamente essa aposta que produziu a ofensiva de primavera de 1918 — que avançou, exauriu-se e abriu caminho para a derrota. Em termos mais amplos, 1917 também marca uma virada **ideológica**: entram em cena, ao mesmo tempo, o modelo **liberal-democrático** norte-americano (os Catorze Pontos de Wilson) e o modelo **revolucionário socialista** soviético — os dois polos que organizariam a política mundial pelos setenta anos seguintes (@sec-ordem-bipolar).
+:::
+
+**6.** (Estilo ENEM) Leia o texto.
+
+> "Artigo 231. Os Governos Aliados e Associados declaram, e a Alemanha reconhece, que a Alemanha e seus aliados são responsáveis, por os terem causado, por todos os danos e perdas sofridos pelos Governos Aliados e Associados e seus nacionais, em consequência da guerra que lhes foi imposta pela agressão da Alemanha e de seus aliados."
+>
+> — Tratado de Versalhes, 1919 [@tratadoVersalhes1919]
+
+A inclusão desse artigo no tratado teve como principal consequência histórica
+
+**(a)** o desarmamento simultâneo de todas as potências europeias, conforme os Catorze Pontos de Wilson.
+**(b)** o fundamento jurídico das reparações impostas à Alemanha e o argumento central do ressentimento nacionalista alemão no pós-guerra.
+**(c)** a adesão imediata dos Estados Unidos à Liga das Nações, garantindo a estabilidade do sistema internacional.
+**(d)** a aplicação do princípio da autodeterminação dos povos às colônias africanas e asiáticas das potências vencidas.
+**(e)** a criação de um tribunal internacional que julgou e condenou os responsáveis pelo genocídio armênio.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (b).** O artigo 231 — a "**cláusula de culpa de guerra**" — cumpria uma função jurídica precisa: estabelecer a responsabilidade alemã como base legal para cobrar **reparações** (fixadas em 1921 em 132 bilhões de marcos-ouro). Politicamente, porém, seu efeito foi outro e mais duradouro: forneceu à direita nacionalista alemã o símbolo perfeito do "**Diktat**", a paz imposta e humilhante, que se somou à lenda da "punhalada nas costas" (a ideia falsa de que o exército não fora derrotado no front, mas traído na retaguarda). Esse repertório seria explorado à exaustão pelo nazismo (@sec-totalitarismos).
+
+Por que as demais estão erradas:
+
+- **(a)** o desarmamento foi imposto **apenas** à Alemanha (exército de 100 mil homens, sem aviação militar nem submarinos); as vencedoras não se desarmaram, o que agravou a percepção de injustiça;
+- **(c)** os EUA **não** aderiram à Liga das Nações — o Senado rejeitou o tratado, e o país retornou ao isolacionismo, o que enfraqueceu a organização desde o nascimento;
+- **(d)** a autodeterminação foi aplicada seletivamente à **Europa** (Polônia, Tchecoslováquia, Iugoslávia); as colônias alemãs e otomanas foram redistribuídas às vencedoras como **mandatos** da Liga;
+- **(e)** não houve tribunal internacional efetivo para o genocídio armênio; o Tratado de Sèvres previa punições que jamais se concretizaram, e o Estado turco contesta a qualificação até hoje.
+:::
+
+**7.** Qual foi a participação do **Brasil** na Primeira Guerra Mundial, e quais foram os efeitos internos do conflito?
+
+::: {.callout-tip collapse="true" title="Solução"}
+**A trajetória diplomática.** O Brasil declarou-se **neutro** em 1914, posição confortável para um país cuja economia dependia da exportação de café e da importação de manufaturados europeus. A mudança veio com a **guerra submarina irrestrita** alemã: depois do torpedeamento do navio mercante **Paraná** (abril de 1917), o Brasil rompeu relações com a Alemanha e, após novos afundamentos, **declarou guerra em 26 de outubro de 1917**. Foi o **único país da América do Sul a declarar guerra** às Potências Centrais — Bolívia, Equador, Peru e Uruguai limitaram-se a romper relações; Argentina, Chile e México mantiveram a neutralidade.
+
+**A participação militar** foi modesta, porém real: a **Divisão Naval em Operações de Guerra (DNOG)**, enviada ao Atlântico para patrulhar rotas próximas à África (e duramente atingida pela **gripe espanhola**, que matou mais tripulantes do que qualquer combate); uma **missão médica** enviada à França; e alguns **aviadores** e oficiais integrados às forças aliadas, além do fornecimento de alimentos e matérias-primas.
+
+**Os efeitos internos** foram mais importantes que a atuação militar:
+
+1. **Econômicos** — a interrupção do comércio europeu reduziu importações e estimulou a produção interna de bens de consumo (**substituição de importações**), acelerando a industrialização de São Paulo e do Rio; mas a inflação e a alta do custo de vida corroeram os salários.
+2. **Sociais** — a carestia foi um dos combustíveis da onda grevista que culminou na **Greve Geral de 1917** em São Paulo, marco do movimento operário e do anarcossindicalismo no Brasil (@sec-republica-velha).
+3. **Políticos e culturais** — cresceu o **nacionalismo** (a Liga de Defesa Nacional, de **Olavo Bilac**, fazia campanha pelo serviço militar obrigatório e pela alfabetização), houve repressão a imigrantes e à imprensa em língua alemã no Sul, e o país obteve assento na Conferência de Paz de Paris e entre os fundadores da **Liga das Nações** — da qual sairia em 1926, frustrado por não conseguir uma cadeira permanente no Conselho.
+:::
+
+**8.** (Estilo vestibular — dissertativa) Compare a **tese de Fritz Fischer** com a interpretação de **Christopher Clark** sobre as responsabilidades pela eclosão da guerra, explicando por que as duas divergem.
+
+::: {.callout-tip collapse="true" title="Solução"}
+| | **Fritz Fischer** (1961) | **Christopher Clark** (2012) |
+|---|---|---|
+| **Tese central** | a **Alemanha quis** a guerra: havia projeto deliberado de hegemonia | a guerra resultou de **decisões interativas** de múltiplos atores; ninguém a planejou como veio a ser |
+| **Evidência-chave** | documentos internos alemães, "conselho de guerra" de 1912, **Programa de Setembro** de 1914 com metas anexionistas | reconstituição minuciosa da **Crise de Julho** e das percepções recíprocas; arquivos sérvios, russos e austríacos |
+| **Papel dos Bálcãs** | secundário | **central**: Sérvia e Rússia são protagonistas, não coadjuvantes |
+| **Continuidade com 1939** | afirmada: linha entre expansionismo de 1914 e o de Hitler | rejeitada: 1914 deve ser explicado por si mesmo |
+| **Pergunta que orienta** | **quem é o culpado?** | **como isso aconteceu?** |
+| **Imagem-síntese** | um assalto deliberado ao poder mundial | líderes "**sonâmbulos**": vigilantes, mas cegos ao resultado coletivo |
+
+**Por que divergem.** Três razões, que ilustram como se produz conhecimento histórico:
+
+1. **Fontes diferentes.** Fischer trabalhou com arquivos **alemães** recém-explorados nos anos 1950–60; Clark dispôs de documentação sérvia, russa e austríaca aberta ou reprocessada depois de **1991**. Quem lê só os documentos de um país tende a enxergar a intenção desse país.
+2. **Perguntas diferentes.** Buscar **culpa** leva a procurar intenções, planos e provas de premeditação. Buscar **processo** leva a analisar percepções, cadeias de comando, mal-entendidos e a interação entre decisões — categorias em que a responsabilidade aparece distribuída.
+3. **Contextos diferentes.** Fischer escreveu na Alemanha Ocidental de 1961, uma sociedade obrigada a confrontar as continuidades que levaram ao nazismo; sua tese foi recebida como acusação nacional e provocou escândalo. Clark escreveu na Europa integrada do início do século XXI, às vésperas do centenário de 1914, num ambiente em que a leitura de responsabilidades compartilhadas era, ela também, uma mensagem sobre o presente.
+
+**Síntese possível.** As duas leituras não se anulam ponto a ponto: mesmo os críticos de Fischer reconhecem que a Alemanha e a Áustria-Hungria assumiram riscos maiores que os demais — o "cheque em branco" e o ultimato de 23 de julho são fatos —, e mesmo os herdeiros de Fischer aceitam que a Rússia e a Sérvia tiveram papel ativo. A diferença mais profunda é de **método**: Fischer procura o autor; Clark procura o mecanismo. Avaliar qual explica melhor exige comparar como cada uma dá conta das mesmas evidências — que é exatamente o exercício de crítica historiográfica proposto no @sec-correntes-historiograficas.
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- HOBSBAWM, Eric. *Era dos extremos: o breve século XX* [@hobsbawm1995]. O capítulo sobre a "era da guerra total" é a melhor porta de entrada para todo este volume.
+- CLARK, Christopher. *Os sonâmbulos: como eclodiu a Primeira Guerra Mundial* [@clark2014]. Longo, mas apaixonante: reconstitui a Crise de Julho quase dia a dia.
+- KEEGAN, John. *Uma história da guerra* e *A Primeira Guerra Mundial* [@keegan2004]. Excelente para entender o *como* militar — trincheiras, tática, logística.
+- MACMILLAN, Margaret. *Paris 1919: seis meses que mudaram o mundo* [@macmillan2004]. A conferência de paz vista de dentro, com seus personagens e improvisos.
+- KEYNES, John Maynard. *As consequências econômicas da paz* [@keynes2002]. Escrito no calor da hora, em 1919, por um economista que abandonou a delegação britânica indignado. Documento e análise ao mesmo tempo.
+
+**Fontes primárias**
+
+- Os **Catorze Pontos** de Woodrow Wilson (janeiro de 1918) [@wilson1918] e o **Tratado de Versalhes** (1919) [@tratadoVersalhes1919]. Leia o artigo 231 e o compare com o quinto ponto de Wilson sobre as colônias: a distância entre os dois textos é a história da paz de 1919.
+- REMARQUE, Erich Maria. *Nada de novo no front* [@remarque2004]. Romance escrito por um veterano alemão: a melhor fonte para entender a experiência da trincheira. Foi queimado pelos nazistas em 1933 — o que diz muito sobre o que estava em jogo.
+
+**Filmes e documentários**
+
+- *Nada de novo no front* (versões de 1930, 1979 e 2022). Compare a versão americana de 1930 com a alemã de 2022: as duas contam a mesma história, mas para públicos e presentes distintos.
+- *Os que ficam* (*They Shall Not Grow Old*, 2018), dir. Peter Jackson. Imagens de arquivo restauradas, coloridas e sonorizadas, com narração de veteranos: uma reflexão, em si, sobre o que a tecnologia faz com a fonte histórica (@sec-fontes-historicas).
+- *Feliz Natal* (*Joyeux Noël*, 2005), sobre a trégua espontânea do Natal de 1914 — episódio real e revelador dos limites do ódio fabricado pela propaganda.
+- *1917* (2019), dir. Sam Mendes, para a experiência espacial da frente ocidental.
