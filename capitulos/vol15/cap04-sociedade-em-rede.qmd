@@ -1,5 +1,496 @@
 # Tecnologia, informação e a sociedade em rede {#sec-sociedade-em-rede}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Em 1969, o computador de bordo que levou seres humanos à Lua tinha cerca de 4 KB de memória e 72 KB de armazenamento. O aparelho no seu bolso tem, com folga, um milhão de vezes mais capacidade de processamento — e você provavelmente o usa, na maior parte do tempo, para ver vídeos curtos escolhidos por um sistema que estuda seu comportamento com atenção maior do que qualquer pessoa jamais dedicou a você. Não se trata de moralismo sobre o tempo de tela. Trata-se de um fato historicamente extraordinário: em cerca de cinquenta anos, uma capacidade computacional que era patrimônio de superpotências foi barateada ao ponto da ubiquidade, e o principal negócio construído sobre ela consiste em prever e influenciar comportamento humano em escala planetária. Este capítulo pergunta o que aconteceu, quem decidiu, quem ganhou e quem ficou de fora — e, sobretudo, como se estuda historicamente um processo do qual você é, neste exato momento, participante.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- caracterizar a **Terceira Revolução Industrial** (técnico-científica) e discutir a noção de "**Quarta Revolução Industrial**";
+- reconstituir a história do **computador** e da **internet**, do ENIAC à web, identificando o papel do Estado, da guerra e da contracultura;
+- explicar o que **Manuel Castells** chama de "**sociedade em rede**" e o que é a **economia da informação**;
+- analisar as **plataformas digitais**, a **economia do compartilhamento**, a **uberização** e as mudanças no mundo do trabalho;
+- discutir **desinformação**, **bolhas**, **algoritmos** e seus efeitos sobre a vida democrática;
+- explicar o **capitalismo de vigilância** de **Shoshana Zuboff** e o debate sobre privacidade e dados;
+- situar o **Brasil**: da política de informática dos anos 1980 ao **Marco Civil**, à **LGPD** e ao **Pix**;
+- discutir o **determinismo tecnológico** e seus críticos, e as dificuldades específicas de arquivar e estudar o passado digital.
 :::
+
+## A Terceira Revolução Industrial {#sec-terceira-revolucao-industrial}
+
+A historiografia econômica costuma organizar dois séculos e meio de transformação técnica em ondas (@sec-revolucao-industrial; @sec-segunda-revolucao-industrial-socialismo):
+
+- **Primeira Revolução Industrial** (a partir de c. 1760): carvão, máquina a vapor, tear mecânico, ferrovia. Inglaterra.
+- **Segunda** (a partir de c. 1870): aço, eletricidade, petróleo, motor a combustão, química, linha de montagem. Alemanha e Estados Unidos à frente.
+- **Terceira**, também chamada **revolução técnico-científica** (a partir de meados do século XX): eletrônica, computação, telecomunicações, energia nuclear, biotecnologia, novos materiais, robótica.
+
+::: {.callout-note title="O que distingue a Terceira Revolução"}
+Três traços a diferenciam das anteriores.
+
+1. **A ciência passa à frente da técnica.** Nas duas primeiras revoluções, a prática frequentemente antecedeu a teoria: a máquina a vapor funcionava antes de a termodinâmica explicá-la. Na terceira, a sequência se inverte — pesquisa básica, laboratório, universidade e centro de P&D antecedem a aplicação. A **universidade** e o **Estado financiador** tornam-se atores econômicos centrais.
+2. **A matéria-prima decisiva passa a ser a informação.** Não o carvão nem o aço, mas a capacidade de processar, armazenar e transmitir dados. Isso muda a natureza do produto: uma tonelada de aço consumida desaparece; uma informação copiada continua com quem a transmitiu, e o custo de reproduzi-la tende a zero — o que desorganiza todas as noções econômicas construídas sobre escassez.
+3. **O ritmo é exponencial.** A **Lei de Moore** (1965) observou que o número de transistores em um circuito integrado dobrava a cada dois anos aproximadamente. Não é uma lei da natureza — é uma regularidade histórica que se sustentou por décadas e organizou o planejamento de uma indústria inteira. Uma duplicação a cada dois anos significa um fator de mil a cada vinte anos.
+:::
+
+**E a "Quarta Revolução Industrial"?** A expressão foi popularizada por **Klaus Schwab**, do Fórum Econômico Mundial, em 2016, para designar a fusão entre os mundos físico, digital e biológico: inteligência artificial, internet das coisas, impressão 3D, biotecnologia, computação quântica [@schwab2016]. Historiadores tendem a receber o rótulo com cautela: pode ser apenas o aprofundamento da terceira onda, e a expressão nasceu num fórum empresarial, com finalidade tanto analítica quanto promocional. Vale a advertência geral — **desconfie de quem batiza a própria época**, porque a periodização é normalmente trabalho da posteridade, feito quando já se sabe o que veio depois (@sec-periodizacao).
+
+## Do ENIAC à web {#sec-eniac-web}
+
+**As origens militares.** O computador eletrônico nasceu da **guerra**. Na Segunda Guerra, o britânico **Alan Turing** e a equipe de Bletchley Park construíram máquinas para decifrar os códigos alemães **Enigma** — trabalho que encurtou o conflito e permaneceu secreto por décadas, enquanto Turing era processado por homossexualidade e morria em 1954. Nos Estados Unidos, o **ENIAC** (1946) foi projetado para calcular tabelas de tiro de artilharia: pesava 30 toneladas, ocupava uma sala e era programado por recabeamento manual — trabalho realizado por seis mulheres matemáticas cujos nomes só foram reconhecidos meio século depois.
+
+**As três miniaturizações.** O **transistor** (Bell Labs, 1947) substituiu as válvulas; o **circuito integrado** (1958) reuniu componentes numa única pastilha; o **microprocessador** (Intel, 1971) colocou uma unidade de processamento inteira em um chip. Cada etapa reduziu tamanho, custo e consumo em ordens de grandeza.
+
+**A internet.** Em 1969, a **ARPANET**, financiada pela agência de pesquisa do Departamento de Defesa americano, conectou quatro universidades. Seu princípio arquitetônico — a **comutação de pacotes**, em que a mensagem é fatiada e cada pedaço viaja por qualquer rota disponível — dava robustez a uma rede sem centro. Nos anos 1970 e 1980, o protocolo **TCP/IP** permitiu que redes diferentes se interligassem, e a rede se expandiu pelo mundo acadêmico. Em **1989**, no **CERN**, o britânico **Tim Berners-Lee** propôs um sistema de documentos ligados por hipertexto: a **World Wide Web** [@bernersLee1989]. O CERN liberou a tecnologia em **domínio público** em 1993 — decisão de consequências gigantescas, porque impediu que a web nascesse proprietária. A abertura comercial veio em seguida, com os primeiros navegadores gráficos.
+
+::: {.callout-important title="Quem inventou a internet? Duas lendas a desmontar"}
+**Lenda 1: "Foi o mercado."** Não foi. A internet resultou de **décadas de financiamento público** — militar e universitário —, sem expectativa de lucro no horizonte e com prazos que nenhum investidor privado teria tolerado. O mesmo vale para os componentes centrais do smartphone: GPS, touchscreen, reconhecimento de voz e a própria internet nasceram de programas estatais de pesquisa, sobretudo americanos. O papel das empresas — que foi real e decisivo — situa-se na integração, na escala, no design e na distribuição, não na invenção da base. Reconhecer isso não é argumento contra a iniciativa privada; é a correção de um mito que atrapalha o entendimento de como a inovação de fato acontece.
+
+**Lenda 2: "Foi tudo pensado por gênios solitários numa garagem."** A história real é de **equipes**, redes de laboratórios e acumulação incremental ao longo de gerações. A cultura da Califórnia dos anos 1970 acrescentou ainda um ingrediente que costuma ser esquecido: a **contracultura**. O computador pessoal nasceu num ambiente que unia engenharia, movimento estudantil e ideais libertários de descentralização e acesso livre à informação — e essa herança explica tanto o *software* livre quanto boa parte da retórica das empresas que depois se tornaram gigantes [@isaacson2014].
+:::
+
+**A escala.** Em 1995, havia cerca de 16 milhões de usuários de internet no mundo; hoje, mais de 5 bilhões. Poucas tecnologias na história difundiram-se tão depressa — o telefone levou cerca de 75 anos para atingir 50 milhões de usuários; a televisão, 13; a web, 4; alguns aplicativos recentes, semanas.
+
+::: {#fig-linha-do-tempo-tecnologia}
+
+```{.tikz}
+%%| filename: fig-linha-do-tempo-tecnologia
+%%| alt: Linha do tempo da revolução digital, de 1946 a 2022, com ENIAC, transistor, ARPANET, microprocessador, PC, web, internet comercial, redes sociais, smartphone, Snowden e IA generativa.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \fill[manualgray!16, rounded corners] (0.3,-1.5) rectangle (4.6,-0.55);
+  \node[text=manualgray!45!black, font=\scriptsize\bfseries, align=center] at (2.45,-1.02) {computação\\ militar e acadêmica};
+  \fill[manualblue!14, rounded corners] (4.8,-1.5) rectangle (9.0,-0.55);
+  \node[text=manualblue, font=\scriptsize\bfseries, align=center] at (6.9,-1.02) {computador pessoal};
+  \fill[manualgreen!16, rounded corners] (9.2,-1.5) rectangle (12.4,-0.55);
+  \node[text=manualgreen!45!black, font=\scriptsize\bfseries, align=center] at (10.8,-1.02) {web aberta};
+  \fill[manualred!13, rounded corners] (12.6,-1.5) rectangle (15.0,-0.55);
+  \node[text=manualred, font=\scriptsize\bfseries, align=center] at (13.8,-1.02) {plataformas\\ e dados};
+
+  \draw[eixo] (0,0) -- (15.2,0);
+  \node[eixo, gray] at (15.2,-0.42) {tempo (fora de escala)};
+
+  \node[ponto] at (0.9,0) {};
+  \node[below, align=center] at (0.9,-0.18) {\textbf{1946--47}};
+  \node[above, align=center, text=manualgray!40!black] at (0.9,0.2) {\textbf{ENIAC}\\ \textbf{transistor}\\ (Bell Labs)};
+
+  \node[ponto] at (2.7,0) {};
+  \node[below, align=center] at (2.7,-0.18) {\textbf{1958}};
+  \node[above, align=center, text=manualgray!40!black] at (2.7,0.2) {\textbf{circuito}\\ \textbf{integrado}};
+
+  \node[ponto] at (4.2,0) {};
+  \node[below, align=center] at (4.2,-0.18) {\textbf{1969}};
+  \node[above, align=center, text=manualgray!40!black] at (4.2,0.2) {\textbf{ARPANET}\\ (4 universidades)\\ comutação de\\ pacotes};
+
+  \node[ponto] at (5.7,0) {};
+  \node[below, align=center] at (5.7,-0.18) {\textbf{1971}};
+  \node[above, align=center, text=manualblue] at (5.7,0.2) {\textbf{microprocessador}\\ (Intel)};
+
+  \node[ponto] at (7.3,0) {};
+  \node[below, align=center] at (7.3,-0.18) {\textbf{1976--81}};
+  \node[above, align=center, text=manualblue] at (7.3,0.2) {\textbf{computador}\\ \textbf{pessoal}\\ Apple $\cdot$ IBM PC};
+
+  \node[ponto] at (8.8,0) {};
+  \node[below, align=center] at (8.8,-0.18) {\textbf{1989}};
+  \node[above, align=center, text=manualgreen!45!black] at (8.8,0.2) {\textbf{World Wide Web}\\ (Berners-Lee,\\ CERN)};
+
+  \node[ponto] at (10.3,0) {};
+  \node[below, align=center] at (10.3,-0.18) {\textbf{1993--95}};
+  \node[above, align=center, text=manualgreen!45!black] at (10.3,0.2) {web em \textbf{domínio}\\ \textbf{público}\\ internet comercial\\ \textbf{no Brasil} (1995)};
+
+  \node[ponto] at (11.9,0) {};
+  \node[below, align=center] at (11.9,-0.18) {\textbf{2004--07}};
+  \node[above, align=center, text=manualred] at (11.9,0.2) {\textbf{redes sociais}\\ \textbf{smartphone}\\ (iPhone, 2007)};
+
+  \node[ponto] at (13.4,0) {};
+  \node[below, align=center] at (13.4,-0.18) {\textbf{2013}};
+  \node[above, align=center, text=manualred] at (13.4,0.2) {\textbf{Snowden}\\ vigilância em\\ massa revelada};
+
+  \node[ponto] at (14.8,0) {};
+  \node[below, align=center] at (14.8,-0.18) {\textbf{2018--22}};
+  \node[above, align=center, text=manualred] at (14.8,0.2) {\textbf{LGPD} $\cdot$ \textbf{Pix}\\ \textbf{IA generativa}};
+\end{tikzpicture}
+```
+
+Da computação militar às plataformas de dados: setenta anos de revolução digital.
+:::
+
+## A sociedade em rede {#sec-a-sociedade-em-rede}
+
+O sociólogo catalão **Manuel Castells** produziu, na trilogia *A era da informação* (1996–98), a análise mais influente do período [@castells1999]. Sua tese central: emergiu uma nova estrutura social, a **sociedade em rede**, cuja unidade organizacional básica não é mais a hierarquia piramidal — a fábrica fordista, o exército, a burocracia estatal —, mas a **rede**: um conjunto de nós interconectados, flexível, capaz de se expandir e reconfigurar sem centro fixo.
+
+::: {.callout-note title="Conceito: sociedade em rede"}
+Para **Castells**, a novidade histórica não é a informação em si — toda sociedade sempre dependeu de informação —, mas o fato de que as tecnologias de informação passaram a ser aplicadas à **geração de conhecimento e ao processamento de informação em ciclos de retroalimentação cumulativos**. Ou seja: a tecnologia é usada para produzir mais tecnologia, acelerando-se a si mesma.
+
+Suas consequências principais:
+
+- **O espaço de lugares cede terreno ao espaço de fluxos.** O que organiza a economia não é mais a proximidade física, e sim a posição nos fluxos de capital, informação e decisão. Uma cidade pode estar geograficamente próxima e funcionalmente distante — e vice-versa.
+- **O tempo se comprime.** Decisões financeiras em milissegundos, notícias instantâneas, prazos encurtados.
+- **A estrutura é simultaneamente inclusiva e excludente.** Redes incluem o que lhes é útil e simplesmente **ignoram** o resto. Regiões, setores e pessoas inteiras podem ser não exploradas, mas **irrelevantes** — o que Castells considera uma forma de exclusão mais dura do que a exploração clássica, porque não gera sequer conflito organizável.
+- **Surge o poder de programar a rede.** Quem define os protocolos, os algoritmos e as regras de conexão exerce um tipo de poder novo, que não se confunde com a propriedade dos meios de produção nem com o controle do Estado.
+:::
+
+Castells atualizou o argumento em *Redes de indignação e esperança* (2012), analisando a Primavera Árabe, o Occupy e os *indignados*: movimentos sem liderança formal, articulados em rede, capazes de mobilização rápida e massiva — e, exatamente por isso, com dificuldade de consolidar representação, negociar e produzir resultados institucionais duradouros [@castells2013]. É um diagnóstico que o Brasil de junho de **2013** ilustra bem (@sec-desafios-do-presente).
+
+## Plataformas, trabalho e desigualdade digital {#sec-plataformas-trabalho}
+
+**O que é uma plataforma.** Nos anos 2010, consolidou-se um modelo de negócio específico: a empresa não produz o bem nem emprega quem o entrega — ela opera a **infraestrutura de intermediação** entre as partes, capturando dados e uma fração de cada transação. As formulações que circularam na época captam o essencial: a maior empresa de transporte não possui veículos; a maior rede de hospedagem não possui imóveis; a maior empresa de mídia não produz conteúdo.
+
+Isso produz duas dinâmicas econômicas poderosas:
+
+- **Efeito de rede:** o valor do serviço cresce com o número de usuários. Uma rede social com dez usuários é inútil; com um bilhão, é quase impossível de abandonar, porque sair significa perder o acesso às pessoas, não ao *software*.
+- **Tendência ao monopólio:** somado a custos marginais próximos de zero, o efeito de rede faz o mercado convergir para um ou dois vencedores por setor — dinâmica conhecida como "o vencedor leva tudo". Daí a concentração de poder econômico em um punhado de empresas e as disputas regulatórias antitruste nos Estados Unidos, na União Europeia e no Brasil.
+
+::: {.callout-note title="Conceito: uberização"}
+**Uberização** designa a forma de organização do trabalho em que o trabalhador é juridicamente classificado como **autônomo** ou "parceiro", mas tem sua atividade **efetivamente dirigida por uma plataforma**: o algoritmo distribui as tarefas, define os preços, avalia o desempenho, aplica sanções e pode desligá-lo — funções que, num vínculo tradicional, caracterizariam subordinação e, portanto, emprego.
+
+**O que o trabalhador ganha:** flexibilidade real de horários, baixa barreira de entrada, possibilidade de complementar renda e, em contextos de desemprego alto, uma alternativa imediata.
+
+**O que perde:** salário mínimo, férias, 13º, FGTS, seguro-desemprego, aposentadoria, adicional de periculosidade, negociação coletiva — e transfere para si os custos do meio de produção (veículo, celular, combustível, manutenção) e todos os riscos (acidente, roubo, doença).
+
+**A pergunta jurídica em disputa no mundo inteiro:** trata-se de trabalho autônomo, de emprego disfarçado ou de uma categoria nova que exige legislação própria? Tribunais e legislaturas divergem entre países e, no Brasil, entre instâncias. Historicamente, o caso pertence a uma série longa: **toda** grande transformação tecnológica reabriu a questão de quem é responsável pelos riscos do trabalho — e a resposta nunca foi dada pela tecnologia, e sim por lei, greve e tribunal (@sec-segunda-revolucao-industrial-socialismo) [@antunes2018].
+:::
+
+::: {#fig-plataformas}
+
+```{.tikz}
+%%| filename: fig-plataformas
+%%| alt: Diagrama do funcionamento das plataformas digitais, com efeito de rede, tendência ao monopólio, extração de dados e uberização do trabalho.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \node[draw, very thick, rounded corners, fill=manualblue!16, align=center, text width=6.2cm] (p) at (0,2.3)
+    {\textbf{A PLATAFORMA}\\ não produz o bem, não emprega quem o entrega:\\ opera a \textbf{infraestrutura de intermediação} e captura\\ \textbf{dados} e uma fração de \textbf{cada transação}};
+
+  \node[draw, thick, rounded corners, fill=manualgreen!16, align=left, text width=4.3cm] (u) at (-5.3,0.1)
+    {\textbf{USUÁRIO}\\[2pt]
+     paga \textbf{pouco} ou nada\\ e entrega \textbf{dados de}\\ \textbf{comportamento}};
+  \node[draw, thick, rounded corners, fill=manualyellow!24, align=left, text width=4.3cm] (t) at (0,0.1)
+    {\textbf{TRABALHADOR}\\[2pt]
+     formalmente \textbf{autônomo},\\ efetivamente dirigido pelo\\ \textbf{algoritmo} (tarefa, preço,\\ avaliação, bloqueio)};
+  \node[draw, thick, rounded corners, fill=manualgray!16, align=left, text width=4.3cm] (a) at (5.3,0.1)
+    {\textbf{ANUNCIANTE / CLIENTE}\\[2pt]
+     compra \textbf{previsões} sobre\\ o comportamento futuro\\ do usuário};
+
+  \draw[vetor, thick, manualblue] (p) -- (u);
+  \draw[vetor, thick, manualblue] (p) -- (t);
+  \draw[vetor, thick, manualblue] (p) -- (a);
+
+  \node[draw, thick, rounded corners, fill=manualgreen!14, align=left, text width=6.4cm] (e) at (-3.6,-2.35)
+    {\textbf{EFEITO DE REDE}\\[2pt]
+     o valor cresce com o \textbf{número de usuários}.\\ Rede com 10 usuários é inútil; com 1 bilhão\\ é quase impossível abandonar --- sair significa\\ perder o acesso às \textbf{pessoas}, não ao software.};
+  \node[draw, thick, rounded corners, fill=manualred!13, align=left, text width=6.4cm] (mo) at (3.6,-2.35)
+    {\textbf{TENDÊNCIA AO MONOPÓLIO}\\[2pt]
+     efeito de rede + custo marginal $\approx$ zero\\ $\Rightarrow$ ``\textbf{o vencedor leva tudo}''.\\ Daí a concentração e as disputas \textbf{antitruste}\\ nos EUA, na União Europeia e no Brasil.};
+
+  \draw[vetor, thick, manualgray] (u) -- (e); \draw[vetor, thick, manualgray] (a) -- (mo);
+
+  \node[draw, dashed, rounded corners, fill=manualgray!14, align=center, text width=13.6cm] at (0,-4.15)
+    {\textbf{O ponto histórico:} nada no funcionamento de um aplicativo \textbf{exige} ausência de direitos. Algoritmo de distribuição\\ de tarefas e proteção social são perfeitamente compatíveis. A configuração atual é uma \textbf{escolha regulatória} ---\\ e escolhas podem ser revistas, como já ocorreu em toda revolução técnica anterior.};
+\end{tikzpicture}
+```
+
+A economia de plataformas: intermediação, efeito de rede e a questão do trabalho.
+:::
+
+**A exclusão digital.** O acesso é profundamente desigual — entre países, entre regiões e dentro das cidades. E a desigualdade não é apenas de acesso, mas de **qualidade** de acesso. No Brasil, a pandemia de covid-19 tornou isso visível de forma brutal: milhões de estudantes tinham "internet" apenas via dados móveis limitados, compartilhados em família, num único celular, sem computador e sem espaço de estudo — o que é uma condição incomparável à de quem tinha banda larga, equipamento próprio e quarto silencioso. As consequências educacionais dessa assimetria são objeto de pesquisa em curso e ainda serão sentidas por uma geração.
+
+## Desinformação, algoritmos e democracia {#sec-desinformacao-algoritmos}
+
+::: {.callout-important title="Três distinções que evitam confusão"}
+- **Desinformação** (*disinformation*): conteúdo falso criado e distribuído **deliberadamente** para enganar, com objetivo político ou econômico.
+- **Informação incorreta** (*misinformation*): conteúdo falso compartilhado **sem intenção** de enganar, por quem acredita nele.
+- **Notícia fraudulenta** ("*fake news*"): expressão popular e problemática. Ela se tornou, na prática, uma arma retórica: governantes de vários países passaram a usá-la para desqualificar jornalismo desfavorável. Pesquisadores e organismos internacionais preferem, por isso, os termos técnicos acima.
+
+A distinção importa porque as três exigem respostas diferentes: contra a desinformação organizada, investigação de origem e financiamento; contra a informação incorreta, checagem e educação midiática; contra o uso político do rótulo "fake news", defesa institucional da imprensa.
+:::
+
+**O que há de novo, e o que não há.** Boato, propaganda e falsificação são antiquíssimos — a Igreja da Contrarreforma, os panfletos da Revolução Francesa e a propaganda nazista (@sec-totalitarismos) são exemplos suficientes. Três coisas, porém, **mudaram** de escala:
+
+1. **A velocidade e o alcance.** Uma mensagem pode atingir milhões em minutos, sem intermediários editoriais.
+2. **A segmentação.** É possível dirigir mensagens diferentes a públicos distintos, com base em perfis comportamentais detalhados — o que dificulta a contestação pública, porque **ninguém mais vê a mesma propaganda**. O caso da **Cambridge Analytica** (2018), que usou dados de dezenas de milhões de usuários do Facebook para segmentação política, expôs o mecanismo.
+3. **A economia da atenção.** Plataformas remuneram-se por engajamento, e conteúdos que provocam **indignação, medo e escândalo** engajam mais. Não é preciso supor conspiração: basta um sistema otimizado para retenção, que aprende sozinho que a raiva funciona.
+
+**Bolhas e câmaras de eco.** A tese das "bolhas de filtro" — algoritmos que só mostram o que confirma a visão prévia do usuário — tornou-se senso comum, mas a pesquisa empírica a matiza: estudos indicam que muitos usuários são expostos a mais diversidade de opiniões online do que em seus círculos presenciais, e que a **autosseleção** (as pessoas escolhem seguir quem concorda com elas) pesa tanto quanto o algoritmo. Isso não absolve as plataformas; sugere que o problema é mais **social** do que puramente técnico, e que soluções apenas tecnológicas serão insuficientes.
+
+::: {.callout-note title="Conceito: capitalismo de vigilância"}
+Termo proposto por **Shoshana Zuboff** [@zuboff2021]. Sua tese: emergiu uma lógica econômica inédita, em que a matéria-prima é o **excedente comportamental** — os dados sobre o comportamento humano que ultrapassam o necessário para prestar o serviço. Esses dados alimentam modelos preditivos, e as previsões são vendidas em "mercados de futuros comportamentais". O produto final não é a informação, e sim a **previsão** — e, no limite, a **modificação** do comportamento previsto, por meio de estímulos, notificações e desenhos de interface.
+
+O argumento histórico de Zuboff é forte: assim como o capitalismo industrial reivindicou a natureza como matéria-prima gratuita, o capitalismo de vigilância reivindicou a **experiência humana privada** como matéria-prima gratuita — sem negociação, sem consentimento informado real, sem contrapartida.
+
+**As críticas.** Autores como **Evgeny Morozov** consideram o conceito **excessivamente novo**: para eles, trata-se de capitalismo comum, operando com meios novos, e nomear o fenômeno como um capitalismo diferente sugere, equivocadamente, que existiria um capitalismo "bom" sem vigilância a que se pudesse retornar [@morozov2018]. Outros apontam que Zuboff subestima o papel do **Estado** — as revelações de **Edward Snowden**, em 2013, mostraram programas de vigilância em massa conduzidos por agências governamentais, inclusive sobre autoridades brasileiras e sobre a Petrobras [@snowden2019].
+:::
+
+**Algoritmos não são neutros.** É um dos pontos mais importantes deste capítulo. Sistemas automatizados são treinados com **dados históricos**, e dados históricos carregam as desigualdades da história. Um algoritmo de seleção de currículos treinado com décadas de contratações de uma empresa que contratou majoritariamente homens aprende a preferir homens — não porque alguém o programou para discriminar, mas porque aprendeu o padrão existente. Sistemas de reconhecimento facial apresentam taxas de erro comprovadamente maiores para rostos negros e femininos, o que, aplicado ao policiamento, produz prisões equivocadas — problema já documentado no Brasil. **Cathy O'Neil** chama esses sistemas de "armas de destruição matemática": opacos, escaláveis e prejudiciais, com a agravante de que sua aparência de objetividade os torna mais difíceis de contestar do que uma decisão humana [@oneil2020; @noble2021]. Como escreveu a pesquisadora, o algoritmo é uma **opinião embutida em código** — e opiniões podem e devem ser auditadas.
+
+## O Brasil digital {#sec-brasil-digital}
+
+**A política de informática dos anos 1980.** Poucos capítulos da história econômica brasileira recente geram tanta divergência. Entre 1984 e 1992, a **Lei de Informática** instituiu a **reserva de mercado**: a importação de computadores de pequeno e médio porte foi restringida para permitir o desenvolvimento de uma indústria nacional. Os defensores argumentam que a política formou engenheiros, criou empresas e capacitação técnica que sobreviveram ao fim da reserva, e que **nenhum** país construiu indústria tecnológica sem proteção inicial (@sec-globalizacao-neoliberalismo). Os críticos apontam que os equipamentos nacionais custavam várias vezes o preço internacional e eram tecnologicamente defasados, atrasando a informatização de toda a economia brasileira justamente na década decisiva. A reserva foi extinta no início do governo Collor. Avaliar o saldo exige separar o que era falha de **desenho** da política — prazos indefinidos, ausência de metas de desempenho e de exigência de exportação — do que era falha do **princípio** de proteção industrial. É a mesma distinção que a comparação com Coreia do Sul e Taiwan sugere: esses países protegeram suas indústrias **com** metas de exportação e prazos duros, e o resultado foi outro.
+
+**A internet no Brasil.** Chegou pelo meio acadêmico no fim dos anos 1980 (RNP, 1989) e abriu-se ao uso comercial em **1995**. A gestão coube ao **Comitê Gestor da Internet no Brasil** (CGI.br), modelo multissetorial — governo, empresas, academia e sociedade civil — que se tornou referência internacional. Em **2014**, aprovou-se o **Marco Civil da Internet**, após anos de consulta pública aberta e acelerado pelas revelações de Snowden: a lei consagrou a **neutralidade da rede** (provedores não podem discriminar tráfego por origem, conteúdo ou aplicação), a privacidade, a liberdade de expressão e um regime de responsabilidade dos provedores por conteúdo de terceiros [@marcoCivil2014]. Em **2018**, a **LGPD** (Lei Geral de Proteção de Dados), inspirada no regulamento europeu, estabeleceu direitos sobre dados pessoais e criou a autoridade nacional de proteção de dados [@lgpd2018].
+
+**Pontos brasileiros de destaque.** A **urna eletrônica**, adotada progressivamente desde 1996, deu ao país apuração rápida em escala continental — e tornou-se, ironicamente, alvo central de campanhas de desinformação sem base factual, tema do @sec-desafios-do-presente. O **Pix**, lançado pelo Banco Central em **2020**, é um sistema de pagamentos instantâneos, gratuito para pessoas físicas e operado por uma instituição pública, que em poucos anos superou em número de transações todos os demais meios de pagamento do país e é hoje estudado internacionalmente como caso de infraestrutura pública digital bem-sucedida. Os dois exemplos contrariam a expectativa de que a inovação digital seja necessariamente privada e importada.
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+**1. Determinismo tecnológico e seus críticos.** O **determinismo tecnológico** é a tese — em geral implícita — de que a tecnologia é uma força autônoma que determina a organização social: a máquina a vapor "produziu" o capitalismo industrial, a internet "produziu" a globalização, o algoritmo "produziu" a polarização. **Marshall McLuhan** ofereceu a versão mais célebre e elegante do argumento com a fórmula "**o meio é a mensagem**": o conteúdo transmitido importa menos do que a alteração que o próprio meio impõe às formas de percepção e organização social [@mcluhan1969].
+
+A crítica historiográfica é bem estabelecida e apoia-se em evidência. Primeiro: as **mesmas** tecnologias produziram resultados **opostos** em contextos distintos. A internet serviu à mobilização democrática na Primavera Árabe e à vigilância estatal na China; as redes sociais organizaram protestos por direitos e campanhas de ódio. Se a técnica determinasse, os efeitos seriam uniformes. Segundo: a adoção de tecnologias é **socialmente seletiva** — sociedades escolhem o que desenvolver e o que financiar, e essas escolhas dependem de poder, dinheiro e política. Terceiro: muitas tecnologias existem por décadas antes de serem aplicadas em escala, esperando que condições sociais e econômicas as tornem viáveis. Daí a proposta da **construção social da tecnologia**: máquinas são produtos de decisões humanas — de engenheiros, financiadores, governos, usuários — e carregam, embutidas em seu desenho, as prioridades de quem as fez.
+
+**Milton Santos** havia formulado a mesma distinção com precisão notável, e vale recuperá-la aqui (@sec-globalizacao-neoliberalismo): as **bases técnicas** existentes poderiam sustentar um mundo diferente daquele que sustentam, e confundir a técnica com o uso político da técnica é dispensar-se de examinar quem decide [@santosMilton2001]. O contraponto justo é que o determinismo tecnológico, embora falso como teoria geral, aponta para algo real: tecnologias não são instrumentos completamente neutros. Uma arma nuclear e um moinho de vento **restringem** de maneiras diferentes os usos possíveis. A formulação mais defensável é a de que a tecnologia **condiciona sem determinar** — abre e fecha possibilidades, dentro das quais as escolhas continuam sendo humanas e políticas.
+
+**2. É mesmo uma revolução?** Nem todos aceitam a tese de ruptura. O economista **Robert Gordon** argumenta que as inovações da segunda metade do século XX, incluindo a digital, tiveram impacto **menor** sobre a produtividade e sobre a vida cotidiana do que as da Segunda Revolução Industrial: eletricidade, saneamento, água encanada, motor a combustão, antibióticos e refrigeração transformaram a expectativa de vida, a mortalidade infantil e o trabalho doméstico de modo mais profundo do que o smartphone. Robert Solow resumiu o paradoxo em 1987: "vemos computadores por toda parte, exceto nas estatísticas de produtividade".
+
+Os defensores da tese da revolução respondem que as estatísticas de produtividade medem mal bens digitais — como se contabiliza o valor de um serviço gratuito? — e que os efeitos de tecnologias de propósito geral demoram décadas a aparecer, como ocorreu com a eletricidade, que levou cerca de quarenta anos para transformar a produtividade fabril, porque exigia reorganizar completamente as fábricas, e não apenas trocar a fonte de energia. O debate segue aberto, e a lição de método é a de sempre: **é muito difícil medir a importância de um processo em curso**.
+
+**3. O arquivo digital: o paradoxo da abundância frágil.** Aqui está um problema que afetará diretamente os historiadores das próximas gerações. Produzimos mais registro do que qualquer sociedade anterior — e ele é **muito menos durável**. Um papiro egípcio atravessou três mil anos; um pergaminho medieval, mil; um disquete dos anos 1990 é hoje ilegível para quase todos. Sites saem do ar, plataformas fecham levando consigo o conteúdo de milhões de usuários, formatos tornam-se obsoletos, links quebram — estudos sobre "*link rot*" mostram que uma proporção enorme das referências digitais citadas em artigos e decisões judiciais desaparece em poucos anos.
+
+Some-se a isso um problema de **propriedade**: boa parte da produção cultural e da comunicação cotidiana contemporânea está hospedada em servidores **privados**, sujeita a termos de uso que a empresa altera unilateralmente e pode encerrar. O historiador do século XXI dependerá do que empresas decidirem preservar — situação sem paralelo, em que arquivos nacionais e bibliotecas públicas não controlam o registro de sua própria época. Iniciativas como o Internet Archive mitigam, mas não resolvem, e são elas próprias frágeis. A conclusão prática, que este manual repete: **o que se preserva não é neutro** (@sec-fontes-historicas). E, pela primeira vez na história, quem decide o que se preserva é, em grande medida, um conjunto de empresas.
+
+**4. A História e a inteligência artificial.** Os sistemas de IA generativa difundidos a partir de 2022 colocam questões novas ao ofício. Do lado das ferramentas, ampliam a capacidade de transcrever manuscritos, traduzir línguas mortas, reconhecer padrões em séries documentais imensas e cruzar bases — trabalhos que consumiriam vidas inteiras. Do lado dos problemas, três merecem registro: esses sistemas **fabricam** informações plausíveis, inclusive citações e fontes inexistentes, o que é particularmente perigoso numa disciplina cuja regra fundamental é a verificação; são treinados em corpora que refletem as **assimetrias** do que foi digitalizado — sobretudo em inglês, sobretudo do Norte global, sobretudo recente —, e tendem a reproduzir essas assimetrias como se fossem o mundo; e tornam trivial a produção de **falsificações** convincentes de imagem, áudio e vídeo, o que reabre em escala industrial o problema mais antigo da crítica documental: a autenticidade da fonte. Não é uma novidade absoluta — a crítica diplomática nasceu no século XVII justamente para desmascarar documentos falsos —, mas é uma mudança de escala que exigirá métodos novos. É um bom lembrete para encerrar a seção: **cada tecnologia nova reabre as questões mais antigas do método histórico**.
+
+## Resumo do capítulo {#sec-resumo}
+
+- **Terceira Revolução Industrial** (revolução **técnico-científica**, meados do séc. XX): eletrônica, computação, telecomunicações, biotecnologia, robótica. Distingue-se por três traços: a **ciência precede a técnica** (universidade e Estado como atores econômicos), a **informação** como matéria-prima (custo marginal próximo de zero) e o ritmo **exponencial** (**Lei de Moore**, 1965).
+- **"Quarta Revolução Industrial"** (**Schwab**, 2016) deve ser usada com cautela: pode ser aprofundamento da terceira, e a expressão nasceu com finalidade também promocional. Desconfie de quem batiza a própria época.
+- **História da computação:** origem **militar** (Turing e o Enigma; **ENIAC**, 1946, programado por seis mulheres matemáticas). Miniaturizações: **transistor** (1947), **circuito integrado** (1958), **microprocessador** (1971). **ARPANET** (1969, comutação de pacotes), **TCP/IP**, **World Wide Web** (**Berners-Lee**, CERN, **1989**), liberada em **domínio público** em 1993.
+- **Duas lendas a desmontar:** a internet **não** foi criada pelo mercado (décadas de financiamento público militar e universitário — o mesmo vale para GPS, touchscreen e reconhecimento de voz); e não foi obra de gênios solitários, e sim de equipes, com influência da **contracultura** californiana.
+- **Sociedade em rede** (**Castells**): a rede substitui a pirâmide como forma organizacional; **espaço de fluxos** sobrepõe-se ao espaço de lugares; a exclusão passa a ser por **irrelevância**, não só por exploração; e surge o poder de **programar a rede**.
+- **Plataformas:** intermediação sem propriedade dos ativos, **efeito de rede** e tendência ao **monopólio** ("o vencedor leva tudo"). **Uberização**: trabalhador formalmente autônomo, efetivamente dirigido por algoritmo; ganha flexibilidade, perde direitos e assume custos e riscos.
+- **Desinformação** (deliberada) ≠ **informação incorreta** (sem intenção) ≠ "**fake news**" (rótulo político problemático). Novidades de escala: **velocidade**, **segmentação** (Cambridge Analytica, 2018) e **economia da atenção** (indignação engaja). A tese das **bolhas** é matizada pela pesquisa: a autosseleção pesa tanto quanto o algoritmo.
+- **Capitalismo de vigilância** (**Zuboff**): o **excedente comportamental** como matéria-prima; o produto é a **previsão** e, no limite, a modificação do comportamento. Críticas: **Morozov** (é capitalismo comum com meios novos) e a subestimação do **Estado** (**Snowden**, 2013).
+- **Algoritmos não são neutros:** treinados em dados históricos, reproduzem desigualdades históricas; a aparência de objetividade dificulta a contestação (**O'Neil**, **Noble**).
+- **Brasil:** **reserva de mercado** de informática (1984–92) e seu balanço disputado; internet comercial em **1995** e o modelo multissetorial do **CGI.br**; **Marco Civil** (2014, **neutralidade da rede**); **LGPD** (2018); **urna eletrônica** (1996) e **Pix** (2020) como infraestruturas públicas digitais bem-sucedidas.
+- **Historiografia:** **determinismo tecnológico** (**McLuhan**, "o meio é a mensagem") × **construção social da tecnologia** — as mesmas técnicas produziram efeitos opostos em contextos diferentes; a fórmula defensável é que a tecnologia **condiciona sem determinar**. O debate sobre se é mesmo uma revolução (**Gordon** e o paradoxo de **Solow**). O **arquivo digital**: abundante e frágil, e majoritariamente sob custódia **privada**. E os desafios que a **IA** traz ao método: fabricação de fontes, vieses de corpus e falsificação em escala.
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Domine: (1) o que distingue a Terceira Revolução Industrial das anteriores; (2) o papel do Estado na criação da internet; (3) os conceitos de Castells; (4) efeito de rede e tendência ao monopólio; (5) a definição precisa de uberização e o dilema jurídico; (6) as três distinções sobre desinformação; (7) capitalismo de vigilância e suas críticas; (8) o argumento contra o determinismo tecnológico.
+:::
+
+**1.** Caracterize a **Terceira Revolução Industrial**, comparando-a com as duas anteriores.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**As três ondas.**
+
+| | **Primeira** (c. 1760) | **Segunda** (c. 1870) | **Terceira** (meados do séc. XX) |
+|---|---|---|---|
+| **Energia** | Carvão, vapor | Eletricidade, petróleo | Nuclear, renováveis, eficiência |
+| **Materiais** | Ferro, algodão | Aço, alumínio, química | Silício, polímeros, novos materiais |
+| **Setores** | Têxtil, ferrovia | Automóvel, química, elétrica | Eletrônica, informática, biotecnologia |
+| **Organização** | Fábrica, divisão do trabalho | Linha de montagem, fordismo, taylorismo | Rede, produção flexível, terceirização |
+| **Liderança** | Inglaterra | Alemanha e EUA | EUA, Japão e, depois, Ásia oriental |
+
+**Os três traços distintivos da Terceira — e é isso que a questão pede.**
+
+**1. A ciência antecede a técnica.** Nas revoluções anteriores, a prática frequentemente vinha antes da teoria: a máquina a vapor funcionava décadas antes de a termodinâmica explicar por quê, e muitos inventores eram artesãos habilidosos sem formação científica. Na Terceira, a sequência se inverte: pesquisa básica em universidades e centros de P&D antecede a aplicação industrial. A consequência institucional é enorme — **universidade** e **Estado financiador** tornam-se atores econômicos de primeira linha, e o investimento em pesquisa sem retorno imediato passa a ser condição de competitividade.
+
+**2. A matéria-prima central passa a ser a informação.** Isso altera a própria lógica econômica. Bens materiais são **rivais** — o aço que eu uso você não usa. A informação é **não rival**: copiá-la não a retira de quem a possuía, e o custo de reprodução tende a zero. Isso desorganiza noções construídas sobre escassez e explica fenômenos como o *software* livre, a pirataria, as disputas sobre propriedade intelectual e a economia de plataformas.
+
+**3. O ritmo é exponencial.** A **Lei de Moore** (1965) constatou a duplicação aproximadamente bienal do número de transistores em um circuito integrado. Não é lei natural — é uma regularidade histórica que se sustentou por décadas e que passou a **organizar o planejamento** de uma indústria inteira, tornando-se em parte uma profecia autorrealizável.
+
+**Uma continuidade que a resposta madura registra.** As três revoluções compartilham um traço: nenhuma foi apenas técnica. Cada uma reorganizou o **trabalho**, a **cidade**, a **família** e a **política**, e cada uma produziu uma disputa sobre quem arcaria com os custos da transição. Os luditas quebrando teares, o movimento operário do século XIX e os debates atuais sobre regulação de plataformas e automação são momentos de uma **mesma** questão histórica: quem paga a conta do progresso técnico e quem colhe seus frutos.
+
+**A ressalva sobre a "Quarta".** A expressão foi popularizada por **Klaus Schwab** em 2016 [@schwab2016]. Historiadores tendem à cautela: pode tratar-se do aprofundamento da terceira onda, e o rótulo nasceu num fórum empresarial, com finalidade tanto analítica quanto promocional. Periodizar é tarefa que exige distância (@sec-periodizacao).
+:::
+
+**2.** Explique o papel do **Estado** na criação da internet e por que desmontar o mito da origem exclusivamente privada é relevante.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**A cronologia do financiamento público.**
+
+- A computação eletrônica nasceu de esforços de **guerra**: **Turing** e a decifração do **Enigma** em Bletchley Park; o **ENIAC** (1946), financiado pelo Exército americano para calcular tabelas de tiro de artilharia.
+- A **ARPANET** (1969) foi projeto da agência de pesquisa avançada do **Departamento de Defesa** dos Estados Unidos, conectando universidades. Sua arquitetura — a **comutação de pacotes** — buscava robustez numa rede sem centro.
+- O **TCP/IP**, protocolo que permitiu interligar redes distintas, foi desenvolvido com financiamento público e adotado como padrão aberto, sem cobrança de licença.
+- A **World Wide Web** foi criada em **1989** por **Tim Berners-Lee** no **CERN**, laboratório europeu **público** de física de partículas [@bernersLee1989]. Em 1993, o CERN colocou a tecnologia em **domínio público**, renunciando a qualquer cobrança — decisão que impediu que a web nascesse proprietária e fragmentada.
+- O mesmo padrão vale para componentes centrais do smartphone: **GPS** (militar americano), **touchscreen** capacitivo, **reconhecimento de voz**, **internet** e boa parte da pesquisa em baterias e materiais nasceram de programas públicos de pesquisa.
+
+**O papel — real e decisivo — das empresas.** Não se trata de negá-lo. A iniciativa privada fez a **integração** dos componentes em produtos utilizáveis, o **design**, a redução de custos, a produção em escala, a distribuição global e a criação de modelos de negócio. Transformar tecnologia existente em produto que bilhões de pessoas usam não é tarefa menor.
+
+**Por que desmontar o mito importa — quatro razões.**
+
+1. **Corrige a compreensão de como a inovação funciona.** Pesquisa de base é **cara**, **demorada** e **incerta**: a maioria dos projetos não dá em nada, e o retorno, quando vem, leva décadas e é apropriado por quem não pagou a conta. Esse perfil de risco é praticamente incompatível com o horizonte de investidores privados, o que explica por que o Estado é historicamente o financiador dessa etapa.
+2. **Tem consequência direta sobre política pública.** Se a inovação depende de pesquisa básica financiada publicamente, cortes em universidades e agências de fomento não são economia — são desinvestimento em capacidade futura. É um argumento de história econômica com aplicação imediata ao debate brasileiro sobre CNPq, Capes, Fapesps e Embrapa.
+3. **Recoloca a questão da apropriação dos resultados.** Se o público pagou o desenvolvimento e o privado colheu os lucros, é legítimo discutir tributação, regulação e contrapartidas — e essa discussão fica bloqueada enquanto se acredita que as empresas criaram tudo sozinhas.
+4. **Conecta-se ao argumento de Chang.** Como este manual mostrou no @sec-globalizacao-neoliberalismo, os países hoje ricos se desenvolveram com forte ação estatal e depois recomendaram o oposto aos demais [@chang2004]. O caso da internet é a versão tecnológica do mesmo fenômeno.
+
+**A segunda lenda, que também merece correção.** A narrativa do gênio solitário na garagem apaga o trabalho de **equipes**, laboratórios e gerações sucessivas — e apaga também a influência da **contracultura** californiana dos anos 1960–70, cujos ideais de descentralização, acesso livre à informação e desconfiança das hierarquias moldaram tanto o computador pessoal quanto o movimento do *software* livre [@isaacson2014].
+:::
+
+**3.** Explique o conceito de **sociedade em rede**, de Manuel Castells.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**A tese central.** Para **Castells**, a difusão das tecnologias de informação a partir dos anos 1970 produziu uma nova **estrutura social**, e não apenas um novo conjunto de ferramentas. A unidade organizacional dominante deixa de ser a **hierarquia piramidal** — fábrica fordista, exército, burocracia estatal, partido de massas — e passa a ser a **rede**: conjunto de nós interconectados, sem centro fixo, flexível, capaz de se expandir e reconfigurar continuamente [@castells1999].
+
+**A precisão que separa a boa resposta.** A novidade **não** é a importância da informação — toda sociedade humana sempre dependeu dela. A novidade é que as tecnologias de informação passaram a ser aplicadas à **produção de conhecimento e ao processamento de informação em ciclos cumulativos de retroalimentação**: a tecnologia é usada para produzir mais tecnologia, o que gera aceleração autossustentada.
+
+**As consequências principais.**
+
+1. **Do espaço de lugares ao espaço de fluxos.** O que organiza a economia deixa de ser a proximidade física e passa a ser a posição nos fluxos de capital, informação e decisão. Bairros de uma mesma cidade podem estar conectados a redes globais ou inteiramente fora delas.
+2. **Tempo comprimido.** Operações financeiras em milissegundos, notícias instantâneas, ciclos de produto encurtados, prazos que desconsideram fusos.
+3. **Inclusão e exclusão por conexão.** Redes incorporam o que lhes é útil e **ignoram** o resto. Castells sublinha que essa é uma forma de exclusão distinta da exploração clássica: o excluído não é explorado, é **irrelevante** — e, por não ser necessário a ninguém, tem menos poder de barganha do que teria se fosse explorado. Regiões inteiras, e países inteiros, encontram-se nessa posição.
+4. **O poder de programar a rede.** Emerge um tipo de poder que não se confunde nem com a propriedade dos meios de produção nem com o controle do Estado: o de **definir os protocolos, os padrões e os algoritmos** segundo os quais a rede opera, e de conectar redes distintas entre si.
+
+**A aplicação aos movimentos sociais.** Em *Redes de indignação e esperança* (2012), Castells analisou a **Primavera Árabe**, o **Occupy** e os *indignados* espanhóis como movimentos em rede: horizontais, sem liderança formal, capazes de mobilização enorme e velocíssima [@castells2013]. E identificou sua fragilidade correspondente: sem representação nem estrutura permanente, têm dificuldade de negociar, de sustentar-se ao longo do tempo e de converter mobilização em resultado institucional. As **jornadas de junho de 2013** no Brasil ilustram exemplarmente as duas faces (@sec-desafios-do-presente).
+
+**As críticas ao conceito.**
+
+- **Risco de determinismo tecnológico.** Ao fazer da tecnologia o motor da mudança estrutural, corre-se o risco de subestimar as decisões políticas e econômicas que a orientaram — objeção que Castells rebate, mas que continua a ser dirigida a ele.
+- **Continuidades subestimadas.** Estados, fronteiras, exércitos e classes sociais não desapareceram; a pandemia e a guerra na Ucrânia mostraram que geografia e território continuam decisivos.
+- **Excesso de generalidade.** "Rede" descreve tanto uma organização criminosa quanto uma comunidade científica; um conceito que abrange tudo corre o risco de discriminar pouco.
+:::
+
+**4.** (Estilo ENEM) Leia o texto:
+
+> "A civilização do capitalismo industrial reivindicou a natureza como matéria-prima gratuita, disponível para ser transformada em mercadoria. O capitalismo de vigilância reivindica de modo semelhante a experiência humana privada como matéria-prima gratuita, disponível para ser traduzida em dados comportamentais. Parte desses dados é utilizada para melhorar produtos e serviços; o restante constitui um excedente comportamental proprietário, aplicado a processos avançados de fabricação de previsões sobre o que você fará agora, em breve e mais tarde."
+>
+> — Shoshana Zuboff, *A era do capitalismo de vigilância* [@zuboff2021]
+
+Segundo a autora, a especificidade desse modelo econômico consiste em
+
+**(a)** vender aos consumidores produtos digitais a preços progressivamente mais elevados.
+**(b)** transformar dados sobre o comportamento humano em previsões comercializáveis, tratando a experiência privada como matéria-prima gratuita.
+**(c)** eliminar a necessidade de trabalho humano por meio da automação integral dos processos produtivos.
+**(d)** restringir o acesso à internet a consumidores capazes de pagar por serviços premium.
+**(e)** substituir a propriedade privada dos meios de produção pela propriedade coletiva das redes digitais.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Resposta: (b).**
+
+**Por quê.** O texto apresenta explicitamente os dois elementos da alternativa:
+
+1. **A experiência humana privada como matéria-prima gratuita** — e a autora constrói uma analogia histórica deliberada com a apropriação da **natureza** pelo capitalismo industrial. A palavra decisiva é **gratuita**: não houve negociação, preço nem consentimento informado real.
+2. **A conversão em previsões comercializáveis** — o "excedente comportamental" é o que sobra depois de melhorar o serviço, e é aplicado à "fabricação de previsões sobre o que você fará agora, em breve e mais tarde".
+
+O produto vendido, portanto, **não é você** nem exatamente a informação sobre você: é a **previsão** do seu comportamento futuro, vendida a terceiros interessados em antecipá-lo ou influenciá-lo.
+
+**Por que as demais estão erradas.**
+
+- **(a)** O modelo caracteriza-se justamente pelo oposto: serviços oferecidos **gratuitamente** ao usuário, cuja receita vem de outro mercado.
+- **(c)** Automação é outro tema; o texto não trata de substituição de trabalho.
+- **(d)** Restrição de acesso por pagamento é um modelo diferente (assinatura), e o texto não o menciona.
+- **(e)** O texto descreve uma forma de **capitalismo**, não sua superação por propriedade coletiva.
+
+**O que uma resposta discursiva acrescentaria — as críticas.**
+
+- **Evgeny Morozov** argumenta que o conceito é **excessivamente novo**: trata-se de capitalismo comum operando com meios novos, e nomeá-lo como um capitalismo diferente sugere, erradamente, que existiria um capitalismo "bom" sem vigilância a que se pudesse voltar [@morozov2018].
+- Zuboff **subestima o Estado**: as revelações de **Edward Snowden** em 2013 documentaram programas de vigilância em massa conduzidos por agências governamentais — inclusive contra autoridades brasileiras e a Petrobras, episódio que acelerou a aprovação do **Marco Civil da Internet** em 2014 [@snowden2019; @marcoCivil2014].
+- Há ainda a objeção de que o argumento atribui **poder excessivo** à previsão comportamental: a eficácia real da microssegmentação em mudar comportamento é objeto de disputa empírica, e é possível que empresas de publicidade vendam mais capacidade preditiva do que efetivamente possuem.
+
+**A conexão com o Brasil.** A **LGPD** (2018) [@lgpd2018] é a resposta legislativa brasileira a esse conjunto de problemas: estabelece que dados pessoais têm titular, que seu tratamento exige base legal, e que o titular tem direitos de acesso, correção e exclusão. Como toda lei, vale o que valer sua fiscalização — e a avaliação de sua eficácia é matéria em aberto.
+:::
+
+**5.** Explique o que é a **uberização** do trabalho e apresente os argumentos em disputa.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**A definição.** **Uberização** é a forma de organização do trabalho em que o trabalhador é juridicamente classificado como **autônomo** ou "parceiro", mas tem sua atividade **efetivamente dirigida por uma plataforma digital**: o algoritmo distribui as tarefas, estabelece os preços, avalia o desempenho por notas de clientes, aplica sanções (bloqueios temporários) e pode desligá-lo definitivamente.
+
+**O ponto jurídico central.** No direito do trabalho brasileiro, o vínculo empregatício caracteriza-se por pessoalidade, não eventualidade, onerosidade e, sobretudo, **subordinação**. O debate está em saber se o controle exercido por um algoritmo — que determina o que fazer, quando, por quanto e sob pena de desligamento — constitui subordinação. Quem afirma que sim fala em **subordinação algorítmica**: mudou o meio de comando, não a natureza do comando.
+
+**Os argumentos favoráveis ao modelo.**
+
+- **Flexibilidade real:** o trabalhador escolhe horários e pode combinar plataformas.
+- **Baixíssima barreira de entrada:** basta um veículo (ou nem isso) e um celular; não há entrevista, exigência de experiência ou de escolaridade.
+- **Complemento de renda** e, em contextos de desemprego elevado, uma alternativa imediata — no Brasil, milhões de pessoas recorreram a esse trabalho após a recessão iniciada em 2014 e durante a pandemia.
+- **Eficiência para o consumidor:** preços menores, serviço mais rápido, ampliação da oferta em áreas mal atendidas.
+
+**Os argumentos críticos.**
+
+- **Ausência de direitos:** sem salário mínimo, férias, 13º, FGTS, seguro-desemprego, licença médica, adicional de periculosidade ou contribuição previdenciária patronal.
+- **Transferência de custos e riscos:** veículo, combustível, manutenção, seguro, celular e plano de dados são do trabalhador; acidente, roubo, doença e ociosidade também.
+- **Flexibilidade assimétrica:** na prática, quem depende dessa renda trabalha jornadas muito longas — pesquisas brasileiras indicam médias bem acima de dez horas diárias — porque o rendimento por corrida ou entrega é baixo. A liberdade de escolher horários coexiste com a necessidade de trabalhar quase todos eles.
+- **Opacidade algorítmica:** o trabalhador não sabe por que recebeu menos corridas nem por que foi bloqueado, e não há instância de recurso comparável a um processo disciplinar.
+- **Assimetria de poder:** não há negociação coletiva, e a empresa altera unilateralmente as regras de remuneração.
+
+**A perspectiva histórica, que é o que distingue uma resposta de História de uma resposta de Direito.** Este não é um problema inédito. **Toda** grande transformação técnica reabriu a questão de **quem arca com os riscos do trabalho**. Na Primeira Revolução Industrial, não havia limite de jornada, idade mínima nem responsabilidade por acidentes; tudo isso foi conquistado ao longo de mais de um século, por greves, leis e decisões judiciais (@sec-segunda-revolucao-industrial-socialismo; @sec-movimentos-por-direitos). A CLT brasileira (1943) foi produto desse processo (@sec-era-vargas).
+
+A conclusão que se extrai daí é a mais importante: **a tecnologia não determina o resultado**. Não há nada no funcionamento de um aplicativo que exija ausência de direitos — é perfeitamente possível ter algoritmo de distribuição de tarefas **e** proteção social, como demonstram legislações adotadas em vários países e propostas em discussão no Brasil. A configuração atual é resultado de uma **escolha regulatória**, e escolhas podem ser revistas. Quem afirma que "a tecnologia mudou o trabalho" está descrevendo o efeito e ocultando a decisão [@antunes2018].
+:::
+
+**6.** Distinga **desinformação**, **informação incorreta** e "**fake news**", e explique o que há de historicamente novo no fenômeno.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**As três distinções.**
+
+- **Desinformação** (*disinformation*): conteúdo falso ou enganoso produzido e distribuído **deliberadamente**, com objetivo político, econômico ou ideológico. Há intenção e, em geral, financiamento e organização.
+- **Informação incorreta** (*misinformation*): conteúdo falso compartilhado **sem intenção de enganar**, por quem acredita nele. É o caso da maioria dos compartilhamentos em grupos familiares.
+- "**Fake news**": expressão popular que pesquisadores e organismos internacionais evitam, por duas razões. Primeiro, porque não distingue os dois casos acima, que exigem respostas diferentes. Segundo, e mais grave: ela foi **capturada politicamente** — governantes de vários países passaram a usá-la para desqualificar jornalismo desfavorável, invertendo seu sentido original.
+
+**O que **não** é novo.** Boato, propaganda e falsificação documental são tão antigos quanto a escrita. A "Doação de Constantino" foi um documento falso que sustentou reivindicações papais por séculos até ser desmascarado por Lorenzo Valla no século XV — e a crítica documental nasceu, em boa medida, dessas disputas (@sec-fontes-historicas). Panfletos difamatórios circularam na Revolução Francesa; a propaganda nazista industrializou a mentira de Estado (@sec-totalitarismos); e a imprensa sensacionalista do século XIX prosperou com invenções.
+
+**O que é novo — três mudanças de escala.**
+
+1. **Velocidade e alcance sem intermediários.** Uma mensagem atinge milhões em minutos, sem editor, sem redação, sem custo de impressão ou distribuição. Desapareceu a etapa em que alguém, profissionalmente responsável, decidia o que publicar — com todos os problemas que essa filtragem também tinha.
+2. **Segmentação.** É possível dirigir mensagens **diferentes** a públicos diferentes, com base em perfis comportamentais detalhados. Isso tem uma consequência democrática grave e pouco percebida: **a propaganda deixa de ser pública**. Não se pode contestar coletivamente um discurso que ninguém mais viu, nem responsabilizar quem o fez. O caso da **Cambridge Analytica** (2018), que usou dados de dezenas de milhões de perfis do Facebook para segmentação política, expôs o mecanismo.
+3. **Economia da atenção.** Plataformas obtêm receita por engajamento, e o engajamento é maior em conteúdos que provocam **indignação, medo e escândalo**. Não é necessário supor intenção maligna: um sistema otimizado para retenção **aprende sozinho** que a raiva funciona. O incentivo econômico está desalinhado do interesse informacional, e essa é a raiz estrutural do problema.
+
+**Sobre as bolhas, com a devida cautela.** A tese das "bolhas de filtro" — algoritmos que só exibem o que confirma a visão prévia — tornou-se senso comum, mas a pesquisa empírica a matiza: vários estudos indicam que usuários encontram online **mais** diversidade de opinião do que em seus círculos presenciais, e que a **autosseleção** (escolher seguir quem concorda) pesa tanto quanto a curadoria algorítmica. Isso não absolve as plataformas — sugere que o problema é também **social**, e que soluções puramente técnicas serão insuficientes.
+
+**As respostas em disputa.** Checagem de fatos (eficaz, mas de alcance limitado e frequentemente tardia); educação midiática (lenta, e a mais consensual); regulação de plataformas (eficaz e arriscada, porque abre a porta à censura estatal — o problema central do debate brasileiro sobre o tema); e responsabilização por conteúdo, hoje regida pelo **Marco Civil** [@marcoCivil2014]. Nenhuma é suficiente isoladamente, e todas envolvem custos que precisam ser explicitados. Numa prova, reconhecer os **dilemas** de cada solução vale mais do que defender uma delas.
+:::
+
+**7.** (Estilo vestibular) Analise a **política brasileira de informática** dos anos 1980, apresentando os argumentos favoráveis e contrários.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**O que foi.** Entre o fim dos anos 1970 e 1992, o Brasil adotou a **reserva de mercado** para informática, consolidada na **Lei de Informática de 1984**: a importação e a fabricação por empresas estrangeiras de computadores de pequeno e médio porte foram restringidas, reservando o mercado a empresas de capital nacional. O objetivo declarado era construir capacidade tecnológica própria num setor tido como estratégico — argumento típico do pensamento desenvolvimentista e da doutrina de segurança nacional então vigentes (@sec-ditadura-militar).
+
+**Os argumentos favoráveis.**
+
+- **Nenhum país construiu indústria tecnológica sem proteção inicial.** Estados Unidos, Japão, Coreia do Sul e Taiwan protegeram seus setores estratégicos em fases decisivas — argumento documentado por **Ha-Joon Chang** [@chang2004].
+- **Formação de capacidade humana.** A política formou uma geração de engenheiros, programadores e técnicos, criou cursos e laboratórios e gerou empresas que, mesmo após o fim da reserva, permaneceram atuando em software, automação bancária e serviços. A **automação bancária brasileira**, referência internacional, é frequentemente citada como legado desse período.
+- **Autonomia estratégica.** Depender integralmente de fornecedores estrangeiros em tecnologia crítica tem custos de soberania — argumento que as revelações de **Snowden** em 2013 tornaram menos abstrato [@snowden2019].
+
+**Os argumentos contrários.**
+
+- **Preço e defasagem.** Equipamentos nacionais custavam várias vezes o preço internacional e eram tecnologicamente ultrapassados, quando não cópias não licenciadas de modelos estrangeiros.
+- **Custo para o resto da economia.** O usuário da política não era apenas o consumidor final: eram bancos, indústrias, universidades, hospitais e o próprio Estado, que se informatizaram mais tarde e mais caro. O prejuízo difuso para a produtividade de toda a economia pode ter superado o benefício concentrado no setor protegido — precisamente na década em que a informatização se tornava decisiva.
+- **Ausência de contrapartidas.** A proteção não veio acompanhada de **metas de desempenho**, exigências de exportação, prazos de encerramento ou penalidades por não atingimento — diferentemente do modelo sul-coreano, em que a proteção era condicionada a resultados verificáveis e retirada quando não vinham.
+- **Contrabando e mercado paralelo.** Grande parte dos equipamentos efetivamente usados no país entrou de forma irregular, o que reduziu a eficácia da política e a desmoralizou.
+
+**A distinção que caracteriza a resposta madura.** É preciso separar a falha de **princípio** da falha de **desenho**. A ideia de proteger temporariamente uma indústria nascente é economicamente defensável e historicamente comprovada; o que o caso brasileiro sugere é que a política foi mal desenhada — proteção **sem prazo**, **sem metas** e **sem exigência de competitividade** produz acomodação em vez de aprendizado. A comparação com Coreia do Sul e Taiwan, que protegeram **com** metas duras de exportação e prazos definidos, é o que permite formular essa conclusão em vez de simplesmente escolher um lado.
+
+**O desfecho e o contraste posterior.** A reserva foi extinta no início dos anos 1990, no contexto da abertura promovida pelo governo Collor (@sec-globalizacao-neoliberalismo). Vale registrar, porém, que o Estado brasileiro voltaria a produzir infraestruturas digitais de sucesso em outro modelo: a **urna eletrônica** (a partir de 1996), o modelo multissetorial do **CGI.br**, o **Marco Civil** (2014) e o **Pix** (2020), este último hoje estudado internacionalmente como caso exemplar de infraestrutura pública de pagamentos. O contraste sugere que o problema não era a atuação estatal em si, mas a **forma** dessa atuação.
+:::
+
+**8.** Explique o que é o **determinismo tecnológico** e por que a maioria dos historiadores o rejeita.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**A definição.** **Determinismo tecnológico** é a tese — quase sempre implícita, raramente defendida de forma explícita — de que a tecnologia é uma força **autônoma**, que se desenvolve segundo lógica própria e **determina** a organização social, econômica e política. Nas formulações correntes: a máquina a vapor "produziu" o capitalismo industrial; a internet "produziu" a globalização; o algoritmo "produziu" a polarização política.
+
+Sua versão mais influente é a de **Marshall McLuhan**: "**o meio é a mensagem**" — o conteúdo veiculado importa menos do que as transformações que o próprio meio impõe às formas de percepção, de organização social e de pensamento [@mcluhan1969].
+
+**Por que os historiadores rejeitam a tese — quatro argumentos.**
+
+**1. As mesmas tecnologias produziram resultados opostos.** Este é o argumento decisivo, porque é empírico. A internet serviu à mobilização democrática na **Primavera Árabe** e à construção do sistema de vigilância e censura mais sofisticado do mundo na China. Redes sociais organizaram protestos por direitos e campanhas de ódio e genocídio. A imprensa serviu à Reforma e à Contrarreforma, ao Iluminismo e à propaganda totalitária. Se a técnica determinasse, os efeitos seriam **uniformes** — e não são.
+
+**2. A adoção de tecnologias é socialmente seletiva.** Sociedades decidem o que pesquisar, financiar, produzir e difundir, e essas decisões dependem de poder, dinheiro, prioridades militares e disputa política. Investe-se bilhões em publicidade direcionada e comparativamente pouco em antibióticos novos, não por razão técnica, mas por razão econômica. A China imperial conheceu a pólvora, a bússola e a imprensa séculos antes da Europa, e as aplicou de outro modo — não por deficiência técnica, mas por diferença de estrutura social e política.
+
+**3. Existem defasagens longas entre invenção e uso em escala.** Muitas tecnologias existem décadas antes de serem aplicadas, à espera de que condições sociais, econômicas e regulatórias as viabilizem. A eletricidade levou cerca de quarenta anos para transformar a produtividade fabril, porque exigia **reorganizar** a fábrica inteira, e não só trocar a fonte de energia. Isso mostra que o fator limitante costuma ser social, não técnico.
+
+**4. A tecnologia é ela própria um produto social.** Máquinas são feitas por pessoas, com financiamento de alguém, para finalidades definidas, e carregam **embutidas em seu desenho** as prioridades de quem as concebeu. Um algoritmo que ordena o *feed* por engajamento é uma decisão empresarial, não uma propriedade da eletrônica. É o que se chama de **construção social da tecnologia**.
+
+**A formulação de Milton Santos, que este manual adota.** Ele separa com precisão as **bases técnicas** — satélites, redes, computadores, contêineres — do **uso político** que delas se faz, mostrando que as mesmas bases poderiam sustentar um mundo mais solidário se apropriadas por outras forças sociais [@santosMilton2001]. Confundir as duas coisas é dispensar-se de examinar **quem decide** (@sec-globalizacao-neoliberalismo).
+
+**A ressalva honesta, que uma boa resposta inclui.** O determinismo tecnológico é falso como teoria geral, mas aponta para algo real: tecnologias **não são instrumentos completamente neutros**. Uma arma nuclear e um moinho de vento abrem e fecham conjuntos muito diferentes de possibilidades; uma rede desenhada para vigilância é mais difícil de usar para privacidade do que uma desenhada com criptografia de origem. A formulação mais defensável, e a que se recomenda em prova, é: **a tecnologia condiciona sem determinar** — ela redefine o campo do possível, dentro do qual as escolhas continuam sendo humanas, políticas e disputáveis.
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- CASTELLS, Manuel. *A sociedade em rede* [@castells1999]. Denso, mas os capítulos iniciais são acessíveis e valem o esforço; *Redes de indignação e esperança* [@castells2013] é mais curto e trata dos movimentos de 2011–13.
+- ZUBOFF, Shoshana. *A era do capitalismo de vigilância* [@zuboff2021]. Longo e repetitivo em partes, com uma tese central importante; leia junto com MOROZOV, Evgeny. *Big Tech* [@morozov2018], que discorda dela.
+- O'NEIL, Cathy. *Algoritmos de destruição em massa* [@oneil2020], e NOBLE, Safiya. *Algoritmos da opressão* [@noble2021]. Como sistemas automatizados reproduzem desigualdades, com casos concretos.
+- SILVEIRA, Sergio Amadeu da. *Democracia e os códigos invisíveis* [@silveira2021], e ANTUNES, Ricardo. *O privilégio da servidão* [@antunes2018]. As leituras brasileiras sobre plataformas e trabalho digital.
+- ISAACSON, Walter. *Os inovadores* [@isaacson2014]. História narrativa da revolução digital, com atenção ao trabalho coletivo — inclusive ao das mulheres sistematicamente apagadas, de Ada Lovelace às programadoras do ENIAC.
+- LÉVY, Pierre. *Cibercultura* [@levy1999], e SCHAFF, Adam. *A sociedade informática* [@schaff1995]. Leia-os como **fontes** do otimismo dos anos 1990 — e compare com o que efetivamente aconteceu.
+
+**Fontes primárias**
+
+- A proposta original de **Tim Berners-Lee** ao CERN, de 1989 [@bernersLee1989], sobre a qual o supervisor anotou "vago, mas empolgante". São poucas páginas.
+- O **Marco Civil da Internet** [@marcoCivil2014] e a **LGPD** [@lgpd2018]. Leia os artigos iniciais de cada um: eles definem princípios que estruturam todo o debate brasileiro.
+- SNOWDEN, Edward. *Eterna vigilância* [@snowden2019]. Memórias do responsável pelas revelações de 2013 — fonte parcial e indispensável.
+
+**Filmes, séries e documentários**
+
+- *O dilema das redes* (2020). Amplamente assistido e útil como introdução, mas assista-o criticamente: ele próprio simplifica, dá voz quase exclusiva a ex-executivos do Vale do Silício e resvala no determinismo tecnológico que este capítulo critica.
+- *O jogo da imitação* (2014), sobre Alan Turing, e *Estrelas além do tempo* (2016), sobre as calculistas negras da NASA.
+- *Cidadãoquatro* (*Citizenfour*, 2014), dir. Laura Poitras. Documentário filmado durante os dias em que Snowden entregou os documentos; um registro raro de história acontecendo diante da câmera.
+- *Privacidade hackeada* (2019), sobre o caso Cambridge Analytica, e *Coded Bias* (2020), sobre viés algorítmico em reconhecimento facial.
+- *Black Mirror* (série, desde 2011). Ficção, e por isso mesmo útil: episódios inteiros funcionam como experimentos mentais sobre tecnologias que já existem.
