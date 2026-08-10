@@ -152,7 +152,7 @@
 |---|----------|---------|--------|
 | 1 | O processo de Independência do Brasil (1808–1822) | `capitulos/vol11/cap01-independencia.qmd` | ✅ |
 | 2 | O Primeiro Reinado | `capitulos/vol11/cap02-primeiro-reinado.qmd` | ✅ |
-| 3 | O Período Regencial e as revoltas | `capitulos/vol11/cap03-periodo-regencial.qmd` | ⬜ |
+| 3 | O Período Regencial e as revoltas | `capitulos/vol11/cap03-periodo-regencial.qmd` | ✅ |
 | 4 | O Segundo Reinado: política e café | `capitulos/vol11/cap04-segundo-reinado.qmd` | ⬜ |
 | 5 | Escravidão, abolição e imigração | `capitulos/vol11/cap05-escravidao-abolicao-imigracao.qmd` | ⬜ |
 | 6 | Guerra do Paraguai e a crise do Império | `capitulos/vol11/cap06-crise-do-imperio.qmd` | ⬜ |

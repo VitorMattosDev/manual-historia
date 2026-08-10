@@ -1,5 +1,408 @@
 # O Período Regencial e as revoltas {#sec-periodo-regencial}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Entre 1835 e 1840, a província do **Grão-Pará** — que ia do Amapá ao atual Acre e reunia mais da metade do território brasileiro — foi palco de uma guerra em que morreram cerca de **30 a 40 mil pessoas**, algo entre um quinto e dois quintos de toda a sua população. Índios destribalizados, negros fugidos, mestiços, extratores de drogas do sertão e soldados desertores tomaram **Belém** três vezes, mataram dois presidentes de província e governaram a Amazônia por quase um ano. A revolta se chamou **Cabanagem**, e é, em número absoluto de mortos em relação à população, a mais sangrenta da história do Brasil. Você provavelmente não a estudou com um décimo da atenção dedicada à Inconfidência Mineira, que não teve um único combate. Essa desproporção não é acidente: ela diz muito sobre quem escreve a história nacional e sobre quais revoltas se tornam fundadoras e quais viram "desordem". O período em que a Cabanagem aconteceu — a **Regência** (1831–1840) — é o mais turbulento e, por isso mesmo, o mais revelador do Império: foi ali que se decidiu, no meio de dez revoltas armadas simultâneas, se o Brasil seria um país ou vários, monarquia ou república, centralizado ou federal.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- explicar como funcionavam as **Regências** e distinguir suas quatro fases;
+- caracterizar as correntes políticas do período — **moderados**, **exaltados** e **restauradores** — e a origem dos partidos imperiais;
+- avaliar o **Ato Adicional de 1834** e a **Lei Interpretativa de 1840** como movimentos opostos de descentralização e recentralização;
+- explicar a criação da **Guarda Nacional** e sua relação com o poder dos chefes locais;
+- identificar causas, protagonistas e desfechos da **Cabanagem**, da **Sabinada**, da **Balaiada**, da **Farroupilha** e da **Revolta dos Malês**;
+- analisar o **Golpe da Maioridade** (1840) e discutir as leituras historiográficas sobre a Regência.
 :::
+
+## Um país sem rei: como funcionava a Regência {#sec-regencias}
+
+A Constituição de 1824 previa que, sendo o imperador menor de 18 anos, o governo seria exercido por uma **Regência**. Como Pedro de Alcântara tinha **cinco anos** em abril de 1831, o Brasil viveu quase uma década sem monarca efetivo. É por isso que muitos historiadores chamam a Regência de "**experiência republicana**" do Império: um governo **eletivo e temporário**, exercido por políticos comuns, num país cujas instituições supunham a figura sagrada de um rei.
+
+::: {#fig-regencias}
+
+```{.tikz}
+%%| filename: fig-regencias
+%%| alt: Esquema das quatro fases da Regência brasileira entre 1831 e 1840, com suas datas, responsáveis e medidas principais.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \node[draw, thick, rounded corners, fill=manualgray!18, align=center, text width=3.1cm] (a) at (0,0)
+    {\textbf{Regência Trina}\\ \textbf{Provisória}\\ \textbf{abr.--jun. 1831}\\[2pt] apenas organiza a\\ eleição da seguinte};
+  \node[draw, thick, rounded corners, fill=manualblue!18, align=center, text width=3.5cm] (b) at (4.1,0)
+    {\textbf{Regência Trina}\\ \textbf{Permanente}\\ \textbf{1831--1835}\\[2pt] \textbf{Guarda Nacional} (1831)\\ Código do Processo (1832)\\ \textbf{Ato Adicional} (\textbf{1834})};
+  \node[draw, thick, rounded corners, fill=manualgreen!18, align=center, text width=3.4cm] (c) at (8.3,0)
+    {\textbf{Regência Una}\\ \textbf{de Feijó}\\ \textbf{1835--1837}\\[2pt] padre \textbf{Diogo Feijó};\\ Cabanagem e\\ Farroupilha explodem};
+  \node[draw, thick, rounded corners, fill=manualred!20, align=center, text width=3.5cm] (d) at (12.5,0)
+    {\textbf{Regência Una de}\\ \textbf{Araújo Lima}\\ \textbf{1837--1840}\\[2pt] o \textbf{Regresso} conservador;\\ \textbf{Lei Interpretativa} (1840)};
+
+  \draw[vetor, very thick, manualgray] (a) -- (b);
+  \draw[vetor, very thick, manualgray] (b) -- (c);
+  \draw[vetor, very thick, manualgray] (c) -- (d);
+
+  \draw[very thick, manualblue!60] (2.4,-1.5) -- (2.4,-2.1);
+  \node[align=center, text=manualblue, text width=6.0cm] at (4.0,-2.6)
+    {\textbf{AVANÇO LIBERAL / DESCENTRALIZAÇÃO}\\ autonomia provincial, poder local, eletividade};
+  \draw[very thick, manualred!70] (11.0,-1.5) -- (11.0,-2.1);
+  \node[align=center, text=manualred, text width=5.6cm] at (11.6,-2.6)
+    {\textbf{REGRESSO / RECENTRALIZAÇÃO}\\ ``restaurar a ordem'' diante das revoltas};
+
+  \node[draw, dashed, rounded corners, fill=manualyellow!22, align=center, text width=13.6cm] at (6.3,-4.0)
+    {\textbf{Ao fundo, sem parar:} Cabanagem (PA, 1835--40) $\cdot$ Malês (BA, 1835) $\cdot$ Farroupilha (RS, \textbf{1835--45}) $\cdot$ Sabinada (BA, 1837--38) $\cdot$ Balaiada (MA, 1838--41)};
+\end{tikzpicture}
+```
+
+Nove anos em quatro fases: um pêndulo que vai da descentralização liberal ao "Regresso" conservador, sob pressão constante das revoltas.
+:::
+
+**As correntes políticas.** A abdicação de 1831 liberou disputas que a figura do imperador continha. Três grupos organizaram o debate:
+
+- **Moderados** (também chamados de *chimangos*): liberais proprietários, majoritariamente do Centro-Sul, que queriam manter a monarquia e a ordem social, mas com **descentralização** administrativa. Eram o grupo dominante; seu órgão era o *Aurora Fluminense*, de **Evaristo da Veiga**.
+- **Exaltados** (*farroupilhas*, *jurujubas*): setores urbanos médios, jornalistas, militares de baixa patente, artesãos. Defendiam **federalismo**, ampliação de direitos e, em muitos casos, a **república**. Base das revoltas mais radicais.
+- **Restauradores** (*caramurus*): pediam a **volta de D. Pedro I** ao trono. Reuniam portugueses, altos funcionários e comerciantes. O grupo perdeu razão de ser com a **morte de D. Pedro I em 1834**.
+
+Repare que, das três, apenas os moderados tinham representação sólida no Parlamento. Depois de 1837, esse campo se cindiria: os moderados que aderiram à recentralização formariam o **Partido Conservador**; os que resistiram, junto com parte dos exaltados, formariam o **Partido Liberal**. É desse racha que nascem os dois partidos que dominariam o Segundo Reinado (@sec-segundo-reinado).
+
+## As reformas liberais: 1831–1834 {#sec-reformas-liberais}
+
+**A Guarda Nacional (1831).** Desconfiada do Exército — que ajudara a derrubar D. Pedro I e estava cheio de oficiais portugueses —, a Regência criou uma milícia cidadã paralela: a **Guarda Nacional**, inspirada no modelo francês. Podiam servir os cidadãos com renda suficiente para votar; os **oficiais eram eleitos** (depois, nomeados) entre os locais mais ricos. O efeito prático foi decisivo e duradouro: **legalizou o poder armado dos grandes proprietários rurais**. O fazendeiro que já mandava em seus agregados passou a mandar como **coronel** da Guarda Nacional, com patente reconhecida pelo Estado. Está aí a origem direta da palavra que definiria a política brasileira meio século depois: **coronelismo** (@sec-republica-velha).
+
+**Código de Processo Criminal (1832).** Ampliou os poderes dos **juízes de paz** eleitos localmente, dando às comunidades autoridade sobre prisões, julgamentos e polícia. Descentralização em estado puro — e, na prática, mais poder para o mandão local.
+
+**Ato Adicional (1834).** A única **emenda** à Constituição de 1824, e a mais importante reforma do período. Ele:
+
+- criou **Assembleias Legislativas provinciais**, com poder de legislar sobre orçamento, impostos internos, obras públicas, instrução primária, empregos provinciais e força policial;
+- substituiu a Regência Trina por uma **Regência Una eletiva**, com mandato de quatro anos;
+- extinguiu o **Conselho de Estado**, órgão consultivo ligado ao Poder Moderador;
+- deu ao **Rio de Janeiro** o estatuto de **Município Neutro**, sede da corte.
+
+O que o Ato **não** fez: não instituiu a federação (os presidentes de província continuaram **nomeados** pelo centro) e não tocou no Poder Moderador, apenas suspenso enquanto durasse a menoridade. Ainda assim, foi a maior transferência de poder para as províncias em toda a história do Império — e é justamente sobre seu alcance que a historiografia atual mais discute.
+
+## As revoltas regenciais {#sec-revoltas-regenciais}
+
+O período é lembrado, sobretudo, pelas revoltas. Elas não têm uma causa única, mas compartilham um fundo comum: **crise econômica** (queda dos preços do açúcar e do algodão, moeda depreciada), **exclusão política** de vastos setores, **ressentimento provincial** contra o Rio de Janeiro, **antilusitanismo** e, em várias delas, a mobilização de gente pobre, negra, indígena e mestiça com pautas próprias — que os líderes de elite raramente pretendiam atender.
+
+::: {#fig-revoltas-regenciais}
+
+```{.tikz}
+%%| filename: fig-revoltas-regenciais
+%%| alt: Mapa esquemático das principais revoltas do período regencial brasileiro, com localização aproximada, datas e caracterização de cada uma.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \draw[thick, manualgray, rounded corners] (0,-6.4) rectangle (12.6,2.4);
+  \node[text=manualgray] at (6.3,2.75) {\textbf{AS REVOLTAS DA REGÊNCIA} (esquema — posições aproximadas)};
+
+  \node[draw, thick, rounded corners, fill=manualgreen!22, align=center, text width=3.7cm, text=manualgreen!45!black] at (2.3,1.0)
+    {\textbf{CABANAGEM}\\ Grão-Pará, \textbf{1835--1840}\\[2pt] cabanos: indígenas, negros,\\ mestiços pobres\\ \textbf{tomam Belém 3 vezes}\\ \textbf{30--40 mil mortos}};
+
+  \node[draw, thick, rounded corners, fill=manualyellow!30, align=center, text width=3.6cm] at (7.4,1.0)
+    {\textbf{BALAIADA}\\ Maranhão, \textbf{1838--1841}\\[2pt] vaqueiros, artesãos e\\ o quilombo de \textbf{Cosme Bento}\\ (3 mil pessoas)\\ repressão: \textbf{Luís Alves de Lima}};
+
+  \node[draw, thick, rounded corners, fill=manualred!22, align=center, text width=3.8cm, text=manualred] at (11.0,-1.4)
+    {\textbf{MALÊS}\\ Salvador, \textbf{1835}\\[2pt] revolta \textbf{escrava} urbana,\\ africanos muçulmanos\\ letrados em árabe};
+
+  \node[draw, thick, rounded corners, fill=manualblue!20, align=center, text width=3.6cm, text=manualblue] at (7.2,-2.4)
+    {\textbf{SABINADA}\\ Salvador, \textbf{1837--1838}\\[2pt] médicos, jornalistas, tropa;\\ república \textbf{temporária}\\ até a maioridade};
+
+  \node[draw, thick, rounded corners, fill=manualgray!24, align=center, text width=4.0cm] at (2.6,-3.2)
+    {\textbf{FARROUPILHA}\\ Rio Grande do Sul, \textbf{1835--1845}\\[2pt] estancieiros e charqueadores;\\ imposto sobre o \textbf{charque};\\ \textbf{República Rio-Grandense}\\ a mais longa: \textbf{10 anos}};
+
+  \node[draw, dashed, rounded corners, fill=manualyellow!18, align=center, text width=11.4cm] at (6.3,-5.6)
+    {\textbf{Fundo comum:} crise econômica $\cdot$ exclusão política $\cdot$ ressentimento contra o Rio $\cdot$ antilusitanismo $\cdot$ mobilização de pobres, negros e indígenas com pautas próprias};
+
+  \draw[vetor, thick, manualgray] (4.3,0.6) -- (5.4,0.6);
+  \draw[vetor, thick, manualgray] (8.4,-1.0) -- (9.1,-1.2);
+\end{tikzpicture}
+```
+
+Cinco focos em cinco regiões, quase todos simultâneos. Em nenhum momento entre 1835 e 1840 o governo regencial esteve livre de uma guerra interna.
+:::
+
+### Cabanagem (Grão-Pará, 1835–1840) {#sec-cabanagem}
+
+A província do Grão-Pará aderira tarde e sob coerção à Independência (@sec-independencia) e era governada por autoridades nomeadas no Rio, distantes e alheias à realidade local. A economia baseava-se no extrativismo das "drogas do sertão", com trabalho compulsório de populações indígenas. A palavra **cabano** vem das cabanas ribeirinhas onde vivia a maioria da população pobre: indígenas destribalizados, **tapuios**, mestiços, negros libertos e escravizados fugidos.
+
+Sob a liderança inicial de proprietários locais insatisfeitos — **Félix Malcher**, **Francisco Vinagre**, **Eduardo Angelim** —, os cabanos tomaram Belém em **janeiro de 1835**, mataram o presidente da província e formaram governo próprio. A radicalização foi rápida: à medida que a base popular impunha suas próprias reivindicações, os líderes proprietários abandonaram ou traíram o movimento. A repressão, conduzida por forças enviadas do Rio com apoio naval inglês, foi sistemática e prolongou-se até 1840, com execuções sumárias, deportações e o uso de navios-prisão. As estimativas mais aceitas apontam **30 a 40 mil mortos** numa população de cerca de 100 a 150 mil habitantes.
+
+::: {.callout-warning title="A revolta que não cabe no rótulo"}
+A Cabanagem costuma ser resumida como "revolta popular contra a exclusão política". Isso é verdadeiro, mas insuficiente. **Magda Ricci** mostrou que os cabanos não eram um bloco homogêneo nem "pré-políticos": mobilizavam um vocabulário próprio, que misturava lealdade ao **imperador menino** (contra as autoridades locais e os "portugueses"), catolicismo popular e reivindicações concretas de terra, trabalho e reconhecimento [@ricci2007]. Muitos gritavam vivas a D. Pedro II **enquanto** matavam seus representantes — o que só parece contraditório se supusermos que o povo devia ter, já em 1835, a mesma gramática política das elites letradas.
+
+Essa é uma armadilha frequente na leitura de revoltas populares: julgá-las pela coerência ideológica que **nós** esperaríamos, em vez de reconstituir a lógica que elas de fato tinham. É **anacronismo** — e apaga a agência histórica de quem se rebelou.
+:::
+
+### Revolta dos Malês (Salvador, 1835) {#sec-males}
+
+Na madrugada de **25 de janeiro de 1835**, cerca de 600 africanos escravizados e libertos tomaram as ruas de Salvador num levante planejado com meses de antecedência. Eram **malês** — africanos **muçulmanos**, sobretudo iorubás (nagôs) e hauçás, muitos deles **alfabetizados em árabe**, que se organizaram em torno de mestres religiosos e usaram amuletos com versículos do Corão e vestes brancas (*abadás*). A data foi escolhida com precisão: fim do **Ramadã** e véspera de Nossa Senhora da Guia, quando a cidade estaria em festa e a guarda, relaxada.
+
+O levante foi **descoberto na véspera** e esmagado em poucas horas, com dezenas de mortos. A repressão foi exemplar: execuções, açoites, prisões e a **deportação** de centenas de libertos para a África. Seguiram-se leis que proibiam reuniões de africanos, restringiam a circulação noturna e vigiavam a alfabetização em árabe.
+
+Os Malês merecem destaque por três razões. Primeira: foi a **maior revolta urbana de escravizados** das Américas, e é uma das poucas com planejamento documentado em fontes escritas **pelos próprios rebeldes** — os documentos em árabe apreendidos são fontes primárias extraordinárias, estudadas por **João José Reis** [@reis2003]. Segunda: desmente a imagem de africanos "sem cultura própria" — tratava-se de gente letrada, com teologia, escrita e organização. Terceira: o pânico que provocou nas elites de todo o país acelerou a repressão e alimentou o argumento — que se tornaria central no debate abolicionista — de que a concentração de africanos era um perigo permanente, o "**haitianismo**" (@sec-escravidao-abolicao-imigracao).
+
+### Sabinada (Bahia, 1837–1838) {#sec-sabinada}
+
+Liderada pelo médico e jornalista **Francisco Sabino Álvares da Rocha Vieira**, reuniu profissionais liberais, comerciantes, jornalistas e parte da tropa em Salvador. Proclamou a "**República Bahiense**", com uma cláusula curiosa e reveladora: seria **temporária**, vigorando apenas até a **maioridade de D. Pedro II**. As bandeiras eram federalistas e antilusitanas; o movimento **não** convocou os escravizados — aceitou apenas libertos —, e essa recusa em ampliar a base social ajuda a explicar seu isolamento. Cercada por terra e por mar, Salvador foi retomada em março de 1838 com incêndios e mais de mil mortos.
+
+### Balaiada (Maranhão, 1838–1841) {#sec-balaiada}
+
+O Maranhão vivia a decadência do algodão, a concentração fundiária e uma disputa feroz entre facções da elite local ("bem-te-vis" liberais e "cabanos" conservadores). O estopim foi o recrutamento forçado e a atuação dos **prefeitos** nomeados. A revolta reuniu **vaqueiros**, **artesãos** e **sertanejos**, e recebeu os nomes de seus líderes: **Manuel Francisco dos Anjos Ferreira**, o "**Balaio**", fabricante de balaios; **Raimundo Gomes**, o "Cara-Preta", vaqueiro; e **Cosme Bento das Chagas**, o "Negro Cosme", líder de um **quilombo com cerca de 3 mil pessoas**, que se intitulou "Tutor e Imperador das Liberdades Bem-te-vi".
+
+A junção entre revolta sertaneja e quilombo é o traço mais explosivo da Balaiada — e o que provocou a resposta mais dura. A repressão coube a **Luís Alves de Lima e Silva**, que por ela recebeu o título de **barão de Caxias** e iniciou a carreira que o tornaria o pacificador oficial do Império e patrono do Exército brasileiro. Cosme foi enforcado em 1842.
+
+### Farroupilha ou Guerra dos Farrapos (Rio Grande do Sul, 1835–1845) {#sec-farroupilha}
+
+A mais longa revolta da história do Brasil — **dez anos** — e a única conduzida do início ao fim por uma elite. Os **estancieiros** e **charqueadores** gaúchos protestavam contra a política tarifária do Império, que taxava o **charque** (carne-seca) gaúcho enquanto permitia a entrada do charque platino, mais barato, produzido no Uruguai e na Argentina. Somava-se o peso do recrutamento e o sentimento de que a província, militarmente essencial na fronteira, era politicamente ignorada.
+
+Sob a liderança de **Bento Gonçalves**, os farrapos tomaram Porto Alegre em 1835 e proclamaram em 1836 a **República Rio-Grandense**, com apoio, mais tarde, do italiano **Giuseppe Garibaldi** — o mesmo que voltaria à Itália para protagonizar a unificação (@sec-unificacoes-italia-alemanha) — e chegaram a proclamar em Santa Catarina a efêmera **República Juliana** (1839). O fim veio por **negociação**: pela **Paz de Ponche Verde** (1845), Caxias concedeu anistia ampla, incorporou os oficiais farrapos ao Exército com suas patentes e aceitou a taxação do charque importado.
+
+::: {.callout-important title="Os lanceiros negros e a paz que não incluiu todos"}
+Os farrapos recrutaram escravizados prometendo **alforria** em troca de serviço militar, formando corpos de **lanceiros negros** que foram decisivos em várias batalhas. Ao negociar a paz, porém, a questão da liberdade desses homens ficou em segundo plano. Em **novembro de 1844**, cerca de cem lanceiros negros foram surpreendidos e massacrados em **Porongos**, num episódio que a documentação sugere ter sido facilitado por um acordo prévio entre comandos dos dois lados — tese debatida entre historiadores, mas hoje amplamente considerada plausível.
+
+Guarde o padrão, porque ele se repete em toda a história do Brasil imperial: **negros e pobres são convocados para as guerras das elites e excluídos dos acordos que as encerram**. Você o encontrará de novo na Independência (@sec-independencia), na Guerra do Paraguai (@sec-crise-do-imperio) e no pós-abolição (@sec-escravidao-abolicao-imigracao).
+:::
+
+## O Regresso e o Golpe da Maioridade {#sec-regresso-maioridade}
+
+Diante de revoltas simultâneas em cinco províncias, parte dos moderados concluiu que as reformas liberais haviam ido longe demais. Formou-se o **Regresso** conservador, articulado por **Bernardo Pereira de Vasconcelos** — o mesmo político que fora um dos maiores liberais dos anos 1820 e que resumiu a mudança numa frase famosa: "*fui liberal... hoje, porém, é outra a sociedade... a sociedade que então corria a dissolver-se pela demagogia, hoje corre a dissolver-se pela anarquia*".
+
+O programa regressista foi executado em três atos:
+
+1. **Renúncia de Feijó** (1837) e ascensão de **Araújo Lima**, conservador;
+2. **Lei Interpretativa do Ato Adicional** (**1840**), que reduziu drasticamente os poderes das Assembleias provinciais, especialmente sobre a magistratura e a polícia;
+3. **Reforma do Código de Processo Criminal** (1841) e **restauração do Conselho de Estado** (1841), já sob o Segundo Reinado — completando a recentralização.
+
+Faltava resolver a instabilidade de fundo: um governo sem imperador era, para as elites, um governo sem legitimidade. A saída foi antecipar a maioridade. Os liberais, agora fora do poder e vendo na medida um modo de retornar, organizaram o **Clube da Maioridade** e, em **23 de julho de 1840**, forçaram no Parlamento a declaração da maioridade de **D. Pedro II**, com **14 anos** — quatro anos antes do prazo constitucional. Foi um **golpe** no sentido estrito: violou-se a Constituição por conveniência política, com aplauso quase geral.
+
+Aos 14 anos, o menino que herdara o trono aos cinco assumiu de fato o governo. Começava o **Segundo Reinado**, que duraria 49 anos (@sec-segundo-reinado).
+
+::: {#fig-linha-do-tempo-regencia}
+
+```{.tikz}
+%%| filename: fig-linha-do-tempo-regencia
+%%| alt: Linha do tempo do período regencial brasileiro, de 1831 a 1845, com as reformas, as revoltas e o Golpe da Maioridade.
+\begin{tikzpicture}[>=stealth]
+  \draw[eixo] (0,0) -- (14.4,0);
+  \node[eixo, gray] at (14.4,-0.6) {\scriptsize tempo};
+
+  \fill[manualblue!20] (0.6,-0.13) rectangle (6.0,0.13);
+  \node[text=manualblue] at (3.2,-1.05) {\scriptsize \textbf{avanço liberal}};
+  \fill[manualred!24] (6.0,-0.13) rectangle (10.4,0.13);
+  \node[text=manualred] at (8.2,-1.05) {\scriptsize \textbf{auge das revoltas}};
+  \fill[manualgray!28] (10.4,-0.13) rectangle (13.9,0.13);
+  \node[text=gray] at (12.1,-1.05) {\scriptsize \textbf{Regresso conservador}};
+
+  \node[ponto] at (0.6,0) {};
+  \node[below] at (0.6,-0.28) {\scriptsize 1831};
+  \node[above, align=center, text=manualblue] at (1.0,0.2) {\scriptsize abdicação;\\\scriptsize \textbf{Guarda Nacional}};
+
+  \node[ponto] at (2.6,0) {};
+  \node[below] at (2.6,-0.28) {\scriptsize 1832};
+  \node[above, align=center] at (2.7,1.15) {\scriptsize \textbf{Código do Processo}\\\scriptsize (juízes de paz eleitos)};
+
+  \node[ponto] at (4.4,0) {};
+  \node[below] at (4.4,-0.28) {\scriptsize 1834};
+  \node[above, align=center, text=manualblue] at (4.5,0.2) {\scriptsize \textbf{Ato Adicional}:\\\scriptsize assembleias provinciais};
+
+  \node[ponto] at (6.0,0) {};
+  \node[below] at (6.0,-0.28) {\scriptsize 1835};
+  \node[above, align=center, text=manualred] at (6.6,1.15) {\scriptsize \textbf{Malês} (jan.) $\cdot$ \textbf{Cabanagem} $\cdot$\\\scriptsize \textbf{Farroupilha}; regência de \textbf{Feijó}};
+
+  \node[ponto] at (8.2,0) {};
+  \node[below] at (8.2,-0.28) {\scriptsize 1837};
+  \node[above, align=center, text=manualred] at (8.3,0.2) {\scriptsize \textbf{Sabinada};\\\scriptsize regência de Araújo Lima};
+
+  \node[ponto] at (9.8,0) {};
+  \node[below] at (9.8,-0.28) {\scriptsize 1838};
+  \node[above, align=center] at (9.9,1.15) {\scriptsize \textbf{Balaiada}\\\scriptsize (Negro Cosme)};
+
+  \node[ponto] at (11.4,0) {};
+  \node[below] at (11.4,-0.28) {\scriptsize 1840};
+  \node[above, align=center, text=gray] at (11.5,0.2) {\scriptsize \textbf{Lei Interpretativa};\\\scriptsize \textbf{Golpe da Maioridade}};
+
+  \node[ponto] at (12.8,0) {};
+  \node[below] at (12.8,-0.28) {\scriptsize 1841};
+  \node[above, align=center] at (12.9,1.15) {\scriptsize reforma do Código;\\\scriptsize \textbf{Conselho de Estado}};
+
+  \node[ponto] at (14.0,0) {};
+  \node[below] at (14.0,-0.28) {\scriptsize 1845};
+  \node[above, align=center, text=manualgreen!50!black] at (13.7,0.2) {\scriptsize \textbf{Ponche Verde}:\\\scriptsize fim da Farroupilha};
+\end{tikzpicture}
+```
+
+O pêndulo regencial: reformas descentralizadoras até 1834, explosão de revoltas em 1835, e recentralização a partir de 1837 — coroada pelo golpe de 1840.
+:::
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+**A Regência foi anarquia ou construção?** A historiografia tradicional, herdeira do IHGB e consolidada nos manuais escolares do século XX, descreve o período como um interregno de **caos** — dez anos de revoltas que só terminam quando a monarquia é restabelecida na pessoa de D. Pedro II. O Golpe da Maioridade aparece, nessa versão, como o retorno da ordem, e Caxias como o "pacificador". Não é difícil ver a que serve essa narrativa: ela justifica a **centralização** e apresenta a monarquia como condição da unidade nacional.
+
+**Ilmar Rohloff de Mattos** deslocou a discussão ao mostrar que a Regência não foi ausência de projeto, e sim o momento em que se **disputaram projetos**. Em *O tempo saquarema*, ele reconstitui como o grupo conservador do Rio de Janeiro — os "saquaremas", ligados ao café do Vale do Paraíba — construiu deliberadamente o Estado imperial, expandindo o centro sobre o território e produzindo, nas suas palavras, uma "direção moral e intelectual" que transformava o interesse de uma classe senhorial em interesse geral [@mattos1987]. O Regresso, nessa leitura, não é reação defensiva ao caos: é **ofensiva construtiva**.
+
+**Miriam Dolhnikoff** propôs uma terceira leitura, que reabilita o Ato Adicional. Contra a ideia de que a recentralização de 1840–41 anulou a reforma de 1834, ela mostra, a partir dos arquivos das **Assembleias provinciais**, que estas continuaram a controlar orçamento, tributos internos, obras, empregos e força policial durante todo o Império. O resultado seria um arranjo **federativo de fato** sob roupagem unitária: um **pacto** em que as elites regionais aceitavam a monarquia centralizada em troca de autonomia real sobre seus próprios negócios [@dolhnikoff2005]. Isso explicaria a estabilidade posterior melhor do que a tese da simples imposição.
+
+**E as revoltas?** Aqui a mudança foi radical. Durante muito tempo, os movimentos regenciais foram tratados em bloco como "revoltas provinciais", listados por nome, província e data em quadros para decorar — um tratamento que apaga suas diferenças. Trabalhos regionais reconstituíram cada caso e mostraram que elas não são a mesma coisa: a **Farroupilha** é uma revolta de **elite** por interesses tarifários, negociada com anistia e patentes; a **Cabanagem** é um levante de **pobres** que perde seus líderes de elite justamente por radicalizar-se, e termina em extermínio; os **Malês** são uma revolta **escrava** com projeto religioso e político próprio. Comparar o desfecho é instrutivo: os farrapos foram **anistiados e promovidos**; os cabanos foram **massacrados**; os malês foram **executados e deportados**. A diferença não está na gravidade da ameaça à ordem, mas em **quem** ameaçava.
+
+Três contribuições merecem destaque. **João José Reis**, em *Rebelião escrava no Brasil*, usou os documentos em árabe apreendidos e os processos judiciais para reconstituir o levante de 1835 de dentro, devolvendo aos malês a condição de sujeitos com teologia, letramento e estratégia [@reis2003]. **Magda Ricci** reinterpretou a Cabanagem a partir da cultura política popular amazônica, mostrando que a lealdade ao imperador e a revolta contra as autoridades locais coexistiam com coerência própria [@ricci2007]. E, de forma mais ampla, **Reis e Silva** consolidaram em *Negociação e conflito* a ideia de que os escravizados alternavam estrategicamente resistência aberta e barganha cotidiana, em vez de oscilar entre passividade e explosão [@reisSilva1989].
+
+**Por que divergem?** Porque mudaram as fontes e o lugar de quem pergunta. A visão do "caos" foi escrita a partir do **Rio de Janeiro**, com base na documentação do governo central, que naturalmente descreve toda contestação como desordem. As leituras recentes foram construídas em **arquivos provinciais** — processos criminais, listas de recrutamento, correspondência de presidentes de província, documentos apreendidos com os rebeldes — e por historiadores frequentemente ligados às próprias regiões estudadas, que fizeram outra pergunta: não "*por que houve desordem?*", mas "*o que essa gente queria?*". A resposta a essa segunda pergunta é o que transformou a Regência, de intervalo caótico, no período mais fértil para entender de que material o Brasil foi feito (@sec-correntes-historiograficas).
+
+## Resumo do capítulo {#sec-resumo}
+
+- **Contexto:** com D. Pedro II tendo **cinco anos** em 1831, o Brasil viveu nove anos de **Regência** — governo eletivo e temporário, por isso chamado de "experiência republicana" do Império.
+- **Quatro fases:** Trina **Provisória** (1831) → Trina **Permanente** (1831–35) → Una de **Feijó** (1835–37) → Una de **Araújo Lima** (1837–40).
+- **Correntes:** **moderados** (*chimangos*, liberais proprietários, descentralização com monarquia), **exaltados** (federalistas e republicanos, base urbana) e **restauradores** (*caramurus*, volta de D. Pedro I; perdem sentido com sua morte em **1834**). Do racha dos moderados nascem os partidos **Conservador** e **Liberal**.
+- **Reformas liberais:** **Guarda Nacional** (1831), que legalizou o poder armado dos proprietários e originou o termo **coronel**; **Código de Processo Criminal** (1832), com juízes de paz eleitos; **Ato Adicional** (**1834**), que criou as **Assembleias Legislativas provinciais**, instituiu a Regência **Una** eletiva, extinguiu o **Conselho de Estado** e criou o **Município Neutro** do Rio. Não instituiu federação: presidentes de província continuaram **nomeados**.
+- **Cabanagem** (Grão-Pará, **1835–1840**): revolta de indígenas, negros e mestiços pobres; Belém tomada três vezes; **30 a 40 mil mortos** — a mais letal da história do Brasil em proporção à população.
+- **Malês** (Salvador, **1835**): maior revolta **urbana de escravizados** das Américas, organizada por africanos **muçulmanos letrados em árabe**; descoberta na véspera, seguida de execuções e **deportações**; provocou pânico escravista nacional.
+- **Sabinada** (Bahia, 1837–38): liderada pelo médico **Sabino**; "República Bahiense" **temporária**, até a maioridade; não convocou escravizados e ficou isolada.
+- **Balaiada** (Maranhão, 1838–41): vaqueiros e artesãos (**Balaio**, **Raimundo Gomes**) aliados ao quilombo do **Negro Cosme** (cerca de 3 mil pessoas); reprimida por **Luís Alves de Lima e Silva**, que se tornou **barão de Caxias**.
+- **Farroupilha** (Rio Grande do Sul, **1835–1845**): a mais longa; estancieiros e charqueadores contra a taxação do **charque**; **República Rio-Grandense**, participação de **Garibaldi** e **República Juliana** (SC, 1839); encerrada por negociação na **Paz de Ponche Verde** (1845), com anistia e incorporação dos oficiais. Os **lanceiros negros** foram massacrados em **Porongos** (1844).
+- **Regresso conservador:** articulado por **Bernardo Pereira de Vasconcelos**; **Lei Interpretativa do Ato Adicional** (**1840**), reforma do Código de Processo (1841) e restauração do **Conselho de Estado** (1841).
+- **Golpe da Maioridade** (**23 de julho de 1840**): declaração inconstitucional da maioridade de D. Pedro II aos **14 anos**, articulada pelos liberais no **Clube da Maioridade**.
+- **Historiografia:** visão tradicional do "caos" × **Ilmar Mattos** (o Regresso como construção deliberada do Estado no "tempo saquarema") × **Dolhnikoff** (pacto federativo de fato via Assembleias provinciais); e a revisão das revoltas por **João José Reis** (Malês), **Magda Ricci** (Cabanagem) e **Reis e Silva** ("negociação e conflito").
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Fixe: (1) as quatro fases das Regências; (2) o conteúdo e os limites do **Ato Adicional**; (3) a Guarda Nacional e a origem do **coronelismo**; (4) as cinco revoltas, com base social, pauta e desfecho — comparar desfechos é o que mais rende em prova; (5) **Regresso → Lei Interpretativa → Golpe da Maioridade**; (6) as leituras historiográficas.
+:::
+
+**1.** Por que a Regência é chamada de "experiência republicana" do Império?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque, entre 1831 e 1840, o Brasil foi governado por autoridades **eletivas e temporárias**, e não por um monarca hereditário e vitalício. As Regências — trinas até 1835, unas depois do Ato Adicional — eram **escolhidas por eleição** (indireta e censitária, como a da Câmara) e tinham **mandato**. O **Poder Moderador** ficou **suspenso** durante a menoridade, e o Conselho de Estado foi extinto em 1834. Na prática, os elementos mais tipicamente monárquicos do sistema estiveram desativados por quase uma década.
+
+Somam-se a isso as reformas de perfil **descentralizador e liberal** — Guarda Nacional com oficiais eleitos, juízes de paz eleitos, Assembleias provinciais —, que aproximaram o arranjo institucional brasileiro do federalismo republicano hispano-americano e norte-americano.
+
+**Duas ressalvas necessárias.** Primeira: a expressão é uma **analogia**, não uma descrição literal — a monarquia continuou existindo formalmente, com um imperador menor de idade e uma Constituição monárquica em vigor. Segunda: a "experiência" não foi democrática em sentido moderno — o voto seguia **censitário**, indireto e descoberto, a **escravidão** permanecia e as revoltas populares foram reprimidas com extrema violência. O que se experimentou foi a possibilidade de um Estado sem rei, **não** a ampliação da participação popular.
+:::
+
+**2.** Explique o **Ato Adicional de 1834**: o que mudou e o que permaneceu?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Foi a única **emenda** à Constituição de 1824 e a principal reforma da Regência.
+
+**O que mudou:**
+
+1. Criou as **Assembleias Legislativas provinciais**, com poder de legislar sobre orçamento e impostos internos, obras públicas, instrução primária, empregos provinciais e força policial — a maior transferência de poder às províncias em todo o Império.
+2. Substituiu a **Regência Trina** por uma **Regência Una**, eletiva, com mandato de quatro anos.
+3. **Extinguiu o Conselho de Estado**, órgão consultivo ligado ao Poder Moderador.
+4. Criou o **Município Neutro** do Rio de Janeiro, sede da corte, separado da província fluminense.
+
+**O que permaneceu:**
+
+1. **Não** houve federação: os **presidentes de província continuaram nomeados** pelo governo central, e podiam ser removidos a qualquer momento — controle decisivo, porque quem nomeia o presidente controla a máquina eleitoral local.
+2. O **Poder Moderador** não foi abolido, apenas ficou suspenso enquanto durasse a menoridade.
+3. A **escravidão**, a estrutura fundiária e o voto censitário não foram tocados.
+
+**O desfecho.** A **Lei Interpretativa de 1840** e a reforma do Código de Processo (1841) reduziram fortemente esses poderes provinciais, sobretudo sobre magistratura e polícia, restaurando também o Conselho de Estado. A leitura tradicional conclui daí que o Ato Adicional "fracassou". **Miriam Dolhnikoff** discorda: as Assembleias provinciais continuaram funcionando e controlando orçamento, tributos e cargos até o fim do Império, o que teria produzido um **federalismo de fato** sob aparência unitária [@dolhnikoff2005]. Uma boa resposta menciona as duas leituras.
+:::
+
+**3.** Compare a **Cabanagem** e a **Farroupilha** quanto à base social, às reivindicações e ao desfecho. O que a comparação revela?
+
+::: {.callout-tip collapse="true" title="Solução"}
+| | **Cabanagem** (PA, 1835–40) | **Farroupilha** (RS, 1835–45) |
+|---|---|---|
+| **Base social** | indígenas destribalizados, mestiços, negros libertos e escravizados fugidos, ribeirinhos pobres | **estancieiros** e **charqueadores** — a elite econômica da província |
+| **Reivindicações** | participação política, terra, fim do trabalho compulsório, hostilidade a autoridades e comerciantes portugueses | fim da **taxação do charque** gaúcho frente ao charque platino; autonomia provincial; federalismo |
+| **Liderança** | começa com proprietários locais, que abandonam ou traem o movimento quando ele se radicaliza | mantém-se coesa sob **Bento Gonçalves** durante os dez anos |
+| **Duração** | 5 anos | **10 anos** — a mais longa do Brasil |
+| **Desfecho** | **extermínio**: 30 a 40 mil mortos, execuções sumárias e deportações | **negociação**: **Paz de Ponche Verde** (1845), com **anistia** e incorporação dos oficiais ao Exército com suas patentes |
+
+: Duas revoltas simultâneas, dois tratamentos opostos. {#tbl-cabanagem-farroupilha}
+
+**O que a comparação revela.** Ambas ameaçaram a integridade do Império; a Farroupilha, aliás, chegou a **proclamar uma república** e a estendê-la a Santa Catarina, o que é formalmente mais grave que a tomada de Belém. Ainda assim, o Estado imperial **negociou** com os gaúchos e **exterminou** os cabanos.
+
+A explicação não está na gravidade da ameaça, e sim em **quem** ameaçava. Com uma elite proprietária era possível — e desejável — negociar, porque ela partilhava com o centro os interesses fundamentais: propriedade, escravidão e ordem social. Uma revolta de pobres, indígenas e negros colocava em questão essa própria ordem e, por isso, foi tratada como perigo existencial. Note que o mesmo padrão explica o massacre dos **lanceiros negros** em **Porongos** (1844): a paz que anistiou os senhores farrapos não incluiu os escravizados que lutaram por eles em troca de liberdade.
+
+**Conclusão possível:** no Império, o critério de repressão não era o **grau** de contestação, mas a **posição social** de quem contestava.
+:::
+
+**4.** Por que a **Revolta dos Malês** é considerada excepcional na história das rebeliões escravas?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Cinco razões.
+
+1. **Escala e caráter urbano.** Foi a maior revolta de escravizados em **ambiente urbano** das Américas, com cerca de 600 participantes numa capital provincial — diferente da maioria dos levantes, ocorridos em plantações ou associados a fugas para quilombos.
+2. **Organização religiosa e letramento.** Os **malês** eram africanos **muçulmanos** — nagôs e hauçás —, muitos **alfabetizados em árabe**, organizados em torno de mestres religiosos. Usaram amuletos com versículos do Corão e vestes brancas, e escolheram a data com base no calendário islâmico: o fim do **Ramadã**, coincidindo com uma festa católica que reduziria a vigilância.
+3. **Fontes produzidas pelos próprios rebeldes.** Os documentos em árabe apreendidos, somados aos processos judiciais, permitiram a **João José Reis** reconstituir o planejamento **de dentro** [@reis2003] — situação rara, já que a esmagadora maioria das revoltas escravas só é conhecida por relatos dos vencedores.
+4. **Desmonte de um estereótipo.** O caso destrói a imagem, corrente até o século XX, de africanos sem cultura escrita ou organização própria. Tratava-se de gente letrada, com teologia, disciplina e projeto.
+5. **Consequências nacionais.** O pânico que a revolta provocou levou a leis restritivas em várias províncias — proibição de reuniões de africanos, controle da circulação noturna, vigilância sobre o ensino do árabe — e à **deportação** de centenas de libertos para a África. Alimentou também o argumento do "**haitianismo**": o medo de que a alta concentração de africanos produzisse uma revolução como a do Haiti. Esse medo se tornaria peça central do debate sobre o fim do tráfico em 1850 e sobre a **imigração europeia** (@sec-escravidao-abolicao-imigracao).
+:::
+
+**5.** (Estilo ENEM) Leia o texto.
+
+> "Eu também fui liberal; mas então a liberdade era nova no país, estava nos desejos de todos, mas não nas leis, não nas ideias práticas: o poder era tudo; fui liberal. Hoje, porém, é diverso o aspecto da sociedade: os princípios democráticos tudo ganharam e muito comprometeram; a sociedade, que então corria risco pelo poder, corre risco agora pela desorganização e pela anarquia."
+>
+> — Bernardo Pereira de Vasconcelos, discurso parlamentar, década de 1830.
+
+O texto expressa o ideário do movimento conhecido como Regresso, que, na prática, resultou
+
+**(a)** na ampliação da autonomia das províncias por meio do Ato Adicional de 1834.
+**(b)** na restauração de D. Pedro I ao trono brasileiro, defendida pelos caramurus.
+**(c)** na recentralização política, com a Lei Interpretativa de 1840 e a restauração do Conselho de Estado.
+**(d)** na abolição do Poder Moderador e na adoção do sistema parlamentarista de gabinete.
+**(e)** na concessão de anistia geral aos revoltosos e na federalização do Império.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (c).** O texto é a formulação clássica do **Regresso**: Vasconcelos justifica sua mudança de posição argumentando que a ameaça deixou de ser o **excesso de poder** (contra o qual o liberalismo se justificava nos anos 1820) e passou a ser a **anarquia** (contra a qual se justificaria agora a autoridade). Traduzido em política, o programa regressista produziu a **Lei Interpretativa do Ato Adicional** (**1840**), que reduziu os poderes das Assembleias provinciais sobre magistratura e polícia; a **reforma do Código de Processo Criminal** (1841), que retirou atribuições dos juízes de paz eleitos e criou os delegados nomeados; e a **restauração do Conselho de Estado** (1841).
+
+Por que as demais estão erradas: **(a)** o Ato Adicional é de **1834** e representa exatamente o **oposto** — o auge da descentralização liberal que o Regresso veio combater; **(b)** a restauração de D. Pedro I era bandeira dos **caramurus**, grupo distinto, e perdeu sentido com sua morte em 1834; **(d)** o Poder Moderador não foi abolido — ao contrário, voltou a ser exercido plenamente com a maioridade, e o "parlamentarismo" do Segundo Reinado funcionaria subordinado a ele; **(e)** houve anistias pontuais (a Farroupilha, em 1845), mas o Império **não** se federalizou — os presidentes de província continuaram nomeados até 1889.
+
+**Dica de leitura:** quando um político justifica virada ideológica dizendo que "a sociedade mudou", vale sempre perguntar o que mudou **na posição dele** — nesse caso, Vasconcelos passara da oposição ao governo.
+:::
+
+**6.** Explique a criação da **Guarda Nacional** e sua importância de longo prazo.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Contexto e motivo.** Criada em **1831**, logo após a abdicação, a Guarda Nacional nasceu da desconfiança das elites em relação ao **Exército**, que tinha muitos oficiais **portugueses** e acabara de contribuir para a queda de D. Pedro I ao aderir aos manifestantes. A solução foi criar uma **milícia cidadã** paralela, inspirada na *Garde nationale* francesa, subordinada ao Ministério da Justiça, para manter a ordem interna sem depender da tropa profissional.
+
+**Como funcionava.** Serviam os cidadãos com renda suficiente para votar. Os **oficiais** eram inicialmente **eleitos** entre os guardas — e, depois de 1850, **nomeados** — o que na prática significava, nos dois casos, que os postos ficavam com os homens mais ricos de cada localidade: fazendeiros, comerciantes de grosso trato, chefes de família extensa.
+
+**Consequência imediata.** A Guarda foi essencial na repressão às revoltas regenciais e às revoltas posteriores, funcionando como braço armado do Estado no interior, onde o Exército não chegava.
+
+**Consequência de longo prazo — a mais importante.** Ela **legalizou o poder armado privado dos grandes proprietários**. O fazendeiro que já exercia autoridade de fato sobre agregados, dependentes e trabalhadores passou a exercê-la com **patente oficial** do Estado: era agora **coronel** da Guarda Nacional. Como o voto era **descoberto** e a Guarda controlava a segurança local, o coronel passou a controlar também o resultado eleitoral de sua região, trocando proteção e favores por votos.
+
+Está aí a origem direta do **coronelismo**, que sobreviveria à Guarda Nacional (extinta apenas em 1922) e estruturaria a política da **República Velha** — a "política dos governadores" e o "voto de cabresto" (@sec-republica-velha). Trata-se de um bom exemplo de como uma instituição criada para resolver um problema conjuntural (a desconfiança do Exército em 1831) pode moldar a estrutura de poder de um país por um século.
+:::
+
+**7.** (Estilo vestibular — dissertativa) As revoltas regenciais costumam ser apresentadas em bloco, como sintomas de "anarquia". Discuta os limites dessa apresentação.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**O problema do rótulo.** Chamar de "anarquia" o conjunto dos movimentos de 1831–1845 é adotar, sem exame, o **ponto de vista do governo central** — que naturalmente descrevia toda contestação como desordem. O rótulo cumpre uma função política: justifica a **recentralização** do Regresso e apresenta a monarquia como única garantia da unidade nacional. Reproduzi-lo em sala de aula é aceitar essa justificativa como descrição neutra.
+
+**Primeiro limite: as revoltas não são a mesma coisa.** A **Farroupilha** foi conduzida por **estancieiros** contra uma tarifa sobre o charque, com pauta federalista, e terminou em **anistia** com incorporação dos oficiais ao Exército. A **Cabanagem** foi um levante de indígenas, mestiços e negros pobres pela participação política e pelo fim do trabalho compulsório, e terminou em **extermínio**, com 30 a 40 mil mortos. Os **Malês** foram uma revolta **escrava** com organização religiosa islâmica e projeto próprio, encerrada em execuções e **deportações**. A **Sabinada** foi um movimento urbano de profissionais liberais que sequer convocou os escravizados. Agrupá-las sob um rótulo comum apaga exatamente o que há de mais informativo nelas.
+
+**Segundo limite: elas tinham pautas, e não apenas fúria.** Federalismo, autonomia fiscal, fim do recrutamento forçado, acesso à terra, liberdade — são reivindicações políticas identificáveis, formuladas em manifestos, jornais e, no caso dos malês, em documentos escritos em árabe [@reis2003]. **Magda Ricci** mostrou que os cabanos combinavam lealdade ao imperador menino com revolta contra as autoridades locais, numa lógica própria que só parece incoerente se exigirmos deles a gramática política das elites letradas [@ricci2007]. Tratar isso como "anarquia" é **anacronismo**.
+
+**Terceiro limite: o desfecho revela o critério do Estado.** Comparar as respostas — negociação com os gaúchos, extermínio com os cabanos, execução com os malês — mostra que a repressão não era proporcional à ameaça institucional, mas à **posição social** de quem se revoltava.
+
+**Síntese.** A Regência não foi um vazio entre dois reinados: foi o momento em que se **disputaram projetos de país** — centralizado ou federal, monárquico ou republicano, restrito ou ampliado em cidadania. **Ilmar Mattos** mostra o lado vencedor dessa disputa, com a construção deliberada do Estado pelos saquaremas [@mattos1987]; **Dolhnikoff** sugere que o resultado foi menos uma vitória total do centro do que um **pacto** com as elites provinciais [@dolhnikoff2005]. Em qualquer das leituras, "anarquia" descreve mal o que aconteceu.
+:::
+
+**8.** Por que o **Golpe da Maioridade** (1840) é chamado de golpe, e quem tinha interesse nele?
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Por que é golpe.** A **Constituição de 1824** fixava a maioridade do imperador em **18 anos**. Em **23 de julho de 1840**, o Parlamento declarou maior **D. Pedro II**, então com **14 anos** — violando frontalmente o texto constitucional, sem emenda e sem procedimento previsto. Não houve violência, mas houve **ruptura da legalidade** por conveniência política; daí o nome.
+
+**Quem tinha interesse.**
+
+- Os **liberais**, principalmente. Alijados do poder desde a ascensão de **Araújo Lima** (1837) e derrotados pela **Lei Interpretativa** (1840), viram na antecipação da maioridade um atalho: se o novo imperador assumisse imediatamente, poderia dissolver o gabinete conservador e chamá-los ao governo — o que de fato ocorreu logo depois. Para isso organizaram o **Clube da Maioridade**, liderado por figuras como Antônio Carlos de Andrada.
+- As **elites em geral**, por uma razão de fundo mais duradoura: governos regenciais eram vistos como frágeis e disputáveis, e cinco anos de revoltas simultâneas — Cabanagem, Farroupilha, Sabinada, Balaiada — haviam convencido a classe proprietária de que era preciso **restaurar a autoridade simbólica do trono** e, com ela, o **Poder Moderador**, suspenso durante a menoridade.
+
+**O paradoxo do episódio.** Um ato **inconstitucional**, promovido por liberais e aplaudido por quase todos, inaugurou o período de maior **estabilidade institucional** da história do Brasil: 49 anos de Segundo Reinado, com um imperador que se tornaria o símbolo da ordem legal (@sec-segundo-reinado). Isso ilustra bem um ponto recorrente na história política: a legitimidade de um regime depende menos da pureza de sua origem do que da **capacidade de acomodar interesses** de quem tem poder — e, quando esses interesses mudaram, como mudariam nos anos 1880, a mesma monarquia caiu em um dia (@sec-crise-do-imperio).
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- REIS, João José. *Rebelião escrava no Brasil: a história do levante dos malês em 1835* [@reis2003]. Um dos melhores livros de história já escritos no Brasil; leia ao menos os capítulos sobre a organização do levante.
+- MATTOS, Ilmar R. de. *O tempo saquarema* [@mattos1987] e DOLHNIKOFF, Miriam. *O pacto imperial* [@dolhnikoff2005]. As duas leituras opostas do arranjo imperial, lado a lado.
+- REIS, J. J.; SILVA, Eduardo. *Negociação e conflito: a resistência negra no Brasil escravista* [@reisSilva1989]. Curto e decisivo para entender a agência dos escravizados.
+- FAUSTO, Boris. *História do Brasil* [@fausto2015]; SCHWARCZ, L.; STARLING, H. *Brasil: uma biografia* [@schwarczStarling2015]. Sínteses confiáveis para revisão do período.
+
+**Fontes primárias**
+
+- **Ato Adicional** (Lei nº 16, de 12 de agosto de **1834**) e **Lei Interpretativa** (Lei nº 105, de **1840**). Compare os dois textos: em poucos artigos está toda a disputa do período.
+- Discursos de **Bernardo Pereira de Vasconcelos** nos *Anais da Câmara*, disponíveis online — a virada do liberal em conservador registrada por ele mesmo.
+- Documentos em **árabe** apreendidos com os malês (reproduzidos em @reis2003).
+
+**Filmes, documentários e literatura**
+
+- *Anahy de las Misiones* (1997), dir. Sérgio Silva: a Farroupilha vista de baixo, pelo lado dos que seguiam os exércitos.
+- Documentários e materiais do **Museu Paraense Emílio Goeldi** e de universidades amazônicas sobre a **Cabanagem** — a revolta mais letal do país e a menos presente nos livros didáticos, o que é, ele mesmo, um tema de história da memória (@sec-memoria-patrimonio).
