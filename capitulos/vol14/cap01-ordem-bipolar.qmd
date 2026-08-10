@@ -1,5 +1,424 @@
 # A ordem bipolar e o início da Guerra Fria {#sec-ordem-bipolar}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Em 1947, um grupo de físicos de Chicago — vários deles haviam trabalhado na construção da bomba atômica e passariam o resto da vida assombrados por isso — publicou na capa de sua revista o desenho de um relógio marcando sete minutos para a meia-noite. Era o **Relógio do Juízo Final**, e a meia-noite representava a destruição da humanidade por suas próprias mãos. Desde então, o ponteiro avança e recua conforme o mundo se aproxima ou se afasta da catástrofe; nos anos 2020 ele foi ajustado para menos de dois minutos — a posição mais próxima da meia-noite de toda a sua história. Aquele relógio nasceu de uma constatação nova na experiência humana: pela primeira vez, duas potências acumulavam poder de fogo suficiente para encerrar a civilização, e a paz do mundo passava a depender de que nenhuma delas se decidisse a usá-lo. Este capítulo explica como, em pouco mais de dois anos após a derrota de Hitler, os vencedores da maior guerra da história se tornaram inimigos, e como essa inimizade organizou o planeta inteiro por quatro décadas.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- explicar o que foi a **Guerra Fria** e por que esse nome é ao mesmo tempo preciso e enganoso;
+- descrever as **conferências de 1943–1945** (Teerã, Ialta, Potsdam) e a nova ordem internacional que delas resultou;
+- caracterizar a política de **contenção**, a **Doutrina Truman** e o **Plano Marshall**, e as respostas soviéticas (Kominform, Comecon);
+- explicar a divisão da Europa e da **Alemanha**, o **bloqueio de Berlim** e a formação da **OTAN** e do **Pacto de Varsóvia**;
+- entender o **equilíbrio do terror**, a corrida armamentista e a corrida espacial;
+- situar a **Revolução Chinesa de 1949** e a emergência do **Terceiro Mundo** e dos **Não Alinhados**;
+- reconhecer a dimensão **cultural e ideológica** do conflito e o lugar do **Brasil** no alinhamento ocidental;
+- comparar as interpretações **ortodoxa**, **revisionista**, **pós-revisionista** e **global** sobre as origens da Guerra Fria.
 :::
+
+## O que foi a Guerra Fria {#sec-o-que-foi}
+
+::: {.callout-note title="Conceito: Guerra Fria"}
+Chama-se **Guerra Fria** o período de confronto global entre os **Estados Unidos** e a **União Soviética**, e entre os blocos que cada um liderava, aproximadamente entre **1947 e 1991**. O conflito atravessou todas as dimensões possíveis — militar, econômica, diplomática, tecnológica, cultural, esportiva, científica — **exceto** a de um enfrentamento armado direto entre as duas superpotências.
+
+A expressão foi popularizada em 1947 pelo jornalista **Walter Lippmann** e é atribuída, em sua origem, ao escritor **George Orwell**, que em 1945 previra um mundo dividido entre superestados incapazes de se conquistarem e por isso instalados num estado de "paz que não é paz".
+:::
+
+O adjetivo "fria" descreve com exatidão a relação entre Washington e Moscou: soldados americanos e soviéticos nunca se enfrentaram abertamente num campo de batalha. Mas ele é profundamente enganoso se você o estender ao resto do planeta. Na Coreia, no Vietnã, no Afeganistão, em Angola, na Guatemala, na Indonésia e em dezenas de outros países, a Guerra Fria foi **quentíssima**: as estimativas de mortos em conflitos direta ou indiretamente ligados à disputa bipolar entre 1945 e 1991 giram em torno de **vinte milhões de pessoas**, quase todas fora da Europa e da América do Norte.
+
+::: {.callout-important title="A armadilha do nome"}
+"Guerra Fria" é um nome escrito do **ponto de vista do Norte**. Para um europeu ocidental ou norte-americano, o período foi de prosperidade, estabilidade e ausência de guerra — o que os franceses chamaram de *Trente Glorieuses*, os "trinta anos gloriosos". Para um camponês vietnamita, um guerrilheiro angolano ou um preso político chileno, foi um dos períodos mais violentos de sua história.
+
+Guarde essa dupla face: ela é a chave de leitura de todo este volume, e é exatamente o que o historiador **Odd Arne Westad** quis corrigir ao propor que se estude a "**Guerra Fria global**" em vez de uma disputa europeia com apêndices [@westad2005].
+:::
+
+## Da aliança à ruptura: 1943–1947 {#sec-da-alianca-a-ruptura}
+
+Os Estados Unidos e a União Soviética foram **aliados** contra o nazismo (@sec-segunda-guerra-mundial). Nada nessa aliança era natural: desde 1917, o mundo capitalista via na URSS a negação da propriedade privada, e a URSS via no Ocidente os países que haviam invadido seu território durante a guerra civil e depois pactuado com Hitler em Munique. A aliança foi de circunstância — e desmanchou-se assim que a circunstância desapareceu.
+
+As três conferências dos "Três Grandes" mostram a passagem da cooperação à desconfiança:
+
+- **Teerã** (novembro–dezembro de 1943): Roosevelt, Churchill e Stálin acertam a abertura de uma **segunda frente** no oeste europeu, exigida havia dois anos por Moscou, que sozinha suportava o grosso do esforço militar contra a Alemanha.
+- **Ialta** (fevereiro de 1945): com a vitória à vista, define-se a ocupação da Alemanha em **quatro zonas**, a criação da **ONU**, a entrada soviética na guerra contra o Japão e — o ponto decisivo — a promessa de "eleições livres" na Europa oriental libertada pelo **Exército Vermelho**. A ambiguidade dessa promessa seria a semente do conflito.
+- **Potsdam** (julho–agosto de 1945): o cenário mudou. Roosevelt morrera; seu sucessor **Harry Truman** é anticomunista convicto e recebe, durante a conferência, a notícia do teste bem-sucedido da **bomba atômica**. Churchill é substituído no meio dos trabalhos pelo trabalhista Clement Attlee. A desconfiança já é explícita.
+
+::: {.callout-tip title="Por que Ialta importa tanto nas provas"}
+Ialta costuma ser cobrada como "a conferência que dividiu o mundo". A formulação é cômoda, mas imprecisa, e vale entender a nuance: em Ialta **não** se desenhou um mapa de zonas de influência permanentes. O que houve foi o reconhecimento de uma situação **militar** já existente — o Exército Vermelho ocupava a Europa oriental, os anglo-americanos ocupavam a ocidental — acompanhado de compromissos vagos sobre democracia que cada lado interpretou a seu favor.
+
+A frase precisa é: **Ialta não dividiu a Europa; ela registrou uma divisão que os exércitos já haviam feito no terreno** — e deixou por resolver o que fazer com ela.
+:::
+
+Entre 1945 e 1947, a desconfiança virou ruptura. Nos países ocupados pelo Exército Vermelho — Polônia, Romênia, Bulgária, Hungria, Tchecoslováquia, Alemanha oriental —, coalizões iniciais deram lugar a governos comunistas por um método que a historiadora **Anne Applebaum** descreveu em detalhe: controle do Ministério do Interior e da polícia, da rádio e dos sindicatos; fusão forçada dos partidos socialistas ao partido comunista; eleições cada vez menos competitivas [@applebaum2017]. Do outro lado, os Estados Unidos, que haviam saído da guerra com **metade do PIB mundial**, o território intacto e o monopólio atômico, abandonaram definitivamente o isolacionismo.
+
+Em março de 1946, num discurso em Fulton, Missouri, **Winston Churchill** batizou a nova geografia: "De Stettin, no Báltico, a Trieste, no Adriático, uma **cortina de ferro** desceu sobre o continente" [@churchill1946].
+
+## Contenção, Truman e Marshall {#sec-contencao}
+
+A doutrina que orientaria a política externa americana por quatro décadas foi formulada por um diplomata em Moscou. Em 1946, **George Kennan** enviou a Washington o "**Longo Telegrama**", e no ano seguinte publicou-o em versão anônima: a URSS, argumentava, era expansionista não por planos de conquista imediata, mas por necessidade interna de um inimigo externo; não podia ser derrotada nem persuadida, apenas **contida** com "firmeza vigilante e paciente" até que o próprio sistema soviético cedesse por dentro [@kennan1947]. Chamou-se a isso **contenção** (*containment*).
+
+Em **12 de março de 1947**, diante da guerra civil na Grécia e das pressões soviéticas sobre a Turquia, Truman levou a doutrina ao Congresso: "Creio que deve ser política dos Estados Unidos apoiar os povos livres que resistem a tentativas de subjugação por minorias armadas ou por pressões externas" [@truman1947]. A **Doutrina Truman** dividia o mundo em dois modos de vida e comprometia os EUA a sustentar, em qualquer lugar, o lado anticomunista — inclusive quando esse lado não fosse democrático, o que teria enormes consequências na América Latina (@sec-america-latina-ditaduras).
+
+Três meses depois, em Harvard, o secretário de Estado **George Marshall** anunciou a face econômica da mesma política: o **Programa de Recuperação Europeia**, ou **Plano Marshall** [@marshall1947]. Entre 1948 e 1952, cerca de **13 bilhões de dólares** — algo próximo de 150 bilhões em valores atuais — foram transferidos a dezesseis países da Europa ocidental.
+
+::: {.callout-note title="Por que os EUA deram tanto dinheiro?"}
+Não por caridade, e é importante entender a lógica, porque ela explica o século XX ocidental inteiro. O Plano Marshall atendia simultaneamente a quatro objetivos:
+
+1. **Econômico:** a Europa arruinada não podia comprar produtos americanos; sem mercados, os EUA temiam uma recessão como a de 1929 (@sec-crise-de-1929-entreguerras).
+2. **Político:** os partidos comunistas francês e italiano eram os maiores da Europa ocidental, com prestígio ganho na Resistência. Miséria era o melhor cabo eleitoral deles.
+3. **Estratégico:** uma Europa ocidental próspera seria uma barreira à expansão soviética — e um aliado militar solvente.
+4. **Alemão:** reconstruir a Alemanha ocidental sem reconstruir uma ameaça, integrando-a a uma economia europeia interdependente.
+
+A URSS foi formalmente convidada, e recusou — exigindo que os países sob sua influência recusassem também, o que a Tchecoslováquia tentou não fazer, com consequências imediatas. Aceitar implicaria abrir a contabilidade nacional aos americanos e aderir a uma economia de mercado integrada.
+:::
+
+A resposta de Moscou veio em duas instituições: o **Kominform** (1947), escritório de coordenação política dos partidos comunistas, e o **Comecon** (1949), organismo de integração econômica do bloco socialista. O mundo tinha agora dois sistemas econômicos concorrentes com suas próprias regras, moedas e circuitos de comércio.
+
+::: {#fig-blocos-guerra-fria}
+
+```{.tikz}
+%%| filename: fig-blocos-guerra-fria
+%%| alt: Diagrama comparativo dos dois blocos da Guerra Fria, com suas instituições militares, econômicas e políticas.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \node[draw, very thick, rounded corners, fill=manualblue!18, align=center, text width=6.2cm, text=manualblue] (o) at (-4.1,3.4)
+    {\textbf{BLOCO OCIDENTAL} --- liderança dos \textbf{EUA}\\ capitalismo $\cdot$ democracia liberal (com exceções)};
+  \node[draw, very thick, rounded corners, fill=manualred!18, align=center, text width=6.2cm, text=manualred] (s) at (4.1,3.4)
+    {\textbf{BLOCO SOCIALISTA} --- liderança da \textbf{URSS}\\ economia planificada $\cdot$ partido único};
+
+  \node[draw, thick, rounded corners, fill=manualblue!10, align=left, text width=6.2cm] (o1) at (-4.1,1.5)
+    {\textbf{Militar:} \textbf{OTAN} (1949)\\ \textbf{Econômico:} \textbf{Plano Marshall} (1947--52)\\ Bretton Woods: FMI, Bird, dólar-ouro\\ \textbf{Político:} Doutrina Truman (1947)};
+  \node[draw, thick, rounded corners, fill=manualred!10, align=left, text width=6.2cm] (s1) at (4.1,1.5)
+    {\textbf{Militar:} \textbf{Pacto de Varsóvia} (1955)\\ \textbf{Econômico:} \textbf{Comecon} (1949)\\ planos quinquenais, comércio interno ao bloco\\ \textbf{Político:} \textbf{Kominform} (1947)};
+
+  \node[draw, thick, rounded corners, fill=manualgray!14, align=center, text width=3.3cm] (a) at (-4.1,-0.6)
+    {\textbf{Alemanha Ocidental}\\ \textbf{RFA} (1949)\\ capital: Bonn};
+  \node[draw, thick, rounded corners, fill=manualgray!14, align=center, text width=3.3cm] (b) at (4.1,-0.6)
+    {\textbf{Alemanha Oriental}\\ \textbf{RDA} (1949)\\ capital: Berlim Leste};
+
+  \draw[very thick, manualgray, dashed] (0,-2.3) -- (0,4.6);
+  \node[rotate=90, text=manualgray, font=\footnotesize\bfseries] at (-0.35,1.2) {CORTINA DE FERRO};
+
+  \draw[vetor, thick, manualblue] (o) -- (o1); \draw[vetor, thick, manualblue] (o1) -- (a);
+  \draw[vetor, thick, manualred] (s) -- (s1); \draw[vetor, thick, manualred] (s1) -- (b);
+
+  \node[draw, dashed, rounded corners, fill=manualgreen!14, align=center, text width=13.2cm] at (0,-3.3)
+    {\textbf{E o resto do mundo?} A maioria da humanidade não estava em nenhum dos dois blocos. Em \textbf{Bandung} (1955) e em \textbf{Belgrado} (1961),\\ países recém-descolonizados formularam o \textbf{não alinhamento} --- que não era neutralidade, mas recusa de escolher entre os dois campos.};
+\end{tikzpicture}
+```
+
+Os dois blocos e suas instituições — e o que não cabia em nenhum deles.
+:::
+
+## Berlim, a Alemanha e a militarização da divisão {#sec-berlim}
+
+A Alemanha derrotada foi ocupada em quatro zonas (americana, britânica, francesa e soviética), e **Berlim**, situada bem no interior da zona soviética, foi por sua vez repartida em quatro setores. Essa geografia esquisita — uma ilha ocidental dentro do território controlado por Moscou — transformou a cidade no ponto mais perigoso do planeta por quatro décadas.
+
+Os eventos se encadeiam rapidamente:
+
+- **fevereiro de 1948** — o **golpe de Praga** instala um governo comunista na Tchecoslováquia, único país da região que ainda mantinha democracia parlamentar. O impacto na opinião pública ocidental foi enorme: era a prova, aos olhos do Ocidente, de que a contenção era necessária.
+- **junho de 1948** — as potências ocidentais unificam suas zonas e criam uma nova moeda, o marco alemão. Stálin responde com o **bloqueio de Berlim**: fecham-se estradas, ferrovias e canais para os setores ocidentais da cidade, deixando dois milhões de pessoas sem abastecimento.
+- **1948–49** — em vez de forçar a passagem por terra (o que significaria guerra), os EUA e o Reino Unido organizam a **ponte aérea de Berlim**: durante onze meses, aviões pousaram a cada poucos minutos, dia e noite, transportando cerca de 2,3 milhões de toneladas de carvão, farinha e remédios. Em maio de 1949, Stálin suspendeu o bloqueio.
+- **1949** — nascem os **dois Estados alemães**: a **República Federal da Alemanha** (RFA), a oeste, e a **República Democrática Alemã** (RDA), a leste. E cria-se a **OTAN** (Organização do Tratado do Atlântico Norte), aliança militar cujo artigo 5º estabelece que um ataque a um membro é ataque a todos [@tratadoAtlanticoNorte1949].
+- **1955** — a entrada da RFA na OTAN leva Moscou a formalizar sua própria aliança militar, o **Pacto de Varsóvia**.
+- **1961** — diante da fuga contínua de trabalhadores qualificados pela única fronteira aberta do bloco (cerca de 2,7 milhões de pessoas deixaram a RDA entre 1949 e 1961), o governo da Alemanha oriental ergue, na noite de 13 de agosto, o **Muro de Berlim**. Oficialmente chamado de "muralha de proteção antifascista", ele existia, na prática, para impedir a saída dos próprios cidadãos — e foi por isso que se tornou o símbolo mundial do fracasso moral do bloco soviético.
+
+::: {.callout-important title="Dois anos que você não pode confundir"}
+- **1948–49**: bloqueio de Berlim e ponte aérea. A cidade está dividida, mas ainda **circula-se** entre os setores.
+- **1961**: construção do **Muro**, que impede fisicamente a circulação. São treze anos de distância, e as causas são diferentes: em 1948, Stálin queria expulsar os ocidentais de Berlim; em 1961, a RDA queria reter sua própria população.
+:::
+
+## O equilíbrio do terror {#sec-equilibrio-do-terror}
+
+O monopólio atômico americano durou quatro anos: em **1949**, a URSS testou sua primeira bomba. Seguiu-se uma escalada vertiginosa — bomba de **hidrogênio** americana em 1952, soviética em 1953; **mísseis balísticos intercontinentais** a partir de 1957; submarinos nucleares; ogivas contadas às dezenas de milhares.
+
+Dessa escalada emergiu um paradoxo que definiu a época: a **destruição mútua assegurada** (em inglês, *Mutual Assured Destruction*, cuja sigla, **MAD**, significa "louco"). Se cada lado tem capacidade de aniquilar o outro **mesmo depois** de ser atacado primeiro, então nenhum ataque compensa. A arma mais destrutiva já criada tornou-se, por essa lógica perversa, um instrumento de dissuasão — e é o principal argumento dos que chamam o período de "**Longa Paz**".
+
+::: {.callout-warning title="A \"Longa Paz\" é uma tese, não um fato"}
+**John Lewis Gaddis** popularizou a expressão "Longa Paz" para descrever a ausência de guerra entre grandes potências entre 1945 e 1991 — a mais longa da história moderna — e atribuiu-a em boa medida à dissuasão nuclear e à estabilidade bipolar [@gaddis2006].
+
+A tese é contestada em dois pontos. **Primeiro**, ela mede a paz onde ela existiu: não houve guerra na Europa, mas houve guerra permanente na Ásia, na África e na América Latina, com dezenas de milhões de mortos. **Segundo**, ela pode confundir sorte com sistema: os arquivos abertos após 1991 revelaram vários episódios em que o mundo escapou de uma guerra nuclear por decisão individual de oficiais de baixa patente ou por falha de equipamento — o caso do submarino soviético B-59, em 1962, e o do falso alarme detectado por **Stanislav Petrov**, em 1983, são os mais conhecidos. Um sistema que depende de que ninguém erre não é um sistema estável; é um sistema que ainda não falhou.
+:::
+
+**A corrida espacial** foi o rosto público e prestigioso da corrida armamentista — os mesmos foguetes que colocavam satélites em órbita podiam entregar ogivas. A URSS abriu larga vantagem: o **Sputnik** (outubro de 1957), primeiro satélite artificial, provocou verdadeiro pânico nos EUA e a criação da NASA; a cadela Laika (1957); **Iúri Gagárin**, primeiro ser humano no espaço (abril de 1961); **Valentina Tereshkova**, primeira mulher (1963). Os EUA responderam com o programa Apollo e a chegada à Lua em **julho de 1969**, encerrando a competição com uma vitória simbólica decisiva.
+
+::: {#fig-cronologia-guerra-fria}
+
+```{.tikz}
+%%| filename: fig-cronologia-guerra-fria
+%%| alt: Linha do tempo da Guerra Fria de 1945 a 1991, com as fases de formação dos blocos, coexistência pacífica, distensão e crise final.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \fill[manualred!14, rounded corners] (0.3,-1.5) rectangle (4.6,-0.55);
+  \node[text=manualred, font=\scriptsize\bfseries] at (2.45,-1.02) {formação dos blocos};
+  \fill[manualyellow!22, rounded corners] (4.8,-1.5) rectangle (9.0,-0.55);
+  \node[text=manualyellow!55!black, font=\scriptsize\bfseries] at (6.9,-1.02) {coexistência e crises};
+  \fill[manualgreen!16, rounded corners] (9.2,-1.5) rectangle (12.0,-0.55);
+  \node[text=manualgreen!45!black, font=\scriptsize\bfseries] at (10.6,-1.02) {distensão};
+  \fill[manualblue!16, rounded corners] (12.2,-1.5) rectangle (14.4,-0.55);
+  \node[text=manualblue, font=\scriptsize\bfseries] at (13.3,-1.02) {crise e fim};
+
+  \draw[eixo] (0,0) -- (14.6,0);
+  \node[eixo, gray] at (14.6,-0.42) {tempo (fora de escala)};
+
+  \node[ponto] at (0.7,0) {};
+  \node[below, align=center] at (0.7,-0.18) {\textbf{1945}};
+  \node[above, align=center, text=manualgray!35!black] at (0.7,0.2) {Ialta e Potsdam\\ ONU $\cdot$ bomba};
+
+  \node[ponto] at (2.4,0) {};
+  \node[below, align=center] at (2.4,-0.18) {\textbf{1947}};
+  \node[above, align=center, text=manualred] at (2.4,0.2) {\textbf{Doutrina}\\ \textbf{Truman}\\ Marshall\\ Kominform};
+
+  \node[ponto] at (4.2,0) {};
+  \node[below, align=center] at (4.2,-0.18) {\textbf{1948--49}};
+  \node[above, align=center, text=manualblue] at (4.2,0.2) {Berlim\\ \textbf{OTAN}\\ RFA e RDA\\ China e bomba\\ soviética};
+
+  \node[ponto] at (6.0,0) {};
+  \node[below, align=center] at (6.0,-0.18) {\textbf{1950--53}};
+  \node[above, align=center, text=manualred] at (6.0,0.2) {\textbf{Guerra da}\\ \textbf{Coreia}};
+
+  \node[ponto] at (7.6,0) {};
+  \node[below, align=center] at (7.6,-0.18) {\textbf{1955--61}};
+  \node[above, align=center, text=manualgreen!45!black] at (7.6,0.2) {Varsóvia\\ \textbf{Bandung}\\ Sputnik\\ \textbf{Muro}};
+
+  \node[ponto] at (9.1,0) {};
+  \node[below, align=center] at (9.1,-0.18) {\textbf{1962}};
+  \node[above, align=center, text=manualred] at (9.1,0.2) {\textbf{Crise dos}\\ \textbf{Mísseis}};
+
+  \node[ponto] at (10.7,0) {};
+  \node[below, align=center] at (10.7,-0.18) {\textbf{1965--75}};
+  \node[above, align=center, text=manualyellow!55!black] at (10.7,0.2) {\textbf{Vietnã}\\ SALT I (1972)\\ Helsinque (1975)};
+
+  \node[ponto] at (12.4,0) {};
+  \node[below, align=center] at (12.4,-0.18) {\textbf{1979--85}};
+  \node[above, align=center, text=manualblue] at (12.4,0.2) {\textbf{Afeganistão}\\ ``2ª Guerra Fria''\\ Reagan};
+
+  \node[ponto] at (14.0,0) {};
+  \node[below, align=center] at (14.0,-0.18) {\textbf{1989--91}};
+  \node[above, align=center, text=manualgreen!45!black] at (14.0,0.2) {\textbf{queda do Muro}\\ \textbf{fim da URSS}};
+\end{tikzpicture}
+```
+
+As quatro fases da Guerra Fria, de Ialta ao fim da URSS.
+:::
+
+## O conflito sai da Europa {#sec-conflito-global}
+
+**1949 foi o ano que mudou a escala do conflito.** Além da bomba soviética e da criação da OTAN, houve a **Revolução Chinesa**: depois de mais de duas décadas de guerra civil interrompida pela invasão japonesa, o Exército Popular de Libertação comandado por **Mao Tsé-Tung** derrotou os nacionalistas de **Chiang Kai-shek**, que se refugiaram em Taiwan. Em 1º de outubro, Mao proclamou em Pequim a **República Popular da China**.
+
+O significado é difícil de exagerar: o país mais populoso do mundo — cerca de 540 milhões de pessoas — passava ao campo socialista, e por uma revolução **camponesa**, não operária, o que era uma heterodoxia doutrinária de peso. Para Washington, foi o trauma da "perda da China", que alimentou a caça a supostos traidores no Departamento de Estado. E a aliança sino-soviética, selada em 1950, duraria menos de uma década: em 1960, o **rompimento sino-soviético** dividiu o comunismo mundial em dois polos rivais, tornando o mapa muito mais complicado do que "dois blocos".
+
+**A morte de Stálin (1953) e a coexistência pacífica.** Em 1956, no XX Congresso do PCUS, **Nikita Khruschev** leu a portas fechadas um relatório denunciando os crimes, o culto à personalidade e as purgas do período stalinista [@khruschev1956]. O "**Discurso Secreto**" vazou em semanas e abalou os partidos comunistas do mundo inteiro. Khruschev propôs a **coexistência pacífica**: a competição entre os sistemas continuaria, mas por meios econômicos e culturais, não militares. Na prática, a coexistência conviveu com repressão dura dentro do bloco — a revolta de **Budapeste** foi esmagada por tanques soviéticos em 1956, e a **Primavera de Praga** teria o mesmo destino em 1968.
+
+**A Guerra Fria cultural.** O confronto invadiu domínios que hoje parecem improváveis: exposições de arte, orquestras em turnê, campeonatos de xadrez, medalhas olímpicas, revistas literárias financiadas em segredo pela CIA, cinema, jazz e rock. Cada lado precisava provar que oferecia não apenas mais poder, mas **vida melhor** — daí o célebre "debate da cozinha" entre Khruschev e o vice-presidente Nixon, em 1959, travado diante de uma cozinha americana modelo. Nos EUA, o clima produziu o **macarthismo** (1950–54): sob a liderança do senador Joseph McCarthy, listas negras, interrogatórios e demissões atingiram funcionários públicos, professores, sindicalistas e artistas de Hollywood, num episódio hoje reconhecido como grave violação de liberdades civis pela própria historiografia americana.
+
+**E o Brasil?** O alinhamento foi rápido e explícito. Em 1947, o governo **Dutra** rompeu relações diplomáticas com a URSS, cassou o registro do **PCB** — que elegera catorze deputados e o senador Luís Carlos Prestes no ano anterior — e interveio em sindicatos (@sec-republica-de-1946). O Brasil assinou o **TIAR** (Tratado Interamericano de Assistência Recíproca, Rio de Janeiro, 1947), pedra angular da defesa hemisférica, e participou da fundação da **OEA** (1948). A **Escola Superior de Guerra**, criada em 1949 nos moldes do *National War College* americano, formulou a **Doutrina de Segurança Nacional**, que redefinia o inimigo como **interno** — e essa doutrina seria o esteio ideológico do golpe de 1964 (@sec-ditadura-militar). A Guerra Fria, em outras palavras, não foi para o Brasil um assunto de política externa: foi um fator estruturante da política interna.
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+Poucos temas da história contemporânea foram tão disputados quanto a pergunta **"quem começou a Guerra Fria?"** — e o próprio percurso desse debate é um caso exemplar de como a historiografia funciona, porque cada virada interpretativa acompanhou uma mudança de contexto político ou de acesso às fontes.
+
+**1. A interpretação ortodoxa (anos 1940–60).** Formulada nos Estados Unidos durante o auge do conflito, atribui a responsabilidade à **URSS**: o expansionismo soviético na Europa oriental, movido pela ideologia da revolução mundial, teria obrigado um Ocidente relutante a reagir. **Arthur Schlesinger Jr.**, historiador e assessor de Kennedy, deu-lhe a formulação clássica, insistindo que o sistema soviético, fechado e paranoico, tornava impossível qualquer acomodação duradoura [@schlesinger1967]. Note o contexto de produção: escreve-se dentro do conflito, com arquivos soviéticos inacessíveis e arquivos americanos ainda fechados.
+
+**2. A interpretação revisionista (anos 1960–70).** Nascida com a Guerra do Vietnã e o descrédito da política externa americana, inverte o eixo. **William Appleman Williams** argumentou que a política externa dos EUA obedecia, desde o século XIX, a uma lógica de "porta aberta": garantir mercados e acesso a matérias-primas para uma economia que precisava exportar. Nessa leitura, o problema não era a URSS, mas a incompatibilidade entre qualquer economia fechada e a necessidade estrutural americana de expansão comercial [@williamsAppleman1988]. A URSS, devastada pela guerra e com 27 milhões de mortos, agiria **defensivamente**, buscando um cinturão de segurança contra uma terceira invasão vinda do Ocidente em trinta anos.
+
+**3. A interpretação pós-revisionista (anos 1970–80).** Busca a síntese e desloca a pergunta. Para **John Lewis Gaddis** em sua fase inicial, não houve um culpado, mas um **dilema de segurança**: cada potência tomou medidas que considerava defensivas e que a outra leu como ofensivas, numa espiral que ninguém planejou. O Plano Marshall é o exemplo perfeito — genuinamente reconstrutor para os americanos, inequivocamente ameaçador para Moscou.
+
+**4. A virada dos arquivos (a partir de 1991).** A abertura parcial dos arquivos soviéticos e do Leste Europeu recolocou o peso sobre a **agência de Stálin** e sobre o papel da **ideologia** nas decisões de Moscou — o Gaddis dos anos 1990 e 2000 é bem mais próximo da posição ortodoxa que o dos anos 1970, e ele próprio explicou a mudança pelas novas fontes. **Melvyn Leffler**, por outro lado, usou os mesmos arquivos para sustentar que os dois lados tiveram oportunidades reais de reduzir o conflito e as perderam, por medo, cálculo e inércia burocrática [@leffler2008]. Aqui você vê um princípio geral em ação: **fontes novas não encerram debates automaticamente** — elas fornecem munição para todos os lados, e o que muda é a qualidade dos argumentos exigidos.
+
+**5. A crítica global (a partir dos anos 2000).** A revisão mais consequente das últimas décadas não responde à pergunta original — ela a **recusa**. **Odd Arne Westad** argumenta que perguntar quem começou o conflito na Europa é reproduzir uma visão eurocêntrica de um fenômeno que foi vivido, sobretudo, fora da Europa. Para a maior parte da humanidade, a Guerra Fria não foi uma paz tensa: foi intervenção, guerra civil, golpe e ditadura. Westad propõe entendê-la como a continuação, sob nova roupagem ideológica, dos projetos de **modernização** que Europa e América do Norte vinham impondo ao mundo desde o século XIX (@sec-imperialismo): dois projetos rivais de modernidade — o liberal e o socialista — disputando quem organizaria as sociedades recém-saídas do colonialismo [@westad2005; @westad2020]. Além disso, essa abordagem devolve **agência** aos atores do Sul: Nasser, Nehru, Castro, Nkrumah e Tito não foram peões, e frequentemente manipularam a rivalidade das superpotências em favor de projetos próprios.
+
+**Como usar isso numa prova.** Ninguém espera que você escolha um lado. Espera-se que você saiba: (i) que existe um debate; (ii) que cada posição corresponde a um **momento** e a um **acervo de fontes**; e (iii) que a formulação mais defensável hoje combina o dilema de segurança na Europa com o reconhecimento de que, no resto do mundo, o conflito foi decidido por interesses de potência e violência concreta.
+
+## Resumo do capítulo {#sec-resumo}
+
+- **Guerra Fria** (c. **1947–1991**): confronto global entre **EUA** e **URSS** em todos os planos — militar, econômico, ideológico, cultural, científico — **exceto** o enfrentamento armado direto entre as duas superpotências. Nome preciso para a Europa e enganoso para o resto do mundo, onde houve cerca de **20 milhões de mortos** em conflitos ligados à disputa.
+- **Conferências:** **Teerã** (1943, segunda frente); **Ialta** (fev. 1945, ocupação da Alemanha em quatro zonas, ONU, promessa de eleições livres no Leste); **Potsdam** (jul.–ago. 1945, já sob Truman e com a bomba testada). Ialta **registrou** uma divisão feita pelos exércitos; não a criou.
+- **Contenção:** formulada por **George Kennan** (Longo Telegrama, 1946; artigo "X", 1947). **Doutrina Truman** (12/3/1947): apoio a "povos livres" contra o comunismo, inclusive a ditaduras anticomunistas. **Plano Marshall** (1947–52): ~13 bilhões de dólares a 16 países, por razões econômicas, políticas, estratégicas e alemãs. Respostas soviéticas: **Kominform** (1947) e **Comecon** (1949).
+- **Cortina de ferro**: expressão de **Churchill** em Fulton (março de 1946). **Golpe de Praga** (1948). **Bloqueio de Berlim** (1948–49) e **ponte aérea**. **RFA e RDA** (1949). **OTAN** (1949) e **Pacto de Varsóvia** (1955). **Muro de Berlim** (13/8/1961), erguido para conter a saída da população da RDA.
+- **Equilíbrio do terror:** bomba soviética em **1949**; bomba H em 1952–53; ICBMs a partir de 1957; **MAD** (destruição mútua assegurada). **Corrida espacial**: **Sputnik** (1957), **Gagárin** (1961), **Tereshkova** (1963), **Apollo 11** (1969).
+- **Globalização do conflito:** **Revolução Chinesa** (1º/10/1949, Mao; Chiang Kai-shek em Taiwan) e o **rompimento sino-soviético** (1960). **Discurso Secreto de Khruschev** (1956) e **coexistência pacífica**, contemporânea da repressão a **Budapeste** (1956) e a **Praga** (1968).
+- **Guerra Fria cultural:** propaganda, esporte, cinema, arte e ciência como campos de disputa; **macarthismo** nos EUA (1950–54).
+- **Brasil:** rompimento com a URSS e cassação do **PCB** (1947); **TIAR** (1947) e **OEA** (1948); criação da **ESG** (1949) e a **Doutrina de Segurança Nacional**, que definia o inimigo como **interno** e forneceu a moldura ideológica de 1964.
+- **Historiografia:** **ortodoxa** (culpa soviética — Schlesinger), **revisionista** (expansionismo econômico americano — Williams), **pós-revisionista** (dilema de segurança — Gaddis inicial), **virada dos arquivos** (peso da ideologia e de Stálin; Leffler e o Gaddis tardio) e **crítica global** (Westad: recusar a pergunta eurocêntrica e devolver agência ao Sul).
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Domine: (1) por que a aliança de guerra se desfez; (2) a lógica da contenção e as quatro razões do Plano Marshall; (3) a diferença entre 1948–49 e 1961 em Berlim; (4) o paradoxo do equilíbrio do terror; (5) por que 1949 é o ano-chave; (6) o lugar do Brasil no alinhamento; (7) as quatro correntes historiográficas e o que cada uma responde.
+:::
+
+**1.** Explique por que a aliança entre EUA e URSS se desfez tão rapidamente depois de 1945.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**A aliança era circunstancial.** EUA e URSS uniram-se contra um inimigo comum, não em torno de um projeto comum. Desde 1917, os dois sistemas se consideravam mutuamente incompatíveis: para Washington, a URSS negava a propriedade privada e pregava a revolução mundial; para Moscou, os países ocidentais eram os mesmos que haviam intervindo militarmente na guerra civil russa e, em Munique (1938), preferido Hitler a uma aliança com a URSS.
+
+**As causas imediatas da ruptura.**
+
+1. **A interpretação divergente de Ialta.** "Eleições livres" na Europa oriental significava, para os EUA, governos escolhidos pelo voto; para Stálin, governos **amigos**, que não permitissem que o território voltasse a servir de corredor de invasão. As duas leituras eram incompatíveis, e ambas tinham base no texto vago do acordo.
+2. **A assimetria de poder e de perdas.** Os EUA terminaram a guerra com o território intacto, metade do PIB mundial e o monopólio atômico. A URSS terminou com cerca de **27 milhões de mortos** e a parte europeia devastada. Um lado buscava organizar um sistema mundial aberto; o outro, um cinturão de segurança.
+3. **A bomba atômica.** Usada em agosto de 1945, ela alterou o cálculo estratégico e reforçou em Moscou a convicção de que só a própria bomba garantiria segurança.
+4. **A sovietização do Leste.** Entre 1945 e 1948, os governos de coalizão da Europa oriental foram convertidos em regimes de partido único pelo controle da polícia, da imprensa e das eleições [@applebaum2017]. O **golpe de Praga** (1948) foi o ponto em que a opinião pública ocidental se convenceu.
+5. **A reação americana.** Longo Telegrama de Kennan (1946), discurso de Fulton (1946), Doutrina Truman e Plano Marshall (1947).
+
+**A formulação madura.** Trata-se, para muitos historiadores, de um **dilema de segurança**: cada lado tomou medidas defensivas segundo sua própria percepção, que o outro leu como agressão, gerando uma espiral. O Plano Marshall é o exemplo canônico — reconstrução para os americanos, cerco econômico para os soviéticos. Isso **não** significa que os dois lados sejam equivalentes em tudo: a supressão de liberdades no Leste Europeu foi de outra ordem que a política externa americana na Europa ocidental. Significa apenas que a explicação melhor não é a de um plano deliberado de um agressor único.
+:::
+
+**2.** O que foi a política de **contenção**? Relacione a Doutrina Truman e o Plano Marshall.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**A contenção.** Formulada por **George Kennan** no Longo Telegrama (1946) e no artigo assinado como "X" (1947), parte de um diagnóstico: a URSS é expansionista por **necessidade interna** — o regime precisa de um cerco externo para justificar seu controle —, e não por um cronograma de conquistas. Consequência prática: não adianta negociar (não há concessão que satisfaça) nem atacar (custo inaceitável). A estratégia deve ser **conter** a expansão soviética onde ela se apresentar, com "firmeza vigilante e paciente", até que as contradições internas do sistema soviético o façam ceder [@kennan1947]. É uma aposta de longo prazo — e, cerca de quarenta anos depois, foi essencialmente o que aconteceu (@sec-crise-do-socialismo-real).
+
+**A Doutrina Truman (12 de março de 1947)** é a face **político-militar** da contenção. Diante da guerra civil grega e da pressão sobre a Turquia, Truman comprometeu os EUA a apoiar "povos livres que resistem a tentativas de subjugação". Duas consequências decisivas: (i) o fim definitivo do isolacionismo americano; (ii) a definição do anticomunismo como critério de aliança — o que, na prática, levou os EUA a sustentar regimes autoritários por todo o Terceiro Mundo, sobretudo na América Latina (@sec-america-latina-ditaduras).
+
+**O Plano Marshall (junho de 1947)** é a face **econômica** da mesma política, e sua lógica tem quatro camadas:
+
+1. **econômica** — sem uma Europa capaz de comprar, os EUA temiam nova depressão;
+2. **política** — os partidos comunistas da França e da Itália eram fortíssimos, e a miséria era seu maior trunfo eleitoral; prosperidade era antídoto;
+3. **estratégica** — uma Europa ocidental próspera funcionaria como barreira e como aliada solvente;
+4. **alemã** — reconstruir a economia alemã ocidental integrando-a a uma teia de interdependência europeia, de modo que ela não pudesse voltar a ser ameaça isolada.
+
+**A relação entre as duas.** São a mesma estratégia com instrumentos diferentes: onde a Doutrina Truman promete armas e apoio político, o Plano Marshall entrega dólares e mercadorias. O raciocínio de fundo é que o comunismo avança onde há miséria e colapso institucional; logo, reconstruir é conter.
+
+**As respostas soviéticas.** **Kominform** (1947), para disciplinar politicamente os partidos comunistas, e **Comecon** (1949), para integrar economicamente o bloco. A recusa soviética ao convite formal do Plano Marshall — estendida aos países sob sua influência — consolidou a divisão econômica da Europa.
+:::
+
+**3.** Descreva a divisão da Alemanha e explique a diferença entre o **bloqueio de Berlim** (1948–49) e a construção do **Muro** (1961).
+
+::: {.callout-tip collapse="true" title="Solução"}
+**A divisão.** Em Ialta e Potsdam, a Alemanha derrotada foi dividida em **quatro zonas de ocupação** (EUA, Reino Unido, França e URSS). **Berlim**, embora inteiramente situada dentro da zona soviética, foi igualmente repartida em quatro setores — criando uma ilha ocidental a mais de 150 km da fronteira do bloco ocidental. Essa anomalia geográfica é a origem de todas as crises seguintes.
+
+**O bloqueio (junho de 1948 – maio de 1949).**
+
+- **Causa:** as potências ocidentais unificaram suas zonas e lançaram uma nova moeda, o marco alemão, sinalizando a criação de um Estado alemão ocidental. Stálin quis impedi-lo e, de passagem, expulsar os ocidentais de Berlim.
+- **Ação:** fechamento de estradas, ferrovias e canais de acesso terrestre aos setores ocidentais, com dois milhões de pessoas isoladas.
+- **Resposta:** a **ponte aérea**, com aviões pousando dia e noite por onze meses e transportando cerca de 2,3 milhões de toneladas de suprimentos. Os EUA optaram deliberadamente por não forçar a passagem por terra, o que significaria guerra.
+- **Resultado:** Stálin suspendeu o bloqueio em maio de 1949 sem obter nada; nasceram, no mesmo ano, a **RFA** e a **RDA**, e criou-se a **OTAN**.
+
+**O Muro (13 de agosto de 1961).**
+
+- **Causa:** completamente diferente. Berlim Ocidental era a única fronteira **aberta** entre os dois blocos, e por ela haviam saído cerca de **2,7 milhões** de pessoas desde 1949 — em grande parte jovens, médicos, engenheiros e técnicos, isto é, exatamente quem a RDA menos podia perder. Era uma hemorragia demográfica e econômica.
+- **Ação:** em uma noite, arame farpado; depois, concreto, torres de vigia, campo minado e ordem de atirar.
+- **Significado:** o Muro **resolveu** o problema prático da RDA e **destruiu** sua reputação internacional. Um Estado que precisa murar-se para reter os próprios cidadãos entrega ao adversário o melhor argumento propagandístico possível. Não por acaso, sua queda, em 9 de novembro de 1989, tornou-se a imagem do fim da Guerra Fria (@sec-crise-do-socialismo-real).
+
+**A síntese que se espera de você.** Em 1948, o alvo do bloqueio eram os **ocidentais**, que se queria expulsar; em 1961, o alvo do Muro eram os **próprios cidadãos**, que se queria reter. Treze anos separam os dois episódios, e confundi-los é um dos erros mais comuns em provas.
+:::
+
+**4.** Explique o conceito de **destruição mútua assegurada (MAD)** e discuta se ele produziu ou não estabilidade.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**O conceito.** A partir do momento em que cada superpotência passou a ter **capacidade de segundo ataque** — isto é, meios de retaliar com força devastadora **mesmo depois** de sofrer um ataque nuclear em cheio, graças a mísseis dispersos, submarinos e bombardeiros em alerta —, um primeiro ataque deixou de fazer sentido racional: quem atacasse primeiro também seria destruído. A sigla em inglês, **MAD**, forma a palavra "louco", e o trocadilho era proposital entre seus próprios críticos.
+
+**O argumento a favor da estabilidade.** É a tese da "**Longa Paz**" [@gaddis2006]:
+
+1. não houve guerra direta entre grandes potências entre 1945 e 1991 — o período mais longo nesse sentido na história moderna;
+2. o custo inaceitável de escalar forçou as superpotências a construir mecanismos de comunicação e limitação: telefone vermelho (1963), Tratado de Proibição Parcial de Testes (1963), Tratado de Não Proliferação (1968), SALT I (1972);
+3. mesmo nos momentos de maior tensão, como a Crise dos Mísseis, ambos os lados recuaram — precisamente porque sabiam o que estava em jogo.
+
+**Os argumentos contra.**
+
+1. **A paz foi geograficamente seletiva.** A ausência de guerra entre EUA e URSS foi acompanhada de guerras devastadoras por procuração: Coreia, Vietnã, Afeganistão, Angola, América Central. O sistema não produziu paz; **deslocou** a guerra para a periferia (@sec-conflitos-guerra-fria).
+2. **A estabilidade dependeu de sorte.** Arquivos abertos após 1991 revelaram episódios em que a catástrofe foi evitada por decisões individuais ou por acaso: o oficial soviético **Vassíli Arkhipov**, que negou autorização para o lançamento de um torpedo nuclear a bordo do submarino B-59 em outubro de 1962; e **Stanislav Petrov**, que em 1983 julgou (corretamente) ser falso o alarme de ataque americano captado por seu sistema. Um arranjo que depende de que ninguém erre não é estável — é apenas ainda não fracassado.
+3. **Os custos foram imensos** mesmo sem guerra: recursos desviados para armamentos, contaminação por testes nucleares, militarização da política interna e proliferação de arsenais que hoje pertencem a nove países.
+
+**Como concluir.** A resposta boa não escolhe um lado com entusiasmo. Ela reconhece que a dissuasão nuclear **provavelmente** impediu uma terceira guerra mundial entre as superpotências, e que exatamente o mesmo arranjo tornou a sobrevivência da espécie dependente de que nenhum equipamento falhasse e nenhum indivíduo se enganasse — ao custo de guerras periféricas com dezenas de milhões de mortos.
+:::
+
+**5.** Por que **1949** é considerado um ano de virada na Guerra Fria?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Quatro acontecimentos concentrados em doze meses alteraram simultaneamente o equilíbrio militar, a geografia do conflito e sua escala.
+
+1. **A bomba atômica soviética** (agosto). O monopólio nuclear americano, que durara quatro anos, acabou. A partir daí, qualquer crise passa a carregar risco existencial, e começa a corrida armamentista propriamente dita — bomba de hidrogênio em 1952 (EUA) e 1953 (URSS).
+2. **A criação da OTAN** (abril). Pela primeira vez em tempos de paz, os EUA se comprometeram por tratado com a defesa da Europa. O artigo 5º — ataque a um é ataque a todos — institucionalizou a divisão militar do continente. O Pacto de Varsóvia viria em 1955, como resposta à entrada da RFA na aliança ocidental.
+3. **A criação da RFA e da RDA** (maio e outubro). O fracasso do bloqueio de Berlim consolidou dois Estados alemães, e a divisão da Alemanha tornou-se o **símbolo material** da divisão do mundo.
+4. **A Revolução Chinesa** (1º de outubro). Mao Tsé-Tung proclamou a **República Popular da China** depois de derrotar os nacionalistas de Chiang Kai-shek, que se retiraram para Taiwan. O país mais populoso do mundo — cerca de 540 milhões de habitantes — passou ao campo socialista.
+
+**Por que a China é o item mais importante da lista.**
+
+- **Escala e geografia:** o conflito deixa de ser predominantemente europeu e passa a ter seu eixo mais explosivo na **Ásia**. A Guerra da Coreia começa oito meses depois, e a China entra nela em 1950.
+- **Doutrina:** foi uma revolução **camponesa**, apoiada no campo e não no proletariado urbano, o que contrariava a ortodoxia soviética e ofereceu um modelo alternativo a movimentos de libertação de toda a Ásia, África e América Latina.
+- **Política interna americana:** a "perda da China" alimentou o **macarthismo** e a busca de traidores no governo, endurecendo a política externa dos EUA por uma geração.
+- **Divisão do campo socialista:** a aliança sino-soviética de 1950 desgastou-se rapidamente e culminou no **rompimento de 1960**, criando dois polos comunistas rivais — o que arruína qualquer explicação simples do período como "dois blocos monolíticos".
+:::
+
+**6.** (Estilo ENEM) Leia o texto.
+
+> "Creio que deve ser a política dos Estados Unidos apoiar os povos livres que estão resistindo a tentativas de subjugação por minorias armadas ou por pressões externas. […] Se falharmos em auxiliar a Grécia e a Turquia nesta hora decisiva, os efeitos serão profundos tanto para o Ocidente quanto para o Oriente."
+>
+> — Harry S. Truman, mensagem ao Congresso, 12 de março de 1947 [@truman1947]
+
+A política externa enunciada no texto caracteriza-se por
+
+**(a)** retomar o isolacionismo praticado pelos Estados Unidos após a Primeira Guerra Mundial.
+**(b)** subordinar a ajuda externa norte-americana à aprovação prévia do Conselho de Segurança da ONU.
+**(c)** condicionar o apoio dos Estados Unidos à adoção, pelos países auxiliados, de regimes democráticos representativos.
+**(d)** comprometer os Estados Unidos com a contenção da expansão soviética em escala global, tornando o anticomunismo o critério central de aliança.
+**(e)** propor a divisão do mundo em zonas de influência acordadas diretamente com a União Soviética.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (d).** O texto é a formulação inaugural da **Doutrina Truman**, aplicação política da estratégia de **contenção**. Três elementos do trecho sustentam a resposta: a afirmação de um dever geral ("deve ser a política dos Estados Unidos apoiar os povos livres"), a ausência de qualquer limite geográfico e a menção a "Ocidente" e "Oriente", que projeta a decisão sobre Grécia e Turquia em escala planetária.
+
+Por que as demais estão erradas:
+
+- **(a)** é exatamente o **oposto**. A doutrina marca o **fim** do isolacionismo: pela primeira vez em tempo de paz, os EUA assumem compromissos permanentes fora do hemisfério americano.
+- **(b)** a ONU não é mencionada, e o programa de auxílio foi aprovado pelo Congresso americano, não pelo Conselho de Segurança — onde, aliás, a URSS tinha veto, o que tornaria o mecanismo inútil para essa finalidade.
+- **(c)** é a alternativa mais tentadora, porque o texto fala em "povos livres". Mas o critério real, na prática e desde o primeiro caso, foi o **anticomunismo**, não a democracia: a Grécia de 1947 era governada por uma monarquia autoritária em guerra civil, e nas décadas seguintes os EUA apoiariam ditaduras em Portugal, na Espanha, no Irã, na Indonésia e em quase toda a América Latina. Distinguir o que um documento **declara** do que a política **faz** é um dos exercícios centrais da crítica de fonte (@sec-fontes-historicas).
+- **(e)** acordos de zonas de influência foram objeto das conferências de 1943–45; o discurso de 1947 faz o contrário — recusa a consolidação da influência soviética e propõe combatê-la.
+:::
+
+**7.** (Estilo vestibular) Explique de que maneira a Guerra Fria estruturou a política **interna** brasileira entre 1947 e 1964.
+
+::: {.callout-tip collapse="true" title="Solução"}
+A tese a defender: no Brasil, a Guerra Fria não foi apenas um dado de política externa; ela **reorganizou o conflito político doméstico**, fornecendo tanto o vocabulário quanto as instituições da repressão.
+
+**1. O alinhamento imediato (1947–48).** O governo **Dutra** rompeu relações diplomáticas com a URSS, obteve a cassação do registro do **PCB** — que em 1945–46 elegera catorze deputados federais e o senador Luís Carlos Prestes, tendo sido o maior partido comunista da América Latina — e cassou os mandatos dos parlamentares eleitos por ele em 1948, além de intervir em centenas de sindicatos (@sec-republica-de-1946). O Brasil assinou o **TIAR** (1947) e participou da fundação da **OEA** (1948), inserindo-se formalmente no sistema de defesa hemisférica sob liderança americana.
+
+**2. A construção doutrinária (1949).** Criada em 1949 nos moldes do *National War College*, a **Escola Superior de Guerra** (ESG) elaborou a **Doutrina de Segurança Nacional**. Seu deslocamento conceitual é o ponto decisivo: o inimigo deixa de ser o exército de outro Estado e passa a ser **interno** — o "inimigo infiltrado" no sindicato, na universidade, na imprensa, no partido, na Igreja. Uma vez aceita essa premissa, as Forças Armadas passam a ter, por definição doutrinária, jurisdição sobre a vida política civil.
+
+**3. A polarização dos anos 1950–60.** O anticomunismo tornou-se o eixo de leitura de praticamente todo conflito interno. Reforma agrária, encampação de empresas estrangeiras, política externa independente, sindicalismo rural, alfabetização de adultos e até as Ligas Camponesas passaram a ser lidos, por setores das Forças Armadas, da imprensa e da classe média, como etapas de um projeto comunista. A **Marcha da Família com Deus pela Liberdade** (1964) é a expressão mais visível dessa gramática.
+
+**4. A dimensão externa concreta.** A documentação hoje disponível mostra apoio americano à conspiração de 1964, incluindo a **Operação Brother Sam** — força-tarefa naval enviada pelos EUA com combustível e munição para o caso de resistência prolongada, que acabou não sendo necessária [@fico2008]. Também é documentado o financiamento de campanhas anticomunistas por meio do IBAD e do IPES.
+
+**Cuidado analítico — e é isso que separa uma resposta boa de uma ótima.** Reconhecer o fator externo **não** significa explicar 1964 pelos Estados Unidos. **Carlos Fico** e outros historiadores insistem em que a conspiração foi **essencialmente brasileira**, com sujeitos, interesses e cálculos internos: empresários, governadores, imprensa, classe média urbana e o alto oficialato. O apoio americano foi **facilitador e legitimador**, não causa suficiente. Atribuir o golpe a uma decisão de Washington tem, além do erro factual, o efeito de retirar a responsabilidade histórica dos atores brasileiros que o executaram — o que é, precisamente, o oposto do que a boa história faz (@sec-ditadura-militar).
+:::
+
+**8.** Compare as interpretações **ortodoxa**, **revisionista** e **global** sobre as origens da Guerra Fria, explicando por que elas divergem.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**A ortodoxa (anos 1940–60).** Responsabiliza a **URSS**: um regime ideologicamente expansionista impôs sua ordem à Europa oriental e obrigou o Ocidente a reagir [@schlesinger1967]. **Por que essa leitura aparece quando aparece:** é produzida **dentro** do conflito, por autores frequentemente ligados ao governo americano, sem qualquer acesso a arquivos soviéticos e com os arquivos americanos ainda fechados.
+
+**A revisionista (anos 1960–70).** Inverte a responsabilidade: a política externa dos EUA obedeceria a uma necessidade estrutural de mercados e matérias-primas — a política da "porta aberta" —, incompatível com qualquer economia fechada [@williamsAppleman1988]. A URSS, com 27 milhões de mortos e o território arrasado, agiria **defensivamente**. **Por que aparece quando aparece:** é filha da **Guerra do Vietnã**, que destruiu a credibilidade moral da política externa americana entre os próprios intelectuais dos EUA, e do desengavetamento de documentos sobre intervenções na América Latina e no Irã.
+
+**A global (a partir dos anos 2000).** Não responde à pergunta: **recusa-a**. Para **Westad**, perguntar "quem começou na Europa?" é adotar um recorte eurocêntrico de um fenômeno majoritariamente extraeuropeu. Ele propõe entender a Guerra Fria como o choque de dois projetos rivais de **modernidade** — o liberal e o socialista —, herdeiros diretos da expansão europeia do século XIX (@sec-imperialismo), disputando quem organizaria as sociedades saídas do colonialismo [@westad2005]. **Por que aparece quando aparece:** decorre da abertura dos arquivos pós-1991 em vários continentes, da consolidação dos estudos pós-coloniais e de uma mudança de pergunta — de "quem tem culpa?" para "o que o conflito **fez** ao mundo?".
+
+**Por que elas divergem — as três razões que valem para toda a historiografia.**
+
+1. **Fontes disponíveis.** Cada geração escreveu com o acervo que tinha. A abertura dos arquivos soviéticos em 1991 é o exemplo mais claro: ela reforçou o peso da ideologia nas decisões de Stálin e levou **Gaddis** a revisar as próprias posições anteriores.
+2. **Contexto do historiador.** O anticomunismo dos anos 1950 e o antibelicismo dos anos 1960–70 moldaram perguntas e sensibilidades. Isso não invalida nenhuma das leituras — invalidaria apenas se elas falsificassem evidências —, mas explica sua ênfase.
+3. **A pergunta formulada.** "Quem começou?" busca culpados; "como funcionou?" busca mecanismos; "o que fez ao mundo?" busca consequências. Perguntas diferentes produzem respostas diferentes sem que nenhuma esteja errada.
+
+**Fecho.** Que um mesmo objeto sustente quatro leituras sucessivas não é sinal de fragilidade da História, e sim de seu funcionamento normal: a interpretação se transforma quando mudam as fontes, o contexto e as perguntas (@sec-correntes-historiograficas). O que **não** varia é a exigência de que cada leitura preste contas às evidências disponíveis.
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- GADDIS, John Lewis. *História da Guerra Fria* [@gaddis2006]. A síntese mais acessível, escrita após a abertura dos arquivos soviéticos; leia sabendo que o autor tem posição.
+- WESTAD, Odd Arne. *A Guerra Fria: uma história mundial* [@westad2020]. O contraponto indispensável: o conflito visto do Sul global.
+- HOBSBAWM, Eric. *Era dos Extremos* [@hobsbawmExtremos1995]. Os capítulos sobre a Guerra Fria e a "Era de Ouro" continuam sendo a melhor porta de entrada em português.
+- JUDT, Tony. *Pós-guerra: uma história da Europa desde 1945* [@judt2008]. Monumental e magnificamente escrito.
+- APPLEBAUM, Anne. *Cortina de ferro* [@applebaum2017]. Como exatamente se sovietizou a Europa oriental, país por país.
+- VISENTINI, Paulo Fagundes. *Da Guerra Fria à crise* [@visentini2004]. Panorama em português, com atenção à periferia do sistema.
+
+**Fontes primárias**
+
+- O **discurso de Fulton**, de Churchill [@churchill1946], e a **mensagem de Truman ao Congresso** [@truman1947]: dois textos curtos que, lidos em sequência, mostram a construção do inimigo.
+- O artigo "**The Sources of Soviet Conduct**", de Kennan [@kennan1947]. Doze páginas que orientaram quarenta anos de política externa.
+- O **Tratado do Atlântico Norte** [@tratadoAtlanticoNorte1949] — leia o artigo 5º, que segue em vigor e no noticiário.
+- O **Discurso Secreto de Khruschev** [@khruschev1956]: um dirigente comunista descrevendo os crimes do próprio regime.
+
+**Filmes e documentários**
+
+- *Dr. Fantástico* (1964), dir. Stanley Kubrick. A melhor sátira já feita sobre a lógica da destruição mútua assegurada — e, o que assusta, tecnicamente bem informada.
+- *A vida dos outros* (2006), dir. Florian Henckel von Donnersmarck. A vigilância da Stasi na RDA dos anos 1980.
+- *Adeus, Lênin!* (2003), dir. Wolfgang Becker. Comédia agridoce sobre o fim da Alemanha oriental.
+- *Ponte dos Espiões* (2015), dir. Steven Spielberg. Berlim, 1961, e a construção do Muro vista de dentro.
+- Série documental *Cold War* (CNN, 1998), 24 episódios com entrevistas de protagonistas ainda vivos — hoje ela própria uma fonte histórica.
