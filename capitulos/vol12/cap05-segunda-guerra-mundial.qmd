@@ -1,5 +1,381 @@
 # A Segunda Guerra Mundial {#sec-segunda-guerra-mundial}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Em **21 de junho de 1940**, um vagão de trem foi retirado de um museu em Paris e rebocado até a mesma clareira da floresta de **Compiègne** onde estivera vinte e dois anos antes. Era o vagão em que a Alemanha assinara o armistício de **11 de novembro de 1918** (@sec-primeira-guerra-mundial). Hitler sentou-se na mesma cadeira que o marechal Foch ocupara então, ouviu a leitura do preâmbulo, levantou-se e saiu — deixando a assinatura a subordinados. A França acabava de ser derrotada em seis semanas. Um cinegrafista alemão registrou o momento em que Hitler, ao descer os degraus, bate levemente o pé no chão, num gesto de contentamento que a propaganda aliada depois manipularia até transformá-lo numa dança. A encenação era o ponto: a humilhação de 1918 seria desfeita no cenário exato onde ocorrera, e o vagão foi levado a Berlim como troféu. Cinco anos depois, a Alemanha estaria em ruínas, a Europa dividida em dois blocos e cerca de **60 milhões de pessoas** — a maioria **civis** — estariam mortas. Este capítulo conta como se chegou ali e por que aquela guerra reorganizou o mundo inteiro, inclusive o Brasil.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- explicar as causas da guerra, articulando o legado de **Versalhes**, a **crise de 1929**, a expansão do **Eixo** e a política de **apaziguamento**;
+- descrever a expansão alemã e japonesa entre 1931 e 1939 e avaliar o **Pacto Germano-Soviético**;
+- caracterizar as fases do conflito e identificar as batalhas que representaram viradas;
+- explicar o conceito de **guerra total** aplicado a 1939–45, incluindo bombardeios de civis, ocupação, colaboração e resistência;
+- analisar a participação do **Brasil**: barganha diplomática, torpedeamentos, **FEB** e efeitos internos;
+- discutir as conferências de paz, o uso das **bombas atômicas**, a criação da **ONU** e os julgamentos de **Nuremberg**;
+- contrastar interpretações historiográficas sobre o apaziguamento, o peso da **frente oriental** e a decisão de lançar a bomba.
 :::
+
+## As causas e a marcha para a guerra {#sec-causas-segunda-guerra}
+
+Não há causa única. Há um encadeamento.
+
+**O legado da Primeira Guerra.** O **Tratado de Versalhes** forneceu à direita alemã o repertório do ressentimento — o "Diktat", o artigo 231, as reparações, a perda territorial —, mas não incapacitou a Alemanha (@sec-primeira-guerra-mundial). A ordem de 1919 dependia, para funcionar, de potências dispostas a sustentá-la; os EUA se retiraram para o isolacionismo, e a **Liga das Nações** provou-se incapaz de agir.
+
+**A crise de 1929.** A Depressão destruiu a credibilidade do liberalismo, radicalizou a política e levou ao poder, na Alemanha, um regime cuja doutrina incluía explicitamente a **guerra de conquista** a leste (@sec-crise-de-1929-entreguerras; @sec-totalitarismos). No Japão, alimentou o argumento militarista de que só a expansão territorial garantiria matérias-primas e mercados.
+
+**A expansão do Eixo, passo a passo.** Cada avanço testou a reação alheia — e cada não reação encorajou o seguinte:
+
+- **1931** — o **Japão** invade a **Manchúria**; a Liga das Nações condena, o Japão simplesmente se retira da Liga;
+- **1933** — a Alemanha deixa a Liga e a conferência de desarmamento;
+- **1935** — Hitler anuncia o **rearmamento** e o serviço militar obrigatório, violando abertamente Versalhes; a **Itália** invade a **Etiópia**, sofrendo sanções inócuas;
+- **1936** — **remilitarização da Renânia** (a jogada mais arriscada de Hitler: as tropas alemãs tinham ordem de recuar se a França reagisse — e ela não reagiu); começa a **Guerra Civil Espanhola**, com intervenção alemã e italiana ao lado de Franco enquanto as democracias praticam a "não intervenção"; forma-se o **Eixo Roma-Berlim** e o Pacto Anti-Comintern com o Japão;
+- **1937** — o Japão invade a **China**, com atrocidades em larga escala, como o **massacre de Nanquim**;
+- **1938** — ***Anschluss***: anexação da **Áustria**; e a **Conferência de Munique**, em que França e Reino Unido entregam os **Sudetos** tchecoslovacos à Alemanha em troca da promessa de que seria a última exigência. O premiê britânico **Neville Chamberlain** voltou a Londres agitando o papel e anunciando "paz para o nosso tempo";
+- **março de 1939** — a Alemanha ocupa o **resto da Tchecoslováquia**, provando que Munique fora inútil. Reino Unido e França garantem então a integridade da **Polônia**;
+- **agosto de 1939** — o **Pacto Germano-Soviético** (Molotov-Ribbentrop), pacto de não agressão entre inimigos ideológicos declarados, com **protocolo secreto** dividindo a Polônia e o Leste Europeu em zonas de influência. Foi o último obstáculo removido;
+- **1º de setembro de 1939** — a Alemanha invade a **Polônia**. Dois dias depois, Reino Unido e França declaram guerra.
+
+::: {.callout-warning title="Apaziguamento: covardia ou cálculo?"}
+A política de **apaziguamento** (*appeasement*) — ceder às exigências de Hitler para evitar a guerra — tornou-se sinônimo de erro histórico, e **Munique** virou metáfora universal para "capitulação diante de um agressor". A crítica clássica, formulada por **Churchill** ainda na época, é que cada concessão fortalecia militarmente a Alemanha e demonstrava a fraqueza aliada.
+
+Vale, contudo, compreender as razões dos contemporâneos antes de julgá-los. Chamberlain e Daladier agiam sob quatro constrangimentos reais: **(1)** a memória viva de 1914–18, com uma opinião pública que rejeitava outra guerra; **(2)** o **despreparo militar** britânico e francês, que só começava a ser corrigido; **(3)** a percepção, comum em setores conservadores, de que a **URSS** era a ameaça maior, e uma Alemanha forte, um anteparo útil; **(4)** a ideia, defensável em 1938, de que algumas reivindicações alemãs — como reunir populações de língua alemã — eram legítimas à luz do próprio princípio de **autodeterminação** proclamado em 1919.
+
+O que revelou o erro não foi a lógica em si, mas o **diagnóstico**: Hitler não era um nacionalista com demandas limitadas, negociáveis pela via diplomática. **Cuidado com o anacronismo:** isso é evidente hoje, e não era para todos em setembro de 1938. A lição historiográfica correta não é "nunca negociar", e sim: a eficácia de qualquer estratégia depende de **entender corretamente com quem se está lidando**.
+:::
+
+## As fases da guerra {#sec-fases-segunda-guerra}
+
+::: {#fig-linha-do-tempo-segunda-guerra}
+
+```{.tikz}
+%%| filename: fig-linha-do-tempo-segunda-guerra
+%%| alt: Linha do tempo da Segunda Guerra Mundial, de 1939 a 1945, com as fases de vitórias do Eixo, a virada de 1941-43 e a ofensiva final aliada.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \fill[manualred!20, rounded corners] (0.2,-0.42) rectangle (5.6,0.42);
+  \fill[manualyellow!26, rounded corners] (5.7,-0.42) rectangle (9.6,0.42);
+  \fill[manualgreen!22, rounded corners] (9.7,-0.42) rectangle (14.0,0.42);
+  \node[text=manualred] at (2.9,0.0) {\textbf{vitórias do Eixo (1939--41)}};
+  \node[text=manualyellow!55!black] at (7.65,0.0) {\textbf{a virada (1941--43)}};
+  \node[text=manualgreen!45!black] at (11.85,0.0) {\textbf{ofensiva aliada (1944--45)}};
+
+  \draw[eixo] (0,-1.1) -- (14.2,-1.1);
+
+  \node[ponto] at (0.8,-1.1) {};
+  \node[below, align=center] at (0.8,-1.25) {\textbf{set. 1939}\\ invasão da\\ Polônia};
+
+  \node[ponto] at (3.1,-1.1) {};
+  \node[below, align=center] at (3.1,-1.25) {\textbf{jun. 1940}\\ queda da\\ França};
+
+  \node[ponto] at (5.2,-1.1) {};
+  \node[below, align=center] at (5.2,-1.25) {\textbf{1940--41}\\ Batalha da\\ Grã-Bretanha};
+
+  \node[ponto] at (7.2,-1.1) {};
+  \node[below, align=center] at (7.2,-1.25) {\textbf{1941}\\ \textbf{Barbarossa} (jun.)\\ \textbf{Pearl Harbor} (dez.)};
+
+  \node[ponto] at (9.3,-1.1) {};
+  \node[below, align=center] at (9.3,-1.25) {\textbf{1942--43}\\ \textbf{Stalingrado}\\ El Alamein $\cdot$ Midway};
+
+  \node[ponto] at (11.4,-1.1) {};
+  \node[below, align=center] at (11.4,-1.25) {\textbf{jun. 1944}\\ \textbf{Dia D}\\ Normandia};
+
+  \node[ponto] at (13.4,-1.1) {};
+  \node[below, align=center] at (13.4,-1.25) {\textbf{1945}\\ Berlim (mai.)\\ \textbf{Hiroshima} (ago.)};
+\end{tikzpicture}
+```
+
+Seis anos em três fases. O ponto de inflexão está concentrado em **1941–43**: a guerra que a Alemanha vencia torna-se a guerra que ela não pode ganhar.
+:::
+
+### 1939–41: as vitórias do Eixo {#sec-vitorias-eixo}
+
+A Polônia foi esmagada em cinco semanas pela **guerra-relâmpago** (*Blitzkrieg*) — combinação de ataque aéreo, concentração de blindados em pontos estreitos da linha inimiga e infantaria motorizada, buscando ruptura e cerco rápidos em vez do desgaste frontal de 1914–18. Em 17 de setembro, a **URSS** ocupou a parte oriental do país, conforme o protocolo secreto; seguiu-se a anexação dos países bálticos e a guerra contra a Finlândia.
+
+Após um inverno de inatividade (a "guerra de mentira"), a ofensiva alemã de 1940 foi fulminante: Dinamarca e Noruega em abril; Holanda, Bélgica e **França** em maio e junho. Os alemães contornaram a linha fortificada Maginot atravessando as Ardenas, consideradas intransponíveis por blindados, e cercaram os aliados em **Dunquerque**, de onde cerca de 340 mil soldados britânicos e franceses foram evacuados. A França capitulou em junho, sendo dividida entre uma zona ocupada e o **regime colaboracionista de Vichy**, do marechal Pétain, enquanto **Charles de Gaulle** conclamava a resistência desde Londres.
+
+Restou a **Grã-Bretanha**, agora sob **Winston Churchill**, que prometeu ao Parlamento apenas "sangue, esforço, lágrimas e suor". Na **Batalha da Grã-Bretanha** (1940), a primeira grande batalha travada inteiramente no ar, a RAF resistiu à Luftwaffe graças ao **radar**, à produção acelerada de caças e a um erro alemão: passar do ataque aos aeródromos para o bombardeio de cidades (o **Blitz** sobre Londres). Foi a primeira derrota estratégica alemã, e o país insular tornou-se a base sem a qual não haveria desembarque em 1944.
+
+### 1941: a guerra se torna mundial {#sec-1941}
+
+Dois acontecimentos mudaram tudo.
+
+**Operação Barbarossa** (22 de junho de 1941). A Alemanha invadiu a **URSS** com cerca de 3 milhões de homens na maior operação militar da história. Rompendo o pacto de 1939, Hitler executava o programa do *Lebensraum*: era uma **guerra de aniquilação**, ideológica e racial, com ordens explícitas de eliminar comissários políticos e populações inteiras. O avanço inicial foi devastador, mas parou às portas de Moscou em dezembro, detido pela resistência soviética, pelo espaço, pela logística e pelo inverno. A URSS transferiu suas fábricas para além dos Urais e mobilizou toda a sociedade na "Grande Guerra Patriótica".
+
+**Pearl Harbor** (7 de dezembro de 1941). O Japão atacou de surpresa a base naval americana no Havaí, buscando neutralizar a frota do Pacífico enquanto conquistava o Sudeste Asiático — rico em petróleo e borracha — depois de sofrer embargo americano por sua guerra na China. Os EUA, até então neutros mas já fornecendo os Aliados pela **Lei de Empréstimo e Arrendamento**, entraram na guerra; a Alemanha declarou guerra aos EUA em seguida. Formava-se a coalizão improvável que venceria o conflito: **EUA, Reino Unido e URSS**.
+
+### 1942–43: a virada {#sec-virada}
+
+- **Stalingrado** (agosto de 1942 – fevereiro de 1943). A batalha mais sangrenta da história, travada rua a rua e casa a casa, terminou com o cerco e a rendição do 6º Exército alemão. Cerca de dois milhões de baixas somadas. É o marco da inversão na frente oriental.
+- **El Alamein** (outubro–novembro de 1942), no Egito: a vitória britânica encerra a ameaça do Eixo ao Canal de Suez e ao petróleo do Oriente Médio.
+- **Midway** (junho de 1942): a Marinha americana destrói quatro porta-aviões japoneses e inverte o equilíbrio no Pacífico.
+- **Kursk** (julho de 1943): maior batalha de blindados da história; depois dela, a iniciativa na frente oriental é definitivamente soviética.
+- **Itália** (1943): desembarque aliado na Sicília, queda de **Mussolini**, armistício italiano e ocupação alemã do norte do país — onde combateria a Força Expedicionária Brasileira.
+
+Por trás das batalhas, havia uma assimetria decisiva: a **capacidade industrial**. Os EUA produziram durante a guerra mais aviões, navios e veículos do que todo o Eixo somado, e ainda abasteceram soviéticos e britânicos. Guerras totais são vencidas em fábricas tanto quanto em campos de batalha.
+
+### 1944–45: o desfecho {#sec-desfecho}
+
+Em **6 de junho de 1944**, o **Dia D** abriu a segunda frente na Europa Ocidental: cerca de 150 mil soldados desembarcaram na **Normandia** na maior operação anfíbia já realizada. Paris foi libertada em agosto. A leste, o Exército Vermelho avançava sobre a Europa Central — e essa geografia da libertação definiria, mais que qualquer conferência, o mapa político do pós-guerra.
+
+Em abril de 1945, soviéticos e americanos encontraram-se no rio Elba; Hitler suicidou-se no bunker em **30 de abril**; a Alemanha capitulou em **8 de maio** (**Dia da Vitória na Europa**). Mussolini havia sido capturado e executado por partigiani italianos dias antes.
+
+No Pacífico, a guerra continuava com combates atrozes ilha a ilha (Iwo Jima, Okinawa) e ataques suicidas *kamikaze*. Em **6 de agosto de 1945**, os EUA lançaram uma bomba atômica sobre **Hiroshima**; em **9 de agosto**, outra sobre **Nagasaki**. Entre 150 e 250 mil pessoas morreram, imediatamente ou nos meses seguintes, em consequência da explosão e da radiação. Entre as duas bombas, a **URSS declarou guerra ao Japão** e invadiu a Manchúria. O Japão capitulou em **2 de setembro de 1945**.
+
+## A guerra total, a ocupação e as resistências {#sec-guerra-total-2}
+
+A Segunda Guerra levou ao extremo o que a Primeira inaugurara. Cerca de **60 milhões** de mortos, dos quais a **maioria civis** — proporção inversa à de 1914–18. As causas dessa inversão:
+
+- **Bombardeio estratégico de cidades.** Coventry, Londres, Hamburgo, Dresden, Tóquio: o ataque deliberado a áreas urbanas tornou-se doutrina de ambos os lados, com a justificativa de destruir a capacidade industrial e o moral do inimigo. O bombardeio incendiário de Tóquio, em março de 1945, matou mais pessoas do que a bomba de Hiroshima.
+- **Guerra de aniquilação a leste.** A ocupação nazista na URSS e na Polônia não visava apenas à vitória militar, mas à eliminação e escravização de populações. A URSS perdeu cerca de **27 milhões** de pessoas; a Polônia, cerca de um sexto de sua população.
+- **Genocídio.** O extermínio sistemático dos judeus europeus e de outros grupos, tratado no @sec-holocausto-balanco.
+- **Ciência a serviço da destruição.** Radar, criptografia (a máquina alemã **Enigma**, decifrada em Bletchley Park com trabalho decisivo de **Alan Turing**), mísseis V-1 e V-2, jatos e, por fim, a **bomba atômica** do **Projeto Manhattan**.
+
+Nos territórios ocupados, a Europa dividiu-se entre **colaboração** — de governos como o de Vichy, de administrações locais e de indivíduos — e **resistência**: a *Résistance* francesa, os *partigiani* italianos, os partisans iugoslavos de **Tito**, o levante do **Gueto de Varsóvia** (1943) e o Levante de Varsóvia (1944), a resistência grega e soviética. Milhões de mulheres assumiram postos na indústria bélica e nos serviços, e milhares serviram em funções militares — na URSS, inclusive como pilotos e franco-atiradoras. Também combateram tropas coloniais e de países periféricos, com pouca contrapartida em direitos ao fim do conflito — um padrão que você já reconheceu em outros contextos (@sec-crise-do-imperio) e que alimentaria as lutas por independência (@sec-descolonizacao-africa-asia).
+
+## O Brasil na Segunda Guerra {#sec-brasil-segunda-guerra}
+
+::: {#fig-brasil-guerra}
+
+```{.tikz}
+%%| filename: fig-brasil-guerra
+%%| alt: Diagrama da trajetória do Brasil na Segunda Guerra Mundial, da neutralidade equidistante à declaração de guerra, ao envio da FEB e aos efeitos internos.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \node[draw, thick, rounded corners, fill=manualgray!20, align=center, text width=3.5cm] (a) at (-5.1,2.2)
+    {\textbf{1939--41}\\ \textbf{neutralidade}\\ ``equidistância\\ pragmática''\\ comércio com Alemanha\\ \textbf{e} EUA};
+  \node[draw, thick, rounded corners, fill=manualblue!18, align=center, text width=3.5cm] (b) at (-1.2,2.2)
+    {\textbf{1940--42}\\ \textbf{barganha}: bases em\\ Natal e Recife em troca\\ de armas e da usina\\ de \textbf{Volta Redonda}};
+  \node[draw, thick, rounded corners, fill=manualred!20, align=center, text width=3.5cm] (c) at (2.7,2.2)
+    {\textbf{ago. 1942}\\ submarinos afundam\\ navios brasileiros;\\ $\sim$\textbf{1.000} mortos\\ \textbf{22/8}: declaração de guerra};
+  \node[draw, thick, rounded corners, fill=manualgreen!20, align=center, text width=3.5cm] (d) at (6.6,2.2)
+    {\textbf{1944--45}\\ \textbf{FEB} na Itália\\ $\sim$25 mil homens\\ \textbf{Monte Castello}\\ 1º Grupo de Caça};
+
+  \draw[vetor, very thick, manualgray] (a) -- (b);
+  \draw[vetor, very thick, manualgray] (b) -- (c);
+  \draw[vetor, very thick, manualgray] (c) -- (d);
+
+  \node[draw, very thick, rounded corners, fill=manualyellow!26, align=center, text width=12.6cm] at (0.75,-0.4)
+    {\textbf{A CONTRADIÇÃO QUE DERRUBOU O ESTADO NOVO}\\[2pt] o Brasil combate ditaduras na Europa \textbf{sob uma ditadura} em casa\\ $\Rightarrow$ \textbf{Manifesto dos Mineiros} (1943) $\cdot$ retorno da FEB $\cdot$ anistia e eleições\\ $\Rightarrow$ \textbf{queda de Vargas em outubro de 1945}};
+\end{tikzpicture}
+```
+
+A participação brasileira foi resultado de uma barganha calculada — e produziu uma contradição interna que o regime não conseguiu administrar.
+:::
+
+**A neutralidade como negociação.** Até 1941, o governo **Vargas** praticou o que os historiadores chamam de "**equidistância pragmática**": mantinha comércio significativo com a Alemanha (que era grande compradora de algodão e café e fornecedora de armamentos) enquanto negociava com os Estados Unidos. O Brasil tinha uma posição estratégica decisiva — o "**saliente nordestino**" era o ponto mais próximo da África e a rota aérea essencial para abastecer os teatros africano e europeu.
+
+**A barganha.** Washington precisava de bases em **Natal**, Recife e Belém; o Brasil queria armar suas Forças Armadas e, sobretudo, obter financiamento para uma **usina siderúrgica**. O acordo, fechado em 1940–42, resultou na construção da **Companhia Siderúrgica Nacional** em **Volta Redonda**, marco da industrialização brasileira (@sec-era-vargas). O historiador Gerson Moura descreveu essa estratégia como "autonomia na dependência": aproveitar a rivalidade entre potências para extrair vantagens concretas [@moura2012].
+
+**A entrada na guerra.** Depois da ruptura de relações com o Eixo (janeiro de 1942), submarinos alemães e italianos passaram a atacar navios brasileiros. Em **agosto de 1942**, cinco navios foram torpedeados em poucos dias na costa da Bahia e de Sergipe, com centenas de mortos — no total, cerca de **1.000 brasileiros** morreram em cerca de 30 navios afundados durante a guerra. A comoção popular foi imensa e houve manifestações exigindo resposta. Em **22 de agosto de 1942**, o Brasil **declarou guerra** à Alemanha e à Itália.
+
+**A FEB.** A **Força Expedicionária Brasileira**, com cerca de **25 mil homens**, combateu na **Itália** entre 1944 e 1945, integrada ao V Exército americano. Seus feitos mais conhecidos foram a tomada de **Monte Castello** (após quatro tentativas fracassadas, conquistado em fevereiro de 1945), Montese e a rendição da 148ª Divisão alemã em Fornovo. Cerca de **450** brasileiros morreram em combate. O **1º Grupo de Aviação de Caça** — com o lema "Senta a Pua!" — realizou centenas de missões. O símbolo da FEB, a **cobra fumando**, nasceu do dito cético de que "mais fácil uma cobra fumar do que o Brasil entrar na guerra"; os pracinhas adotaram a zombaria como emblema.
+
+**Os efeitos internos.** Aqui está a consequência mais importante. O Brasil combatia regimes autoritários na Europa **sob um regime autoritário em casa** — contradição que a oposição explorou de imediato. O **Manifesto dos Mineiros** (1943) reivindicou publicamente a redemocratização; a imprensa e o movimento estudantil se reanimaram; e o retorno dos pracinhas, aclamados como combatentes da liberdade, tornou insustentável a manutenção do **Estado Novo**. Vargas anunciou eleições e anistia, mas foi deposto por militares em **outubro de 1945** (@sec-era-vargas). Note a ironia: **a guerra externa contra ditaduras derrubou a ditadura interna** — a mesma dinâmica que se repetiria, em outra escala, no Japão e na Itália.
+
+## O fim da guerra e a nova ordem {#sec-nova-ordem}
+
+**As conferências.** Em **Teerã** (1943), os "Três Grandes" — Roosevelt, Churchill e Stálin — acertaram a abertura da segunda frente. Em **Yalta** (fevereiro de 1945), com a vitória já próxima, definiram a divisão da Alemanha em zonas de ocupação, o compromisso de eleições livres no Leste Europeu (jamais cumprido), a entrada soviética na guerra contra o Japão e a criação de uma organização internacional. Em **Potsdam** (julho–agosto de 1945), já com Truman no lugar de Roosevelt e Attlee no de Churchill, as tensões entre os vencedores estavam evidentes. A **Guerra Fria** começava antes mesmo do fim da guerra quente (@sec-ordem-bipolar).
+
+**As instituições.** Criou-se a **Organização das Nações Unidas** (1945), com uma diferença crucial em relação à Liga: um **Conselho de Segurança** com cinco membros permanentes dotados de **poder de veto** — EUA, URSS, Reino Unido, França e China —, isto é, um reconhecimento realista de que nenhuma organização funcionaria contra as grandes potências. Em 1948 veio a **Declaração Universal dos Direitos Humanos**, redigida sob o impacto direto do genocídio [@declaracaoDireitosHumanos1948]. No plano econômico, a conferência de **Bretton Woods** (1944) criou o **FMI** e o Banco Mundial e estabeleceu o dólar como moeda de referência.
+
+**Os julgamentos.** O **Tribunal de Nuremberg** (1945–46) julgou dirigentes nazistas por crimes de guerra, crimes contra a paz e a categoria então inédita de **crimes contra a humanidade**; houve um tribunal equivalente em Tóquio. Foram criticados como "justiça dos vencedores" — nenhum crime aliado foi julgado, e a defesa da "obediência a ordens superiores" foi rejeitada apenas para os réus. Ainda assim, inauguraram o direito penal internacional e o princípio de que existem crimes que nenhuma legalidade nacional pode acobertar.
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+**Três debates organizam a historiografia da Segunda Guerra.** Vale examinar dois com cuidado.
+
+**1. Quem derrotou a Alemanha?** A cultura popular ocidental — cinema, séries, jogos — construiu uma narrativa centrada no **Dia D** e no avanço anglo-americano. Os números contam outra história. Cerca de **três quartos** das baixas militares alemãs ocorreram na **frente oriental**; a URSS perdeu cerca de **27 milhões** de pessoas, contra pouco mais de 400 mil dos EUA e cerca de 450 mil do Reino Unido. Quando o Dia D ocorreu, em junho de 1944, o Exército Vermelho já havia vencido **Stalingrado** (1943) e **Kursk** (1943) e avançava havia um ano. Historiadores como **Antony Beevor** e **Richard Overy** insistem que a guerra na Europa foi decidida sobretudo a leste [@beevor2015; @overy2013] — o que **não** diminui a contribuição ocidental, decisiva em três planos: o gigantesco **suprimento industrial** (a URSS recebeu dos EUA caminhões, locomotivas, alimentos e matérias-primas em escala que sustentou sua mobilidade militar), a **guerra aérea** e naval e a **segunda frente**, que obrigou a dividir forças. A questão historiográfica interessante é **por que** a versão popular difere tanto dos números: a resposta está na **Guerra Fria**, que tornou politicamente incômodo, no Ocidente, reconhecer o papel soviético — e, simetricamente, levou a URSS a minimizar a ajuda americana. É um caso exemplar de **memória** moldada pelo presente (@sec-memoria-patrimonio).
+
+**2. As bombas atômicas eram necessárias?** É o debate mais aceso.
+
+- **A tese tradicional (ortodoxa).** Sustentada pelo próprio presidente **Truman** e por historiadores como Herbert Feis, afirma que as bombas pouparam vidas: uma invasão do arquipélago japonês (Operação Downfall) custaria centenas de milhares de baixas americanas e milhões de japonesas, à luz da resistência fanática em Iwo Jima e Okinawa e da recusa japonesa em aceitar a rendição incondicional.
+- **A tese revisionista.** Formulada sobretudo por **Gar Alperovitz**, sustenta que o Japão já estava derrotado e buscava mediação, que o bloqueio naval e os bombardeios convencionais bastariam, que a entrada iminente da **URSS** na guerra (9 de agosto) seria decisiva — e que o alvo real do gesto era **Moscou**: demonstrar a arma e definir a ordem do pós-guerra. Nessa leitura, Hiroshima seria menos o último ato da Segunda Guerra do que o primeiro da Guerra Fria [@alperovitz1995].
+- **A posição intermediária**, hoje majoritária, reconhece **múltiplas motivações** simultâneas: encerrar a guerra rapidamente, poupar baixas americanas, justificar os dois bilhões de dólares do Projeto Manhattan, e também impressionar a URSS. Sublinha ainda três pontos frequentemente esquecidos: o Japão só se rendeu **depois** das duas bombas **e** da entrada soviética, o que dificulta isolar a causa; a decisão foi tomada num contexto em que o bombardeio de civis já era rotina (Tóquio, em março de 1945, matou mais que Hiroshima), o que reduzia a percepção de ruptura moral; e os efeitos da **radiação** não eram plenamente compreendidos por quem decidiu.
+
+**3. O apaziguamento foi um erro evitável?** A leitura clássica, de matriz churchilliana, condena Chamberlain sem atenuantes. Revisões posteriores destacaram os constrangimentos reais — opinião pública traumatizada por 1914–18, despreparo militar, prioridade dada à ameaça soviética, aparente legitimidade da autodeterminação alemã nos Sudetos — e argumentam que o tempo ganho em Munique permitiu à Grã-Bretanha construir a rede de radares e os caças que venceriam a Batalha da Grã-Bretanha. A síntese razoável: a política era compreensível dentro de seu horizonte, e falhou por um **erro de diagnóstico** sobre a natureza do regime nazista. Como sempre, o risco a evitar é o **anacronismo** de exigir dos contemporâneos o que só o desfecho nos ensinou (@sec-o-que-e-historia).
+
+## Resumo do capítulo {#sec-resumo}
+
+- **Causas:** legado de **Versalhes** e fracasso da **Liga das Nações**; **crise de 1929** e ascensão de regimes expansionistas; doutrina nazista do **espaço vital**; militarismo japonês; política de **apaziguamento** das democracias.
+- **Escalada:** Manchúria (**1931**) → Alemanha rearma e Itália invade a **Etiópia** (**1935**) → **Renânia** e Guerra Civil Espanhola (**1936**) → invasão da **China** (**1937**) → ***Anschluss*** e **Munique** (**1938**) → ocupação da Tchecoslováquia e **Pacto Germano-Soviético** com protocolo secreto (**1939**) → invasão da **Polônia**, **1º de setembro de 1939**.
+- **Fase 1 (1939–41):** ***Blitzkrieg***; queda da **França** em seis semanas (junho de 1940), com **Vichy** colaboracionista e De Gaulle em Londres; **Batalha da Grã-Bretanha** e o **Blitz** — primeira derrota estratégica alemã, graças ao radar e ao erro de bombardear cidades em vez de aeródromos.
+- **Fase 2 (1941–43):** **Operação Barbarossa** (22/6/1941), guerra de aniquilação a leste; **Pearl Harbor** (7/12/1941) traz os **EUA** ao conflito; formam-se os **Aliados** (EUA, Reino Unido, URSS). Viradas: **Stalingrado** (1942–43), **El Alamein**, **Midway**, **Kursk** (1943) e a queda de **Mussolini** com o desembarque na Itália.
+- **Fase 3 (1944–45):** **Dia D** na **Normandia** (6/6/1944); libertação de Paris; avanço soviético a leste; suicídio de Hitler (30/4/1945) e capitulação alemã (**8 de maio**); **Hiroshima** (6/8) e **Nagasaki** (9/8), entrada da URSS contra o Japão e rendição japonesa em **2 de setembro de 1945**.
+- **Guerra total:** cerca de **60 milhões de mortos**, a **maioria civis**; bombardeio estratégico de cidades; guerra de aniquilação e genocídio a leste; ciência mobilizada (radar, **Enigma**, mísseis, **Projeto Manhattan**); colaboração e **resistências** (Résistance, partigiani, Tito, Gueto de Varsóvia); trabalho feminino e tropas coloniais.
+- **Brasil:** "**equidistância pragmática**" até 1941; **barganha** de bases em **Natal** e Recife pela siderúrgica de **Volta Redonda**; torpedeamentos e cerca de **1.000 mortos** levam à **declaração de guerra em 22 de agosto de 1942**; a **FEB** (~25 mil homens) combate na **Itália**, com **Monte Castello** (fev. 1945) e o **1º Grupo de Caça**; ~450 mortos em combate. Efeito interno decisivo: a contradição de combater ditaduras sob uma ditadura alimenta o **Manifesto dos Mineiros** (1943) e leva à **queda do Estado Novo** em outubro de **1945**.
+- **Nova ordem:** conferências de **Teerã** (1943), **Yalta** (1945) e **Potsdam** (1945); criação da **ONU** com **Conselho de Segurança** e poder de **veto**; **Declaração Universal dos Direitos Humanos** (1948); **Bretton Woods** (1944) com **FMI**, Banco Mundial e o dólar como referência; **Tribunal de Nuremberg** e a categoria de **crimes contra a humanidade**. Começa a bipolaridade (@sec-ordem-bipolar).
+- **Historiografia:** peso decisivo da **frente oriental** (~3/4 das baixas alemãs; 27 milhões de mortos soviéticos) contra a narrativa ocidental centrada no Dia D — assimetria explicada pela **memória** da Guerra Fria; debate sobre as **bombas atômicas** (tese tradicional de poupar vidas × revisionismo de **Alperovitz**, que vê a mensagem dirigida a Moscou × síntese de múltiplas motivações); e reavaliação do **apaziguamento** como erro de **diagnóstico**, não simples covardia.
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Domine: (1) a cadeia de escaladas de 1931 a 1939 e o papel do **apaziguamento**; (2) o significado do **Pacto Germano-Soviético**; (3) as três fases e as batalhas de virada; (4) por que a maioria das vítimas foi civil; (5) a trajetória **brasileira** e seu efeito sobre o Estado Novo; (6) as instituições do pós-guerra; (7) os debates sobre a **bomba** e sobre quem venceu a guerra.
+:::
+
+**1.** Explique as causas da Segunda Guerra Mundial, articulando fatores de longo e de curto prazo.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Longo prazo.**
+
+1. **Legado da Primeira Guerra.** **Versalhes** forneceu à direita alemã o repertório do ressentimento (o "Diktat", o artigo 231, as reparações, as perdas territoriais) sem, contudo, incapacitar a Alemanha. E a ordem de 1919 nasceu sem sustentação: os **EUA** não aderiram à **Liga das Nações**, que se mostrou incapaz de aplicar sanções eficazes.
+2. **Crise de 1929.** Destruiu a credibilidade do liberalismo, radicalizou a política e levou ao poder na Alemanha um regime cuja doutrina previa explicitamente a conquista de **espaço vital** a leste. No Japão, reforçou o argumento militarista de que a expansão territorial era a única garantia de matérias-primas.
+3. **Natureza dos regimes.** Fascismo e nazismo tratavam a guerra como valor positivo e instrumento de regeneração nacional — não como último recurso (@sec-totalitarismos).
+
+**Curto prazo: a escalada testada passo a passo.** Manchúria (1931) → rearmamento alemão e invasão da Etiópia (1935) → remilitarização da **Renânia** e Guerra Civil Espanhola (1936) → invasão da China (1937) → ***Anschluss*** e **Munique** (1938) → ocupação do resto da Tchecoslováquia (março de 1939) → **Pacto Germano-Soviético** (agosto de 1939) → invasão da **Polônia** (1º de setembro de 1939).
+
+**O mecanismo a reter.** Cada avanço **testava** a disposição alheia de reagir; cada ausência de reação barateava o avanço seguinte. O caso mais claro é a **Renânia** (1936): as tropas alemãs tinham ordem de recuar se a França reagisse — e ela não reagiu. A partir daí, Hitler concluiu, com base empírica, que as democracias não lutariam. O **apaziguamento** não causou a guerra sozinho, mas alterou decisivamente o cálculo de risco do agressor.
+:::
+
+**2.** O que foi o **Pacto Germano-Soviético** (1939)? Por que dois inimigos ideológicos o assinaram?
+
+::: {.callout-tip collapse="true" title="Solução"}
+**O que foi.** Pacto de não agressão assinado em 23 de agosto de 1939 entre Alemanha e URSS, negociado pelos chanceleres **Ribbentrop** e **Molotov**. Continha um **protocolo secreto** que dividia o Leste Europeu em zonas de influência: a Polônia seria repartida, e os países bálticos, a Finlândia e a Bessarábia caberiam à esfera soviética. Sua existência foi negada por Moscou até **1989**.
+
+**Por que a Alemanha assinou.** Para eliminar o risco de **guerra em duas frentes** — o trauma estratégico alemão desde 1914 — e invadir a Polônia com segurança. Garantia ainda o fornecimento de petróleo, grãos e minérios soviéticos, atenuando o efeito de um eventual bloqueio britânico. Hitler nunca pretendeu cumpri-lo: o *Lebensraum* pressupunha justamente a conquista da URSS, invadida em **junho de 1941**.
+
+**Por que a URSS assinou.**
+
+1. **Ganhar tempo.** Stálin sabia que o Exército Vermelho estava fragilizado — em boa medida por sua própria responsabilidade, já que o **Grande Terror** de 1937–38 havia dizimado o alto comando (@sec-revolucao-russa) — e precisava de anos para se preparar.
+2. **Desconfiança das democracias.** As negociações anglo-franco-soviéticas de 1939 avançaram pouco; **Munique** havia mostrado que Londres e Paris negociavam com Hitler sem consultar Moscou, e a Polônia recusava passagem a tropas soviéticas. Stálin suspeitava que o Ocidente preferisse empurrar a agressão alemã para leste.
+3. **Ganhos territoriais imediatos**, recuperando áreas perdidas pela Rússia entre 1918 e 1921 e criando uma zona de amortecimento.
+
+**Consequências.** Removeu o último obstáculo à invasão da Polônia; permitiu a Stálin ocupar metade do território polonês e anexar os bálticos; desmoralizou os partidos comunistas ocidentais, obrigados a defender um acordo com o nazismo; e não protegeu a URSS, surpreendida por **Barbarossa** em 1941 — em parte porque Stálin ignorou advertências de inteligência, convencido de que Hitler não atacaria antes de resolver a Grã-Bretanha.
+:::
+
+**3.** Por que **1941** é considerado o ano que transformou o conflito europeu em guerra mundial?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Por dois eventos que alteraram a natureza e a escala da guerra.
+
+**1. Operação Barbarossa (22 de junho de 1941).** A invasão alemã da URSS mobilizou cerca de 3 milhões de homens na maior operação militar da história. Três significados:
+
+- **Estratégico:** abriu a frente que consumiria a maior parte do esforço militar alemão — cerca de **três quartos** de suas baixas — e onde a guerra na Europa seria efetivamente decidida.
+- **Ideológico:** não era guerra convencional, mas **guerra de aniquilação**, com ordens explícitas de eliminar comissários políticos e populações civis, executando o programa do *Lebensraum*. É também o contexto em que o genocídio dos judeus se acelera (@sec-holocausto-balanco).
+- **Político:** transformou a URSS, até então parceira da Alemanha por um pacto, em aliada das potências ocidentais.
+
+**2. Pearl Harbor (7 de dezembro de 1941).** O ataque japonês à base americana no Havaí buscava neutralizar a frota do Pacífico enquanto o Japão conquistava o Sudeste Asiático, rico em petróleo e borracha, depois de sofrer embargo americano por sua guerra na China. Significados:
+
+- trouxe ao conflito a maior **potência industrial** do planeta, que até então apoiava os Aliados como "arsenal da democracia" pela **Lei de Empréstimo e Arrendamento**;
+- a declaração de guerra alemã aos EUA, dias depois, uniu os teatros europeu e asiático numa só guerra;
+- consolidou a coalizão improvável — **EUA, Reino Unido e URSS** — cuja soma de recursos industriais e humanos tornava a vitória do Eixo praticamente inalcançável.
+
+**Síntese.** Até 1941 a Alemanha vencia uma guerra europeia; a partir de 1941 ela enfrentava, simultaneamente, o maior exército terrestre e a maior indústria do mundo. Como observou o historiador Richard Overy, a partir daí a questão deixou de ser *se* o Eixo seria derrotado e passou a ser *quando* e *a que custo* [@overy2013].
+:::
+
+**4.** Por que a Segunda Guerra matou proporcionalmente muito mais **civis** que a Primeira?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Na Primeira Guerra, a maioria das cerca de 10 milhões de mortes foi de **combatentes**; na Segunda, dos cerca de **60 milhões** de mortos, a maioria foi de **civis**. Quatro razões explicam a inversão:
+
+1. **Bombardeio estratégico de cidades.** A doutrina de atacar centros urbanos para destruir a produção industrial e o moral inimigo foi adotada por ambos os lados: Coventry e Londres pelos alemães; Hamburgo, Dresden e Tóquio pelos Aliados. O bombardeio incendiário de **Tóquio** (março de 1945) matou mais que a bomba de Hiroshima. A tecnologia — aviação de longo alcance e bombas incendiárias — tornou o civil um alvo tecnicamente alcançável e doutrinariamente aceito.
+2. **Guerra de aniquilação a leste.** A ocupação nazista na URSS e na Polônia não visava apenas a vencer, mas a **eliminar e escravizar** populações inteiras: fome deliberada de prisioneiros e cidades cercadas (Leningrado), execuções em massa, trabalho forçado. A URSS perdeu cerca de **27 milhões** de pessoas; a Polônia, cerca de um sexto de sua população.
+3. **Genocídio.** O extermínio sistemático dos judeus europeus e de outros grupos foi política de Estado planejada, com burocracia e indústria próprias (@sec-holocausto-balanco).
+4. **Novas armas de destruição em massa.** Mísseis V-1 e V-2 lançados contra cidades e, por fim, as **bombas atômicas**, cujo efeito não se limitou à explosão: a **radiação** continuou matando por anos.
+
+**A conclusão conceitual.** Trata-se do ponto de chegada da **guerra total**: se toda a sociedade produz para a guerra, toda a sociedade passa a ser tratada como alvo legítimo. Foi contra essa lógica que se ergueu, em 1948, a **Declaração Universal dos Direitos Humanos**, e que se consolidaram as convenções de proteção a civis em conflito.
+:::
+
+**5.** Descreva a participação do **Brasil** na Segunda Guerra e explique seu impacto sobre o Estado Novo.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Fase 1 — neutralidade negociada (1939–41).** O governo **Vargas** praticou a chamada "**equidistância pragmática**": manteve comércio com a Alemanha — grande compradora de café e algodão e fornecedora de armamentos — enquanto negociava com os EUA. A posição estratégica do Brasil era decisiva: o "**saliente nordestino**" era o ponto mais próximo da África e escala essencial da rota aérea aliada.
+
+**Fase 2 — a barganha (1940–42).** Os EUA precisavam de bases em **Natal**, Recife e Belém; o Brasil queria equipar suas Forças Armadas e obter financiamento para uma **usina siderúrgica**. O resultado foi a construção da **Companhia Siderúrgica Nacional** em **Volta Redonda** — marco da industrialização brasileira. **Gerson Moura** chamou essa estratégia de "autonomia na dependência": explorar a rivalidade entre potências para obter ganhos concretos [@moura2012].
+
+**Fase 3 — a guerra (1942–45).** Após a ruptura com o Eixo (janeiro de 1942), submarinos alemães e italianos torpedearam navios brasileiros; só em **agosto de 1942**, cinco afundamentos na costa da Bahia e de Sergipe causaram centenas de mortes (no total da guerra, cerca de **1.000 brasileiros** em cerca de 30 navios). A comoção popular levou o Brasil a **declarar guerra em 22 de agosto de 1942**. A **FEB** — cerca de **25 mil homens** — combateu na **Itália** em 1944–45, integrada ao V Exército americano: **Monte Castello** (conquistado em fevereiro de 1945, após quatro tentativas), Montese, a rendição alemã em Fornovo; cerca de **450** mortos em combate. O **1º Grupo de Aviação de Caça** ("Senta a Pua!") realizou centenas de missões. O emblema da **cobra fumando** nasceu do dito de que seria mais fácil uma cobra fumar do que o Brasil entrar na guerra.
+
+**O impacto interno — o ponto decisivo.** O Brasil combatia ditaduras na Europa **sob uma ditadura em casa**, e a contradição era explícita demais para ser administrada:
+
+1. O **Manifesto dos Mineiros** (outubro de 1943), assinado por juristas e políticos, exigiu publicamente a redemocratização, invocando exatamente essa incoerência.
+2. A imprensa, os estudantes e a oposição liberal ganharam legitimidade para reivindicar liberdades pelas quais o país dizia lutar.
+3. O **retorno dos pracinhas**, recebidos como combatentes da liberdade, tornou o Estado Novo insustentável — e o Exército, prestigiado, converteu-se em ator político decisivo.
+
+Vargas tentou controlar a transição com anistia e convocação de eleições, mas foi **deposto por militares em outubro de 1945** (@sec-era-vargas). A guerra externa contra ditaduras derrubou, assim, a ditadura interna — e a mesma lógica atuou na Itália e no Japão, reconstruídos como democracias sob ocupação.
+:::
+
+**6.** (Estilo ENEM) Leia o texto.
+
+> "Não tenho nada a oferecer além de sangue, esforço, lágrimas e suor. Temos diante de nós uma provação do tipo mais penoso. […] Perguntam: qual é a nossa política? Direi: é fazer guerra, por mar, por terra e pelo ar, com todo o nosso poder e com toda a força que Deus nos possa dar. […] Perguntam: qual é o nosso objetivo? Posso responder com uma palavra: vitória. Vitória a todo custo, vitória apesar de todo o terror, vitória por mais longo e duro que seja o caminho; porque sem vitória não há sobrevivência."
+>
+> — Winston Churchill, discurso à Câmara dos Comuns, 13 de maio de 1940 [@churchill1940]
+
+O discurso foi pronunciado em um contexto no qual
+
+**(a)** a Alemanha já havia sido derrotada na frente oriental e recuava diante do Exército Vermelho.
+**(b)** as forças alemãs avançavam sobre a Europa Ocidental e o Reino Unido se preparava para resistir isolado.
+**(c)** os Estados Unidos acabavam de entrar no conflito após o ataque japonês a Pearl Harbor.
+**(d)** o Reino Unido acabara de assinar o acordo de Munique, cedendo os Sudetos à Alemanha.
+**(e)** as tropas aliadas desembarcavam na Normandia para abrir a segunda frente na Europa.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (b).** O discurso é de **13 de maio de 1940**, três dias depois de Churchill assumir como primeiro-ministro e no exato momento em que a ofensiva alemã varria Holanda, Bélgica e França. Em poucas semanas viriam a evacuação de **Dunquerque** e a capitulação francesa (junho de 1940), deixando o Reino Unido **sozinho** diante da Alemanha, na iminência da **Batalha da Grã-Bretanha**. O tom do texto — nenhuma promessa de facilidade, apenas "sangue, esforço, lágrimas e suor", e a vitória definida como condição de **sobrevivência** — só se explica nesse contexto de perigo iminente e isolamento.
+
+Por que as demais estão erradas, com atenção à cronologia:
+
+- **(a)** a invasão da URSS (**Barbarossa**) só ocorreria em junho de **1941**, e a virada em **Stalingrado**, no início de **1943**;
+- **(c)** **Pearl Harbor** foi em dezembro de **1941**, ano e meio depois;
+- **(d)** **Munique** foi em setembro de **1938**, sob **Chamberlain** — e Churchill foi justamente o principal **crítico** do acordo, o que torna a alternativa duplamente incoerente;
+- **(e)** o **Dia D** foi em junho de **1944**, quatro anos depois.
+
+**Dica de prova:** questões com discursos famosos quase sempre testam a capacidade de **datar pelo conteúdo**. Aqui, as pistas são a ausência de aliados mencionados e a linguagem de resistência desesperada, não de ofensiva.
+:::
+
+**7.** Quais instituições e princípios da ordem internacional foram criados ao fim da guerra? Compare a **ONU** com a **Liga das Nações**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**As instituições.**
+
+- **ONU** (1945): organização de segurança coletiva com Assembleia Geral universal e um **Conselho de Segurança** de cinco membros permanentes com **poder de veto** (EUA, URSS, Reino Unido, França e China).
+- **Declaração Universal dos Direitos Humanos** (1948): resposta direta ao genocídio, afirmando direitos inerentes a todo ser humano, independentemente de nacionalidade ou legislação nacional [@declaracaoDireitosHumanos1948].
+- **Bretton Woods** (1944): **FMI** e Banco Mundial; câmbio fixo ancorado no **dólar**, conversível em ouro — arquitetura financeira que duraria até 1971.
+- **Tribunal de Nuremberg** (1945–46) e o de Tóquio: julgamento de dirigentes por crimes de guerra, crimes contra a paz e a categoria inédita de **crimes contra a humanidade**; rejeição da defesa de "obediência a ordens superiores".
+
+**Comparação com a Liga das Nações.**
+
+| | **Liga das Nações** (1919) | **ONU** (1945) |
+|---|---|---|
+| **Grandes potências** | **EUA nunca aderiram**; URSS e Alemanha ficaram longos períodos fora | todas as grandes potências dentro **desde o início** |
+| **Decisão** | exigia unanimidade, o que paralisava a ação | Conselho de Segurança com maioria e **veto** dos cinco permanentes |
+| **Força** | sem meios militares próprios | possibilidade de **forças de paz** e de autorizar uso da força |
+| **Alcance** | essencialmente política e europeia | política, econômica, social e humanitária (Unesco, OMS, Unicef) |
+
+**A lição institucional.** O **veto** costuma ser criticado como antidemocrático — e é. Mas foi introduzido a partir do diagnóstico do fracasso anterior: uma organização que decida **contra** uma grande potência simplesmente será abandonada por ela, como os EUA abandonaram a Liga. O veto é o preço realista da permanência de todos dentro da mesma mesa. Isso não impediu que a **Guerra Fria** paralisasse o Conselho de Segurança por décadas (@sec-ordem-bipolar), o que mostra os limites de qualquer arranjo institucional diante do conflito entre potências.
+:::
+
+**8.** (Estilo vestibular — dissertativa) Discuta o debate historiográfico sobre a decisão de lançar as **bombas atômicas** sobre Hiroshima e Nagasaki.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Os fatos.** Em **6 de agosto de 1945**, os EUA lançaram uma bomba de urânio sobre **Hiroshima**; em **9 de agosto**, uma de plutônio sobre **Nagasaki**. Entre 150 e 250 mil pessoas morreram, imediatamente ou nos meses e anos seguintes por efeito da **radiação**. Entre as duas bombas, em 8–9 de agosto, a **URSS** declarou guerra ao Japão e invadiu a Manchúria. O Japão anunciou a rendição em 15 de agosto, formalizada em **2 de setembro**.
+
+**Tese tradicional (ortodoxa).** Defendida por **Truman** e por historiadores como Herbert Feis: as bombas **pouparam vidas**. A invasão planejada do arquipélago (Operação Downfall) custaria, segundo estimativas militares da época, centenas de milhares de baixas americanas e provavelmente milhões de japonesas — projeção baseada na resistência quase suicida em **Iwo Jima** e **Okinawa** e nos ataques *kamikaze*. O Japão recusava a rendição incondicional; sem um choque decisivo, a guerra se prolongaria.
+
+**Tese revisionista.** Formulada sobretudo por **Gar Alperovitz**: o Japão já estava derrotado — sem marinha, sem petróleo, sob bloqueio naval e bombardeio incendiário sistemático — e sondava mediação soviética para uma rendição negociada. A entrada da **URSS** na guerra seria, por si só, decisiva. O alvo real do gesto seria **Moscou**: demonstrar a arma e fortalecer a posição americana na definição do pós-guerra. Nessa leitura, Hiroshima é menos o último ato da Segunda Guerra do que o **primeiro da Guerra Fria** [@alperovitz1995].
+
+**Posição intermediária (majoritária hoje).** Reconhece **motivações múltiplas e simultâneas**, sem hierarquia clara: encerrar a guerra rapidamente, poupar baixas americanas, justificar politicamente os dois bilhões de dólares gastos no **Projeto Manhattan** e também impressionar a URSS. Acrescenta três ponderações importantes:
+
+1. **A causalidade é indeterminável.** O Japão rendeu-se depois das **duas** bombas **e** da entrada soviética; separar o peso de cada fator é impossível com as fontes disponíveis, e a documentação japonesa mostra que ambos os choques pesaram nas deliberações do gabinete imperial.
+2. **O contexto moral já estava corroído.** O bombardeio deliberado de civis era rotina desde 1940; o ataque incendiário a **Tóquio** (março de 1945) matou mais pessoas que a bomba de Hiroshima. Para os decisores, não havia a ruptura ética que hoje percebemos — o que **não** os absolve, mas explica por que a decisão não lhes pareceu excepcional.
+3. **Os efeitos da radiação eram mal compreendidos** por quem decidiu; a arma foi pensada como bomba muito potente, não como fonte de contaminação duradoura.
+
+**Síntese possível.** A pergunta "era necessária?" mistura três questões distintas que uma boa resposta separa: **(a)** era **militarmente** indispensável para obter a rendição? — provavelmente não de forma isolada, dado o peso da entrada soviética e do bloqueio; **(b)** era **plausível** aos olhos dos decisores em agosto de 1945? — sim, dentro de suas informações e de sua lógica de guerra total; **(c)** era **moralmente** justificável? — é uma questão ética, não factual, e nenhuma pesquisa de arquivo a resolve. Evitar o **anacronismo** significa reconstituir o horizonte de quem decidiu; evitar o cinismo significa não transformar essa reconstituição em absolvição automática. E o mais duradouro do episódio talvez seja o que ele inaugurou: a era em que a humanidade passou a dispor dos meios de se destruir, base do "equilíbrio do terror" que organizaria a Guerra Fria (@sec-ordem-bipolar).
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- BEEVOR, Antony. *A Segunda Guerra Mundial* [@beevor2015]. Narrativa completa e legível, atenta tanto às operações militares quanto ao sofrimento civil.
+- OVERY, Richard. *Por que os Aliados venceram* [@overy2013]. Excelente para entender a guerra como disputa de produção, logística e organização — não apenas de batalhas.
+- HOBSBAWM, Eric. *Era dos extremos* [@hobsbawm1995], capítulo "A guerra total".
+- MOURA, Gerson. *Autonomia na dependência: a política externa brasileira de 1935 a 1942* [@moura2012]. A melhor análise da barganha diplomática brasileira.
+- ALPEROVITZ, Gar. *A decisão de usar a bomba atômica* [@alperovitz1995]. A tese revisionista, em sua formulação mais completa.
+
+**Fontes primárias**
+
+- O discurso de **Churchill** de 13 de maio de 1940 [@churchill1940] e o de 4 de junho ("lutaremos nas praias"): retórica política como instrumento de guerra.
+- A **Declaração Universal dos Direitos Humanos** (1948) [@declaracaoDireitosHumanos1948]. Leia o preâmbulo pensando no que acabara de acontecer: cada frase responde a um crime concreto.
+- Depoimentos de pracinhas da **FEB** reunidos em acervos de história oral e no Museu da FEB, no Rio de Janeiro — bom exemplo de fonte oral (@sec-fontes-historicas).
+
+**Filmes e documentários**
+
+- *O resgate do soldado Ryan* (1998) e a série *Band of Brothers* (2001), para a perspectiva americana — assista sabendo que ela representa **uma** frente entre várias.
+- *Vem e vê* (*Idi i smotri*, 1985), dir. Elem Klimov. O filme mais devastador já feito sobre a guerra na frente oriental, do ponto de vista de um menino bielorrusso. Difícil de assistir, impossível de esquecer.
+- *Roma, cidade aberta* (1945) e *Ladrões de bicicleta* (1948), do neorrealismo italiano: a ocupação e a ruína do pós-guerra filmadas nas ruas, quase em tempo real.
+- *A estrada 47* (2013) e *Senta a pua!* (1999), sobre a participação brasileira na Itália.
