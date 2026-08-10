@@ -1,5 +1,394 @@
 # Os anos 1920: tenentismo e a Semana de 22 {#sec-anos-1920-tenentismo-22}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Na noite de 13 de fevereiro de 1922, o público do Theatro Municipal de São Paulo vaiou, assobiou e imitou latidos enquanto **Ronald de Carvalho** lia, no palco, o poema "Os sapos", de Manuel Bandeira — uma sátira aos poetas parnasianos que estavam na plateia. Cinco meses depois, na madrugada de 5 de julho, um punhado de jovens oficiais saiu do **Forte de Copacabana**, no Rio de Janeiro, e caminhou pela areia da praia em direção às tropas legalistas, sabendo que não tinha a menor chance. Dezesseis morreram. Os dois episódios parecem não ter nada em comum: um foi um escândalo estético num teatro elegante, o outro um suicídio militar numa praia. Mas ambos aconteceram em **1922**, ano do centenário da Independência, e ambos diziam a mesma coisa por meios diferentes: que o Brasil oficial — o das oligarquias, do parnasianismo, das eleições de bico de pena — já não representava o país real. A década que se abre ali termina, oito anos depois, com o fim da Primeira República.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- identificar os **sinais de esgotamento** da ordem oligárquica na década de 1920;
+- explicar o que foi o **tenentismo**, suas bandeiras, seus limites e sua composição social;
+- narrar as revoltas de **1922**, **1924** e a **Coluna Prestes** (1925–27);
+- caracterizar a **Semana de Arte Moderna** e as fases do modernismo brasileiro;
+- relacionar o modernismo, o **regionalismo** e o debate sobre a identidade nacional;
+- descrever a formação do **PCB**, a crise do movimento operário e a repressão de Artur Bernardes;
+- explicar a ruptura do pacto oligárquico em **1929**, a **Aliança Liberal** e o desfecho de **1930**;
+- contrastar interpretações historiográficas sobre a natureza social do tenentismo e sobre o significado do modernismo.
 :::
+
+## Um país que já não cabia no arranjo {#sec-esgotamento-oligarquico}
+
+Na superfície, a Primeira República dos anos 1920 continuava igual: café, café com leite, degola. Por baixo, quatro processos corroíam suas bases.
+
+**1. A economia mudara.** A **Primeira Guerra Mundial** (@sec-primeira-guerra-mundial) havia impulsionado a indústria brasileira por substituição de importações. Em 1920, o Brasil tinha cerca de 13 mil estabelecimentos industriais e 275 mil operários. Surgiam grupos sociais — industriais, comerciantes, profissionais liberais, funcionários públicos, militares, operários — cujos interesses não eram os do café e que, sobretudo, **não tinham representação política** no sistema.
+
+**2. As cidades cresciam.** Rio de Janeiro e São Paulo passavam de um milhão e de 600 mil habitantes. A urbanização criava opinião pública, imprensa de massa, cinema, rádio (a primeira emissora, a Rádio Sociedade, é de 1923) — um espaço público que a política oligárquica, feita de acordos entre famílias, não sabia administrar.
+
+**3. O Exército se tornara uma corporação com projeto.** Reformado pela **Missão Militar Francesa** (1919–1940) e por oficiais formados na Alemanha (os "jovens turcos"), o Exército profissionalizava-se e cultivava um ideário próprio: disciplina, mérito, técnica, unidade nacional — tudo o que a política dos governadores negava. Militares de baixa e média patente viam a República ser negociada por civis que desprezavam.
+
+**4. A crise de sucessão de 1922.** A candidatura oficial de **Artur Bernardes**, mineiro, enfrentou pela primeira vez uma coalizão dissidente séria: a **Reação Republicana**, que reuniu Rio de Janeiro, Bahia, Pernambuco e Rio Grande do Sul em torno de **Nilo Peçanha**. Em plena campanha, o jornal *Correio da Manhã* publicou cartas atribuídas a Bernardes em que este chamava o Exército de "sardanapalescas paradas de tropas" e ofendia o marechal Hermes da Fonseca. As **cartas eram falsas** — a perícia posterior o demonstrou —, mas o estrago estava feito. Bernardes venceu; o Clube Militar foi fechado; Hermes da Fonseca, preso. Foi o estopim de 5 de julho.
+
+::: {.callout-important title="Por que 1922 é a data-síntese"}
+Concentre na memória: em **1922** ocorrem a **Semana de Arte Moderna** (fevereiro), a fundação do **Partido Comunista do Brasil** (março, em Niterói), a revolta do **Forte de Copacabana** (julho) e as comemorações do **centenário da Independência** (setembro), com Exposição Internacional no Rio. Quatro fatos de naturezas distintas — cultural, partidária, militar, oficial — que os vestibulares gostam de reunir numa única questão. O fio que os liga é a **crise de representação**: setores urbanos, jovens e emergentes buscando linguagens para dizer que o Brasil oficial não os representava.
+:::
+
+## O tenentismo {#sec-tenentismo}
+
+::: {#fig-cronologia-tenentismo}
+
+```{.tikz}
+%%| filename: fig-cronologia-tenentismo
+%%| alt: Linha do tempo do tenentismo e da crise da Primeira República, de 1922 a 1930.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize},
+   marco/.style={align=center, text width=2.8cm, font=\scriptsize}]
+  \draw[eixo, very thick, black] (-0.6,0) -- (15.6,0);
+
+  \foreach \x in {0,2.6,5.2,7.8,10.4,13.0,14.8}
+    {\draw[thick] (\x,-0.1) -- (\x,0.1); \node[ponto] at (\x,0) {};}
+
+  \node[marco, text=manualred,  anchor=south] at (0,0.8)     {\textbf{jul. 1922}\\ \textbf{18 do Forte}\\ de Copacabana};
+  \node[marco, text=manualred,  anchor=north] at (2.6,-0.8)  {\textbf{jul. 1924}\\ revolta \textbf{paulista}:\\ São Paulo ocupada\\ por 23 dias};
+  \node[marco, text=manualred,  anchor=south] at (5.2,0.8)   {\textbf{1924--25}\\ coluna gaúcha de\\ \textbf{Luís Carlos Prestes}};
+  \node[marco, text=manualyellow,anchor=north] at (7.8,-0.8) {\textbf{1925--27}\\ \textbf{Coluna Prestes}:\\ 25 mil km, 13 estados,\\ nunca derrotada};
+  \node[marco, text=manualblue, anchor=south] at (10.4,0.8)  {\textbf{1927--30}\\ exílio na Bolívia\\ e no Paraguai;\\ Prestes adere ao\\ comunismo (1930)};
+  \node[marco, text=manualgreen,anchor=north] at (13.0,-0.8) {\textbf{1929--30}\\ ruptura SP--MG,\\ \textbf{Aliança Liberal},\\ crise de 1929};
+  \node[marco, text=manualred,  anchor=south] at (14.8,0.8)  {\textbf{out. 1930}\\ \textbf{Revolução}\\ \textbf{de 1930}};
+
+  \foreach \x in {0,5.2,10.4,14.8} \draw[auxiliar] (\x,0.1) -- (\x,0.8);
+  \foreach \x in {2.6,7.8,13.0} \draw[auxiliar] (\x,-0.1) -- (\x,-0.8);
+
+  \node[draw, dashed, rounded corners, fill=manualgray!14, align=center, text width=14.6cm] at (7.5,-3.6)
+    {\textbf{Bandeiras tenentistas:} voto \textbf{secreto} $\cdot$ \textbf{Justiça Eleitoral} $\cdot$ ensino público obrigatório $\cdot$ moralização e\\ centralização do Estado --- \textbf{sem} programa social e \textbf{sem} apoio popular organizado};
+\end{tikzpicture}
+```
+
+O tenentismo em oito anos: da revolta isolada à convergência com as dissidências oligárquicas em 1930.
+:::
+
+**Quem eram.** Jovens oficiais de baixa e média patente — tenentes, capitães, alguns majores —, de origem urbana e de camadas médias, formados nas escolas militares reformadas. Rejeitavam a política oligárquica, a fraude eleitoral e o predomínio dos "carcomidos" (os velhos políticos civis). Sua bandeira central era **institucional**: voto secreto, Justiça Eleitoral, ensino público, moralização administrativa, um Estado central forte capaz de impor a lei sobre os interesses regionais.
+
+::: {.callout-warning title="O que o tenentismo não era"}
+Não era um movimento **revolucionário social**. Não propunha reforma agrária, não tinha programa trabalhista, não se dirigia aos operários nem aos camponeses e desconfiava profundamente da mobilização popular — quando a Coluna Prestes atravessou o sertão, não convocou os sertanejos a se armarem, apenas os informou de suas intenções. Sua concepção de mudança era **de cima para baixo**, conduzida por uma elite esclarecida, com desconfiança em relação ao sufrágio irrestrito e ao "povo despreparado". É por isso que, depois de 1930, os tenentes se dividiriam: alguns à esquerda (Prestes, no PCB), outros à direita (Juarez Távora, e vários integrantes do futuro Estado Novo e do golpe de 1964).
+:::
+
+**1922 — os 18 do Forte.** Em resposta à posse de Bernardes e à prisão de Hermes da Fonseca, guarnições se sublevaram no Rio, em Mato Grosso e na Vila Militar. Quase todas se renderam. No **Forte de Copacabana**, cerca de 300 homens resistiram ao bombardeio; ao fim, restaram poucos. Um grupo — a tradição fixou o número **18**, embora as fontes divirjam — saiu a pé pela praia, com a bandeira nacional rasgada em pedaços distribuídos entre eles, e enfrentou uma tropa muito superior. Sobreviveram dois: **Eduardo Gomes** e **Siqueira Campos**. Militarmente, foi um desastre absoluto. Politicamente, foi o gesto fundador de um mito.
+
+**1924 — a revolta paulista.** Dois anos depois, no aniversário do Forte, uma revolta muito mais séria estourou em São Paulo, liderada pelo general reformado **Isidoro Dias Lopes** e por tenentes como **Miguel Costa** e **Juarez Távora**. Os rebeldes **tomaram a capital paulista** e a mantiveram por 23 dias. O governo Bernardes respondeu bombardeando a cidade com artilharia e aviação: bairros operários como o Brás e a Mooca foram atingidos, com centenas de mortos civis e dezenas de milhares de moradores em fuga. Os rebeldes se retiraram para o Paraná.
+
+**1925–27 — a Coluna Prestes.** No Rio Grande do Sul, outra revolta, liderada pelo capitão **Luís Carlos Prestes** (1898–1990), marchou para o norte e encontrou os paulistas em Foz do Iguaçu, em abril de 1925. Nasceu ali a **Coluna Miguel Costa–Prestes**, que percorreu cerca de **25 mil quilômetros** por **13 estados** durante dois anos, movendo-se pelo interior, sem base fixa, evitando o combate decisivo. Nunca foi derrotada em batalha; nunca conseguiu, tampouco, provocar a insurreição nacional que esperava. Em 1927, exausta, entrou na Bolívia e se dispersou. Prestes tornou-se o "**Cavaleiro da Esperança**" — apelido de uma biografia escrita por Jorge Amado — e, no exílio, converteu-se ao **comunismo**, filiando-se ao PCB em 1934 após um período em Moscou. Recusou, por isso, participar da Revolução de 1930, que considerava um arranjo entre oligarquias.
+
+**A repressão de Bernardes.** É preciso registrar que Artur Bernardes governou **quase todo o mandato (1922–26) sob estado de sítio**, com censura à imprensa, fechamento de sindicatos, prisões sem processo e deportação de presos políticos para colônias penais no extremo norte — **Clevelândia do Norte**, no Oiapoque, para onde foram enviados anarquistas, comunistas e rebeldes, e onde a maioria morreu de malária e fome. A Primeira República terminou muito mais autoritária do que começou.
+
+## A Semana de Arte Moderna e o modernismo {#sec-semana-de-22}
+
+Em fevereiro de 1922, no Theatro Municipal de São Paulo, três noites de conferências, música, poesia e exposição sacudiram o meio cultural brasileiro. Os organizadores — **Mário de Andrade**, **Oswald de Andrade**, Menotti del Picchia, Anita Malfatti, Di Cavalcanti, Villa-Lobos, Victor Brecheret — tinham o patrocínio de fazendeiros de café ilustrados, como Paulo Prado, e um objetivo declarado: **romper com o academicismo** — o parnasianismo na poesia, o realismo idealizado na pintura, a imitação de modelos europeus do século XIX.
+
+**O que se propunha.** Três coisas, articuladas:
+
+1. **Liberdade formal.** Verso livre, linguagem coloquial, incorporação das vanguardas europeias (futurismo, cubismo, expressionismo).
+2. **O Brasil como matéria.** Não o Brasil idealizado dos parnasianos e do indianismo romântico, mas o país real: a fala brasileira, o cotidiano urbano, o interior, as culturas indígena e africana.
+3. **A "antropofagia".** A resposta ao dilema de todo país periférico: como ser moderno sem ser cópia? A solução de **Oswald de Andrade** no *Manifesto Antropófago* (1928) foi devorar. "Só a Antropofagia nos une." "**Tupi or not tupi, that is the question.**" O ritual dos Tupinambá, que devoravam o inimigo valente para absorver sua força, vira metáfora de método: **deglutir** a cultura estrangeira e transformá-la em substância própria, em vez de imitá-la ou recusá-la [@andradeOswald2017].
+
+::: {.callout-note title="As fases do modernismo brasileiro"}
+- **Fase heroica (1922–30).** Ruptura, escândalo, manifestos. *Manifesto da Poesia Pau-Brasil* (1924), *Manifesto Antropófago* (1928), o *Manifesto Verde-Amarelo* (1926) e o grupo **Anta**, de tendência nacionalista e conservadora — lembrete de que o modernismo **não** era politicamente homogêneo. Obras-chave: *Paulicéia desvairada* (Mário, 1922), *Macunaíma* (Mário, 1928) [@andradeMario2016], *Memórias sentimentais de João Miramar* (Oswald, 1924), a poesia de Manuel Bandeira e a estreia de Carlos Drummond de Andrade.
+- **Segunda fase (1930–45).** Amadurecimento e virada social. O **romance de 30** do Nordeste — Graciliano Ramos (*Vidas secas*, 1938), Rachel de Queiroz (*O quinze*, 1930), José Lins do Rego, Jorge Amado — leva a linguagem modernista para a denúncia da seca, do latifúndio e da miséria.
+- **Terceira fase (a partir de 1945).** Rigor formal e reflexão: João Cabral de Melo Neto, Clarice Lispector, Guimarães Rosa.
+:::
+
+**O regionalismo de 1926.** No Recife, **Gilberto Freyre** organizou o **Congresso Regionalista**, com um manifesto que defendia a valorização da cultura regional, da tradição e do patrimônio nordestino contra a padronização "cosmopolita" que via em São Paulo. Foi outra resposta à mesma pergunta — o que é o Brasil? — em chave conservadora, e prepara o terreno para *Casa-grande & senzala* (1933), obra decisiva e polêmica que estudaremos adiante (@sec-era-vargas).
+
+::: {.callout-important title="Três equívocos comuns sobre a Semana de 22"}
+1. **"A Semana criou o modernismo brasileiro."** Não. Anita Malfatti já expusera em 1917 (e fora demolida por Monteiro Lobato no artigo "Paranoia ou mistificação?"); Villa-Lobos e Brecheret já trabalhavam; as vanguardas europeias circulavam desde os anos 1910. A Semana **catalisou** e deu visibilidade a um processo em curso.
+2. **"Foi um sucesso de público."** Foi vaiada. O impacto imediato foi restrito a São Paulo e ao meio letrado; a consagração é retrospectiva, construída sobretudo a partir dos anos 1940 e 1950 pelos próprios participantes e por seus herdeiros.
+3. **"O modernismo era de esquerda."** Havia de tudo: Oswald tornou-se comunista, Mário manteve-se um humanista de esquerda difusa, mas Menotti del Picchia, Cassiano Ricardo e Plínio Salgado — do grupo Verde-Amarelo — seguiram para o nacionalismo autoritário, e Salgado fundaria em 1932 a **Ação Integralista Brasileira**, de inspiração fascista.
+:::
+
+## Operários, comunistas e a "questão social" {#sec-operarios-pcb}
+
+O ciclo grevista aberto em 1917 (@sec-republica-velha) refluiu diante da repressão. Em **março de 1922**, militantes vindos majoritariamente do anarquismo fundaram, em Niterói, o **Partido Comunista do Brasil (PCB)**, inaugurando um novo modelo de ação: partido, disciplina, disputa institucional, sindicato como correia de transmissão. Posto na ilegalidade poucos meses depois, o partido atuou em grande parte na clandestinidade, com breves períodos legais (1927, 1945–47).
+
+Ao mesmo tempo, uma parte da elite começava a admitir que a "questão social" não se resolveria só com polícia. Vieram as primeiras leis sociais do país, tímidas mas significativas: a **Lei de Acidentes do Trabalho** (1919), a **Lei Eloy Chaves** (1923), que criou as Caixas de Aposentadoria e Pensões dos ferroviários — marco inicial da previdência brasileira —, e a lei de férias (1925), largamente descumprida. A Primeira República tratou essas medidas como concessões pontuais; a Era Vargas as transformaria em sistema.
+
+## 1929–1930: a ruptura {#sec-ruptura-1930}
+
+**A quebra do pacto.** Em 1929, o presidente **Washington Luís** (paulista) deveria, pela lógica do café com leite, apoiar um mineiro para sucedê-lo. Indicou **Júlio Prestes**, presidente de São Paulo. Minas Gerais, sob **Antônio Carlos Ribeiro de Andrada**, rompeu — dele é a frase mais citada do episódio: "**façamos a revolução antes que o povo a faça**".
+
+**A Aliança Liberal.** Formou-se então uma coalizão de oligarquias dissidentes — **Minas Gerais**, **Rio Grande do Sul** e **Paraíba** — em torno da chapa **Getúlio Vargas** (presidente do RS) para presidente e **João Pessoa** (PB) para vice. O programa era o das bandeiras tenentistas acrescido de acenos sociais: voto secreto, anistia aos revoltosos, legislação trabalhista, incentivo à diversificação da produção. Vargas, note-se, era um político oligárquico experiente, ex-ministro da Fazenda de Washington Luís — não um outsider.
+
+**A crise de 1929.** Em outubro, a quebra da Bolsa de Nova York (@sec-crise-de-1929-entreguerras) atingiu o Brasil em cheio: o preço do café despencou cerca de dois terços, as exportações desabaram, o crédito externo secou, e o governo, comprometido com a ortodoxia monetária, resistiu a socorrer os cafeicultores como antes. A base econômica e política do sistema ruía no exato momento da disputa sucessória.
+
+**A eleição e o assassinato.** Em março de 1930, **Júlio Prestes venceu** com cerca de 1 milhão de votos contra 740 mil — resultado obtido, como sempre, com ampla fraude de ambos os lados. A Aliança Liberal denunciou o pleito, mas a conspiração armada só ganhou tração quando, em **26 de julho de 1930**, **João Pessoa** foi assassinado em Recife por João Dantas. O crime teve motivação sobretudo **pessoal** — uma disputa política local somada à divulgação, por aliados de Pessoa, de cartas íntimas do assassino —, mas foi imediatamente convertido em **martírio político**. O corpo foi levado ao Rio e velado por multidões. A palavra que ele escrevera como resposta a um pedido de apoio governista, "**Nego**", foi estampada na bandeira da Paraíba, onde permanece até hoje.
+
+::: {#fig-cadeia-1930}
+
+```{.tikz}
+%%| filename: fig-cadeia-1930
+%%| alt: Fluxograma da cadeia causal que levou à Revolução de 1930, combinando causas estruturais, conjunturais e o gatilho contingente.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize},
+   cx/.style={draw, thick, rounded corners, align=center, text width=3.5cm}]
+  \node[cx, fill=manualgray!18] (e1) at (-4.2,3.4) {\textbf{ESTRUTURAL}\\ industrialização e\\ urbanização criam grupos\\ \textbf{sem representação}};
+  \node[cx, fill=manualgray!18] (e2) at (0,3.4)    {\textbf{ESTRUTURAL}\\ \textbf{tenentismo}: uma década\\ de revoltas militares\\ (1922, 1924, Coluna)};
+  \node[cx, fill=manualgray!18] (e3) at (4.2,3.4)  {\textbf{ESTRUTURAL}\\ monocultura do café e\\ \textbf{superprodução} acumulada\\ desde o Convênio de 1906};
+
+  \node[cx, fill=manualyellow!28] (c1) at (-4.2,0.8) {\textbf{CONJUNTURAL} (1929)\\ Washington Luís indica\\ \textbf{Júlio Prestes}: ruptura\\ do pacto \textbf{SP--MG}};
+  \node[cx, fill=manualyellow!28] (c2) at (0,0.8)    {\textbf{CONJUNTURAL} (1929)\\ \textbf{Aliança Liberal}\\ (MG + RS + PB):\\ Vargas e João Pessoa};
+  \node[cx, fill=manualyellow!28] (c3) at (4.2,0.8)  {\textbf{CONJUNTURAL} (1929)\\ \textbf{crise de 1929}: café cai\\ $\sim$2/3, crédito externo\\ seca, receita despenca};
+
+  \node[cx, fill=manualblue!18, text width=11.6cm] (el) at (0,-1.4)
+    {\textbf{ELEIÇÃO} (mar. 1930): vitória fraudada de \textbf{Júlio Prestes} --- 1 milhão $\times$ 740 mil votos.\\ A Aliança denuncia o pleito, mas a maioria de seus chefes ainda hesita em pegar em armas.};
+  \node[cx, fill=manualred!22, text width=11.6cm, text=manualred] (ga) at (0,-3.2)
+    {\textbf{GATILHO} (26 jul. 1930): assassinato de \textbf{João Pessoa}, de motivação sobretudo pessoal,\\ convertido em \textbf{martírio político} --- fornece a emoção pública que faltava};
+  \node[cx, fill=manualgreen!20, text width=11.6cm, text=manualgreen] (rev) at (0,-5.0)
+    {\textbf{3 out. 1930} levante em RS, MG e Nordeste $\rightarrow$ \textbf{24 out.} junta de generais depõe Washington Luís\\ $\rightarrow$ \textbf{3 nov.} a junta entrega o poder a \textbf{Getúlio Vargas}};
+
+  \draw[vetor, thick, manualgray] (e1) -- (c1);
+  \draw[vetor, thick, manualgray] (e2) -- (c2);
+  \draw[vetor, thick, manualgray] (e3) -- (c3);
+  \draw[vetor, thick, manualgray] (c1) -- (el);
+  \draw[vetor, thick, manualgray] (c2) -- (el);
+  \draw[vetor, thick, manualgray] (c3) -- (el);
+  \draw[vetor, thick, manualgray] (el) -- (ga);
+  \draw[vetor, thick, manualgray] (ga) -- (rev);
+
+  \node[draw, dashed, rounded corners, fill=manualgray!12, align=center, text width=11.8cm] at (0,-6.7)
+    {\textbf{Retire qualquer linha e o desfecho muda.} Sem a crise do café, a dissidência mineira teria menos força;\\ sem o tenentismo, faltaria o braço armado; sem o assassinato, faltaria o mártir. \textbf{Nada aqui era inevitável.}};
+\end{tikzpicture}
+```
+
+A cadeia causal de 1930 em três camadas: causas estruturais, causas conjunturais e o gatilho contingente.
+:::
+
+**3 de outubro de 1930.** Eclodiram movimentos armados no Rio Grande do Sul, em Minas e no Nordeste, sob comando civil e militar coordenado por **Osvaldo Aranha** e **Góis Monteiro**, com adesão maciça de tenentes. Em três semanas, as tropas gaúchas chegaram a São Paulo. Em **24 de outubro**, uma junta de generais **depôs Washington Luís** — em parte para conter a revolução, em parte para negociá-la. Em **3 de novembro**, a junta entregou o poder a **Getúlio Vargas**, que amarrou seu cavalo no obelisco da Avenida Rio Branco. Estava encerrada a Primeira República.
+
+::: {.callout-tip title="Como responder à pergunta \"a Revolução de 1930 foi uma revolução?\""}
+Depende do critério, e uma boa resposta explicita isso.
+
+- **Se o critério for mudança na estrutura social** (propriedade, classes dominantes): **não**. Não houve reforma agrária, os grandes proprietários continuaram no topo, e Vargas era um chefe oligárquico gaúcho.
+- **Se o critério for ruptura institucional e deslocamento do bloco no poder**: **sim, em parte**. Encerrou-se o predomínio exclusivo do café paulista, o Estado central passou a arbitrar entre grupos (industriais, militares, classes médias urbanas, trabalhadores organizados), extinguiram-se o Congresso e as constituições estaduais, e o país passou a ser governado por decreto durante quatro anos.
+
+A formulação mais precisa é a de Boris Fausto: 1930 não foi uma revolução burguesa nem uma simples troca de oligarquias, mas a instalação de um **Estado de compromisso**, relativamente autônomo em relação a todas as classes, capaz de arbitrá-las [@fausto1997]. Analisaremos isso em detalhe no @sec-era-vargas.
+:::
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+**Que classe falava pela boca dos tenentes?** A pergunta organiza sessenta anos de debate.
+
+**1. A tese da classe média.** Formulada nos anos 1930 por participantes como **Virgínia Santa Rosa** e desenvolvida por **Nelson Werneck Sodré** [@sodre1976], sustenta que o tenentismo foi a expressão política das **camadas médias urbanas** — grupos que a industrialização e a urbanização haviam criado, que não tinham lugar no arranjo oligárquico e que encontraram no Exército, instituição de recrutamento relativamente meritocrático, seu canal de expressão. O argumento tem base sociológica: os tenentes de fato vinham majoritariamente desses setores, e suas bandeiras (moralização, mérito, ensino público, voto secreto) são reconhecivelmente de classe média.
+
+**2. A crítica de Boris Fausto.** Fausto objeta que a correspondência entre **origem social** e **conteúdo político** não pode ser presumida — é preciso demonstrá-la. E, no caso, ela falha em dois pontos. Primeiro, as classes médias urbanas brasileiras dos anos 1920 **não estavam organizadas** como ator político autônomo: não tinham partido, imprensa própria nem programa; não havia, portanto, uma "vontade de classe média" que os tenentes pudessem representar. Segundo, o tenentismo se explica melhor por sua **condição institucional específica**: militares formados numa corporação em processo de profissionalização, com valores próprios (hierarquia, técnica, unidade nacional, desprezo pelo regateio político), reagindo à humilhação de sua instituição pelo poder civil. O tenentismo seria, assim, um movimento **militar**, com ideologia própria, e não o porta-voz de uma classe [@fausto1997].
+
+**3. O que a divisão posterior revela.** Há um teste empírico elegante para o debate: **o que os tenentes fizeram depois**. Se fossem representantes de uma classe com projeto definido, seguiriam juntos. Não seguiram. **Prestes** foi para o comunismo e liderou a Aliança Nacional Libertadora em 1935. **Juarez Távora** tornou-se ministro de Vargas e, décadas depois, apoiou o golpe de 1964, chegando a candidato à Presidência pela UDN. **Eduardo Gomes**, sobrevivente do Forte, virou o candidato liberal-conservador da UDN em 1945 e 1950. **Miguel Costa** foi para a esquerda paulista. Outros, ainda, foram interventores autoritários e quadros do Estado Novo. Essa dispersão é o argumento mais forte a favor de Fausto: o tenentismo era uma **rejeição comum** (à ordem oligárquica) sem um **projeto comum** de substituição — o que explica tanto sua força destrutiva quanto sua incapacidade de governar sozinho.
+
+**4. E o modernismo: ruptura ou continuidade?** O debate se repete em outra chave. A leitura consagrada, difundida pelos próprios modernistas, apresenta 1922 como o **ano zero** da cultura brasileira moderna. **Antonio Candido** matizou: o modernismo é o momento em que a literatura brasileira alcança maturidade e liberdade, mas ele o insere numa linha longa de "**dialética do localismo e do cosmopolitismo**" que atravessa toda a nossa história literária — o problema de conciliar o nacional e o universal não nasce em 1922, apenas encontra ali sua formulação mais radical [@candido2006]. Numa terceira direção, historiadores da cultura chamam atenção para o que a consagração da Semana **apagou**: o modernismo teve financiamento da elite cafeeira paulista; foi um movimento de **São Paulo** que se apresentou como nacional; e sua canonização, construída retrospectivamente nos anos 1940–50, obscureceu vertentes contemporâneas — a produção intelectual negra da imprensa paulista, o regionalismo nordestino, a modernidade popular do samba e do carnaval carioca, que naqueles mesmos anos inventavam formas brasileiras sem manifesto nem Theatro Municipal.
+
+**5. O que aprender com os dois debates.** Em ambos os casos, a operação historiográfica é a mesma e vale como método: pega-se um evento que a memória consagrou como **fundador** e pergunta-se (a) o que já existia antes dele, (b) quem falou em nome de quem, e (c) quem construiu, mais tarde, a versão que chegou até nós. Aplicar essas três perguntas a qualquer "marco fundador" — inclusive aos que você encontrará adiante neste manual — é um bom hábito de leitura crítica (@sec-memoria-patrimonio).
+
+## Resumo do capítulo {#sec-resumo}
+
+- Os anos 1920 expõem o **esgotamento da ordem oligárquica**: industrialização impulsionada pela **Primeira Guerra**, urbanização, imprensa e rádio, profissionalização do **Exército** (Missão Militar Francesa) e novos grupos sociais sem representação política.
+- **1922 é a data-síntese**: **Semana de Arte Moderna** (fevereiro), fundação do **PCB** (março), revolta do **Forte de Copacabana** (julho) e **centenário da Independência** (setembro). A eleição de **Artur Bernardes**, precedida pelo escândalo das **cartas falsas**, foi o estopim.
+- **Tenentismo:** movimento de jovens oficiais com bandeiras **institucionais** — voto secreto, Justiça Eleitoral, ensino público, moralização, centralização —, **sem** programa social e desconfiado da mobilização popular. Etapas: **18 do Forte** (1922), **revolta paulista** de 1924 (São Paulo ocupada por 23 dias e bombardeada pelo governo), **Coluna Prestes** (1925–27: 25 mil km, 13 estados, nunca derrotada, nunca vitoriosa).
+- **Bernardes** governou quase todo o mandato sob **estado de sítio**, com censura e deportação de presos políticos para **Clevelândia do Norte**.
+- **Semana de 22:** ruptura com o academicismo, liberdade formal, o Brasil real como matéria e a **antropofagia** de Oswald ("Tupi or not tupi") como método de deglutir a cultura estrangeira. Fases: **heroica** (1922–30, manifestos, *Macunaíma*), **social** (romance de 30 nordestino) e **de rigor formal** (a partir de 1945). Em paralelo, o **regionalismo** de Gilberto Freyre (Recife, 1926).
+- Cuidado com três equívocos: a Semana **catalisou**, não criou o modernismo; foi **vaiada** e teve consagração retrospectiva; e o movimento **não era homogêneo** politicamente (o grupo Verde-Amarelo levaria Plínio Salgado ao **integralismo**).
+- **Movimento operário:** refluxo após 1917, fundação do **PCB** (1922) e passagem do anarcossindicalismo ao modelo partidário; primeiras leis sociais — acidentes de trabalho (1919), **Lei Eloy Chaves** (1923, origem da previdência), férias (1925).
+- **A ruptura:** **Washington Luís** indica outro paulista (**Júlio Prestes**); Minas rompe ("façamos a revolução antes que o povo a faça"); forma-se a **Aliança Liberal** (MG + RS + PB) com **Vargas** e **João Pessoa**. A **crise de 1929** derruba o café; Prestes vence a eleição fraudada de março de 1930; o **assassinato de João Pessoa** (julho) fornece o mártir; em **3 de outubro** eclode o movimento armado; em **24 de outubro** uma junta depõe Washington Luís e, em **3 de novembro**, entrega o poder a **Vargas**.
+- **Historiografia:** tenentismo como expressão da **classe média** (Santa Rosa, Sodré) × como movimento **militar corporativo** com ideologia própria (**Fausto**) — a **dispersão posterior** dos tenentes (Prestes ao comunismo, Távora e Eduardo Gomes à direita) favorece a segunda leitura. Sobre o modernismo: **ruptura fundadora** × a **longa dialética** localismo/cosmopolitismo de **Antonio Candido** × a crítica à canonização paulista, que ofuscou a imprensa negra, o regionalismo e o samba.
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Domine: (1) os quatro processos que corroem a ordem oligárquica; (2) o que 1922 concentra; (3) as bandeiras **e os limites** do tenentismo; (4) a sequência 1922 → 1924 → Coluna Prestes; (5) o que a Semana de 22 propôs e a **antropofagia**; (6) a cadeia causal de 1929–30; (7) o debate Sodré × Fausto e o debate sobre a canonização do modernismo.
+:::
+
+**1.** Explique por que o ano de **1922** é considerado um marco na história brasileira.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque concentra quatro acontecimentos de naturezas diferentes que apontam para o mesmo diagnóstico — a crise de representação da ordem oligárquica.
+
+1. **Semana de Arte Moderna** (11–18 de fevereiro, Theatro Municipal de São Paulo). Ruptura estética com o academicismo e busca de uma linguagem brasileira moderna.
+2. **Fundação do PCB** (25–27 de março, Niterói). Surge um partido de trabalhadores com projeto de tomada do poder, marcando o deslocamento do anarcossindicalismo para o modelo partidário — influência direta da Revolução Russa (@sec-revolucao-russa).
+3. **Revolta do Forte de Copacabana** (5 de julho). Primeira manifestação armada do **tenentismo**, gesto suicida que se torna mito fundador de um movimento que atravessará a década.
+4. **Centenário da Independência** (setembro). O regime celebrava cem anos de nação com uma Exposição Internacional no Rio, projetando uma imagem de progresso e ordem — exatamente o oposto do que os outros três episódios revelavam.
+
+**O que os une.** Setores urbanos, jovens e emergentes — artistas, operários, oficiais — buscando, cada um em sua linguagem (estética, partidária, militar), formas de expressar que o país oficial não os representava. Note que **nenhum** deles usou a via eleitoral: num sistema com 3% de eleitores, voto aberto e degola, não havia por onde.
+
+**Cuidado.** Não conclua que houve articulação entre os quatro. Não houve: os modernistas eram financiados por fazendeiros de café, os comunistas desconfiavam dos tenentes, e os tenentes desconfiavam de ambos. A convergência é **de sintoma**, não de projeto — e essa distinção é o que separa uma boa resposta de uma resposta decorada.
+:::
+
+**2.** Caracterize o **tenentismo**: composição, bandeiras e limites.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Composição.** Oficiais jovens de baixa e média patente (tenentes, capitães, alguns majores), de origem urbana e de camadas médias, formados nas escolas militares reformadas pela Missão Militar Francesa (a partir de 1919) e pela geração dos "jovens turcos".
+
+**Bandeiras.** Essencialmente **institucionais e moralizadoras**:
+
+- **voto secreto** e criação de uma **Justiça Eleitoral** independente, para acabar com o voto de cabresto e a degola;
+- **ensino público** obrigatório e gratuito;
+- **moralização** da administração e combate à corrupção;
+- **centralização** do Estado, com enfraquecimento das oligarquias regionais;
+- **nacionalismo** e valorização do Exército como instituição nacional.
+
+**Limites — o ponto que separa nota boa de nota alta.**
+
+1. **Não havia programa social.** Nada sobre reforma agrária, estrutura fundiária, direitos trabalhistas ou distribuição de renda.
+2. **Não havia base popular.** O movimento não se dirigiu a operários nem a camponeses; a Coluna Prestes atravessou 13 estados sem tentar armar a população sertaneja.
+3. **Havia desconfiança da democracia de massas.** Vários tenentes defendiam voto secreto **e**, ao mesmo tempo, achavam o povo "despreparado"; a mudança deveria vir de cima, por uma elite esclarecida — daí a facilidade com que muitos aderiram depois a soluções autoritárias.
+4. **Não havia projeto comum de poder.** Sabiam o que rejeitavam, não o que construiriam.
+
+**A prova disso.** Depois de 1930, os tenentes se dispersaram por todo o espectro político: **Prestes** ao comunismo, **Juarez Távora** e **Eduardo Gomes** à direita liberal-conservadora (Távora chegou a apoiar o golpe de 1964), outros ao autoritarismo do Estado Novo. Um movimento com projeto de classe definido não se fragmenta assim.
+:::
+
+**3.** Narre a trajetória da **Coluna Prestes** e avalie seus resultados.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Formação.** Em outubro de 1924, revoltou-se uma guarnição no Rio Grande do Sul sob o capitão **Luís Carlos Prestes**. Em abril de 1925, em Foz do Iguaçu, essa coluna encontrou os remanescentes da revolta paulista de 1924, comandados por **Miguel Costa**. Nasceu a **Coluna Miguel Costa–Prestes**, com cerca de 1.500 combatentes.
+
+**Trajetória.** Entre 1925 e 1927 percorreu aproximadamente **25 mil quilômetros** por **13 estados**, sobretudo pelo interior e pelo sertão nordestino, adotando **guerra de movimento**: nunca aceitar o combate decisivo, deslocar-se continuamente, viver de recursos locais, dispersar-se e reagrupar-se. Enfrentou tropas federais, forças estaduais e jagunços de coronéis. Em fevereiro de 1927, exaurida, cruzou para a **Bolívia** e se dispersou; Prestes seguiu para a Argentina.
+
+**Resultados militares.** Ambíguos e reveladores. Nunca foi **derrotada** em combate — proeza notável contra forças muito superiores. Mas também nunca **venceu** nada de decisivo: não tomou nem manteve cidade importante, não derrubou o governo, não provocou a insurreição nacional que era seu objetivo.
+
+**Resultados políticos — os que importaram.**
+
+1. **Demonstrou a fragilidade do Estado.** Uma tropa de milhares de homens circulou dois anos pelo território nacional sem que o governo federal conseguisse detê-la, expondo a inexistência de um poder central efetivo no interior — argumento que reforçaria a centralização a partir de 1930.
+2. **Criou um mito.** Prestes tornou-se o "**Cavaleiro da Esperança**" e uma referência nacional, prestígio que sustentaria sua liderança no PCB por décadas.
+3. **Levou os tenentes ao país profundo.** Muitos deles viram, pela primeira vez, o sertão, a miséria e o mandonismo de perto — experiência que radicalizou uns e frustrou outros.
+4. **Politizou seu líder em direção inesperada.** No exílio, Prestes leu Marx, contatou comunistas e concluiu que o problema brasileiro era **social**, não apenas institucional. Por isso **recusou** participar da Revolução de 1930, que considerava uma disputa entre frações da mesma classe dominante — rompendo com seus antigos companheiros de armas.
+
+**Avaliação.** A Coluna fracassou em seus objetivos declarados e teve enorme eficácia simbólica. É um bom exemplo de que, em história, o efeito de um acontecimento raramente coincide com a intenção de quem o produziu.
+:::
+
+**4.** O que a **Semana de Arte Moderna** propôs? Explique o conceito de **antropofagia**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**As propostas.**
+
+1. **Ruptura com o academicismo**: contra o parnasianismo (metrificação rígida, vocabulário rebuscado, temas clássicos), contra a pintura acadêmica e contra a imitação de modelos europeus oitocentistas.
+2. **Liberdade formal**: verso livre, ausência de rima obrigatória, linguagem **coloquial brasileira** (o "erro" gramatical como escolha estética), incorporação de técnicas das vanguardas — futurismo, cubismo, expressionismo.
+3. **O Brasil real como matéria**: não o índio idealizado do romantismo nem a natureza decorativa, mas a cidade, a fala popular, o interior, as culturas indígena e africana, o cotidiano.
+
+**A antropofagia.** Formulada por **Oswald de Andrade** no *Manifesto Antropófago* (1928) [@andradeOswald2017], responde ao dilema de toda cultura periférica: **como ser moderno sem ser cópia?**
+
+- A **recusa total** do estrangeiro leva ao provincianismo e ao nacionalismo defensivo.
+- A **imitação** leva à cópia atrasada e subalterna.
+- A **antropofagia** propõe a terceira via: **devorar**. A referência é o ritual dos Tupinambá, que comiam o inimigo bravo para incorporar sua força — não por gula, mas por respeito. Traduzido para a cultura: absorver criticamente o que vem de fora, digeri-lo e transformá-lo em substância própria e nova.
+
+Daí as fórmulas do manifesto: "**Só a Antropofagia nos une.**" "**Tupi or not tupi, that is the question**" — trocadilho que é, ele mesmo, um ato antropofágico, pois devora Shakespeare para dizer algo brasileiro. E a datação irônica do texto: "Ano 374 da Deglutição do Bispo Sardinha", contado a partir de 1554, quando o primeiro bispo do Brasil foi comido por indígenas Caeté.
+
+**A realização literária.** *Macunaíma* (1928), de Mário de Andrade, é o exemplo maior [@andradeMario2016]: uma "rapsódia" que mistura mitos indígenas, lendas africanas e europeias, falares de todas as regiões e um herói "sem nenhum caráter" — isto é, sem caráter fixo, feito de contradições —, que é a própria tentativa de figurar o Brasil como mistura, e não como essência.
+
+**Por que o conceito ainda é usado.** Porque nomeia um problema permanente de países periféricos e reaparece toda vez que se discute a relação entre cultura nacional e influência externa — na Tropicália dos anos 1960, no design, na música popular, e hoje nos debates sobre plataformas e circulação global de cultura.
+:::
+
+**5.** (Estilo ENEM) Leia o texto.
+
+> "Só a Antropofagia nos une. Socialmente. Economicamente. Filosoficamente. […] Tupi, or not tupi, that is the question. […] Só me interessa o que não é meu. Lei do homem. Lei do antropófago. […] Nunca fomos catequizados. Fizemos foi Carnaval."
+>
+> — Oswald de Andrade, *Manifesto Antropófago*, 1928 [@andradeOswald2017]
+
+O trecho expressa uma proposta de relação com a cultura estrangeira baseada na
+
+**(a)** rejeição integral das influências externas, em defesa de uma cultura nacional pura e original.
+**(b)** absorção crítica e reelaboração das influências externas a partir de elementos da cultura brasileira.
+**(c)** imitação fiel dos modelos europeus, considerados superiores e universais.
+**(d)** substituição da cultura popular brasileira pelos padrões eruditos das vanguardas europeias.
+**(e)** neutralidade estética, com recusa de qualquer vínculo entre arte e identidade nacional.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (b).** Três elementos do texto convergem para ela.
+
+A metáfora da **antropofagia** remete ao ritual tupinambá de devorar o inimigo valente para absorver sua força — o modelo, portanto, é o de **incorporação transformadora**, não de rejeição nem de cópia. "Só me interessa o que não é meu" declara abertamente o **interesse** pelo estrangeiro, o que já elimina qualquer leitura de recusa. E "Nunca fomos catequizados. Fizemos foi Carnaval" afirma que o que chegou de fora (a catequese) foi **reprocessado** por uma cultura própria, produzindo algo novo (o Carnaval) — que não é nem europeu nem pré-colonial.
+
+O trocadilho "**Tupi, or not tupi**" faz na prática o que o manifesto prega: devora Shakespeare e o transforma em enunciado brasileiro.
+
+Por que as demais estão erradas:
+
+- **(a)** o manifesto declara explicitamente interesse pelo que vem de fora; a antropofagia é o contrário do isolamento;
+- **(c)** a proposta é digerir, não reproduzir — e o tom irônico de todo o texto é justamente antiacadêmico;
+- **(d)** o movimento valoriza, e não substitui, elementos populares e indígenas (Carnaval, mito tupi, fala coloquial);
+- **(e)** o manifesto é intensamente ligado à questão da identidade nacional; a neutralidade é o oposto de seu projeto.
+:::
+
+**6.** Explique a cadeia de acontecimentos que levou à **Revolução de 1930**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**1. A ruptura do pacto (1929).** Pela lógica do café com leite, **Washington Luís** (paulista) deveria apoiar um mineiro. Indicou **Júlio Prestes**, presidente de São Paulo, por razões concretas: queria continuidade de sua política monetária ortodoxa de estabilização cambial, que um mineiro poderia abandonar. **Minas Gerais**, sob Antônio Carlos, rompeu.
+
+**2. A Aliança Liberal.** Coalizão de oligarquias dissidentes — **Minas Gerais**, **Rio Grande do Sul** e **Paraíba** — em torno de **Getúlio Vargas** (presidente do RS) e **João Pessoa** (PB). Programa: **voto secreto**, **anistia** aos tenentes, **legislação trabalhista** e diversificação da produção. Note que as três primeiras bandeiras são tenentistas: a Aliança fazia a ponte entre oligarcas dissidentes e militares rebeldes.
+
+**3. A crise de 1929.** A quebra da Bolsa de Nova York (@sec-crise-de-1929-entreguerras) derrubou o preço do café em cerca de dois terços, secou o crédito externo e esvaziou as reservas. Washington Luís, fiel à ortodoxia, resistiu a socorrer os cafeicultores nos moldes anteriores — perdendo apoio até em sua própria base. A economia que sustentava o regime desabou no ano exato da sucessão.
+
+**4. A eleição fraudada (março de 1930).** **Júlio Prestes** venceu com cerca de 1 milhão contra 740 mil votos, em pleito com fraude generalizada dos dois lados. A Aliança denunciou o resultado, mas a maioria de seus chefes hesitava em partir para as armas.
+
+**5. O mártir (26 de julho de 1930).** O assassinato de **João Pessoa**, em Recife, por João Dantas, teve causas sobretudo **pessoais e locais**, mas foi imediatamente transformado em crime político. Seu corpo foi velado por multidões no Rio. Foi esse fato — e não a fraude eleitoral — que deu à conspiração o clima emocional e a legitimidade pública de que precisava.
+
+**6. O levante (3 de outubro de 1930).** Movimentos armados eclodiram no RS, em MG e no Nordeste, coordenados por **Osvaldo Aranha** e **Góis Monteiro**, com adesão maciça dos **tenentes** e de parte considerável do Exército.
+
+**7. O desfecho (24 de outubro a 3 de novembro).** Uma **junta de generais** depôs Washington Luís — manobra ambígua, que tanto atendia à revolução quanto tentava confiscá-la. Pressionada, a junta entregou o poder a **Vargas** em **3 de novembro**.
+
+**A conclusão importante.** 1930 não foi obra de um único fator. Foi a **convergência** de uma crise econômica internacional, de uma ruptura na elite dominante, de um movimento militar com uma década de acúmulo e de um episódio contingente (o assassinato) que funcionou como gatilho. Retire qualquer um deles e o desfecho provavelmente seria outro — o que é um bom antídoto contra explicações deterministas.
+:::
+
+**7.** (Estilo vestibular — dissertativa) Confronte as interpretações de **Nelson Werneck Sodré** e de **Boris Fausto** sobre a natureza social do tenentismo, e explique como a trajetória posterior dos tenentes pode ser usada como argumento no debate.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**A tese da classe média (Santa Rosa, Sodré).** O tenentismo teria sido a expressão política das **camadas médias urbanas** emergentes — funcionários, profissionais liberais, pequenos comerciantes, militares —, criadas pela urbanização e pela industrialização do início do século e sem lugar no arranjo oligárquico, que reservava a política aos grandes proprietários. O Exército, cujo recrutamento era relativamente mais meritocrático, teria funcionado como o **canal disponível** para essa camada [@sodre1976]. As evidências a favor: a origem social efetiva dos oficiais e o conteúdo tipicamente médio das bandeiras — mérito, moralidade administrativa, ensino público, voto secreto, hostilidade tanto à oligarquia quanto à "desordem" operária.
+
+**A crítica de Fausto.** O problema é metodológico: **origem social não determina conteúdo político**, e a correspondência precisa ser demonstrada, não presumida. E, no caso brasileiro dos anos 1920, ela falha por duas razões [@fausto1997]:
+
+1. As classes médias urbanas **não existiam como ator político organizado**. Não tinham partido, programa, imprensa própria nem organizações representativas. Não havia, portanto, um projeto de classe média a ser representado — e um movimento não pode expressar uma vontade coletiva que ainda não foi formulada.
+2. O tenentismo se explica melhor pela sua **condição institucional**: militares formados numa corporação em processo de profissionalização, com valores próprios — hierarquia, técnica, unidade nacional, desprezo pelo regateio político —, reagindo à humilhação de sua instituição por um poder civil que a usava e a desdenhava (o episódio das cartas falsas e a prisão de Hermes da Fonseca são exemplares). O tenentismo seria, então, um movimento **militar com ideologia corporativa**, não o braço armado de uma classe.
+
+**O argumento decisivo: o que fizeram depois.** Se o tenentismo expressasse um projeto de classe, seus quadros tenderiam a permanecer no mesmo campo político. Ocorreu o contrário — a dispersão foi quase total:
+
+| Tenente | Trajetória posterior |
+|---|---|
+| **Luís Carlos Prestes** | recusa 1930, adere ao **comunismo**, lidera a ANL (1935), secretário-geral do PCB |
+| **Juarez Távora** | ministro de Vargas, depois **UDN**; candidato à Presidência em 1955; apoia o **golpe de 1964** |
+| **Eduardo Gomes** | brigadeiro, candidato **liberal-conservador** da UDN em 1945 e 1950 |
+| **Miguel Costa** | esquerda paulista, Partido Socialista |
+| **Outros** | interventores estaduais e quadros do **Estado Novo** autoritário |
+
+Do comunismo ao autoritarismo, passando pelo liberalismo udenista: um movimento não se fragmenta assim se tem projeto de classe. A dispersão indica que o que unia os tenentes era uma **rejeição comum** — a ordem oligárquica, a fraude, o predomínio dos "carcomidos" — e não uma **proposta comum** de sociedade.
+
+**Síntese possível.** As duas leituras podem ser combinadas com proveito, desde que se respeite a distinção entre níveis: a **base de recrutamento** era de fato majoritariamente de camadas médias urbanas (Sodré tem razão nesse ponto empírico), mas a **ideologia** do movimento era gerada dentro da corporação militar e por suas questões específicas (Fausto tem razão no ponto explicativo). A lição de método é generalizável: em análise histórica, não deduza o conteúdo político de um movimento a partir da origem social de seus membros — verifique o que eles efetivamente propuseram e fizeram.
+:::
+
+**8.** A Revolução de 1930 foi uma revolução? Justifique.
+
+::: {.callout-tip collapse="true" title="Solução"}
+A resposta correta começa por **explicitar o critério**, porque "revolução" significa coisas diferentes conforme a definição adotada.
+
+**Critério 1 — transformação da estrutura social (propriedade, classes dominantes).** Pelo critério mais exigente, **não foi**. Não houve reforma agrária; a grande propriedade permaneceu intocada; os cafeicultores continuaram sendo socorridos (Vargas comprou e queimou dezenas de milhões de sacas); e o próprio Vargas era um chefe oligárquico gaúcho, ex-ministro da Fazenda do governo que derrubou. Trocaram-se pessoas no comando, não a estrutura da sociedade.
+
+**Critério 2 — ruptura institucional e recomposição do bloco no poder.** Por esse critério, **houve mudança substantiva**. Extinguiram-se o Congresso Nacional, as assembleias e as constituições estaduais; nomearam-se **interventores** para os estados (vários deles tenentes); governou-se por **decreto** até 1934; criaram-se ministérios novos — do **Trabalho, Indústria e Comércio** e da **Educação e Saúde** (1930) —, sinal de que o Estado assumia funções que antes recusava; e o predomínio **exclusivo** do café paulista foi quebrado, ainda que São Paulo continuasse economicamente central (a Revolução Constitucionalista de 1932 é a resposta a essa perda).
+
+**A formulação mais precisa.** Boris Fausto propõe entender 1930 como a instalação de um **Estado de compromisso** [@fausto1997]: um Estado que não é instrumento direto de nenhuma classe e que ganha **autonomia relativa** justamente porque nenhum grupo — nem cafeicultores enfraquecidos pela crise, nem industriais ainda incipientes, nem classes médias desorganizadas, nem operários reprimidos — tem força para impor seu projeto sozinho. Cabe ao Estado arbitrar entre eles, e é essa arbitragem que define a Era Vargas (@sec-era-vargas).
+
+**Formulações alternativas úteis.** Alguns autores falam em "**revolução pelo alto**" ou em **modernização conservadora**: transformação real do Estado e da economia conduzida **sem** participação popular e **sem** alterar a estrutura da propriedade — um padrão que reaparece em outros momentos da história brasileira, inclusive em 1964 e 1985 (@sec-redemocratizacao-nova-republica).
+
+**Como fechar a resposta.** O melhor encerramento não escolhe um rótulo, mas mostra que a escolha do rótulo depende do critério — e que 1930 é um caso claro de **mudança política profunda com continuidade social**. Reconhecer essa combinação é mais útil do que decidir se a palavra "revolução" cabe ou não.
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- FAUSTO, Boris. *A Revolução de 1930: historiografia e história* [@fausto1997]. Curto e decisivo; é o livro que reorganizou o debate sobre 1930 e sobre o tenentismo.
+- FAUSTO, Boris. *História do Brasil* [@fausto2015] e SCHWARCZ, Lilia; STARLING, Heloisa. *Brasil: uma biografia* [@schwarczStarling2015]. As sínteses de referência para a década.
+- LIRA NETO. *Getúlio (1882–1930)* [@lira2013]. Biografia narrativa, excelente para acompanhar a formação política de Vargas até a tomada do poder.
+- PRESTES, Anita Leocádia. *Luiz Carlos Prestes: um comunista brasileiro* [@prestes2015]. Escrita pela filha e historiadora; leia atento à posição de quem escreve — o que é, aliás, um bom exercício de crítica de fonte.
+- CANDIDO, Antonio. *Literatura e sociedade* [@candido2006]. Onde está a formulação da "dialética do localismo e do cosmopolitismo".
+
+**Fontes primárias**
+
+- ANDRADE, Oswald de. *Manifesto da Poesia Pau-Brasil* (1924) e *Manifesto Antropófago* (1928) [@andradeOswald2017]. Curtos, disponíveis online e muito cobrados em prova. Leia-os inteiros — leva dez minutos.
+- ANDRADE, Mário de. *Macunaíma* [@andradeMario2016] e *Paulicéia desvairada*.
+- O **Manifesto Regionalista** de 1926, atribuído a Gilberto Freyre, e o **Manifesto Verde-Amarelo** (1926): as respostas conservadoras à mesma pergunta sobre identidade nacional.
+- A imprensa da época (*Correio da Manhã*, *O Estado de S. Paulo*), digitalizada na Hemeroteca da Biblioteca Nacional: acompanhar a cobertura das revoltas de 1922 e 1924 mostra como o mesmo fato era narrado de formas opostas.
+
+**Filmes e documentários**
+
+- *São Paulo, Sinfonia da Metrópole* (1929), de Rodolfo Rex Lustig e Adalberto Kemeny. Documentário mudo que registra a cidade no ano exato da crise; é o retrato em movimento do Brasil urbano que a política oligárquica não representava.
+- *O Cavaleiro da Esperança* e demais documentários sobre a Coluna Prestes disponíveis em acervos públicos e no canal da Cinemateca Brasileira.
+- *Limite* (1931), de Mário Peixoto: o modernismo brasileiro chegando ao cinema, obra-prima experimental contemporânea dos manifestos.
+- Para a Semana de 22, o acervo digital do **Instituto de Estudos Brasileiros (IEB-USP)** e da **Biblioteca Brasiliana** reúne manuscritos, cartas e telas — inclusive *A Boba* e *O Homem Amarelo*, de Anita Malfatti.
