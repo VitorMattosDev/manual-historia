@@ -1,5 +1,443 @@
 # A descolonização da África e da Ásia {#sec-descolonizacao-africa-asia}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+À meia-noite de 6 de março de 1957, no antigo campo de polo de Accra, um homem de camisa branca e boné de presidiário — que ele fazia questão de usar, para lembrar os anos que passara preso — subiu ao palanque diante de uma multidão e disse: "Enfim, a batalha terminou. Gana, nosso amado país, está livre para sempre." **Kwame Nkrumah** acabava de fazer da Costa do Ouro britânica o primeiro país da África subsaariana a se libertar do domínio colonial europeu. Em seguida, acrescentou uma frase que definiria as três décadas seguintes: "A independência de Gana não tem sentido a menos que esteja ligada à libertação total do continente africano." Em 1945, havia quatro Estados africanos independentes; em 1975, eram mais de quarenta. Se você olhar hoje um mapa da África e notar as fronteiras estranhamente retas que cortam o Saara e o Sahel, estará vendo, ainda no lugar, as linhas que diplomatas europeus desenharam em Berlim em 1884–85 (@sec-imperialismo) — e essa permanência é a melhor introdução possível ao problema deste capítulo: o que exatamente terminou quando o colonialismo terminou.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- definir **descolonização** e dimensionar sua escala histórica;
+- explicar por que o processo se acelerou **depois de 1945** e quais fatores o tornaram possível;
+- narrar a independência da **Índia** e a **Partição** de 1947;
+- distinguir os **três caminhos** da descolonização africana: negociado, armado e o das colônias de povoamento;
+- explicar a **Guerra da Argélia**, as guerras das colônias **portuguesas** e sua relação com a Revolução dos Cravos;
+- caracterizar o **apartheid** sul-africano e o processo que levou a 1994;
+- explicar **Bandung** (1955), o **não alinhamento** e o conceito de **Terceiro Mundo**;
+- discutir as **heranças** do colonialismo e o conceito de **neocolonialismo**;
+- situar as relações do **Brasil** com a África nesse período;
+- comparar interpretações historiográficas sobre quem descolonizou, sobre a violência anticolonial e sobre os estudos pós-coloniais.
 :::
+
+## O que foi a descolonização {#sec-o-que-foi-a-descolonizacao}
+
+::: {.callout-note title="Conceito: descolonização"}
+**Descolonização** é o processo pelo qual territórios submetidos ao domínio colonial europeu conquistaram independência política formal, entre aproximadamente **1945 e 1975** — com desdobramentos até 1994, quando o fim do apartheid encerrou o último regime de supremacia racial legal do continente africano.
+
+É preciso distinguir três dimensões, que não caminharam juntas: a independência **política** (bandeira, assento na ONU, governo próprio), a autonomia **econômica** (controle sobre recursos, produção e comércio) e a descolonização **cultural e epistêmica** (língua, currículo, produção de conhecimento sobre si). A primeira foi obtida por praticamente todos; a segunda e a terceira permanecem objeto de disputa.
+:::
+
+A escala é difícil de exagerar. Em 1945, a ONU nasceu com **51** membros; hoje tem **193**. Em três décadas, cerca de **um terço da humanidade** mudou de estatuto político. É, em número de pessoas envolvidas, a maior transformação política do século XX — maior que as duas guerras mundiais, maior que a Revolução Russa. E, no entanto, é o assunto a que os manuais de História geral costumam dedicar menos páginas, o que já é, em si, um dado historiográfico.
+
+## Por que depois de 1945? {#sec-por-que-depois-de-1945}
+
+O anticolonialismo não nasceu em 1945: houve revoltas durante todo o período colonial, do Congo à Índia, e projetos intelectuais como o **pan-africanismo**, cujo primeiro congresso é de 1900. O que mudou foi a **conjuntura**, e por seis razões combinadas.
+
+1. **A Europa saiu arruinada da guerra.** Reino Unido e França estavam devastados, endividados e dependentes da ajuda americana. Manter exércitos coloniais tornou-se caro no exato momento em que se precisava reconstruir a metrópole.
+2. **A guerra desmoralizou o mito da superioridade europeia.** A queda de Cingapura diante do Japão em 1942 foi um choque simbólico em toda a Ásia: a potência colonial fora derrotada por um exército asiático. E, na Europa ocupada, potências coloniais experimentaram na própria pele o que era ser dominado por estrangeiros.
+3. **Os colonizados lutaram — e cobraram.** Cerca de **dois milhões** de africanos e mais de **dois milhões** de indianos serviram nas forças aliadas. Voltaram tendo combatido em nome da liberdade e da democracia contra o racismo nazista, para reencontrar, em casa, regimes que lhes negavam ambas. A dissonância era insustentável, e vários líderes das independências vieram dessas fileiras.
+4. **Os princípios proclamados pelos vencedores.** A **Carta do Atlântico** (1941) e a **Carta da ONU** (1945) afirmavam o direito dos povos à **autodeterminação**; a **Declaração Universal dos Direitos Humanos** (1948) proclamava a igualdade de todos [@declaracaoDireitosHumanos1948]. Os movimentos anticoloniais usaram sistematicamente essas palavras contra quem as escrevera.
+5. **A Guerra Fria.** Nenhuma das duas superpotências tinha interesse em preservar os impérios europeus: a URSS por doutrina anti-imperialista, os EUA por combinação de tradição anticolonial, interesse em abrir mercados fechados pelos monopólios coloniais e cálculo de que impérios impopulares empurrariam os nacionalistas para Moscou. O episódio decisivo foi **Suez, em 1956**, quando Washington forçou Reino Unido e França a recuar de uma intervenção no Egito (@sec-oriente-medio): a lição foi entendida em todo o mundo — as velhas potências coloniais já não podiam agir sozinhas.
+6. **Movimentos organizados e lideranças formadas.** Partidos de massa, sindicatos, imprensa, associações estudantis. Muitos líderes — Nkrumah, Nehru, Senghor, Kenyatta, Ho Chi Minh — haviam estudado **nas metrópoles**, onde encontraram tanto as ideias liberais e socialistas quanto o racismo cotidiano que as desmentia, e onde conheceram uns aos outros.
+
+::: {.callout-important title="Não confunda causa com concessão"}
+Muitos livros escolares descrevem a descolonização como algo que as metrópoles **decidiram**, num movimento de esclarecimento moral ou de cálculo econômico. É uma meia-verdade que inverte a ordem dos fatores.
+
+Onde as potências negociaram cedo — Reino Unido em Gana, França na África ocidental depois de 1958 —, negociaram **sob pressão** de movimentos de massa já organizados e com a Argélia ou a Indochina como exemplo do que custaria resistir. Onde não negociaram — Argélia, Quênia, Angola, Moçambique, Guiné-Bissau —, houve guerra, e a independência veio pela derrota militar ou política da metrópole.
+
+A formulação correta: a descolonização foi **conquistada** pelos colonizados, em condições internacionais que a tornaram possível. Trocar o sujeito da frase não é detalhe de redação — é o ponto central do debate historiográfico deste capítulo.
+:::
+
+## Ásia: a Índia e a Partição {#sec-india-particao}
+
+A Índia era a "joia da coroa" britânica — território, população e mercado que sustentavam a posição imperial do Reino Unido. Seu movimento nacionalista era o mais antigo e organizado do mundo colonial: o **Congresso Nacional Indiano** existia desde **1885**.
+
+**Mohandas Karamchand Gandhi** (1869–1948), advogado formado em Londres que se tornara líder da comunidade indiana na África do Sul, retornou à Índia em 1915 e transformou o Congresso, de clube de elite educada, em movimento de massas. Sua estratégia era a **satyagraha** — a "firmeza na verdade" —, combinação de não violência ativa, desobediência civil e disposição de sofrer a repressão sem revidar [@gandhi1999].
+
+::: {.callout-note title="Conceito: satyagraha e desobediência civil"}
+A **satyagraha** não é passividade nem simples pacifismo. É uma estratégia de confronto que se recusa à violência **física** e busca, em lugar disso, tornar visível e insustentável a violência do adversário. Seu instrumento principal é a **desobediência civil**: descumprir publicamente uma lei injusta, sem fugir da punição.
+
+O exemplo clássico é a **Marcha do Sal** (1930): 386 quilômetros a pé até o mar para produzir sal e violar o monopólio britânico. Um gesto econômico irrisório e um golpe político devastador, porque transformou um imposto num símbolo compreensível para milhões de analfabetos e expôs o Império, diante do mundo, prendendo pessoas por recolher sal na praia.
+
+A tática influenciou diretamente Martin Luther King Jr. e o movimento pelos direitos civis nos EUA (@sec-movimentos-por-direitos), e não deve ser lida como a única forma de resistência indiana: houve greves, revoltas, boicotes e movimentos armados, e o Congresso convivia com correntes que rejeitavam a não violência.
+:::
+
+Depois da campanha **Quit India** ("Deixem a Índia", 1942) e do esgotamento britânico na guerra, a independência tornou-se inevitável. Veio em **15 de agosto de 1947** — e veio partida.
+
+**A Partição.** A **Liga Muçulmana**, de **Muhammad Ali Jinnah**, defendia que os muçulmanos indianos constituíam uma nação distinta e precisavam de Estado próprio. O Congresso de **Jawaharlal Nehru** defendia uma Índia única e secular. Diante do impasse e da violência intercomunitária crescente, os britânicos optaram pela divisão — e a executaram com pressa: a linha de fronteira foi traçada em cinco semanas por um jurista, **Cyril Radcliffe**, que jamais estivera na Índia, e só foi tornada pública **depois** das cerimônias de independência.
+
+O resultado foi uma das maiores catástrofes humanitárias do século: entre **10 e 15 milhões** de pessoas deslocadas em poucos meses, hindus e siques fugindo para a Índia, muçulmanos para o Paquistão, e massacres recíprocos que mataram algo entre várias centenas de milhares e **dois milhões** de pessoas. Gandhi, que se opusera à divisão e fazia greve de fome para conter a violência, foi assassinado em **30 de janeiro de 1948** por um nacionalista hindu que o considerava condescendente com os muçulmanos. O **Paquistão** nasceu em duas partes separadas por 1.600 km de território indiano; a oriental tornou-se **Bangladesh** em 1971, após nova guerra. Índia e Paquistão travaram desde então quatro guerras, disputam a **Caxemira** e possuem, ambos, armas nucleares.
+
+**Outros processos asiáticos.** A **Indonésia** proclamou independência dos Países Baixos em agosto de 1945, sob **Sukarno**, e teve de sustentá-la em quatro anos de guerra, obtendo reconhecimento em 1949. A **Indochina francesa** seguiu o caminho descrito no @sec-conflitos-guerra-fria. A **Malásia** (1957) e as **Filipinas** (1946) tiveram trajetórias mais negociadas, a primeira após longa contra-insurgência britânica.
+
+## África: três caminhos {#sec-africa-tres-caminhos}
+
+Não houve **uma** descolonização africana. Houve, essencialmente, três padrões, e a variável que melhor explica a diferença entre eles é a presença — ou não — de uma população **colona europeia** disposta a lutar para permanecer no poder.
+
+::: {#fig-caminhos-descolonizacao}
+
+```{.tikz}
+%%| filename: fig-caminhos-descolonizacao
+%%| alt: Diagrama dos três caminhos da descolonização africana: negociado, guerra de libertação e colônias de povoamento.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \node[draw, very thick, rounded corners, fill=manualgray!18, align=center, text width=13.0cm] (t) at (0,3.3)
+    {\textbf{O QUE EXPLICA A DIFERENÇA ENTRE OS CAMINHOS?}\\ Sobretudo o peso da \textbf{população colona europeia} e o valor econômico atribuído ao território pela metrópole.};
+
+  \node[draw, thick, rounded corners, fill=manualgreen!18, align=left, text width=4.1cm] (a) at (-4.6,0.7)
+    {\textbf{1. VIA NEGOCIADA}\\ poucos colonos; metrópole\\ calcula que o custo de\\ resistir é alto\\[2pt]
+     \textbf{Gana} (1957, Nkrumah)\\ \textbf{Nigéria} (1960)\\ \textbf{Senegal} (1960, Senghor)\\ \textbf{Tanganica} (1961, Nyerere)\\ \textbf{1960: ``Ano da África''}\\ (17 países independentes)};
+
+  \node[draw, thick, rounded corners, fill=manualred!18, align=left, text width=4.1cm] (b) at (0,0.7)
+    {\textbf{2. GUERRA DE LIBERTAÇÃO}\\ colonos numerosos ou\\ metrópole que se recusa\\ a negociar\\[2pt]
+     \textbf{Argélia} (1954--62, FLN)\\ \textbf{Quênia} (1952--60, Mau Mau)\\ \textbf{Angola} (1961--75, MPLA)\\ \textbf{Guiné-Bissau} (Cabral)\\ \textbf{Moçambique} (Frelimo)};
+
+  \node[draw, thick, rounded corners, fill=manualblue!18, align=left, text width=4.1cm] (c) at (4.6,0.7)
+    {\textbf{3. COLÔNIAS DE POVOAMENTO}\\ minoria branca toma o\\ poder \textbf{contra} a metrópole\\ e a maioria negra\\[2pt]
+     \textbf{Rodésia} $\rightarrow$ Zimbábue (1980)\\ \textbf{África do Sul}: apartheid\\ (1948--1994)\\ \textbf{Namíbia} (1990)};
+
+  \draw[vetor, thick, manualgray] (t) -- (a); \draw[vetor, thick, manualgray] (t) -- (b); \draw[vetor, thick, manualgray] (t) -- (c);
+
+  \node[draw, dashed, rounded corners, fill=manualyellow!22, align=center, text width=13.0cm] at (0,-2.6)
+    {\textbf{O que todos herdaram:} fronteiras traçadas em \textbf{Berlim} (1884--85) e mantidas pela OUA (1963) $\cdot$ economias de \textbf{monocultura}\\ voltadas à exportação $\cdot$ quadros administrativos escassos $\cdot$ dívida externa $\cdot$ e a inserção imediata na disputa da \textbf{Guerra Fria}.};
+\end{tikzpicture}
+```
+
+Os três caminhos da descolonização africana e a herança comum.
+:::
+
+**1. A via negociada.** Onde havia poucos colonos europeus permanentes, as metrópoles preferiram transferir o poder a elites nacionais dispostas a manter laços econômicos. **Gana** (1957) abriu o caminho; **1960** ficou conhecido como o "**Ano da África**", com dezessete independências, entre elas as das antigas colônias francesas da África ocidental e equatorial e a da Nigéria. Negociado não significa pacífico nem simples: os quadros administrativos eram escassos — o Congo Belga, independente em 1960, tinha um punhado de universitários congoleses em toda a colônia —, e a transição podia desembocar em guerra civil imediata, como no próprio Congo, onde o primeiro-ministro **Patrice Lumumba** foi deposto e assassinado em 1961 com envolvimento belga e conivência americana, abrindo três décadas de ditadura de Mobutu.
+
+**2. A guerra de libertação.** A **Argélia** é o caso emblemático. Não era formalmente colônia, e sim território integrado à França, com cerca de um milhão de colonos europeus (*pieds-noirs*) instalados havia gerações. A guerra começou em **1º de novembro de 1954**, conduzida pela **FLN** (Frente de Libertação Nacional), e durou até **1962**. Foi extraordinariamente brutal: uso sistemático de **tortura** pelo exército francês, denunciado por intelectuais franceses; atentados urbanos da FLN; deslocamento forçado de milhões de camponeses argelinos para "campos de reagrupamento". As estimativas de mortos variam enormemente — de cerca de 300 mil, em contas francesas, a 1,5 milhão, na versão oficial argelina —, e a própria disputa sobre esses números é parte do conflito de memória. Politicamente, a guerra **derrubou a Quarta República francesa** e devolveu o poder a **Charles de Gaulle** em 1958, que, contra a expectativa dos colonos, acabou negociando os **Acordos de Évian** (março de 1962). Seguiu-se o êxodo de quase toda a população *pied-noir* e o massacre de milhares de **harkis**, argelinos que haviam servido ao exército francês.
+
+No **Quênia**, a revolta **Mau Mau** (1952–1960) foi reprimida com um sistema de campos de detenção em que dezenas de milhares de pessoas foram torturadas — fatos que o governo britânico só reconheceu oficialmente, com indenizações, em **2013**, depois que documentos deliberadamente ocultados vieram a público.
+
+**As colônias portuguesas** seguiram o mesmo padrão, por razão específica: o **Estado Novo** salazarista recusava-se a descolonizar, reclassificando as colônias como "províncias ultramarinas" em 1951. As guerras começaram em **Angola** (1961), na **Guiné-Bissau** (1963) e em **Moçambique** (1964), e duraram treze anos. Na Guiné-Bissau, **Amílcar Cabral** (1924–1973), agrônomo e um dos mais originais teóricos anticoloniais, dirigiu o PAIGC combinando luta armada, escolas, hospitais e administração nas zonas libertadas — sua tese de que a libertação exige um "regresso à fonte" cultural, e não a mera substituição de administradores, tornou-se referência [@cabral1980]. Cabral foi assassinado em janeiro de 1973, meses antes da declaração unilateral de independência de seu país. O desfecho veio da própria metrópole: o custo insustentável das três guerras — consumiam quase metade do orçamento português e mobilizavam uma geração inteira — levou oficiais do próprio exército a derrubar a ditadura na **Revolução dos Cravos**, em **25 de abril de 1974**. As independências foram reconhecidas em 1974–75.
+
+**3. As colônias de povoamento.** Aqui a independência da metrópole **agravou** a opressão, porque quem se tornou independente foi a minoria branca. Na **Rodésia**, colonos brancos declararam unilateralmente independência do Reino Unido em 1965 para evitar o governo da maioria negra; só em **1980**, após guerra prolongada, nasceu o **Zimbábue**. E o caso extremo é a África do Sul.
+
+## O apartheid e a África do Sul {#sec-apartheid}
+
+::: {.callout-note title="Conceito: apartheid"}
+**Apartheid** — palavra africâner que significa "separação" — foi o sistema de **segregação racial legal** vigente na África do Sul entre **1948**, quando o Partido Nacional venceu as eleições (nas quais a maioria negra não votava), e **1994**.
+
+Não era apenas discriminação social: era um edifício jurídico completo. A **Lei de Registro Populacional** (1950) classificava toda pessoa por raça; a **Lei de Áreas de Grupo** determinava onde cada grupo podia morar; a **Lei de Passes** obrigava a população negra a portar documento de circulação; casamentos e relações inter-raciais eram crime; educação, hospitais, transporte, praias e bancos de praça eram separados e desiguais; e a política dos **bantustões** pretendia despojar a maioria negra até da cidadania sul-africana, atribuindo-lhe "nacionalidades" tribais em territórios pobres e fragmentados.
+:::
+
+A resistência foi longa e assumiu várias formas. O **Congresso Nacional Africano** (ANC), fundado em 1912, adotou inicialmente a via legal e a desobediência civil. Em **21 de março de 1960**, a polícia abriu fogo contra manifestantes desarmados que protestavam contra a lei de passes em **Sharpeville**, matando 69 pessoas, muitas pelas costas — data hoje marcada pela ONU como Dia Internacional contra a Discriminação Racial. Após Sharpeville, o ANC foi banido e criou um braço armado, o **Umkhonto we Sizwe**, dirigido por **Nelson Mandela**. Preso em 1962 e condenado à prisão perpétua no **Julgamento de Rivonia** (1964) — onde fez um discurso que terminava dizendo estar preparado para morrer pelo ideal de uma sociedade democrática e livre —, Mandela passaria **27 anos** encarcerado, boa parte na ilha de Robben [@mandela2012].
+
+A luta continuou: o levante estudantil de **Soweto**, em 16 de junho de 1976, começou como protesto contra a imposição do africâner como língua de ensino e foi reprimido com centenas de mortos, muitos deles crianças; **Steve Biko**, líder do Movimento de Consciência Negra, foi morto sob custódia policial em 1977. Nos anos 1980, greves, sabotagens e o crescimento do movimento sindical tornaram o país ingovernável, enquanto **sanções econômicas**, boicotes esportivos e culturais e campanhas de desinvestimento isolavam o regime internacionalmente. A conjuntura internacional também mudou: com o fim da Guerra Fria, o argumento de que o apartheid era um baluarte anticomunista perdeu qualquer serventia.
+
+Em **11 de fevereiro de 1990**, o presidente **F. W. de Klerk** libertou Mandela e legalizou o ANC. Em **abril de 1994**, realizaram-se as primeiras eleições com sufrágio universal; **Mandela** tornou-se presidente. Seguiu-se a **Comissão da Verdade e Reconciliação**, presidida pelo arcebispo **Desmond Tutu**, que concedia anistia condicionada à **confissão pública e completa** dos crimes — modelo de justiça de transição estudado no mundo inteiro, inclusive no Brasil, e criticado por privilegiar a reconciliação sobre a punição. Trinta anos depois, a África do Sul segue entre os países mais desiguais do mundo, e a desigualdade continua fortemente correlacionada à raça: o fim da segregação legal não desfez a estrutura econômica que ela criou — uma lição que ecoa diretamente na história brasileira pós-1888 (@sec-escravidao-abolicao-imigracao).
+
+## Bandung, o não alinhamento e o "Terceiro Mundo" {#sec-bandung-nao-alinhamento}
+
+Em **abril de 1955**, na cidade indonésia de **Bandung**, reuniram-se representantes de **29 países** da Ásia e da África, recém-independentes ou em vias de sê-lo, representando cerca de **1,5 bilhão de pessoas** — mais da metade da humanidade da época. Estavam lá **Nehru** (Índia), **Sukarno** (Indonésia), **Gamal Abdel Nasser** (Egito), **Zhou Enlai** (China) e delegações de toda a África em formação.
+
+O comunicado final proclamou o respeito à soberania e à integridade territorial, a igualdade entre todas as nações grandes e pequenas, a não intervenção em assuntos internos, a solução pacífica de controvérsias e a **condenação do colonialismo em todas as suas manifestações** [@bandung1955]. Era a primeira vez na história que países do Sul se reuniam sem qualquer potência europeia à mesa para formular uma posição comum.
+
+Em 1961, em **Belgrado**, esse impulso se institucionalizou no **Movimento dos Não Alinhados**, articulado por Nasser, Nehru, Sukarno, Nkrumah e pelo iugoslavo **Tito**.
+
+::: {.callout-important title="Não alinhamento não é neutralidade"}
+O erro mais comum sobre o tema. **Neutralidade** é abster-se; **não alinhamento** é recusar-se a escolher entre os blocos **para poder negociar com ambos** e defender uma agenda própria: descolonização, desarmamento, soberania sobre recursos naturais e melhores termos de troca no comércio internacional.
+
+Na prática, muitos não alinhados tinham preferências claras — Cuba integrou o movimento sendo aliada da URSS; o Egito de Nasser comprou armas soviéticas e recebeu financiamento para a barragem de Assuã depois de o Ocidente recusá-lo. O ponto é que essas escolhas eram **instrumentais e reversíveis**, e o movimento existia justamente para preservar essa margem de manobra.
+:::
+
+O termo **"Terceiro Mundo"** foi cunhado pelo demógrafo francês **Alfred Sauvy** em 1952, por analogia com o **Terceiro Estado** da Revolução Francesa (@sec-revolucao-francesa): assim como aquele era ignorado e continha quase toda a população, este seria o conjunto de países ignorados pelo condomínio das superpotências. A intenção original era, portanto, de **afirmação política**. O uso posterior degradou-se em sinônimo de "atraso", e por isso a expressão foi progressivamente substituída, hoje, por "**Sul global**" ou "países em desenvolvimento" — cada uma dessas escolhas de vocabulário carrega uma teoria implícita sobre o mundo, e vale prestar atenção a isso.
+
+::: {#fig-cronologia-descolonizacao}
+
+```{.tikz}
+%%| filename: fig-cronologia-descolonizacao
+%%| alt: Linha do tempo da descolonização da Ásia e da África, de 1945 a 1994.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \fill[manualblue!14, rounded corners] (0.3,-1.35) rectangle (4.3,-0.5);
+  \node[text=manualblue, font=\scriptsize\bfseries] at (2.3,-0.92) {Ásia};
+  \fill[manualgreen!16, rounded corners] (4.5,-1.35) rectangle (8.6,-0.5);
+  \node[text=manualgreen!45!black, font=\scriptsize\bfseries] at (6.55,-0.92) {África: via negociada};
+  \fill[manualred!14, rounded corners] (8.8,-1.35) rectangle (12.4,-0.5);
+  \node[text=manualred, font=\scriptsize\bfseries] at (10.6,-0.92) {guerras de libertação};
+  \fill[manualyellow!24, rounded corners] (12.6,-1.35) rectangle (14.5,-0.5);
+  \node[text=manualyellow!55!black, font=\scriptsize\bfseries] at (13.55,-0.92) {supremacia branca};
+
+  \draw[eixo] (0,0) -- (14.7,0);
+  \node[eixo, gray] at (14.7,-0.4) {tempo (fora de escala)};
+
+  \node[ponto] at (0.8,0) {};
+  \node[below, align=center] at (0.8,-0.18) {\textbf{1945}};
+  \node[above, align=center, text=manualblue] at (0.8,0.2) {Carta da ONU\\ \textbf{Indonésia}\\ \textbf{Vietnã}};
+
+  \node[ponto] at (2.6,0) {};
+  \node[below, align=center] at (2.6,-0.18) {\textbf{1947}};
+  \node[above, align=center, text=manualblue] at (2.6,0.2) {\textbf{Índia} e\\ \textbf{Paquistão}\\ \textit{Partição}};
+
+  \node[ponto] at (4.5,0) {};
+  \node[below, align=center] at (4.5,-0.18) {\textbf{1955}};
+  \node[above, align=center, text=manualgreen!45!black] at (4.5,0.2) {\textbf{Bandung}\\ 29 países};
+
+  \node[ponto] at (6.2,0) {};
+  \node[below, align=center] at (6.2,-0.18) {\textbf{1957}};
+  \node[above, align=center, text=manualgreen!45!black] at (6.2,0.2) {\textbf{Gana}\\ (Nkrumah)};
+
+  \node[ponto] at (8.0,0) {};
+  \node[below, align=center] at (8.0,-0.18) {\textbf{1960}};
+  \node[above, align=center, text=manualgreen!45!black] at (8.0,0.2) {\textbf{``Ano da África''}\\ 17 países\\ Sharpeville};
+
+  \node[ponto] at (9.8,0) {};
+  \node[below, align=center] at (9.8,-0.18) {\textbf{1962}};
+  \node[above, align=center, text=manualred] at (9.8,0.2) {\textbf{Argélia}\\ (Évian)};
+
+  \node[ponto] at (11.6,0) {};
+  \node[below, align=center] at (11.6,-0.18) {\textbf{1974--75}};
+  \node[above, align=center, text=manualred] at (11.6,0.2) {\textbf{Cravos} (Portugal)\\ Angola, Moçambique\\ Guiné-Bissau};
+
+  \node[ponto] at (13.2,0) {};
+  \node[below, align=center] at (13.2,-0.18) {\textbf{1980--90}};
+  \node[above, align=center, text=manualyellow!55!black] at (13.2,0.2) {\textbf{Zimbábue}\\ \textbf{Namíbia}};
+
+  \node[ponto] at (14.4,0) {};
+  \node[below, align=center] at (14.4,-0.18) {\textbf{1994}};
+  \node[above, align=center, text=manualgreen!45!black] at (14.4,0.2) {\textbf{fim do}\\ \textbf{apartheid}};
+\end{tikzpicture}
+```
+
+Cinco décadas de descolonização, de 1945 ao fim do apartheid.
+:::
+
+## As heranças: independência e depois {#sec-herancas}
+
+A independência política resolveu menos do que se esperava, e o vocabulário para nomear esse desapontamento veio do próprio Nkrumah: **neocolonialismo**.
+
+::: {.callout-note title="Conceito: neocolonialismo"}
+Formulado por **Kwame Nkrumah** em 1965, o conceito descreve a situação de um Estado formalmente soberano cuja política econômica é, na prática, determinada de fora: "O Estado neocolonial é, em teoria, independente e possui todos os ornamentos externos da soberania internacional. Na realidade, seu sistema econômico e, portanto, sua política são dirigidos de fora" [@nkrumah1967].
+
+Os mecanismos apontados: controle estrangeiro dos recursos minerais e da agroexportação; dependência de um ou dois produtos primários cujos preços são fixados em bolsas do Norte; endividamento externo e as condicionalidades que o acompanham; e apoio externo a governos que garantam esse arranjo.
+:::
+
+As heranças estruturais mais pesadas:
+
+- **Fronteiras herdadas.** A Organização da Unidade Africana (**OUA**, 1963; desde 2002, **União Africana**) adotou o princípio de **manter as fronteiras coloniais**. A escolha foi deliberada e defensável — abrir a revisão de fronteiras num continente inteiro seria receita para guerras generalizadas —, mas legou Estados que reúnem povos sem tradição de convivência política e dividem outros entre três ou quatro países. Conflitos como a guerra de **Biafra** na Nigéria (1967–70) e o genocídio de **Ruanda** (1994) têm nessa engenharia territorial e nas hierarquias étnicas fabricadas pela administração colonial uma de suas condições — o que **não** significa reduzi-los a "ódios ancestrais", explicação preguiçosa e falsa.
+- **Economias desenhadas para exportar.** Ferrovias que ligam a mina ao porto e não as cidades entre si; monocultura de cacau, amendoim, cobre ou petróleo; nenhuma indústria de transformação. Quando os preços das *commodities* caíram, nos anos 1970 e 1980, veio a crise da **dívida externa** e os programas de ajuste do FMI e do Banco Mundial, com corte de gastos sociais — a chamada "década perdida" africana (@sec-globalizacao-neoliberalismo).
+- **Estados frágeis e captura da Guerra Fria.** Poucos quadros formados, instituições recentes e fronteiras contestadas, num ambiente em que as superpotências forneciam armas e dinheiro a quem se alinhasse. O resultado foram golpes em série e guerras civis prolongadas — **Angola** é o caso extremo: mal proclamada a independência em 1975, o MPLA, a UNITA e a FNLA entraram em guerra, com tropas **cubanas** de um lado e apoio **sul-africano** e americano do outro, num conflito que durou até 2002.
+
+**E o Brasil nisso tudo?** A relação é mais interessante do que costuma aparecer. Durante boa parte do século XX, o Brasil sustentou nas Nações Unidas as posições de **Portugal**, invocando laços "luso-brasileiros" e a ideologia do luso-tropicalismo — a tese, cara a Gilberto Freyre e apropriada com entusiasmo pelo salazarismo, de que a colonização portuguesa seria singularmente benigna e miscigenadora [@freyre2003]. A **Política Externa Independente** de Jânio Quadros e João Goulart (1961–64) rompeu com isso, aproximando o país da África recém-independente. Depois de um recuo sob os primeiros governos militares, veio a virada mais surpreendente: em nome do "pragmatismo responsável" de **Geisel**, e movido por interesses comerciais e pela dependência de petróleo, o Brasil — governado por uma ditadura anticomunista — foi o **primeiro país do mundo a reconhecer o governo do MPLA em Angola**, em novembro de 1975, antes mesmo da URSS. Interesses de Estado, quando pesam, atravessam a ideologia sem cerimônia.
+
+No plano cultural e político interno, o pan-africanismo e a **negritude** de **Aimé Césaire** e **Léopold Senghor** [@cesaire2020], assim como as independências africanas, alimentaram diretamente o movimento negro brasileiro — de **Abdias do Nascimento** ao MNU (1978) — e estão na origem remota da **Lei 10.639/2003**, que tornou obrigatório o ensino de história e cultura africana e afro-brasileira nas escolas (@sec-redemocratizacao-nova-republica; @sec-historia-indigena-afrobrasileira).
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+**1. Quem descolonizou: as metrópoles ou os colonizados?** É a controvérsia central. A historiografia produzida nas antigas metrópoles nos anos 1950–60 tendia a apresentar a descolonização como **transferência planejada de poder**: o Império Britânico teria preparado suas colônias para o autogoverno e se retirado no momento adequado. A historiografia **nacionalista**, produzida nos países recém-independentes, respondeu com a narrativa oposta: a independência foi **conquistada** pela mobilização popular e pela luta, e a suposta preparação é reconstrução retrospectiva.
+
+A pesquisa posterior deu razão substantiva à segunda posição, mas complicou-a. **Frederick Cooper** mostrou que a decisão metropolitana e a pressão anticolonial não são fatores separáveis: as metrópoles calculavam custos **em função** da mobilização que enfrentavam, e a mobilização se organizava **em função** das brechas institucionais disponíveis — greves em portos e ferrovias, sindicatos legalizados, eleições coloniais [@cooper2002]. Cooper acrescenta um dado inconveniente para as duas narrativas: muitos movimentos africanos, até bem tarde, **não** reivindicavam Estado nacional próprio, e sim **cidadania igual** dentro do império, com direitos sociais equivalentes aos da metrópole. A independência nacional foi, em vários casos, o que restou quando essa demanda por igualdade foi recusada.
+
+**2. A violência: Fanon e seus críticos.** **Frantz Fanon** (1925–1961), psiquiatra martinicano que atuou na Argélia e aderiu à FLN, escreveu em *Os condenados da terra* que "a descolonização é sempre um fenômeno violento", e que a violência anticolonial, além de necessária, teria efeito **desalienante** sobre o colonizado, restituindo-lhe a condição de sujeito [@fanon1968]. O argumento parte de uma análise do colonialismo como sistema fundado na violência permanente — física e psíquica, esta última dissecada em *Pele negra, máscaras brancas* [@fanon2008].
+
+As críticas são de dois tipos, e vale distingui-las. A **crítica moral**, associada a Hannah Arendt, contesta a tese de que a violência tenha efeito emancipador ou terapêutico: a violência produz mais violência e corrompe quem a exerce. A **crítica histórica**, mais interessante para o historiador, observa que a Índia se libertou sem guerra de libertação, e que várias independências africanas foram negociadas — o que sugere que a violência não é **necessária** em todos os contextos, ainda que a ameaça crível dela tenha pesado nas negociações. Note, porém, que Fanon escreve **na Argélia**, no auge de uma guerra de extermínio contra uma população colona armada: generalizar a experiência argelina foi seu limite, mas descrevê-la foi sua força. Ler um autor sem seu contexto de produção é o erro que este manual insiste em evitar.
+
+**3. Os estudos pós-coloniais e a crítica do olhar.** A partir dos anos 1970–80, um conjunto de trabalhos deslocou a pergunta do "o que aconteceu" para "**quem tem autoridade para narrar**". **Edward Said**, em *Orientalismo*, mostrou como o saber europeu sobre o "Oriente" construiu um objeto exótico, estático e passivo, e como esse saber foi condição e instrumento do domínio [@said2007]. Os **estudos subalternos**, na Índia, propuseram escrever a história do ponto de vista de camponeses e trabalhadores, e não das elites nacionalistas que herdaram o Estado. **Dipesh Chakrabarty** radicalizou a crítica ao propor "provincializar a Europa": tratar a experiência europeia como **um** caso histórico entre outros, e não como a régua universal do desenvolvimento em relação à qual todas as demais sociedades apareceriam como atrasadas [@chakrabarty2000].
+
+As objeções também existem e são levadas a sério: parte dessa produção é acusada de excesso de abstração, de pouco trabalho com fontes empíricas e de substituir a análise das estruturas econômicas por análise de discursos. A resposta mais persuasiva vem de autores como **Achille Mbembe**, que combinam crítica do discurso com análise das formas concretas de poder e de exploração que sobreviveram ao fim formal do colonialismo [@mbembe2018].
+
+**4. A história africana como campo.** Até meados do século XX, era corrente na academia europeia a afirmação de que a África "não tinha história" antes da chegada dos europeus, porque não teria escrita — argumento que confunde história com documento escrito. A refutação veio pela construção de um campo: **Joseph Ki-Zerbo**, **Cheikh Anta Diop**, **Alberto da Costa e Silva** e a coleção *História Geral da África* da UNESCO estabeleceram o uso rigoroso da **tradição oral**, da arqueologia, da linguística e da genética como fontes, reconstituindo impérios, redes comerciais, sistemas políticos e produções intelectuais de mais de um milênio [@kiZerbo2009; @costaESilva2006; @unesco2010] (@sec-reinos-africanos; @sec-africa-antiga). Esse é um caso raro e instrutivo em que a mudança historiográfica teve efeito legal direto no Brasil: as **Leis 10.639/2003 e 11.645/2008** são, entre outras coisas, consequência institucional dessa virada.
+
+**5. Terminou?** A pergunta atravessa todo o debate. **Nkrumah** dizia que não: a independência sem soberania econômica é fachada [@nkrumah1967]. Uma corrente **liberal** responde que atribuir os problemas atuais ao colonialismo, seis décadas depois, subestima o peso de decisões internas — má gestão, autoritarismo, corrupção, guerras — e nega agência às sociedades africanas, e aponta como contraexemplos a Coreia do Sul, Cingapura ou Botsuana, que partiram de condições comparáveis. Uma corrente **estruturalista** responde que a comparação é enganosa, porque ignora diferenças enormes de dotação institucional, de contexto geopolítico e de acesso a mercados. A posição mais defensável hoje evita as duas caricaturas: as heranças coloniais são **condições reais e mensuráveis** — fronteiras, estrutura produtiva, dívida, quadros administrativos —, não destinos; e as decisões pós-independência foram **escolhas reais**, feitas dentro dessas condições. Explicar não é desculpar, e responsabilizar não é ignorar o ponto de partida.
+
+## Resumo do capítulo {#sec-resumo}
+
+- **Descolonização** (c. **1945–1975**, com desdobramentos até 1994): independência de territórios sob domínio colonial europeu. A ONU passou de **51** para **193** membros; cerca de **um terço da humanidade** mudou de estatuto político.
+- **Causas da aceleração:** Europa arruinada; desmoralização do mito da superioridade europeia (queda de Cingapura, 1942); participação de milhões de coloniais na guerra; princípios de **autodeterminação** da Carta do Atlântico e da ONU; **Guerra Fria** (nenhuma superpotência defendia os impérios europeus — lição de **Suez**, 1956); movimentos organizados e lideranças formadas nas metrópoles.
+- **Índia:** Congresso Nacional Indiano (**1885**); **Gandhi** e a **satyagraha** (Marcha do Sal, 1930; Quit India, 1942); independência em **15/8/1947** com a **Partição** entre Índia e Paquistão — 10 a 15 milhões de deslocados e centenas de milhares a milhões de mortos; **Gandhi assassinado** em 30/1/1948; Bangladesh em 1971.
+- **Três caminhos africanos:** **negociado** (Gana, 1957, **Nkrumah**; "**Ano da África**", 1960, com 17 países); **guerra de libertação** (**Argélia** 1954–62 e os Acordos de **Évian**; **Mau Mau** no Quênia; colônias **portuguesas** 1961–75, com **Amílcar Cabral** na Guiné-Bissau, encerradas pela **Revolução dos Cravos** de 25/4/1974); **colônias de povoamento** (Rodésia → **Zimbábue**, 1980; **Namíbia**, 1990; **África do Sul**).
+- **Apartheid** (1948–1994): segregação **legal** — registro racial, áreas de grupo, lei de passes, bantustões. **Sharpeville** (21/3/1960, 69 mortos); ANC banido e **Umkhonto we Sizwe**; **Mandela** preso 27 anos após o Julgamento de **Rivonia** (1964); **Soweto** (1976); morte de **Steve Biko** (1977); sanções internacionais; libertação de Mandela em **11/2/1990**; eleições em **1994**; **Comissão da Verdade e Reconciliação** (Tutu).
+- **Bandung** (1955, 29 países, ~1,5 bilhão de pessoas) e o **Movimento dos Não Alinhados** (Belgrado, 1961: Tito, Nasser, Nehru, Sukarno, Nkrumah). Não alinhamento **não é** neutralidade: é recusa de escolher para poder negociar com os dois lados. "**Terceiro Mundo**": termo de **Alfred Sauvy** (1952), por analogia com o Terceiro Estado.
+- **Heranças:** **neocolonialismo** (Nkrumah); fronteiras coloniais mantidas pela **OUA** (1963); economias de monocultura voltadas à exportação; crise da **dívida** e ajustes dos anos 1980; captura dos conflitos pela Guerra Fria (**Angola**, com tropas cubanas e sul-africanas, até 2002).
+- **Brasil:** apoio a Portugal na ONU sob o argumento luso-tropicalista; ruptura com a **Política Externa Independente**; e, sob **Geisel**, o Brasil foi o **primeiro país a reconhecer o MPLA** em Angola (1975). Negritude e pan-africanismo influenciaram o movimento negro brasileiro e, à distância, a **Lei 10.639/2003**.
+- **Historiografia:** transferência planejada × conquista dos colonizados, com a síntese de **Cooper** (fatores inseparáveis; muitos movimentos pediam **cidadania igual** antes de pedir Estado próprio); **Fanon** sobre a violência anticolonial e suas críticas moral e histórica; **estudos pós-coloniais** (**Said**, subalternos, **Chakrabarty**) e suas objeções; a construção da **história africana** como campo (**Ki-Zerbo**, Costa e Silva, UNESCO) e seu efeito legal no Brasil; e o debate sobre se a descolonização se completou.
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Domine: (1) as seis causas da aceleração pós-1945; (2) a Partição e por que ela foi tão letal; (3) os três caminhos africanos e o critério que os distingue; (4) a Argélia e as colônias portuguesas; (5) a arquitetura jurídica do apartheid; (6) Bandung e a diferença entre não alinhamento e neutralidade; (7) o conceito de neocolonialismo; (8) o debate sobre quem descolonizou.
+:::
+
+**1.** Explique por que a descolonização se acelerou depois de 1945.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Comece afastando o erro mais comum: o anticolonialismo **não** nasceu em 1945. Houve resistência durante todo o período colonial — a Revolta dos Cipaios (1857), a guerra dos hererós, a rebelião Maji Maji, o movimento pan-africano desde 1900. O que mudou foi a **conjuntura**, por seis fatores combinados.
+
+1. **Enfraquecimento material das metrópoles.** Reino Unido e França saíram da guerra arruinados, endividados e dependentes da ajuda americana. Manter exércitos e administrações coloniais tornou-se caro exatamente quando havia que reconstruir a metrópole — e, no caso britânico, quando o novo governo trabalhista priorizava a construção do Estado de bem-estar social.
+2. **Desmoralização do prestígio europeu.** A rendição de Cingapura ao Japão em 1942 destruiu, na Ásia, a aura de invencibilidade branca. E a experiência da ocupação nazista na Europa expôs a contradição de potências que se libertavam de um domínio estrangeiro enquanto o exerciam sobre outros.
+3. **A participação dos colonizados na guerra.** Cerca de dois milhões de africanos e mais de dois milhões de indianos serviram nas forças aliadas, muitos combatendo explicitamente contra o racismo e pela liberdade. Retornaram com experiência militar, organização e um argumento moral irrespondível.
+4. **Os princípios proclamados pelos vencedores.** Carta do Atlântico (1941), Carta da ONU (1945) com o direito à **autodeterminação** e Declaração Universal dos Direitos Humanos (1948) [@declaracaoDireitosHumanos1948]. Os movimentos anticoloniais citaram sistematicamente esses documentos — como Ho Chi Minh fizera com a Declaração americana (@sec-conflitos-guerra-fria).
+5. **A Guerra Fria.** Nem a URSS, anti-imperialista por doutrina, nem os EUA, interessados em abrir mercados fechados por monopólios coloniais e temerosos de empurrar os nacionalistas para Moscou, tinham interesse em sustentar os impérios europeus. A demonstração ocorreu em **Suez (1956)**, quando pressão americana e soviética forçou o recuo de britânicos e franceses (@sec-oriente-medio): ficou claro que as antigas potências já não podiam agir por conta própria.
+6. **Movimentos organizados.** Partidos de massa, sindicatos, imprensa e associações estudantis, dirigidos por lideranças frequentemente formadas nas próprias metrópoles, onde encontraram as ideias liberais e socialistas, o racismo cotidiano que as desmentia e umas às outras.
+
+**A síntese que se espera.** Os fatores externos criaram a **oportunidade**; os movimentos anticoloniais criaram a **pressão**. Nenhum dos dois isoladamente explica o processo — e atribuir a descolonização a uma decisão generosa das metrópoles inverte a relação entre eles.
+:::
+
+**2.** Descreva a independência da Índia e explique por que a **Partição** foi tão violenta.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**O caminho para a independência.** O **Congresso Nacional Indiano** existia desde 1885, mas era um clube de elites até que **Gandhi**, retornado da África do Sul em 1915, o converteu em movimento de massas por meio da **satyagraha**: não violência ativa, desobediência civil e disposição de sofrer a repressão sem revidar. Marcos: a Marcha do Sal (1930), que violou o monopólio britânico com um gesto simbólico compreensível a milhões; a campanha **Quit India** (1942), reprimida com a prisão de toda a direção do Congresso; e o esgotamento britânico ao fim da guerra. A independência veio em **15 de agosto de 1947**.
+
+**Por que a divisão.** A **Liga Muçulmana**, de **Jinnah**, sustentava a "teoria das duas nações": hindus e muçulmanos constituiriam comunidades nacionais distintas, e a minoria muçulmana ficaria permanentemente submetida numa Índia unida e majoritariamente hindu. O Congresso de **Nehru** defendia um Estado único e **secular**. Com a violência intercomunitária crescendo desde 1946, os britânicos optaram pela divisão.
+
+**Por que foi tão letal — e aqui estão as causas que uma boa resposta separa.**
+
+1. **A pressa.** O último vice-rei, Mountbatten, antecipou a data em quase um ano. O traçado da fronteira coube a **Cyril Radcliffe**, jurista que nunca estivera na Índia, com **cinco semanas** e mapas censitários desatualizados para dividir províncias inteiras.
+2. **O sigilo.** A linha só foi divulgada **depois** das cerimônias de independência. Milhões de pessoas descobriram em que país estavam quando já era tarde para se organizar — e quando já havia começado o pânico.
+3. **A geografia da mistura.** Hindus, muçulmanos e siques não viviam em blocos separáveis: conviviam em cidades, bairros e aldeias. Qualquer linha deixaria enormes minorias do lado "errado", sobretudo no **Punjab** e em **Bengala**, as duas províncias cortadas ao meio.
+4. **O vazio de autoridade.** As forças britânicas já se retiravam; a polícia e o exército, também em processo de divisão por religião, desintegraram-se ou tomaram partido. Não havia poder capaz de conter a violência.
+5. **A dinâmica do medo.** Cada massacre gerava fuga, cada fuga gerava represália. Trens chegavam às estações carregados apenas de mortos.
+
+**O saldo.** De **10 a 15 milhões** de deslocados em poucos meses — provavelmente a maior migração forçada da história — e mortes estimadas entre várias centenas de milhares e **dois milhões**. **Gandhi**, que se opôs à Partição e jejuou para conter os massacres, foi assassinado em **30 de janeiro de 1948** por um nacionalista hindu que o julgava condescendente com os muçulmanos.
+
+**As consequências duradouras.** O Paquistão nasceu geograficamente absurdo, em duas porções separadas por 1.600 km, e a oriental tornou-se **Bangladesh** em 1971 após nova guerra. Índia e Paquistão travaram quatro guerras, disputam a **Caxemira** e são hoje potências **nucleares** — o que faz da Partição de 1947 um dos poucos episódios de 1947 que continua sendo notícia de primeira página.
+:::
+
+**3.** Distinga os **três caminhos** da descolonização africana, com exemplos.
+
+::: {.callout-tip collapse="true" title="Solução"}
+O critério que melhor explica a diferença é o **peso da população colona europeia**: quanto mais numerosos e enraizados os colonos, menor a chance de transição negociada, porque eles tinham terra, poder local e nada a ganhar com a independência da maioria.
+
+**1. Via negociada.** Poucos colonos permanentes; a metrópole calcula que resistir sai mais caro do que transferir o poder a elites locais dispostas a preservar laços econômicos. **Gana** (1957, **Nkrumah**) inaugurou o caminho na África subsaariana; seguiram-se Nigéria, Senegal (Senghor), Costa do Marfim, Tanganica (Nyerere) e a maior parte da África francesa em **1960**, o "**Ano da África**", com dezessete independências. Atenção: "negociado" não quer dizer indolor. Havia pouquíssimos quadros formados — o Congo Belga chegou à independência com um número irrisório de universitários congoleses —, e a transição podia desembocar imediatamente em crise, como no Congo, onde **Patrice Lumumba** foi deposto e assassinado em 1961 com participação belga e conivência americana.
+
+**2. Guerra de libertação.** Onde havia colonos numerosos ou metrópoles que se recusavam a negociar.
+
+- **Argélia** (1954–62): território juridicamente integrado à França, com cerca de um milhão de *pieds-noirs*. Guerra da **FLN** marcada por tortura sistemática, atentados urbanos e deslocamento forçado de milhões de camponeses; estimativas de mortos entre 300 mil e 1,5 milhão. Derrubou a Quarta República francesa, trouxe **De Gaulle** de volta em 1958 e terminou nos **Acordos de Évian** (1962), seguidos pelo êxodo dos colonos e pelo massacre de milhares de **harkis**.
+- **Quênia** (1952–60): revolta **Mau Mau**, reprimida com campos de detenção e tortura em massa, reconhecidos oficialmente pelo Reino Unido apenas em **2013**.
+- **Colônias portuguesas** (1961–75): Angola, Guiné-Bissau e Moçambique. Salazar recusava descolonizar e rebatizara as colônias de "províncias ultramarinas" em 1951. **Amílcar Cabral** dirigiu o PAIGC na Guiné-Bissau combinando guerrilha e construção de escolas, hospitais e administração nas zonas libertadas [@cabral1980]. O custo das três guerras — perto de metade do orçamento português — provocou a **Revolução dos Cravos** (25 de abril de 1974), feita por oficiais portugueses, e as independências vieram em 1974–75. É o único caso em que a **metrópole mudou de regime por causa das guerras coloniais**.
+
+**3. Colônias de povoamento.** A independência da metrópole **piorou** a situação da maioria, porque quem se emancipou foi a minoria branca. Na **Rodésia**, colonos declararam independência unilateral do Reino Unido em 1965 justamente para impedir o governo da maioria negra; o **Zimbábue** só nasceu em 1980, após guerra prolongada. Na **África do Sul**, a minoria branca institucionalizou o **apartheid** a partir de 1948, e o regime só caiu em **1994**. A **Namíbia**, ocupada pela África do Sul, tornou-se independente em 1990.
+
+**A herança comum aos três.** Fronteiras traçadas em Berlim (1884–85) e mantidas pela **OUA** em 1963; economias de monocultura voltadas para a exportação; escassez de quadros; dívida externa; e inserção imediata na disputa da Guerra Fria, que forneceu armas e dinheiro às facções em conflito — como em **Angola**, onde a guerra civil, com tropas cubanas de um lado e apoio sul-africano e americano do outro, durou de 1975 a 2002.
+:::
+
+**4.** O que foi o **apartheid** e como ele terminou?
+
+::: {.callout-tip collapse="true" title="Solução"}
+**A definição.** *Apartheid* significa "separação" em africâner. Foi o sistema de **segregação racial legal** implantado na África do Sul a partir da vitória do Partido Nacional em **1948** — em eleições nas quais a maioria negra não votava — e vigente até **1994**.
+
+**A arquitetura jurídica**, que é o que distingue o apartheid da discriminação informal:
+
+- **Lei de Registro Populacional** (1950): toda pessoa era oficialmente classificada por raça, com efeitos sobre todos os aspectos da vida;
+- **Lei de Áreas de Grupo**: definia onde cada grupo podia residir e trabalhar, com remoções forçadas em massa;
+- **Lei de Passes**: a população negra era obrigada a portar documento autorizando sua circulação, sob pena de prisão;
+- **Leis de imoralidade e de casamentos mistos**: criminalizavam relações inter-raciais;
+- **Educação bantu**: currículo deliberadamente inferior, concebido para formar mão de obra subalterna;
+- **Bantustões**: territórios pobres e fragmentados declarados "pátrias" étnicas, com o objetivo de retirar da maioria negra até a cidadania sul-africana.
+
+**A resistência.** O **ANC**, fundado em 1912, tentou primeiro a via legal e a desobediência civil. O massacre de **Sharpeville** (21 de março de 1960), com 69 manifestantes desarmados mortos, marcou a virada: o ANC foi banido e criou o braço armado **Umkhonto we Sizwe**, dirigido por **Nelson Mandela**, preso em 1962 e condenado à perpétua no Julgamento de **Rivonia** (1964), onde declarou estar preparado para morrer pelo ideal de uma sociedade democrática e livre [@mandela2012]. Cumpriu **27 anos**. Seguiram-se o levante estudantil de **Soweto** (16 de junho de 1976), iniciado contra a imposição do africâner nas escolas e reprimido com centenas de mortos, e o assassinato de **Steve Biko** sob custódia policial (1977).
+
+**Por que caiu — quatro fatores combinados.**
+
+1. **Ingovernabilidade interna.** Nos anos 1980, greves, sabotagens, boicotes e a força do movimento sindical negro tornaram o país impossível de administrar nos moldes anteriores.
+2. **Isolamento internacional.** Sanções econômicas, embargo de armas, desinvestimento de empresas, exclusão de competições esportivas e uma campanha cultural mundial. A África do Sul tornou-se pária.
+3. **Custo econômico do próprio sistema.** Uma economia moderna precisava de trabalhadores qualificados e de mercado consumidor interno; a segregação impedia sistematicamente ambos.
+4. **O fim da Guerra Fria.** O regime se vendera ao Ocidente como baluarte anticomunista na África austral. Com o colapso soviético, o argumento evaporou e o apoio tácito cessou.
+
+**A transição.** Em **11 de fevereiro de 1990**, **De Klerk** libertou Mandela e legalizou o ANC; seguiram-se quatro anos de negociações sob violência intensa; em **abril de 1994**, as primeiras eleições por sufrágio universal levaram **Mandela** à presidência. A **Comissão da Verdade e Reconciliação**, presidida por **Desmond Tutu**, ofereceu anistia condicionada à **confissão pública e completa** — modelo estudado no mundo inteiro e criticado por trocar punição por verdade.
+
+**O balanço, trinta anos depois.** Acabaram a segregação legal e a exclusão política; permaneceu a estrutura econômica que o sistema construiu. A África do Sul segue entre os países mais desiguais do mundo, e a desigualdade continua fortemente marcada pela raça. A lição vale diretamente para o Brasil: **abolir a norma discriminatória não desfaz, por si só, a desigualdade que ela produziu** — o mesmo que se observa aqui depois de 1888 (@sec-escravidao-abolicao-imigracao).
+:::
+
+**5.** Explique **Bandung** (1955), o **não alinhamento** e o conceito de **Terceiro Mundo**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Bandung (abril de 1955).** Reunião, na Indonésia, de **29 países** da Ásia e da África representando cerca de **1,5 bilhão de pessoas** — mais da metade da humanidade de então. Estiveram presentes **Nehru** (Índia), **Sukarno** (Indonésia), **Nasser** (Egito) e **Zhou Enlai** (China), entre outros. O comunicado final afirmou a soberania e a integridade territorial dos Estados, a igualdade entre nações grandes e pequenas, a não intervenção, a solução pacífica de controvérsias e a **condenação do colonialismo em todas as suas manifestações** [@bandung1955].
+
+**O que Bandung significou.** Pela primeira vez, países do Sul se reuniram **sem nenhuma potência europeia à mesa** para formular posição comum. O gesto tinha valor simbólico enorme — e foi seguido de efeitos práticos: coordenação de votos na ONU, apoio mútuo a movimentos de libertação ainda em luta e a base política do que viria a ser o Movimento dos Não Alinhados.
+
+**O Movimento dos Não Alinhados (Belgrado, 1961).** Institucionalizou o impulso de Bandung, articulado por **Tito** (Iugoslávia), **Nasser**, **Nehru**, **Sukarno** e **Nkrumah**.
+
+**Não alinhamento não é neutralidade — e essa distinção é o coração da questão.** Neutralidade é abstenção: não tomar parte. Não alinhamento é **recusa de subordinação automática** a qualquer dos blocos, para preservar margem de negociação com os dois e defender uma pauta própria: descolonização completa, desarmamento, soberania sobre recursos naturais, melhores termos de troca no comércio internacional e financiamento ao desenvolvimento. Muitos não alinhados tinham simpatias claras — Cuba era membro e aliada da URSS; Nasser comprou armas soviéticas e obteve financiamento para Assuã depois da recusa ocidental —, mas o essencial é que essas escolhas eram **instrumentais e reversíveis**.
+
+**"Terceiro Mundo".** Cunhado por **Alfred Sauvy** em 1952, por analogia com o **Terceiro Estado** francês (@sec-revolucao-francesa): como aquele, seria ignorado, sem voz e majoritário. Havia, portanto, uma **reivindicação política** embutida no termo — "este Terceiro Mundo, ignorado, explorado, desprezado, quer também ser alguma coisa". O uso posterior esvaziou o sentido original e o converteu em sinônimo de pobreza e atraso, razão pela qual hoje se prefere "**Sul global**" ou "países em desenvolvimento".
+
+**A observação de método.** Cada um desses rótulos — Terceiro Mundo, países subdesenvolvidos, em desenvolvimento, emergentes, Sul global — carrega uma teoria implícita sobre por que uns países são ricos e outros não, e sobre se essa condição é etapa, posição estrutural ou resultado de relação. Perceber a teoria escondida no vocabulário é exatamente o tipo de leitura crítica que a História exige (@sec-o-que-e-historia).
+:::
+
+**6.** (Estilo ENEM) Leia o texto.
+
+> "A essência do neocolonialismo é que o Estado que a ele está sujeito é, em teoria, independente e possui todos os ornamentos externos da soberania internacional. Na realidade, seu sistema econômico e, portanto, sua política são dirigidos de fora."
+>
+> — Kwame Nkrumah, *Neocolonialismo: último estágio do imperialismo*, 1965 [@nkrumah1967]
+
+Segundo o texto, a principal característica do neocolonialismo é a
+
+**(a)** ocupação militar direta dos territórios africanos por antigas potências europeias.
+**(b)** manutenção da soberania formal acompanhada de dependência econômica que condiciona as decisões políticas.
+**(c)** substituição das administrações coloniais europeias por administrações norte-americanas equivalentes.
+**(d)** recusa das antigas metrópoles em reconhecer juridicamente a independência de suas ex-colônias.
+**(e)** adoção voluntária, pelos novos Estados africanos, do modelo econômico planificado soviético.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (b).** O texto opera inteiramente sobre um **contraste** entre aparência e realidade, e a estrutura da frase entrega a resposta: "em teoria, independente e possui todos os ornamentos externos da soberania" (a forma) **versus** "seu sistema econômico e, portanto, sua política são dirigidos de fora" (o conteúdo). Repare no encadeamento causal que Nkrumah constrói com o "portanto": é a dependência **econômica** que produz a subordinação **política**, e não o contrário.
+
+Por que as demais estão erradas:
+
+- **(a)** é justamente o que o neocolonialismo **não** é. O conceito foi criado para nomear a dominação que **dispensa** ocupação militar — e essa é sua eficácia: mantêm-se os resultados do colonialismo sem os custos administrativos, militares e diplomáticos de administrar uma colônia;
+- **(c)** o texto não fala em substituição de administradores; fala em direção **externa** da economia, exercida por meio de empresas, credores, preços de *commodities* e condicionalidades — mecanismos que não exigem administração direta de ninguém;
+- **(d)** o texto afirma o oposto: a soberania **é** formalmente reconhecida, com todos os "ornamentos" — bandeira, hino, assento na ONU, embaixadas;
+- **(e)** o texto nada diz sobre planificação, e Nkrumah criticava a dependência **externa** em geral; ademais, a maior parte dos Estados africanos não adotou o modelo soviético.
+
+**Contexto útil para uma resposta discursiva.** Os mecanismos concretos que Nkrumah tinha em mente: controle estrangeiro de minas e da agroexportação; dependência de um ou dois produtos primários cujos preços são determinados em bolsas do Norte; endividamento externo com condicionalidades; e apoio externo a governantes que garantissem esse arranjo. Vale acrescentar o debate: críticos observam que o conceito, aplicado sem cuidado, pode servir de álibi para governos africanos autoritários ou corruptos, retirando-lhes responsabilidade. A resposta madura sustenta as duas coisas — as heranças estruturais são reais **e** as decisões internas também foram escolhas reais.
+:::
+
+**7.** Discuta a afirmação de Frantz Fanon de que "a descolonização é sempre um fenômeno violento".
+
+::: {.callout-tip collapse="true" title="Solução"}
+**O argumento de Fanon.** Psiquiatra martinicano que trabalhou em hospital na Argélia e aderiu à FLN, **Fanon** parte de um diagnóstico do colonialismo como sistema fundado em violência **permanente**: violência física (conquista, expropriação, trabalho forçado, repressão) e violência psíquica, que ele analisou em *Pele negra, máscaras brancas* — a interiorização, pelo colonizado, da inferioridade que lhe é atribuída [@fanon2008]. Se a ordem colonial se sustenta pela força, sustenta ele, ela só será desfeita pela força; e a violência anticolonial teria, além do efeito prático, um efeito **desalienante**, restituindo ao colonizado a condição de sujeito de sua própria história [@fanon1968].
+
+**As evidências que dão força ao argumento.** Argélia, Quênia, Angola, Moçambique, Guiné-Bissau, Zimbábue, Namíbia, África do Sul: onde havia colonos instalados ou metrópoles que recusavam negociar, não houve saída pacífica. E mesmo onde houve negociação, a **ameaça crível** de guerra pesava na mesa — a França negociou com a África ocidental depois de sangrar na Indochina e na Argélia.
+
+**As críticas.**
+
+- **Moral** (associada a Hannah Arendt): a violência não liberta nem cura; produz mais violência, brutaliza quem a exerce e tende a se reproduzir nas instituições do Estado que nasce dela. Vários Estados pós-coloniais nascidos da luta armada tornaram-se autoritários, com militarização da política e partido único.
+- **Histórica:** a **Índia** conquistou a independência sem guerra de libertação, e a África ocidental francesa e britânica em grande medida também. Logo, a violência não é **necessária** em todo contexto, o que enfraquece o "sempre" da formulação.
+- **Empírica sobre o efeito psicológico:** a tese do efeito terapêutico da violência é a parte mais frágil e menos verificável do argumento, e é a que os próprios simpatizantes de Fanon costumam abandonar.
+
+**O que uma boa resposta faz com isso.** Situar o autor. Fanon escreve **em 1961, na Argélia**, no auge de uma guerra em que a tortura era método corrente do exército francês e em que havia um milhão de colonos armados dispostos a tudo para não sair. Sua generalização é o limite do texto; sua descrição do caso argelino é sua força. E há uma distinção que ele próprio ajuda a fazer e que a discussão exige: uma coisa é constatar que **a violência foi historicamente necessária em determinados contextos** — proposição verificável e amplamente sustentada pelas evidências; outra é afirmar que **a violência é boa para quem a pratica** — proposição normativa e muito mais difícil de sustentar.
+
+**Fecho.** A formulação defensável hoje: a **forma** da descolonização foi determinada, acima de tudo, pela disposição da potência colonial e dos colonos em negociar. Onde houve intransigência, houve guerra; onde houve cálculo, houve transferência negociada — quase sempre sob a pressão do exemplo alheio. Não é a natureza do colonizado que decide a violência; é a estrutura do domínio que ele enfrenta.
+:::
+
+**8.** (Estilo vestibular) Explique as relações do **Brasil** com a África no contexto da descolonização.
+
+::: {.callout-tip collapse="true" title="Solução"}
+A trajetória brasileira é marcada por uma contradição instrutiva: um país de maioria de origem africana sustentou, durante décadas, o último império colonial da África.
+
+**1. O alinhamento com Portugal (até 1961).** Nas votações da ONU sobre as colônias portuguesas, o Brasil apoiou sistematicamente Lisboa, invocando a "comunidade luso-brasileira" e, no plano ideológico, o **luso-tropicalismo** — a tese, formulada por **Gilberto Freyre** e adotada com entusiasmo pela propaganda salazarista, de que a colonização portuguesa seria singularmente benigna, adaptável aos trópicos e miscigenadora, e por isso não produziria racismo [@freyre2003]. A tese servia a dois interesses ao mesmo tempo: legitimava o colonialismo português na África e sustentava, no Brasil, o mito da **democracia racial** (@sec-escravidao-abolicao-imigracao).
+
+**2. A Política Externa Independente (1961–64).** Sob **Jânio Quadros** e **João Goulart**, o Brasil reorientou sua diplomacia: relações com países socialistas, defesa da autodeterminação, abertura de embaixadas na África recém-independente e discurso de identificação com o mundo afro-asiático. A África deixava de ser assunto de Portugal e passava a ser assunto do Brasil (@sec-republica-de-1946).
+
+**3. O recuo e a virada sob a ditadura.** Os primeiros governos militares recuaram para o alinhamento automático com Washington e para a proximidade com Lisboa. Mas, a partir de 1974, o "**pragmatismo responsável**" de **Geisel** produziu o episódio mais surpreendente de toda a série: em novembro de 1975, o Brasil — ditadura militar declaradamente anticomunista — foi o **primeiro país do mundo a reconhecer o governo do MPLA em Angola**, movimento de orientação marxista apoiado por tropas cubanas, antes mesmo da União Soviética. As razões foram materiais: o **choque do petróleo** de 1973 tornara urgente cultivar países produtores e novos mercados para produtos e empreiteiras brasileiras. É um caso didático de que interesses de Estado, quando pesam o suficiente, atravessam a ideologia sem constrangimento.
+
+**4. A dimensão interna.** As independências africanas, o pan-africanismo e a **negritude** de **Césaire** e **Senghor** [@cesaire2020] tiveram impacto direto sobre o movimento negro brasileiro — de **Abdias do Nascimento** e do Teatro Experimental do Negro ao **MNU** (1978). O argumento de que a África tinha história, Estados, impérios e produção intelectual próprios (@sec-reinos-africanos; @sec-africa-antiga) foi instrumento de contestação do racismo e do currículo escolar brasileiro. Essa linhagem chega à **Lei 10.639/2003**, que tornou obrigatório o ensino de história e cultura afro-brasileira e africana na educação básica (@sec-historia-indigena-afrobrasileira).
+
+**A conclusão.** A relação do Brasil com a África descolonizada oscilou entre a solidariedade proclamada, o interesse comercial e o constrangimento de defender o colonialismo português — e essa oscilação diz menos sobre a África do que sobre as disputas internas brasileiras a respeito da própria identidade nacional.
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- FANON, Frantz. *Os condenados da terra* [@fanon1968]. O texto anticolonial mais influente do século XX; leia-o com o contexto argelino em mente.
+- CÉSAIRE, Aimé. *Discurso sobre o colonialismo* [@cesaire2020]. Curto, torrencial e devastador: relaciona colonialismo e nazismo de um modo que ainda incomoda.
+- COSTA E SILVA, Alberto da. *A enxada e a lança: a África antes dos portugueses* [@costaESilva2006]. Escrito por um diplomata e historiador brasileiro; a melhor porta de entrada em português.
+- KI-ZERBO, Joseph. *História da África Negra* [@kiZerbo2009], e a coleção *História Geral da África* da UNESCO [@unesco2010], disponível gratuitamente na internet em português.
+- MANDELA, Nelson. *Longa caminhada até a liberdade* [@mandela2012]. Autobiografia e documento sobre o apartheid por dentro.
+- COOPER, Frederick. *Africa since 1940* [@cooper2002]. O melhor tratamento acadêmico do processo e de suas ambiguidades.
+- SAID, Edward. *Orientalismo* [@said2007], e CHAKRABARTY, Dipesh. *Provincializing Europe* [@chakrabarty2000]: as duas referências centrais da crítica pós-colonial.
+
+**Fontes primárias**
+
+- O **Comunicado Final de Bandung** [@bandung1955]: cinco páginas que fundaram o Terceiro Mundo como projeto político.
+- **NKRUMAH, Kwame.** *Neocolonialismo* [@nkrumah1967] e **CABRAL, Amílcar.** *Unidade e luta* [@cabral1980]: dois líderes africanos teorizando sua própria prática.
+- O discurso de **Mandela no Julgamento de Rivonia** (1964) e a **Declaração Universal dos Direitos Humanos** [@declaracaoDireitosHumanos1948], lidos lado a lado com as leis do apartheid.
+
+**Filmes e documentários**
+
+- *A Batalha de Argel* (1966), dir. Gillo Pontecorvo. Rodado quatro anos após a independência, com atores não profissionais; estudado em academias militares do mundo inteiro — inclusive, ironicamente, por quem combate guerrilhas.
+- *Gandhi* (1982), dir. Richard Attenborough. Épico convencional, útil para a cronologia; leia depois algo que complique o retrato.
+- *Invictus* (2009), dir. Clint Eastwood, e *Mandela: Longa Caminhada até a Liberdade* (2013): a transição sul-africana em chave de reconciliação — compare com testemunhos da Comissão da Verdade, que mostram o preço dessa escolha.
+- *Lumumba* (2000), dir. Raoul Peck. A independência do Congo e o assassinato de Lumumba, dirigido por um cineasta haitiano.
+- *Concerning Violence* (2014), dir. Göran Olsson: imagens de arquivo das guerras de libertação africanas narradas com trechos de Fanon.
