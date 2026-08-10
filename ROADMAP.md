@@ -188,7 +188,7 @@
 | 3 | A descolonização da África e da Ásia | `capitulos/vol14/cap03-descolonizacao-africa-asia.qmd` | ✅ |
 | 4 | América Latina: revoluções e ditaduras | `capitulos/vol14/cap04-america-latina-ditaduras.qmd` | ✅ |
 | 5 | O socialismo real e o fim da URSS | `capitulos/vol14/cap05-crise-do-socialismo-real.qmd` | ✅ |
-| 6 | O Oriente Médio contemporâneo | `capitulos/vol14/cap06-oriente-medio.qmd` | ⬜ |
+| 6 | O Oriente Médio contemporâneo | `capitulos/vol14/cap06-oriente-medio.qmd` | ✅ |
 
 ### Volume 15 — O Mundo Contemporâneo e a História do Tempo Presente
 

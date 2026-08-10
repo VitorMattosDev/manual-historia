@@ -1,5 +1,469 @@
 # O Oriente Médio contemporâneo {#sec-oriente-medio}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Se você já abasteceu um carro com etanol no Brasil, participou de uma consequência distante de uma guerra travada no Oriente Médio em outubro de 1973. Naquele mês, países árabes produtores de petróleo decidiram cortar a produção e embargar as vendas a países que apoiavam Israel, e o preço do barril quadruplicou em semanas. O Brasil importava então cerca de **80% do petróleo que consumia**, e a conta explodiu: a inflação disparou, a dívida externa cresceu, e o governo militar respondeu com dois programas de emergência — o **Proálcool**, em 1975, que criou o carro a etanol, e uma reorientação diplomática que aproximou o país dos Estados árabes. Meio século depois, os motores flex nas ruas brasileiras continuam sendo, em parte, um legado disso. É um bom lembrete de que o Oriente Médio não é um assunto distante: por causa do petróleo, das rotas de comércio e da geopolítica, o que acontece ali chega ao cotidiano de quem vive a doze mil quilômetros de lá.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- problematizar o próprio nome "**Oriente Médio**" e reconhecer a diversidade étnica e religiosa da região;
+- explicar a partilha do **Império Otomano** e as **três promessas contraditórias** britânicas;
+- caracterizar o **nacionalismo árabe**, **Nasser** e a **crise de Suez** (1956);
+- reconstituir a formação do **conflito israelo-palestino**, de 1948 a Oslo e aos dias atuais, apresentando as narrativas em disputa;
+- explicar a **OPEP**, os **choques do petróleo** e o conceito de **Estado rentista**;
+- narrar a **Revolução Iraniana** de 1979 e seus antecedentes;
+- situar o **Brasil** em relação à região, da votação de 1947 ao pragmatismo dos anos 1970;
+- discutir a historiografia dos "**novos historiadores**", o **orientalismo** e a crítica às explicações por "ódios ancestrais".
 :::
+
+## Antes de tudo: desfazendo confusões {#sec-desfazendo-confusoes}
+
+::: {.callout-important title="Quatro erros que atrapalham qualquer análise"}
+1. **"Oriente Médio" é um nome eurocêntrico.** Médio em relação a quê? A leste de onde? A expressão surgiu na virada do século XX na estratégia militar **britânica**, situando a região entre o "Próximo Oriente" e o "Extremo Oriente" — sempre a partir de Londres. Usamos o termo por convenção, mas convém saber que ele já embute um ponto de vista (@sec-o-que-e-historia).
+2. **Árabe não é sinônimo de muçulmano.** Existem milhões de **árabes cristãos** — coptas no Egito, maronitas e ortodoxos no Líbano e na Síria, palestinos cristãos —, além de drusos e outras comunidades. No Brasil, a maior parte da imigração árabe foi de **cristãos** sírios e libaneses.
+3. **Muçulmano não é sinônimo de árabe.** Os árabes são cerca de **20%** dos muçulmanos do mundo. Os quatro países com maior população muçulmana são **Indonésia, Paquistão, Índia e Bangladesh** — nenhum deles árabe. Na própria região, **iranianos** são persas, **turcos** são turcos, e **curdos** são um quarto povo, sem Estado, distribuído por Turquia, Iraque, Irã e Síria.
+4. **"Conflito religioso milenar" é uma explicação preguiçosa e falsa.** Judeus, cristãos e muçulmanos conviveram na região por séculos, com períodos de tolerância e períodos de perseguição, como em toda parte. Os conflitos contemporâneos têm causas **modernas** — nacionalismo, colonialismo, fronteiras, petróleo, disputa por território e água, intervenções externas — e a religião entra neles frequentemente como **linguagem de mobilização**, não como causa primeira. Sempre que ouvir "eles se odeiam há mil anos", desconfie: essa frase costuma dispensar quem a diz de examinar as causas reais.
+:::
+
+## A herança da Primeira Guerra: três promessas incompatíveis {#sec-tres-promessas}
+
+Por quatro séculos, quase toda a região pertenceu ao **Império Otomano** (@sec-islamismo). Aliado da Alemanha na Primeira Guerra Mundial (@sec-primeira-guerra-mundial), ele saiu derrotado e desmembrado em 1918. Durante a guerra, porém, os britânicos haviam feito **três compromissos mutuamente incompatíveis** sobre o mesmo território:
+
+1. **Aos árabes** (correspondência **Hussein–McMahon**, 1915–16): apoio à criação de um grande reino árabe independente, em troca da revolta contra os otomanos — revolta que ocorreu, com a participação célebre do oficial britânico T. E. Lawrence, o "Lawrence da Arábia".
+2. **Aos franceses** (acordo **Sykes–Picot**, maio de 1916, **secreto**): repartição da região em zonas de influência britânica e francesa. O acordo só veio a público quando os **bolcheviques**, ao tomarem o poder na Rússia em 1917, publicaram os tratados secretos que encontraram nos arquivos czaristas (@sec-revolucao-russa) — episódio que envenenou desde a origem a confiança árabe no Ocidente.
+3. **Ao movimento sionista** (**Declaração Balfour**, 2 de novembro de 1917): o governo britânico via "com bons olhos o estabelecimento na Palestina de um **lar nacional** para o povo judeu", ressalvando que "nada será feito que possa prejudicar os direitos civis e religiosos das comunidades **não judaicas** existentes na Palestina" [@balfour1917].
+
+::: {.callout-warning title="Leia a Declaração Balfour como historiador"}
+São três linhas e cada palavra foi negociada. Observe:
+
+- **"lar nacional"**, e não "Estado" — expressão deliberadamente ambígua, que permitia a cada lado entender o que preferisse;
+- **"na Palestina"**, e não "a Palestina" — não se define extensão nem fronteira;
+- **"comunidades não judaicas"** — assim se designa a **grande maioria** da população local, que era então cerca de 90% do total. Nomear a maioria pela negação da minoria não é acidente de redação: revela quem é o sujeito do documento e quem é seu objeto;
+- e, sobretudo: **quem promete não é o dono**. O território ainda era otomano em 1917, e o Reino Unido dispunha de algo que não lhe pertencia — o que **Rashid Khalidi** chama de "declaração de guerra colonial" contra a população existente [@khalidi2020].
+:::
+
+O resultado, formalizado pelos **mandatos** da Liga das Nações em 1920–22, foi o desenho do mapa que existe até hoje: **França** na Síria e no Líbano; **Reino Unido** no Iraque, na Transjordânia e na Palestina. Não houve reino árabe unificado.
+
+::: {#fig-partilha-otomana}
+
+```{.tikz}
+%%| filename: fig-partilha-otomana
+%%| alt: Diagrama das três promessas britânicas durante a Primeira Guerra e da partilha do Império Otomano em mandatos.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \node[draw, very thick, rounded corners, fill=manualgray!18, align=center, text width=13.2cm] (o) at (0,3.4)
+    {\textbf{IMPÉRIO OTOMANO} --- domina a região por cerca de quatro séculos $\cdot$ alia-se à Alemanha na Primeira Guerra $\cdot$ \textbf{derrotado em 1918}};
+
+  \node[draw, thick, rounded corners, fill=manualgreen!18, align=left, text width=4.1cm] (a) at (-4.7,1.2)
+    {\textbf{1. AOS ÁRABES}\\ \textit{Hussein--McMahon} (1915--16)\\[2pt]
+     reino árabe independente\\ em troca da \textbf{revolta}\\ contra os otomanos};
+  \node[draw, thick, rounded corners, fill=manualblue!18, align=left, text width=4.1cm] (f) at (0,1.2)
+    {\textbf{2. AOS FRANCESES}\\ \textit{Sykes--Picot} (1916, \textbf{secreto})\\[2pt]
+     partilha em \textbf{zonas de}\\ \textbf{influência} britânica\\ e francesa};
+  \node[draw, thick, rounded corners, fill=manualyellow!26, align=left, text width=4.1cm] (b) at (4.7,1.2)
+    {\textbf{3. AO SIONISMO}\\ \textit{Declaração Balfour} (1917)\\[2pt]
+     ``\textbf{lar nacional} para o\\ povo judeu na Palestina'',\\ sem prejuízo dos direitos\\ das ``comunidades\\ não judaicas''};
+
+  \draw[vetor, thick, manualgray] (o) -- (a); \draw[vetor, thick, manualgray] (o) -- (f); \draw[vetor, thick, manualgray] (o) -- (b);
+
+  \node[draw, very thick, rounded corners, fill=manualred!16, align=center, text width=13.2cm, text=manualred] (m) at (0,-1.1)
+    {\textbf{O QUE DE FATO OCORREU: os MANDATOS da Liga das Nações (1920--22)}\\ \textbf{França}: Síria e Líbano $\cdot$ \textbf{Reino Unido}: Iraque, Transjordânia e \textbf{Palestina}\\ Nenhum reino árabe unificado. As fronteiras então desenhadas são, em grande parte, as de hoje.};
+
+  \draw[vetor, thick, manualred] (a) -- (m); \draw[vetor, thick, manualred] (f) -- (m); \draw[vetor, thick, manualred] (b) -- (m);
+
+  \node[draw, dashed, rounded corners, fill=manualgray!14, align=center, text width=13.2cm] at (0,-2.7)
+    {\textbf{Cuidado analítico:} as fronteiras herdadas explicam \textbf{parte} das dificuldades posteriores --- não tudo. Estados com fronteiras igualmente\\ ``artificiais'' tiveram trajetórias muito distintas, e atribuir um século de história a um mapa de 1916 apaga\\ decisões, projetos e responsabilidades dos atores da própria região.};
+\end{tikzpicture}
+```
+
+As três promessas britânicas e a partilha efetiva do Império Otomano.
+:::
+
+## Nacionalismo árabe, Nasser e Suez {#sec-nasser-suez}
+
+As independências formais vieram entre os anos 1930 e 1950, mas com soberania limitada: bases militares estrangeiras, concessões petrolíferas em mãos ocidentais e monarquias tuteladas. Contra isso ergueu-se o **nacionalismo árabe** (ou **pan-arabismo**): a ideia de que os árabes formam uma nação única, artificialmente dividida pelo colonialismo, e que deveriam unir-se, modernizar-se e livrar-se da tutela estrangeira. Sua expressão política mais forte foi o partido **Baath**, na Síria e no Iraque, e sua figura maior foi **Gamal Abdel Nasser**.
+
+Oficial que participou do golpe que derrubou a monarquia egípcia em 1952, Nasser tornou-se presidente e o líder mais popular do mundo árabe. Seu programa combinava reforma agrária, industrialização, laicismo, socialismo de Estado e **não alinhamento** — esteve em **Bandung** (@sec-descolonizacao-africa-asia).
+
+**A crise de Suez (1956)** foi seu momento decisivo. Depois que Estados Unidos e Reino Unido retiraram o financiamento prometido para a barragem de **Assuã**, Nasser **nacionalizou o Canal de Suez**, até então operado por uma companhia franco-britânica, para custear a obra com os pedágios. Reino Unido, França e Israel — cada um com seus motivos — atacaram militarmente o Egito em outubro e novembro, e venceram no campo de batalha.
+
+E perderam tudo o mais. **Estados Unidos** e **URSS**, pelas próprias razões e em rara convergência, exigiram a retirada; Washington ameaçou medidas financeiras contra a libra esterlina, e Londres cedeu. As consequências foram enormes e valem ser memorizadas:
+
+- **Nasser saiu vitorioso politicamente**, apesar da derrota militar, e tornou-se herói do mundo árabe e do Terceiro Mundo;
+- ficou demonstrado que **Reino Unido e França já não eram potências capazes de agir sozinhas** — lição imediatamente compreendida por todos os movimentos anticoloniais em curso na África e na Ásia;
+- confirmou-se que a região passara a ser área de disputa **entre as superpotências**, e não mais um domínio europeu.
+
+O pan-arabismo teve, porém, vida curta. A união entre Egito e Síria (República Árabe Unida, 1958–61) fracassou em três anos, e a derrota fulminante na **Guerra dos Seis Dias** (1967) desmoralizou o projeto. O vazio que ele deixou seria preenchido, nas décadas seguintes, por duas alternativas: o nacionalismo **estatal** de cada país e o **islamismo político**.
+
+## Israel e Palestina: a formação do conflito {#sec-israel-palestina}
+
+Este é o tema mais disputado da história contemporânea, e o modo de estudá-lo é o que este manual propõe para qualquer controvérsia real: **separar o que é factualmente estabelecido do que é objeto de interpretação divergente**, e apresentar cada leitura com seus melhores argumentos.
+
+**As origens do sionismo.** O **sionismo** é o movimento nacional judaico, formulado politicamente por **Theodor Herzl** em *O Estado judeu* (1896) e organizado no Primeiro Congresso Sionista (Basileia, 1897). Nasceu como resposta ao **antissemitismo europeu**: aos *pogroms* no Império Russo, que mataram e expulsaram milhares, e ao **caso Dreyfus** na França (1894), que mostrou a Herzl que nem mesmo a assimilação numa república democrática protegia os judeus. A conclusão que ele extraiu: só um Estado próprio garantiria segurança. O território escolhido foi a **Palestina**, por seu significado religioso e histórico bimilenar para o judaísmo.
+
+**A Palestina sob o Mandato.** A população local era majoritariamente árabe, muçulmana e cristã, com uma comunidade judaica antiga e pequena. A imigração judaica cresceu ao longo do Mandato — impulsionada pela perseguição na Europa e, decisivamente, pela ascensão do nazismo — e a proporção judaica passou de cerca de **10%** no início dos anos 1920 para cerca de **um terço** em 1947. O conflito por terra e por poder político se intensificou, com a **Grande Revolta Árabe** (1936–39), reprimida pelos britânicos, e com ações armadas de grupos sionistas contra alvos britânicos e árabes na década seguinte. O **Holocausto** (@sec-holocausto-balanco) transformou completamente a questão: seis milhões de judeus assassinados, centenas de milhares de sobreviventes sem para onde ir e sem país disposto a recebê-los tornaram a demanda por um Estado judaico uma urgência com apoio internacional amplo.
+
+**1947–1949.** Incapaz de administrar o território, o Reino Unido devolveu a questão à **ONU**, que aprovou, em **29 de novembro de 1947**, a **Resolução 181**: partilha da Palestina em um Estado judaico (cerca de 55% do território), um Estado árabe (cerca de 45%) e um regime internacional para **Jerusalém** [@onu181]. A Agência Judaica **aceitou**; os Estados árabes e a liderança palestina **rejeitaram**, argumentando que se atribuía a maior parte do território à minoria da população e que a ONU não tinha o direito de dispor da terra de seus habitantes. Em **14 de maio de 1948**, com a saída britânica, proclamou-se o **Estado de Israel**; no dia seguinte, exércitos de Egito, Jordânia, Síria, Iraque e Líbano entraram em guerra. Israel venceu, e as linhas do armistício de 1949 lhe deram cerca de **78%** do território do Mandato; a **Cisjordânia** foi anexada pela Jordânia e **Gaza** ficou sob administração egípcia. Nenhum Estado árabe palestino foi criado.
+
+::: {.callout-warning title="1948: dois nomes, duas memórias, os mesmos fatos"}
+O mesmo ano tem dois nomes, e nenhum dos dois é falso.
+
+Para os israelenses, é a **Guerra da Independência**: um Estado nascido do direito de um povo perseguido à autodeterminação, reconhecido pela ONU, que sobreviveu ao ataque conjunto de cinco exércitos vizinhos, poucos anos depois do genocídio de um terço do povo judeu.
+
+Para os palestinos, é a **Nakba** — "catástrofe": cerca de **700 mil** pessoas, mais da metade da população árabe do território, tornaram-se refugiadas; centenas de aldeias foram despovoadas e destruídas; e nenhum refugiado pôde retornar. Muitas famílias guardam até hoje as chaves das casas que deixaram.
+
+**O que é factualmente estabelecido**, inclusive por historiadores israelenses que trabalharam com arquivos militares desclassificados a partir dos anos 1980: houve **expulsões deliberadas** de população em várias localidades, houve **massacres** praticados por forças dos dois lados, e houve também **fuga espontânea** diante do avanço dos combates e por ordem de líderes locais. As proporções entre esses fatores continuam em debate técnico [@morris2001; @khalidi2020].
+
+**O que permanece em disputa interpretativa:** se as expulsões foram resultado de um **plano central deliberado** de esvaziamento demográfico ou de decisões militares tomadas caso a caso em contexto de guerra; e como avaliar moralmente cada um desses cenários.
+
+**Um dado que costuma faltar nos dois relatos.** Entre o fim dos anos 1940 e os anos 1970, cerca de **800 mil a 900 mil judeus** deixaram, fugiram ou foram expulsos de países árabes e do Irã, onde viviam havia séculos — a maioria emigrou para Israel. Hoje, a maior parte da população judaica israelense descende dessas comunidades do próprio Oriente Médio e do norte da África, e não da Europa. Ignorar isso distorce tanto a demografia quanto a política israelense.
+:::
+
+**1967: a guerra que criou a situação atual.** Em junho de 1967, após meses de escalada — fechamento do estreito de Tiran pelo Egito, mobilizações militares, retórica de aniquilação —, Israel atacou preventivamente e, em **seis dias**, ocupou a **Cisjordânia** e **Jerusalém Oriental** (da Jordânia), a **Faixa de Gaza** e o **Sinai** (do Egito) e as **Colinas de Golã** (da Síria). A **Resolução 242** do Conselho de Segurança estabeleceu a fórmula que orienta todas as negociações desde então — "**paz em troca de territórios**" —, com uma ambiguidade célebre e proposital: a versão em inglês fala em retirada "de territórios ocupados", e a versão em francês, "**dos** territórios", isto é, de todos [@onu242]. Sessenta anos de diplomacia se apoiaram nessa vírgula ausente.
+
+É de 1967 que datam a **ocupação militar** dos territórios palestinos, a construção de **assentamentos** israelenses na Cisjordânia — considerados ilegais pela maior parte da comunidade internacional e pela Corte Internacional de Justiça, o que Israel contesta — e a centralidade da **OLP** (Organização para a Libertação da Palestina, fundada em 1964, dirigida por **Yasser Arafat** a partir de 1969) como representante do nacionalismo palestino.
+
+**De 1973 a Oslo.** A **Guerra do Yom Kippur/Ramadã** (outubro de 1973), iniciada por Egito e Síria, terminou militarmente sem alterar as fronteiras, mas teve dois efeitos maiores: o **embargo do petróleo** e a demonstração, para Israel, de sua vulnerabilidade — o que abriu caminho à negociação. Em **Camp David** (1978), com mediação americana, **Sadat** e **Begin** acordaram a paz assinada em 1979: Israel devolveu o **Sinai**, e o Egito foi o **primeiro país árabe a reconhecer Israel** — pelo que foi expulso da Liga Árabe e Sadat foi assassinado por extremistas islâmicos em 1981. Seguiram-se a guerra civil libanesa (1975–90) e a invasão israelense do Líbano em **1982**, durante a qual milícias libanesas aliadas massacraram civis palestinos nos campos de **Sabra e Chatila** — uma comissão de inquérito do próprio Estado israelense concluiu pela responsabilidade **indireta** de autoridades israelenses. Em dezembro de **1987** começou a **Primeira Intifada**, revolta popular palestina de protestos, greves e enfrentamentos com pedras, cujas imagens alteraram a percepção internacional do conflito; no mesmo ano surgiu o **Hamas**, organização islamista rival da OLP.
+
+**Oslo e o que veio depois.** Em **1993**, após negociações secretas na Noruega, **Yitzhak Rabin** e **Arafat** assinaram em Washington a Declaração de Princípios: reconhecimento mútuo e autonomia palestina progressiva, com as questões mais difíceis — Jerusalém, refugiados, assentamentos, fronteiras — adiadas para uma negociação final [@oslo1993]. Criou-se a **Autoridade Nacional Palestina** (1994). O processo desandou: **Rabin foi assassinado em novembro de 1995 por um extremista israelense** contrário aos acordos; os assentamentos continuaram a crescer; atentados suicidas atingiram civis israelenses; a cúpula de Camp David de 2000 fracassou e desencadeou a **Segunda Intifada** (2000–2005), muito mais violenta. Seguiram-se a construção da barreira de separação, a retirada israelense de **Gaza** em 2005, a vitória eleitoral do **Hamas** em 2006 e sua tomada do controle de Gaza em 2007, o **bloqueio** da Faixa e uma sucessão de guerras.
+
+::: {.callout-warning title="História do tempo presente: como estudar o que ainda está acontecendo"}
+Em **7 de outubro de 2023**, o Hamas conduziu um ataque em larga escala contra o sul de Israel, com cerca de 1.200 mortos, em sua maioria civis, e cerca de 250 pessoas levadas como reféns — o maior número de judeus mortos num único dia desde o Holocausto. Israel respondeu com uma ofensiva militar em Gaza de escala e duração sem precedentes no conflito, com dezenas de milhares de palestinos mortos segundo as autoridades locais de saúde, destruição maciça de infraestrutura e deslocamento da maior parte da população da Faixa. Os acontecimentos deram origem a processos na Corte Internacional de Justiça e no Tribunal Penal Internacional e a uma disputa internacional intensa sobre sua qualificação jurídica.
+
+**Como você deve tratar isso.** Este manual não tem distância histórica suficiente para narrar esses acontecimentos como história consolidada, e nenhum livro escrito agora tem. O procedimento honesto é o mesmo que aplicamos a 2016 no Brasil (@sec-redemocratizacao-nova-republica):
+
+1. **Distinga fato de qualificação.** Números de mortos, datas e decisões são verificáveis, ainda que com margem de erro e com fontes que se disputam. Já as **qualificações jurídicas e morais** — genocídio, crime de guerra, terrorismo, legítima defesa — são objeto de processos judiciais em curso e de discordância entre Estados, juristas e organizações.
+2. **Verifique a fonte de cada número** e informe-a explicitamente, em vez de apresentar cifras como se fossem neutras.
+3. **Recuse os dois atalhos.** Um deles trata toda crítica ao Estado de Israel como antissemitismo; o outro trata todo ato do Hamas como resistência legítima. Ambos dispensam quem os adota de pensar. **Antissemitismo** — hostilidade contra judeus — e **islamofobia** são fenômenos reais, documentados e em alta, e não devem ser nem banalizados nem usados como escudo contra o debate político.
+4. **Em prova, ancore-se no verificável e apresente as interpretações divergentes.** É isso que se avalia — não a sua opinião pessoal.
+:::
+
+## Petróleo, OPEP e Estados rentistas {#sec-petroleo-opep}
+
+O petróleo transformou a geopolítica da região a partir dos anos 1930. Inicialmente, a exploração cabia a companhias ocidentais, com participação pequena para os países produtores. A reação veio em duas ondas: as **nacionalizações** e a criação, em Bagdá, em **1960**, da **OPEP** — Organização dos Países Exportadores de Petróleo, fundada por Irã, Iraque, Kuwait, Arábia Saudita e **Venezuela**, o que já indica que se trata de um cartel de produtores, e não de uma organização árabe ou islâmica.
+
+**O choque de 1973.** Durante a Guerra do Yom Kippur, os produtores árabes cortaram a produção e embargaram vendas a países considerados apoiadores de Israel. O preço do barril passou de cerca de **3 para cerca de 12 dólares** em poucos meses. O **segundo choque**, em 1979, decorrente da Revolução Iraniana, levou-o a cerca de 35 dólares. As consequências foram mundiais: fim dos "trinta anos gloriosos" de crescimento no Ocidente, **estagflação** — inflação alta com estagnação econômica —, reciclagem dos "petrodólares" pelos bancos internacionais, que os emprestaram em profusão à América Latina, preparando a **crise da dívida** dos anos 1980 (@sec-globalizacao-neoliberalismo), e uma transferência de poder e riqueza sem precedentes para as monarquias do Golfo.
+
+::: {.callout-note title="Conceito: Estado rentista"}
+**Estado rentista** é aquele cuja receita provém majoritariamente de uma **renda externa** — tipicamente a exportação de um recurso natural — e não da tributação de seus próprios cidadãos.
+
+A consequência política é conhecida e frequentemente resumida na fórmula invertida do lema da independência americana: **"sem tributação, sem representação"**. Um governo que não depende de arrecadar impostos da população depende muito menos da aceitação dela: pode distribuir benefícios, subsidiar serviços e empregar boa parte da força de trabalho no setor público, comprando adesão sem prestar contas. É uma das explicações mais aceitas para a longevidade de monarquias absolutas no Golfo em pleno século XXI.
+
+**Cuidados com o conceito:** ele não é um destino. A **Noruega**, também dependente de petróleo, construiu uma democracia sólida e um fundo soberano — o que indica que instituições prévias importam mais que o recurso em si. E a região não se resume a petromonarquias: Egito, Síria, Jordânia, Líbano e Marrocos são pobres em petróleo e têm trajetórias muito distintas.
+:::
+
+## O Irã: de Mossadegh a Khomeini {#sec-ira}
+
+O Irã não é árabe: é **persa**, de maioria **xiita**, com uma tradição estatal milenar (@sec-hebreus). Sua trajetória no século XX é uma das mais consequentes da região, e ilustra melhor que qualquer outra os efeitos de longo prazo da intervenção externa.
+
+Em 1951, o primeiro-ministro **Mohammad Mossadegh**, eleito e amplamente popular, **nacionalizou o petróleo**, até então explorado pela companhia britânica que viria a se chamar BP. O Reino Unido organizou um boicote internacional e, em **agosto de 1953**, uma operação conjunta da **CIA** e do serviço secreto britânico derrubou Mossadegh — fato reconhecido oficialmente pelos Estados Unidos décadas depois. No lugar, consolidou-se o poder absoluto do xá **Mohammad Reza Pahlavi**, aliado do Ocidente.
+
+O xá promoveu modernização acelerada — reforma agrária, direito de voto às mulheres, industrialização, ocidentalização dos costumes — combinada com repressão política feroz, exercida pela polícia secreta **SAVAK**, corrupção e desigualdade crescente. A oposição foi empurrada para o único espaço que o regime não conseguia controlar inteiramente: as **mesquitas**.
+
+Em **1979**, uma revolução popular extraordinariamente ampla — que reuniu clérigos, comerciantes do bazar, estudantes, esquerda marxista, sindicatos e classe média urbana — derrubou o xá. O aiatolá **Ruhollah Khomeini** voltou do exílio em 1º de fevereiro e, nos meses seguintes, impôs sua hegemonia sobre os demais setores da coalizão, eliminando aliados de esquerda e liberais e instaurando a **República Islâmica**: um Estado teocrático em que a autoridade religiosa suprema se sobrepõe às instituições eleitas.
+
+::: {.callout-important title="Por que 1979 mudou tudo"}
+1. **Mostrou que a religião podia ser força revolucionária.** Até então, quase todas as revoluções do século XX se apoiavam em ideologias **seculares** — liberalismo, nacionalismo, socialismo. O Irã inaugurou um repertório novo, e movimentos islamistas de todo o mundo o tomaram como prova de viabilidade.
+2. **Rompeu com os EUA de forma irreversível.** A ocupação da embaixada americana em Teerã, com **52 reféns por 444 dias** (1979–81), humilhou os Estados Unidos, derrubou a presidência de Jimmy Carter e inaugurou uma inimizade que dura até hoje. Do lado iraniano, a memória de **1953** é o argumento permanente: a desconfiança não é infundada, tem data e documento.
+3. **Provocou a Guerra Irã–Iraque (1980–88).** **Saddam Hussein** invadiu o Irã aproveitando o caos revolucionário. Oito anos de guerra de trincheiras, ataques com **armas químicas** pelo Iraque — inclusive contra civis curdos em Halabja — e cerca de **um milhão de mortos**, sem alteração de fronteiras. O Iraque recebeu apoio de potências ocidentais e árabes; poucos anos depois, o mesmo Saddam invadiria o Kuwait e se tornaria inimigo desses mesmos apoiadores.
+4. **Acirrou a clivagem entre xiitas e sunitas** como linha de disputa **geopolítica**, sobretudo entre Irã e Arábia Saudita. Atenção ao ponto: não se trata da continuação de um cisma do século VII, e sim de sua **mobilização moderna** por Estados que disputam influência regional.
+:::
+
+::: {#fig-cronologia-oriente-medio}
+
+```{.tikz}
+%%| filename: fig-cronologia-oriente-medio
+%%| alt: Linha do tempo do Oriente Médio contemporâneo, de 1916 a 1993, com mandatos, criação de Israel, Suez, 1967, choque do petróleo, revolução iraniana e Oslo.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \fill[manualgray!16, rounded corners] (0.3,-1.35) rectangle (3.6,-0.5);
+  \node[text=manualgray!45!black, font=\scriptsize\bfseries] at (1.95,-0.92) {mandatos};
+  \fill[manualblue!14, rounded corners] (3.8,-1.35) rectangle (8.2,-0.5);
+  \node[text=manualblue, font=\scriptsize\bfseries] at (6.0,-0.92) {nacionalismo árabe};
+  \fill[manualyellow!24, rounded corners] (8.4,-1.35) rectangle (11.6,-0.5);
+  \node[text=manualyellow!55!black, font=\scriptsize\bfseries] at (10.0,-0.92) {petróleo e islamismo};
+  \fill[manualgreen!16, rounded corners] (11.8,-1.35) rectangle (14.3,-0.5);
+  \node[text=manualgreen!45!black, font=\scriptsize\bfseries] at (13.05,-0.92) {negociação};
+
+  \draw[eixo] (0,0) -- (14.5,0);
+  \node[eixo, gray] at (14.5,-0.4) {tempo (fora de escala)};
+
+  \node[ponto] at (0.8,0) {};
+  \node[below, align=center] at (0.8,-0.18) {\textbf{1916--17}};
+  \node[above, align=center, text=manualgray!40!black] at (0.8,0.2) {\textbf{Sykes--Picot}\\ \textbf{Balfour}};
+
+  \node[ponto] at (2.7,0) {};
+  \node[below, align=center] at (2.7,-0.18) {\textbf{1920--22}};
+  \node[above, align=center, text=manualgray!40!black] at (2.7,0.2) {\textbf{mandatos}\\ britânico e\\ francês};
+
+  \node[ponto] at (4.5,0) {};
+  \node[below, align=center] at (4.5,-0.18) {\textbf{1947--48}};
+  \node[above, align=center, text=manualred] at (4.5,0.2) {\textbf{Resolução 181}\\ \textbf{Israel} $\cdot$ \textbf{Nakba}\\ 1ª guerra árabe-israelense};
+
+  \node[ponto] at (6.3,0) {};
+  \node[below, align=center] at (6.3,-0.18) {\textbf{1956}};
+  \node[above, align=center, text=manualblue] at (6.3,0.2) {\textbf{Suez}\\ (Nasser)};
+
+  \node[ponto] at (8.0,0) {};
+  \node[below, align=center] at (8.0,-0.18) {\textbf{1967}};
+  \node[above, align=center, text=manualred] at (8.0,0.2) {\textbf{Guerra dos}\\ \textbf{Seis Dias}\\ ocupação\\ Resolução \textbf{242}};
+
+  \node[ponto] at (9.8,0) {};
+  \node[below, align=center] at (9.8,-0.18) {\textbf{1973}};
+  \node[above, align=center, text=manualyellow!55!black] at (9.8,0.2) {\textbf{Yom Kippur}\\ \textbf{choque do}\\ \textbf{petróleo}};
+
+  \node[ponto] at (11.4,0) {};
+  \node[below, align=center] at (11.4,-0.18) {\textbf{1979}};
+  \node[above, align=center, text=manualyellow!55!black] at (11.4,0.2) {\textbf{Revolução}\\ \textbf{Iraniana}\\ paz Egito--Israel\\ (Camp David)};
+
+  \node[ponto] at (12.9,0) {};
+  \node[below, align=center] at (12.9,-0.18) {\textbf{1987}};
+  \node[above, align=center, text=manualred] at (12.9,0.2) {\textbf{1ª Intifada}\\ \textbf{Hamas}};
+
+  \node[ponto] at (14.2,0) {};
+  \node[below, align=center] at (14.2,-0.18) {\textbf{1993}};
+  \node[above, align=center, text=manualgreen!45!black] at (14.2,0.2) {\textbf{Oslo}};
+\end{tikzpicture}
+```
+
+O Oriente Médio contemporâneo, de Sykes–Picot a Oslo.
+:::
+
+## O Brasil e o Oriente Médio {#sec-brasil-oriente-medio}
+
+A ligação é mais antiga e mais densa do que se costuma supor.
+
+**Imigração.** Entre o fim do século XIX e meados do XX, o Brasil recebeu grande imigração vinda da **Síria** e do **Líbano** — em sua maioria **cristã**, e frequentemente registrada como "turca" porque os passaportes eram otomanos, origem do apelido que os acompanhou. A comunidade de origem árabe no Brasil é considerada uma das maiores fora do Oriente Médio, e sua presença é visível na economia, na política, na medicina e na culinária cotidiana — a esfiha e o quibe são comida de rua brasileira. O Brasil recebeu também imigração **judaica**, sobretudo da Europa oriental nas primeiras décadas do século XX e de refugiados do nazismo — estes últimos apesar de circulares secretas do governo Vargas que restringiam a entrada de judeus (@sec-era-vargas).
+
+**Diplomacia.** Em 1947, o brasileiro **Osvaldo Aranha** presidia a sessão especial da Assembleia Geral da ONU que aprovou a partilha da Palestina — o Brasil votou a favor, e a coincidência é frequentemente lembrada nos dois países. Em 1973, o **choque do petróleo** atingiu duramente uma economia que importava a maior parte do que consumia, e o governo **Geisel** adotou o "**pragmatismo responsável**": aproximação dos Estados árabes, exportação de manufaturados e serviços de engenharia para a região, e mudança de posição em foros internacionais — o Brasil chegou a votar a favor da resolução da ONU de **1975** que equiparava o sionismo ao racismo, decisão duramente criticada e revertida em 1991, quando o Brasil apoiou sua revogação. Internamente, a resposta ao choque foi o **Proálcool** (1975) e o esforço de prospecção da Petrobras em águas profundas — duas políticas cujos efeitos você reconhece nas ruas e na balança comercial brasileira até hoje.
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+**1. Os "novos historiadores" israelenses.** No fim dos anos 1980, ao completar-se o prazo legal de trinta anos, arquivos militares e governamentais israelenses referentes a 1948 foram desclassificados. Um grupo de historiadores — **Benny Morris**, **Avi Shlaim**, **Ilan Pappé**, Tom Segev — trabalhou com esse material e revisou pontos centrais da narrativa oficial israelense. As conclusões documentadas incluíram: a existência de **expulsões deliberadas** de população árabe e de **massacres** em várias localidades; o fato de que o desequilíbrio militar em 1948 não era o de Davi contra Golias, e que as forças judaicas estavam, em vários momentos, em superioridade numérica e organizacional; e a existência de entendimentos entre a liderança sionista e o rei da Jordânia sobre a partilha do território destinado ao Estado árabe [@morris2001; @shlaim2014].
+
+O que torna esse debate um caso didático extraordinário é o seguinte: **Morris e Pappé partem de evidências amplamente sobrepostas e chegam a conclusões políticas opostas**. Pappé qualifica os eventos de 1948 como **limpeza étnica** planejada; Morris documenta as expulsões, nega que houvesse um plano central sistemático e, em declarações posteriores, chegou a justificá-las como necessidade de guerra. Ou seja: os mesmos documentos, lidos por dois historiadores rigorosos, produzem descrições factuais próximas e **juízos** divergentes. Isso não indica que a História seja arbitrária — indica que **descrição** e **avaliação** são operações distintas, e que confundi-las é o erro a evitar. É a mesma lição que este manual tirou dos debates sobre a Revolução de 1930 e sobre 1964.
+
+**2. A historiografia palestina e a questão do arquivo.** Historiadores palestinos, entre eles **Rashid Khalidi**, enfrentam uma dificuldade estrutural: grande parte dos arquivos palestinos foi destruída, dispersa ou apreendida em 1948 e em 1982, no Líbano. Isso obrigou o campo a desenvolver com mais intensidade a **história oral**, os arquivos de família, os registros otomanos e britânicos e os acervos das aldeias despovoadas [@khalidi2020]. É uma boa ocasião para relembrar um princípio geral: **a distribuição desigual dos arquivos não é neutra**. Quem tem Estado tem arquivo, e quem tem arquivo tende a ter sua versão mais bem documentada — o que exige do historiador não credulidade diante do que está catalogado nem ceticismo automático diante do que só existe em depoimento (@sec-fontes-historicas).
+
+**3. Orientalismo.** **Edward Said**, palestino-americano, mostrou em *Orientalismo* (1978) como a produção europeia de saber sobre o "Oriente" — nos estudos acadêmicos, na literatura, na pintura, nos relatos de viagem — construiu um objeto imaginário: sensual, despótico, irracional, estático, incapaz de se autogovernar e, por isso mesmo, carente de tutela. Esse saber não era mero preconceito: era **instrumento e justificativa** do domínio [@said2007]. O impacto sobre as humanidades foi enorme, e as críticas também: acusou-se Said de homogeneizar a produção europeia — havia orientalistas críticos do imperialismo —, de dar pouca atenção às tradições intelectuais alemã e russa e de tratar o discurso como se fosse todo o problema. O saldo, hoje razoavelmente consensual: a tese é excessiva em generalizações e indispensável como advertência. Ao ler qualquer texto sobre a região — inclusive este capítulo —, vale perguntar **quem** escreve, para quem, com quais categorias e a serviço de qual leitura do mundo.
+
+**4. Sykes–Picot explica tudo?** É lugar-comum atribuir os conflitos da região às fronteiras "artificiais" traçadas por europeus. A explicação tem base real — as fronteiras foram, de fato, desenhadas por potências estrangeiras segundo interesses próprios, reunindo e separando populações sem consulta. Mas historiadores da região vêm apontando três limites sérios. **Primeiro**, praticamente **todas** as fronteiras do mundo são artificiais, no sentido de resultarem de guerras e tratados, e nem todas produzem conflito permanente. **Segundo**, várias fronteiras da região seguem divisões administrativas otomanas anteriores, e não linhas arbitrárias sobre o mapa. **Terceiro**, e mais importante: atribuir um século inteiro de história a um acordo de 1916 **apaga a agência** dos atores da própria região — os nacionalismos, os projetos de Estado, os golpes, as guerras entre países árabes, as escolhas de governantes — e funciona, na prática, como álibi para responsabilidades muito mais recentes. É o mesmo cuidado que o @sec-descolonizacao-africa-asia exige a respeito das fronteiras africanas: heranças coloniais são **condições reais**, não destinos.
+
+**5. Contra a explicação por "ódios ancestrais".** A tese de que a região é palco de guerras religiosas milenares é analiticamente vazia e empiricamente falsa. A divisão entre **sunitas** e **xiitas** remonta ao século VII, mas não produziu guerra contínua desde então: houve longos períodos de convivência, casamentos mistos e Estados multiconfessionais. Sua conversão em **linha de conflito geopolítico** é recente e datável — ganha força com a Revolução Iraniana de 1979 e com a disputa entre Irã e Arábia Saudita, e aprofunda-se dramaticamente após a invasão do Iraque em 2003, que desmontou o Estado iraquiano e organizou a política em bases confessionais. Do mesmo modo, o conflito israelo-palestino é um conflito **nacional** — sobre território, soberania, refugiados e recursos — que adquiriu progressivamente linguagem religiosa a partir dos anos 1980, com o crescimento simultâneo do islamismo político e do nacionalismo religioso israelense. Quando alguém explica um conflito por "ódios ancestrais", em geral está dizendo que não pesquisou as causas — e, com frequência, que prefere não pesquisá-las.
+
+## Resumo do capítulo {#sec-resumo}
+
+- **Cuidados iniciais:** "Oriente Médio" é nome **eurocêntrico**; **árabe ≠ muçulmano** (há milhões de árabes cristãos; os árabes são ~20% dos muçulmanos, e Indonésia, Paquistão, Índia e Bangladesh são os maiores países muçulmanos); iranianos são **persas**, turcos são turcos, **curdos** são povo sem Estado; e "conflito religioso milenar" é explicação falsa.
+- **Herança da Primeira Guerra:** fim do **Império Otomano** e **três promessas incompatíveis** — **Hussein–McMahon** (reino árabe), **Sykes–Picot** (partilha secreta anglo-francesa, revelada pelos bolcheviques) e **Declaração Balfour** (1917: "lar nacional" judaico na Palestina). Resultado: **mandatos** da Liga das Nações (França na Síria e no Líbano; Reino Unido no Iraque, na Transjordânia e na Palestina).
+- **Nacionalismo árabe:** pan-arabismo, partido **Baath** e **Nasser**. **Suez (1956)**: nacionalização do canal, ataque de Reino Unido, França e Israel, e recuo imposto por **EUA e URSS**. Vitória política de Nasser, demonstração de que as potências europeias já não agiam sozinhas e confirmação da região como área de disputa das superpotências. O pan-arabismo declina após a derrota de **1967**.
+- **Israel e Palestina:** **sionismo** de **Herzl** (1896–97) como resposta ao antissemitismo europeu; população judaica na Palestina passa de ~10% (anos 1920) a ~1/3 (1947); **Revolta Árabe** (1936–39); o **Holocausto** transforma a questão. **Resolução 181** (29/11/1947), aceita pela Agência Judaica e rejeitada pelo lado árabe; **Israel** em **14/5/1948** e a primeira guerra árabe-israelense; **Guerra da Independência** e **Nakba** (~700 mil refugiados) são dois nomes do mesmo ano. Entre 1948 e os anos 1970, **800–900 mil judeus** deixam países árabes e o Irã. **1967**: ocupação de Cisjordânia, Jerusalém Oriental, Gaza, Sinai e Golã; **Resolução 242** ("paz por territórios") e sua ambiguidade célebre. **1973**, **Camp David** (1978) e paz Egito–Israel (1979, devolução do Sinai; Sadat assassinado em 1981); Líbano e **Sabra e Chatila** (1982); **Primeira Intifada** e **Hamas** (1987); **Oslo** (1993) e a ANP (1994); assassinato de **Rabin** (1995); **Segunda Intifada** (2000–05); retirada de Gaza (2005) e as guerras posteriores.
+- **Petróleo:** **OPEP** (Bagdá, 1960, com a **Venezuela** entre os fundadores); **choque de 1973** (US$ 3 → 12) e **de 1979** (→ ~35); estagflação no Ocidente, petrodólares e a **crise da dívida** latino-americana. **Estado rentista**: quem não tributa o cidadão depende menos dele — sem que isso seja um destino, como mostra a Noruega.
+- **Irã:** nacionalização do petróleo por **Mossadegh** (1951) e sua derrubada pela **CIA e pelo serviço britânico** (1953); xá **Pahlavi**, modernização e **SAVAK**; **Revolução de 1979**, ampla e plural, hegemonizada por **Khomeini**; **República Islâmica**; crise dos **reféns** (444 dias); **Guerra Irã–Iraque** (1980–88, ~1 milhão de mortos, armas químicas).
+- **Brasil:** grande imigração **sírio-libanesa** (majoritariamente cristã) e imigração **judaica**; **Osvaldo Aranha** presidindo a Assembleia da ONU em 1947, com voto brasileiro pela partilha; **pragmatismo responsável** de Geisel após 1973, incluindo o voto na resolução de 1975 (revertido em 1991); **Proálcool** (1975) e a prospecção em águas profundas.
+- **Historiografia:** os "**novos historiadores**" israelenses e o caso exemplar de **Morris × Pappé** (mesmas evidências, juízos opostos — descrição e avaliação são operações distintas); a historiografia **palestina** e o problema da **desigualdade de arquivos**; **orientalismo** de **Said** e suas críticas; a crítica ao determinismo de **Sykes–Picot**; e a recusa das explicações por "**ódios ancestrais**", com a demonstração de que a clivagem sunita–xiita é **politizada modernamente**, e não herdada intacta do século VII.
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Domine: (1) as quatro confusões iniciais; (2) as três promessas e por que eram incompatíveis; (3) por que Suez foi vitória política de Nasser apesar da derrota militar; (4) a sequência 1947–1949–1967 e as duas narrativas de 1948; (5) a Resolução 242 e sua ambiguidade; (6) OPEP, choques e Estado rentista; (7) 1953 e 1979 no Irã; (8) o debate dos novos historiadores.
+:::
+
+**1.** Explique as **três promessas** britânicas durante a Primeira Guerra e suas consequências.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**O contexto.** O **Império Otomano**, que dominava a região havia cerca de quatro séculos, aliou-se à Alemanha na Primeira Guerra. Para derrotá-lo, os britânicos buscaram apoios simultâneos e assumiram compromissos que não podiam cumprir ao mesmo tempo.
+
+**1. Aos árabes — correspondência Hussein–McMahon (1915–16).** Em troca de uma revolta árabe contra os otomanos, o Reino Unido apoiaria a criação de um grande reino árabe independente. A revolta ocorreu e teve peso militar real, com a participação célebre de T. E. Lawrence.
+
+**2. Aos franceses — acordo Sykes–Picot (maio de 1916), secreto.** Repartição da região em zonas de influência britânica e francesa, ignorando por completo o que fora prometido aos árabes. O acordo veio a público quando os **bolcheviques**, ao tomarem o poder em 1917, publicaram os tratados secretos encontrados nos arquivos czaristas (@sec-revolucao-russa) — e o efeito sobre a confiança árabe no Ocidente foi devastador e duradouro.
+
+**3. Ao movimento sionista — Declaração Balfour (2 de novembro de 1917).** O governo britânico via "com bons olhos o estabelecimento na Palestina de um lar nacional para o povo judeu", com a ressalva de que nada prejudicaria "os direitos civis e religiosos das comunidades não judaicas existentes" [@balfour1917].
+
+**Por que eram incompatíveis.** As três dispõem do **mesmo território**: um reino árabe independente não cabe em zonas de influência europeia, e nenhum dos dois arranjos é compatível com um lar nacional judaico em parte desse mesmo espaço, sem definição de fronteira nem de estatuto.
+
+**A leitura crítica da Balfour, que separa a boa resposta da mediana.**
+
+- **"Lar nacional"** e não "Estado": ambiguidade deliberada, que permitia a cada parte ler o que quisesse;
+- **"na Palestina"** e não "a Palestina": não se define extensão;
+- **"comunidades não judaicas"**: assim se designa cerca de **90%** da população local. Nomear a maioria pela negação da minoria revela quem é sujeito e quem é objeto do documento;
+- **quem promete não é o dono**: em 1917, o território ainda era otomano.
+
+**As consequências.** Os **mandatos** de 1920–22 — França na Síria e no Líbano, Reino Unido no Iraque, na Transjordânia e na Palestina — em lugar do reino árabe prometido; fronteiras desenhadas por potências estrangeiras, que em grande parte são as de hoje; e a implantação, na Palestina, de um arranjo em que a potência mandatária tinha compromissos com dois projetos nacionais **mutuamente excludentes** no mesmo território, o que tornou o conflito praticamente inevitável a partir do momento em que ambos se organizaram politicamente.
+
+**A ressalva que o rigor exige.** As promessas incompatíveis explicam **muito**, mas não tudo, e é preciso resistir ao determinismo: um século de história posterior envolveu decisões, projetos e responsabilidades de atores da própria região, e reduzir tudo a 1916–17 apaga esses sujeitos.
+:::
+
+**2.** Explique a **crise de Suez** (1956) e por que ela é considerada um marco.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**O contexto.** **Gamal Abdel Nasser**, chegado ao poder após a derrubada da monarquia egípcia em 1952, encarnava o **nacionalismo árabe**: reforma agrária, industrialização, laicismo, socialismo de Estado e **não alinhamento**, com presença em **Bandung** (@sec-descolonizacao-africa-asia). Seu projeto econômico dependia da barragem de **Assuã**, cujo financiamento fora prometido por Estados Unidos e Reino Unido — e retirado, em razão da aproximação egípcia com o bloco soviético e do reconhecimento da China comunista.
+
+**A crise.** Em julho de 1956, Nasser **nacionalizou o Canal de Suez**, operado por uma companhia franco-britânica, para financiar a obra com os pedágios. Em outubro e novembro, Reino Unido, França e Israel atacaram o Egito num plano combinado — o Reino Unido para reaver o canal e derrubar Nasser, a França também por causa do apoio egípcio à **FLN argelina**, e Israel para acabar com incursões de guerrilha e desbloquear o acesso marítimo ao mar Vermelho.
+
+**O desfecho paradoxal.** Militarmente, os atacantes venceram. Politicamente, perderam tudo. **EUA** e **URSS** — em rara convergência, por razões próprias — exigiram a retirada: Washington ameaçou medidas financeiras contra a libra esterlina, e Londres, dependente do apoio americano, cedeu e arrastou os aliados. As tropas se retiraram.
+
+**Por que é um marco — três consequências que valem ser memorizadas.**
+
+1. **Nasser sai fortalecido.** Derrotado no campo de batalha, tornou-se herói do mundo árabe e referência do Terceiro Mundo, e o pan-arabismo atingiu seu auge — a união com a Síria na República Árabe Unida (1958) é filha direta desse prestígio.
+2. **Fim do poder autônomo de Reino Unido e França.** Ficou publicamente demonstrado que as antigas potências coloniais **não podiam mais agir sem o aval americano**. A lição foi imediatamente compreendida pelos movimentos anticoloniais em toda a África e a Ásia, e Suez é frequentemente apontada como um dos fatores que aceleraram a descolonização (@sec-descolonizacao-africa-asia). Para a França, contribuiu para a decisão de buscar armas nucleares próprias e maior autonomia estratégica.
+3. **A região torna-se palco das superpotências.** O que era esfera de influência europeia passou a ser área de disputa entre EUA e URSS, com o Egito recebendo armas e financiamento soviéticos e os EUA se tornando o ator externo decisivo (@sec-ordem-bipolar).
+
+**Uma observação sobre método.** Suez é um caso exemplar de que **vitória militar e vitória política não coincidem necessariamente** — o mesmo padrão que se observa na Ofensiva Tet, no Vietnã (@sec-conflitos-guerra-fria). Perceber essa distinção é o que permite explicar desfechos que, olhados apenas pelo mapa das operações, pareceriam incompreensíveis.
+:::
+
+**3.** Reconstitua a formação do **conflito israelo-palestino** entre 1947 e 1967, apresentando as narrativas em disputa.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Os antecedentes.** O **sionismo**, formulado por **Herzl** em 1896–97, foi o movimento nacional judaico surgido em resposta ao antissemitismo europeu — *pogroms* no Império Russo e o **caso Dreyfus** —, com a conclusão de que apenas um Estado próprio garantiria segurança. Sob o Mandato britânico, a imigração judaica cresceu, sobretudo com a ascensão do nazismo, e a proporção judaica na Palestina passou de cerca de 10% nos anos 1920 a cerca de **um terço** em 1947. Houve conflito crescente com a população árabe majoritária, incluindo a **Grande Revolta Árabe** (1936–39). O **Holocausto** (@sec-holocausto-balanco) transformou a questão em urgência internacional.
+
+**1947.** Incapaz de administrar o território, o Reino Unido transferiu a questão à ONU, que aprovou em **29 de novembro** a **Resolução 181**: Estado judaico com ~55% do território, Estado árabe com ~45%, e **Jerusalém** sob regime internacional [@onu181]. A Agência Judaica **aceitou**; os Estados árabes e a liderança palestina **rejeitaram**, alegando que se atribuía a maior parte da terra à minoria demográfica e que a ONU não podia dispor do território de seus habitantes.
+
+**1948–49.** Em **14 de maio de 1948**, proclamou-se o **Estado de Israel**; no dia seguinte, entraram em guerra Egito, Jordânia, Síria, Iraque e Líbano. Israel venceu; o armistício de 1949 lhe deu cerca de **78%** do território do Mandato. A **Cisjordânia** foi anexada pela Jordânia, **Gaza** ficou sob administração egípcia, e nenhum Estado árabe palestino foi criado.
+
+**As duas narrativas sobre 1948.**
+
+- **Guerra da Independência** (perspectiva israelense): um povo perseguido exerceu seu direito à autodeterminação, com respaldo da ONU, e sobreviveu ao ataque de cinco exércitos poucos anos após o genocídio de um terço dos judeus do mundo.
+- **Nakba**, "catástrofe" (perspectiva palestina): cerca de **700 mil** pessoas tornaram-se refugiadas, centenas de aldeias foram despovoadas e destruídas, e nenhum refugiado pôde retornar.
+
+**O que os arquivos estabeleceram.** A pesquisa dos "novos historiadores" israelenses, a partir da desclassificação dos anos 1980, documentou **expulsões deliberadas** em várias localidades, **massacres** praticados por forças dos dois lados e também **fuga espontânea** diante dos combates [@morris2001]. Permanece em disputa se as expulsões seguiram um **plano central sistemático** ou resultaram de decisões militares caso a caso — e, sobretudo, como avaliá-las moralmente.
+
+**O dado que costuma faltar.** Entre o fim dos anos 1940 e os anos 1970, cerca de **800 a 900 mil judeus** deixaram, fugiram ou foram expulsos de países árabes e do Irã, a maioria emigrando para Israel. Hoje, a maior parte da população judaica israelense descende dessas comunidades — o que desmente a imagem de Israel como país de população exclusivamente europeia.
+
+**1967 — a guerra que criou a situação atual.** Após meses de escalada, Israel atacou preventivamente e, em **seis dias** de junho, ocupou **Cisjordânia** e **Jerusalém Oriental** (Jordânia), **Gaza** e **Sinai** (Egito) e as **Colinas de Golã** (Síria). A **Resolução 242** fixou a fórmula "**paz em troca de territórios**", com a ambiguidade célebre entre "territórios ocupados" (inglês) e "**os** territórios" (francês) [@onu242]. Dessa data vêm a **ocupação militar**, os **assentamentos** — ilegais segundo a maioria da comunidade internacional e a Corte Internacional de Justiça, o que Israel contesta — e a centralidade da **OLP** de **Arafat**.
+
+**Como concluir.** A formulação defensável reconhece **dois projetos nacionais legítimos sobre o mesmo território**, ambos com fundamentos históricos reais e ambos com atos violentos em sua trajetória, e recusa a redução do conflito a vítimas absolutas e vilões absolutos — o que não implica equivalência automática entre situações concretas de poder, que devem ser avaliadas caso a caso e com evidência.
+:::
+
+**4.** Explique a **OPEP**, os **choques do petróleo** e o conceito de **Estado rentista**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**A OPEP.** Fundada em **Bagdá, em 1960**, por Irã, Iraque, Kuwait, Arábia Saudita e **Venezuela** — a presença venezuelana já mostra que não se trata de organização árabe nem islâmica, e sim de um **cartel de produtores**. Objetivo: coordenar produção e preços para reverter o poder de fixação que estava com as grandes companhias ocidentais, e ampliar a fatia dos países produtores na renda do recurso.
+
+**O primeiro choque (1973).** Durante a **Guerra do Yom Kippur/Ramadã**, os produtores árabes cortaram a produção e embargaram vendas a países considerados apoiadores de Israel. O barril passou de cerca de **3 para cerca de 12 dólares** em poucos meses. **O segundo choque (1979)**, provocado pela desorganização da produção iraniana após a revolução, levou-o a cerca de 35 dólares.
+
+**As consequências mundiais.**
+
+1. **Fim dos "trinta anos gloriosos".** O crescimento sustentado do pós-guerra no Ocidente dependia de energia barata, e a era da energia barata acabou.
+2. **Estagflação.** A combinação inédita de **inflação alta com estagnação e desemprego** desarmou as políticas keynesianas então dominantes e abriu espaço político e intelectual às ideias que se tornariam hegemônicas nos anos 1980 (@sec-globalizacao-neoliberalismo).
+3. **Petrodólares e dívida.** As receitas extraordinárias dos produtores foram depositadas em bancos internacionais, que as reemprestaram em abundância e a juros baixos a países em desenvolvimento — inclusive o **Brasil**. Quando os juros americanos dispararam no início dos anos 1980, essas dívidas se tornaram impagáveis: é a origem direta da **crise da dívida** e da "década perdida" latino-americana (@sec-ditadura-militar).
+4. **Deslocamento de poder** para as monarquias do Golfo, que passaram a dispor de recursos financeiros de escala global.
+5. **No Brasil:** aceleração da inflação e do endividamento externo, e as respostas do II PND, do **Proálcool** (1975) e da prospecção em águas profundas.
+
+**Estado rentista.** É aquele cuja receita provém majoritariamente de uma **renda externa** — a exportação de um recurso — e não da tributação dos próprios cidadãos. A consequência política costuma ser resumida invertendo o lema da independência americana: **"sem tributação, sem representação"**. Um governo que não precisa arrecadar de seu povo depende muito menos de sua aceitação: distribui benefícios, subsidia serviços, emprega grande parte da população no setor público e compra adesão sem prestar contas. É a explicação mais aceita para a durabilidade de monarquias absolutas no Golfo no século XXI.
+
+**As ressalvas necessárias.** O conceito não é determinista: a **Noruega**, igualmente dependente do petróleo, tem democracia sólida e fundo soberano — o que indica que as **instituições prévias** pesam mais que o recurso. E a região não se resume a petromonarquias: Egito, Síria, Jordânia, Líbano e Marrocos têm pouco ou nenhum petróleo e trajetórias inteiramente distintas. Uma variante do mesmo debate ocorre no Brasil a propósito do pré-sal e da "maldição dos recursos".
+:::
+
+**5.** Narre a trajetória iraniana de **1953 a 1979** e explique por que a revolução foi tão consequente.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Nota inicial que evita o erro mais comum:** o Irã **não é árabe**. É **persa**, de maioria **xiita**, com tradição estatal milenar (@sec-hebreus). Tratá-lo como parte do mundo árabe inviabiliza qualquer análise.
+
+**1951–53: Mossadegh.** O primeiro-ministro **Mohammad Mossadegh**, eleito e muito popular, **nacionalizou o petróleo**, até então explorado por uma companhia britânica. O Reino Unido respondeu com boicote internacional às exportações iranianas e, em **agosto de 1953**, uma operação conjunta da **CIA** e do serviço secreto britânico derrubou o governo — fato reconhecido oficialmente pelos EUA décadas depois.
+
+**1953–79: o xá.** **Mohammad Reza Pahlavi** consolidou poder absoluto, aliado do Ocidente e um dos pilares da política americana na região. Promoveu modernização acelerada — reforma agrária, voto feminino, industrialização, ocidentalização dos costumes — combinada com repressão feroz pela polícia secreta **SAVAK**, corrupção, desigualdade crescente e desprezo ostensivo pela cultura religiosa do país. Resultado decisivo: reprimidos partidos, sindicatos e imprensa, a oposição refugiou-se no **único espaço que o regime não conseguia controlar** — a rede de mesquitas, com sua estrutura de financiamento, comunicação e autoridade moral próprias.
+
+**1979: a revolução.** Foi uma revolução popular **ampla e plural**: clérigos, comerciantes do bazar, estudantes, esquerda marxista, sindicatos e classe média urbana, unidos contra o xá, que deixou o país em janeiro. O aiatolá **Ruhollah Khomeini** retornou do exílio em **1º de fevereiro** e, nos meses seguintes, **hegemonizou** o processo — eliminando aliados de esquerda e liberais — e instaurou a **República Islâmica**, em que a autoridade religiosa suprema se sobrepõe às instituições eleitas. Este é um ponto que as provas cobram: a revolução **não foi islâmica desde o início**; tornou-se islâmica ao longo de uma disputa interna entre seus vencedores.
+
+**Por que foi tão consequente.**
+
+1. **Inaugurou a religião como força revolucionária moderna.** Até 1979, as grandes revoluções do século XX apoiavam-se em ideologias **seculares**. O Irã forneceu a movimentos islamistas de todo o mundo a prova de que era possível tomar o Estado em nome da religião.
+2. **Rompeu com os EUA de forma duradoura.** A ocupação da embaixada americana, com **52 reféns por 444 dias**, humilhou os Estados Unidos e derrubou a presidência de Carter. Do lado iraniano, **1953** é o argumento que sustenta a desconfiança até hoje — e, ao contrário de muitas teorias conspiratórias, essa tem documentação oficial.
+3. **Provocou a Guerra Irã–Iraque (1980–88).** **Saddam Hussein** invadiu o Irã aproveitando o caos revolucionário. Oito anos, cerca de **um milhão de mortos**, uso de **armas químicas** pelo Iraque — inclusive contra civis curdos em Halabja —, apoio ocidental e árabe a Bagdá, e nenhuma mudança de fronteira. Poucos anos depois, o mesmo Saddam invadiria o Kuwait e se tornaria o principal inimigo de quem o apoiara.
+4. **Transformou a clivagem sunita–xiita em linha geopolítica**, com Irã e Arábia Saudita disputando influência regional por meio de aliados locais. Repita o cuidado analítico: trata-se da **mobilização moderna** de uma divisão antiga, e não de sua continuação ininterrupta.
+5. **Contribuiu para o segundo choque do petróleo** e, por essa via, para a política econômica mundial dos anos 1980.
+
+**A lição de longo prazo.** O golpe de 1953 pareceu um sucesso barato e imediato para seus organizadores: derrubou-se um governo incômodo, garantiu-se o petróleo, instalou-se um aliado. Vinte e seis anos depois, produziu o regime mais hostil aos interesses americanos na região, cuja legitimidade se apoia, em parte, na memória daquela intervenção. É um dos exemplos mais claros do que os analistas chamam de **efeito de retorno** (*blowback*) — e um argumento historicamente forte contra a avaliação de intervenções apenas por seus resultados imediatos.
+:::
+
+**6.** (Estilo ENEM) Leia o texto.
+
+> "O Governo de Sua Majestade vê com bons olhos o estabelecimento na Palestina de um lar nacional para o povo judeu, e envidará seus melhores esforços para facilitar a realização desse objetivo, ficando claramente entendido que nada será feito que possa prejudicar os direitos civis e religiosos das comunidades não judaicas existentes na Palestina."
+>
+> — Declaração Balfour, 2 de novembro de 1917 [@balfour1917]
+
+Uma leitura crítica do documento permite afirmar que ele
+
+**(a)** reconhece a independência imediata de um Estado judaico na Palestina, com fronteiras definidas.
+**(b)** foi emitido pelo governo otomano, então soberano sobre o território da Palestina.
+**(c)** dispõe sobre um território que o governo emissor ainda não controlava e designa a maioria da população local apenas pela negação — "comunidades não judaicas".
+**(d)** estabelece a partilha da Palestina em dois Estados, conforme viria a ser aprovado pela Liga das Nações.
+**(e)** condiciona o apoio britânico à realização de um plebiscito entre os habitantes da Palestina.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (c).** A questão avalia **crítica de fonte** (@sec-fontes-historicas), e há dois elementos decisivos no texto.
+
+**Primeiro: quem promete não é o dono.** Em novembro de 1917, a Palestina ainda integrava o **Império Otomano**; as tropas britânicas apenas avançavam sobre a região, e o mandato só seria formalizado em 1922. O Reino Unido dispôs, portanto, de um território sobre o qual não tinha soberania.
+
+**Segundo: como o documento nomeia as pessoas.** A população árabe — muçulmana e cristã — constituía cerca de **90%** dos habitantes, e o texto a designa como "**comunidades não judaicas**". Nomear a maioria pela negação da minoria não é acaso de redação: indica quem é o **sujeito** do documento e quem é seu **objeto**. Note ainda o que o texto **omite** ao fazê-lo: fala em direitos "civis e religiosos", e não em direitos **políticos** ou **nacionais** — exatamente a categoria que o documento reconhece ao "povo judeu".
+
+Por que as demais estão erradas:
+
+- **(a)** o texto usa "**lar nacional**", expressão deliberadamente ambígua, e **não** "Estado"; também não define fronteiras nem prevê independência imediata;
+- **(b)** foi emitido pelo **governo britânico** — trata-se de uma carta do secretário de Relações Exteriores, Arthur Balfour, a Lord Rothschild;
+- **(d)** não há partilha alguma no texto; a partilha em dois Estados só seria proposta trinta anos depois, pela **ONU** (Resolução 181, 1947) — e não pela Liga das Nações;
+- **(e)** não há qualquer menção a consulta popular; ao contrário, os habitantes não foram consultados em nenhum momento.
+
+**A observação que completa a resposta.** A Declaração é uma das três promessas incompatíveis feitas pelos britânicos durante a guerra, ao lado da correspondência **Hussein–McMahon** (reino árabe independente) e do acordo secreto **Sykes–Picot** (partilha anglo-francesa). Foi essa incompatibilidade estrutural — e não um "ódio ancestral" — que instalou na Palestina dois projetos nacionais excludentes sobre o mesmo território, sob administração de uma potência comprometida com ambos.
+:::
+
+**7.** (Estilo vestibular) Explique as relações entre o **Brasil** e o Oriente Médio no século XX.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**1. Imigração.** Entre o fim do século XIX e meados do XX, o Brasil recebeu grande imigração da **Síria** e do **Líbano**, então províncias otomanas — daí o apelido de "turcos", derivado do passaporte e não da origem. Em sua maioria eram **cristãos** (maronitas e ortodoxos), o que ajuda a desfazer a associação automática entre árabe e muçulmano. Começaram sobretudo no comércio ambulante e depois nas lojas de tecidos, e a comunidade de origem árabe no Brasil é considerada uma das maiores fora do Oriente Médio, com presença marcante na economia, na política, na medicina e no cotidiano — esfiha e quibe são comida de rua brasileira. O Brasil recebeu também imigração **judaica**, sobretudo da Europa oriental nas primeiras décadas do século XX e depois refugiados do nazismo, **apesar** de circulares secretas do governo Vargas que restringiam a entrada de judeus (@sec-era-vargas).
+
+**2. A diplomacia de 1947.** O brasileiro **Osvaldo Aranha** presidia a sessão especial da Assembleia Geral da ONU que aprovou a **partilha da Palestina** (Resolução 181), e o Brasil votou a favor. O episódio é lembrado nos dois países e rendeu a Aranha homenagens em Israel.
+
+**3. A virada pragmática dos anos 1970.** O **choque do petróleo de 1973** atingiu duramente um país que importava cerca de 80% do que consumia. Sob **Geisel**, a diplomacia do "**pragmatismo responsável**" aproximou o Brasil dos Estados árabes, buscando garantir suprimento e abrir mercados para manufaturados, armamentos e serviços de engenharia — empreiteiras brasileiras executaram grandes obras no Iraque e na Líbia. Nesse contexto, o Brasil mudou posições em foros internacionais e chegou a votar a favor da resolução da ONU de **1975** que equiparava o **sionismo ao racismo** — decisão fortemente criticada, inclusive internamente, e revertida em **1991**, quando o Brasil apoiou sua revogação.
+
+**4. As respostas internas ao petróleo.** O **II PND**, o **Proálcool** (1975) — que criou o carro a etanol e uma indústria sucroalcooleira de escala mundial — e o investimento maciço da Petrobras em prospecção **offshore**, cujo desdobramento de longo prazo é a exploração em águas profundas e, mais tarde, o pré-sal.
+
+**A conclusão que a questão espera.** A relação brasileira com o Oriente Médio combina uma **dimensão social profunda e antiga** — construída por imigrantes árabes e judeus que se tornaram parte da sociedade brasileira — e uma **dimensão diplomática oscilante**, guiada em boa medida por interesses materiais: energia e mercados. A votação de 1947 e a de 1975 mostram bem a distância que interesses conjunturais podem produzir na posição de um mesmo país em menos de trinta anos — e é justamente esse tipo de contraste que revela como a política externa se articula à economia interna (@sec-ditadura-militar).
+:::
+
+**8.** Explique quem foram os "**novos historiadores**" israelenses e por que esse caso é instrutivo para o método histórico.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Quem foram.** A partir do fim dos anos 1980, com o vencimento do prazo legal de trinta anos, arquivos militares e governamentais israelenses referentes a **1948** foram desclassificados. Um grupo de historiadores israelenses — **Benny Morris**, **Avi Shlaim**, **Ilan Pappé**, Tom Segev — trabalhou com esse material e revisou pontos centrais da narrativa oficial.
+
+**O que documentaram.**
+
+1. **Expulsões deliberadas** de população árabe de diversas localidades, além da fuga espontânea diante dos combates — a versão tradicional atribuía o êxodo sobretudo a ordens de líderes árabes, o que os documentos não sustentam como explicação principal.
+2. **Massacres** de civis praticados por forças dos dois lados.
+3. **Equilíbrio militar** distinto do relato consagrado: as forças judaicas estiveram, em vários momentos de 1948, em superioridade numérica e organizacional em relação aos exércitos árabes, mal coordenados entre si.
+4. **Entendimentos entre a liderança sionista e o rei Abdullah da Jordânia** sobre a repartição do território que a ONU destinara ao Estado árabe — o que ajuda a explicar por que esse Estado não foi criado [@shlaim2014; @morris2001].
+
+**Por que o caso é tão instrutivo — e é isto que a questão pede.**
+
+**Primeiro: a abertura de arquivos muda a história, mas não encerra os debates.** As evidências novas foram amplamente aceitas quanto aos **fatos** e continuaram a alimentar discordância quanto ao **sentido** deles.
+
+**Segundo, e mais importante: descrição e avaliação são operações distintas.** **Morris** e **Pappé** trabalharam com evidências em grande parte sobrepostas e chegaram a conclusões políticas **opostas**. Pappé qualifica 1948 como **limpeza étnica planejada**; Morris documenta as expulsões, nega a existência de um plano central sistemático e, em entrevistas posteriores, chegou a justificá-las como necessidade de guerra. Dois historiadores rigorosos, os mesmos documentos, descrições factuais próximas e **juízos morais e políticos incompatíveis**.
+
+Isso **não** significa que a História seja opinião. Significa que ela faz duas coisas diferentes: **estabelecer o que aconteceu**, tarefa submetida às evidências e em que o desacordo pode ser resolvido por pesquisa; e **avaliar o que aconteceu**, tarefa que envolve critérios morais e políticos e em que o desacordo persiste mesmo entre pessoas bem-informadas. Confundir as duas é o erro típico dos dois lados de qualquer polêmica: um acusa o outro de inventar fatos quando, na verdade, discorda dos juízos; e ambos tratam a própria avaliação como se fosse dado empírico.
+
+**Terceiro: a desigualdade de arquivos.** Enquanto Israel abria arquivos estatais, boa parte da documentação palestina havia sido destruída, dispersa ou apreendida em 1948 e em 1982. Isso obrigou historiadores como **Rashid Khalidi** a desenvolver **história oral**, arquivos de família e registros otomanos e britânicos [@khalidi2020]. O princípio geral vale para todo o manual: **quem tem Estado tem arquivo**, e a documentação disponível não é um retrato neutro do passado, mas o resultado de relações de poder — o que exige do historiador atenção redobrada ao que **não** está catalogado (@sec-fontes-historicas).
+
+**A conclusão.** O caso mostra a historiografia funcionando exatamente como deveria: uma comunidade acadêmica revisando, com base em documentos, a narrativa fundadora do próprio país, ao custo de intensa hostilidade pública. É esse procedimento — e não o consenso — que distingue o conhecimento histórico da propaganda (@sec-correntes-historiograficas).
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- HOURANI, Albert. *Uma história dos povos árabes* [@hourani2006]. A síntese de referência, escrita por um historiador libanês-britânico; começa muito antes do século XX e por isso ajuda a evitar leituras rasas.
+- SAID, Edward. *Orientalismo* [@said2007]. Leia-o sabendo das críticas, e ainda assim leia-o.
+- KHALIDI, Rashid. *The Hundred Years' War on Palestine* [@khalidi2020], e SHLAIM, Avi. *The Iron Wall* [@shlaim2014]. Duas obras rigorosas de perspectivas distintas — leia-as em sequência, é o melhor exercício possível sobre este tema.
+- MORRIS, Benny. *Righteous Victims* [@morris2001]. Narrativa completa do conflito por um dos "novos historiadores"; útil justamente porque suas conclusões políticas não acompanham suas descobertas documentais.
+- DEMANT, Peter. *O mundo muçulmano* [@demant2014], e VISENTINI, Paulo. *O Grande Oriente Médio* [@visentini2014]. Panoramas em português, escritos por professores brasileiros.
+- KEPEL, Gilles. *Jihad* [@kepel2003]. Sobre a trajetória do islamismo político, do Irã de 1979 em diante.
+
+**Fontes primárias**
+
+- A **Declaração Balfour** [@balfour1917]: três linhas, meia hora de análise, um século de consequências.
+- A **Resolução 181** [@onu181] e a **Resolução 242** [@onu242]. Compare a versão inglesa e a francesa da 242 e verifique você mesmo a ambiguidade.
+- A **Declaração de Princípios de Oslo** [@oslo1993]: observe o que ela resolve e, sobretudo, o que ela **adia**.
+
+**Filmes e documentários**
+
+- *Valsa com Bashir* (2008), dir. Ari Folman. Documentário em animação sobre a memória de um soldado israelense no Líbano de 1982 — e sobre como a memória traumática se organiza.
+- *5 Câmeras Quebradas* (2011), dir. Emad Burnat e Guy Davidi: um agricultor palestino filma cinco anos de sua aldeia; codirigido por um palestino e um israelense.
+- *Persépolis* (2007), dir. Marjane Satrapi e Vincent Paronnaud. A Revolução Iraniana e o exílio, em animação autobiográfica.
+- *Filhos de Abraão / O Insulto* (2017), dir. Ziad Doueiri: um desentendimento banal em Beirute abre as feridas da guerra civil libanesa.
+- *Lawrence da Arábia* (1962), dir. David Lean. Obra-prima e **fonte histórica de sua época** — assista atento ao modo como representa os árabes, com a advertência de Said em mente.
