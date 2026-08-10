@@ -1,5 +1,344 @@
 # O Segundo Reinado: política e café {#sec-segundo-reinado}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Em 1876, um homem de barbas brancas percorreu a Exposição Universal da Filadélfia acompanhado de **Graham Bell**, que lhe pediu que encostasse o ouvido num aparelho estranho. Ao escutar uma voz humana saindo do aparelho, ele teria exclamado: "**Meu Deus, isto fala!**". O episódio deu ao telefone sua primeira grande publicidade mundial, e ao visitante — **D. Pedro II**, imperador do Brasil — a reputação internacional de monarca ilustrado, amigo de cientistas, tradutor de poesia, membro correspondente de academias europeias. Enquanto isso, no país que ele governava, cerca de **80% da população era analfabeta**, mais de um milhão de pessoas viviam escravizadas e o produto que sustentava o Estado — o **café** — era colhido por mãos cativas em fazendas do Vale do Paraíba. O Segundo Reinado é exatamente esse contraste: quase meio século de **estabilidade política notável** para os padrões latino-americanos, com Parlamento funcionando, eleições regulares e alternância de gabinetes — tudo assentado sobre trabalho escravo, voto censitário e uma máquina eleitoral controlada de cima. Entender como as duas coisas coexistiram é entender o Brasil imperial.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- explicar o funcionamento do **parlamentarismo às avessas** e o papel do **Poder Moderador**;
+- caracterizar os partidos **Conservador** e **Liberal**, a **Conciliação** e o sistema eleitoral do Império;
+- descrever a expansão da **economia cafeeira** do Vale do Paraíba ao Oeste Paulista e suas diferenças internas;
+- avaliar o significado da **Lei de Terras de 1850** e sua relação com o fim do tráfico;
+- analisar o papel de **Mauá**, das ferrovias e dos limites da modernização imperial;
+- discutir as interpretações historiográficas sobre a natureza do Estado imperial e a viabilidade da monarquia.
 :::
+
+## A máquina política do Império {#sec-maquina-politica}
+
+Declarado maior aos 14 anos em 1840 (@sec-periodo-regencial), **D. Pedro II** (1825–1891) governaria até 1889. Os primeiros anos foram tumultuados — houve ainda revoltas liberais em São Paulo e Minas (1842), a **Revolução Praieira** em Pernambuco (1848–1850), última das grandes revoltas provinciais, e a Farroupilha só terminou em 1845. A partir de 1850, porém, instalou-se uma estabilidade que duraria quase quarenta anos.
+
+**Os partidos.** Duas agremiações se alternaram no poder:
+
+- **Partido Conservador** (*saquaremas*): base no Rio de Janeiro, na Bahia e em Pernambuco; magistrados, burocratas e grandes proprietários do Vale do Paraíba e do Nordeste açucareiro. Defendia centralização, autoridade e ordem.
+- **Partido Liberal** (*luzias*): base em São Paulo, Minas Gerais e Rio Grande do Sul; profissionais liberais, comerciantes e proprietários de regiões mais dinâmicas. Defendia descentralização, ampliação de direitos e reformas.
+
+As diferenças eram reais, mas limitadas. Ambos aceitavam a monarquia, a escravidão e o voto censitário; ambos recrutavam sua liderança na mesma elite formada em direito em **Coimbra**, **Olinda/Recife** e **São Paulo**. Daí a frase atribuída ao político conservador Holanda Cavalcanti que resume o período: "**nada mais parecido com um saquarema do que um luzia no poder**". Entre 1853 e 1858, o gabinete do **marquês de Paraná** institucionalizou essa proximidade no chamado **Gabinete da Conciliação**, que integrou liberais ao governo conservador.
+
+**O parlamentarismo às avessas.** Em 1847, criou-se o cargo de **presidente do Conselho de Ministros** — na prática, um primeiro-ministro. O Brasil passava a ter um sistema aparentemente parlamentarista. A aparência, porém, escondia uma inversão fundamental.
+
+::: {#fig-parlamentarismo-as-avessas}
+
+```{.tikz}
+%%| filename: fig-parlamentarismo-as-avessas
+%%| alt: Diagrama comparando o parlamentarismo inglês clássico com o parlamentarismo às avessas do Segundo Reinado brasileiro.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  % coluna esquerda: modelo inglês
+  \node[text=manualblue] at (2.5,3.5) {\textbf{PARLAMENTARISMO CLÁSSICO (Inglaterra)}};
+  \node[draw, thick, rounded corners, fill=manualblue!16, align=center, text width=4.0cm] (i1) at (2.5,2.5) {\textbf{eleitores} votam};
+  \node[draw, thick, rounded corners, fill=manualblue!16, align=center, text width=4.0cm] (i2) at (2.5,1.2) {\textbf{Parlamento} eleito};
+  \node[draw, thick, rounded corners, fill=manualblue!16, align=center, text width=4.0cm] (i3) at (2.5,-0.1) {a maioria forma o \textbf{gabinete}};
+  \node[draw, thick, rounded corners, fill=manualblue!16, align=center, text width=4.0cm] (i4) at (2.5,-1.4) {o rei \textbf{reina, mas não governa}};
+  \draw[vetor, very thick, manualblue] (i1) -- (i2);
+  \draw[vetor, very thick, manualblue] (i2) -- (i3);
+  \draw[vetor, very thick, manualblue] (i3) -- (i4);
+
+  \draw[very thick, manualgray, dashed] (5.6,-2.4) -- (5.6,3.7);
+
+  % coluna direita: modelo brasileiro
+  \node[text=manualred] at (9.4,3.5) {\textbf{``ÀS AVESSAS'' (Brasil, Segundo Reinado)}};
+  \node[draw, thick, rounded corners, fill=manualred!16, align=center, text width=4.6cm] (b1) at (9.4,2.5) {o \textbf{Imperador} (Poder Moderador)\\ nomeia o \textbf{gabinete}};
+  \node[draw, thick, rounded corners, fill=manualred!16, align=center, text width=4.6cm] (b2) at (9.4,1.2) {sem maioria, o Imperador\\ \textbf{dissolve a Câmara}};
+  \node[draw, thick, rounded corners, fill=manualred!16, align=center, text width=4.6cm] (b3) at (9.4,-0.1) {o \textbf{gabinete} organiza as eleições\\ (voto \textbf{descoberto}, chefes locais)};
+  \node[draw, thick, rounded corners, fill=manualred!16, align=center, text width=4.6cm] (b4) at (9.4,-1.4) {o gabinete \textbf{vence} e obtém\\ sua própria maioria};
+  \draw[vetor, very thick, manualred] (b1) -- (b2);
+  \draw[vetor, very thick, manualred] (b2) -- (b3);
+  \draw[vetor, very thick, manualred] (b3) -- (b4);
+  \draw[vetor, very thick, manualred] (b4.east) -- ++(0.6,0) |- (b1.east);
+
+  \node[draw, dashed, rounded corners, fill=manualyellow!22, align=center, text width=12.4cm] at (6.0,-3.2)
+    {\textbf{Resultado:} em 49 anos, \textbf{36 gabinetes} e nenhuma eleição perdida por um gabinete em exercício. Não é o Parlamento que sustenta o governo — é o governo que fabrica o Parlamento.};
+\end{tikzpicture}
+```
+
+O mesmo desenho institucional, invertido no sentido da causalidade. Comparar as duas colunas é o modo mais rápido de entender o sistema imperial.
+:::
+
+O mecanismo funcionava assim: o imperador, no uso do **Poder Moderador**, nomeava o presidente do Conselho. Se este não tivesse maioria na Câmara, o imperador **dissolvia** a Câmara e convocava eleições. Como o gabinete controlava a máquina — nomeava os **presidentes de província**, que nomeavam delegados, chefes de polícia e juízes municipais, que por sua vez dialogavam com os **coronéis** da Guarda Nacional (@sec-periodo-regencial) —, e como o voto era **descoberto**, o resultado era previsível: **o gabinete sempre vencia**. Em 49 anos houve **36 gabinetes**, e nenhum deles perdeu uma eleição que ele próprio organizou. Daí a frase de **Aureliano Cândido Tavares Bastos**, e sobretudo o veredicto do próprio sistema: a representação era uma encenação. Foi para descrever esse arranjo que **José Murilo de Carvalho** escolheu a expressão "**teatro de sombras**" [@carvalho2003].
+
+**As eleições.** Até 1881, o voto era indireto e censitário; as urnas eram disputadas com violência — a expressão "**eleição a bico de pena**" designa a fraude cometida na hora de escrever a ata, e "**eleição do cacete**" descreve o método mais direto. A **Lei Saraiva** (1881), primeira reforma significativa, instituiu **eleição direta** e título de eleitor — mas manteve a exigência de renda e acrescentou a de **alfabetização**, o que, num país com 80% de analfabetos, **reduziu o eleitorado** de cerca de 10% da população livre para menos de **1%**. Foi uma reforma que modernizou o procedimento e **encolheu** a participação.
+
+::: {.callout-important title="Cuidado com a palavra 'parlamentarismo'"}
+Dizer que o Brasil teve parlamentarismo no Segundo Reinado é correto quanto à **forma** e enganoso quanto ao **conteúdo**. Havia presidente do Conselho, gabinete responsável, moções e debates de alto nível. Mas a lógica era invertida: no modelo clássico, o **Parlamento** decide quem governa; no Brasil, o **imperador** decidia quem governava e mandava produzir o Parlamento correspondente.
+
+Guarde a fórmula para prova: **no parlamentarismo, o gabinete cai quando perde a Câmara; no Império brasileiro, a Câmara caía quando o imperador trocava o gabinete.**
+:::
+
+## O café e a transformação do país {#sec-cafe}
+
+Se a política deu ao Segundo Reinado sua estabilidade, o **café** deu-lhe sua base material. Introduzido no Brasil no século XVIII, ele se tornou o principal produto de exportação já na década de 1830 e chegaria a responder por cerca de **60% das exportações** brasileiras no fim do Império, com o Brasil fornecendo a maior parte do café consumido no mundo.
+
+**Primeira fase: o Vale do Paraíba (c. 1830–1870).** A expansão começou pela região que une o Rio de Janeiro, São Paulo e Minas Gerais. As características: **grandes propriedades**, mão de obra **escravizada**, técnicas rudimentares (derrubada, queimada e plantio morro acima, o que acelerava a erosão), transporte em **tropas de mulas** e financiamento por **comissários** de café. Foi ali que se formou a aristocracia dos "**barões do café**", cujos títulos nobiliárquicos o Império distribuía generosamente — a nobreza brasileira era **não hereditária**, concedida por serviços e, na prática, por adesão política. O Vale do Paraíba entrou em decadência a partir dos anos 1870: solo esgotado, escassez de escravizados após o fim do tráfico e concorrência de terras melhores a oeste.
+
+**Segunda fase: o Oeste Paulista (a partir de c. 1870).** Campinas, Ribeirão Preto, Rio Claro, São Carlos — a região da **terra roxa**, solo excepcionalmente fértil. As diferenças em relação ao Vale são decisivas para entender o resto da história do Brasil:
+
+| | **Vale do Paraíba** | **Oeste Paulista** |
+|---|---|---|
+| **Solo e técnica** | esgotado, plantio morro acima, rotina rudimentar | **terra roxa**, plantio em curvas de nível, uso de máquinas de beneficiamento |
+| **Trabalho** | escravizado até o fim | escravizado e, cada vez mais, **imigrante** assalariado (colonato) |
+| **Transporte** | tropas de mula | **ferrovias** (Santos–Jundiaí, 1867; Paulista; Mogiana) |
+| **Mentalidade** | aristocrática, ligada à Corte e à monarquia | empresarial: bancos, ferrovias, indústria incipiente |
+| **Política** | conservadora, monarquista | **republicana** a partir de 1870, base do PRP |
+
+: Duas cafeiculturas, dois destinos políticos. {#tbl-vale-oeste}
+
+Essa diferença explica um paradoxo que aparece muito em provas: **os cafeicultores mais ricos e modernos do Império foram os que menos precisaram dele e mais rapidamente aderiram à República**. Os barões do Vale, presos à escravidão e endividados, ficaram monarquistas até o fim; os fazendeiros do Oeste Paulista, com trabalho imigrante e capital próprio, fundaram em 1873 o **Partido Republicano Paulista** (@sec-crise-do-imperio).
+
+::: {#fig-expansao-cafe}
+
+```{.tikz}
+%%| filename: fig-expansao-cafe
+%%| alt: Mapa esquemático da expansão da lavoura cafeeira no Brasil do século XIX, do Vale do Paraíba para o Oeste Paulista, com ferrovias e portos.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \draw[thick, manualgray, rounded corners] (0,-3.4) rectangle (13.0,2.9);
+  \node[text=manualgray] at (6.5,3.25) {\textbf{A MARCHA DO CAFÉ} (esquema — Sudeste, séc. XIX)};
+
+  \fill[manualgreen!26, rounded corners] (7.4,0.2) rectangle (11.6,2.5);
+  \node[align=center, text=manualgreen!45!black] at (9.5,1.35)
+    {\textbf{VALE DO PARAÍBA}\\ c. \textbf{1830--1870}\\[2pt] escravidão $\cdot$ tropas de mula\\ solo esgotado\\ \textbf{barões do café} $\cdot$ monarquistas};
+
+  \fill[manualred!22, rounded corners] (1.4,0.2) rectangle (6.4,2.5);
+  \node[align=center, text=manualred] at (3.9,1.35)
+    {\textbf{OESTE PAULISTA}\\ a partir de c. \textbf{1870}\\[2pt] \textbf{terra roxa} $\cdot$ ferrovias\\ imigrantes (colonato)\\ empresários $\cdot$ \textbf{republicanos}};
+
+  \draw[vetor, ultra thick, manualgray] (7.2,1.35) -- (6.6,1.35);
+  \node[text=manualgray] at (6.9,1.8) {\textbf{oeste}};
+
+  \node[draw, thick, circle, fill=manualblue!25, inner sep=1.6pt] (santos) at (6.6,-1.4) {};
+  \node[below, text=manualblue] at (6.6,-1.6) {\textbf{porto de Santos}};
+  \node[draw, thick, circle, fill=manualblue!25, inner sep=1.6pt] (rio) at (10.8,-1.4) {};
+  \node[below, text=manualblue] at (10.8,-1.6) {\textbf{porto do Rio de Janeiro}};
+
+  \draw[very thick, manualblue] (3.9,0.15) -- (5.4,-0.7) -- (6.6,-1.25);
+  \node[text=manualblue, rotate=-28] at (5.0,-0.2) {\textbf{ferrovias}};
+  \draw[very thick, dashed, manualgreen!50!black] (9.5,0.15) -- (10.4,-0.7) -- (10.8,-1.25);
+  \node[text=manualgreen!45!black, rotate=-52] at (10.4,-0.35) {\textbf{tropas}};
+
+  \draw[vetor, very thick, manualblue] (6.6,-1.9) -- (6.6,-2.6);
+  \draw[vetor, very thick, manualblue] (10.8,-1.9) -- (10.8,-2.6);
+  \node[align=center, text=manualblue, text width=6.0cm] at (8.7,-3.0)
+    {\textbf{exportação} $\rightarrow$ Europa e Estados Unidos ($\approx$ \textbf{60\%} das exportações brasileiras no fim do Império)};
+
+  \node[align=center, text width=2.6cm] at (1.3,-1.9) {\textbf{São Paulo}\\ (cidade)};
+  \node[align=center, text width=2.6cm] at (12.0,0.0) {\textbf{Minas} e\\ \textbf{Rio de Janeiro}};
+\end{tikzpicture}
+```
+
+Duas frentes de café, dois modelos de trabalho e dois destinos políticos: para os portos, o mesmo produto; para o país, consequências opostas.
+:::
+
+**A Lei de Terras de 1850.** Aprovada duas semanas depois da lei que extinguiu o tráfico de escravizados — coincidência que não é coincidência —, a **Lei nº 601, de 18 de setembro de 1850**, determinou que, dali em diante, as terras públicas só poderiam ser adquiridas por **compra** ao Estado, encerrando o regime de doação de sesmarias e de posse. Também exigiu o **registro** das propriedades existentes.
+
+Por que aprová-la naquele momento? Porque o fim do tráfico anunciava uma futura escassez de trabalhadores cativos, e a solução prevista era a **imigração europeia**. Ora, imigrantes que pudessem obter terra facilmente não trabalhariam nas fazendas. Tornar a terra **cara e juridicamente inacessível** aos pobres era, portanto, a maneira de garantir mão de obra às lavouras. O efeito de longo prazo foi bloquear o acesso à propriedade para libertos, posseiros, indígenas e imigrantes sem capital, consolidando a **concentração fundiária** brasileira — cujos efeitos você reencontrará no século XX (@sec-republica-de-1946). Não por acaso, a Lei de Terras é frequentemente citada como o exemplo mais límpido de legislação que **cria** desigualdade estrutural por desenho, e não por omissão.
+
+## Modernização e seus limites {#sec-modernizacao-imperial}
+
+O dinheiro do café financiou a primeira onda de modernização. Seu personagem emblemático é **Irineu Evangelista de Souza** (1813–1889), o **barão** e depois **visconde de Mauá**: filho de estancieiro gaúcho, começou como caixeiro aos onze anos e construiu o maior império empresarial da América do Sul — estaleiro, fundição, a primeira **ferrovia** do Brasil (Mauá, 1854, com 14 km ligando o fundo da baía de Guanabara a Petrópolis), companhia de gás para iluminar o Rio, cabo submarino de telégrafo com a Europa, bancos no Brasil, no Uruguai e na Inglaterra.
+
+Mauá faliu em 1875. Suas próprias memórias, publicadas como *Autobiografia (Exposição aos credores)*, atribuem o fracasso à hostilidade do governo, à política monetária restritiva e ao desinteresse de uma elite agrária que preferia investir em terra e escravizados a investir em indústria [@maua1878]. A leitura dos historiadores é mais estrutural: numa economia **primário-exportadora**, dependente de crédito inglês e assentada no trabalho escravo, não havia mercado interno consumidor nem sistema financeiro capaz de sustentar um empreendedor daquela escala. Mauá é menos o herói frustrado de uma industrialização possível do que a demonstração dos **limites estruturais** do arranjo imperial.
+
+Um episódio ilustra bem esses limites: a **Tarifa Alves Branco** (1844), que elevou as taxas de importação de cerca de 15% para 30% quando expiraram os tratados de 1810 (@sec-independencia), gerou receita e algum estímulo à produção local — mas o capital disponível foi majoritariamente aplicado onde o retorno era imediato e garantido: **na compra de escravizados e de terras**, e não em fábricas. Depois de 1850, com o tráfico extinto, parte desse capital finalmente migrou para ferrovias, bancos e companhias de seguro — o que ajuda a explicar o pequeno surto de empresas conhecido como a "**mania**" dos anos 1850.
+
+**Cultura e identidade.** O Segundo Reinado foi também o momento de invenção deliberada de uma **cultura nacional**. O **Instituto Histórico e Geográfico Brasileiro** (IHGB), criado em 1838 e patrocinado pelo imperador, premiou em 1845 a dissertação do naturalista alemão **Karl von Martius**, *Como se deve escrever a história do Brasil*, que propunha narrar o país como a fusão de "três raças" — o português colonizador, o indígena e o africano —, com clara hierarquia entre elas e com o europeu como agente civilizador. Essa matriz, com variações, organizaria os manuais escolares por mais de um século.
+
+Na literatura, o **Romantismo** produziu o **indianismo** de **Gonçalves Dias** e **José de Alencar**, que elegeu o indígena idealizado — e já derrotado — como ancestral mítico da nação, enquanto o africano e o negro real ficavam de fora do panteão. Só na geração seguinte a poesia condoreira de **Castro Alves** ("**O navio negreiro**", 1868) traria a escravidão para o centro da literatura brasileira, e só com **Machado de Assis** o país ganharia um observador implacável de sua própria elite. Vale reter o mecanismo: a construção de uma identidade nacional é sempre uma **seleção** — e o que se escolhe esquecer é tão significativo quanto o que se decide celebrar (@sec-memoria-patrimonio).
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+**Que Estado foi o Império?** A resposta mais influente do século XX veio de **Ilmar Rohloff de Mattos**. Em *O tempo saquarema*, ele mostra como o **Partido Conservador**, ligado aos cafeicultores do Vale do Paraíba e à burocracia da Corte, construiu deliberadamente o Estado imperial entre 1837 e 1868: mais do que reprimir, os saquaremas produziram uma **direção intelectual e moral** — uma visão de "Ordem" e "Civilização" que apresentava os interesses de uma classe senhorial como interesse de toda a nação. É uma leitura de inspiração gramsciana (@sec-segunda-revolucao-industrial-socialismo), e sua força está em explicar a estabilidade do Império sem recorrer nem ao mito do "imperador sábio" nem à ideia de simples coerção [@mattos1987].
+
+**José Murilo de Carvalho** oferece uma explicação complementar, de natureza sociológica. Estudando a origem, a formação e a carreira dos ocupantes dos altos cargos, ele mostrou que a elite política imperial era excepcionalmente **homogênea**: formada em **Coimbra** e, depois, nas faculdades de direito de Olinda/Recife e São Paulo, socializada na magistratura e na burocracia, com carreiras que giravam pelas províncias e desvinculavam o político de sua base regional. Essa "ilha de letrados" num mar de analfabetos foi o que tornou possível manter unido um território continental — e o preço foi um sistema representativo que ele descreve como "**teatro de sombras**": eleições sem eleitorado real, partidos sem programa distinto, Parlamento sem soberania efetiva [@carvalho2003].
+
+**Foi mesmo tão centralizado?** Aqui entra a revisão de **Miriam Dolhnikoff**, já apresentada nos capítulos anteriores. Trabalhando com os arquivos das **Assembleias Legislativas provinciais**, ela sustenta que as elites regionais mantiveram, durante todo o Império, controle efetivo sobre orçamentos provinciais, impostos internos, obras, cargos e força policial. O Império seria então um **pacto**: as elites provinciais aceitaram a monarquia unitária e o Poder Moderador porque, em troca, obtiveram autonomia real sobre o que lhes interessava. Essa leitura explica com elegância por que, depois de 1848, não houve mais revoltas provinciais — e por que a **República** de 1889 adotou o federalismo com tanta rapidez: ele já existia, de fato [@dolhnikoff2005].
+
+**A monarquia atrasou ou salvou o Brasil?** Esse é o debate mais antigo e mais carregado de política. A tradição **republicana e positivista** do fim do século XIX descreveu o Império como regime atrasado, empenhado em manter a escravidão e hostil ao progresso técnico — retrato que passou aos manuais republicanos. A tradição **monarquista e conservadora** respondeu com a tese da monarquia como fiadora da **unidade territorial**, da estabilidade e das liberdades civis, contrastando o Brasil com as guerras civis e os caudilhos hispano-americanos (@sec-independencias-america-latina).
+
+A historiografia atual tende a recusar os dois extremos. Contra a tese do puro atraso, observa que o Império tinha imprensa relativamente livre, Parlamento com debate real, sucessão de governos sem golpes e uma capacidade de negociação política incomum no continente. Contra a tese do salvador, observa que essa estabilidade foi construída **sobre a escravidão** — o Império resistiu a cada passo da abolição e só a aceitou quando não havia alternativa (@sec-escravidao-abolicao-imigracao) — e que a "unidade" foi imposta militarmente à Cabanagem, à Balaiada e à Praieira. **Emília Viotti da Costa** formulou bem o ponto ao tratar a monarquia brasileira como uma fachada liberal sobre uma estrutura escravista: as instituições representativas funcionavam **porque** e **enquanto** não ameaçavam essa estrutura [@costa1999].
+
+**Por que divergem?** Porque a pergunta "o Império foi bom ou ruim?" é, no fundo, uma pergunta sobre o **presente de quem pergunta**. Os republicanos de 1889 precisavam desqualificar o regime que derrubaram; os saudosistas do começo do século XX, desqualificar a República Velha; os historiadores dos anos 1970–80, entender as raízes do autoritarismo e da desigualdade brasileira, e por isso olharam para o Estado e para as classes; os dos anos 2000, marcados pelo debate federativo e pela história política renovada, voltaram a examinar as províncias e a cultura política. Trocaram-se também as fontes — dos discursos parlamentares e das memórias de estadistas para os arquivos provinciais, os inventários, os processos judiciais e os registros paroquiais. Como sempre, **a resposta muda quando muda a pergunta** (@sec-correntes-historiograficas).
+
+## Resumo do capítulo {#sec-resumo}
+
+- **Segundo Reinado (1840–1889):** governo de **D. Pedro II**, com estabilidade rara no continente. Últimas grandes revoltas: liberais de **1842** (SP e MG), **Farroupilha** (até 1845) e **Praieira** (PE, 1848–50).
+- **Partidos:** **Conservador** (*saquaremas*: Rio, Bahia, Pernambuco; centralização e ordem) e **Liberal** (*luzias*: São Paulo, Minas, RS; descentralização e reformas). Diferenças limitadas — "nada mais parecido com um saquarema do que um luzia no poder". **Gabinete da Conciliação** (1853–58), do marquês de **Paraná**.
+- **Parlamentarismo às avessas:** criado o cargo de **presidente do Conselho de Ministros** (1847), mas o **imperador** nomeava o gabinete e, faltando maioria, **dissolvia a Câmara**; o gabinete organizava as eleições e sempre as vencia. **36 gabinetes em 49 anos**; nenhuma derrota eleitoral de gabinete em exercício.
+- **Eleições:** censitárias, indiretas e de **voto descoberto**, com "eleição a **bico de pena**" (fraude na ata) e "eleição do **cacete**" (violência). A **Lei Saraiva** (1881) instituiu **voto direto**, mas exigiu **alfabetização** e **reduziu** o eleitorado a menos de **1%** da população.
+- **Café:** principal produto de exportação desde os anos 1830, chegando a cerca de **60%** das exportações. **Vale do Paraíba** (c. 1830–70): grandes propriedades, **escravidão**, técnica rudimentar, tropas de mula, "**barões do café**", monarquistas. **Oeste Paulista** (a partir de c. 1870): **terra roxa**, **ferrovias**, **imigrantes** no colonato, mentalidade empresarial e adesão **republicana** (PRP, 1873).
+- **Lei de Terras (nº 601, 18 de setembro de 1850):** terras públicas só por **compra**; aprovada duas semanas depois do fim do tráfico, para **impedir** que imigrantes e libertos obtivessem terra e assim garantir mão de obra às fazendas. Consolidou a **concentração fundiária**.
+- **Modernização e limites:** **Tarifa Alves Branco** (1844) elevou as importações a cerca de 30%; após 1850, capital antes empregado no tráfico migrou para ferrovias e bancos. **Mauá**: ferrovia (1854), gás, estaleiro, telégrafo submarino e bancos — falido em **1875** pela ausência de mercado interno, crédito e apoio estatal.
+- **Cultura:** **IHGB** (1838) e o programa de **Von Martius** (1845) das "três raças"; **Romantismo** e **indianismo** (Gonçalves Dias, José de Alencar); **Castro Alves** e *O navio negreiro* (1868); **Machado de Assis**.
+- **Historiografia:** **Ilmar Mattos** (o "tempo saquarema" e a direção moral e intelectual dos conservadores) × **José Murilo de Carvalho** (elite homogênea formada em Coimbra; "teatro de sombras") × **Dolhnikoff** (pacto com autonomia provincial real) × o velho debate entre a tese do **atraso** (republicanos e positivistas) e a da monarquia como fiadora da **unidade**, com a síntese crítica de **Viotti da Costa**: fachada liberal sobre estrutura escravista.
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Fixe: (1) o mecanismo do **parlamentarismo às avessas**, do gabinete às urnas; (2) por que os partidos eram tão parecidos; (3) o quadro **Vale do Paraíba × Oeste Paulista** — talvez o comparativo mais cobrado do período; (4) a lógica da **Lei de Terras** e sua ligação com 1850; (5) o caso **Mauá** como diagnóstico dos limites estruturais; (6) o efeito paradoxal da **Lei Saraiva**.
+:::
+
+**1.** Explique o **parlamentarismo às avessas**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**O modelo de referência.** No parlamentarismo clássico (inglês), o eleitorado elege o **Parlamento**; a maioria parlamentar forma o **gabinete**; o gabinete governa enquanto mantiver essa maioria; e o monarca "reina, mas não governa".
+
+**Como funcionava no Brasil.** A ordem causal era invertida:
+
+1. o **imperador**, usando o **Poder Moderador**, nomeava o **presidente do Conselho de Ministros**;
+2. se o novo gabinete não tivesse maioria na Câmara, o imperador **dissolvia a Câmara** e convocava eleições;
+3. o gabinete organizava essas eleições — nomeava os **presidentes de província**, que nomeavam chefes de polícia, delegados e juízes municipais, articulados com os **coronéis** da Guarda Nacional;
+4. com **voto descoberto** e ampla margem para fraude ("bico de pena") e coação ("cacete"), o gabinete **vencia**, obtendo a maioria de que precisava.
+
+**A prova empírica:** em 49 anos, **36 gabinetes** se sucederam e **nenhum** perdeu a eleição que ele mesmo organizou. Se o governo nunca perde, a eleição não decide nada.
+
+**A consequência política.** A alternância entre Conservadores e Liberais dependia da vontade do imperador, não do voto — o que sustenta a expressão de **José Murilo de Carvalho**, "**teatro de sombras**" [@carvalho2003], e explica por que a crítica ao **Poder Moderador**, iniciada por Frei Caneca ainda em 1824 (@sec-primeiro-reinado), se tornaria a bandeira central dos republicanos no **Manifesto de 1870** (@sec-crise-do-imperio).
+:::
+
+**2.** Compare **Vale do Paraíba** e **Oeste Paulista** e explique por que a diferença teve consequências políticas.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Vale do Paraíba (c. 1830–1870).** Solo logo esgotado pelo plantio morro acima; técnicas rudimentares; trabalho **escravizado**; transporte por **tropas de mula**; financiamento por comissários; elite aristocrática, titulada pelo Império ("**barões do café**") e ligada à Corte. Entrou em decadência a partir dos anos 1870, com solo exaurido e escassez crescente de cativos depois do fim do tráfico (1850).
+
+**Oeste Paulista (a partir de c. 1870).** Região da **terra roxa**, muito mais fértil; plantio em curvas de nível e uso de máquinas de beneficiamento; **ferrovias** (Santos–Jundiaí em 1867, depois Paulista e Mogiana) em lugar das mulas; trabalho crescentemente **imigrante assalariado** pelo sistema de **colonato**; e uma elite com mentalidade **empresarial**, que investia em bancos, ferrovias e comércio.
+
+**Por que isso teve consequências políticas.** Os fazendeiros do Vale dependiam da escravidão e do crédito ligado à Corte; qualquer ataque ao cativeiro os arruinaria, e por isso permaneceram **monarquistas e conservadores** até o fim. Os do Oeste Paulista já dispunham de trabalho livre imigrante e de capital próprio: podiam prescindir da escravidão e, mais que isso, ressentiam-se de pagar impostos elevados e de ter pouco peso político num sistema em que os presidentes de província eram **nomeados** pelo Rio. Foram eles que, em **1873**, fundaram na **Convenção de Itu** o **Partido Republicano Paulista**, com bandeiras de **federalismo** e **autonomia provincial**.
+
+**O paradoxo a reter:** o grupo economicamente mais dinâmico do Império foi o que menos dependia dele — e, por isso, o primeiro a abandoná-lo. Em 1889, a monarquia caiu sem que ninguém a defendesse justamente porque o café do Oeste, os militares e os abolicionistas, cada um por seus motivos, já haviam retirado seu apoio (@sec-crise-do-imperio).
+:::
+
+**3.** Qual foi o objetivo real da **Lei de Terras de 1850**?
+
+::: {.callout-tip collapse="true" title="Solução"}
+**O que a lei determinou.** A **Lei nº 601, de 18 de setembro de 1850**, estabeleceu que as terras devolutas (públicas) só poderiam ser adquiridas por **compra** ao Estado, encerrando o antigo regime de **sesmarias** e a legitimação da posse por ocupação. Exigiu ainda o **registro** das propriedades já existentes — os "registros do vigário", feitos nas paróquias.
+
+**O contexto decisivo.** A lei foi aprovada **duas semanas** depois da **Lei Eusébio de Queirós** (4 de setembro de 1850), que extinguiu o tráfico atlântico de escravizados. A proximidade não é coincidência: com o fim do tráfico, a elite cafeeira sabia que a mão de obra cativa se tornaria escassa e cara, e a alternativa prevista era a **imigração europeia**.
+
+**O raciocínio das elites.** Se a terra fosse acessível, o imigrante recém-chegado — e também o liberto, o posseiro e o trabalhador nacional pobre — poderia obter um pedaço de chão e produzir por conta própria, em vez de trabalhar nas fazendas de café. Tornar a terra **cara** e **juridicamente inacessível** aos sem capital era, portanto, a forma de **fabricar** trabalhadores disponíveis. A Lei de Terras é o mecanismo clássico daquilo que a economia política chama de garantir "trabalho para o capital" através do bloqueio ao acesso à terra.
+
+**As consequências.**
+
+1. **Concentração fundiária** consolidada juridicamente, com efeitos que atravessam todo o século XX (@sec-republica-de-1946).
+2. **Exclusão dos libertos** após 1888: sem terra, sem crédito e sem escolas, a população liberta ficou à margem — situação estruturalmente análoga à dos libertos americanos no *sharecropping* (@sec-eua-seculo-xix).
+3. **Expropriação de posseiros e de terras indígenas**, já que o registro exigia recursos, letramento e acesso a autoridades — precondições que a maioria não tinha.
+4. **Grilagem** como prática duradoura, alimentada pela distância entre o registro formal e a ocupação real.
+
+**Síntese:** foi uma lei de **mercado de trabalho** disfarçada de lei fundiária.
+:::
+
+**4.** Por que Mauá faliu? O que o caso revela sobre a economia imperial?
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Quem foi.** **Irineu Evangelista de Souza** (1813–1889), barão e depois visconde de **Mauá**, construiu o maior conglomerado empresarial da América do Sul: estaleiro e fundição na Ponta da Areia, a **primeira ferrovia** do Brasil (1854), companhia de iluminação a gás do Rio, o **cabo telegráfico submarino** com a Europa, empresas de navegação e bancos no Brasil, no Uruguai e em Londres. Faliu em **1875**.
+
+**As explicações dele.** Em sua *Exposição aos credores* [@maua1878], Mauá culpou a hostilidade do governo, a política monetária restritiva, a concorrência desleal favorecida por decisões oficiais e o desinteresse de uma elite que preferia aplicar capital em terra e escravizados.
+
+**A explicação estrutural (a que interessa em prova).** O fracasso de Mauá não é acidente pessoal nem apenas má vontade política: é o **limite do arranjo econômico imperial**.
+
+1. **Não havia mercado interno.** Numa sociedade em que um terço da população era escravizada e a maioria livre era pobre e de subsistência, faltavam consumidores para sustentar produção industrial em escala.
+2. **O capital tinha destino mais rentável e mais seguro.** Terra e escravizados davam retorno garantido e status social; indústria era arriscada e de retorno lento.
+3. **O crédito era externo e caro.** O sistema financeiro brasileiro era incipiente, e os grandes financiamentos vinham de Londres, em condições que tornavam qualquer empreendedor vulnerável a crises internacionais — como a de 1864 e a de 1873.
+4. **A política econômica era subordinada ao café.** Câmbio, tarifas e política monetária eram calibrados para os interesses da exportação agrícola, não da indústria; e o Estado atendia primeiro a seus credores externos.
+5. **O trabalho escravo desestimulava a inovação.** Onde há mão de obra cativa abundante, o incentivo para mecanizar é baixo — ponto que aparece também na comparação entre Norte e Sul dos EUA (@sec-eua-seculo-xix).
+
+**Conclusão.** Mauá não é o "industrial que o Brasil perdeu"; é a **prova experimental** de que, sem mercado interno, sem trabalho livre generalizado e sem sistema de crédito próprio, não havia como industrializar. Só depois do fim do tráfico, do avanço do trabalho imigrante e da abolição essas condições começariam a mudar (@sec-republica-velha).
+:::
+
+**5.** (Estilo ENEM) Leia o texto.
+
+> "Art. 1º Ficam proibidas as aquisições de terras devolutas por outro título que não seja o de compra. […]
+> Art. 14. A venda das terras devolutas será feita sempre a dinheiro à vista."
+>
+> — Lei nº 601, de 18 de setembro de 1850 (Lei de Terras).
+
+Considerando o contexto de sua aprovação, essa legislação teve como principal efeito
+
+**(a)** promover a reforma agrária, distribuindo terras públicas a pequenos produtores e ex-escravizados.
+**(b)** dificultar o acesso à terra por trabalhadores pobres, imigrantes e libertos, assegurando mão de obra às grandes lavouras.
+**(c)** substituir o regime de sesmarias por doações gratuitas de terras a colonos europeus recém-chegados.
+**(d)** transferir às províncias o domínio sobre as terras devolutas, ampliando a autonomia federativa.
+**(e)** eliminar a grande propriedade rural, ao exigir o registro obrigatório de todas as posses existentes.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (b).** A exigência de **compra** e, sobretudo, de pagamento **"a dinheiro à vista"** eliminava na prática qualquer possibilidade de acesso à terra por quem não tivesse capital — trabalhadores nacionais pobres, posseiros, imigrantes recém-chegados e, mais tarde, libertos. O contexto explica a intenção: a lei foi aprovada **duas semanas** depois da **Lei Eusébio de Queirós**, que acabou com o tráfico atlântico. Prevendo escassez de cativos e planejando substituí-los por **imigrantes europeus**, os legisladores precisavam garantir que esses imigrantes **não** tivessem alternativa à condição de trabalhadores das fazendas. Terra cara e inacessível era essa garantia.
+
+Por que as demais estão erradas: **(a)** é o oposto do efeito — não houve nenhuma distribuição, e a lei precede a abolição em 38 anos; **(c)** a lei aboliu justamente o regime de **doação** (sesmarias), substituindo-o pela venda; **(d)** o domínio das terras devolutas só passou aos estados com a **Constituição de 1891**, na República; **(e)** o registro obrigatório **legitimou** e consolidou as grandes propriedades existentes, inclusive muitas de origem duvidosa, em vez de eliminá-las.
+
+**Dica de prova:** em questões sobre a Lei de Terras, a chave está quase sempre em relacioná-la ao **fim do tráfico** no mesmo ano de **1850**. Quem enxerga a dupla enxerga a intenção.
+:::
+
+**6.** Por que a **Lei Saraiva** (1881) é um caso de reforma "modernizadora" que reduziu a democracia?
+
+::: {.callout-tip collapse="true" title="Solução"}
+**O que ela fez de moderno.** A Lei Saraiva — também chamada **Lei do Censo** — instituiu a **eleição direta** para deputados, senadores e vereadores, acabando com o sistema de dois turnos vigente desde 1824, e criou o **título de eleitor**, com alistamento prévio e qualificação judicial dos eleitores. Eram medidas tecnicamente avançadas e destinadas a reduzir a fraude do voto indireto.
+
+**O que ela fez de restritivo.** Manteve a exigência de **renda mínima** comprovada — e passou a exigir a comprovação por documentos, o que por si só afastava muita gente — e acrescentou o requisito de **saber ler e escrever**. Num país em que cerca de **80% da população era analfabeta**, esse critério foi devastador.
+
+**O resultado numérico.** O eleitorado brasileiro caiu de aproximadamente **10% da população livre** para menos de **1%** — uma redução de cerca de 1 milhão para pouco mais de 100 mil eleitores num país de mais de 10 milhões de habitantes. A reforma que "modernizou" o procedimento eleitoral **encolheu** a participação a um décimo do que era.
+
+**A lição analítica.** Reforma institucional não é sinônimo de democratização: depende de **quem** ela inclui e **quem** ela exclui. Como observa **José Murilo de Carvalho**, o Brasil imperial tinha uma base eleitoral primária relativamente ampla — homens livres pobres, inclusive negros libertos, votavam no primeiro turno — e foi justamente uma reforma "liberal" que a suprimiu [@carvalho2019]. Pior: a exclusão dos analfabetos foi **mantida** pela República e só viria a cair em **1985**. Ou seja, um critério introduzido em 1881 restringiu o direito de voto no Brasil por **mais de um século** — bom exemplo de como decisões institucionais aparentemente técnicas produzem efeitos de altíssima duração.
+:::
+
+**7.** (Estilo vestibular — dissertativa) O Segundo Reinado combinou estabilidade política com profunda desigualdade social. Explique como as duas coisas se sustentavam mutuamente.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Uma boa resposta mostra que estabilidade e desigualdade **não eram contraditórias**: uma era condição da outra.
+
+**1. A estabilidade repousava sobre a exclusão.** O sistema representativo funcionava com serenidade porque quase ninguém participava dele: voto censitário, indireto e descoberto até 1881; depois, direto, mas restrito a menos de 1% da população pela exigência de alfabetização. Um Parlamento eleito por uma fração ínfima e homogênea da sociedade tende a produzir consenso — e consenso, visto de fora, parece estabilidade.
+
+**2. Os partidos disputavam o governo, não o projeto.** Conservadores e Liberais divergiam sobre centralização e ritmo de reformas, mas concordavam no essencial: monarquia, **propriedade**, **escravidão** e ordem social. Como observa **José Murilo de Carvalho**, a elite política era socialmente **homogênea**, formada nas mesmas faculdades de direito e treinada na mesma burocracia [@carvalho2003] — o que reduzia o conflito a disputas de acesso a cargos.
+
+**3. O Poder Moderador funcionava como válvula.** Sempre que uma crise ameaçava travar o sistema, o imperador trocava o gabinete e dissolvia a Câmara, evitando que o conflito escapasse do Parlamento para a rua ou para o quartel — mecanismo que, aliás, faltava às repúblicas hispano-americanas, onde crises semelhantes viravam golpes (@sec-independencias-america-latina).
+
+**4. As províncias foram acomodadas, não subjugadas.** Segundo **Miriam Dolhnikoff**, as elites regionais obtiveram, pelas Assembleias provinciais, controle real sobre orçamento, impostos internos, cargos e polícia — o que explica por que, depois da Praieira (1848–50), não houve mais revoltas provinciais [@dolhnikoff2005]. Estabilidade comprada com autonomia.
+
+**5. A base material era o café — e o café era escravo.** A prosperidade que financiou o Estado, o Exército e as ferrovias vinha de uma lavoura de exportação assentada em trabalho cativo. **Ilmar Mattos** mostra como os conservadores converteram esse interesse de classe em ideia de "Ordem" e "Civilização" aceita como interesse nacional [@mattos1987]. E a **Lei de Terras de 1850** completou o desenho, bloqueando o acesso à propriedade e garantindo trabalhadores dependentes às fazendas.
+
+**Síntese e prova final.** A demonstração mais forte de que estabilidade e desigualdade eram interdependentes está no desfecho: quando a **escravidão** caiu, em 1888, a monarquia caiu **dezoito meses depois**, praticamente sem resistência (@sec-crise-do-imperio). Um regime que sobrevive a dez revoltas armadas e a uma guerra internacional, mas não sobrevive à abolição, revela onde estava o seu alicerce. Como sintetiza **Emília Viotti da Costa**, tratava-se de uma **fachada liberal sobre uma estrutura escravista** [@costa1999].
+:::
+
+**8.** Analise o programa de **Von Martius** (1845) para escrever a história do Brasil. Que ideia de nação ele propunha?
+
+::: {.callout-tip collapse="true" title="Solução"}
+**O documento.** Em 1845, o **IHGB** — criado em 1838 e patrocinado por D. Pedro II — premiou a dissertação do naturalista alemão **Karl Friedrich Philipp von Martius**, *Como se deve escrever a história do Brasil*. Era um **programa**: instruções sobre como narrar o país.
+
+**A tese central.** O Brasil deveria ser contado como o encontro e a fusão de **"três raças"** — o português, o indígena e o africano. Mas a fusão proposta era **hierárquica**: cabia ao português o papel de agente civilizador e de "rio principal" no qual desaguariam os afluentes; o indígena aparecia como elemento decadente, digno de estudo mas destinado a ser absorvido; e ao africano era reservado o papel mais marginal, tratado quase como acréscimo tardio.
+
+**O que esse programa produz.**
+
+1. Uma história **nacional e unificadora**, adequada a um Império que precisava justificar a unidade de um território continental logo após uma década de revoltas provinciais (@sec-periodo-regencial).
+2. O **indianismo romântico** de Gonçalves Dias e José de Alencar: o indígena idealizado como ancestral mítico, celebrado na literatura **precisamente** quando estava sendo dizimado e expulso de suas terras na realidade.
+3. Uma **hierarquia racial** que, algumas décadas depois, ganharia roupagem científica com as teorias do **racismo científico** e a política de **branqueamento** (@sec-imperialismo; @sec-escravidao-abolicao-imigracao).
+4. Um lugar subalterno para a **população negra**, que ficou fora do panteão nacional apesar de ser, então, a maior parte da população brasileira.
+
+**A avaliação crítica.** O programa de Martius fundou a matriz da "**fábula das três raças**" que atravessaria os manuais escolares por mais de um século e chegaria, transformada, à ideia de **democracia racial** no século XX. Sua eficácia está justamente em parecer inclusiva — todos estão na fotografia — enquanto define de antemão o lugar de cada um. As **Leis 10.639/2003 e 11.645/2008**, que tornaram obrigatório o ensino de história e cultura afro-brasileira e indígena, são uma resposta institucional tardia a essa matriz (@sec-historia-indigena-afrobrasileira).
+
+**A lição de método:** toda historiografia oficial responde a uma necessidade política do presente em que é escrita. Perguntar *quem encomendou esta história e para quê* é sempre um bom começo (@sec-correntes-historiograficas).
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- CARVALHO, José Murilo de. *A construção da ordem / Teatro de sombras* [@carvalho2003] e *D. Pedro II* [@carvalho2007pedro]. O segundo é uma biografia curta e afiada, ótima porta de entrada.
+- SCHWARCZ, Lilia Moritz. *As barbas do imperador: D. Pedro II, um monarca nos trópicos* [@schwarcz1998]. Estuda a **imagem** do imperador — retratos, fotografias, cerimônias — como construção deliberada de poder.
+- MATTOS, Ilmar R. de. *O tempo saquarema* [@mattos1987]; DOLHNIKOFF, M. *O pacto imperial* [@dolhnikoff2005]. As duas grandes leituras do Estado imperial.
+- COSTA, Emília Viotti da. *Da Monarquia à República* [@costa1999]; GRAHAM, Richard. *Clientelismo e política no Brasil do século XIX* [@graham1997], sobre como as eleições realmente funcionavam.
+
+**Fontes primárias**
+
+- **Lei de Terras** (Lei nº 601, de 1850) e **Lei Saraiva** (1881). Textos curtos e reveladores; leia os artigos sobre renda e alfabetização.
+- MAUÁ, Visconde de. *Autobiografia (Exposição aos credores)* [@maua1878]: um empresário explicando a própria ruína.
+- VON MARTIUS, K. F. P. *Como se deve escrever a história do Brasil* (1845).
+- ALVES, Castro. *O navio negreiro* (1868), e ASSIS, Machado de. *Memórias póstumas de Brás Cubas* (1881) — o segundo é o melhor retrato interno da elite imperial que a literatura brasileira produziu.
+
+**Filmes e documentários**
+
+- *Mauá — O Imperador e o Rei* (1999), dir. Sérgio Rezende.
+- Acervo fotográfico do **Instituto Moreira Salles** e da **Biblioteca Nacional** sobre o Rio de Janeiro imperial, incluindo as fotografias de **Marc Ferrez** e as imagens de escravizados feitas por **Christiano Jr.** — documentos incômodos e essenciais (@sec-fontes-historicas).
