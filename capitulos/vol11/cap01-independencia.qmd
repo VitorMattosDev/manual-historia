@@ -1,5 +1,333 @@
 # O processo de Independência do Brasil (1808–1822) {#sec-independencia}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Você já viu o quadro. Um príncipe de uniforme de gala ergue a espada sobre um cavalo empinado; ao redor, soldados impecáveis erguem os chapéus; ao fundo, o riacho e as colinas de São Paulo. *Independência ou Morte!*, de **Pedro Américo**, tem quase quatro por seis metros e está no Museu do Ipiranga. Só que ele foi pintado em **1888** — **sessenta e seis anos** depois da cena —, na **Itália**, por um artista que nunca vira aquele lugar naquele dia. E quase tudo nele é invenção: em 7 de setembro de 1822, D. Pedro voltava de Santos com um problema intestinal que o obrigara a parar várias vezes na estrada; a comitiva era pequena e vinha montada não em cavalos de guerra, mas em **bestas** e mulas, animais próprios para as ladeiras da serra; ninguém usava uniforme de gala. O que o quadro mostra não é a Independência de 1822: é a imagem que o Império quis deixar de si mesmo no ano de sua última crise. Isso não torna o quadro menos importante — torna-o um documento **do fim** do Império, não do começo (@sec-fontes-historicas). E abre a pergunta que organiza este capítulo: se o "grito" de um dia é em boa medida uma construção posterior, o que foi, então, a Independência do Brasil? Você verá que ela foi um **processo de quinze anos**, começado com a fuga de uma corte inteira em 1807, e que terminou não com um grito, mas com guerras nas províncias, uma coroação, uma indenização milionária paga à antiga metrópole e um país que trocou de estatuto político sem trocar de estrutura social.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- explicar as causas e as consequências da **transferência da corte portuguesa** para o Brasil (**1808**);
+- avaliar o significado da **abertura dos portos**, dos **tratados de 1810** e da elevação a **Reino Unido** (1815);
+- caracterizar a **Revolução Pernambucana de 1817** e seu lugar na crise do sistema colonial;
+- relacionar a **Revolução do Porto** (1820) e as **Cortes de Lisboa** ao processo de ruptura;
+- narrar a sequência **Fico → Ipiranga → Coroação** e identificar os grupos que a conduziram;
+- descrever as **guerras de independência** nas províncias e explicar por que a versão do "grito pacífico" as apaga;
+- discutir se a Independência foi **ruptura ou continuidade**, comparando as principais interpretações historiográficas.
 :::
+
+## A corte que atravessou o Atlântico {#sec-corte-no-brasil}
+
+Em **1806**, Napoleão decretou o **Bloqueio Continental**, proibindo os países europeus de comerciar com a Inglaterra (@sec-era-napoleonica). Portugal ficou entre a cruz e a espada: era o mais antigo aliado comercial dos ingleses, dependia deles militarmente e vendia-lhes vinho, mas fazia fronteira terrestre com a Espanha, então aliada da França. D. João, príncipe regente desde 1792 em nome de sua mãe, D. Maria I, jogou por dois anos com as duas potências — a chamada **política de neutralidade** — até que, em novembro de 1807, o general **Junot** atravessou a fronteira rumo a Lisboa.
+
+A decisão tomada então já havia sido cogitada por conselheiros portugueses desde o século XVII: **transferir a sede da monarquia para a América**. Em **29 de novembro de 1807**, entre dez e quinze mil pessoas — a família real, ministros, magistrados, funcionários, o tesouro e os arquivos do Estado — embarcaram em navios escoltados pela **marinha britânica**. A frota chegou a **Salvador** em 22 de janeiro de 1808 e ao **Rio de Janeiro** em 7 de março. Foi o **único caso na história em que uma monarquia europeia se instalou em sua colônia** e a governou de lá.
+
+::: {.callout-important title="Fuga ou estratégia?"}
+A imagem popular é a de uma corte covarde fugindo em desordem. Houve pânico e confusão no embarque — isso é documentado. Mas reduzir o episódio a uma fuga é um erro de análise. A transferência: (i) **preservou a dinastia e o Estado português**, que não capitularam como fizeram as monarquias espanhola e napolitana; (ii) foi feita **sob escolta e com aval inglês**, dentro de um acordo negociado que garantia à Inglaterra o acesso direto ao mercado brasileiro; (iii) salvou o **império ultramarino** português, cujo centro econômico já era o Brasil havia mais de um século. Quem "perdeu" foi Portugal continental, ocupado e depois administrado por um oficial inglês, **Lorde Beresford**. Vale lembrar que a alternativa — resistir a Junot — era militarmente inviável.
+:::
+
+**O que muda com a corte no Rio.** A consequência mais imediata veio antes mesmo do desembarque no Rio: ainda em Salvador, em **28 de janeiro de 1808**, D. João assinou a **Abertura dos Portos às Nações Amigas**, autorizando o comércio direto entre o Brasil e qualquer país não inimigo. Na prática, isso **rompia o exclusivo metropolitano** — o coração do pacto colonial (@sec-antigo-sistema-colonial). Uma colônia que comercia diretamente com o mundo deixa de ser, no sentido estrito, colônia.
+
+Seguiram-se medidas que, somadas, transformaram o Rio de Janeiro em capital de um império:
+
+- **Alvará de 1º de abril de 1808**, revogando a proibição de manufaturas no Brasil (imposta em 1785);
+- criação do **Banco do Brasil** (1808), da **Imprensa Régia** (1808) — antes proibida —, da **Biblioteca Real**, do **Jardim Botânico**, do Museu Real, da **Academia Real Militar** (1810) e das primeiras escolas de **medicina** na Bahia e no Rio;
+- **Missão Artística Francesa** (1816), que trouxe Debret, Taunay e Grandjean de Montigny, responsáveis por boa parte da iconografia do período e pela reforma arquitetônica da capital [@debret2016];
+- **elevação a Reino Unido de Portugal, Brasil e Algarves** em **16 de dezembro de 1815**, decisão tomada no contexto do **Congresso de Viena**: o Brasil deixava formalmente de ser colônia e passava a reino de igual estatuto.
+
+Havia também um custo, e ele foi pago pela população local. Para acomodar dez mil recém-chegados numa cidade de cerca de sessenta mil habitantes, aplicaram-se as "**aposentadorias**": funcionários marcavam com as letras "P. R." (Príncipe Regente, que os cariocas traduziam por "Ponha-se na Rua") as casas requisitadas para a corte. Criaram-se impostos novos. Cargos e favores foram distribuídos aos portugueses recém-chegados, gerando o ressentimento antilusitano que explodiria nas décadas seguintes.
+
+::: {.callout-warning title="Os tratados de 1810: independência econômica ao contrário"}
+O preço da escolta inglesa veio em **1810**, nos **Tratados de Aliança e Amizade** e de **Comércio e Navegação**. Pelo segundo, as mercadorias britânicas pagariam apenas **15%** de imposto de importação — **menos** que os 16% cobrados das mercadorias **portuguesas** e menos que os 24% das demais nações. A antiga metrópole passava a ser tarifariamente discriminada em sua própria ex-colônia.
+
+Os tratados ainda concediam aos ingleses o **direito de juízo conservatório** (serem julgados por juiz próprio) e comprometiam Portugal a uma **abolição gradual do tráfico de escravizados**. O resultado prático: o Brasil trocou o monopólio comercial português por uma **dependência econômica em relação à Inglaterra** que duraria todo o século XIX, inundando o mercado de manufaturas britânicas e sufocando o alvará de 1808 antes que ele produzisse indústria alguma. A expressão consagrada é dura, mas útil: passou-se do estatuto de colônia de Portugal ao de **"colônia informal" da Inglaterra** — e é bom lembrar que a dívida contraída para pagar a independência, em 1825, também seria inglesa.
+:::
+
+Em **1816** morreu D. Maria I e o príncipe regente tornou-se **D. João VI**. Nesses anos a monarquia sediada no Rio agiu como potência americana: ocupou a **Guiana Francesa** (1809–1817), em represália a Napoleão, e invadiu a **Banda Oriental** (atual Uruguai), anexada em 1821 como **Província Cisplatina** — origem do conflito que você verá no @sec-primeiro-reinado.
+
+## 1817: a Revolução Pernambucana {#sec-revolucao-pernambucana}
+
+Enquanto o Rio ganhava fábricas de fardas e teatros, o Nordeste açucareiro pagava a conta. Em Pernambuco, a seca de 1816, a queda do preço do açúcar e do algodão, os impostos destinados a sustentar a corte e a preferência dada aos portugueses nos cargos criaram um caldo explosivo. Havia também ideias: o **Seminário de Olinda**, dirigido pelo bispo Azeredo Coutinho, formara um clero letrado e leitor dos iluministas, e maçons e comerciantes discutiam em sociedades secretas as notícias da Revolução Francesa, da independência dos Estados Unidos e das juntas hispano-americanas (@sec-independencias-america-latina).
+
+Em **6 de março de 1817**, a prisão de oficiais suspeitos desencadeou a revolta. Os rebeldes tomaram o Recife, formaram um **governo provisório**, redigiram uma **Lei Orgânica** provisória, proclamaram a **República**, aboliram alguns impostos, decretaram liberdade de imprensa e de culto e enviaram emissários aos Estados Unidos e à Inglaterra em busca de reconhecimento. O movimento se estendeu à Paraíba e ao Rio Grande do Norte e durou **74 dias**, até ser esmagado pelas tropas reais.
+
+Duas coisas merecem atenção. A primeira: os revolucionários **não aboliram a escravidão**. Havia entre eles quem defendesse a emancipação gradual, mas o movimento era conduzido por senhores de engenho, comerciantes, padres e militares que dependiam do trabalho escravo — e o temor de uma revolta como a do Haiti (@sec-independencias-america-latina) funcionou aqui, como em toda a América, como freio conservador. A segunda: a repressão foi brutal, com execuções e cabeças expostas, e produziu mártires — entre eles o **padre Miguelinho** e, mais tarde, **Frei Caneca**, que sobreviveu a 1817 e seria fuzilado em 1825 (@sec-primeiro-reinado). A Revolução Pernambucana é frequentemente descrita como o momento em que uma parte da elite colonial concluiu que a monarquia, mesmo instalada na América, não a representava.
+
+## A Revolução do Porto e o impasse de 1820–1822 {#sec-revolucao-do-porto}
+
+A crise decisiva não começou no Brasil: começou em Portugal. Ocupada por Junot, depois administrada pelos ingleses, sem rei havia doze anos e economicamente arruinada pela perda do monopólio comercial, a burguesia portuguesa reagiu. Em **24 de agosto de 1820**, eclodiu no **Porto** uma revolução **liberal e constitucionalista**, que exigia três coisas: a convocação de **Cortes** (assembleia representativa) para elaborar uma **Constituição**, o **retorno do rei** a Lisboa e a **restauração do exclusivo comercial** sobre o Brasil.
+
+Repare na combinação: o movimento era **liberal em Portugal e recolonizador no Brasil**. Essa contradição é a chave de tudo o que vem a seguir.
+
+Pressionado, **D. João VI retornou a Portugal em abril de 1821**, levando consigo boa parte do numerário do Banco do Brasil e deixando no Rio, como **príncipe regente**, seu filho **Pedro**, então com 22 anos. A recomendação paterna, segundo a tradição, foi pragmática: se o Brasil se separasse, que Pedro pusesse a coroa na própria cabeça antes que algum aventureiro o fizesse.
+
+As **Cortes de Lisboa** logo mostraram a que vinham. Entre 1821 e 1822, decretaram: a extinção dos tribunais e repartições criados no Rio desde 1808; a subordinação **direta** de cada província brasileira a Lisboa — isto é, o desmembramento político do Brasil; e o retorno imediato de D. Pedro à Europa, "para completar sua educação". Para as elites do Centro-Sul, que haviam se acomodado confortavelmente ao novo centro de poder no Rio, isso significava perder tudo o que ganharam desde 1808.
+
+A resposta foi uma sequência de atos de desobediência calculada:
+
+- **9 de janeiro de 1822** — o **Dia do Fico**: diante de um abaixo-assinado com milhares de assinaturas organizado pelo Clube da Resistência e pelo Senado da Câmara, D. Pedro declara que, "como é para o bem de todos e felicidade geral da Nação", ficará;
+- **16 de janeiro de 1822** — **José Bonifácio de Andrada e Silva** (1763–1838), naturalista formado em Coimbra, com trinta anos de carreira na Europa, assume o ministério e se torna o arquiteto político da separação;
+- **fevereiro de 1822** — convocação de um **Conselho de Procuradores** das províncias;
+- **maio de 1822** — o decreto do "**Cumpra-se**": nenhuma ordem vinda de Lisboa teria validade no Brasil sem a aprovação do príncipe regente. Ao mesmo tempo, Pedro aceita o título de **Defensor Perpétuo do Brasil**;
+- **3 de junho de 1822** — convocação de uma **Assembleia Geral Constituinte e Legislativa** brasileira;
+- **1º de agosto e 6 de agosto de 1822** — decreto que considera inimigas as tropas portuguesas que desembarcassem sem autorização e **Manifesto às Nações Amigas**, redigido por José Bonifácio, em que o Brasil se apresenta ao mundo como Estado autônomo.
+
+Quando, em **7 de setembro de 1822**, às margens do riacho Ipiranga, D. Pedro recebeu os despachos de Lisboa que anulavam a convocação da Constituinte e exigiam sua volta imediata — acompanhados de cartas de **José Bonifácio** e da princesa **Leopoldina**, que presidira em 2 de setembro o Conselho de Estado favorável à ruptura —, a decisão já estava, na prática, tomada havia meses. O 7 de setembro é o **desfecho simbólico** de um processo, não seu início. Em **1º de dezembro de 1822**, Pedro foi coroado **Imperador Constitucional do Brasil**.
+
+::: {#fig-linha-do-tempo-independencia}
+
+```{.tikz}
+%%| filename: fig-linha-do-tempo-independencia
+%%| alt: Linha do tempo do processo de Independência do Brasil, de 1807 a 1825, com a transferência da corte, o Reino Unido, a Revolução do Porto, o Fico, o Ipiranga e o reconhecimento.
+\begin{tikzpicture}[>=stealth]
+  \draw[eixo] (0,0) -- (14.6,0);
+  \node[eixo, gray] at (14.6,-0.6) {\scriptsize tempo};
+
+  \fill[manualgreen!22] (0.5,-0.13) rectangle (7.2,0.13);
+  \node[text=manualgreen!55!black] at (3.8,-1.05) {\scriptsize \textbf{corte no Rio: ``inversão colonial''}};
+  \fill[manualyellow!35] (7.2,-0.13) rectangle (9.6,0.13);
+  \node[text=black] at (8.4,-1.05) {\scriptsize \textbf{impasse constitucional}};
+  \fill[manualred!24] (9.6,-0.13) rectangle (12.6,0.13);
+  \node[text=manualred] at (11.1,-1.05) {\scriptsize \textbf{guerras de independência}};
+  \fill[manualblue!18] (12.6,-0.13) rectangle (14.2,0.13);
+  \node[text=manualblue] at (13.4,-1.05) {\scriptsize \textbf{reconhecimento}};
+
+  \node[ponto] at (0.5,0) {};
+  \node[below] at (0.5,-0.28) {\scriptsize 1807};
+  \node[above, align=center, text=manualgreen!55!black] at (0.9,0.2) {\scriptsize \textbf{fuga da corte}\\\scriptsize (Bloqueio Continental)};
+
+  \node[ponto] at (2.0,0) {};
+  \node[below] at (2.0,-0.28) {\scriptsize 1808};
+  \node[above, align=center] at (2.1,1.15) {\scriptsize \textbf{Abertura dos Portos};\\\scriptsize alvará das manufaturas};
+
+  \node[ponto] at (3.6,0) {};
+  \node[below] at (3.6,-0.28) {\scriptsize 1810};
+  \node[above, align=center, text=manualblue] at (3.7,0.2) {\scriptsize \textbf{tratados com a}\\\scriptsize \textbf{Inglaterra} (15\%)};
+
+  \node[ponto] at (5.2,0) {};
+  \node[below] at (5.2,-0.28) {\scriptsize 1815};
+  \node[above, align=center] at (5.3,1.15) {\scriptsize \textbf{Reino Unido} de\\\scriptsize Portugal, Brasil e Algarves};
+
+  \node[ponto] at (6.4,0) {};
+  \node[below] at (6.4,-0.28) {\scriptsize 1817};
+  \node[above, align=center, text=manualred] at (6.5,0.2) {\scriptsize \textbf{Revolução}\\\scriptsize \textbf{Pernambucana}};
+
+  \node[ponto] at (7.2,0) {};
+  \node[below] at (7.4,-0.28) {\scriptsize 1820};
+  \node[above, align=center, text=manualyellow!55!black] at (7.9,1.15) {\scriptsize \textbf{Revolução do Porto};\\\scriptsize Cortes de Lisboa};
+
+  \node[ponto] at (8.6,0) {};
+  \node[below] at (8.6,-0.28) {\scriptsize 1821};
+  \node[above, align=center] at (8.7,0.2) {\scriptsize D. João VI\\\scriptsize retorna};
+
+  \node[ponto] at (9.6,0) {};
+  \node[below] at (9.7,-0.28) {\scriptsize 1822};
+  \node[above, align=center, text=manualred] at (10.3,1.15) {\scriptsize \textbf{Fico} (9 jan.); \textbf{Ipiranga} (7 set.);\\\scriptsize coroação (1º dez.)};
+
+  \node[ponto] at (11.3,0) {};
+  \node[below] at (11.3,-0.28) {\scriptsize 1823};
+  \node[above, align=center, text=manualred] at (11.4,0.2) {\scriptsize \textbf{2 de julho}:\\\scriptsize vitória na \textbf{Bahia}};
+
+  \node[ponto] at (12.6,0) {};
+  \node[below] at (12.6,-0.28) {\scriptsize 1824};
+  \node[above, align=center] at (12.7,1.15) {\scriptsize Constituição outorgada;\\\scriptsize EUA reconhecem};
+
+  \node[ponto] at (14.0,0) {};
+  \node[below] at (14.0,-0.28) {\scriptsize 1825};
+  \node[above, align=center, text=manualblue] at (13.8,0.2) {\scriptsize \textbf{Portugal reconhece}\\\scriptsize (2 milhões de libras)};
+\end{tikzpicture}
+```
+
+Quinze anos, não um dia. O processo começa com a chegada da corte e só se fecha com o reconhecimento internacional e a dívida contraída para obtê-lo.
+:::
+
+## As guerras de independência {#sec-guerras-de-independencia}
+
+A frase que você provavelmente ouviu na escola — "a independência do Brasil foi pacífica" — descreve bem o que aconteceu no **Rio de Janeiro** e é falsa para boa parte do território. Nas províncias onde as guarnições portuguesas eram fortes e a elite local estava dividida, a separação teve de ser **conquistada militarmente**, entre 1822 e 1823.
+
+- **Bahia.** O caso mais grave. As tropas portuguesas do general **Madeira de Melo** controlavam Salvador. Formou-se um exército pacificador com tropas brasileiras, milícias e voluntários do Recôncavo, sob comando do francês **Pierre Labatut**, e a guarnição só se retirou em **2 de julho de 1823** — data que a Bahia comemora até hoje como sua verdadeira independência, com um cortejo popular do Caboclo e da Cabocla que é, ele mesmo, um monumento de memória (@sec-memoria-patrimonio). Entre os combatentes ficaram célebres **Maria Quitéria de Jesus** (1792–1853), que se alistou disfarçada de homem e foi condecorada por D. Pedro I, e **Maria Felipa de Oliveira**, marisqueira negra da Ilha de Itaparica que liderou um grupo responsável pela queima de embarcações portuguesas. A **Sóror Joana Angélica**, abadessa do Convento da Lapa, foi morta a baionetadas ao impedir a entrada de soldados no convento.
+- **Maranhão e Grão-Pará.** Ligadas comercialmente mais a Lisboa do que ao Rio, aderiram tarde e sob coerção naval. O almirante inglês **Lorde Cochrane**, contratado pelo governo brasileiro, forçou a rendição de São Luís (julho de 1823) e enviou seu subordinado **John Grenfell** a Belém (agosto de 1823). Em Belém, a repressão a um levante posterior culminou no episódio do **brigue *Palhaço***, em que cerca de 250 presos foram trancados num porão e a maioria morreu asfixiada.
+- **Piauí.** A **Batalha do Jenipapo** (13 de março de 1823) opôs uma força improvisada de vaqueiros e camponeses às tropas portuguesas; foi uma derrota militar sangrenta, mas atrasou o avanço português rumo ao Maranhão.
+- **Cisplatina.** As tropas portuguesas em Montevidéu só se retiraram em 1824.
+
+O saldo não é um "grito": são milhares de mortos, o recurso a **mercenários estrangeiros** e o endividamento inicial do Império. E há um dado que a historiografia recente sublinha: em várias dessas frentes combateram **homens negros, livres e libertos**, mobilizados com promessas de reconhecimento social que, terminada a guerra, não se cumpriram.
+
+::: {.callout-note title="Como o Brasil se manteve inteiro?"}
+Enquanto a América espanhola se fragmentou em quase vinte países (@sec-independencias-america-latina), a América portuguesa permaneceu unida. Por quê? Os fatores mais aceitos:
+
+1. **A corte já estava aqui.** O Estado português foi transferido inteiro em 1808 — burocracia, tribunais, exército, tesouro. Não foi preciso criar um centro administrativo do zero, como em Buenos Aires ou Bogotá.
+2. **Continuidade dinástica.** A monarquia manteve a legitimidade tradicional e evitou a disputa entre projetos republicanos rivais, cada um com seu caudilho.
+3. **Interesse comum das elites escravistas.** Um Estado único e forte era a melhor garantia contra revoltas de escravizados e contra a pressão internacional pelo fim do tráfico.
+4. **Coerção.** A unidade também foi imposta — militarmente em 1823, e de novo nas revoltas regenciais (@sec-periodo-regencial).
+
+Cuidado com a **teleologia**: a unidade não era destino nem vocação natural. Foi resultado de escolhas, negociações e força — e esteve seriamente ameaçada até 1845.
+:::
+
+## Independência para quem? {#sec-independencia-para-quem}
+
+Vale fazer o balanço com frieza. O que **mudou** em 1822: o Brasil deixou de ser parte da monarquia portuguesa e passou a ser um Estado soberano, com governo próprio, exército próprio e representação internacional; ganhou uma Constituição em 1824 (@sec-primeiro-reinado) e um sistema representativo, ainda que censitário.
+
+O que **não mudou**: a **escravidão** permaneceu intocada — e o Brasil ainda a manteria por 66 anos; a **estrutura fundiária**, concentrada em grandes propriedades, ficou como estava; a **economia de exportação** de produtos primários continuou, agora sob dependência inglesa; e a forma de governo escolhida foi a **monarquia**, num continente que se enchia de repúblicas. Como sintetizou **Emília Viotti da Costa**, o processo foi conduzido de modo a garantir a separação política **sem** revolução social [@costa1999].
+
+Há ainda um custo material a registrar. O reconhecimento internacional foi **comprado**. Os **Estados Unidos** reconheceram o Império em 1824, aplicando a Doutrina Monroe. **Portugal** reconheceu em **1825**, mediante um tratado que exigia do Brasil o pagamento de **dois milhões de libras esterlinas** de indenização — dinheiro que o Império tomou emprestado justamente da **Inglaterra**. E a Inglaterra reconheceu em **1826**, em troca de um tratado que comprometia o Brasil a **extinguir o tráfico de escravizados** em três anos, promessa que o Império assinaria e descumpriria por duas décadas (@sec-escravidao-abolicao-imigracao). Nasceu-se independente e endividado.
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+Poucos temas da história do Brasil mudaram tanto de forma quanto este — e a mudança tem menos a ver com documentos novos do que com perguntas novas.
+
+**A versão heroica.** No século XIX, **Francisco Adolfo de Varnhagen** (1816–1878), o "Heródoto brasileiro", escreveu a *História Geral do Brasil* a partir do **Instituto Histórico e Geográfico Brasileiro** (IHGB), criado em 1838 sob patrocínio de D. Pedro II. Sua Independência é obra do príncipe e de estadistas esclarecidos, continuidade natural da colonização portuguesa, e as revoltas provinciais aparecem como desordem a ser contida. Não é ingenuidade: é uma história escrita **para** o Estado imperial, que precisava de um mito de origem unificador — e é dessa tradição que descende o quadro de Pedro Américo com que abrimos o capítulo.
+
+**A interpretação estrutural.** A partir dos anos 1930 e, sobretudo, das décadas de 1960–70, a historiografia deslocou o foco dos personagens para as estruturas econômicas. **Caio Prado Júnior** e, com muito mais precisão conceitual, **Fernando Novais** situaram 1822 dentro da **crise do Antigo Sistema Colonial**: o pacto colonial tornara-se um obstáculo ao próprio capitalismo industrial que ajudara a criar, e o desfecho brasileiro foi um ajuste dentro dessa crise, não uma revolução [@novais1979; @pradoJunior2011]. **Emília Viotti da Costa** deu a essa leitura sua fórmula mais citada: a Independência foi **conservadora**, "feita pelo alto", conduzida por proprietários rurais e comerciantes que queriam livre-comércio e autonomia administrativa **sem** tocar na escravidão nem na propriedade da terra [@costa1999]. Em 1972, sob a ditadura militar e em pleno sesquicentenário oficial, a coletânea *1822: dimensões*, organizada por **Carlos Guilherme Mota**, reuniu essa geração e funcionou como contraponto crítico às comemorações do regime — um bom exemplo de como o presente do historiador entra na pergunta que ele faz [@mota1972].
+
+**A metrópole interiorizada.** Nesse mesmo volume, **Maria Odila Leite da Silva Dias** propôs a tese que talvez seja a mais influente hoje: a "**interiorização da metrópole**" [@dias1972]. Segundo ela, o processo decisivo não é 1822, mas **1808–1821**: com a corte no Rio, formou-se uma aliança entre a burocracia portuguesa transplantada e os grandes proprietários e traficantes do Centro-Sul (Rio, Minas, São Paulo). Essa aliança **enraizou** o aparelho de Estado português no território americano e passou a ter interesses próprios, distintos dos de Lisboa. A Independência seria, então, menos uma emancipação anticolonial do que a **defesa, pelas elites do Centro-Sul, de um Estado que já era delas** — o que explica a monarquia, a continuidade da escravidão e a manutenção da unidade.
+
+**A independência que não foi pacífica.** Desde os anos 1990–2000, uma nova geração — reunida, entre outros, na coletânea organizada por **Jurandir Malerba** — deslocou a atenção para a **cultura política** e para os **sujeitos comuns** [@malerba2006]. **Lúcia Maria Bastos Pereira das Neves** estudou a explosão de panfletos, jornais e sermões entre 1820 e 1822 e mostrou que o vocabulário político — "nação", "constituição", "cidadão", "despotismo" — circulava muito além das elites letradas, em cidades onde textos eram lidos em voz alta em botequins e praças [@neves2003]. Historiadores das províncias reconstituíram as **guerras da independência** e a participação de negros livres, libertos e escravizados que negociavam apoio militar em troca de alforria e status. Em paralelo, **Kirsten Schultz** analisou a corte no Rio como projeto imperial deliberado [@schultz2008] e **Roderick Barman** integrou 1808–1852 num único processo de "forja da nação" [@barman1988].
+
+**Por que divergem?** Não é que uns tenham lido documentos e outros não. É que cada geração **perguntou outra coisa**. Varnhagen perguntava *quem fundou a nação* e encontrou heróis. A geração de Prado Júnior, Novais e Viotti perguntava *que estrutura econômica se transformou* e encontrou continuidade e conservadorismo — pergunta afinada com o debate sobre subdesenvolvimento e dependência dos anos 1960. A historiografia recente pergunta *como as pessoas viveram e disputaram aquele momento* e, para respondê-la, foi buscar fontes antes desprezadas: panfletos, requerimentos, processos judiciais, listas de recrutamento, arquivos provinciais. Note que as três leituras não se anulam por completo: é possível sustentar simultaneamente que o desfecho foi conservador **e** que houve mobilização popular intensa — inclusive porque a segunda ajuda a explicar por que a primeira precisou ser imposta pela força.
+
+## Resumo do capítulo {#sec-resumo}
+
+- **Causa imediata da vinda da corte:** o **Bloqueio Continental** (1806) e a invasão de Portugal por **Junot** (novembro de 1807). Entre 10 e 15 mil pessoas partiram em **29/11/1807**, sob escolta **britânica**; chegada a Salvador em janeiro e ao Rio em março de **1808**. Único caso de monarquia europeia governando a partir de uma colônia.
+- **Medidas de 1808–1815:** **Abertura dos Portos às Nações Amigas** (28/01/1808), que rompe o exclusivo metropolitano; **alvará de 1º de abril de 1808** liberando manufaturas; **Banco do Brasil**, **Imprensa Régia**, Biblioteca, Jardim Botânico, Academia Militar, escolas de medicina; **Missão Artística Francesa** (1816); elevação a **Reino Unido de Portugal, Brasil e Algarves** (**1815**).
+- **Tratados de 1810** com a Inglaterra: tarifa de **15%** para produtos britânicos (menos que os 16% dos portugueses), juízo conservatório e compromisso de abolição gradual do tráfico → **dependência econômica** em relação à Inglaterra.
+- **Custos internos:** aposentadorias ("Ponha-se na Rua"), novos impostos e privilégios aos portugueses → **antilusitanismo**.
+- **Revolução Pernambucana (1817):** república de **74 dias** no Recife, com governo provisório e lei orgânica; não aboliu a escravidão; repressão violenta e mártires (padre Miguelinho; mais tarde, Frei Caneca).
+- **Revolução do Porto (1820):** liberal em Portugal, **recolonizadora** no Brasil — exigia Constituição, retorno do rei e restauração do exclusivo comercial. **D. João VI volta em abril de 1821**, deixando **D. Pedro** como regente.
+- **Sequência da ruptura:** **Dia do Fico** (9/01/1822) → ministério de **José Bonifácio** (16/01/1822) → decreto do "**Cumpra-se**" e título de **Defensor Perpétuo** (maio) → convocação da **Constituinte** (3/06/1822) → **Manifesto às Nações Amigas** (agosto) → **Ipiranga** (7/09/1822) → **coroação** (1º/12/1822).
+- **Guerras de independência (1822–23):** **Bahia** (vitória em **2 de julho de 1823**; Maria Quitéria, Maria Felipa, Sóror Joana Angélica), **Maranhão** e **Grão-Pará** (ação naval de **Lorde Cochrane** e Grenfell; episódio do brigue *Palhaço*), **Piauí** (**Batalha do Jenipapo**, 1823) e **Cisplatina**. A tese da "independência pacífica" só vale para o Rio de Janeiro.
+- **Unidade territorial:** explicada pela transferência prévia do aparelho de Estado, pela continuidade dinástica, pelo interesse comum das elites escravistas e pela coerção militar — não por vocação natural.
+- **Reconhecimento:** **EUA** (1824); **Portugal** (**1825**), mediante **2 milhões de libras** de indenização financiadas por empréstimo **inglês**; **Inglaterra** (1826), em troca do compromisso de **extinguir o tráfico** — descumprido por décadas.
+- **Balanço:** mudou o estatuto político; permaneceram a **escravidão**, a **estrutura fundiária**, a economia primário-exportadora e a dependência externa.
+- **Historiografia:** **Varnhagen**/IHGB (versão heroica e estatal) × **Prado Júnior**, **Novais** e **Viotti da Costa** (crise do Antigo Sistema Colonial; independência **conservadora**, "feita pelo alto") × **Maria Odila Dias** ("**interiorização da metrópole**": 1808 importa mais que 1822) × historiografia recente (**Malerba**, **Lúcia Bastos Neves**, **Schultz**, **Barman**): cultura política, panfletos e **participação popular** nas guerras provinciais.
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Domine: (1) a cadeia **Bloqueio → fuga → abertura dos portos**; (2) o conteúdo e o efeito dos **tratados de 1810**; (3) a contradição da **Revolução do Porto**; (4) a cronologia **Fico → Cumpra-se → Ipiranga → coroação**; (5) as **guerras de independência** e por que são esquecidas; (6) os termos do **reconhecimento** e a dívida; (7) as quatro grandes leituras historiográficas.
+:::
+
+**1.** Por que a **Abertura dos Portos** (1808) é considerada o fim prático do pacto colonial?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque o **exclusivo metropolitano** — a obrigação de a colônia comprar e vender **somente** por meio da metrópole — era o mecanismo central do **Antigo Sistema Colonial** (@sec-antigo-sistema-colonial). Era por ele que Portugal capturava o excedente produzido no Brasil, revendendo produtos coloniais na Europa e manufaturas europeias na colônia, sempre com margem intermediária garantida.
+
+Ao autorizar, em **28 de janeiro de 1808**, o comércio direto entre os portos brasileiros e todas as "nações amigas", D. João aboliu esse monopólio. As consequências foram imediatas: navios britânicos passaram a atracar diretamente no Rio, em Salvador e no Recife; o preço das manufaturas importadas caiu; e Portugal perdeu sua principal fonte de receita, o que ajuda a explicar a Revolução do Porto doze anos depois.
+
+**Duas ressalvas importantes.** Primeira: a medida não tornou o Brasil economicamente livre — apenas **trocou de tutor**, já que os **tratados de 1810** deram à Inglaterra tarifa preferencial de 15% e uma posição privilegiada que duraria décadas. Segunda: "nações amigas", em 1808, significava basicamente **Inglaterra**, única potência com marinha, mercadorias e capital disponíveis naquele momento. A abertura foi real; a liberdade, relativa.
+:::
+
+**2.** Explique a contradição central da **Revolução do Porto** (1820) do ponto de vista brasileiro.
+
+::: {.callout-tip collapse="true" title="Solução"}
+A Revolução do Porto foi, **em Portugal**, um movimento **liberal**: exigia o fim do absolutismo, a convocação de **Cortes**, uma **Constituição** e a saída da tutela militar inglesa exercida por Beresford. Nesse sentido, alinhava-se ao constitucionalismo europeu do período (@sec-liberalismo-nacionalismo-1848).
+
+**No Brasil**, porém, o mesmo movimento era **recolonizador**. A burguesia comercial do Porto e de Lisboa havia sido arruinada pela abertura dos portos e queria restaurar o **exclusivo comercial**, extinguir os órgãos criados no Rio desde 1808 e subordinar cada província brasileira **diretamente a Lisboa**, o que desmontaria a unidade administrativa construída em torno do Rio de Janeiro. Exigia ainda o **retorno do rei** e, depois, o de D. Pedro.
+
+A contradição — liberdade política para os portugueses europeus, retrocesso ao estatuto colonial para os brasileiros — é o que empurra as elites do Centro-Sul para a ruptura. Elas não eram, em sua maioria, independentistas em 1820; tornaram-se independentistas quando concluíram que permanecer no Reino Unido significaria **perder as posições, os cargos e o comércio direto** conquistados desde 1808. É um bom exemplo de que rótulos como "liberal" e "conservador" só fazem sentido quando se pergunta: *liberal para quem, e em relação a quê?*
+:::
+
+**3.** Coloque em ordem e explique o significado dos seguintes atos de 1822: Fico, "Cumpra-se", convocação da Constituinte, Ipiranga, coroação.
+
+::: {.callout-tip collapse="true" title="Solução"}
+1. **Dia do Fico — 9 de janeiro.** D. Pedro desobedece à ordem das Cortes de retornar a Portugal. É o primeiro ato formal de insubordinação e marca o momento em que o regente passa a representar interesses **brasileiros** contra Lisboa.
+2. **Ministério de José Bonifácio — 16 de janeiro.** A entrada do "Patriarca da Independência" organiza politicamente a ruptura e dá ao processo um projeto de Estado (monárquico, centralizado, unitário).
+3. **Decreto do "Cumpra-se" — maio.** Nenhuma lei vinda de Lisboa vale no Brasil sem o aval do regente. Na prática, é a **transferência da soberania legislativa** para o Rio — juridicamente, o passo mais decisivo de todos.
+4. **Convocação da Assembleia Geral Constituinte — 3 de junho.** Uma Constituição própria pressupõe uma nação própria. As Cortes reagiram anulando a convocação, o que precipitou o desfecho.
+5. **Grito do Ipiranga — 7 de setembro.** Ao receber os despachos que anulavam a Constituinte e exigiam sua volta, e as cartas de José Bonifácio e de **Leopoldina**, D. Pedro rompe publicamente. É o **desfecho simbólico**, não o início do processo.
+6. **Coroação — 1º de dezembro.** Pedro é sagrado **Imperador Constitucional**, e não rei: o título afirma que o novo Estado nasce de uma nação americana, e não da dinastia portuguesa. Faltava ainda vencer as guerras nas províncias e obter o reconhecimento externo.
+
+**A lição de método:** a Independência não cabe em uma data. Ela é uma **sequência de rupturas escalonadas**, cada uma reagindo a uma provocação vinda de Lisboa.
+:::
+
+**4.** Por que se diz que a versão da "independência pacífica" é uma perspectiva **do Rio de Janeiro**?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque foi só no Rio — sede da corte, onde a tropa era leal ao regente e a elite já estava associada ao aparelho de Estado — que a separação ocorreu sem combate significativo. Nas províncias em que as guarnições portuguesas eram fortes e a elite local estava dividida, houve **guerra**:
+
+- **Bahia:** o mais longo dos conflitos, contra as tropas de **Madeira de Melo**, resolvido apenas em **2 de julho de 1823** — data comemorada até hoje na Bahia como a verdadeira independência. Destacaram-se **Maria Quitéria**, que se alistou disfarçada de homem, e **Maria Felipa de Oliveira**, marisqueira negra de Itaparica; a **Sóror Joana Angélica** foi morta ao defender seu convento.
+- **Maranhão e Grão-Pará:** rendições forçadas pela esquadra de **Lorde Cochrane** e de **John Grenfell** (1823); em Belém, o episódio do brigue ***Palhaço*** matou por asfixia a maior parte de cerca de 250 presos.
+- **Piauí:** a **Batalha do Jenipapo** (março de 1823), com pesadas baixas entre vaqueiros e camponeses mal armados.
+- **Cisplatina:** as tropas portuguesas só deixaram Montevidéu em 1824.
+
+**Por que essas guerras foram esquecidas?** Porque a memória oficial foi construída pelo Estado imperial e pelo IHGB no século XIX, com o objetivo de apresentar a nação como fruto da ação ordeira de um príncipe — e não de conflitos armados nos quais participaram, decisivamente, **populações pobres, negras e livres das províncias**, cujas reivindicações o Império não pretendia atender. Reconhecer as guerras é reconhecer que houve **projetos rivais** de país, e não um destino único (@sec-memoria-patrimonio).
+:::
+
+**5.** (Estilo ENEM) Leia o texto.
+
+> "As Cortes de Lisboa decretaram a extinção dos tribunais criados no Rio de Janeiro desde 1808, a subordinação direta dos governos das províncias do Brasil a Lisboa e o regresso imediato do príncipe regente à Europa, para completar sua educação."
+>
+> — Síntese das deliberações das Cortes Gerais e Extraordinárias da Nação Portuguesa, 1821–1822.
+
+As medidas descritas contribuíram decisivamente para a ruptura entre Brasil e Portugal porque
+
+**(a)** aboliam a escravidão nas províncias americanas, contrariando os interesses dos grandes proprietários.
+**(b)** ameaçavam desmontar o centro administrativo construído no Rio e reduzir o Brasil à condição anterior a 1808.
+**(c)** impunham ao Brasil uma Constituição republicana e federalista, rejeitada pelas elites monarquistas.
+**(d)** transferiam à Inglaterra o controle direto do comércio brasileiro, eliminando as tarifas preferenciais.
+**(e)** exigiam a imediata convocação de uma assembleia constituinte brasileira, sob controle das províncias.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (b).** As três medidas atacavam exatamente o que as elites do Centro-Sul haviam ganhado com a permanência da corte: **tribunais e repartições** no Rio (isto é, cargos, justiça próxima e capacidade de decisão local), a **centralidade administrativa** do Rio sobre as demais províncias e a presença de um **membro da dinastia** como autoridade máxima em solo americano. Levar tudo isso de volta a Lisboa significava, na prática, **recolonizar** — devolver o Brasil ao estatuto anterior a 1808. Foi essa ameaça, e não um sentimento nacionalista prévio, que converteu em separatistas grupos que até então defendiam a permanência no Reino Unido.
+
+Por que as demais estão erradas: **(a)** as Cortes não aboliram a escravidão — a questão sequer foi levada a esse ponto, e a manutenção do cativeiro foi um consenso entre as elites dos dois lados; **(c)** as Cortes eram **monárquicas constitucionais**, não republicanas, e defendiam a **centralização em Lisboa**, o oposto do federalismo; **(d)** o texto trata da relação entre Portugal e Brasil, e o objetivo das Cortes era justamente **restaurar o exclusivo português**, contrariando os privilégios ingleses de 1810; **(e)** a Constituinte brasileira foi convocada por **D. Pedro** em junho de 1822 e **anulada** pelas Cortes — o oposto do que a alternativa afirma.
+:::
+
+**6.** Explique a tese da "**interiorização da metrópole**" e diga em que ela difere da leitura da Independência como ruptura anticolonial.
+
+::: {.callout-tip collapse="true" title="Solução"}
+A tese é de **Maria Odila Leite da Silva Dias**, formulada em 1972 [@dias1972]. Ela desloca o eixo do problema: o momento decisivo não seria **1822**, mas o período **1808–1821**.
+
+**O argumento.** Com a transferência da corte, o **aparelho de Estado português** — burocracia, tribunais, exército, fisco, tesouro — não foi copiado nem improvisado no Brasil: foi **transplantado inteiro**. Instalado no Rio, esse Estado passou a depender materialmente das elites locais (grandes proprietários, comerciantes de grosso trato e traficantes de escravizados do Rio, de Minas e de São Paulo), que o financiavam, ocupavam seus cargos e recebiam dele títulos e concessões. Formou-se assim uma **fusão de interesses**: a metrópole "interiorizou-se", isto é, criou raízes americanas e passou a ter objetivos próprios, distintos dos de Lisboa. Quando as Cortes tentaram reverter o processo, essa aliança luso-brasileira defendeu **o Estado que já era seu**.
+
+**A diferença em relação à leitura anticolonial clássica.** A leitura tradicional (e também parte da marxista) descreve 1822 como o momento em que uma **colônia** rompe com sua **metrópole**. Dias mostra que, em 1822, o que existia no Rio já não era uma administração colonial, e sim o **centro de um império** — de modo que a "ruptura" foi menos uma libertação nacional do que a **consolidação de um Estado já enraizado**. Isso explica com elegância três traços que a versão anticolonial tem dificuldade de justificar: por que se manteve a **monarquia** e a mesma **dinastia**; por que a **escravidão** e a estrutura fundiária permaneceram intactas; e por que o território permaneceu **unido**, ao contrário da América espanhola.
+
+**Compatibilidades.** A tese dialoga bem com Emília Viotti da Costa, para quem a Independência foi conservadora e "feita pelo alto" [@costa1999], e com o trabalho recente de Kirsten Schultz sobre o Rio como corte imperial [@schultz2008]. O que ela **não** contempla, e a historiografia posterior acrescentou, é a dimensão popular e provincial do processo — as guerras, os panfletos e a mobilização de gente comum [@malerba2006; @neves2003].
+:::
+
+**7.** (Estilo vestibular — dissertativa) A Independência do Brasil foi ruptura ou continuidade? Sustente sua posição com argumentos dos dois lados.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Espera-se uma resposta que reconheça que **as duas dimensões coexistem**, e que qualifique cada uma.
+
+**Argumentos de ruptura.** (i) Fim do vínculo com Portugal e nascimento de um Estado **soberano**, com representação diplomática, exército e moeda próprios; (ii) a **Constituição de 1824** instaurou um sistema representativo, com eleições, Parlamento e direitos individuais formalmente assegurados — algo inexistente no Antigo Regime colonial; (iii) construiu-se um projeto de **nação** e uma cultura política nova, com imprensa, panfletos e uso corrente do vocabulário de "cidadão" e "constituição" [@neves2003]; (iv) o próprio processo mobilizou setores populares em várias províncias, produzindo expectativas de mudança.
+
+**Argumentos de continuidade.** (i) A **escravidão** permaneceu intocada e por 66 anos ainda — o Brasil foi o último país das Américas a aboli-la; (ii) a **estrutura fundiária** concentrada não foi alterada, e a Lei de Terras de 1850 a reforçaria (@sec-segundo-reinado); (iii) manteve-se a **monarquia** e a mesma **dinastia** dos Bragança, num continente que se republicanizava; (iv) a **economia primário-exportadora** e a dependência externa continuaram, agora em relação à **Inglaterra**, credora da dívida contraída em 1825 para pagar a indenização a Portugal; (v) a cidadania foi restringida pelo **voto censitário** e pela exclusão de escravizados e, na prática, da maioria da população.
+
+**Síntese possível.** A Independência foi uma **ruptura política sem revolução social**: mudou a titularidade da soberania, não a estrutura da sociedade. Usando a formulação de Emília Viotti da Costa, foi um processo **conservador** [@costa1999]; usando a de Maria Odila Dias, foi menos a saída de uma colônia do que a **consolidação de um Estado imperial já enraizado** no Centro-Sul [@dias1972]. Uma resposta de alto nível acrescenta que a permanência da escravidão não é detalhe, e sim o **eixo explicativo**: era exatamente ela que exigia continuidade institucional, unidade territorial e um Estado forte capaz de conter revoltas — o que ajuda a entender por que a monarquia foi preferida à república.
+:::
+
+**8.** Analise o quadro *Independência ou Morte!*, de Pedro Américo, como **fonte histórica**. De que ele é fonte?
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Primeiro passo: identificar a fonte.** Trata-se de uma pintura histórica de grandes dimensões, encomendada para o Museu Paulista, executada por **Pedro Américo** e concluída em **1888**, na Itália — ou seja, **66 anos depois** do evento representado, por um artista que não presenciou a cena nem conheceu o local à época.
+
+**Segundo passo: confrontar com outras evidências.** Relatos contemporâneos e a documentação do período indicam que a comitiva era pequena, que os animais usados na subida da serra eram **bestas e mulas** (e não cavalos de guerra), que não havia uniformes de gala e que D. Pedro sofria de um distúrbio intestinal na viagem de volta de Santos. O quadro, portanto, **não é fonte confiável para os fatos de 7 de setembro de 1822**.
+
+**Terceiro passo — o mais importante: perguntar de que ele *é* fonte.** O quadro é uma excelente fonte para:
+
+- a **construção da memória nacional** no fim do Império, quando a monarquia, pressionada pela crise final (@sec-crise-do-imperio), investia em símbolos de legitimidade fundacional;
+- a **estética acadêmica** do século XIX, que representava eventos históricos segundo modelos consagrados da pintura europeia — repare que a composição cita a iconografia napoleônica;
+- a **ideologia de Estado**: uma independência feita por um príncipe e por militares, ordeira, sem povo, sem escravizados e sem as guerras provinciais. O que o quadro **omite** é tão informativo quanto o que mostra;
+- a própria **história da memória**, já que essa imagem, reproduzida em livros escolares por mais de um século, moldou a percepção de gerações inteiras sobre o episódio.
+
+**A regra geral** (@sec-fontes-historicas): toda fonte responde bem à pergunta certa. Uma pintura de 1888 é fonte fraca sobre 1822 e fonte **excelente** sobre 1888 — sobre o que o Império, em seu último ano, queria que os brasileiros acreditassem a respeito de sua origem.
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- COSTA, Emília Viotti da. *Da Monarquia à República: momentos decisivos* [@costa1999]. O capítulo sobre a Independência é leitura obrigatória e ainda é o melhor ponto de partida.
+- MALERBA, Jurandir (org.). *A Independência brasileira: novas dimensões* [@malerba2006]. Panorama da historiografia recente, com capítulos sobre as províncias e a participação popular.
+- NEVES, Lúcia M. B. P. das. *Corcundas e constitucionais: a cultura política da Independência* [@neves2003]. Mostra o debate público de 1820–1822 em panfletos e jornais.
+- GOMES, Laurentino. *1808* [@gomes2007] e *1822* [@gomes2010]. Jornalismo histórico de leitura fácil — ótimos para o primeiro contato, desde que confrontados depois com a bibliografia acadêmica.
+- SCHULTZ, Kirsten. *Versalhes tropical* [@schultz2008] e BARMAN, Roderick. *Brazil: The Forging of a Nation* [@barman1988]. Duas leituras estrangeiras, precisas e pouco reverentes.
+
+**Fontes primárias**
+
+- **Manifesto às Nações Amigas** (6 de agosto de 1822), redigido por José Bonifácio: o Brasil se apresentando ao mundo.
+- **Decretos das Cortes de Lisboa** (1821–1822) e o **abaixo-assinado do Fico**.
+- DEBRET, Jean-Baptiste. *Viagem pitoresca e histórica ao Brasil* [@debret2016]. Imagens do Rio joanino — inclusive as do cotidiano da escravidão, que os pintores oficiais evitavam.
+
+**Filmes e documentários**
+
+- *Carlota Joaquina, princesa do Brazil* (1995), dir. Carla Camurati. Sátira, não documentário: use-a para discutir a diferença entre **licença ficcional** e erro histórico.
+- *Independência ou Morte* (1972), dir. Carlos Coimbra. Produzido no sesquicentenário, durante a ditadura militar — assista como **documento da memória oficial** dos anos 1970, exatamente como se faz com o quadro de Pedro Américo.

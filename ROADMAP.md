@@ -150,7 +150,7 @@
 
 | # | Capítulo | Arquivo | Status |
 |---|----------|---------|--------|
-| 1 | O processo de Independência do Brasil (1808–1822) | `capitulos/vol11/cap01-independencia.qmd` | ⬜ |
+| 1 | O processo de Independência do Brasil (1808–1822) | `capitulos/vol11/cap01-independencia.qmd` | ✅ |
 | 2 | O Primeiro Reinado | `capitulos/vol11/cap02-primeiro-reinado.qmd` | ⬜ |
 | 3 | O Período Regencial e as revoltas | `capitulos/vol11/cap03-periodo-regencial.qmd` | ⬜ |
 | 4 | O Segundo Reinado: política e café | `capitulos/vol11/cap04-segundo-reinado.qmd` | ⬜ |
