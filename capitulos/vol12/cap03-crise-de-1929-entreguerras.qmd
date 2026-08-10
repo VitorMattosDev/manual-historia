@@ -1,5 +1,357 @@
 # A crise de 1929 e o entreguerras {#sec-crise-de-1929-entreguerras}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Em **1928**, o candidato republicano **Herbert Hoover** fez campanha à presidência dos Estados Unidos com uma promessa que resumia a década: "**uma galinha em cada panela e um carro em cada garagem**". Parecia razoável. A produção industrial americana crescera quase 50% nos anos 1920, o país fabricava a maioria dos automóveis do mundo, rádios e geladeiras entravam nas casas a crédito, e economistas respeitados anunciavam que os ciclos de crise haviam sido domados. Em setembro de 1929, o professor **Irving Fisher**, de Yale, provavelmente o economista mais prestigiado dos EUA, declarou que os preços das ações haviam alcançado "o que parece ser um platô permanentemente elevado". Cinco semanas depois, a Bolsa de Nova York perdia um terço do seu valor. Em três anos, um quarto da força de trabalho americana estava desempregada, o comércio mundial havia encolhido em dois terços, e a fé no capitalismo liberal — e, em muitos países, na própria democracia — estava em frangalhos. Este capítulo explica **por que** a maior prosperidade da história produziu a maior depressão da história, e o que os diferentes países fizeram diante dela.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- caracterizar os **anos 1920** nos Estados Unidos e na Europa: **fordismo**, consumo de massa, crédito, especulação e reconstrução do pós-guerra;
+- explicar as causas da **Crise de 1929**, distinguindo a especulação financeira dos desequilíbrios estruturais da economia real;
+- descrever o mecanismo de **propagação mundial** da Depressão e por que ela foi tão profunda e tão longa;
+- analisar o **New Deal** de Roosevelt e o papel das ideias de **Keynes** na redefinição do papel do Estado;
+- avaliar o impacto da crise sobre a **democracia liberal** e sua relação com a ascensão dos regimes autoritários;
+- explicar os efeitos da crise no **Brasil**: café, Revolução de 1930 e industrialização por substituição de importações;
+- contrastar as principais explicações historiográficas e econômicas da Depressão (keynesiana, monetarista e institucional).
 :::
+
+## Os anos 1920: prosperidade e desequilíbrios {#sec-anos-1920}
+
+A Primeira Guerra deslocou o eixo da economia mundial. A Europa saiu do conflito destruída, endividada e dependente; os **Estados Unidos**, que haviam vendido armas, alimentos e crédito aos Aliados, saíram como **maior potência industrial e principal credora do planeta**. Nova York substituiu Londres como centro financeiro mundial.
+
+Nos EUA, os "**anos loucos**" combinaram vários fenômenos novos:
+
+- **Produção em massa (fordismo).** A linha de montagem de **Henry Ford**, a padronização de peças e a administração científica de **Taylor** reduziram drasticamente o custo unitário: um Ford Modelo T, que custava cerca de 850 dólares em 1908, caiu para menos de 300 nos anos 1920. Produzir muito e barato exigia, porém, **vender muito** — e isso pressupunha consumidores com renda ou crédito.
+- **Consumo de massa e crédito.** Automóveis, rádios, geladeiras e aspiradores foram vendidos em **prestações**, uma novidade que multiplicou o mercado e a fragilidade das famílias. Nasce a publicidade moderna, o cinema falado, o rádio comercial, o jazz — o "**american way of life**" como modelo cultural exportável.
+- **Especulação na Bolsa.** A partir de meados da década, a alta contínua das ações atraiu milhões de pequenos investidores, muitos comprando "**na margem**": pagavam 10% do valor e financiavam o resto com o próprio corretor, apostando que a valorização cobriria a dívida. Enquanto os preços subiam, todos ganhavam; qualquer queda, porém, dispararia vendas forçadas em cadeia.
+
+Sob a euforia, três desequilíbrios cresciam.
+
+1. **Superprodução em relação à demanda solvável.** A produtividade cresceu muito mais rápido que os salários; a renda concentrou-se no topo. Fábricas produziam mais do que a população podia comprar sem se endividar. O mesmo valia para a **agricultura**: modernizada durante a guerra para abastecer a Europa, ela enfrentou, com a retomada da produção europeia, uma sobra permanente — os preços agrícolas caíram durante toda a década, e boa parte dos agricultores americanos viveu os "anos loucos" em crise.
+2. **Fragilidade do sistema financeiro.** Milhares de bancos pequenos, sem seguro de depósitos e com regulação frouxa, emprestavam para especulação. Não havia rede de proteção alguma para o depositante.
+3. **Desequilíbrio internacional.** A engrenagem da economia mundial passou a depender de um circuito frágil: bancos americanos emprestavam à Alemanha (**Plano Dawes**, 1924; **Plano Young**, 1929), a Alemanha pagava reparações à França e ao Reino Unido, e estes pagavam suas dívidas de guerra aos EUA. Se o crédito americano parasse, o circuito inteiro travaria. Além disso, os EUA praticavam **protecionismo** — vendiam ao mundo, mas dificultavam a entrada de produtos estrangeiros —, o que impedia os devedores de obter dólares vendendo mercadorias.
+
+::: {.callout-important title="A Europa dos anos 1920 não viveu os 'anos loucos'"}
+É comum projetar a euforia americana sobre o mundo inteiro. Na Europa, a década foi bem mais dura. A **Alemanha de Weimar** enfrentou, em 1923, uma **hiperinflação** lendária: com a ocupação franco-belga do Ruhr por atraso nas reparações, o governo respondeu imprimindo dinheiro, e o marco chegou a **4,2 trilhões por dólar**. Famílias inteiras da classe média viram poupanças de uma vida desaparecerem em semanas — trauma decisivo para entender a receptividade posterior ao discurso nazista (@sec-totalitarismos). A situação só se estabilizou com uma reforma monetária e com o **Plano Dawes** (1924), que reescalonou as reparações e trouxe empréstimos americanos. Os anos 1924–29, chamados de "anos dourados" de Weimar, foram, portanto, uma prosperidade **sustentada por capital americano de curto prazo** — o que explica por que a Alemanha foi o país mais violentamente atingido em 1929.
+:::
+
+## O crash e a Grande Depressão {#sec-crash-1929}
+
+Na **quinta-feira negra**, **24 de outubro de 1929**, quase 13 milhões de ações foram despejadas no mercado de Nova York. Um grupo de banqueiros tentou sustentar os preços comprando; funcionou por alguns dias. Na **terça-feira negra**, **29 de outubro**, o pânico se tornou incontrolável: 16 milhões de ações vendidas, cotações em queda livre. Entre 1929 e 1932, o índice Dow Jones perderia cerca de **89%** do seu valor.
+
+::: {.callout-important title="A imagem que ficou — e o que ela esconde"}
+A cena dos corretores atirando-se das janelas de Wall Street é, em grande medida, **lenda**: os suicídios ocorreram, mas em número muito menor que o do imaginário popular, e nem todos ligados ao crash. Mais importante que desmentir a anedota é entender o que ela obscurece: **a Bolsa não foi a causa da Depressão**. A quebra de 1929 foi o gatilho e o sintoma; a catástrofe veio do que se seguiu — a **quebra em cadeia dos bancos**, a contração do crédito, a queda do consumo e do investimento e a paralisia das indústrias. Só nos EUA, cerca de **9 mil bancos** faliram entre 1930 e 1933, levando consigo as economias de milhões de famílias que não haviam comprado uma única ação.
+:::
+
+::: {#fig-mecanismo-crise-1929}
+
+```{.tikz}
+%%| filename: fig-mecanismo-crise-1929
+%%| alt: Fluxograma do mecanismo da crise de 1929, das causas estruturais ao crash, à quebra dos bancos, à espiral recessiva e à mundialização da depressão.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \node[draw, thick, rounded corners, fill=manualyellow!26, align=center, text width=3.3cm] (c1) at (-5.0,3.6)
+    {\textbf{Superprodução}\\ produtividade cresce\\ mais que salários};
+  \node[draw, thick, rounded corners, fill=manualyellow!26, align=center, text width=3.3cm] (c2) at (-1.2,3.6)
+    {\textbf{Especulação}\\ compra de ações\\ ``na margem''};
+  \node[draw, thick, rounded corners, fill=manualyellow!26, align=center, text width=3.3cm] (c3) at (2.6,3.6)
+    {\textbf{Crédito frouxo}\\ consumo a prestações\\ bancos sem regulação};
+  \node[draw, thick, rounded corners, fill=manualyellow!26, align=center, text width=3.4cm] (c4) at (6.5,3.6)
+    {\textbf{Desequilíbrio externo}\\ EUA credor \textbf{e}\\ protecionista};
+
+  \node[draw, very thick, rounded corners, fill=manualred!25, align=center, text width=6.2cm, text=manualred] (crash) at (0.7,1.6)
+    {\textbf{CRASH DA BOLSA DE NOVA YORK}\\ 24 e 29 de outubro de \textbf{1929}};
+
+  \draw[vetor, thick, manualgray] (c1) -- (crash);
+  \draw[vetor, thick, manualgray] (c2) -- (crash);
+  \draw[vetor, thick, manualgray] (c3) -- (crash);
+  \draw[vetor, thick, manualgray] (c4) -- (crash);
+
+  \node[draw, thick, rounded corners, fill=manualblue!16, align=center, text width=3.6cm] (b1) at (-4.6,-0.3)
+    {\textbf{Quebra dos bancos}\\ $\sim$9 mil falências\\ (1930--33)};
+  \node[draw, thick, rounded corners, fill=manualblue!16, align=center, text width=3.6cm] (b2) at (0.7,-0.3)
+    {\textbf{Crédito desaparece}\\ consumo e investimento\\ despencam};
+  \node[draw, thick, rounded corners, fill=manualblue!16, align=center, text width=3.6cm] (b3) at (6.0,-0.3)
+    {\textbf{Fábricas fecham}\\ \textbf{25\%} de desemprego\\ nos EUA em 1933};
+
+  \draw[vetor, thick, manualred] (crash) -- (b1);
+  \draw[vetor, thick, manualred] (crash) -- (b2);
+  \draw[vetor, thick, manualred] (crash) -- (b3);
+  \draw[vetor, thick, manualgray] (b1) -- (b2);
+  \draw[vetor, thick, manualgray] (b2) -- (b3);
+
+  \node[draw, very thick, rounded corners, fill=manualgray!22, align=center, text width=11.8cm] (mundo) at (0.7,-2.4)
+    {\textbf{MUNDIALIZAÇÃO DA CRISE}\\ EUA repatriam capitais e cortam empréstimos $\cdot$ \textbf{Alemanha} desaba $\cdot$ tarifas\\ (\textbf{Smoot-Hawley}, 1930) e retaliações $\cdot$ comércio mundial cai $\sim$\textbf{2/3} $\cdot$ preços de\\ matérias-primas despencam: \textbf{café}, trigo, algodão, cobre};
+
+  \draw[vetor, very thick, manualred] (b3) -- (mundo);
+  \draw[vetor, very thick, manualred] (b1) -- (mundo);
+
+  \node[align=center, text=manualgray!45!black, text width=11.5cm] at (0.7,-3.9)
+    {\textbf{Consequência política:} descrédito do liberalismo econômico $\cdot$ crise das democracias $\cdot$ ascensão de \textbf{nacionalismos} e \textbf{autoritarismos} $\cdot$ Estado assume papel econômico central};
+\end{tikzpicture}
+```
+
+O crash foi o gatilho, não a causa. O que transformou uma quebra de bolsa em **Depressão** foi a espiral: bancos → crédito → consumo → emprego → consumo de novo.
+:::
+
+**A espiral recessiva.** O mecanismo é circular e vale a pena memorizá-lo: bancos quebram → o crédito desaparece → empresas cortam produção e demitem → desempregados não consomem → mais empresas quebram → mais bancos quebram. Em 1933, os EUA tinham cerca de **13 milhões de desempregados** (um quarto da força de trabalho), a produção industrial havia caído pela metade e milhares de famílias viviam em acampamentos de barracos ironicamente apelidados de "**Hoovervilles**". No Meio-Oeste, a seca e a erosão do **Dust Bowl** expulsaram centenas de milhares de agricultores rumo à Califórnia — êxodo imortalizado por John Steinbeck em *As vinhas da ira* [@steinbeck2018].
+
+**A mundialização.** A crise se espalhou por três canais:
+
+1. **Financeiro** — os EUA repatriaram capitais e interromperam empréstimos; a Alemanha, dependente deles, desabou primeiro, arrastando a Áustria (a falência do banco **Creditanstalt**, em 1931, foi o marco europeu da crise);
+2. **Comercial** — a lei tarifária americana **Smoot-Hawley** (1930) elevou taxas sobre milhares de produtos; dezenas de países retaliaram, e o comércio mundial encolheu cerca de **dois terços** entre 1929 e 1932;
+3. **Preços de matérias-primas** — economias exportadoras de produtos primários (América Latina, África, Ásia) viram suas receitas evaporar. O **café** brasileiro perdeu cerca de dois terços do valor.
+
+## As respostas à crise {#sec-respostas-crise}
+
+A Depressão desmoralizou a receita ortodoxa — orçamento equilibrado, padrão-ouro, não intervenção — porque ela simplesmente não funcionou. Hoover a aplicou, na esperança de que o mercado se corrigisse sozinho, e assistiu à situação piorar por três anos. As saídas encontradas depois de 1932 tiveram formas diferentes, mas um traço comum: **o Estado assumiu a direção da economia**.
+
+**Estados Unidos: o New Deal.** Eleito em 1932, **Franklin Delano Roosevelt** lançou um programa que costuma ser resumido em três "R": *relief* (**socorro** imediato aos necessitados), *recovery* (**recuperação** da economia) e *reform* (**reforma** das instituições). Suas medidas principais:
+
+- **Sistema financeiro:** feriado bancário, reabertura apenas dos bancos saudáveis, criação do seguro de depósitos (**FDIC**) e da comissão reguladora do mercado de capitais (**SEC**); separação entre bancos comerciais e de investimento (Glass-Steagall).
+- **Emprego e obras públicas:** grandes programas de infraestrutura, como a **Tennessee Valley Authority** (TVA), que construiu barragens e levou eletricidade a uma região inteira, além de frentes de trabalho que empregaram milhões em estradas, escolas, parques — e até artistas e escritores.
+- **Agricultura e indústria:** controle de produção e sustentação de preços agrícolas (AAA); códigos de concorrência, preços e salários na indústria (NIRA) — ambos posteriormente derrubados pela Suprema Corte.
+- **Direitos sociais e trabalhistas:** o **Wagner Act** (1935) garantiu o direito de sindicalização e negociação coletiva; o **Social Security Act** (1935) criou aposentadoria e seguro-desemprego federais. É o embrião do Estado de bem-estar social nos EUA.
+
+::: {.callout-note title="Conceito-chave: as ideias de Keynes"}
+O economista britânico **John Maynard Keynes** (1883–1946) publicou em 1936 a *Teoria geral do emprego, do juro e da moeda*, que reorganizou a economia moderna [@keynes1996]. Sua tese central contrariava o senso comum da época: numa depressão, o problema não é excesso de custos, mas **insuficiência de demanda agregada**. Se famílias e empresas cortam gastos ao mesmo tempo — cada uma racionalmente, do seu ponto de vista —, a economia inteira encolhe. É o **paradoxo da poupança**: o que é prudente para um é desastroso para todos.
+
+A conclusão prática: cabe ao **Estado** gastar quando o setor privado não gasta, aceitando déficit temporário, para reativar o circuito — o efeito **multiplicador** faz cada real gasto gerar renda, consumo e novo emprego em cadeia. Duas observações de rigor: o New Deal começou **antes** da *Teoria geral* e não foi uma aplicação literal de Keynes (Roosevelt, aliás, temia o déficit e cortou gastos em 1937, provocando nova recessão); e o keynesianismo não é socialismo — é uma estratégia para **salvar** o capitalismo de suas próprias crises, regulando-o.
+:::
+
+**Outras respostas.** O **Reino Unido** abandonou o padrão-ouro (1931), desvalorizou a libra e organizou uma zona comercial preferencial com suas colônias e domínios. A **França** teve, com a **Frente Popular** de Léon Blum (1936), reformas sociais amplas — férias remuneradas, semana de 40 horas, negociação coletiva — em governo de coalizão de esquerda. A **Suécia** inaugurou uma via social-democrata de pleno emprego e proteção social. A **URSS**, fora do mercado mundial, seguia seus **planos quinquenais** e exibia crescimento no exato momento em que o Ocidente afundava, o que deu enorme prestígio internacional à ideia de **planejamento** (@sec-revolucao-russa). E a **Alemanha** e o **Japão** responderam pela via autoritária: obras públicas, rearmamento maciço, controle estatal do trabalho, autarquia econômica e, por fim, expansão territorial (@sec-totalitarismos).
+
+::: {.callout-warning title="Crise econômica leva ao autoritarismo? Cuidado com o automatismo"}
+É tentador escrever a equação "crise de 1929 → nazismo". Ela contém uma verdade importante e uma armadilha.
+
+**A verdade:** a Depressão foi decisiva para a ascensão nazista. Em maio de 1928, o partido de Hitler obteve **2,6%** dos votos; em julho de 1932, com 6 milhões de desempregados, chegou a **37,3%**. Sem a crise, o nazismo teria permanecido marginal.
+
+**A armadilha:** a mesma crise atingiu os Estados Unidos, o Reino Unido, a França, a Suécia — que **não** se tornaram ditaduras. Se a economia determinasse sozinha o desfecho, os resultados seriam idênticos. O que variou foram fatores **políticos e históricos**: a solidez das instituições democráticas, a existência ou não de tradição parlamentar consolidada, a divisão da esquerda, a atitude das elites conservadoras, a memória do trauma nacional. A crise **abriu** o caminho; quem o percorreu, e até onde, dependeu de escolhas humanas. Fugir do determinismo econômico é tão importante quanto reconhecer o peso da economia.
+:::
+
+## O Brasil e a crise {#sec-brasil-1929}
+
+Nenhum país dependia tanto de uma única mercadoria quanto o Brasil dependia do **café**: ele respondia por cerca de **70%** do valor das exportações. E a crise chegou num momento particularmente ruim: a safra de 1929 foi recorde, os estoques estavam altíssimos e a política de **valorização** — pela qual o governo comprava e estocava café para sustentar o preço, iniciada com o **Convênio de Taubaté** (1906) — dependia de empréstimos externos que, subitamente, deixaram de existir. Entre 1929 e 1931, o preço da saca despencou cerca de dois terços.
+
+As consequências foram profundas:
+
+- **Políticas.** A crise fragilizou a **República Velha** exatamente quando a política dos governadores se rompia: o presidente paulista **Washington Luís** indicou outro paulista, **Júlio Prestes**, quebrando o revezamento com Minas Gerais. Formou-se a **Aliança Liberal** (Minas, Rio Grande do Sul e Paraíba) em torno de **Getúlio Vargas**; derrotada nas urnas e catalisada pelo assassinato de **João Pessoa**, ela chegou ao poder pela **Revolução de 1930**. Note a articulação: a crise não *causou* 1930, mas retirou da oligarquia cafeeira os recursos e o prestígio que a mantinham no comando (@sec-republica-velha).
+- **Econômicas.** O governo Vargas comprou e **queimou** cerca de 78 milhões de sacas de café ao longo dos anos 1930 — medida que parece absurda e tinha lógica: destruir estoque para sustentar preço. Mais importante, ao comprar a safra com emissão de moeda, o Estado **sustentou a renda interna** num momento de colapso, produzindo o que Celso Furtado descreveria como uma política anticíclica involuntariamente "keynesiana", anterior à formulação de Keynes [@furtado2007].
+- **Industriais.** Com o câmbio desvalorizado e importações caras ou impossíveis, produzir internamente tornou-se vantajoso. Acelerou-se a **industrialização por substituição de importações**, agora com apoio deliberado do Estado — processo que desembocaria na criação da Companhia Siderúrgica Nacional e no projeto desenvolvimentista da Era Vargas (@sec-era-vargas).
+
+## O entreguerras: uma ordem internacional em ruínas {#sec-entreguerras}
+
+O impacto da Depressão não foi apenas econômico. Ela desmoralizou três pilares da ordem construída em 1919.
+
+**O liberalismo econômico.** A ideia de que os mercados se autorregulam saiu do período com credibilidade destruída. O **padrão-ouro** foi abandonado por quase todos, e o **Estado** passou a ser aceito, mesmo por conservadores, como agente econômico central — herança que atravessaria todo o século XX.
+
+**A democracia liberal.** Em 1920, quase toda a Europa era formalmente democrática; em 1939, restavam poucas democracias no continente. Itália, Alemanha, Portugal, Espanha, Áustria, Hungria, Polônia, Romênia, Grécia e países bálticos haviam adotado regimes autoritários de tipos variados. Para muitos contemporâneos, a democracia parecia um sistema esgotado, incapaz de decidir rápido — e o debate real de então não era "democracia ou ditadura", mas **qual** ditadura.
+
+**A segurança coletiva.** A **Liga das Nações** fracassou em série: nada fez contra a invasão japonesa da **Manchúria** (1931), limitou-se a sanções inócuas contra a invasão italiana da **Etiópia** (1935) e assistiu impotente à remilitarização da Renânia (1936) e à **Guerra Civil Espanhola** (1936–39), em que uma política de "não intervenção" das democracias conviveu com a intervenção aberta de Alemanha e Itália em favor de Franco. Cada fracasso ensinava a mesma lição aos regimes expansionistas: agir compensa.
+
+Vale registrar, contudo, que o entreguerras não foi só ruína. Foi também um período de intensa criatividade: o **cinema** tornou-se a primeira arte verdadeiramente de massa, o **rádio** entrou nas casas, o jazz cruzou o Atlântico, e as vanguardas modernistas — surrealismo, Bauhaus, e no Brasil o modernismo de 1922 (@sec-anos-1920-tenentismo-22) — reinventaram as formas de ver o mundo. Também foi a era em que a **cultura de massa** se tornou instrumento político, algo que os regimes autoritários compreenderam antes das democracias.
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+**Por que a Depressão foi tão profunda e tão longa?** A pergunta ocupou economistas e historiadores por quase um século, e as respostas divergem porque partem de diagnósticos diferentes sobre o que faz uma economia funcionar. Note que aqui a disputa historiográfica tem consequência prática imediata: cada explicação implica uma receita distinta para a crise seguinte.
+
+**1. A explicação keynesiana: insuficiência de demanda.** Para Keynes e seus seguidores, a Depressão revelou uma falha estrutural do capitalismo deixado a si mesmo: quando as expectativas viram pessimistas, todos cortam gastos ao mesmo tempo e a economia se estabiliza num equilíbrio de **desemprego alto** — do qual não sai sozinha. A causa profunda estaria no descompasso entre a capacidade de produzir e a capacidade de consumir, agravada pela concentração de renda. A solução: **gasto público** e regulação [@keynes1996]. Foi a interpretação dominante entre 1945 e os anos 1970 e sustentou o Estado de bem-estar social.
+
+**2. A explicação monetarista: erro do banco central.** Em *A Monetary History of the United States* (1963), **Milton Friedman** e **Anna Schwartz** inverteram o argumento: o capitalismo não falhou — o **governo** falhou. Segundo eles, a recessão de 1929 poderia ter sido comum e breve; o que a transformou em catástrofe foi a omissão do **Federal Reserve**, que permitiu a contração de cerca de um terço da oferta de moeda entre 1929 e 1933 e deixou milhares de bancos quebrarem sem socorro. A conclusão política é oposta à de Keynes: o problema não é a falta de intervenção do Estado na economia real, mas o mau manejo da **política monetária** [@friedmanSchwartz1963]. Essa leitura tornou-se influente a partir dos anos 1970 e orientou explicitamente a resposta dos bancos centrais à crise de 2008 — Ben Bernanke, então presidente do Fed e estudioso da Depressão, chegou a dizer a Friedman: "vocês estão certos, nós fizemos isso; e, graças a vocês, não faremos de novo".
+
+**3. A explicação institucional e internacional: faltou um líder.** **Charles Kindleberger**, em *A crise de 1929* (1973), deslocou o olhar do plano nacional para o **sistema mundial**: uma economia internacional aberta precisa de uma potência disposta a bancar o sistema em momentos de pânico — mantendo mercados abertos, emprestando em última instância, estabilizando o câmbio. Em 1929, o **Reino Unido** não podia mais fazê-lo e os **Estados Unidos** ainda não queriam. Esse vazio de liderança teria convertido uma recessão em depressão mundial [@kindleberger1973]. Na mesma linha, **Barry Eichengreen** demonstrou que o apego ao **padrão-ouro** foi um "grilhão dourado": os países que o abandonaram primeiro (Reino Unido em 1931, EUA em 1933) recuperaram-se primeiro, e os que resistiram mais (França) sofreram por mais tempo [@eichengreen1992]. É hoje um dos achados mais sólidos do campo.
+
+**4. E o New Deal: funcionou?** Também aqui há disputa. A leitura tradicional o vê como o programa que salvou o capitalismo americano e fundou o Estado social. Críticos liberais argumentam que a recuperação foi lenta — o desemprego só voltou aos níveis de 1929 com a **Segunda Guerra** — e que a regulação teria retardado o ajuste. Historiadores como **Eric Hobsbawm** deslocam a questão: mais importante que o desempenho econômico do New Deal foi seu efeito **político** — ele preservou a democracia americana num momento em que boa parte do mundo escolhia o autoritarismo [@hobsbawm1995]. E há um ponto em que quase todos concordam: o que encerrou definitivamente a Depressão foi o gasto público colossal da **guerra** — o que, ironicamente, é um argumento keynesiano involuntário.
+
+**Por que essas leituras divergem?** Menos por falta de dados — os números da Depressão estão entre os mais estudados da história econômica — e mais pelo que cada escola considera o **mecanismo fundamental** da economia (demanda agregada, oferta de moeda, arranjos institucionais) e pelo **presente** de cada autor: Keynes escrevia no meio da catástrofe, buscando uma saída; Friedman escrevia nos anos 1960, disputando com o keynesianismo então hegemônico; Kindleberger e Eichengreen escreveram quando a instabilidade internacional voltou à pauta, após o fim de Bretton Woods e nas crises financeiras globais. É um exemplo excelente de como o passado é reinterpretado a partir das perguntas do presente (@sec-o-que-e-historia) — e de como, nas ciências sociais, explicar o passado é sempre também argumentar sobre o que fazer agora.
+
+## Resumo do capítulo {#sec-resumo}
+
+- **Anos 1920 nos EUA:** **fordismo** e produção em massa, consumo a **crédito**, *american way of life*, especulação em Bolsa com compra "**na margem**". Os EUA saem da guerra como maior potência industrial e **credora**; Nova York substitui Londres como centro financeiro.
+- **Desequilíbrios:** **superprodução** frente a salários estagnados e renda concentrada; crise agrícola durante toda a década; sistema bancário frágil e sem seguro de depósitos; circuito internacional dependente do crédito americano (**Planos Dawes**, 1924, e **Young**, 1929) combinado com **protecionismo** dos EUA.
+- **Europa nos anos 1920:** reconstrução difícil; **hiperinflação alemã de 1923** (ocupação do Ruhr; marco a 4,2 trilhões por dólar) e "anos dourados" de Weimar sustentados por capital americano de curto prazo.
+- **Crash:** **quinta-feira negra (24/10/1929)** e **terça-feira negra (29/10/1929)**; o Dow Jones perde ~89% até 1932. A Bolsa foi o **gatilho**, não a causa: a catástrofe veio da quebra em cadeia dos bancos (~9 mil falências) e da espiral crédito → consumo → emprego.
+- **Depressão:** **25%** de desemprego nos EUA em 1933, *Hoovervilles*, **Dust Bowl**; mundialização por três canais — **financeiro** (repatriação de capitais; queda do **Creditanstalt** em 1931), **comercial** (**Smoot-Hawley**, 1930, e retaliações; comércio mundial cai ~2/3) e **preços de matérias-primas**.
+- **New Deal (Roosevelt, a partir de 1933):** os três "R" — *relief*, *recovery*, *reform*; seguro de depósitos (**FDIC**), regulação do mercado (**SEC**), obras públicas (**TVA**), **Wagner Act** (sindicalização) e **Social Security Act** (1935). **Keynes** (*Teoria geral*, 1936): a crise é de **demanda agregada**; cabe ao Estado gastar — não é socialismo, é salvamento regulado do capitalismo.
+- **Outras respostas:** abandono do **padrão-ouro** (Reino Unido, 1931; EUA, 1933), **Frente Popular** francesa (1936), via social-democrata sueca, **planos quinquenais** soviéticos e, na Alemanha e no Japão, obras públicas + **rearmamento** + expansão territorial.
+- **Brasil:** o **café** era ~70% das exportações e perdeu ~2/3 do preço; crise da política de **valorização**; ruptura da política dos governadores (Washington Luís indica **Júlio Prestes**), **Aliança Liberal** e **Revolução de 1930**; compra e **queima de café** como sustentação da renda interna (leitura de **Furtado**); aceleração da **industrialização por substituição de importações**.
+- **Entreguerras:** descrédito do liberalismo econômico e da **democracia liberal** (a Europa democrática de 1920 é majoritariamente autoritária em 1939); fracassos sucessivos da **Liga das Nações** (Manchúria 1931, Etiópia 1935, Renânia 1936, Guerra Civil Espanhola 1936–39). Atenção: crise econômica **não** leva automaticamente ao autoritarismo — EUA, Reino Unido, França e Suécia sofreram a mesma crise e mantiveram a democracia.
+- **Historiografia:** **keynesiana** (insuficiência de demanda; solução: gasto público) × **monetarista** (**Friedman** e **Schwartz**: erro do **Fed**, contração de 1/3 da moeda) × **institucional/internacional** (**Kindleberger**: falta de potência líder; **Eichengreen**: o **padrão-ouro** como "grilhão dourado"). Sobre o **New Deal**, o consenso possível é o de **Hobsbawm**: seu maior êxito foi **político** — preservou a democracia americana.
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Domine: (1) a diferença entre **gatilho** (crash) e **causas** (superprodução, crédito, fragilidade bancária, desequilíbrio internacional); (2) o mecanismo da **espiral recessiva**; (3) os canais de **mundialização**; (4) o **New Deal** e o argumento de **Keynes**; (5) os efeitos no **Brasil** e o vínculo com **1930**; (6) por que crise econômica não produz autoritarismo automaticamente; (7) as três grandes explicações historiográficas.
+:::
+
+**1.** Explique por que a prosperidade dos anos 1920 nos Estados Unidos continha, ela mesma, as causas da crise de 1929.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque a expansão apoiava-se em quatro mecanismos que só funcionavam enquanto a alta continuasse:
+
+1. **Superprodução frente à demanda solvável.** O **fordismo** multiplicou a capacidade de produzir, mas a produtividade cresceu muito mais que os salários, e a renda concentrou-se no topo. Produzia-se mais do que a população podia comprar com sua renda — a diferença foi coberta por crédito, o que apenas adiava o problema.
+2. **Consumo a crédito.** As vendas a prestação sustentaram o mercado e, ao mesmo tempo, endividaram as famílias. Qualquer queda na renda transformaria dívida em inadimplência em massa.
+3. **Especulação financeira.** A compra de ações "na margem" (pagando 10% e financiando o resto) fazia sentido enquanto os preços subissem; na queda, o corretor exigia o pagamento, o investidor era obrigado a vender, e a venda derrubava ainda mais os preços — um mecanismo de **amplificação** embutido no sistema.
+4. **Fragilidade bancária e desequilíbrio internacional.** Milhares de bancos pequenos, sem seguro de depósitos, emprestavam para especulação; e o circuito mundial dependia de empréstimos americanos à Alemanha (**Dawes**, **Young**), enquanto o protecionismo dos EUA impedia os devedores de obter dólares vendendo mercadorias.
+
+Acrescente um dado que desfaz a imagem de prosperidade universal: a **agricultura americana esteve em crise durante toda a década**, com preços em queda desde que a Europa retomou sua própria produção. Ou seja, parte importante da economia real já ia mal **antes** do crash.
+:::
+
+**2.** Por que se diz que "o crash da Bolsa não foi a causa da Depressão"? Explique o mecanismo que transformou a quebra em depressão mundial.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**A distinção.** O crash de outubro de 1929 foi o **gatilho** e o sintoma mais visível; as **causas** eram estruturais (superprodução, concentração de renda, crédito frouxo, fragilidade bancária, desequilíbrio internacional). A prova é simples: outras quebras de bolsa não produziram depressões de uma década. O que fez a diferença foi o que veio **depois** do crash.
+
+**A espiral recessiva** (memorize o circuito):
+
+1. o crash arruína investidores e, sobretudo, os **bancos** que financiaram a especulação;
+2. depositantes correm aos bancos; cerca de **9 mil bancos** quebram nos EUA entre 1930 e 1933, levando as poupanças de milhões de pessoas que jamais compraram ações;
+3. o **crédito desaparece** — empresas não conseguem capital de giro, consumidores não conseguem financiamento;
+4. empresas cortam produção e **demitem**; o desemprego chega a 25% em 1933;
+5. desempregados **não consomem**, o que derruba outras empresas — e o ciclo recomeça, mais fundo.
+
+**A mundialização**, por três canais:
+
+- **financeiro** — os EUA repatriam capitais e cortam empréstimos; a **Alemanha**, que dependia deles, desaba primeiro, e a quebra do austríaco **Creditanstalt** (1931) espalha o pânico pela Europa;
+- **comercial** — a tarifa **Smoot-Hawley** (1930) desencadeia retaliações; o comércio mundial encolhe cerca de **dois terços** até 1932, punindo justamente os países que precisariam exportar para pagar suas dívidas;
+- **preços de matérias-primas** — economias primário-exportadoras (América Latina, África, Ásia) veem suas receitas evaporar; o **café** brasileiro perde cerca de dois terços do valor.
+
+**A conclusão analítica:** depressões não decorrem de um evento, e sim da **ausência de mecanismos que interrompam a espiral** — seguro de depósitos, banco central atuando como emprestador de última instância, gasto público compensatório. Em 1929 não havia nenhum deles; foi exatamente isso que se criou depois.
+:::
+
+**3.** O que foi o **New Deal**? Organize suas medidas e avalie seus resultados.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Definição.** Programa de intervenção estatal lançado por **Franklin D. Roosevelt** a partir de 1933, geralmente organizado em três eixos: *relief* (**socorro** imediato), *recovery* (**recuperação**) e *reform* (**reforma institucional**).
+
+**Medidas por área:**
+
+| Área | Medidas |
+|---|---|
+| **Sistema financeiro** | feriado bancário e reabertura seletiva; **FDIC** (seguro de depósitos); **SEC** (regulação do mercado de capitais); separação entre bancos comerciais e de investimento |
+| **Emprego e infraestrutura** | frentes de trabalho para milhões; **TVA** (barragens e eletrificação do vale do Tennessee); estradas, escolas, parques |
+| **Agricultura e indústria** | **AAA** (controle de produção e sustentação de preços agrícolas); **NIRA** (códigos de preços, salários e concorrência) — ambos derrubados pela Suprema Corte |
+| **Direitos sociais** | **Wagner Act** (1935): sindicalização e negociação coletiva; **Social Security Act** (1935): aposentadoria e seguro-desemprego |
+
+**Avaliação — o que funcionou.** Estancou o pânico bancário, reduziu significativamente o desemprego em relação ao pior momento (de ~25% para cerca de 14–15% em 1937), criou instituições que evitariam repetições (seguro de depósitos e regulação sobreviveram por décadas) e fundou o embrião do **Estado social** americano.
+
+**Avaliação — os limites.** A recuperação foi **incompleta**: o desemprego só retornou aos níveis de 1929 com a mobilização da **Segunda Guerra Mundial**. Em 1937, temendo o déficit, Roosevelt cortou gastos e provocou nova recessão — evidência, aliás, a favor do argumento keynesiano. Críticos liberais sustentam que a regulação atrasou o ajuste; críticos à esquerda apontam que o programa preservou a estrutura capitalista e excluiu boa parte dos **trabalhadores negros**, já que o Social Security inicialmente não cobria trabalhadores agrícolas e domésticos, categorias em que eles eram maioria no Sul.
+
+**A avaliação mais defensável** é a de **Hobsbawm**: o mérito maior do New Deal não foi econômico, e sim **político** — ele preservou a democracia americana e a confiança na possibilidade de reformar o capitalismo, num momento em que boa parte do mundo concluía que só a ditadura resolvia [@hobsbawm1995].
+:::
+
+**4.** Explique a tese central de **Keynes** e por que ela contrariava a ortodoxia da época.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**A ortodoxia (antes de 1936).** Predominava a crença de que os mercados tendem naturalmente ao **pleno emprego**: se há desemprego, é porque os salários estão altos demais; a receita, portanto, era cortar salários, equilibrar o orçamento e manter o padrão-ouro, esperando o reequilíbrio. Foi o que Hoover tentou — e a situação piorou por três anos.
+
+**A tese de Keynes** (*Teoria geral do emprego, do juro e da moeda*, 1936):
+
+1. O nível de emprego depende da **demanda agregada** (consumo + investimento + gasto público + exportações líquidas), e não dos salários isoladamente.
+2. Uma economia pode estabilizar-se num **equilíbrio com desemprego alto** e permanecer ali indefinidamente — não há força automática que a resgate.
+3. **Paradoxo da poupança:** em recessão, é racional para cada família e cada empresa cortar gastos; mas, se todos cortam ao mesmo tempo, a renda agregada cai e a situação de todos piora. Cortar salários agrava o problema, porque salário também é **demanda**.
+4. Logo, cabe ao **Estado** gastar quando o setor privado não gasta, aceitando **déficit temporário**. Pelo efeito **multiplicador**, cada unidade gasta gera renda, que gera consumo, que gera novo emprego.
+
+**Por que era heterodoxo.** Invertia a lógica moral e contábil dominante — o Estado deveria gastar **mais** justamente quando arrecada **menos** —, deslocava o foco da oferta para a demanda e retirava do mercado a presunção de autorregulação.
+
+**Duas precisões de rigor.** Primeira: o **New Deal não foi aplicação de Keynes** — começou antes da *Teoria geral*, e Roosevelt temia o déficit (tanto que cortou gastos em 1937, provocando recessão). Segunda: o keynesianismo **não é socialismo**; propõe regular e estabilizar o capitalismo, preservando a propriedade privada e o mercado. Seu êxito posterior foi imenso: orientou a reconstrução do pós-guerra, o Estado de bem-estar social e os "anos dourados" de 1945–73 (@sec-ordem-bipolar), até ser contestado pelo monetarismo e pelo neoliberalismo a partir dos anos 1970 (@sec-globalizacao-neoliberalismo).
+:::
+
+**5.** Quais foram os efeitos da crise de 1929 no **Brasil**, e qual sua relação com a **Revolução de 1930**?
+
+::: {.callout-tip collapse="true" title="Solução"}
+**O ponto de partida: dependência de um único produto.** O **café** respondia por cerca de **70%** do valor das exportações brasileiras. A crise atingiu o país no pior momento possível: safra recorde em 1929, estoques altíssimos e uma política de **valorização** (comprar e estocar para sustentar preços, iniciada com o **Convênio de Taubaté**, de 1906) que dependia de empréstimos externos — exatamente o que desapareceu. O preço da saca caiu cerca de **dois terços** entre 1929 e 1931.
+
+**Efeitos econômicos.**
+
+1. **Colapso cambial e da receita externa**, com queda das importações.
+2. **Compra e queima do café** pelo Estado — cerca de 78 milhões de sacas destruídas ao longo dos anos 1930. Parece irracional, mas cumpria duas funções: reduzir estoques para sustentar o preço e, sobretudo, **manter a renda dos cafeicultores** pagando pela safra com emissão de moeda. **Celso Furtado** interpretou essa política como uma ação **anticíclica** que sustentou a demanda interna e explica por que a economia brasileira se recuperou mais rápido que a de vários países centrais [@furtado2007].
+3. **Industrialização por substituição de importações.** Com o câmbio desvalorizado e importações caras, produzir internamente ficou vantajoso; o processo, já iniciado durante a Primeira Guerra, ganhou escala e passou a contar com apoio deliberado do Estado (@sec-era-vargas).
+
+**Relação com 1930 — e uma advertência metodológica.** A crise **não causou** sozinha a Revolução de 1930. A ruptura política tinha causas próprias: **Washington Luís** quebrou a alternância com Minas Gerais ao indicar outro paulista, **Júlio Prestes**; formou-se a **Aliança Liberal** (Minas, Rio Grande do Sul e Paraíba) em torno de **Getúlio Vargas**; havia o descontentamento **tenentista** acumulado desde 1922 e a demanda por reforma eleitoral (voto secreto); e o assassinato de **João Pessoa** ofereceu o catalisador emocional.
+
+O que a crise fez foi **retirar da oligarquia cafeeira paulista os recursos e o prestígio** que sustentavam sua hegemonia: um grupo que não podia mais garantir a valorização do café nem o crédito externo perdeu a razão de ser de seu predomínio. É o mesmo raciocínio que você aplicou à queda do Império (@sec-crise-do-imperio): regimes caem menos pela força de quem os derruba do que pela **erosão de quem os sustentava** (@sec-republica-velha).
+:::
+
+**6.** (Estilo ENEM) Leia o texto.
+
+> "Se o Tesouro se dispusesse a encher garrafas velhas com notas de banco, enterrá-las a uma profundidade conveniente em minas de carvão desativadas, cobri-las com o lixo da cidade e deixar à iniciativa privada […] a tarefa de desenterrar novamente as notas, não mais haveria desemprego e, com a ajuda das repercussões, a renda real da comunidade e também a sua riqueza de capital provavelmente excederiam em muito o seu nível atual."
+>
+> — KEYNES, *Teoria geral do emprego, do juro e da moeda*, 1936 [@keynes1996]
+
+Com essa provocação, Keynes defende que, em contexto de depressão econômica,
+
+**(a)** o equilíbrio orçamentário do Estado deve ser preservado como condição para a retomada do investimento privado.
+**(b)** a redução dos salários é o instrumento mais eficaz para restaurar a competitividade e o emprego.
+**(c)** o gasto público, mesmo deficitário, dinamiza a demanda agregada e reativa a produção e o emprego em cadeia.
+**(d)** a livre concorrência entre empresas, sem interferência estatal, corrige espontaneamente os desequilíbrios do mercado.
+**(e)** a mineração e as atividades extrativas devem ser priorizadas pelo Estado como setores estratégicos.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (c).** A imagem das garrafas enterradas é uma provocação deliberada: Keynes escolhe o exemplo **mais inútil possível** de gasto público justamente para isolar o argumento. Se até enterrar e desenterrar dinheiro geraria emprego, renda e consumo pelo efeito **multiplicador**, então o problema da depressão não é a **natureza** do gasto, mas sua **ausência**. E se um gasto absurdo funcionaria, um gasto útil — estradas, escolas, hospitais — funcionaria ainda melhor. O trecho sintetiza a tese central da *Teoria geral*: em depressão, o gargalo é a **demanda agregada**, e cabe ao Estado supri-la quando o setor privado não o faz.
+
+Por que as demais estão erradas:
+
+- **(a)** é exatamente a posição **ortodoxa** que Keynes combate; ele defende **déficit** temporário como instrumento;
+- **(b)** cortar salários é a receita clássica que Keynes considera contraproducente, pois salário também é **demanda** — reduzi-lo aprofunda a recessão;
+- **(d)** a tese central do livro é a de que o mercado **não** se autocorrige e pode estabilizar-se com desemprego alto por tempo indefinido;
+- **(e)** a mina de carvão é um recurso retórico, não uma proposta setorial — ler o trecho literalmente é perder o argumento.
+:::
+
+**7.** Por que a crise de 1929 abalou a **democracia liberal**? Explique por que, ainda assim, é incorreto afirmar que a crise "causou" o nazismo.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Por que a crise abalou a democracia.**
+
+1. **Descrédito do liberalismo econômico.** A receita ortodoxa — orçamento equilibrado, padrão-ouro, não intervenção — foi aplicada e falhou visivelmente. Como o liberalismo econômico e o político andavam associados no discurso público, a falha de um contaminou o outro.
+2. **Lentidão decisória.** Parlamentos fragmentados, governos de coalizão instáveis e debate público prolongado pareciam incapazes de responder à emergência, enquanto regimes autoritários exibiam decisões rápidas e obras visíveis.
+3. **Radicalização e polarização.** O desemprego em massa engrossou simultaneamente os extremos; o medo do comunismo levou setores das elites e das classes médias a aceitar soluções autoritárias como "mal menor" (@sec-totalitarismos).
+4. **Nacionalismo econômico.** Protecionismo, desvalorizações competitivas e autarquia alimentaram o discurso de que cada nação deveria bastar-se — e, no limite, conquistar o que lhe faltasse.
+
+O resultado é mensurável: a Europa de 1920 era quase toda formalmente democrática; a de 1939 tinha poucas democracias restantes.
+
+**Por que "a crise causou o nazismo" é incorreto.** A afirmação confunde **condição** com **causa suficiente**. A relação estatística é forte — o partido nazista tinha **2,6%** dos votos em 1928 e **37,3%** em julho de 1932, no auge do desemprego —, e sem a crise o nazismo teria permanecido marginal. Mas a **mesma crise** atingiu os **Estados Unidos**, o **Reino Unido**, a **França** e a **Suécia**, que responderam com New Deal, ajuste cambial, Frente Popular e social-democracia, **sem** abandonar a democracia.
+
+Se a variável econômica fosse determinante, os desfechos seriam iguais. O que variou foram fatores históricos e políticos: a solidez e a idade das instituições democráticas (Weimar tinha 14 anos e nascera de uma derrota militar humilhante); o trauma de **Versalhes** e da hiperinflação de 1923; a **divisão da esquerda** entre comunistas e social-democratas, que se combatiam mutuamente; a decisão das elites conservadoras de levar Hitler ao poder acreditando que poderiam controlá-lo; e a fragilidade de uma cultura política parlamentar.
+
+**A lição metodológica:** a crise **abriu** possibilidades; quem as percorreu, e até onde, dependeu de escolhas humanas e de heranças institucionais. Evitar o **determinismo econômico** é tão importante quanto reconhecer o peso real da economia (@sec-o-que-e-historia).
+:::
+
+**8.** (Estilo vestibular — dissertativa) Compare as explicações **keynesiana**, **monetarista** e **institucional** para a gravidade da Grande Depressão, indicando o que cada uma implica em termos de política econômica.
+
+::: {.callout-tip collapse="true" title="Solução"}
+| | **Keynesiana** | **Monetarista** (Friedman e Schwartz) | **Institucional/internacional** (Kindleberger, Eichengreen) |
+|---|---|---|---|
+| **Diagnóstico** | insuficiência de **demanda agregada**; o mercado pode estabilizar-se com desemprego alto | erro do **Federal Reserve**, que deixou a oferta de moeda cair ~1/3 e permitiu a quebra dos bancos | ausência de uma **potência líder** disposta a estabilizar o sistema mundial; rigidez do **padrão-ouro** |
+| **Papel do Estado** | falhou por **omissão** no gasto | falhou por **incompetência** na política monetária | faltou **coordenação internacional**, não apenas ação nacional |
+| **Culpado principal** | o capitalismo deixado a si mesmo | o banco central | o vazio entre o declínio britânico e a relutância americana |
+| **Receita** | **gasto público** e regulação | boa política **monetária**, evitando contração da moeda | emprestador de última instância global, mercados abertos, câmbio flexível |
+| **Evidência-chave** | recuperação com gasto público; recessão de 1937 após corte de gastos | correlação entre falências bancárias e contração monetária | países que abandonaram o **ouro** primeiro se recuperaram primeiro |
+
+**Como avaliá-las.** As três não são inteiramente incompatíveis, e a historiografia econômica atual tende a combiná-las: houve **erro monetário** (a omissão do Fed é hoje amplamente reconhecida), houve **insuficiência de demanda** (a recessão de 1937, provocada por corte de gastos, é evidência forte) e houve **falha sistêmica internacional** (o resultado de Eichengreen sobre o padrão-ouro está entre os mais sólidos do campo: quem saiu antes, recuperou-se antes).
+
+**Por que divergem.** Menos por escassez de dados — a Depressão é um dos períodos mais quantificados da história — e mais pelo que cada escola supõe ser o **mecanismo fundamental** da economia, e pelo **presente** de cada autor: Keynes escrevia dentro da catástrofe, buscando uma saída imediata; Friedman escrevia nos anos 1960, disputando a hegemonia intelectual com o keynesianismo; Kindleberger e Eichengreen escreveram depois do fim de **Bretton Woods**, quando a instabilidade financeira internacional voltou ao centro da agenda.
+
+**Por que isso importa hoje.** Porque cada diagnóstico é também uma receita para a crise seguinte — e as duas foram usadas em 2008: os bancos centrais evitaram a contração monetária (lição de **Friedman**) e os governos lançaram pacotes fiscais de estímulo (lição de **Keynes**). Poucos casos mostram tão bem que **interpretar o passado é intervir no presente** (@sec-correntes-historiograficas).
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- GALBRAITH, John Kenneth. *1929: o colapso da Bolsa* [@galbraith2010]. Clássico curto, elegante e cheio de ironia, escrito por um economista que viveu o período.
+- HOBSBAWM, Eric. *Era dos extremos* [@hobsbawm1995], capítulos sobre "o abismo econômico" e "a queda do liberalismo". A melhor síntese do vínculo entre crise econômica e crise política.
+- KINDLEBERGER, Charles. *A crise de 1929* [@kindleberger1973]. A leitura internacional da Depressão.
+- EICHENGREEN, Barry. *Golden fetters: o padrão-ouro e a Grande Depressão* [@eichengreen1992]. Técnico, mas decisivo: quem saiu do ouro antes, sofreu menos.
+- FURTADO, Celso. *Formação econômica do Brasil* [@furtado2007]. Os capítulos sobre o café e a crise dos anos 1930 são leitura obrigatória para entender o Brasil do século XX.
+- KEYNES, John Maynard. *Teoria geral do emprego, do juro e da moeda* [@keynes1996]. Difícil, mas vale ler o capítulo 10 e a passagem das garrafas enterradas.
+
+**Fontes primárias e literatura**
+
+- STEINBECK, John. *As vinhas da ira* [@steinbeck2018]. Romance sobre a migração dos agricultores do **Dust Bowl** para a Califórnia; ganhou o Pulitzer e foi queimado em algumas cidades americanas — sinal do quanto incomodava.
+- As fotografias de **Dorothea Lange** para a *Farm Security Administration*, especialmente *Mãe migrante* (1936): documento visual da Depressão e, ao mesmo tempo, exemplo de como uma imagem se torna ícone e memória (@sec-fontes-historicas).
+- Os "**bate-papos ao pé da lareira**" (*fireside chats*), transmissões radiofônicas de Roosevelt: o rádio como novo instrumento de relação direta entre governante e povo — recurso que Vargas, Mussolini e Hitler também usariam.
+
+**Filmes e documentários**
+
+- *Tempos modernos* (1936), dir. Charles Chaplin. Sátira genial da linha de montagem e do desemprego; a cena da engrenagem é a melhor síntese visual do fordismo já produzida.
+- *As vinhas da ira* (1940), dir. John Ford, adaptação do romance de Steinbeck.
+- *Cinderella Man: a luta pela esperança* (2005), sobre um boxeador durante a Depressão — bom retrato do cotidiano da crise nos EUA.
