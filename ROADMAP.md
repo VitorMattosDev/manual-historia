@@ -166,7 +166,7 @@
 | 3 | A crise de 1929 e o entreguerras | `capitulos/vol12/cap03-crise-de-1929-entreguerras.qmd` | ✅ |
 | 4 | Os totalitarismos: fascismo e nazismo | `capitulos/vol12/cap04-totalitarismos.qmd` | ✅ |
 | 5 | A Segunda Guerra Mundial | `capitulos/vol12/cap05-segunda-guerra-mundial.qmd` | ✅ |
-| 6 | Holocausto e o balanço da guerra | `capitulos/vol12/cap06-holocausto-balanco.qmd` | ⬜ |
+| 6 | Holocausto e o balanço da guerra | `capitulos/vol12/cap06-holocausto-balanco.qmd` | ✅ |
 
 ### Volume 13 — Brasil República
 
