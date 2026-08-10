@@ -1,5 +1,405 @@
 # Guerra do Paraguai e a crise do Império {#sec-crise-do-imperio}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Em **15 de novembro de 1889**, um marechal de 62 anos, adoentado e monarquista convicto, saiu de casa a cavalo, dirigiu-se ao quartel-general do Exército no Campo de Santana e depôs o governo imperial. **Deodoro da Fonseca** era amigo pessoal de D. Pedro II; não pretendia proclamar república alguma naquela manhã — queria derrubar o gabinete de **Ouro Preto**, com quem os militares estavam em conflito. A República foi proclamada em seguida, por outros, e o próprio Deodoro só a aceitou horas depois. Não houve batalha, resistência, manifestação popular nem uma única morte. O jornalista **Aristides Lobo**, republicano histórico, escreveu dias depois a frase que se tornaria o veredicto do episódio: "**o povo assistiu àquilo bestializado, atônito, surpreso, sem conhecimento do que significava**". Um regime que sobrevivera a dez revoltas armadas, a uma década de regências e à guerra mais sangrenta da América do Sul caiu numa manhã, sem que ninguém saísse à rua para defendê-lo. Este capítulo explica por quê — e mostra que a resposta começa vinte e cinco anos antes, numa guerra travada nos pântanos do Prata.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- explicar as causas da **Guerra do Paraguai** no contexto da disputa pela **Bacia do Prata**;
+- narrar as fases do conflito (1864–1870) e avaliar seus custos humanos, econômicos e políticos;
+- discutir as três grandes correntes historiográficas sobre a guerra, incluindo a tese do **imperialismo inglês** e sua revisão;
+- identificar as "**questões**" que corroeram o Império — militar, religiosa, servil e federativa;
+- caracterizar o **republicanismo**, o **positivismo** e o papel do Exército no 15 de novembro;
+- avaliar a **proclamação da República** e o significado da expressão "povo bestializado".
 :::
+
+## A Bacia do Prata antes da guerra {#sec-bacia-do-prata}
+
+Para entender a guerra, é preciso olhar o mapa como o olhavam os governos da época. Os rios **Paraná**, **Paraguai** e **Uruguai** formam a única via de acesso ao interior do continente. Quem controlasse sua foz — em Buenos Aires e Montevidéu — controlaria o comércio de toda a região. E o Brasil tinha um interesse especialmente concreto: a província de **Mato Grosso** só era acessível, na prática, pelos rios, já que a viagem por terra a partir do Rio de Janeiro levava meses.
+
+Desde a Independência, portanto, o Império interveio sistematicamente na região (@sec-primeiro-reinado): anexou a Cisplatina e a perdeu na guerra de 1825–28; combateu **Juan Manuel de Rosas**, o caudilho de Buenos Aires, em 1852; e apoiou repetidamente uma das duas facções que dividiam o **Uruguai** — os **colorados**, contra os **blancos**.
+
+O **Paraguai**, por sua vez, seguira caminho singular. Sem litoral e cercado por vizinhos maiores, foi governado por **José Gaspar de Francia** (1814–1840) e depois pelos **López** — Carlos Antonio (1844–1862) e seu filho **Francisco Solano López** (1862–1870) — num regime autoritário e fortemente estatista: monopólio estatal do comércio da erva-mate, uso de terras públicas arrendadas a camponeses, fundição de ferro em Ybycuí, telégrafo, estaleiro e a primeira **ferrovia** da região, tudo construído com técnicos contratados na Europa. Solano López investiu pesadamente em Forças Armadas e ambicionava transformar o país em potência regional, obtendo uma saída marítima.
+
+::: {.callout-important title="Cuidado com o 'Paraguai potência industrial'"}
+Uma versão muito difundida — sobretudo na leitura revisionista dos anos 1970 — apresenta o Paraguai pré-guerra como economia industrial autônoma, próspera e igualitária, destruída justamente por ameaçar os interesses britânicos. É uma **idealização**.
+
+O que é verdadeiro: havia investimento estatal notável para a região, ausência de dívida externa, siderurgia incipiente, ferrovia e telégrafo, e um Estado forte capaz de mobilizar recursos.
+
+O que é exagero: chamar aquilo de **industrialização**. A economia era essencialmente agrária, baseada em erva-mate, tabaco e couro; a fundição de Ybycuí era pequena, dependia de técnicos estrangeiros e de insumos importados; e a maior parte da população era camponesa e analfabeta, sob um governo pessoal e autoritário, sem imprensa livre nem eleições.
+
+A lição vale para além do caso: **contestar uma narrativa oficial não autoriza construir outra igualmente idealizada**. Guardar a complexidade é mais difícil — e mais honesto.
+:::
+
+O estopim veio do **Uruguai**. Em 1864, o Brasil interveio militarmente para apoiar os **colorados** de Venancio Flores contra o governo **blanco**, aliado de Solano López. Este considerou a intervenção uma ruptura do equilíbrio regional, advertiu formalmente o Império e, diante do avanço brasileiro, apreendeu o vapor brasileiro **Marquês de Olinda** em novembro de 1864 e invadiu o **Mato Grosso**. Em seguida, para atacar o Rio Grande do Sul, pediu passagem pelo território argentino de **Corrientes**; a Argentina recusou, e López invadiu-a também — transformando um adversário neutro em inimigo. Em **1º de maio de 1865**, Brasil, Argentina e Uruguai (agora governado pelos colorados) assinaram o **Tratado da Tríplice Aliança**.
+
+## A guerra (1864–1870) {#sec-guerra-do-paraguai}
+
+::: {#fig-guerra-do-paraguai}
+
+```{.tikz}
+%%| filename: fig-guerra-do-paraguai
+%%| alt: Mapa esquemático da Guerra do Paraguai, com as fases da ofensiva paraguaia, a batalha naval do Riachuelo, o cerco de Humaitá e a campanha final até Cerro Corá.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \draw[thick, manualgray, rounded corners] (0,-4.6) rectangle (13.2,2.6);
+  \node[text=manualgray] at (6.6,2.95) {\textbf{GUERRA DO PARAGUAI, 1864--1870} (esquema — não é mapa de precisão)};
+
+  \fill[manualyellow!26, rounded corners] (5.0,-0.6) rectangle (8.2,2.1);
+  \node[align=center] at (6.6,1.5) {\textbf{PARAGUAI}\\ \textit{Assunção}};
+
+  \fill[manualgreen!18, rounded corners] (8.4,-0.6) rectangle (12.9,2.1);
+  \node[align=center, text=manualgreen!45!black] at (10.6,1.5) {\textbf{BRASIL}\\ (Mato Grosso ao norte,\\ Rio Grande do Sul ao sul)};
+
+  \fill[manualblue!14, rounded corners] (0.3,-0.6) rectangle (4.8,2.1);
+  \node[align=center, text=manualblue] at (2.5,1.5) {\textbf{ARGENTINA}\\ (Corrientes)};
+
+  \fill[manualred!14, rounded corners] (3.0,-2.3) rectangle (6.6,-0.9);
+  \node[align=center, text=manualred] at (4.8,-1.6) {\textbf{URUGUAI}\\ (blancos $\times$ colorados:\\ \textbf{o estopim}, 1864)};
+
+  \draw[vetor, ultra thick, manualyellow!60!black] (7.6,1.0) -- (9.6,1.0);
+  \node[text=manualyellow!55!black] at (8.6,1.28) {\textbf{1864}: invasão do MT};
+  \draw[vetor, ultra thick, manualyellow!60!black] (5.6,0.4) -- (3.6,0.0);
+  \node[text=manualyellow!55!black, rotate=11] at (4.5,0.55) {\textbf{1865}: Corrientes / RS};
+
+  \node[draw, thick, circle, fill=manualred!35, inner sep=1.4pt] (ria) at (3.2,-0.45) {};
+  \node[text=manualred, align=center] at (2.2,-0.95) {\textbf{Riachuelo}\\ 11 jun. \textbf{1865}\\ (vitória naval brasileira)};
+
+  \node[draw, thick, circle, fill=manualred!35, inner sep=1.4pt] (hum) at (6.2,-0.45) {};
+  \node[text=manualred, align=center] at (7.6,-0.95) {\textbf{Humaitá}\\ cerco de \textbf{1866--68}};
+
+  \node[draw, thick, circle, fill=manualred!35, inner sep=1.4pt] (cer) at (7.4,1.9) {};
+  \node[text=manualred, align=center] at (8.2,2.35) {\textbf{Cerro Corá} 1870};
+
+  \draw[vetor, ultra thick, manualgreen!45!black] (3.4,-0.2) -- (5.4,0.3) -- (6.6,1.1) -- (7.3,1.75);
+  \node[text=manualgreen!45!black, rotate=22] at (5.4,0.05) {\textbf{contraofensiva aliada} 1866--70};
+
+  \node[draw, dashed, rounded corners, fill=manualgray!16, align=left, text width=12.4cm] at (6.6,-3.6)
+    {\textbf{Fases:} \textbf{1)} ofensiva paraguaia (1864--65): Mato Grosso, Corrientes, Rio Grande do Sul $\cdot$ \textbf{2)} contraofensiva aliada (1865--66): \textbf{Riachuelo} garante o domínio dos rios; derrota aliada em \textbf{Curupaiti} (1866) $\cdot$ \textbf{3)} cerco e queda de \textbf{Humaitá} (1868) e tomada de Assunção (1869) $\cdot$ \textbf{4)} \textbf{campanha das cordilheiras} (1869--70): guerra de perseguição; morte de \textbf{Solano López} em \textbf{Cerro Corá}, 1º de março de \textbf{1870}};
+\end{tikzpicture}
+```
+
+Uma guerra de rios: quem dominasse a navegação venceria. Riachuelo, em junho de 1865, decidiu esse ponto — e o resto foi um cerco de cinco anos.
+:::
+
+**As fases.** A **ofensiva paraguaia** inicial (1864–65) foi rápida e obteve êxitos, mas se esgotou: a invasão do Rio Grande do Sul foi contida e o exército invasor rendeu-se em Uruguaiana. A **batalha naval do Riachuelo** (11 de junho de 1865), vencida pela esquadra brasileira sob **Barroso**, foi decisiva: garantiu aos aliados o domínio dos rios e converteu a guerra numa campanha de invasão do Paraguai.
+
+Seguiram-se anos de combates sangrentos e lentos: a derrota aliada em **Curupaiti** (1866), o longo cerco à fortaleza de **Humaitá** (tomada em 1868), a entrada em **Assunção** (janeiro de 1869) e, por fim, a **campanha das cordilheiras** — dezoito meses de perseguição a um exército em fuga, no qual já combatiam **velhos, mulheres e crianças**. Em **1º de março de 1870**, Solano López foi morto em **Cerro Corá**, com a frase que a tradição lhe atribui: "*Morro com minha pátria*".
+
+**Os comandantes.** Do lado brasileiro, destacaram-se **Caxias** — o mesmo que reprimira a Balaiada (@sec-periodo-regencial) — e, na fase final, o **conde d'Eu**, genro do imperador. Do lado paraguaio, além de Solano López, sua companheira **Eliza Lynch** tornou-se figura central e depois personagem de intensa disputa de memória.
+
+**Os custos.** Foi o **maior conflito armado da história da América do Sul**:
+
+- **Paraguai:** estimativas variam muito, mas as mais aceitas hoje apontam entre **15% e 20%** da população morta — algo entre 150 e 300 mil pessoas — com destruição quase completa da população masculina adulta, perda de território para Brasil e Argentina e uma dívida de guerra que o país arrastaria por décadas. As estimativas mais antigas, de até 90% de mortalidade, foram revistas para baixo por demógrafos.
+- **Brasil:** cerca de **50 mil mortos**, a maioria por **doenças** (cólera, febres) e não em combate; multiplicação por várias vezes da dívida externa junto a bancos ingleses; e cinco anos de mobilização que consumiram orçamentos que, no discurso da época, seriam destinados a estradas, escolas e imigração.
+
+::: {.callout-warning title="Quem lutou pelo Brasil: os Voluntários da Pátria"}
+O nome oficial dos corpos criados em 1865 — **Voluntários da Pátria** — precisa de aspas. Houve entusiasmo patriótico inicial nas cidades, mas a maior parte da tropa foi obtida por outros meios:
+
+- **recrutamento forçado** de homens livres pobres, prática popularmente chamada de "caçada humana";
+- envio de escravizados pelos senhores **em substituição** a filhos convocados;
+- alforria concedida pelo Estado a escravizados **em troca de serviço militar** — milhares foram comprados de seus senhores pelo governo e libertados para lutar.
+
+Estima-se que algo entre 10% e 20% do contingente brasileiro fosse composto de negros libertos ou alforriados para a guerra. Isso teve duas consequências pesadas. Primeira: para os oficiais, tornou-se moralmente insustentável comandar homens negros na guerra e, terminada esta, ver o Exército empregado na **captura de escravizados fugidos** — daí a solicitação do **Clube Militar** em 1887 (@sec-escravidao-abolicao-imigracao). Segunda: quem lutou voltou sem terra, sem pensão e frequentemente sem os documentos que comprovavam sua alforria, o que gerou litígios por anos. É o mesmo padrão que você já viu nos lanceiros negros de Porongos (@sec-periodo-regencial) e nas guerras de independência (@sec-independencia).
+
+**Ricardo Salles** estudou justamente essa dimensão: a guerra ampliou a cidadania **na prática** para homens negros e pobres, ao custo de suas vidas, sem que isso se convertesse em direitos formais [@salles1990].
+:::
+
+## As consequências: o Império fica sem apoio {#sec-consequencias-guerra}
+
+A guerra terminou em 1870, e a monarquia caiu em 1889. Os dezenove anos entre as duas datas são um lento processo de perda de sustentação, em quatro frentes.
+
+### A questão militar {#sec-questao-militar}
+
+O Exército saiu da guerra transformado. Antes um corpo desprestigiado e mal remunerado, tornou-se uma **instituição nacional** com identidade própria, hierarquia consolidada, heróis e memória compartilhada. Seus oficiais, muitos de origem social modesta e formados na **Escola Militar da Praia Vermelha** — onde se ensinava matemática, engenharia e, sobretudo, **positivismo** —, passaram a se ver como agentes do progresso e a desprezar os "casacas", os políticos civis de gabinete.
+
+O choque veio na década de 1880, quando o governo puniu oficiais que se manifestaram publicamente pela imprensa sobre assuntos políticos e proibiu que o fizessem sem autorização. Os militares reagiram como corporação, criaram o **Clube Militar** (1887), presidido por **Deodoro da Fonseca**, e obtiveram a revogação da proibição. A crise revelou a coisa mais perigosa que pode acontecer a um regime: uma corporação armada com **consciência própria** e **agenda própria**.
+
+### A questão religiosa {#sec-questao-religiosa}
+
+Pelo **padroado** (@sec-primeiro-reinado), o clero brasileiro era funcionalismo público e nenhum documento papal valia sem o **beneplácito** imperial. Em 1864, o papa **Pio IX** publicou a encíclica *Quanta Cura* e o *Syllabus*, condenando o liberalismo e a **maçonaria** — e proibindo que católicos pertencessem a ela. Ocorre que, no Brasil, **maçonaria e Igreja se sobrepunham amplamente**: muitos padres eram maçons, e a maçonaria era espaço de sociabilidade da elite política, incluindo o próprio Visconde do Rio Branco, presidente do Conselho e grão-mestre.
+
+Em 1872, os bispos **D. Vital** (Olinda) e **D. Macedo Costa** (Belém) resolveram aplicar a determinação papal, punindo irmandades religiosas que não expulsassem seus membros maçons. O governo ordenou que suspendessem as punições, alegando que a bula não tinha beneplácito; os bispos recusaram, invocando obediência ao papa. Foram **julgados e condenados a quatro anos de prisão com trabalhos forçados** em 1874 — pena depois comutada e anistiada em 1875. O estrago estava feito: o Império indispôs-se com a **Igreja Católica**, sua principal fonte de legitimação simbólica num país oficialmente católico.
+
+### A questão servil {#sec-questao-servil}
+
+A abolição, examinada no @sec-escravidao-abolicao-imigracao, teve efeito político devastador sobre o regime. Ao longo de duas décadas, o Império **atrasou** e diluiu a emancipação — o que lhe custou o apoio dos setores urbanos, dos abolicionistas e da opinião pública ilustrada. E, quando finalmente assinou a **Lei Áurea** em 1888 **sem indenização**, perdeu de uma vez o apoio dos grandes proprietários escravistas, sobretudo os do Vale do Paraíba, que se sentiram expropriados. Muitos deles aderiram ao republicanismo por despeito — daí a expressão da época, os "**republicanos de 13 de maio**". Foi a última perna do banco a ser serrada: o Império ficou sem escravistas **e** sem abolicionistas.
+
+### A questão federativa e o republicanismo {#sec-republicanismo}
+
+O sistema imperial concentrava no centro a nomeação dos presidentes de província e a maior parte da arrecadação (@sec-segundo-reinado). Para o **Oeste Paulista**, que gerava a maior riqueza do país, isso era intolerável: pagava muito, decidia pouco. Em **1870** foi publicado no Rio o **Manifesto Republicano**, com a frase que resume tudo: "**Somos da América e queremos ser americanos**" — isto é, republicanos e federativos, como o resto do continente [@manifestoRepublicano1870]. Em **1873**, a **Convenção de Itu** fundou o **Partido Republicano Paulista** (PRP), de base cafeeira e programa federalista.
+
+Somou-se a isso o **positivismo** de **Auguste Comte**, difundido no Brasil sobretudo por **Benjamin Constant Botelho de Magalhães**, professor da Escola Militar. A doutrina oferecia aos jovens oficiais uma visão de mundo completa: a história caminharia por estágios até a fase "positiva"; caberia a uma elite técnica e científica conduzir a sociedade; e o modelo político seria uma "ditadura republicana" ordenada, sob o lema **"Ordem e Progresso"** — que iria parar na bandeira nacional.
+
+Havia ainda a **questão sucessória**. D. Pedro II estava doente, tinha 63 anos e não deixaria herdeiro homem: sucedê-lo-ia a princesa **Isabel**, casada com um **francês**, o conde d'Eu, impopular e visto como ligado ao clero ultramontano. Boa parte da elite política, mesmo monarquista, simplesmente **não queria o terceiro reinado** — o que explica a passividade de tanta gente em 15 de novembro.
+
+::: {#fig-crise-do-imperio}
+
+```{.tikz}
+%%| filename: fig-crise-do-imperio
+%%| alt: Fluxograma das causas da queda do Império brasileiro, com a Guerra do Paraguai como origem e as quatro questões que retiraram apoio à monarquia.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \node[draw, very thick, rounded corners, fill=manualred!22, align=center, text width=4.4cm, text=manualred] (g) at (0,3.3)
+    {\textbf{GUERRA DO PARAGUAI}\\ \textbf{1864--1870}\\[2pt] dívida externa $\cdot$ 50 mil mortos\\ \textbf{Exército nacional e politizado}};
+
+  \node[draw, thick, rounded corners, fill=manualblue!18, align=center, text width=3.5cm] (q1) at (-5.0,0.6)
+    {\textbf{QUESTÃO MILITAR}\\ Clube Militar (1887)\\ positivismo na Escola\\ Militar $\cdot$ \textbf{Deodoro}};
+  \node[draw, thick, rounded corners, fill=manualyellow!28, align=center, text width=3.5cm] (q2) at (-1.1,0.6)
+    {\textbf{QUESTÃO RELIGIOSA}\\ \textbf{1872--75}: bispos presos\\ padroado $\times$ Pio IX\\ \textbf{Igreja se afasta}};
+  \node[draw, thick, rounded corners, fill=manualgreen!20, align=center, text width=3.5cm] (q3) at (2.8,0.6)
+    {\textbf{QUESTÃO SERVIL}\\ \textbf{1888}: abolição\\ \textbf{sem indenização}\\ escravistas rompem};
+  \node[draw, thick, rounded corners, fill=manualgray!24, align=center, text width=3.7cm] (q4) at (6.8,0.6)
+    {\textbf{QUESTÃO FEDERATIVA}\\ Manifesto de \textbf{1870};\\ \textbf{PRP} (Itu, 1873)\\ café paulista quer autonomia};
+
+  \draw[vetor, very thick, manualred] (g) -- (q1);
+  \draw[vetor, very thick, manualred] (g) -- (q2);
+  \draw[vetor, very thick, manualred] (g) -- (q3);
+  \draw[vetor, very thick, manualred] (g) -- (q4);
+
+  \node[draw, very thick, rounded corners, fill=manualblue!25, align=center, text width=6.6cm, text=manualblue] (rep) at (0,-2.4)
+    {\textbf{15 DE NOVEMBRO DE 1889}\\[2pt] golpe militar sem resistência, sem batalha\\ e \textbf{sem participação popular}\\ \textit{``o povo assistiu bestializado''}};
+
+  \draw[vetor, very thick, manualgray] (q1) -- (rep);
+  \draw[vetor, very thick, manualgray] (q2) -- (rep);
+  \draw[vetor, very thick, manualgray] (q3) -- (rep);
+  \draw[vetor, very thick, manualgray] (q4) -- (rep);
+
+  \node[align=center, text width=6.0cm, text=gray] at (0,-4.2)
+    {\textbf{+ questão sucessória:} imperador doente, herdeira \textbf{Isabel} casada com um francês — ninguém queria o \textbf{terceiro reinado}};
+\end{tikzpicture}
+```
+
+Uma causa remota e quatro rupturas: cada uma retirou do Império um dos grupos que o sustentavam. Em 1889, não sobrara nenhum.
+:::
+
+## 15 de novembro de 1889 {#sec-proclamacao}
+
+O gabinete liberal de **Ouro Preto**, empossado em junho de 1889, tentou salvar a monarquia com um programa de reformas: descentralização, ampliação do voto, autonomia municipal. Era tarde, e o próprio programa admitia que os republicanos tinham razão.
+
+O estopim foi um boato — deliberadamente espalhado — de que o governo pretendia prender **Deodoro** e **Benjamin Constant** e dissolver unidades militares. Na manhã de **15 de novembro**, Deodoro marchou com a tropa até o Ministério da Guerra, no Campo de Santana, e destituiu o gabinete. Segundo os relatos, ele deu vivas ao imperador e, naquele momento, pensava apenas na queda de Ouro Preto. Foram os civis republicanos — **Quintino Bocaiúva**, **Rui Barbosa**, **Aristides Lobo**, **José do Patrocínio** — e os oficiais positivistas que converteram o movimento em **proclamação da República**, formalizada na Câmara Municipal ainda naquele dia. Em 17 de novembro, a família imperial embarcou para o exílio. D. Pedro II morreria em Paris, em 1891.
+
+::: {.callout-tip title="Por que ninguém defendeu a monarquia?"}
+Faça o inventário dos apoios que o Império tinha em 1870 e verifique onde estava cada um em 1889:
+
+| Grupo | Em 1870 | Em 1889 |
+|---|---|---|
+| **Exército** | subordinado, desprestigiado | politizado, positivista, hostil aos "casacas" |
+| **Igreja** | pilar da legitimidade | afastada desde a prisão dos bispos (1874) |
+| **Grandes escravistas** | base social do regime | rompidos pela abolição **sem indenização** (1888) |
+| **Café do Oeste Paulista** | ainda dentro do sistema | republicano e federalista desde 1873 |
+| **Abolicionistas e classes urbanas** | críticos, mas dentro | descrentes da lentidão imperial |
+| **Sucessão** | D. Pedro II respeitado | herdeira impopular; ninguém queria o 3º reinado |
+
+: O balanço de apoios do Império. {#tbl-apoios-imperio}
+
+Não é que a República tenha sido forte: é que a monarquia ficou **sem sustentação**. A queda de um regime raramente se explica pela força de quem o derruba — quase sempre se explica pela ausência de quem o defenda. Guarde esse método de análise: ele serve também para **1930**, **1945** e **1964** (@sec-era-vargas; @sec-ditadura-militar).
+:::
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+**A Guerra do Paraguai teve três historiografias sucessivas — e a disputa entre elas é modelar.**
+
+**1. A versão patriótica tradicional (do fim do século XIX até os anos 1960).** Consolidada por militares e por historiadores ligados ao Estado, apresentava a guerra como resposta legítima à agressão de um **tirano** — Solano López descrito como déspota sanguinário e megalômano — e celebrava heróis, batalhas e patriotismo. O Brasil teria sido arrastado à guerra e teria vencido pela bravura. Essa versão organizava os manuais escolares e a memória oficial das Forças Armadas.
+
+**2. O revisionismo (anos 1960–1980).** No contexto da Guerra Fria, das teorias da dependência e da crítica ao imperialismo (@sec-imperialismo), autores como **León Pomer** e, no Brasil, **Júlio José Chiavenato**, inverteram a narrativa: a guerra teria sido promovida pelo **imperialismo inglês** para destruir o único país sul-americano com desenvolvimento **autônomo**, sem dívida externa e com economia estatizada. Brasil e Argentina teriam agido como instrumentos de Londres, e o Paraguai seria a vítima de um "genocídio americano" [@chiavenato1979; @pomer1980]. O livro de Chiavenato teve enorme êxito editorial e influenciou gerações de estudantes brasileiros.
+
+**3. O pós-revisionismo (anos 1990 em diante).** A pesquisa em arquivos diplomáticos brasileiros, argentinos, paraguaios e **britânicos** desmontou a tese central do revisionismo. **Francisco Doratioto**, em *Maldita guerra* (2002), mostrou que: **(i)** não há documentação que indique instigação britânica — ao contrário, a Inglaterra estava em crise diplomática com o Brasil na véspera do conflito (a **Questão Christie**, que rompeu relações em 1863) e via a guerra com desagrado, pois ela desorganizava o comércio; **(ii)** as causas foram **regionais e platinas**, ligadas à disputa por hegemonia na Bacia do Prata, à instabilidade uruguaia e ao cálculo — equivocado — de Solano López, que apostou numa aliança com os federalistas argentinos que nunca se concretizou; **(iii)** o Paraguai não era a potência industrial idealizada, e o regime dos López era autoritário e personalista; **(iv)** os números de mortalidade foram exagerados, e as estimativas demográficas mais consistentes apontam entre 15% e 20% da população, não os 70% ou 90% de certas versões [@doratioto2002].
+
+Outros trabalhos ampliaram o quadro: **Wilma Peres Costa** analisou como a guerra transformou o Exército e, através dele, minou o Império — a "espada de Dâmocles" que pendeu sobre a monarquia [@costa1996]; **Ricardo Salles** examinou a relação entre escravidão, recrutamento e cidadania no exército brasileiro [@salles1990].
+
+**Por que essas versões divergem tanto?** Porque cada uma responde a um presente distinto. A versão patriótica servia à construção da identidade nacional e à valorização das Forças Armadas num país que precisava de heróis fundadores. O revisionismo nasceu sob as **ditaduras militares** latino-americanas e no auge da crítica ao imperialismo: acusar a Inglaterra e denunciar as Forças Armadas era, simultaneamente, análise histórica e intervenção política — e é significativo que o livro de Chiavenato tenha sido publicado em **1979**, ainda sob censura. O pós-revisionismo veio com a **redemocratização**, com o acesso pleno a arquivos antes fechados (inclusive paraguaios e britânicos) e com a integração acadêmica regional que o **Mercosul** favoreceu, permitindo pesquisa conjunta entre historiadores dos quatro países.
+
+::: {.callout-warning title="O que sobrou de cada versão"}
+Nenhuma das três foi integralmente descartada — e essa é justamente a lição:
+
+- **Da versão patriótica**, sobrou pouco: a caracterização de López como agressor inicial (ele de fato atacou primeiro Mato Grosso e depois a Argentina neutra) e a constatação da capacidade militar brasileira.
+- **Do revisionismo**, sobrou a denúncia da **brutalidade** do conflito, especialmente na fase final; a atenção ao **endividamento** externo do Brasil junto a bancos ingleses **durante e depois** da guerra (que é real, embora não seja causa); e o deslocamento do olhar para as vítimas.
+- **Do pós-revisionismo**, sobrou o essencial hoje aceito: causas **regionais**, protagonismo dos Estados platinos, números revistos e recusa de idealizações.
+
+A tese do "genocídio encomendado por Londres" não se sustenta documentalmente. Mas repare: recusá-la **não** significa absolver o Império brasileiro, que conduziu uma campanha final de extrema violência contra uma população já dizimada. Distinguir "quem começou" de "como se travou" é uma exigência elementar de rigor.
+:::
+
+**E a proclamação da República?** Aqui o debate historiográfico é menos áspero, e a peça central é *Os bestializados*, de **José Murilo de Carvalho** (1987). Partindo da frase de Aristides Lobo, ele investigou a relação entre o povo do Rio de Janeiro e a nova República e concluiu que a população não era apática por natureza: ela estava **excluída** de um sistema político que não a chamava a participar — o eleitorado após a Lei Saraiva era inferior a 1% da população (@sec-segundo-reinado) — e desenvolvia formas próprias de ação, como a **Revolta da Vacina** (1904), quando o mesmo "povo bestializado" encheu as ruas contra uma medida que atingia diretamente sua vida [@carvalho1987]. A República, conclui ele, foi feita **para** o povo sem o povo, e por isso nasceu como uma "**República que não foi**" — a promessa de cidadania adiada que atravessaria todo o século XX (@sec-republica-velha).
+
+## Resumo do capítulo {#sec-resumo}
+
+- **Contexto:** disputa pela **Bacia do Prata** — os rios eram a única via de acesso ao interior e ao **Mato Grosso**. O Brasil intervinha regularmente no Uruguai (apoio aos **colorados**) e combatera **Rosas** em 1852.
+- **Paraguai:** regime autoritário e estatista de **Francia** e dos **López**; investimento estatal em ferrovia, telégrafo e fundição, sem dívida externa — mas **não** uma potência industrial, como sugere a idealização revisionista.
+- **Estopim:** intervenção brasileira no **Uruguai** (1864) → apreensão do vapor **Marquês de Olinda** e invasão do **Mato Grosso** por Solano López → invasão de **Corrientes** (Argentina neutra) → **Tratado da Tríplice Aliança** (1º de maio de **1865**).
+- **Fases:** ofensiva paraguaia (1864–65) → **Riachuelo** (11 de junho de 1865), que dá aos aliados o domínio dos rios → derrota aliada em **Curupaiti** (1866) → cerco e queda de **Humaitá** (1868) e tomada de **Assunção** (1869) → **campanha das cordilheiras** e morte de **Solano López** em **Cerro Corá** (1º de março de **1870**).
+- **Custos:** Paraguai com **15% a 20%** da população morta (estimativas atuais), perda territorial e dívida; Brasil com cerca de **50 mil mortos** (a maioria por **doenças**) e multiplicação da dívida externa inglesa.
+- **Voluntários da Pátria:** grande parte da tropa veio de **recrutamento forçado**, de escravizados enviados por senhores em lugar dos filhos e de **alforrias em troca de serviço militar** — sem contrapartida em direitos ao fim da guerra.
+- **Questão militar:** Exército sai da guerra prestigiado, positivista e politizado; **Clube Militar** (1887), presidido por **Deodoro**.
+- **Questão religiosa:** conflito entre **padroado** e o *Syllabus* de **Pio IX** sobre a maçonaria; bispos **D. Vital** e **D. Macedo Costa** condenados a quatro anos de prisão (**1874**), anistiados em 1875 — a Igreja se afasta do trono.
+- **Questão servil:** o Império atrasa a abolição, perde os abolicionistas e, ao promulgar a **Lei Áurea sem indenização** (1888), perde os escravistas ("republicanos de 13 de maio").
+- **Questão federativa:** **Manifesto Republicano** (1870, "somos da América e queremos ser americanos") e **Convenção de Itu** (1873), que funda o **PRP**; **positivismo** de Comte difundido por **Benjamin Constant** na Escola Militar ("Ordem e Progresso"). Some-se a **questão sucessória**: ninguém queria o terceiro reinado com **Isabel** e o conde d'Eu.
+- **15 de novembro de 1889:** **Deodoro** derruba o gabinete de **Ouro Preto** sem intenção inicial de proclamar a República; civis republicanos (**Quintino Bocaiúva**, **Rui Barbosa**, **Aristides Lobo**) e oficiais positivistas convertem o ato em proclamação. Nenhuma resistência, nenhuma morte, nenhuma participação popular.
+- **Historiografia da guerra:** versão **patriótica** tradicional (López tirano, Brasil agredido) × **revisionismo** dos anos 1970 (**Chiavenato**, **Pomer**: imperialismo inglês e "genocídio") × **pós-revisionismo** (**Doratioto**: causas **platinas**, sem instigação britânica, números revistos, Paraguai não idealizado). Sobre 1889, **José Murilo de Carvalho** (*Os bestializados*): povo excluído, não apático — República feita **para** o povo sem o povo.
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Domine: (1) a lógica geopolítica da **Bacia do Prata**; (2) a cadeia do estopim, do Uruguai a Corrientes; (3) as quatro fases e os custos; (4) as **três historiografias** da guerra — o tema mais cobrado; (5) as **quatro questões** que derrubaram o Império, mais a sucessória; (6) o significado de "povo bestializado".
+:::
+
+**1.** Explique as causas da Guerra do Paraguai a partir da disputa pela Bacia do Prata.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**A geografia como ponto de partida.** Os rios **Paraná**, **Paraguai** e **Uruguai** eram a única via prática de acesso ao interior do continente. Para o **Brasil**, a questão era concreta: a província do **Mato Grosso** só se alcançava com rapidez pelos rios. Para a **Argentina**, controlar a foz em Buenos Aires era a chave de sua hegemonia regional. Para o **Paraguai**, país sem litoral, a navegação livre era condição de sobrevivência econômica.
+
+**O jogo de forças.** Desde a Independência, o Império interveio sistematicamente na região: anexou a **Cisplatina** e a perdeu (1828), combateu **Rosas** (1852) e apoiou repetidamente os **colorados** uruguaios contra os **blancos**. O Paraguai dos **López** buscava afirmar-se como potência regional e obter saída marítima segura, aliando-se aos blancos uruguaios e aos federalistas argentinos.
+
+**A cadeia do estopim (1864–65):**
+
+1. o Brasil **intervém militarmente no Uruguai** para apoiar os colorados de Venancio Flores contra o governo blanco, aliado de López;
+2. Solano López interpreta a intervenção como ruptura do equilíbrio regional, adverte formalmente o Império e, sem resposta, **apreende o vapor Marquês de Olinda** e **invade o Mato Grosso** (novembro/dezembro de 1864);
+3. para atacar o Rio Grande do Sul, pede passagem pelo território argentino de **Corrientes**; a Argentina recusa e ele **invade** assim mesmo (1865), convertendo um vizinho neutro em inimigo — o erro estratégico decisivo, baseado na aposta equivocada de que os federalistas argentinos se rebelariam a seu favor;
+4. em **1º de maio de 1865**, Brasil, Argentina e Uruguai assinam o **Tratado da Tríplice Aliança**.
+
+**Síntese.** As causas foram **regionais**: hegemonia platina, instabilidade uruguaia, navegação fluvial e cálculo político equivocado de López. É esse quadro, documentado em arquivos dos quatro países, que sustenta a leitura pós-revisionista de **Doratioto** contra a tese da instigação britânica [@doratioto2002].
+:::
+
+**2.** Compare as três interpretações historiográficas da Guerra do Paraguai.
+
+::: {.callout-tip collapse="true" title="Solução"}
+| | **Patriótica** (até anos 1960) | **Revisionista** (1960–80) | **Pós-revisionista** (1990–) |
+|---|---|---|---|
+| **Causa** | agressão de um **tirano** megalômano | **imperialismo inglês** destruindo o único país autônomo | disputa **regional** pela hegemonia platina |
+| **Solano López** | déspota sanguinário | herói anti-imperialista | governante autoritário com cálculo estratégico errado |
+| **Paraguai** | país atrasado e militarista | potência industrial autônoma, sem dívida | economia agrária com investimento estatal notável, mas não industrializada |
+| **Brasil** | defensor agredido | instrumento de Londres | potência regional com projeto próprio |
+| **Mortes no Paraguai** | pouco discutidas | até 70–90% da população | **15% a 20%** (estimativas demográficas) |
+| **Autores** | historiografia militar e oficial | **Chiavenato**, **Pomer** | **Doratioto**, **Wilma Peres Costa**, **Salles** |
+
+: Três leituras da mesma guerra. {#tbl-historiografias-paraguai}
+
+**O que sustenta o pós-revisionismo.** A pesquisa em arquivos diplomáticos dos quatro países e da Grã-Bretanha não encontrou documentação de instigação britânica. Ao contrário: em 1863, a **Questão Christie** havia levado Brasil e Inglaterra a **romper relações diplomáticas**, restabelecidas só em 1865; e a guerra desorganizava o comércio regional, contrariando interesses britânicos. Os números de mortalidade foram revistos com base em recenseamentos e estimativas demográficas [@doratioto2002].
+
+**O que sobrevive de cada uma.** Da patriótica, o fato de que López atacou primeiro (Mato Grosso e depois a Argentina neutra). Do revisionismo, a denúncia da brutalidade da fase final e a atenção ao **endividamento** externo brasileiro junto a bancos ingleses — real, embora consequência e não causa. Do pós-revisionismo, o quadro hoje aceito.
+
+**Por que divergiram.** Cada versão respondeu ao seu presente: a patriótica construía identidade nacional e prestígio militar; a revisionista nasceu sob as ditaduras e no auge da crítica ao imperialismo, com função simultaneamente analítica e política; a pós-revisionista veio com a redemocratização, o acesso pleno a arquivos e a cooperação acadêmica regional favorecida pelo **Mercosul** (@sec-correntes-historiograficas).
+:::
+
+**3.** Como a Guerra do Paraguai contribuiu para a queda do Império?
+
+::: {.callout-tip collapse="true" title="Solução"}
+De cinco maneiras encadeadas.
+
+1. **Transformou o Exército.** Antes desprestigiado e mal pago, saiu da guerra como **instituição nacional**, com identidade, heróis, hierarquia consolidada e consciência corporativa. Seus oficiais, formados na **Escola Militar da Praia Vermelha** sob influência do **positivismo** de **Benjamin Constant**, passaram a se considerar agentes do progresso e a desprezar os políticos civis ("casacas").
+2. **Criou o conflito direto com o poder civil.** Nos anos 1880, o governo proibiu manifestações políticas de militares pela imprensa; a reação corporativa levou à criação do **Clube Militar** (1887), presidido por **Deodoro**, e à derrota política do governo. A partir daí havia uma corporação armada com agenda própria.
+3. **Aproximou o Exército da causa abolicionista.** Milhares de escravizados foram alforriados para lutar. Terminada a guerra, tornou-se moralmente insustentável para os oficiais empregar a tropa na **captura de fugitivos** — daí a solicitação do Clube Militar em 1887, que retirou da escravidão sua última garantia de força (@sec-escravidao-abolicao-imigracao).
+4. **Arruinou as finanças.** A dívida externa junto a bancos ingleses multiplicou-se, e cinco anos de mobilização consumiram recursos que teriam ido para obras, escolas e imigração. O aperto fiscal alimentou o descontentamento das províncias mais ricas.
+5. **Desgastou o regime na opinião pública.** Cinco anos de recrutamento forçado — a "caçada humana" nos sertões — e 50 mil mortos, a maioria por doenças, produziram ressentimento profundo nas camadas populares e nas elites provinciais que forneceram os contingentes.
+
+**Síntese.** A guerra não derrubou o Império diretamente: ela **criou o ator** que o derrubaria e **retirou** do regime recursos, prestígio e capacidade de repressão. É por isso que **Wilma Peres Costa** intitulou seu estudo *A espada de Dâmocles*: depois de 1870, uma força pendia permanentemente sobre a monarquia [@costa1996].
+:::
+
+**4.** Explique a **questão religiosa** e por que ela foi grave para a monarquia.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**A raiz institucional: o padroado.** Pela Constituição de 1824, o catolicismo era religião oficial, o imperador **nomeava bispos** e pagava o clero, e nenhum documento papal tinha validade no Brasil sem o **beneplácito** imperial (@sec-primeiro-reinado). O padre era, na prática, funcionário público.
+
+**O conflito.** Em 1864, **Pio IX** publicou a encíclica *Quanta Cura* e o *Syllabus*, condenando o liberalismo e proibindo a católicos pertencerem à **maçonaria**. No Brasil, porém, maçonaria e Igreja estavam entrelaçadas: muitos padres eram maçons, e a maçonaria era o espaço de sociabilidade da elite política — o próprio **Visconde do Rio Branco**, presidente do Conselho de Ministros, era grão-mestre.
+
+**Os fatos.** Em 1872, os bispos **D. Vital Maria** (Olinda) e **D. Antônio de Macedo Costa** (Belém), formados na tradição ultramontana europeia, decidiram aplicar a determinação papal e puniram irmandades religiosas que não expulsassem seus membros maçons. O governo, invocando a falta de beneplácito para a bula, ordenou a suspensão das punições. Os bispos recusaram, alegando obediência superior ao papa. Foram processados e, em **1874**, **condenados a quatro anos de prisão com trabalhos forçados**. A pena foi comutada e, em **1875**, veio a anistia, negociada com Roma.
+
+**Por que foi grave.**
+
+1. **Perda de legitimação simbólica.** Num país oficialmente católico, a Igreja era a principal fonte de sacralidade do trono. Prender bispos por obedecerem ao papa foi um desastre de imagem.
+2. **Afastamento duradouro.** O episódio ativou no clero brasileiro a corrente **ultramontana**, favorável à **separação entre Igreja e Estado** — o que fez com que boa parte da Igreja recebesse a República sem lamentar a queda da monarquia. A separação viria já em **1890**.
+3. **Exposição da contradição do regime.** O caso mostrou que o Império não podia ser ao mesmo tempo Estado liberal e guardião de uma religião oficial cujo chefe estava fora do país.
+4. **Efeito acumulativo.** Junto com as questões **militar**, **servil** e **federativa**, a religiosa retirou mais um dos apoios do trono. Em 1889, não restava nenhum.
+:::
+
+**5.** (Estilo ENEM) Leia o texto.
+
+> "O povo assistiu àquilo bestializado, atônito, surpreso, sem conhecimento do que significava. Muitos acreditaram sinceramente estar vendo uma parada."
+>
+> — Aristides Lobo, correspondência ao *Diário Popular* de São Paulo, novembro de 1889.
+
+Segundo a interpretação historiográfica consolidada por José Murilo de Carvalho, essa passividade popular diante da Proclamação da República deve ser compreendida como
+
+**(a)** prova da satisfação da população com a monarquia, que resistiu ativamente ao novo regime.
+**(b)** resultado da exclusão política da maioria, alijada de um sistema eleitoral que abrangia menos de 1% da população.
+**(c)** consequência do analfabetismo, que impedia qualquer forma de ação política das camadas populares.
+**(d)** demonstração da apatia inerente ao povo brasileiro, incapaz de mobilização coletiva.
+**(e)** efeito da repressão militar exercida por Deodoro da Fonseca, que impediu manifestações nas ruas.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (b).** Em *Os bestializados: o Rio de Janeiro e a República que não foi*, **José Murilo de Carvalho** parte exatamente dessa frase para investigar a relação entre a população carioca e o novo regime. Sua conclusão: a passividade não era traço de caráter, mas resultado de **exclusão institucional**. Depois da **Lei Saraiva** (1881), que exigiu alfabetização, o eleitorado brasileiro caiu para menos de **1%** da população (@sec-segundo-reinado); a política era assunto de uma elite restrita, e a mudança de regime, uma disputa entre frações dessa elite. Não havia canais para participar [@carvalho1987].
+
+A prova decisiva do argumento é o contraexemplo: quando uma medida governamental atingiu diretamente a vida cotidiana — a vacinação obrigatória e as demolições da reforma urbana —, o mesmo "povo bestializado" produziu a **Revolta da Vacina** (1904), com barricadas e dias de combate no Rio. Ou seja: **excluído, sim; apático, não**.
+
+Por que as demais estão erradas: **(a)** não houve resistência alguma à Proclamação — nem monarquista, nem popular; **(c)** o analfabetismo explica a exclusão **eleitoral**, mas não a ausência de ação política, como a Revolta da Vacina demonstra; **(d)** atribuir apatia "inerente" a um povo é justamente a explicação essencialista que Carvalho **refuta**; **(e)** não houve repressão a manifestações populares, porque não houve manifestações — o episódio transcorreu sem um único morto.
+:::
+
+**6.** Por que o Império caiu sem que ninguém o defendesse?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque, entre 1870 e 1889, **cada um dos grupos que o sustentavam rompeu com ele**:
+
+1. **O Exército** (questão militar). Saiu da Guerra do Paraguai prestigiado, politizado e influenciado pelo **positivismo** de Benjamin Constant. O conflito com o governo civil nos anos 1880 levou à criação do **Clube Militar** (1887) e converteu a corporação em ator político autônomo e hostil aos "casacas".
+2. **A Igreja** (questão religiosa). O episódio de **1872–75**, com dois bispos condenados a quatro anos de prisão por obedecerem ao papa, afastou o clero do trono e fortaleceu a corrente favorável à separação entre Igreja e Estado.
+3. **Os grandes escravistas** (questão servil). Os proprietários do Vale do Paraíba, base social histórica do regime, romperam quando a **Lei Áurea** (1888) aboliu a escravidão **sem indenização**; muitos aderiram à República por despeito — os "**republicanos de 13 de maio**".
+4. **Os abolicionistas e as classes urbanas.** Haviam se distanciado antes, cansados de duas décadas de emancipação gradual e insuficiente.
+5. **O café do Oeste Paulista** (questão federativa). O setor mais rico e dinâmico do país pagava impostos elevados e não escolhia sequer o presidente da própria província. Publicou o **Manifesto Republicano** (1870) e fundou o **PRP** na **Convenção de Itu** (1873), com programa federalista.
+6. **A sucessão.** D. Pedro II estava doente e sem herdeiro homem. A princesa **Isabel**, casada com o **conde d'Eu**, francês e impopular, era rejeitada por boa parte da elite política, mesmo monarquista. Ninguém queria o **terceiro reinado** — e vários preferiram deixar cair.
+
+**A conclusão metodológica.** A República de 1889 não venceu por força própria: foi um **golpe militar** conduzido por poucas centenas de homens, sem batalha, sem morte e sem participação popular. O que explica seu êxito é a **ausência de defensores** do regime anterior. Esse método — inventariar quem apoia um governo e verificar quem restou no momento crítico — é o mais útil para analisar quedas de regime, e você o aplicará de novo em **1930**, **1945** e **1964** (@sec-era-vargas; @sec-ditadura-militar).
+:::
+
+**7.** (Estilo vestibular — dissertativa) Discuta a afirmação: "a Guerra do Paraguai foi um genocídio promovido pelo imperialismo inglês".
+
+::: {.callout-tip collapse="true" title="Solução"}
+A afirmação combina **duas** teses distintas, que precisam ser avaliadas separadamente.
+
+**Tese 1 — instigação britânica. Não se sustenta.** É a leitura **revisionista** dos anos 1970, difundida sobretudo por **Chiavenato** e **Pomer**, segundo a qual a Inglaterra teria armado a guerra para destruir o único país sul-americano com desenvolvimento autônomo [@chiavenato1979; @pomer1980]. A pesquisa posterior em arquivos diplomáticos dos quatro países e da própria Grã-Bretanha não encontrou documentação de instigação. Ao contrário: **(i)** Brasil e Inglaterra estavam com **relações diplomáticas rompidas** desde a **Questão Christie** (1863), restabelecidas apenas em 1865; **(ii)** a guerra desorganizou o comércio regional, contrariando interesses britânicos; **(iii)** o Paraguai não era a potência industrial autônoma que a tese pressupõe — sua economia era agrária, com investimento estatal notável para a região, mas sem industrialização; **(iv)** as causas documentadas são **platinas**: disputa por hegemonia na Bacia do Prata, instabilidade uruguaia e o cálculo equivocado de Solano López ao invadir a Argentina neutra [@doratioto2002].
+
+**O que é verdadeiro no argumento econômico.** O Brasil **financiou** a guerra com empréstimos de bancos ingleses e saiu dela muito mais endividado, o que aprofundou sua dependência financeira. Mas isso é **consequência** do conflito, não sua causa — e confundir as duas coisas é um erro clássico de raciocínio histórico.
+
+**Tese 2 — a brutalidade e o termo "genocídio".** Aqui a discussão é mais séria. É fato documentado que a **fase final** da guerra (1869–70) foi conduzida como campanha de perseguição contra um país já derrotado, com população masculina adulta praticamente extinta e crianças e velhos nas fileiras paraguaias. As estimativas atuais apontam **15% a 20%** da população morta — proporção catastrófica, ainda que muito inferior aos 70% ou 90% de versões antigas.
+
+Quanto ao termo: "**genocídio**" tem definição jurídica precisa (intenção de destruir, no todo ou em parte, um grupo nacional, étnico, racial ou religioso **como tal**), e a maioria dos historiadores considera que ela não se aplica adequadamente ao caso, ainda que a violência tenha sido extrema. Trata-se de uma discussão conceitual legítima, distinta da questão das causas.
+
+**Síntese possível.** A afirmação do enunciado é **falsa quanto às causas** e **exagerada, mas apoiada em fatos reais, quanto às consequências**. Rejeitar a tese do imperialismo inglês **não** absolve o Império brasileiro, que conduziu uma guerra de aniquilação contra uma população já dizimada. Distinguir "quem começou" de "como se travou" é exigência elementar de rigor — e o caso é um excelente exemplo de como uma tese historiográfica pode ser **politicamente atraente** (denunciar o imperialismo, sob a ditadura, em 1979) e ainda assim **documentalmente insustentável** (@sec-correntes-historiograficas).
+:::
+
+**8.** Qual foi o papel dos negros escravizados e libertos na Guerra do Paraguai, e o que aconteceu com eles depois?
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Como foram mobilizados.** Apesar do nome, os **Voluntários da Pátria** foram formados, em sua maior parte, por meios coercitivos:
+
+1. **recrutamento forçado** de homens livres pobres nos sertões — prática conhecida na época como "caçada humana";
+2. envio de **escravizados pelos senhores** em substituição a filhos ou parentes convocados;
+3. **compra de escravizados pelo Estado**, seguida de alforria condicionada ao serviço militar — milhares foram libertados justamente para ir à frente de batalha.
+
+Estima-se que algo entre **10% e 20%** do contingente brasileiro fosse composto por negros libertos ou alforriados para a guerra, além de negros já livres recrutados à força [@salles1990].
+
+**O que aconteceu depois.**
+
+- **Não houve contrapartida em direitos.** Os sobreviventes voltaram sem terra, sem pensão adequada e, em muitos casos, sem os documentos que comprovassem sua alforria, o que gerou litígios e até tentativas de reescravização.
+- **A promessa de reconhecimento social não se cumpriu.** Homens que haviam combatido pelo país continuaram excluídos do voto (pela renda e, depois de 1881, pela alfabetização) e do acesso à terra (pela **Lei de Terras** de 1850).
+
+**A consequência histórica mais importante.** Ter comandado soldados negros na guerra tornou moralmente insustentável, para os oficiais, empregar o Exército na **captura de escravizados fugidos** depois dela. Foi essa recusa — formalizada pelo pedido do **Clube Militar** em **1887** — que retirou da escravidão sua última garantia de força e tornou incontroláveis as fugas em massa de 1887–88 (@sec-escravidao-abolicao-imigracao). Ou seja: o serviço militar de homens negros contribuiu decisivamente para o fim da escravidão, **sem** que eles tenham sido incluídos na ordem que se seguiu.
+
+**O padrão a reter.** É o mesmo que atravessa todo este volume: negros e pobres são convocados para as guerras das elites — nas guerras de independência (@sec-independencia), entre os lanceiros negros da Farroupilha (@sec-periodo-regencial) e nos Voluntários da Pátria — e sistematicamente **excluídos dos acordos que as encerram**. Reconhecer esse padrão é uma das chaves interpretativas da história do Brasil imperial.
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- DORATIOTO, Francisco. *Maldita guerra: nova história da Guerra do Paraguai* [@doratioto2002]. A obra de referência atual; leia ao menos a introdução, em que ele discute as historiografias anteriores.
+- CARVALHO, José Murilo de. *Os bestializados: o Rio de Janeiro e a República que não foi* [@carvalho1987]. Curto, brilhante e indispensável para entender a cidadania brasileira.
+- COSTA, Wilma Peres. *A espada de Dâmocles: o Exército, a Guerra do Paraguai e a crise do Império* [@costa1996]. A melhor análise do impacto militar da guerra sobre a política.
+- CHIAVENATO, J. J. *Genocídio americano* [@chiavenato1979]. Leia-o **junto** com Doratioto: comparar os dois é um exercício de crítica historiográfica que vale por um curso inteiro.
+
+**Fontes primárias**
+
+- **Manifesto Republicano** (1870) [@manifestoRepublicano1870]. Curto e direto; a frase "somos da América e queremos ser americanos" resume o programa.
+- **Tratado da Tríplice Aliança** (1865), cujas cláusulas territoriais e de indenização foram mantidas em segredo e depois divulgadas pela imprensa inglesa, provocando escândalo internacional.
+- Fotografias de guerra de **Bate & Cia.** e as gravuras da revista *Semana Ilustrada* — uma das primeiras guerras documentadas fotograficamente na América do Sul.
+
+**Filmes e documentários**
+
+- *Netto perde sua alma* (2001) e *Guerra do Paraguai* (série documental da TV Brasil/Canal Curta).
+- *Cerro Corá* (1978), produção paraguaia sobre Solano López: assista como **documento da memória nacional paraguaia**, onde López é herói e mártir — e compare com o modo como a guerra é lembrada no Brasil. O contraste entre as duas memórias é, ele mesmo, um objeto de estudo (@sec-memoria-patrimonio).
