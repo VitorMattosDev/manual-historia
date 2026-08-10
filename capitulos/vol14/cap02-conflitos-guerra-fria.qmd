@@ -1,5 +1,469 @@
 # Conflitos da Guerra Fria: Coreia, Cuba e Vietnã {#sec-conflitos-guerra-fria}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Na noite de 10 de agosto de 1945, no Pentágono, dois jovens oficiais americanos receberam trinta minutos para resolver um problema urgente: o Japão estava prestes a se render, tropas soviéticas já entravam na Coreia pelo norte e era preciso propor imediatamente uma linha que dividisse a ocupação do país entre americanos e soviéticos. **Dean Rusk** e **Charles Bonesteel** não tinham à mão nenhum mapa detalhado da Coreia — usaram um mapa de parede da *National Geographic*. Procuraram uma linha que deixasse Seul do lado americano e traçaram o **paralelo 38**. Nenhum dos dois falava coreano; nenhum coreano foi consultado; nenhum dos dois imaginava que aquela linha durasse mais que alguns meses. Ela existe até hoje, é a fronteira mais militarizada do planeta, e por causa dela morreriam cerca de três milhões de pessoas em três anos. Este capítulo trata das guerras em que a Guerra Fria deixou de ser fria — e do fato, incômodo e central, de que quase todas elas foram travadas em países que não escolheram participar dela.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- definir **guerra por procuração** e explicar por que ela foi a forma característica do conflito bipolar;
+- narrar a **Guerra da Coreia** (1950–1953), suas fases e suas consequências duradouras;
+- explicar a **Revolução Cubana** (1959), sua radicalização e a resposta norte-americana;
+- reconstituir a **Crise dos Mísseis** (1962) e entender por que ela foi o momento mais perigoso do século XX;
+- narrar a **Guerra do Vietnã**, da Indochina francesa à queda de Saigon (1975);
+- avaliar os **custos humanos** desses conflitos e seus efeitos sobre as sociedades envolvidas;
+- situar o **Brasil** nesses episódios, da Crise dos Mísseis à intervenção na República Dominicana;
+- comparar interpretações historiográficas sobre a Coreia, sobre a tomada de decisão em 1962 e sobre a derrota americana no Vietnã.
 :::
+
+## Guerras por procuração {#sec-guerras-por-procuracao}
+
+::: {.callout-note title="Conceito: guerra por procuração"}
+**Guerra por procuração** (do inglês *proxy war*) é o conflito armado em que as grandes potências não lutam diretamente entre si, mas sustentam lados opostos de uma guerra travada por terceiros — fornecendo armas, dinheiro, treinamento, assessores militares, cobertura diplomática e, às vezes, tropas.
+
+O mecanismo tem uma lógica clara: permite disputar posições estratégicas **sem** acionar o risco de escalada nuclear, porque nenhuma superpotência é formalmente atacada. O custo dessa engenhosidade é transferido integralmente para as populações locais.
+:::
+
+Há um detalhe que a expressão "por procuração" tende a esconder, e que a historiografia recente insiste em corrigir: os conflitos quase nunca foram **criados** pelas superpotências. Na Coreia, no Vietnã, em Angola, na Nicarágua, havia disputas próprias — coloniais, sociais, nacionais, étnicas — que **antecediam** a Guerra Fria e que teriam existido sem ela. O que a bipolaridade fez foi **capturá-las**: converter conflitos locais em episódios de uma disputa mundial, multiplicando seus recursos, sua duração e sua letalidade. Chamar os vietnamitas ou os coreanos de "procuradores" de outros é, além de impreciso, uma forma de negar-lhes projeto próprio.
+
+## A Guerra da Coreia (1950–1953) {#sec-guerra-da-coreia}
+
+A Coreia fora colônia **japonesa** desde 1910. Com a derrota do Japão em 1945, o país foi ocupado por soviéticos ao norte e americanos ao sul do paralelo 38, e em 1948 cada zona produziu um Estado: a **República Popular Democrática da Coreia** (norte), sob **Kim Il-sung**, e a **República da Coreia** (sul), sob **Syngman Rhee**. Ambos os governos reivindicavam a totalidade da península e ambos praticavam repressão violenta contra suas oposições — no sul, a revolta da ilha de **Jeju** (1948–49) foi esmagada com dezenas de milhares de mortos, episódio só oficialmente reconhecido pela Coreia do Sul em 2003.
+
+Em **25 de junho de 1950**, tropas do norte cruzaram o paralelo 38 em ofensiva geral, com aval prévio — dado a contragosto e depois de repetidos pedidos de Kim — de Stálin e de Mao.
+
+As fases da guerra:
+
+1. **Ofensiva do norte** (junho–agosto de 1950): as tropas norte-coreanas tomam Seul em três dias e empurram o sul até o **perímetro de Pusan**, um pequeno canto no extremo sudeste. O Conselho de Segurança da ONU autoriza uma força multinacional — o que só foi possível porque a **URSS boicotava** as reuniões, em protesto contra a recusa em dar à China comunista o assento chinês; foi o único momento da Guerra Fria em que a ONU autorizou uma guerra contra um aliado soviético.
+2. **Contraofensiva da ONU** (setembro–novembro de 1950): o general **Douglas MacArthur** executa o desembarque anfíbio de **Inchon**, atrás das linhas inimigas, e reverte a guerra em semanas. As tropas da ONU não param no paralelo 38: avançam até o **rio Yalu**, na fronteira com a China.
+3. **Intervenção chinesa** (novembro de 1950 – 1951): Pequim, que havia advertido publicamente que não toleraria tropas americanas em sua fronteira, envia centenas de milhares de "voluntários populares". A frente é empurrada de volta ao sul; Seul muda de mãos quatro vezes. MacArthur propõe bombardear a China, inclusive com armas nucleares, e é **demitido** por Truman em abril de 1951 — episódio decisivo de afirmação do controle civil sobre os militares.
+4. **Impasse e armistício** (1951–1953): a frente estabiliza-se aproximadamente onde a guerra começara. Em **27 de julho de 1953**, assina-se em **Panmunjom** um **armistício** — isto é, uma suspensão de hostilidades, **não** um tratado de paz. Do ponto de vista jurídico, a Guerra da Coreia nunca terminou.
+
+::: {#fig-guerra-coreia}
+
+```{.tikz}
+%%| filename: fig-guerra-coreia
+%%| alt: Mapa esquemático das quatro fases da Guerra da Coreia, com a ofensiva do norte, o desembarque de Inchon, o avanço até o Yalu e a intervenção chinesa.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \draw[thick, manualgray] (0,0) rectangle (3.2,7.2);
+  \node[above, text=manualgray] at (1.6,7.25) {\textbf{CHINA} $|$ rio \textbf{Yalu}};
+  \draw[very thick, manualgray, dashed] (0,6.9) -- (3.2,6.9);
+  \draw[very thick, manualblue, dashed] (0,4.0) -- (3.2,4.0);
+  \node[right, text=manualblue, font=\scriptsize\bfseries] at (3.25,4.0) {paralelo 38};
+  \node[text=manualgray] at (1.6,5.5) {PYONGYANG $\bullet$};
+  \node[text=manualgray] at (1.6,3.1) {$\bullet$ SEUL};
+  \node[text=manualgray] at (2.3,0.6) {PUSAN $\bullet$};
+
+  \draw[vetor, very thick, manualred] (1.6,4.3) -- (1.9,1.1);
+  \node[align=left, text=manualred, text width=2.6cm] at (-1.9,2.4)
+    {\textbf{1. jun.--ago. 1950}\\ ofensiva do Norte;\\ Sul reduzido ao\\ \textbf{perímetro de Pusan}};
+
+  \draw[vetor, very thick, manualblue] (4.9,2.8) -- (2.6,3.0);
+  \node[align=left, text=manualblue, text width=2.9cm] at (6.4,2.6)
+    {\textbf{2. set. 1950}\\ desembarque de\\ \textbf{Inchon} (MacArthur);\\ ONU reverte a guerra};
+
+  \draw[vetor, very thick, manualblue] (0.7,3.6) -- (0.7,6.6);
+  \node[align=left, text=manualblue, text width=2.6cm] at (-1.9,5.6)
+    {\textbf{3. out.--nov. 1950}\\ avanço da ONU\\ até o \textbf{rio Yalu}};
+
+  \draw[vetor, very thick, manualred] (2.6,6.6) -- (2.6,4.4);
+  \node[align=left, text=manualred, text width=2.9cm] at (6.4,5.6)
+    {\textbf{4. nov. 1950}\\ entrada da \textbf{China}\\ ($\sim$1 milhão de\\ ``voluntários'');\\ frente recua};
+
+  \node[draw, thick, rounded corners, fill=manualgray!16, align=center, text width=12.4cm] at (2.2,-1.5)
+    {\textbf{5. 1951--53:} a frente estabiliza-se \textbf{onde a guerra começou}. \textbf{Armistício de Panmunjom} (27 de julho de 1953): fim dos combates,\\ mas \textbf{nenhum tratado de paz} --- juridicamente, a guerra não terminou. Saldo: cerca de \textbf{3 milhões de mortos}, a maioria civis,\\ e uma península dividida por uma \textbf{zona desmilitarizada} que é hoje a fronteira mais militarizada do mundo.};
+\end{tikzpicture}
+```
+
+As quatro fases da Guerra da Coreia — e o retorno ao ponto de partida.
+:::
+
+**As consequências foram desproporcionais ao resultado aparente.** Cerca de **três milhões de mortos**, a maioria civis; bombardeios americanos que destruíram praticamente todas as cidades do norte; a península permanentemente dividida. E, na escala global:
+
+- **militarização da contenção**: o documento **NSC-68**, aprovado em 1950, triplicou o orçamento militar americano e transformou uma doutrina sobretudo política e econômica numa estratégia militar permanente;
+- **rearmamento alemão** e criação de uma estrutura militar integrada na OTAN;
+- **recuperação econômica do Japão**, que se tornou a base logística da guerra e recebeu encomendas maciças — a Guerra da Coreia é um dos fatores decisivos do "milagre japonês";
+- **consolidação da China** como potência: seu exército enfrentara o dos Estados Unidos e não fora derrotado, o que lhe deu enorme prestígio no mundo descolonizado;
+- **extensão da lógica bipolar à Ásia inteira**, incluindo o compromisso americano crescente com a Indochina.
+
+## A Revolução Cubana (1959) {#sec-revolucao-cubana}
+
+Cuba tornara-se independente da Espanha em 1898 — para logo cair sob tutela americana. A **Emenda Platt** (1901), imposta como condição para a retirada das tropas dos EUA, autorizava Washington a intervir na ilha e a manter a base de **Guantánamo**. Ao longo da primeira metade do século XX, cerca de três quartos da terra arável pertenciam a estrangeiros ou a grandes proprietários, o açúcar dominava a economia, e Havana era conhecida como o cassino e o bordel do Caribe. Em 1952, **Fulgencio Batista** deu um golpe e instalou uma ditadura corrupta e violenta, sustentada por Washington.
+
+A resistência começou mal: o assalto ao **Quartel Moncada**, em 26 de julho de 1953, fracassou, e **Fidel Castro** foi preso — em seu julgamento, pronunciou a autodefesa que ficaria conhecida pela frase final, "a história me absolverá". Anistiado e exilado no México, voltou em dezembro de 1956 a bordo do iate **Granma** com 81 homens, entre eles seu irmão **Raúl**, o argentino **Ernesto "Che" Guevara** e **Camilo Cienfuegos**. Sobreviveram poucos, que se refugiaram na **Sierra Maestra**. De lá, em dois anos, a guerrilha cresceu, articulou-se com o movimento urbano e com o descontentamento generalizado. Batista fugiu na noite de **31 de dezembro de 1958**; em **1º de janeiro de 1959**, os revolucionários entraram em Havana.
+
+**A radicalização.** O movimento de 1959 não era, em sua origem, comunista — reunia liberais, nacionalistas, católicos e comunistas em torno de um programa de soberania nacional, reforma agrária e fim da corrupção. A conversão ao socialismo foi um **processo**, e sua explicação é objeto de debate historiográfico:
+
+- **maio de 1959**: a **Lei de Reforma Agrária** expropria latifúndios, atingindo pesadamente empresas americanas;
+- **1960**: nacionalização de refinarias que se recusaram a processar petróleo soviético; em seguida, de bancos e de empresas estrangeiras. Os EUA cortam a cota de compra de açúcar e decretam **embargo comercial**; a URSS passa a comprar o açúcar cubano e a fornecer petróleo;
+- **janeiro de 1961**: rompimento de relações diplomáticas com Washington;
+- **abril de 1961**: a invasão da **Baía dos Porcos**, com 1.400 exilados treinados e armados pela CIA, é derrotada em três dias — humilhação para o recém-empossado presidente **John F. Kennedy** e enorme vitória política para Fidel, que dois dias antes declarara o **caráter socialista** da revolução;
+- **janeiro de 1962**: Cuba é **expulsa da OEA**, sob pressão americana.
+
+::: {.callout-warning title="Balanço de Cuba: por que não há consenso"}
+Este é um tema em que a paixão política costuma substituir a análise, então vale separar o que é verificável do que é avaliação.
+
+**Conquistas documentadas por organismos internacionais:** erradicação do analfabetismo em campanha nacional (1961); sistema universal de saúde com indicadores — mortalidade infantil, expectativa de vida, médicos por habitante — comparáveis ou superiores aos de países ricos e muito superiores aos de seus vizinhos caribenhos; fim da segregação racial legal; grande redução da desigualdade rural; formação médica exportada para dezenas de países.
+
+**Custos igualmente documentados:** regime de **partido único** desde 1965, sem eleições competitivas; imprensa estatal e ausência de liberdade de expressão e associação; encarceramento de dissidentes, incluindo os **fuzilamentos e julgamentos sumários** de 1959–61; perseguição a homossexuais nas **UMAP** (1965–68), pela qual Fidel Castro assumiu responsabilidade pessoal em 2010; e êxodo contínuo — Camarioca (1965), Mariel (1980), a crise dos balseiros (1994) —, com mais de um milhão de cubanos deixando a ilha.
+
+**A variável que atravessa tudo:** o **embargo** americano, em vigor desde 1962 e condenado anualmente pela Assembleia Geral da ONU por maiorias esmagadoras, teve efeito econômico severo. Quanto do desempenho cubano se explica pelo embargo e quanto pelo modelo econômico é, precisamente, o ponto em disputa — e não há como resolvê-lo apenas com dados, porque a pergunta é contrafactual.
+
+**O que se espera de você numa prova:** apresentar conquistas e custos com os melhores argumentos de cada lado, sem transformar a resposta em militância nem em denúncia.
+:::
+
+## A Crise dos Mísseis (outubro de 1962) {#sec-crise-dos-misseis}
+
+Depois da Baía dos Porcos, Cuba tinha razões concretas para temer nova invasão, e a URSS, uma oportunidade estratégica: os EUA haviam instalado mísseis **Júpiter** na **Turquia**, a poucos minutos de voo de Moscou, e Khruschev quis igualar o incômodo. Em 1962, começou a instalação secreta de mísseis nucleares de alcance médio em Cuba, a 150 quilômetros da Flórida.
+
+Em **14 de outubro**, um avião espião U-2 fotografou as rampas em construção. Seguiram-se **treze dias** em que a humanidade chegou mais perto de uma guerra nuclear do que em qualquer outro momento conhecido.
+
+::: {#fig-crise-misseis}
+
+```{.tikz}
+%%| filename: fig-crise-misseis
+%%| alt: Fluxograma dos treze dias da Crise dos Mísseis de Cuba, das fotografias do U-2 ao acordo público e secreto.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \node[draw, very thick, rounded corners, fill=manualred!18, align=center, text width=12.6cm, text=manualred] (t) at (0,3.5)
+    {\textbf{14 de outubro de 1962} --- fotos de um U-2 revelam rampas de mísseis soviéticos de alcance médio em Cuba};
+
+  \node[draw, thick, rounded corners, fill=manualgray!16, align=center, text width=3.9cm] (o1) at (-4.5,1.7)
+    {\textbf{Opção A: invadir}\\ defendida por parte\\ do Estado-Maior};
+  \node[draw, thick, rounded corners, fill=manualgray!16, align=center, text width=3.9cm] (o2) at (0,1.7)
+    {\textbf{Opção B: bombardear}\\ ataque aéreo às rampas};
+  \node[draw, thick, rounded corners, fill=manualgreen!18, align=center, text width=3.9cm] (o3) at (4.5,1.7)
+    {\textbf{Opção C: bloqueio}\\ ``quarentena'' naval\\ \textbf{escolhida} por Kennedy};
+
+  \node[draw, thick, rounded corners, fill=manualyellow!24, align=center, text width=12.6cm] (d) at (0,0.1)
+    {\textbf{22 de outubro:} Kennedy anuncia o bloqueio em rede nacional de TV $\cdot$ \textbf{24 de outubro:} navios soviéticos param antes da linha\\ \textbf{27 de outubro (``sábado negro''):} um U-2 é abatido sobre Cuba; no submarino \textbf{B-59}, o oficial \textbf{Arkhipov} veta o uso de um torpedo nuclear};
+
+  \node[draw, thick, rounded corners, fill=manualblue!16, align=center, text width=6.1cm] (p) at (-3.3,-2.0)
+    {\textbf{ACORDO PÚBLICO} (28 de outubro)\\ URSS retira os mísseis de Cuba\\ EUA se comprometem a \textbf{não invadir} a ilha};
+  \node[draw, thick, dashed, rounded corners, fill=manualblue!10, align=center, text width=6.1cm] (s) at (3.3,-2.0)
+    {\textbf{ACORDO SECRETO}\\ EUA retiram os mísseis \textbf{Júpiter} da \textbf{Turquia}\\ (revelado apenas décadas depois)};
+
+  \node[draw, dashed, rounded corners, fill=manualgreen!14, align=center, text width=12.6cm] at (0,-3.7)
+    {\textbf{Consequências:} ``telefone vermelho'' Washington--Moscou (1963) $\cdot$ Tratado de Proibição Parcial de Testes (1963) $\cdot$ queda de\\ Khruschev (1964) $\cdot$ Cuba, não consultada no acordo, aproxima-se ainda mais de Moscou $\cdot$ início da \textbf{distensão}};
+
+  \draw[vetor, thick, manualgray] (t) -- (o1); \draw[vetor, thick, manualgray] (t) -- (o2); \draw[vetor, thick, manualgreen] (t) -- (o3);
+  \draw[vetor, very thick, manualgreen] (o3) -- (d);
+  \draw[vetor, thick, manualblue] (d) -- (p); \draw[vetor, thick, manualblue] (d) -- (s);
+\end{tikzpicture}
+```
+
+Os treze dias de outubro de 1962: opções, decisão e desfecho.
+:::
+
+Kennedy rejeitou o ataque aéreo e a invasão, defendidos por parte do Estado-Maior, e optou por um **bloqueio naval** — chamado de "quarentena" porque bloqueio, em direito internacional, é ato de guerra. Anunciou-o em rede nacional em **22 de outubro** [@kennedy1962]. Navios soviéticos aproximaram-se da linha e pararam. Em **27 de outubro**, o dia mais perigoso, um U-2 foi abatido sobre Cuba, outro se perdeu sobre a Sibéria, e um submarino soviético cercado por cargas de profundidade americanas quase disparou um torpedo com ogiva nuclear — o lançamento exigia a concordância de três oficiais, e **Vassíli Arkhipov** recusou-a.
+
+Em **28 de outubro**, Khruschev anunciou a retirada dos mísseis. O acordo público previa o compromisso americano de não invadir Cuba; o acordo **secreto**, revelado apenas décadas depois, previa a retirada dos mísseis Júpiter da Turquia. Essa assimetria de informação teve um efeito histórico curioso: por décadas, a crise foi contada como uma vitória de firmeza americana, quando fora, na verdade, uma **troca negociada**.
+
+**As consequências.** Instalou-se o "telefone vermelho" entre Washington e Moscou (1963); assinou-se o Tratado de Proibição Parcial de Testes Nucleares (1963); Khruschev, enfraquecido, caiu em 1964; Cuba, que não fora consultada no acordo e ficou furiosa, tornou-se ainda mais dependente da URSS; e começou o período de **distensão** (*détente*).
+
+**E o Brasil?** No auge da crise, o governo **João Goulart** — que praticava a **Política Externa Independente**, mantendo relações com Cuba e com o bloco socialista sem romper o alinhamento ocidental — apoiou a "quarentena" na OEA, mas recusou-se a endossar a invasão e enviou a Havana o general Albino Silva com uma proposta de mediação, sugerindo a desnuclearização da ilha em troca de garantias. A iniciativa não prosperou, mas ilustra bem o espaço estreito de manobra que um país periférico podia ter — e o quanto essa autonomia irritava Washington, o que teria peso dois anos depois (@sec-ditadura-militar).
+
+## A Guerra do Vietnã {#sec-guerra-do-vietna}
+
+**O antecedente colonial.** O Vietnã integrava a **Indochina francesa** desde o século XIX (@sec-imperialismo). Durante a Segunda Guerra, foi ocupado pelo Japão, e a resistência coube ao **Vietminh**, frente nacionalista de direção comunista liderada por **Ho Chi Minh** (1890–1969). Em **2 de setembro de 1945**, em Hanói, Ho proclamou a independência com um texto que começa citando literalmente a Declaração de Independência dos Estados Unidos: "Todos os homens são criados iguais" [@hoChiMinh1945]. Era um gesto calculado — um apelo direto ao anticolonialismo que Washington professava. Não funcionou: os EUA apoiaram o retorno da França.
+
+**Primeira Guerra da Indochina (1946–1954).** Oito anos de guerra colonial, financiada em cerca de 80% pelos Estados Unidos em sua fase final. Terminou com a derrota francesa em **Dien Bien Phu** (maio de 1954), uma das mais retumbantes já sofridas por uma potência europeia num território colonial.
+
+**Os Acordos de Genebra (julho de 1954)** dividiram o país **provisoriamente** no **paralelo 17**, com eleições unificadoras previstas para 1956. As eleições nunca ocorreram: o governo do Sul, apoiado pelos EUA, recusou-se a realizá-las — e documentos americanos da época registram a avaliação de que Ho Chi Minh venceria com cerca de 80% dos votos. Uma divisão "provisória" tornou-se permanente, exatamente como na Coreia e na Alemanha.
+
+**A escalada americana.** No Sul, o governo autoritário e católico de **Ngo Dinh Diem**, num país de maioria budista, perdeu legitimidade — a imagem do monge **Thich Quang Duc** ateando fogo ao próprio corpo, em 1963, correu o mundo. Diem foi deposto e morto em novembro daquele ano, com conhecimento americano. Em 1960 formara-se no Sul a **Frente Nacional de Libertação** (chamada pelos adversários de **Vietcong**), guerrilha apoiada pelo Norte através da rede logística conhecida como **trilha Ho Chi Minh**.
+
+O pretexto para a intervenção direta veio em agosto de 1964, com o **incidente do Golfo de Tonkin** — um suposto ataque a destróieres americanos cuja versão oficial os **Documentos do Pentágono**, vazados em 1971, revelaram ser, no mínimo, gravemente distorcida [@pentagonPapers1971]. A **Resolução do Golfo de Tonkin** deu ao presidente **Lyndon Johnson** poderes de guerra sem declaração formal. Em 1965 chegaram as tropas de combate; o efetivo americano chegou a cerca de **540 mil homens** em 1969.
+
+::: {#fig-cronologia-vietna}
+
+```{.tikz}
+%%| filename: fig-cronologia-vietna
+%%| alt: Linha do tempo da Guerra do Vietnã, de 1945 a 1975, da declaração de independência à queda de Saigon.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \fill[manualgray!16, rounded corners] (0.3,-1.35) rectangle (4.4,-0.5);
+  \node[text=manualgray!40!black, font=\scriptsize\bfseries] at (2.35,-0.92) {guerra anticolonial (França)};
+  \fill[manualred!14, rounded corners] (4.6,-1.35) rectangle (11.2,-0.5);
+  \node[text=manualred, font=\scriptsize\bfseries] at (7.9,-0.92) {guerra americana};
+  \fill[manualgreen!16, rounded corners] (11.4,-1.35) rectangle (14.2,-0.5);
+  \node[text=manualgreen!45!black, font=\scriptsize\bfseries] at (12.8,-0.92) {retirada e fim};
+
+  \draw[eixo] (0,0) -- (14.4,0);
+  \node[eixo, gray] at (14.4,-0.4) {tempo (fora de escala)};
+
+  \node[ponto] at (0.8,0) {};
+  \node[below, align=center] at (0.8,-0.18) {\textbf{1945}};
+  \node[above, align=center, text=manualblue] at (0.8,0.2) {Ho Chi Minh\\ proclama a\\ \textbf{independência}};
+
+  \node[ponto] at (3.0,0) {};
+  \node[below, align=center] at (3.0,-0.18) {\textbf{1946--54}};
+  \node[above, align=center, text=manualgray!40!black] at (3.0,0.2) {guerra contra\\ a \textbf{França}};
+
+  \node[ponto] at (4.9,0) {};
+  \node[below, align=center] at (4.9,-0.18) {\textbf{1954}};
+  \node[above, align=center, text=manualred] at (4.9,0.2) {\textbf{Dien Bien Phu}\\ Genebra:\\ \textbf{paralelo 17}};
+
+  \node[ponto] at (6.7,0) {};
+  \node[below, align=center] at (6.7,-0.18) {\textbf{1960--63}};
+  \node[above, align=center, text=manualblue] at (6.7,0.2) {\textbf{FNL} (Vietcong)\\ crise budista\\ queda de Diem};
+
+  \node[ponto] at (8.4,0) {};
+  \node[below, align=center] at (8.4,-0.18) {\textbf{1964--65}};
+  \node[above, align=center, text=manualred] at (8.4,0.2) {\textbf{Golfo de Tonkin}\\ entrada de tropas\\ dos \textbf{EUA}};
+
+  \node[ponto] at (10.2,0) {};
+  \node[below, align=center] at (10.2,-0.18) {\textbf{1968}};
+  \node[above, align=center, text=manualred] at (10.2,0.2) {\textbf{Ofensiva Tet}\\ \textbf{My Lai}\\ virada da opinião\\ pública};
+
+  \node[ponto] at (12.0,0) {};
+  \node[below, align=center] at (12.0,-0.18) {\textbf{1969--73}};
+  \node[above, align=center, text=manualyellow!55!black] at (12.0,0.2) {``vietnamização''\\ bombardeio do\\ \textbf{Camboja}\\ \textbf{Paris} (1973)};
+
+  \node[ponto] at (13.8,0) {};
+  \node[below, align=center] at (13.8,-0.18) {\textbf{1975}};
+  \node[above, align=center, text=manualgreen!45!black] at (13.8,0.2) {\textbf{queda de}\\ \textbf{Saigon}\\ (30 de abril)};
+\end{tikzpicture}
+```
+
+Trinta anos de guerra no Vietnã, de 1945 a 1975.
+:::
+
+**Por que a maior potência militar do mundo perdeu.** Não foi por falta de poder de fogo: os EUA despejaram no Sudeste Asiático mais tonelagem de bombas do que todos os beligerantes da Segunda Guerra Mundial somados, além de **napalm** e de cerca de 75 milhões de litros de desfolhantes, entre os quais o **agente laranja**, cujos efeitos sobre a saúde e sobre nascimentos persistem em várias gerações. As razões da derrota foram outras:
+
+1. **Assimetria de objetivos.** Para o Norte e para a FNL, era uma guerra de **libertação nacional** e de sobrevivência, com disposição a absorver perdas ilimitadas. Para os EUA, era uma guerra **distante e limitada**, cujo custo político interno crescia a cada mês.
+2. **Guerra de guerrilha em terreno adverso.** Selva, túneis, mistura com a população civil — condições em que a superioridade tecnológica rende pouco e em que operações de "busca e destruição" produzem, sobretudo, mortos civis e novos recrutas para o inimigo.
+3. **Ilegitimidade do governo aliado.** Sucessivos governos de Saigon foram corruptos, autoritários e vistos como criação estrangeira.
+4. **A frente interna.** A **Ofensiva Tet** (janeiro de 1968) foi uma derrota **militar** para o Norte, com perdas enormes, mas uma vitória **política** decisiva: ao atacar simultaneamente mais de cem cidades, inclusive a embaixada americana em Saigon, desmentiu de forma espetacular a versão oficial de que a guerra estava ganha. Somada ao massacre de **My Lai** (março de 1968, mais de 500 civis desarmados mortos por soldados americanos, revelado em 1969), à convocação obrigatória e às imagens televisionadas, produziu o maior movimento antiguerra da história dos EUA.
+
+**O fim.** Nixon adotou a "**vietnamização**" — transferir o combate terrestre aos sul-vietnamitas enquanto se intensificavam os bombardeios, inclusive sobre o **Camboja** e o **Laos**, secretamente e sem autorização do Congresso. Os **Acordos de Paris** (janeiro de 1973) permitiram a retirada americana; sem ela, o Sul não resistiu. Em **30 de abril de 1975**, tanques norte-vietnamitas entraram em Saigon, rebatizada Cidade de Ho Chi Minh, e helicópteros evacuaram às pressas o teto da embaixada americana — uma das imagens mais reproduzidas do século.
+
+**O saldo.** Cerca de **58 mil** militares americanos mortos; estimativas de **2 a 3 milhões** de vietnamitas, a maioria civis; centenas de milhares de laosianos e cambojanos. No Camboja, a desestabilização provocada pela guerra e pelos bombardeios contribuiu para a ascensão do **Khmer Vermelho**, que entre 1975 e 1979 matou cerca de **1,7 milhão de pessoas** — aproximadamente um quarto da população — no que é reconhecido como genocídio, até ser derrubado por uma invasão **vietnamita**, a que a China respondeu atacando o Vietnã em 1979. Comunistas lutando contra comunistas: nada demonstra melhor o quanto o esquema dos "dois blocos" é insuficiente para explicar o período.
+
+Nos Estados Unidos, a derrota produziu a "**síndrome do Vietnã**" — resistência duradoura da opinião pública a intervenções terrestres prolongadas — e uma crise de confiança nas instituições agravada pelos Documentos do Pentágono e pelo escândalo de **Watergate**, que derrubou Nixon em 1974.
+
+## A América Latina entra na conta: a República Dominicana (1965) {#sec-republica-dominicana}
+
+A doutrina que justificava intervenções na Ásia valia igualmente para o hemisfério americano — e aqui o Brasil deixou de ser espectador. Em abril de 1965, na **República Dominicana**, um levante militar-popular tentou restaurar no poder **Juan Bosch**, presidente eleito em 1962 e deposto por golpe em 1963. Alegando risco de "uma segunda Cuba", o presidente Johnson enviou mais de 20 mil fuzileiros. Para dar aparência multilateral à operação, a OEA criou a **Força Interamericana de Paz**, cujo comando coube ao general brasileiro **Hugo Panasco Alvim**; o Brasil, já sob a ditadura militar, enviou cerca de 1.100 soldados — a **FAIBRAS**.
+
+O episódio consolidou a chamada **Doutrina Johnson**: os EUA se arrogavam o direito de intervir em qualquer país do hemisfério onde considerassem haver risco comunista, com ou sem golpe consumado. Para o regime brasileiro, participar era demonstrar alinhamento e reivindicar o papel de potência regional; para boa parte da América Latina, foi a confirmação de que a soberania dos países da região era condicional (@sec-america-latina-ditaduras).
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+**1. A Coreia: agressão externa ou guerra civil?** A narrativa consagrada durante décadas no Ocidente é a da **agressão**: em 25 de junho de 1950, o Norte comunista invadiu o Sul, e a ONU reagiu a uma violação clara do direito internacional. **Bruce Cumings** propôs uma releitura que deslocou o debate: a guerra teria começado não em 1950, mas em **1945**, como conflito **civil e social** — entre coreanos que haviam colaborado com a ocupação japonesa e agora ocupavam postos no aparato do Sul, e movimentos camponeses e comitês populares que reivindicavam reforma agrária e independência plena. Nessa leitura, a invasão de junho de 1950 é a **internacionalização** de uma guerra civil já em curso, com massacres relevantes praticados dos dois lados desde 1948, incluindo o de Jeju [@cumings2011].
+
+A controvérsia é acesa e as fontes soviéticas abertas nos anos 1990 acrescentaram um dado que os críticos de Cumings consideram decisivo: os telegramas mostram que Kim Il-sung **pediu repetidas vezes** autorização a Stálin para invadir e só agiu quando a obteve, o que reforça a dimensão de decisão deliberada e internacional. A posição mais equilibrada hoje reconhece **as duas camadas**: raízes sociais e coloniais profundamente locais, e uma decisão de invasão tomada em concertação com Moscou e Pequim. É um bom exemplo de como uma tese revisionista pode ser parcialmente incorporada e parcialmente corrigida.
+
+**2. Como se decide em uma crise? O caso de 1962.** A Crise dos Mísseis produziu um dos livros mais influentes das ciências humanas do século XX, e ele interessa aqui por razões de **método**. Em *Essence of Decision*, **Graham Allison** analisou o mesmo episódio por três lentes [@allisonZelikow1999]:
+
+- o **modelo do ator racional**, que trata o Estado como um indivíduo único que pondera custos e benefícios — a lente do senso comum e da maior parte dos manuais;
+- o **modelo do processo organizacional**, que mostra os Estados agindo por rotinas e procedimentos padronizados de suas burocracias, muitas vezes com resultados que ninguém escolheu (foi uma rotina soviética de camuflagem, por exemplo, que tornou as rampas identificáveis nas fotos);
+- o **modelo da política burocrática**, que revela a decisão como resultado de **negociação entre atores internos** com interesses distintos — Estado-Maior, CIA, Departamento de Estado, o irmão do presidente.
+
+A lição vale muito além de 1962: quando um livro didático diz "os Estados Unidos decidiram", está usando uma abreviação. **Estados não decidem; pessoas e organizações decidem**, sob pressão de tempo, com informação incompleta e interesses conflitantes. Aplique essa desconfiança a qualquer frase que atribua vontade única a um país inteiro.
+
+**3. Cuba: quando a revolução se tornou comunista?** Uma corrente sustenta que Fidel Castro era comunista desde antes de 1959 e ocultou-o taticamente até consolidar o poder; cita a formação marxista de Raúl e de Che, a rapidez da estatização e a aliança com o partido comunista cubano. Outra sustenta que a revolução era **nacionalista** e reformista, e que a radicalização resultou da **dinâmica do conflito** com Washington: reforma agrária, retaliação americana, nacionalização, embargo, aproximação soviética, invasão, alinhamento definitivo — cada passo produzindo o seguinte. Uma terceira, hoje influente, recusa a alternativa: Fidel teria sido, acima de tudo, um **nacionalista pragmático** para quem a aliança soviética foi o meio disponível de sustentar a independência frente aos EUA, e o socialismo, tanto convicção quanto instrumento. Note o que está em jogo: se a radicalização foi causada, a política americana é corresponsável; se foi programada desde o início, ela foi apenas reativa. Não é uma disputa erudita — é uma disputa sobre responsabilidade.
+
+**4. O Vietnã: derrota inevitável ou vitória desperdiçada?** A interpretação predominante entre historiadores é a da **guerra impossível de vencer** nos termos em que foi travada: um objetivo político inviável (sustentar um governo sem legitimidade), contra um adversário com motivação nacionalista superior, em terreno favorável à guerrilha, sem que a superioridade tecnológica pudesse ser convertida em controle político do território [@karnow1997]. Uma corrente **revisionista**, forte em círculos militares americanos, sustenta o contrário: depois de Tet, a guerrilha estava destroçada, e a estratégia adotada a partir de 1969 vinha funcionando quando o Congresso cortou os recursos — a guerra teria sido perdida em Washington, não em Saigon.
+
+Um subdebate valeu décadas de discussão: **a televisão fez os EUA perderem a guerra?** A tese, popular, atribui a derrota à cobertura jornalística que teria minado a moral interna. A pesquisa acadêmica sobre a imprensa da época a contradiz em grande parte: a cobertura foi majoritariamente favorável à guerra até 1967 e passou a ser crítica **depois** que setores da própria elite política americana romperam com o conflito. Os meios de comunicação, nesse caso, **acompanharam** a mudança de opinião mais do que a produziram — e a tese contrária serviu, em boa medida, para deslocar a responsabilidade da derrota das decisões políticas para os jornalistas.
+
+**5. A ausência mais importante: os vietnamitas.** Historiografias recentes, baseadas em arquivos vietnamitas, insistem num ponto simples e frequentemente esquecido: a guerra costuma ser contada como um episódio da história **americana**, com os vietnamitas no papel de cenário. Estudos sobre as divisões internas em Hanói, sobre a autonomia da FNL em relação ao Norte, sobre as tensões com a China e sobre a experiência dos camponeses recolocam os vietnamitas como **sujeitos** de sua própria guerra — exatamente o movimento que **Westad** propôs para a Guerra Fria em geral [@westad2005]. Sempre que você ler sobre um conflito no Sul global e todos os agentes com nome e projeto forem estrangeiros, desconfie: falta a metade dos sujeitos.
+
+## Resumo do capítulo {#sec-resumo}
+
+- **Guerra por procuração:** as superpotências sustentam lados opostos sem se enfrentarem, evitando a escalada nuclear e transferindo o custo às populações locais. Os conflitos, porém, **preexistiam** à Guerra Fria; a bipolaridade os **capturou** e ampliou.
+- **Coreia:** divisão no **paralelo 38** improvisada em 1945; dois Estados em 1948 (**Kim Il-sung** e **Syngman Rhee**). Invasão do Norte em **25/6/1950**; ONU autoriza reação (possível apenas pelo **boicote soviético** ao Conselho de Segurança); **Inchon** e avanço até o **Yalu**; entrada da **China** (nov. 1950); demissão de **MacArthur** (1951); **armistício de Panmunjom** (27/7/1953), **sem tratado de paz**. Cerca de **3 milhões de mortos**. Consequências: **NSC-68** e militarização da contenção, rearmamento alemão, "milagre" japonês, prestígio chinês.
+- **Cuba:** Emenda **Platt** (1901) e Guantánamo; ditadura de **Batista** (1952); **Moncada** (1953), **Granma** (1956), **Sierra Maestra**; vitória em **1º/1/1959**. Radicalização: reforma agrária (1959), nacionalizações e **embargo** (1960–62), **Baía dos Porcos** (abril de 1961), declaração do caráter socialista, expulsão da **OEA** (1962). Conquistas em saúde e educação **e** partido único, censura e repressão a dissidentes e homossexuais — apresente as duas colunas.
+- **Crise dos Mísseis (14–28 de outubro de 1962):** mísseis soviéticos em Cuba respondem aos **Júpiter** americanos na **Turquia** e ao temor de nova invasão. Kennedy escolhe o **bloqueio naval**; o "sábado negro" (27/10) inclui o veto de **Arkhipov** ao torpedo nuclear. Acordo **público** (retirada dos mísseis + compromisso de não invadir Cuba) e **secreto** (retirada dos Júpiter da Turquia). Consequências: telefone vermelho, tratado de testes (1963), queda de Khruschev, início da **distensão**. O Brasil de **Jango** apoiou a quarentena, recusou a invasão e tentou mediar.
+- **Vietnã:** **Ho Chi Minh** proclama a independência em **2/9/1945** citando a Declaração americana; guerra contra a **França** (1946–54) e **Dien Bien Phu**; **Genebra** (1954) divide no **paralelo 17** com eleições nunca realizadas; **Diem** e a crise budista; **FNL/Vietcong** (1960) e a **trilha Ho Chi Minh**; **Golfo de Tonkin** (1964) e a entrada dos EUA; pico de **540 mil** soldados (1969); **Tet** (1968) — derrota militar e vitória política do Norte — e **My Lai**; **vietnamização**, bombardeio do **Camboja**; **Paris** (1973); **queda de Saigon em 30/4/1975**. Saldo: ~58 mil americanos e 2–3 milhões de vietnamitas; **agente laranja**; **Khmer Vermelho** no Camboja (1,7 milhão de mortos) e a guerra Vietnã–Camboja–China (1978–79).
+- **Brasil:** participação na **Força Interamericana de Paz** na **República Dominicana** (1965), sob comando do general **Hugo Panasco Alvim** — consolidação da **Doutrina Johnson** e do alinhamento da ditadura brasileira.
+- **Historiografia:** Coreia como agressão × como **guerra civil** iniciada em 1945 (**Cumings**), com síntese possível entre as duas camadas; os **três modelos de decisão** de **Allison** (ator racional, processo organizacional, política burocrática); Cuba entre a radicalização **programada** e a **causada** pelo conflito com os EUA; Vietnã entre a derrota **inevitável** e a "vitória desperdiçada", com a tese da culpa da televisão contestada pela pesquisa; e a exigência, comum a tudo isso, de devolver **agência** aos sujeitos locais.
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Domine: (1) o conceito de guerra por procuração e seus limites; (2) as quatro fases da Coreia e por que a ONU pôde autorizar a intervenção; (3) as etapas da radicalização cubana; (4) a cronologia e o acordo duplo de outubro de 1962; (5) as quatro razões da derrota americana no Vietnã e o paradoxo de Tet; (6) a participação brasileira em 1965; (7) os debates historiográficos de cada caso.
+:::
+
+**1.** Explique o conceito de **guerra por procuração** e por que ele deve ser usado com cuidado.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**O conceito.** Guerra por procuração é aquela em que potências rivais sustentam lados opostos de um conflito travado por terceiros, fornecendo armas, financiamento, treinamento, assessoria militar e apoio diplomático, sem se enfrentarem diretamente. Na Guerra Fria, foi a forma **característica** do confronto, por uma razão específica: o **equilíbrio nuclear** tornava proibitivamente arriscado o choque direto entre EUA e URSS (@sec-ordem-bipolar), de modo que a disputa se deslocou para onde ela podia ocorrer sem risco existencial para as superpotências — a periferia do sistema.
+
+**Exemplos:** Coreia (1950–53), Vietnã (1955–75), Angola e Moçambique (1975–91), Afeganistão (1979–89), Nicarágua e El Salvador nos anos 1980, Etiópia e Somália no Chifre da África.
+
+**Por que o conceito exige cuidado.** Porque, tomado ao pé da letra, ele apaga os sujeitos locais e sugere que os conflitos foram **inventados** pelas superpotências. Não foram:
+
+- no **Vietnã**, havia uma guerra de independência contra a França desde 1946, e antes disso um movimento anticolonial de décadas;
+- na **Coreia**, havia um conflito social e político entre colaboradores do domínio japonês e movimentos camponeses desde 1945 [@cumings2011];
+- em **Angola**, havia três movimentos de libertação com bases sociais, étnicas e regionais distintas, formados na luta contra Portugal (@sec-descolonizacao-africa-asia).
+
+**A formulação precisa.** A Guerra Fria **não criou** esses conflitos — ela os **capturou**. Ao inseri-los na disputa bipolar, forneceu-lhes armamento moderno em abundância, financiamento externo praticamente ilimitado e razões para que nenhum lado aceitasse negociar, o que **prolongou** e **agravou** guerras que, sozinhas, provavelmente teriam sido mais curtas e menos letais. E os atores locais não foram peças passivas: frequentemente **usaram** a rivalidade das superpotências, trocando de patrono ou leiloando alinhamento em troca de recursos.
+
+**A consequência analítica.** Perceba a assimetria moral do arranjo: ele foi projetado para que o risco recaísse sobre quem não decidia. Enquanto Washington e Moscou preservavam suas populações, cerca de vinte milhões de pessoas morreram nas guerras periféricas do período.
+:::
+
+**2.** Descreva as fases da **Guerra da Coreia** e explique por que a ONU pôde autorizar a intervenção.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Antecedente.** Colônia japonesa desde 1910, a Coreia foi dividida em 1945 pelo **paralelo 38**, linha improvisada por dois oficiais americanos para separar as zonas de ocupação. Em 1948, formaram-se dois Estados hostis, ambos reivindicando toda a península: o Norte de **Kim Il-sung** e o Sul de **Syngman Rhee**.
+
+**As quatro fases.**
+
+1. **Ofensiva do Norte** (jun.–ago. 1950): invasão em 25 de junho, queda de Seul em três dias, forças do Sul confinadas ao **perímetro de Pusan**.
+2. **Contraofensiva da ONU** (set.–nov. 1950): desembarque anfíbio em **Inchon**, comandado por **MacArthur**, corta as linhas do Norte; as tropas da ONU avançam além do paralelo 38 até o **rio Yalu**, na fronteira chinesa — decisão que transformou uma guerra de contenção numa guerra de reunificação pela força.
+3. **Intervenção chinesa** (nov. 1950 – 1951): Pequim, que advertira publicamente, envia cerca de um milhão de "voluntários populares"; a frente é empurrada para o sul e Seul troca de mãos quatro vezes. MacArthur pede autorização para bombardear a China, inclusive com armas nucleares, e é **demitido por Truman** em abril de 1951.
+4. **Impasse e armistício** (1951–53): guerra de posições em torno do paralelo 38; **armistício de Panmunjom** em 27 de julho de 1953, sem tratado de paz.
+
+**Por que a ONU pôde autorizar.** Esta é a parte mais cobrada. O Conselho de Segurança tem cinco membros permanentes com poder de **veto**, e a URSS certamente vetaria qualquer resolução contra a Coreia do Norte. Ocorre que, desde janeiro de 1950, a URSS **boicotava** as sessões do Conselho, em protesto contra a manutenção do assento chinês com o governo nacionalista de Taiwan em vez da República Popular. Ausente, não vetou. Foi o **único** caso, em toda a Guerra Fria, em que a ONU autorizou o uso da força contra um Estado aliado de Moscou — e a URSS jamais repetiu o erro, voltando imediatamente ao Conselho.
+
+**As consequências.** Cerca de **3 milhões de mortos**, a maioria civis; a península permanentemente dividida, com armistício e não paz; o documento **NSC-68**, que triplicou o gasto militar americano e militarizou a contenção; o rearmamento da Alemanha ocidental; a recuperação econômica do **Japão**, base logística do esforço de guerra; e o prestígio internacional da **China**, cujo exército enfrentara os EUA sem ser derrotado.
+:::
+
+**3.** Explique a **Revolução Cubana** e o processo de sua radicalização.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**As causas.** Cuba independizou-se da Espanha em 1898 sob tutela americana: a **Emenda Platt** (1901) autorizava intervenção dos EUA e garantia a base de **Guantánamo**. Economia monocultora de açúcar, com a maior parte da terra e dos serviços em mãos estrangeiras; desigualdade rural extrema; Havana como polo de cassinos e turismo sexual controlado em parte pela máfia americana; e, desde 1952, a ditadura corrupta e violenta de **Fulgencio Batista**, apoiada por Washington.
+
+**O processo revolucionário.** Assalto ao **Quartel Moncada** (26 de julho de 1953), fracassado, seguido da prisão de **Fidel Castro** e de sua autodefesa ("a história me absolverá"); anistia e exílio no México; retorno no iate **Granma** (dezembro de 1956) com 81 homens, entre eles **Raúl Castro**, **Che Guevara** e **Camilo Cienfuegos**; guerrilha na **Sierra Maestra**, combinada com sabotagem urbana, greves e crescente isolamento de Batista, que perdeu inclusive o apoio americano no último ano. Batista fugiu em 31 de dezembro de 1958; a entrada em Havana ocorreu em **1º de janeiro de 1959**.
+
+**A radicalização, passo a passo.** O movimento não era comunista em 1959: reunia liberais, nacionalistas, católicos e comunistas em torno de soberania, reforma agrária e fim da corrupção. A conversão ocorreu em cadeia:
+
+1. **maio de 1959** — Lei de Reforma Agrária expropria grandes propriedades, muitas de empresas americanas;
+2. **1960** — os EUA cortam a cota de compra do açúcar; Cuba compra petróleo soviético; refinarias americanas se recusam a processá-lo e são nacionalizadas; seguem-se nacionalizações gerais e o **embargo**;
+3. **janeiro de 1961** — rompimento de relações diplomáticas;
+4. **abril de 1961** — invasão da **Baía dos Porcos** por exilados armados pela CIA, derrotada em três dias; dois dias antes, Fidel proclamara o **caráter socialista** da revolução;
+5. **1962** — expulsão da **OEA** e alinhamento pleno com Moscou.
+
+**As duas leituras.** Para uns, Fidel era comunista desde o início e ocultou-o por tática. Para outros, a radicalização foi **produzida pela dinâmica do conflito** com os EUA: cada retaliação americana empurrou Cuba um passo adiante. Uma terceira posição, hoje influente, descreve Fidel como **nacionalista pragmático** para quem a aliança soviética foi o meio de sustentar a independência. Note por que a disputa importa: ela define se a política americana **causou** ou apenas **reagiu** ao alinhamento cubano.
+
+**O impacto continental.** Cuba mostrou que era possível derrotar uma ditadura apoiada pelos EUA a 150 km da Flórida, e inspirou dezenas de movimentos guerrilheiros na América Latina — inclusive no Brasil (@sec-ditadura-militar) — segundo a teoria do **foco** guerrilheiro formulada por Che Guevara [@guevara1997]. A reação americana veio em duas frentes simultâneas: a **Aliança para o Progresso**, programa de ajuda econômica destinado a remover as causas sociais da revolução, e o apoio a golpes e a ditaduras anticomunistas em toda a região (@sec-america-latina-ditaduras).
+:::
+
+**4.** Reconstitua a **Crise dos Mísseis** de 1962 e explique por que ela é considerada o momento mais perigoso da Guerra Fria.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**As causas.** Duas, complementares. Do lado **cubano-soviético**: depois da Baía dos Porcos (1961), Havana esperava nova invasão americana, e Moscou queria protegê-la. Do lado **estratégico**: os EUA mantinham mísseis **Júpiter** na **Turquia** e na Itália, a poucos minutos de Moscou, enquanto a URSS não tinha nada equivalente perto do território americano. Khruschev buscava equalizar a ameaça a baixo custo.
+
+**A crise, dia a dia.**
+
+- **14 de outubro** — fotografias de um U-2 revelam rampas em construção;
+- **16–21 de outubro** — o comitê executivo do Conselho de Segurança Nacional debate três opções: invasão, ataque aéreo às rampas ou bloqueio naval. Kennedy escolhe o **bloqueio**, chamado de "**quarentena**" porque bloqueio é, juridicamente, ato de guerra;
+- **22 de outubro** — Kennedy anuncia a decisão em rede nacional de televisão [@kennedy1962];
+- **24 de outubro** — navios soviéticos param antes da linha de interceptação;
+- **27 de outubro ("sábado negro")** — um U-2 é abatido sobre Cuba e outro se perde sobre a Sibéria; cercado por cargas de profundidade, o submarino soviético **B-59** chega a considerar o disparo de um torpedo com ogiva nuclear, evitado pela recusa do oficial **Vassíli Arkhipov**;
+- **28 de outubro** — Khruschev anuncia a retirada dos mísseis.
+
+**O acordo duplo.** Publicamente: a URSS retira os mísseis e os EUA se comprometem a **não invadir Cuba**. Secretamente: os EUA retiram os **Júpiter da Turquia** em poucos meses — cláusula mantida em sigilo por décadas, o que fez a crise ser lembrada como vitória da firmeza americana quando fora, na verdade, uma **troca negociada**. Kennedy insistiu no sigilo justamente para não parecer ter cedido.
+
+**Por que foi o momento mais perigoso.**
+
+1. **Prazo curtíssimo e informação incompleta.** As decisões foram tomadas em dias, com ambos os lados ignorando fatos essenciais — os americanos não sabiam que já havia **ogivas táticas** na ilha, nem que comandantes soviéticos locais tinham margem de decisão sobre elas.
+2. **Risco de acidente.** O caso do B-59 e o abate do U-2 mostram como uma decisão local poderia ter disparado uma escalada que ninguém em Washington ou Moscou queria.
+3. **Escalada automática.** Os planos militares dos dois lados previam respostas nucleares maciças e praticamente automáticas — não havia opção intermediária pensada.
+
+**As consequências.** Telefone vermelho Washington–Moscou (1963); Tratado de Proibição Parcial de Testes Nucleares (1963); queda de Khruschev (1964), enfraquecido pela retirada; ressentimento cubano, por não ter sido consultado, e maior dependência de Moscou; e a abertura do período de **distensão**. O choque com o abismo produziu, paradoxalmente, o primeiro conjunto sério de mecanismos de controle da corrida armamentista.
+:::
+
+**5.** Por que os Estados Unidos, com esmagadora superioridade militar, perderam a **Guerra do Vietnã**?
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Descarte primeiro a explicação errada.** Não foi por falta de poder de fogo: os EUA lançaram sobre o Sudeste Asiático mais bombas do que todos os beligerantes da Segunda Guerra Mundial somados, além de napalm e cerca de 75 milhões de litros de desfolhantes, entre eles o **agente laranja**. A superioridade material foi total do começo ao fim.
+
+**As causas reais.**
+
+1. **Assimetria de objetivos e de disposição a sofrer perdas.** Para o Norte e para a FNL, tratava-se da independência nacional e da própria existência: qualquer custo era aceitável e o tempo jogava a favor. Para os EUA, era uma guerra limitada, distante e sem ameaça direta à segurança nacional — e cujo custo político interno crescia continuamente.
+2. **Natureza do conflito.** Guerrilha em selva e em terreno urbano, com túneis, sem frentes definidas e com combatentes indistinguíveis da população. Nessas condições, o poder de fogo produz sobretudo **mortos civis**, que por sua vez produzem novos recrutas para o adversário. As operações de "busca e destruição" mediam sucesso por contagem de corpos, indicador que incentivava exatamente o comportamento mais contraproducente.
+3. **Ilegitimidade do aliado.** Os governos de Saigon, de Diem em diante, eram corruptos, autoritários e percebidos como criações estrangeiras. Sem legitimidade local, não há vitória política possível — e a guerra era, essencialmente, política.
+4. **A frente interna americana.** A **Ofensiva Tet** (janeiro de 1968) é o caso clássico de derrota militar convertida em vitória política: o Norte sofreu perdas enormes e não conseguiu sustentar nenhuma posição, mas o ataque simultâneo a mais de cem cidades e à embaixada americana em Saigon **desmentiu publicamente** a versão oficial de que a guerra estava praticamente ganha. Somado ao massacre de **My Lai** (mais de 500 civis mortos, revelado em 1969), ao alistamento obrigatório e às imagens televisionadas, produziu o maior movimento antiguerra da história dos EUA.
+5. **Nacionalismo, não apenas comunismo.** Ho Chi Minh encarnava a luta contra o domínio estrangeiro — francês, japonês, americano — numa continuidade de séculos de resistência, inclusive à China. Combatê-lo como se fosse apenas um agente do comunismo internacional foi um erro de diagnóstico que tornou a estratégia inteira inadequada.
+
+**O fim e o saldo.** "Vietnamização" sob Nixon, com bombardeios ampliados e secretos sobre **Camboja** e **Laos**; **Acordos de Paris** (1973); queda de **Saigon** em 30 de abril de 1975. Cerca de 58 mil americanos e 2 a 3 milhões de vietnamitas mortos; efeitos do agente laranja por gerações; no Camboja, a desestabilização abriu caminho ao **Khmer Vermelho** (1,7 milhão de mortos), derrubado por invasão **vietnamita** em 1979, à qual a **China** respondeu atacando o Vietnã — comunistas contra comunistas, o que mostra o quanto o esquema dos dois blocos é insuficiente.
+
+**Nos EUA:** a "síndrome do Vietnã", os **Documentos do Pentágono** [@pentagonPapers1971] e **Watergate** produziram uma crise duradoura de confiança nas instituições e na palavra oficial.
+:::
+
+**6.** (Estilo ENEM) Leia o texto.
+
+> "Todos os homens são criados iguais. São dotados pelo Criador de certos direitos inalienáveis; entre eles, a vida, a liberdade e a busca da felicidade. Esta afirmação imortal foi feita na Declaração de Independência dos Estados Unidos da América em 1776. Em sentido mais amplo, significa: todos os povos da Terra são iguais desde o nascimento, todos os povos têm o direito de viver, de ser felizes e livres."
+>
+> — Ho Chi Minh, Declaração de Independência da República Democrática do Vietnã, 2 de setembro de 1945 [@hoChiMinh1945]
+
+A citação da Declaração de Independência norte-americana pelo líder vietnamita cumpre, no documento, a função de
+
+**(a)** anunciar a adoção do modelo político liberal norte-americano pelo novo Estado vietnamita.
+**(b)** legitimar a independência vietnamita perante os aliados vencedores da guerra, invocando princípios que eles próprios afirmavam defender.
+**(c)** recusar qualquer vínculo entre o movimento vietnamita e as tradições políticas ocidentais.
+**(d)** justificar a permanência temporária da administração colonial francesa até a realização de eleições.
+**(e)** condicionar a independência do Vietnã ao reconhecimento prévio pela União Soviética.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (b).** O gesto é de **estratégia retórica**, e é preciso ler o documento pensando em **quem era seu público**. Em setembro de 1945, o Vietnã acabara de sair da ocupação japonesa, a França pretendia retomar a colônia e os Estados Unidos emergiam como potência hegemônica, tendo proclamado na **Carta do Atlântico** (1941) o direito dos povos à autodeterminação. Ao abrir sua declaração com o texto fundador americano, Ho Chi Minh faz duas coisas ao mesmo tempo: reivindica para o povo vietnamita a **universalidade** dos princípios que os aliados diziam defender e coloca os EUA diante de uma escolha embaraçosa — apoiar a independência ou contradizer a própria doutrina. A ampliação que ele opera na frase seguinte é o núcleo do argumento: se "todos os homens" são iguais, então "todos os **povos**" são iguais, e o colonialismo é ilegítimo por definição.
+
+Por que as demais estão erradas:
+
+- **(a)** citar um documento não é adotar um regime. Ho Chi Minh dirigia o Vietminh, frente de direção comunista, e o Estado criado não seguiu o modelo liberal americano;
+- **(c)** é o inverso do que o texto faz: ele **invoca** deliberadamente a tradição política ocidental — a mesma da Revolução Francesa e da independência americana (@sec-revolucao-francesa; @sec-independencia-eua) — para voltá-la contra o colonialismo;
+- **(d)** a declaração proclama independência **imediata** e denuncia a dominação francesa; não há nela concessão de permanência;
+- **(e)** a URSS não é mencionada e, em 1945, praticamente não se envolvia na Indochina; o interlocutor visado eram os aliados ocidentais.
+
+**Observação histórica que a questão pede implicitamente.** A aposta **falhou**: os EUA apoiaram o retorno francês e, na década seguinte, financiaram até 80% do custo da guerra colonial. Esse fracasso é uma chave para entender a Guerra Fria no mundo descolonizado, onde o anticomunismo prevaleceu sistematicamente sobre o discurso anticolonial (@sec-descolonizacao-africa-asia).
+:::
+
+**7.** (Estilo vestibular) Explique o significado da participação brasileira na intervenção na **República Dominicana** (1965).
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Os fatos.** Em abril de 1965, oficiais nacionalistas e setores populares dominicanos se levantaram para restaurar no poder **Juan Bosch**, eleito em 1962 e deposto por golpe em 1963. Alegando risco de "uma segunda Cuba", o presidente **Lyndon Johnson** enviou mais de 20 mil fuzileiros navais. Para conferir aparência multilateral e legalidade regional à operação já em curso, a **OEA** criou a **Força Interamericana de Paz**, cujo comando militar coube ao general brasileiro **Hugo Panasco Alvim**. O Brasil, sob a ditadura instalada no ano anterior, enviou cerca de **1.100 soldados** (a **FAIBRAS**), o maior contingente latino-americano.
+
+**Os significados.**
+
+1. **Ruptura com a tradição diplomática brasileira.** O Brasil abandonou os princípios de **não intervenção** e **autodeterminação dos povos**, que orientaram sua diplomacia desde o Barão do Rio Branco e que a **Política Externa Independente** de Jânio Quadros e João Goulart havia levado ao ponto mais alto (@sec-republica-de-1946). O contraste com 1962, quando o Brasil recusara endossar a invasão de Cuba e tentara mediar, mede exatamente o que mudou com o golpe.
+2. **Alinhamento automático como política de Estado.** A ditadura brasileira adotou o alinhamento com Washington como diretriz, na expectativa de contrapartidas econômicas e de reconhecimento como **potência regional** — a doutrina das "fronteiras ideológicas" formulada na ESG, segundo a qual as fronteiras relevantes não são geográficas, mas separam o mundo entre comunismo e Ocidente cristão.
+3. **A Doutrina Johnson.** O episódio consolidou o princípio de que os EUA interviriam em qualquer país do hemisfério onde julgassem haver risco comunista — mesmo **sem** que houvesse governo comunista, como era o caso: Bosch era um social-democrata eleito. Nesse ponto, a Doutrina Johnson vai além da Doutrina Truman, autorizando ação **preventiva**.
+4. **Instrumentalização da OEA.** A organização, criada em 1948 para promover cooperação hemisférica, foi usada para legitimar a posteriori uma intervenção unilateral já iniciada, o que corroeu duradouramente sua credibilidade na região.
+
+**A consequência de longo prazo.** Para boa parte da América Latina, 1965 confirmou que a soberania dos países da região era **condicional**: valia enquanto os governos permanecessem dentro de limites aceitáveis para Washington. Essa percepção alimentou tanto o nacionalismo de esquerda quanto a radicalização de movimentos armados na década seguinte (@sec-america-latina-ditaduras).
+:::
+
+**8.** Explique os **três modelos de decisão** propostos por Graham Allison e por que eles importam para além de 1962.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Em *Essence of Decision*, **Graham Allison** analisou a Crise dos Mísseis três vezes, com três lentes distintas, para mostrar que a explicação de um evento depende do modelo de decisão que se assume [@allisonZelikow1999].
+
+**1. Modelo do ator racional.** Trata o Estado como um indivíduo único, informado e coerente, que identifica opções, calcula custos e benefícios e escolhe a melhor. É a linguagem-padrão dos jornais e dos manuais: "os EUA decidiram bloquear", "a URSS quis equilibrar a ameaça". **Vantagem:** simples e frequentemente suficiente. **Limite:** supõe unidade de propósito e informação que raramente existem.
+
+**2. Modelo do processo organizacional.** Estados agem por meio de grandes burocracias que operam segundo **rotinas e procedimentos padronizados**, lentos de alterar. Muito do que parece escolha é, na verdade, execução de repertório. Exemplo do próprio caso: os soviéticos montaram as rampas em Cuba seguindo o padrão usado em seu território, sem adaptá-lo, o que as tornou imediatamente reconhecíveis nas fotos aéreas americanas — ninguém "decidiu" ser descoberto. **Consequência:** as opções realmente disponíveis a um líder são limitadas pelo que suas organizações sabem executar.
+
+**3. Modelo da política burocrática.** A decisão é o resultado de uma **negociação entre atores internos** com interesses, carreiras e visões distintas: Estado-Maior, CIA, Departamento de Estado, assessores. O resultado pode não ser a preferência de ninguém, mas o compromisso possível. Em 1962, a "quarentena" foi exatamente isso: um meio-termo entre os que queriam invadir e os que queriam apenas negociar.
+
+**Por que isso importa muito além de 1962.**
+
+- **É um antídoto contra a personificação dos Estados.** Sempre que você lê "a Alemanha quis", "o Brasil decidiu", há uma abreviação escondendo pessoas, órgãos e conflitos. Estados não têm vontade; têm processos.
+- **Explica resultados que ninguém escolheu.** Muitos desastres históricos não resultam de más decisões, mas de rotinas inadequadas, informação represada e disputas internas — e esse tipo de explicação é invisível para quem só usa o primeiro modelo.
+- **Muda o que conta como fonte.** Se a decisão é negociada internamente, então atas, memorandos, gravações e correspondência burocrática deixam de ser detalhe e passam a ser o material central da análise. Não por acaso, as gravações do gabinete de Kennedy, liberadas décadas depois, reescreveram a história da crise.
+- **Vale para a História do Brasil.** Aplique os modelos a 1964, ao Plano Cruzado ou à política externa do Império, e você verá o mesmo ganho: em vez de um "governo" com vontade única, aparecem facções, ministérios, corporações militares e interesses regionais em disputa (@sec-ditadura-militar).
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- KARNOW, Stanley. *Vietnam: A History* [@karnow1997]. Escrito por um jornalista que cobriu a guerra; ainda a narrativa mais completa em um volume.
+- CUMINGS, Bruce. *The Korean War: A History* [@cumings2011]. Curto, polêmico e indispensável para entender a guerra como conflito coreano, não apenas como episódio da Guerra Fria.
+- ALLISON, Graham; ZELIKOW, Philip. *Essence of Decision* [@allisonZelikow1999]. Um clássico das ciências sociais; leia ao menos a introdução e a conclusão.
+- WESTAD, Odd Arne. *The Global Cold War* [@westad2005]. O quadro geral em que estes três conflitos se encaixam.
+- GUEVARA, Ernesto Che. *A guerra de guerrilhas* [@guevara1997]. Fonte primária e manual que influenciou uma geração de movimentos latino-americanos.
+- HOBSBAWM, Eric. *Era dos Extremos* [@hobsbawmExtremos1995], capítulos sobre a Guerra Fria e o Terceiro Mundo.
+
+**Fontes primárias**
+
+- A **Declaração de Independência do Vietnã**, de Ho Chi Minh [@hoChiMinh1945]. Duas páginas; leia-a ao lado da Declaração americana de 1776 [@declaracaoIndependenciaEua1776].
+- O **discurso de Kennedy de 22 de outubro de 1962** [@kennedy1962], disponível em áudio e vídeo — observe as escolhas de palavras, sobretudo "quarentena" em vez de "bloqueio".
+- A **Segunda Declaração de Havana** [@castro1962]: a leitura cubana da América Latina e do imperialismo, em texto de grande força retórica.
+- Os **Documentos do Pentágono** [@pentagonPapers1971]: o caso mais célebre de documentação oficial que desmente a versão oficial.
+
+**Filmes e documentários**
+
+- *Apocalypse Now* (1979), dir. Francis Ford Coppola, e *Platoon* (1986), dir. Oliver Stone: o Vietnã pelo cinema americano — ambos dizem mais sobre os EUA do que sobre o Vietnã, e é assim que devem ser lidos.
+- *O Cheiro do Papaia Verde* (1993), dir. Tran Anh Hung: o Vietnã visto por vietnamitas, sem guerra em primeiro plano.
+- *The Vietnam War* (2017), série documental de Ken Burns e Lynn Novick, com depoimentos dos dois lados.
+- *Memórias de um Jovem Médico* / *Diários de Motocicleta* (2004), dir. Walter Salles: a América Latina antes de Che ser Che.
+- *Treze Dias que Abalaram o Mundo* (2000), dir. Roger Donaldson: a Crise dos Mísseis vista de dentro do gabinete — útil justamente para discutir os modelos de Allison.
