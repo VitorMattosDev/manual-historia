@@ -1,5 +1,408 @@
 # A Revolução Russa {#sec-revolucao-russa}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Em **23 de fevereiro de 1917** — 8 de março pelo calendário que usamos hoje —, operárias das fábricas têxteis do bairro de Vyborg, em Petrogrado, largaram o trabalho e saíram às ruas. Era o **Dia Internacional da Mulher**, e elas protestavam contra a falta de pão numa cidade onde a fila da padaria começava de madrugada, a 25 graus negativos. Os dirigentes socialistas tinham desaconselhado a greve: não era o momento, diziam. As mulheres foram assim mesmo e chamaram os metalúrgicos das fábricas vizinhas. Cinco dias depois, a guarnição de Petrogrado recusou-se a atirar na multidão e passou para o lado dos manifestantes. Em **2 de março**, o czar **Nicolau II** abdicou, encerrando **304 anos** de dinastia Romanov e mais de mil anos de monarquia russa. Nenhum partido planejara aquilo. **Lênin**, exilado na Suíça, soube pelos jornais — semanas antes, dissera a um grupo de jovens socialistas que provavelmente não veria a revolução em vida. Este capítulo conta como, em oito meses, aquele levante espontâneo se converteu no primeiro Estado socialista da história — e por que essa transformação é, até hoje, um dos temas mais disputados da historiografia.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- caracterizar a **Rússia czarista** do início do século XX: autocracia, atraso agrário, industrialização concentrada e questão nacional;
+- explicar a **Revolução de 1905** e por que ela é chamada de "ensaio geral";
+- distinguir a **Revolução de Fevereiro** da **Revolução de Outubro** de 1917 e explicar o **duplo poder**;
+- identificar as divergências entre **bolcheviques** e **mencheviques** e o conteúdo das **Teses de Abril**;
+- descrever a **Guerra Civil**, o **comunismo de guerra** e a **NEP**;
+- explicar a formação da **URSS**, a disputa entre **Stálin** e **Trótski** e a construção do **stalinismo** (coletivização, planos quinquenais, Grande Terror);
+- avaliar o **impacto mundial** da revolução, inclusive no Brasil;
+- contrastar as principais correntes historiográficas sobre 1917 (escola totalitária, revisionismo social e a historiografia pós-1991).
 :::
+
+## A Rússia dos czares {#sec-russia-czarista}
+
+Imagine um país que ocupa um sexto das terras emersas do planeta, do Báltico ao Pacífico, com mais de 130 nacionalidades e cerca de 170 milhões de habitantes em 1914 — e que ainda era governado por um **autocrata** cuja legitimidade vinha de Deus, sem parlamento efetivo, sem partidos legais e sem liberdade de imprensa. Essa era a Rússia dos **Romanov**.
+
+**O campo.** Cerca de **80%** da população era camponesa. A servidão fora abolida em **1861** por Alexandre II, mas de uma forma que gerou mais frustração que alívio: os camponeses receberam terras insuficientes e tiveram de **pagar por elas** ao longo de décadas, ficando presos à comuna aldeã (*mir*), que redistribuía lotes e respondia coletivamente pelas dívidas. Fome periódica, técnicas arcaicas e uma nobreza que mantinha as melhores terras compunham um quadro explosivo. O primeiro-ministro **Piotr Stolypin** tentou, depois de 1906, criar uma camada de camponeses proprietários — a "aposta nos fortes" —, mas foi assassinado em 1911, e a reforma ficou pela metade.
+
+**A cidade.** Desde a década de 1890, o Estado promovera uma industrialização acelerada com **capital estrangeiro** (francês, belga, inglês, alemão), concentrada em poucos polos — Petrogrado (ex-São Petersburgo), Moscou, Donbass, Baku. O resultado foi peculiar e decisivo: uma classe operária **pequena** (talvez 3 milhões de trabalhadores industriais) mas extremamente **concentrada** em gigantescas fábricas modernas, submetida a jornadas de 11 a 12 horas, sem direito a sindicatos e vivendo em alojamentos superlotados. Poucos operários, porém reunidos e organizáveis: essa combinação explica muito do que viria.
+
+**A política.** A oposição era clandestina e fragmentada:
+
+- os **socialistas-revolucionários** (SRs), herdeiros do populismo russo, defendiam a socialização da terra e tinham base **camponesa**; parte deles praticava o terrorismo individual contra autoridades;
+- os **social-democratas** (POSDR), marxistas, dirigiam-se aos **operários** e, desde o congresso de 1903, estavam divididos entre **bolcheviques** ("maioria", liderados por **Lênin**) e **mencheviques** ("minoria");
+- os **cadetes** (Partido Constitucional-Democrata) representavam a burguesia liberal e queriam uma monarquia constitucional.
+
+::: {.callout-note title="Conceito-chave: bolcheviques × mencheviques"}
+A cisão de 1903 começou por uma questão aparentemente burocrática — o que define um membro do partido — e revelou duas concepções profundamente distintas:
+
+| | **Bolcheviques** (Lênin) | **Mencheviques** (Mártov, Plekhanov) |
+|---|---|---|
+| **Partido** | pequeno, disciplinado, de **revolucionários profissionais** | amplo, aberto a todos os simpatizantes |
+| **Etapas** | a revolução burguesa pode ser **acelerada** rumo à socialista, com aliança operário-camponesa | é preciso **primeiro** consolidar o capitalismo e a democracia burguesa |
+| **Aliados** | camponeses pobres | burguesia liberal, num primeiro momento |
+| **Em 1917** | "todo o poder aos sovietes" | apoio crítico ao Governo Provisório |
+
+Guarde a distinção: ela explica por que, em 1917, os mesmos fatos foram lidos de maneiras opostas por marxistas que se diziam igualmente fiéis a Marx.
+:::
+
+## 1905: o ensaio geral {#sec-1905}
+
+A derrota humilhante na **Guerra Russo-Japonesa** (1904–05) — a primeira vitória de uma potência asiática sobre uma europeia na era moderna — desmoralizou o regime. Em **9 de janeiro de 1905**, uma multidão pacífica de operários, conduzida pelo padre **Gapon**, marchou ao Palácio de Inverno para entregar uma petição ao czar, com ícones religiosos e retratos de Nicolau II. A tropa abriu fogo. O episódio ficou conhecido como **Domingo Sangrento** e matou o vínculo simbólico entre o "paizinho czar" e o povo.
+
+Seguiu-se um ano de greves gerais, motins camponeses e rebeliões militares — a mais célebre no encouraçado **Potemkin**. Foi então que apareceu a instituição mais original da revolução russa: o **soviete** (em russo, "conselho"), assembleia eleita diretamente por operários de cada fábrica, com delegados revogáveis a qualquer momento. O **Soviete de São Petersburgo** de 1905 chegou a ser presidido pelo jovem **Leon Trótski**.
+
+Acuado, Nicolau II concedeu o **Manifesto de Outubro**, prometendo liberdades civis e um parlamento, a **Duma**. A concessão dividiu a oposição: os liberais aceitaram, os socialistas continuaram; o movimento foi reprimido. Nos anos seguintes, o czar dissolveu as Dumas que lhe desagradavam e alterou a lei eleitoral para garantir maioria conservadora. Lênin chamaria 1905 de "**ensaio geral**" — sem o qual, escreveu, a vitória de 1917 teria sido impossível.
+
+## 1917: duas revoluções em um ano {#sec-1917}
+
+::: {#fig-linha-do-tempo-1917}
+
+```{.tikz}
+%%| filename: fig-linha-do-tempo-1917
+%%| alt: Linha do tempo da Revolução Russa, de 1905 a 1924, com 1905, Fevereiro e Outubro de 1917, a Guerra Civil, a NEP e a formação da URSS.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \draw[eixo] (0,0) -- (14.0,0);
+  \node[eixo, gray] at (14.0,-0.5) {tempo (fora de escala)};
+
+  \node[ponto] at (0.9,0) {};
+  \node[below, align=center] at (0.9,-0.2) {\textbf{1905}};
+  \node[above, align=center, text=manualred] at (0.9,0.2) {\textbf{Domingo}\\ \textbf{Sangrento}\\ 1º soviete};
+
+  \node[ponto] at (3.3,0) {};
+  \node[below, align=center] at (3.3,-0.2) {\textbf{fev. 1917}};
+  \node[above, align=center, text=manualblue] at (3.3,0.2) {\textbf{Revolução de}\\ \textbf{Fevereiro}\\ czar abdica\\ \textit{duplo poder}};
+
+  \node[ponto] at (5.7,0) {};
+  \node[below, align=center] at (5.7,-0.2) {\textbf{abr. 1917}};
+  \node[above, align=center, text=manualgreen!45!black] at (5.7,0.2) {\textbf{Teses de Abril}\\ Lênin retorna};
+
+  \node[ponto] at (8.0,0) {};
+  \node[below, align=center] at (8.0,-0.2) {\textbf{out. 1917}};
+  \node[above, align=center, text=manualred] at (8.0,0.2) {\textbf{Revolução de}\\ \textbf{Outubro}\\ bolcheviques\\ tomam o poder};
+
+  \node[ponto] at (10.3,0) {};
+  \node[below, align=center] at (10.3,-0.2) {\textbf{1918--21}};
+  \node[above, align=center, text=manualgray!35!black] at (10.3,0.2) {\textbf{Guerra Civil}\\ comunismo\\ de guerra};
+
+  \node[ponto] at (12.2,0) {};
+  \node[below, align=center] at (12.2,-0.2) {\textbf{1921}};
+  \node[above, align=center, text=manualyellow!55!black] at (12.2,0.2) {\textbf{NEP}\\ Kronstadt};
+
+  \node[ponto] at (13.6,0) {};
+  \node[below, align=center] at (13.6,-0.2) {\textbf{1922}};
+  \node[above, align=center, text=manualblue] at (13.6,0.2) {\textbf{URSS}};
+\end{tikzpicture}
+```
+
+De 1905 a 1922: o "ensaio geral", as duas revoluções de 1917 e a consolidação do novo Estado.
+:::
+
+### Fevereiro: a queda do czarismo {#sec-revolucao-de-fevereiro}
+
+A **guerra** foi o detonador. A Rússia mobilizara cerca de 15 milhões de homens, mal equipados e mal comandados, e acumulava derrotas devastadoras. Nicolau II cometeu o erro de assumir pessoalmente o comando militar em 1915, tornando-se responsável direto por cada derrota, enquanto na capital o governo caía em descrédito sob a influência de **Rasputin**, o místico que se aproximara da família imperial pela doença hemofílica do herdeiro. As cidades passavam fome porque as ferrovias serviam ao front.
+
+Em fevereiro de 1917, greves, filas de pão e manifestações convergiram em Petrogrado — começando pelas operárias no Dia Internacional da Mulher. O ponto de virada foi a **recusa das tropas** em disparar contra a multidão. Sem exército confiável, o czar abdicou em **2 de março**.
+
+Do vazio surgiram **dois poderes simultâneos**:
+
+- o **Governo Provisório**, formado por deputados da Duma — liberais cadetes, depois com participação socialista moderada sob **Aleksandr Kerenski** —, que detinha a legalidade formal;
+- o **Soviete de Petrogrado**, eleito por operários e soldados, que detinha o poder **real** sobre as fábricas, os transportes e a guarnição. Sua **Ordem nº 1** determinava que as tropas só obedeceriam às ordens militares que o Soviete não vetasse.
+
+::: {.callout-note title="Conceito-chave: duplo poder (*dvoevlastie*)"}
+**Duplo poder** é a situação em que duas autoridades legítimas e rivais coexistem no mesmo território, sem que nenhuma consiga eliminar a outra. Em 1917, o Governo Provisório tinha os ministérios e o reconhecimento internacional; o Soviete tinha os operários armados e os soldados. Como escreveu Trótski, o Governo Provisório tinha o poder sem a força, e o Soviete tinha a força sem o poder. Situações de duplo poder são intrinsecamente **instáveis**: ou uma parte absorve a outra, ou a sociedade caminha para o confronto aberto.
+:::
+
+O Governo Provisório tomou medidas democráticas amplas — anistia política, liberdade de imprensa, fim da discriminação religiosa e nacional, promessa de eleger uma **Assembleia Constituinte**. Mas errou nos dois pontos que mais importavam à população: decidiu **continuar a guerra** (por compromisso com os aliados e por crédito externo) e **adiar a reforma agrária** para a futura Constituinte. Em um país faminto e em guerra, adiar era condenar-se.
+
+### De abril a outubro {#sec-outubro}
+
+Em **abril de 1917**, **Lênin** retornou do exílio — cruzando a Alemanha num trem selado, num arranjo que o alto-comando alemão facilitou apostando que ele desorganizaria o esforço de guerra russo. Ao desembarcar na estação Finlândia, apresentou as **Teses de Abril**, que chocaram até os próprios bolcheviques:
+
+- **nenhum apoio** ao Governo Provisório;
+- **"todo o poder aos sovietes"**;
+- **fim imediato** da guerra;
+- **confisco das terras** dos latifundiários e nacionalização da terra;
+- controle operário da produção e fusão dos bancos num banco nacional;
+- passagem da revolução burguesa à **revolução socialista** — sem esperar a "etapa" que os mencheviques julgavam obrigatória.
+
+A palavra de ordem sintetizadora — "**Paz, Terra e Pão**" — falava exatamente aos três desejos que o Governo Provisório não podia satisfazer.
+
+Os meses seguintes foram de radicalização acelerada:
+
+- **Junho–julho:** a desastrosa "ofensiva Kerenski" no front provocou revoltas espontâneas em Petrogrado (as "Jornadas de Julho"), reprimidas; Lênin fugiu para a Finlândia e Trótski foi preso.
+- **Agosto:** o general **Kornilov** marchou sobre a capital para esmagar os sovietes. Kerenski, sem tropas leais, teve de armar os operários e libertar bolcheviques para conter o golpe. O golpe fracassou — e o preço foi altíssimo para Kerenski: **os bolcheviques saíram armados, prestigiados e majoritários** nos sovietes de Petrogrado e Moscou, presidido o primeiro por Trótski.
+- **Outubro:** o **Comitê Militar Revolucionário** do Soviete, dirigido por Trótski, organizou a tomada dos pontos estratégicos da capital. Na noite de **24 para 25 de outubro** (6–7 de novembro no calendário gregoriano), correios, telégrafos, pontes, estações e, por fim, o **Palácio de Inverno** foram ocupados com resistência mínima e poucas mortes — muito longe da épica encenada no filme de Eisenstein. No dia seguinte, o **II Congresso dos Sovietes** referendou a tomada do poder, com a retirada em protesto de mencheviques e SRs de direita.
+
+Os primeiros decretos do novo governo (**Conselho dos Comissários do Povo**, presidido por Lênin) foram exatamente os três pontos do programa: **Decreto sobre a Paz**, **Decreto sobre a Terra** (entrega imediata das terras aos camponeses) e controle operário nas fábricas. Seguiram-se a separação entre Igreja e Estado, o direito de autodeterminação dos povos do antigo império, a igualdade jurídica entre homens e mulheres, o divórcio e a legalização do aborto — medidas radicalmente avançadas para 1917.
+
+Em janeiro de 1918, porém, veio o teste decisivo: eleita a **Assembleia Constituinte**, os bolcheviques obtiveram cerca de **24%** dos votos, contra cerca de 40% dos SRs, majoritários no campo. Reunida em 5 de janeiro, a Assembleia foi **dissolvida à força** no dia seguinte. O argumento oficial: a legitimidade cabia aos sovietes, não a um parlamento eleito por listas ultrapassadas. O episódio é um dos mais discutidos da história do século XX — para uns, o momento em que a revolução se defendeu; para outros, o momento em que o regime de partido único nasceu.
+
+## Guerra Civil, comunismo de guerra e NEP {#sec-guerra-civil-nep}
+
+A paz veio pelo **Tratado de Brest-Litovsk** (março de 1918), aceito por Lênin contra a opinião de boa parte do partido: a Rússia cedeu Polônia, Finlândia, países bálticos e Ucrânia — cerca de um quarto de sua população e boa parte de sua indústria — para sair da guerra. Foi, nas palavras dele, uma "paz obscena", mas necessária.
+
+Não houve trégua. De 1918 a 1921, a **Guerra Civil** opôs o **Exército Vermelho** — criado e comandado por **Trótski**, que o organizou a partir do zero e recorreu a oficiais czaristas sob vigilância política — aos **exércitos brancos**, coalizão heterogênea de monarquistas, liberais, generais e socialistas antibolcheviques, apoiada por tropas de **14 países estrangeiros** (Reino Unido, França, EUA, Japão e outros). Havia ainda "verdes" camponeses e o movimento anarquista de **Makhno** na Ucrânia.
+
+Os bolcheviques venceram por razões concretas: controlavam o centro do país, com as ferrovias, as fábricas de armas e as duas capitais; tinham comando unificado, enquanto os brancos eram fragmentados e sem programa comum; e, apesar das requisições, o campesinato temia que a vitória branca significasse a **volta dos latifundiários** — a terra recebida em 1917 estava em jogo.
+
+O custo foi assombroso: entre 7 e 10 milhões de mortos, a maioria por **fome e epidemias**; produção industrial reduzida a uma fração de 1913; e a instauração do **terror** como método de governo por ambos os lados, com a criação da polícia política **Tcheká**. A família imperial foi executada em Ekaterimburgo em julho de 1918.
+
+**Comunismo de guerra** (1918–21) foi o conjunto de medidas emergenciais desse período: **requisição forçada** de grãos dos camponeses, nacionalização de toda a indústria, proibição do comércio privado, trabalho obrigatório e racionamento. Manteve o exército alimentado e venceu a guerra — ao preço de destruir o incentivo a produzir. O resultado foi a **fome de 1921**, que matou cerca de 5 milhões de pessoas, e uma onda de revoltas camponesas. O golpe simbólico veio da **rebelião dos marinheiros de Kronstadt** (março de 1921), até então a base mais leal da revolução, que exigiam "sovietes sem bolcheviques", eleições livres e fim das requisições. Foi esmagada por Trótski.
+
+A resposta de Lênin foi um **recuo tático**: a **Nova Política Econômica (NEP)**, aprovada em 1921. Ela substituiu a requisição por um **imposto em espécie** — o camponês pagava uma parte e podia **vender livremente** o excedente —, liberou o pequeno comércio e a pequena indústria, admitiu concessões a capitais estrangeiros e manteve nas mãos do Estado apenas as "alturas de comando" (grande indústria, bancos, transportes, comércio exterior). A produção se recuperou rapidamente, mas surgiram novos ricos (os *nepmen*) e uma camada de camponeses prósperos (*kulaks*), o que dividiu o partido entre os que viam na NEP um caminho gradual ao socialismo e os que a viam como retrocesso perigoso.
+
+Em **1922**, o novo Estado foi formalizado como **União das Repúblicas Socialistas Soviéticas (URSS)**, federação nominal de repúblicas com direito formal de secessão — na prática unificada pelo **Partido Comunista**, único partido legal desde 1921, ano em que também se proibiram as frações internas.
+
+## De Lênin a Stálin {#sec-stalinismo}
+
+Lênin sofreu derrames a partir de 1922 e morreu em **janeiro de 1924**. Deixou um "**Testamento**" em que criticava os principais dirigentes e recomendava explicitamente a remoção de **Stálin** do cargo de secretário-geral, por considerá-lo "rude demais" e por ter concentrado poder imenso. O documento foi lido em círculo restrito e abafado.
+
+A disputa pela sucessão opôs, em essência, duas concepções:
+
+- **Trótski** defendia a **revolução permanente**: a Rússia atrasada não poderia construir o socialismo sozinha; era preciso apostar na revolução internacional, sobretudo na Alemanha, e industrializar rapidamente;
+- **Stálin** formulou o **socialismo em um só país**: era possível e necessário construir o socialismo dentro das fronteiras soviéticas. A tese tinha enorme apelo prático depois do fracasso das revoluções europeias — e Stálin, ocupando o obscuro cargo de **secretário-geral** desde 1922, controlava as nomeações do aparelho partidário.
+
+Stálin venceu aliando-se sucessivamente a diferentes grupos e eliminando-os um a um. Trótski foi expulso do partido (1927), exilado (1929) e assassinado a mando de Moscou no **México, em 1940**.
+
+A partir de 1928, o stalinismo tomou forma em três frentes.
+
+**Planos quinquenais e industrialização.** A NEP foi abandonada em favor de uma **economia planificada centralmente** pelo **Gosplan**, com metas quinquenais concentradas na **indústria pesada** — aço, carvão, energia, máquinas. Os resultados foram espetaculares em ritmo: em pouco mais de uma década, a URSS converteu-se na segunda potência industrial do mundo, enquanto o Ocidente afundava na Depressão (@sec-crise-de-1929-entreguerras). Foi essa base industrial que permitiria resistir à invasão alemã em 1941. O preço foi pago em consumo comprimido, disciplina fabril brutal e trabalho forçado em larga escala nos campos do **Gulag**.
+
+**Coletivização forçada.** A partir de 1929, os camponeses foram compelidos a entrar em fazendas coletivas (*kolkhozes*) e estatais (*sovkhozes*), sob a campanha de "liquidação dos **kulaks** enquanto classe" — que na prática atingiu qualquer camponês resistente. Milhões foram deportados. A resistência incluiu o abate do próprio gado. O desastre culminou na fome de **1932–33**, com estimativas de 5 a 7 milhões de mortos, especialmente na **Ucrânia**, onde é lembrada como **Holodomor** e reconhecida por diversos países como genocídio — qualificação que segue sendo objeto de intensa disputa historiográfica e política.
+
+**O Grande Terror.** Entre **1936 e 1938**, os **Processos de Moscou** levaram ao banco dos réus quase toda a velha guarda bolchevique, que confessou em público crimes inverossímeis, obtidos sob tortura e chantagem, e foi executada. As purgas atingiram o partido, o Estado, a intelectualidade e sobretudo o **Exército Vermelho**, cujo alto comando foi dizimado às vésperas da guerra. Estimativas amplamente aceitas apontam cerca de **700 mil execuções** apenas em 1937–38 e milhões de deportados para o Gulag. Construiu-se, simultaneamente, um **culto à personalidade** sem precedentes, com Stálin apresentado como "pai dos povos" e a história reescrita — e as fotografias literalmente retocadas para apagar os expurgados.
+
+::: {.callout-warning title="Continuidade ou ruptura entre Lênin e Stálin?"}
+Esta é uma das questões mais espinhosas do século XX, e você deve conhecer os dois argumentos.
+
+**Continuidade.** Quem a defende (de liberais como Richard Pipes a socialistas críticos) aponta que o partido único, a dissolução da Constituinte, a Tcheká, a proibição de frações (1921) e a repressão a Kronstadt são anteriores a Stálin. O instrumental do terror já existia; Stálin apenas o teria levado à escala máxima.
+
+**Ruptura.** Quem a defende (a tradição trotskista, mas também historiadores como Moshe Lewin) sustenta que as medidas de 1918–21 foram respostas emergenciais a uma guerra civil com invasão estrangeira, enquanto o terror de 1937 se abateu sobre uma sociedade **em paz** e devorou justamente os revolucionários de 1917; que o próprio Lênin, ao fim da vida, alertava contra o burocratismo e contra Stálin; e que a transformação corresponde à ascensão de uma **burocracia** nova, saída da guerra civil e da destruição da classe operária original.
+
+A posição mais comum entre historiadores hoje evita os extremos: reconhece **elementos autoritários genuínos** no leninismo **e** uma **descontinuidade qualitativa** em escala, alvo e função no stalinismo. Note que a pergunta não é apenas factual — ela envolve o que se considera "essência" de um regime, e por isso nunca se resolve só com documentos.
+:::
+
+## Impacto mundial — e o Brasil {#sec-impacto-mundial}
+
+Outubro de 1917 dividiu o século. Em **1919**, a criação da **Internacional Comunista** (Comintern) cindiu o movimento operário mundial entre **social-democratas** (reformistas, comprometidos com a democracia parlamentar) e **comunistas** (revolucionários, alinhados a Moscou) — divisão que teria consequências trágicas na Alemanha dos anos 1930 (@sec-totalitarismos). Para as elites ocidentais, o "**perigo vermelho**" tornou-se argumento permanente, invocado para justificar repressão a sindicatos e, mais tarde, apoio a regimes autoritários. Para os movimentos anticoloniais da Ásia e da África, a URSS ofereceu apoio, modelo e vocabulário (@sec-descolonizacao-africa-asia). E o receio da revolução ajuda a explicar concessões sociais em países capitalistas: legislação trabalhista, previdência e negociação coletiva ganharam força justamente onde a alternativa parecia ser o exemplo soviético.
+
+**No Brasil**, o eco foi imediato. A **Greve Geral de 1917** em São Paulo, de inspiração anarcossindicalista, coincidiu com o ano da revolução e assustou as elites. Militantes anarquistas tentaram uma insurreição no Rio em 1918. Em **1922** — o mesmo ano da Semana de Arte Moderna e da revolta do Forte de Copacabana — foi fundado, em Niterói, o **Partido Comunista Brasileiro (PCB)**, majoritariamente por antigos anarquistas convertidos ao bolchevismo. Posto na ilegalidade quase toda a sua existência, o PCB seria o centro dos acontecimentos de **1935** e um ator decisivo na política brasileira do século XX (@sec-era-vargas). O medo do comunismo, por sua vez, tornou-se peça permanente do repertório conservador brasileiro — de 1935 a 1964 (@sec-ditadura-militar).
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+**Outubro de 1917 foi uma revolução popular ou um golpe de Estado?** Poucas perguntas históricas foram tão contaminadas pela política do presente — e justamente por isso o caso é um laboratório excelente de crítica historiográfica.
+
+**1. A versão soviética oficial.** Consolidada nos anos 1930 e cristalizada no *Curso breve de história do PCUS* (1938), apresentava Outubro como culminação inevitável da luta de classes, conduzida por um partido infalível sob a direção de Lênin e **Stálin** — este último promovido, retroativamente, ao papel de segundo homem da revolução, enquanto Trótski era transformado em traidor e literalmente apagado das fotografias. É historiografia de Estado, mais útil hoje como **fonte** sobre o stalinismo do que como descrição de 1917.
+
+**2. A escola totalitária (Ocidente, 1945–1970).** Formada no contexto da Guerra Fria, tratava Outubro como um **golpe** (*coup d'état*) executado por uma minoria disciplinada e conspirativa, que se apossou do Estado e impôs um regime totalitário a uma sociedade passiva. **Richard Pipes** é o representante mais combativo: para ele, o bolchevismo foi um acidente imposto de cima, e a linha que vai de Lênin ao Gulag é reta e direta [@pipes2016]. A ênfase recai sobre ideologia, líderes e alta política; o povo aparece como vítima ou massa manipulada.
+
+**3. O revisionismo social (a partir dos anos 1970).** Uma nova geração de historiadores — **Sheila Fitzpatrick**, **Moshe Lewin**, **Alexander Rabinowitch** — deslocou o foco da cúpula para a **base**: greves, comitês de fábrica, sovietes locais, comitês de soldados, ocupações de terra. O achado central é robusto e bem documentado: entre fevereiro e outubro de 1917 houve uma **radicalização real e mensurável** das massas urbanas, que se expressou em eleições sucessivas nos sovietes, nas quais os bolcheviques passaram de minoria a maioria. Rabinowitch mostrou, em estudo clássico sobre Petrogrado, que o partido bolchevique não era o monólito da lenda, e sim uma organização relativamente aberta e responsiva às pressões da base — e que foi essa sintonia com as demandas populares ("paz, terra, pão", "todo o poder aos sovietes"), e não apenas a conspiração, que explica seu êxito [@rabinowitch2017; @fitzpatrick2017]. Nessa leitura, Outubro é revolução **social** com forma insurrecional.
+
+**4. Depois de 1991: os arquivos abertos.** O fim da URSS liberou documentação antes inacessível e produziu uma síntese mais equilibrada. Os arquivos **confirmaram** a escala do terror stalinista e desmontaram de vez a versão oficial soviética; ao mesmo tempo, **confirmaram** a autonomia e a intensidade da mobilização popular de 1917, contra a imagem de sociedade passiva. **Orlando Figes**, em *A tragédia de um povo*, narra a revolução como processo popular imenso que **devorou a si mesmo**, recusando tanto a apologia quanto a redução a golpe [@figes1999]; **Sheila Fitzpatrick** insiste que 1917 só se compreende como processo longo, estendido até os anos 1930 [@fitzpatrick2017]. E historiadores ligados à tradição marxista, como **Isaac Deutscher** e o próprio **Trótski** em sua monumental *História da Revolução Russa*, permanecem leitura obrigatória — o segundo, como participante que escreve para justificar sua própria ação, o que faz do livro simultaneamente análise e **fonte primária** [@trotski2017; @deutscher2005].
+
+**Por que essas leituras divergem?** Por três motivos. **Fontes:** antes de 1991, o Ocidente trabalhava sobretudo com memórias de exilados e publicações oficiais; depois, com atas de fábricas, relatórios policiais e arquivos partidários. **Escala de observação:** quem estuda o Comitê Central vê conspiração; quem estuda os comitês de fábrica vê mobilização — e ambos estão descrevendo coisas que existiram. **Presente do historiador:** a escola totalitária nasceu no auge da Guerra Fria, quando descrever a URSS era ato político; o revisionismo social floresceu na onda da história social e da contestação dos anos 1960–70; e a historiografia pós-1991 escreve depois do fim do objeto, quando a urgência polêmica diminuiu.
+
+::: {.callout-warning title="Como responder à pergunta 'golpe ou revolução?'"}
+A resposta mais defensável não escolhe um dos rótulos: distingue **dois planos**.
+
+- **A tomada do poder em 25 de outubro** teve, de fato, a **forma** de uma operação insurrecional planejada por uma minoria organizada — o Comitê Militar Revolucionário —, com poucos milhares de participantes e resistência mínima. Nesse sentido estrito, os defensores do termo "golpe" têm um ponto.
+- **O processo de 1917 como um todo** foi indiscutivelmente uma **revolução social**: queda espontânea de uma monarquia de três séculos, ocupações maciças de terras pelos camponeses, controle operário nas fábricas, desintegração do exército pela base, e uma radicalização que se pode acompanhar eleição a eleição nos sovietes.
+
+O que os bolcheviques fizeram em outubro foi **capturar a direção** de um processo que não criaram e não controlavam. Foi isso que lhes deu a vitória — e é isso que explica também a dificuldade posterior: quando as expectativas populares (sovietes livres, autogestão) colidiram com a lógica do novo Estado, o resultado foi Kronstadt.
+:::
+
+## Resumo do capítulo {#sec-resumo}
+
+- **Rússia czarista:** autocracia dos **Romanov**, 80% de camponeses, servidão abolida em **1861** com resgate oneroso; industrialização tardia com capital estrangeiro, gerando um operariado **pequeno mas concentrado**; oposição clandestina dividida entre **SRs** (campo), **social-democratas** (operários; **bolcheviques** × **mencheviques** desde 1903) e **cadetes** (liberais).
+- **1905, o "ensaio geral":** derrota na Guerra Russo-Japonesa, **Domingo Sangrento** (9 de janeiro), greves, motim do **Potemkin** e surgimento dos **sovietes**. O czar concede o **Manifesto de Outubro** e a **Duma**, depois esvaziada.
+- **Fevereiro de 1917:** greves por pão iniciadas por **operárias** em Petrogrado, adesão da guarnição, abdicação de **Nicolau II** (2 de março). Instala-se o **duplo poder**: **Governo Provisório** (legalidade) × **Soviete de Petrogrado** (força real, **Ordem nº 1**). O governo erra ao **continuar a guerra** e **adiar a reforma agrária**.
+- **Abril–outubro:** Lênin retorna e lança as **Teses de Abril** ("todo o poder aos sovietes"; **paz, terra e pão**); fracassa a ofensiva Kerenski; o golpe de **Kornilov** (agosto) arma e fortalece os bolcheviques, que conquistam maioria nos sovietes de Petrogrado e Moscou.
+- **Outubro de 1917:** o **Comitê Militar Revolucionário**, dirigido por **Trótski**, toma os pontos estratégicos e o **Palácio de Inverno** (24–25 de outubro / 6–7 de novembro). Decretos sobre a **Paz** e a **Terra**, controle operário, separação Igreja-Estado, igualdade jurídica das mulheres. Em janeiro de 1918, a **Assembleia Constituinte**, na qual os bolcheviques tiveram ~24%, é **dissolvida**.
+- **Guerra Civil (1918–21):** **Exército Vermelho** de Trótski × **brancos** apoiados por 14 países; 7 a 10 milhões de mortos, sobretudo por fome e epidemia. **Comunismo de guerra** (requisição de grãos, estatização total) vence a guerra mas provoca a **fome de 1921** e a revolta de **Kronstadt**. Lênin recua com a **NEP** (imposto em espécie, comércio livre do excedente, "alturas de comando" com o Estado). Em **1922**, cria-se a **URSS**.
+- **Stalinismo:** morte de Lênin (1924) e vitória de **Stálin** ("**socialismo em um só país**") sobre **Trótski** ("**revolução permanente**", exilado em 1929 e assassinado no México em **1940**). A partir de 1928: **planos quinquenais** e industrialização pesada acelerada; **coletivização forçada** e fome de **1932–33** (**Holodomor** na Ucrânia); **Grande Terror** de **1936–38**, com os **Processos de Moscou**, o **Gulag** e o culto à personalidade.
+- **Impacto mundial:** **Comintern** (1919) e cisão entre comunistas e social-democratas; "perigo vermelho" no Ocidente; apoio a movimentos anticoloniais; pressão indireta por direitos sociais no capitalismo. **No Brasil:** Greve Geral de **1917**, fundação do **PCB** em **1922** e o anticomunismo como peça permanente da política brasileira.
+- **Historiografia:** versão **soviética oficial** (revolução inevitável dirigida por Lênin e Stálin) → **escola totalitária** (**Pipes**: golpe de minoria conspirativa, linha reta até o Gulag) → **revisionismo social** (**Fitzpatrick**, **Rabinowitch**: radicalização real e mensurável das massas) → síntese **pós-1991** (**Figes**: revolução popular que devorou a si mesma).
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Domine: (1) as causas estruturais do colapso czarista; (2) a diferença entre **Fevereiro** e **Outubro** e o conceito de **duplo poder**; (3) as **Teses de Abril** e por que "paz, terra e pão" venceu; (4) a sequência guerra civil → comunismo de guerra → NEP; (5) a disputa **Stálin × Trótski** e os pilares do stalinismo; (6) o debate **golpe ou revolução**.
+:::
+
+**1.** Explique por que o regime czarista entrou em colapso em fevereiro de 1917, distinguindo causas estruturais e conjunturais.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Causas estruturais** (acumuladas por décadas):
+
+1. **Autocracia sem válvula de escape.** Não havia parlamento efetivo, partidos legais ou imprensa livre; toda oposição era empurrada para a clandestinidade e para a radicalização. As concessões de 1905 (Duma) foram progressivamente esvaziadas.
+2. **Questão agrária irresolvida.** A abolição da servidão (1861) deixara os camponeses — 80% da população — com terra insuficiente e dívidas de resgate. A reforma de Stolypin ficou incompleta após seu assassinato (1911).
+3. **Questão operária.** A industrialização acelerada com capital estrangeiro criou um operariado numericamente pequeno, mas **concentrado** em grandes fábricas modernas, sem direitos e altamente organizável.
+4. **Questão nacional.** Mais de 130 povos submetidos à russificação forçada dentro de um império multinacional.
+
+**Causas conjunturais** (1914–17):
+
+1. **A guerra.** Derrotas sucessivas, 15 milhões de mobilizados mal equipados, milhões de baixas; o czar assume o comando em 1915 e passa a responder pessoalmente por cada derrota.
+2. **Colapso do abastecimento.** As ferrovias serviam ao front; as cidades ficaram sem pão e sem combustível no inverno mais rigoroso.
+3. **Descrédito da corte.** A influência de **Rasputin** sobre a czarina, num contexto de suspeitas contra a imperatriz de origem alemã, arruinou o prestígio da monarquia até entre os monarquistas.
+
+**O gatilho e o fator decisivo.** As greves das **operárias têxteis** no Dia Internacional da Mulher (23 de fevereiro / 8 de março) deram início ao movimento. Mas o que derrubou o regime foi a **recusa da guarnição de Petrogrado em atirar** na multidão: quando um governo autocrático perde o monopólio da força, não lhe resta nada. Note a diferença em relação a 1905, quando a tropa disparou — o mesmo tipo de crise, desfecho oposto, por causa da guerra.
+:::
+
+**2.** O que foi o **duplo poder**? Por que era uma situação insustentável?
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Duplo poder** (*dvoevlastie*) designa a coexistência, após a queda do czar, de duas autoridades rivais em Petrogrado:
+
+- o **Governo Provisório**, saído da Duma, formado por liberais (cadetes) e depois por socialistas moderados sob **Kerenski**. Detinha a **legalidade formal**, os ministérios e o reconhecimento internacional.
+- o **Soviete de Petrogrado**, eleito diretamente por operários e soldados. Detinha o **poder real**: controlava fábricas, ferrovias, correios e a guarnição. Sua **Ordem nº 1** subordinava o cumprimento das ordens militares ao aval do Soviete.
+
+**Por que era insustentável.**
+
+1. **Nenhum dos dois podia governar sozinho.** O governo tinha autoridade sem força; o Soviete tinha força sem autoridade formal — e, até setembro, uma direção menchevique e SR que **não queria** assumir o poder, por acreditar que a etapa histórica era a da revolução burguesa.
+2. **Divergiam justamente no essencial.** O Governo Provisório decidiu **continuar a guerra** e **adiar a reforma agrária** até a Constituinte; as massas queriam paz e terra **imediatas**. Cada mês de adiamento transferia apoio ao lado que prometia agir.
+3. **Toda crise deslocava o equilíbrio.** A ofensiva fracassada de junho enfraqueceu o governo; o golpe de **Kornilov** (agosto) o destruiu politicamente, ao obrigar Kerenski a armar os operários e libertar bolcheviques para se defender do próprio general que nomeara.
+
+**Conclusão.** Situações de duplo poder terminam com a absorção de um polo pelo outro. Em outubro, o Soviete — já com maioria bolchevique — absorveu o governo. A pergunta relevante não é por que o Governo Provisório caiu, mas por que durou oito meses.
+:::
+
+**3.** Quais eram as **Teses de Abril** e por que a palavra de ordem "paz, terra e pão" foi tão eficaz?
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Conteúdo das Teses** (apresentadas por Lênin em abril de 1917, ao retornar do exílio):
+
+1. **nenhum apoio** ao Governo Provisório;
+2. **"todo o poder aos sovietes"** — substituição da república parlamentar por uma república de conselhos;
+3. **fim imediato** da guerra imperialista;
+4. **confisco das terras** dos latifundiários e nacionalização da terra;
+5. **controle operário** da produção e fusão dos bancos num banco nacional único;
+6. transição da revolução **burguesa** para a **socialista**, sem aguardar a etapa que os mencheviques julgavam obrigatória.
+
+Foram um choque até para os bolcheviques, que até então davam apoio crítico ao Governo Provisório.
+
+**Por que "paz, terra e pão" funcionou.** Porque nomeava exatamente as três demandas que o Governo Provisório **estruturalmente não podia atender**:
+
+- **Paz** — o governo dependia de crédito e de compromissos com os aliados; sair da guerra era romper com a base que o sustentava.
+- **Terra** — a reforma agrária dependia de expropriar proprietários que eram, em boa medida, os apoiadores do próprio governo; daí o adiamento "até a Constituinte".
+- **Pão** — o abastecimento só melhoraria com o fim da guerra, o que nos devolve ao primeiro ponto.
+
+Some-se um traço formal decisivo: a palavra de ordem era **curta, concreta e verificável**, num país com alta taxa de analfabetismo e uma população exausta. Enquanto os demais partidos discutiam etapas históricas e legitimidade jurídica, os bolcheviques ofereciam três substantivos. É um caso exemplar de como programas políticos vencem não por sofisticação, mas por **corresponder a uma experiência vivida**.
+:::
+
+**4.** Compare **comunismo de guerra** e **NEP**, explicando por que Lênin mudou de política.
+
+::: {.callout-tip collapse="true" title="Solução"}
+| | **Comunismo de guerra** (1918–21) | **NEP** (1921–28) |
+|---|---|---|
+| **Contexto** | guerra civil e intervenção estrangeira | fome, revoltas camponesas, **Kronstadt** |
+| **Campo** | **requisição forçada** de grãos | **imposto em espécie**; excedente vendido livremente |
+| **Comércio** | proibido; racionamento estatal | pequeno comércio **legalizado** |
+| **Indústria** | nacionalização total | grandes empresas estatais; pequenas privadas; concessões estrangeiras |
+| **Trabalho** | militarizado e obrigatório | mercado de trabalho |
+| **Resultado** | vence a guerra; **destrói a produção** | recuperação rápida; surgem *nepmen* e *kulaks* |
+
+**Por que a mudança.** O comunismo de guerra cumpriu seu objetivo militar — alimentar o Exército Vermelho e as cidades —, mas eliminou o incentivo a produzir: se todo excedente era confiscado, o camponês plantava apenas para si. O resultado foi a queda vertiginosa da produção agrícola e a **fome de 1921**, com cerca de 5 milhões de mortos, seguida de revoltas camponesas generalizadas.
+
+O sinal de alarme decisivo foi **Kronstadt** (março de 1921): os marinheiros da base naval que fora o orgulho da revolução em 1917 exigiram sovietes livres, fim das requisições e liberdade de imprensa para socialistas. A rebelião foi esmagada militarmente — e, poucos dias depois, o mesmo congresso do partido que aprovou a repressão aprovou também a **NEP**. Lênin descreveu-a como um **recuo tático**: "um passo atrás para dar dois à frente", um compromisso com o campesinato para preservar o poder soviético enquanto a revolução internacional não vinha.
+
+**Por que isso importa.** A NEP tornou-se o centro do debate dos anos 1920: prolongá-la (posição de **Bukhárin**, "enriquecei-vos") ou abandoná-la em favor da industrialização acelerada (posição da oposição de esquerda)? Stálin combateu a segunda posição, aliou-se à primeira, venceu — e então executou, a partir de 1928, uma versão ainda mais radical do programa que combatera, com a coletivização forçada e os planos quinquenais.
+:::
+
+**5.** Explique a disputa entre **Stálin** e **Trótski** e por que Stálin venceu.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**As teses em disputa.**
+
+- **Trótski — revolução permanente.** A Rússia era atrasada demais para construir sozinha o socialismo; a sobrevivência do regime dependeria da extensão da revolução aos países industrializados, sobretudo a **Alemanha**. Internamente, defendia industrialização acelerada financiada pelo campo e maior democracia interna no partido.
+- **Stálin — socialismo em um só país.** Formulada em 1924, sustentava que a URSS podia e devia construir o socialismo dentro de suas fronteiras, com seus próprios recursos.
+
+**Por que Stálin venceu.**
+
+1. **Controle do aparelho.** Como **secretário-geral** desde 1922 — cargo então considerado técnico e sem brilho —, Stálin nomeava e removia quadros em todo o partido. A base que decidiria a disputa era, em boa parte, formada por gente que devia a ele o próprio posto.
+2. **Táticas de aliança sucessiva.** Uniu-se a Zinoviev e Kamenev contra Trótski; depois, a Bukhárin contra Zinoviev e Kamenev; por fim, voltou-se contra Bukhárin. Cada adversário foi isolado separadamente.
+3. **Apelo da tese.** Depois do fracasso das revoluções na Alemanha (1919 e 1923) e na Hungria, a promessa de construir algo **aqui e agora** soava realista; a revolução permanente parecia condenar o país a esperar por um socorro que não vinha.
+4. **Perfil social do partido.** A guerra civil dizimara a classe operária de 1917; o partido dos anos 1920 era formado sobretudo por administradores e funcionários novos, que valorizavam estabilidade e carreira — e para os quais o brilho intelectual e a arrogância atribuída a Trótski contavam contra ele.
+5. **Erros do adversário.** Trótski hesitou em momentos decisivos, não publicou o **Testamento de Lênin** quando poderia tê-lo feito com efeito e recusou-se, por princípio, a usar sua influência no Exército Vermelho.
+
+**Desfecho.** Trótski foi afastado do comissariado de guerra (1925), expulso do partido (1927), deportado (1929) e assassinado a mando de Moscou no **México, em 1940**. Sua eliminação foi também simbólica: a história oficial soviética o apagou dos livros e das fotografias, exemplo extremo do uso político da memória (@sec-memoria-patrimonio).
+:::
+
+**6.** (Estilo ENEM) Leia o texto.
+
+> "O poder do Estado continua nas mãos da burguesia […]. Nenhum apoio ao Governo Provisório; explicação da completa falsidade de todas as suas promessas […]. Não uma república parlamentar — voltar a ela a partir dos Sovietes de Deputados Operários seria um passo atrás —, mas uma república de Sovietes de Deputados Operários, Trabalhadores Rurais e Camponeses em todo o país, de baixo para cima."
+>
+> — LÊNIN, *As tarefas do proletariado na presente revolução* (Teses de Abril), abril de 1917 [@lenin2011teses]
+
+O documento evidencia que, no contexto da Rússia de 1917, Lênin defendia
+
+**(a)** a colaboração dos socialistas com o Governo Provisório até a convocação da Assembleia Constituinte.
+**(b)** a consolidação prévia de uma república parlamentar burguesa como etapa necessária ao socialismo.
+**(c)** a superação do duplo poder mediante a transferência integral do poder aos sovietes e a passagem à revolução socialista.
+**(d)** a manutenção do esforço de guerra russo, condicionada à democratização do comando militar.
+**(e)** a restauração da monarquia constitucional sob controle dos conselhos de operários e soldados.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (c).** O trecho contém os dois núcleos das **Teses de Abril**: a recusa de qualquer apoio ao Governo Provisório e a proposta de uma "**república de Sovietes**" em lugar da república parlamentar. Isso significa, na prática, resolver o **duplo poder** em favor dos sovietes — a palavra de ordem "todo o poder aos sovietes" — e, teoricamente, saltar da revolução burguesa de fevereiro para a **revolução socialista**, sem esperar a etapa intermediária que os mencheviques consideravam obrigatória. A frase "voltar a ela a partir dos Sovietes seria um passo atrás" é a chave: Lênin trata o soviete como forma **superior**, e não inferior, ao parlamento.
+
+Por que as demais estão erradas:
+
+- **(a)** o texto diz literalmente "nenhum apoio ao Governo Provisório"; a colaboração era a posição dos **mencheviques** e dos SRs, não a de Lênin;
+- **(b)** a etapa parlamentar burguesa prévia é exatamente a tese **menchevique** que as Teses rejeitam;
+- **(d)** as Teses defendiam o **fim imediato** da guerra, considerada imperialista de ambos os lados; foi a insistência em continuá-la que arruinou o Governo Provisório;
+- **(e)** não há qualquer defesa de monarquia — a dinastia Romanov havia caído em março, e nenhuma corrente socialista propunha restaurá-la.
+:::
+
+**7.** Quais foram os impactos internacionais da Revolução Russa? Cite ao menos um efeito no **Brasil**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Impactos internacionais.**
+
+1. **Cisão do movimento operário mundial.** A criação da **Internacional Comunista** (Comintern, 1919) separou definitivamente **comunistas** (revolucionários, alinhados a Moscou) de **social-democratas** (reformistas, comprometidos com a via parlamentar). A divisão teria consequências trágicas na Alemanha, onde a hostilidade recíproca entre comunistas e social-democratas facilitou a ascensão do nazismo (@sec-totalitarismos).
+2. **O "perigo vermelho" como fator político permanente.** O anticomunismo tornou-se argumento estruturante da política ocidental: justificou repressão a sindicatos, deportações de militantes estrangeiros e, mais tarde, apoio a regimes autoritários vistos como barreira ao comunismo (@sec-america-latina-ditaduras).
+3. **Alternativa econômica visível.** Enquanto o capitalismo mergulhava na Depressão dos anos 1930, a URSS exibia crescimento industrial acelerado — o que deu enorme prestígio ao **planejamento** e influenciou políticas econômicas em todo o mundo, inclusive em países capitalistas (@sec-crise-de-1929-entreguerras).
+4. **Apoio ao anticolonialismo.** A URSS ofereceu formação, financiamento e vocabulário político a movimentos de libertação na Ásia e na África (@sec-descolonizacao-africa-asia).
+5. **Efeito indireto sobre direitos sociais.** O temor da revolução ajuda a explicar concessões trabalhistas e previdenciárias em países capitalistas: era mais barato conceder do que arriscar o exemplo soviético.
+
+**No Brasil.**
+
+- A **Greve Geral de 1917** em São Paulo, anarcossindicalista, coincidiu com o ano da revolução e alarmou as elites, que passaram a tratar a "questão social" como caso de polícia — e a legislar sobre expulsão de estrangeiros.
+- Em **1922** foi fundado, em Niterói, o **Partido Comunista Brasileiro (PCB)**, sobretudo por ex-anarquistas convertidos ao bolchevismo. Na ilegalidade quase toda a sua história, teria papel central em **1935** (a Intentona/Levante Comunista) e ao longo do século (@sec-era-vargas).
+- O **anticomunismo** tornou-se peça permanente do repertório conservador brasileiro, mobilizado em 1935, em 1937 (com o falso "Plano Cohen", pretexto para o Estado Novo) e em **1964** (@sec-ditadura-militar).
+:::
+
+**8.** (Estilo vestibular — dissertativa) "A Revolução de Outubro foi um golpe de Estado de uma minoria organizada." Discuta a afirmação com base no debate historiográfico.
+
+::: {.callout-tip collapse="true" title="Solução"}
+A afirmação corresponde à leitura da **escola totalitária**, formulada no Ocidente durante a Guerra Fria e defendida com vigor por **Richard Pipes**: Outubro teria sido um *coup d'état* executado por um partido conspirativo e disciplinado sobre uma sociedade passiva, do qual decorreria em linha reta o regime totalitário e o Gulag [@pipes2016]. Ela precisa ser avaliada em dois planos.
+
+**O que a afirmação acerta.** A tomada do poder em 24–25 de outubro teve, de fato, forma **insurrecional**: foi planejada em segredo pelo **Comitê Militar Revolucionário** sob direção de **Trótski**, envolveu alguns milhares de homens, ocupou pontos estratégicos (correios, telégrafo, pontes, estações) e encontrou resistência mínima. O Palácio de Inverno caiu quase sem combate — nada parecido com a épica do filme de Eisenstein. Além disso, os bolcheviques obtiveram apenas cerca de **24%** dos votos na eleição para a **Assembleia Constituinte**, que dissolveram à força em janeiro de 1918. São fatos, e uma boa resposta não os contorna.
+
+**O que a afirmação omite.** O **revisionismo social** dos anos 1970 (Fitzpatrick, Rabinowitch, Lewin) documentou, a partir de atas de fábricas, comitês e sovietes locais, uma **radicalização real e mensurável** entre fevereiro e outubro:
+
+- os bolcheviques passaram de minoria a **maioria eleita** nos sovietes de Petrogrado e Moscou ao longo de setembro — não por conspiração, mas por sucessivas eleições;
+- os camponeses ocupavam terras **por conta própria**, antecipando o Decreto sobre a Terra;
+- os soldados desertavam e formavam comitês, desintegrando o exército pela base;
+- o partido bolchevique não era o monólito da lenda: era relativamente aberto e **responsivo** às pressões da base, o que Rabinowitch demonstrou para Petrogrado [@rabinowitch2017].
+
+Some-se que o Governo Provisório havia perdido qualquer sustentação após o golpe de **Kornilov**, que o obrigou a armar os próprios operários que temia.
+
+**Síntese possível.** A formulação mais defensável distingue **forma** e **processo**: a tomada do poder em outubro teve a forma de uma **insurreição planejada por uma minoria**; o processo de 1917 como um todo foi uma **revolução social** de massa — queda espontânea da monarquia em fevereiro, ocupações de terra, controle operário, decomposição do exército. Os bolcheviques não criaram esse processo: **capturaram sua direção**, apoiando-se em demandas que eram genuinamente populares ("paz, terra e pão"). Reduzir tudo a "golpe" torna inexplicável por que venceram uma guerra civil de três anos contra exércitos apoiados por catorze países; reduzir tudo a "revolução popular" torna inexplicáveis a dissolução da Constituinte e **Kronstadt**. Reter as duas pontas é o que distingue análise histórica de tomada de partido — e note, por fim, que a própria divergência tem história: a escola totalitária nasceu no auge da Guerra Fria, o revisionismo social na onda da história social dos anos 1960–70, e a síntese atual só foi possível com a abertura dos arquivos após **1991** [@figes1999] (@sec-correntes-historiograficas).
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- FIGES, Orlando. *A tragédia de um povo: a Revolução Russa, 1891–1924* [@figes1999]. Narrativa monumental e humana, que acompanha a revolução por biografias de pessoas comuns e famosas. A melhor porta de entrada.
+- FITZPATRICK, Sheila. *A Revolução Russa* [@fitzpatrick2017]. Curto, claro e equilibrado; defende que 1917 só se entende como processo longo, até os anos 1930.
+- RABINOWITCH, Alexander. *Os bolcheviques chegam ao poder* [@rabinowitch2017]. O estudo clássico do revisionismo social sobre Petrogrado em 1917.
+- TRÓTSKI, Leon. *História da Revolução Russa* [@trotski2017]. Escrita no exílio por um dos protagonistas: análise brilhante e, ao mesmo tempo, **fonte primária** — leia atento a essa dupla condição.
+- PIPES, Richard. *A Revolução Russa* [@pipes2016]. A leitura oposta, da escola totalitária. Compare-o com Figes e Rabinowitch: o exercício vale por um curso de historiografia.
+- DEUTSCHER, Isaac. *Trótski: o profeta armado / desarmado / banido* [@deutscher2005]. Biografia clássica, indispensável para a disputa dos anos 1920.
+
+**Fontes primárias**
+
+- LÊNIN, V. I. *Teses de Abril* [@lenin2011teses]. Duas páginas que mudaram o século.
+- REED, John. *Dez dias que abalaram o mundo* [@reed2010]. Reportagem de um jornalista norte-americano presente em Petrogrado em outubro de 1917 — vibrante, parcial e insubstituível.
+
+**Filmes e documentários**
+
+- *Outubro* (1928), dir. Sergei Eisenstein. Encomendado pelo governo soviético para o décimo aniversário: assista como **propaganda e monumento**, não como registro. Muitas imagens que circulam até hoje como "documentos" da tomada do Palácio de Inverno são cenas deste filme.
+- *Doutor Jivago* (1965), dir. David Lean, e *Reds* (1981), dir. Warren Beatty — dois olhares ocidentais, um melancólico e outro simpático, sobre os mesmos anos.
+- *Encouraçado Potemkin* (1925), de Eisenstein, sobre o motim de 1905: a cena da escadaria de Odessa é ficção, e nem por isso menos reveladora do modo como a revolução construiu sua própria memória (@sec-memoria-patrimonio).

@@ -162,7 +162,7 @@
 | # | Capítulo | Arquivo | Status |
 |---|----------|---------|--------|
 | 1 | A Primeira Guerra Mundial | `capitulos/vol12/cap01-primeira-guerra-mundial.qmd` | ✅ |
-| 2 | A Revolução Russa | `capitulos/vol12/cap02-revolucao-russa.qmd` | ⬜ |
+| 2 | A Revolução Russa | `capitulos/vol12/cap02-revolucao-russa.qmd` | ✅ |
 | 3 | A crise de 1929 e o entreguerras | `capitulos/vol12/cap03-crise-de-1929-entreguerras.qmd` | ⬜ |
 | 4 | Os totalitarismos: fascismo e nazismo | `capitulos/vol12/cap04-totalitarismos.qmd` | ⬜ |
 | 5 | A Segunda Guerra Mundial | `capitulos/vol12/cap05-segunda-guerra-mundial.qmd` | ⬜ |
