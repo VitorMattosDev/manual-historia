@@ -1,5 +1,464 @@
 # A Nova Ordem Mundial e os conflitos do século XXI {#sec-nova-ordem-mundial}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Você provavelmente já tirou os sapatos numa fila de aeroporto, separou os líquidos em saquinhos transparentes e passou por um detector de metais com os braços erguidos. Nada disso existia antes de **11 de setembro de 2001**. As regras que hoje parecem naturais — e que, somadas, consomem alguns milhões de horas humanas por dia no mundo inteiro — foram desenhadas em poucos meses, em resposta a um único evento, e nunca mais foram retiradas. É um bom exemplo de algo que este manual repete desde o começo: acontecimentos históricos não ficam no passado. Eles se depositam em leis, rotinas, orçamentos e reflexos coletivos, e continuam agindo muito depois de terem saído das manchetes. Este capítulo trata das três décadas em que o mundo tentou descobrir que forma teria depois da Guerra Fria — e da descoberta, dolorosa, de que ninguém estava no comando.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- explicar o que se chamou de "**Nova Ordem Mundial**" e por que a expressão envelheceu mal;
+- confrontar as teses do "**fim da História**" (Fukuyama) e do "**choque de civilizações**" (Huntington), com suas críticas;
+- analisar a **Guerra do Golfo** (1991) como inauguração de um novo padrão de intervenção;
+- descrever a **desintegração da Iugoslávia**, o **genocídio de Ruanda** (1994) e o debate sobre **intervenção humanitária**;
+- explicar o **11 de setembro**, a "**guerra ao terror**", o **Afeganistão** e a invasão do **Iraque** (2003);
+- caracterizar a **Primavera Árabe**, a guerra na **Síria** e o **Estado Islâmico**;
+- discutir a ascensão da **China**, o retorno da **Rússia**, a guerra na **Ucrânia** e a passagem à **multipolaridade**;
+- situar o **Brasil** e o **BRICS** nesse cenário, e refletir sobre como escrever a história de um período ainda em curso.
 :::
+
+## A ilusão unipolar (1989–2001) {#sec-ilusao-unipolar}
+
+Entre a queda do Muro de Berlim (novembro de 1989) e o fim da URSS (dezembro de 1991), a estrutura que organizara o mundo por quatro décadas evaporou (@sec-crise-do-socialismo-real). Restou uma única superpotência com capacidade militar de projeção global, uma única moeda de reserva dominante e um único modelo econômico apresentado como viável. Foi o presidente **George H. W. Bush** quem, em setembro de 1990, batizou a novidade: uma "**Nova Ordem Mundial**", em que o direito internacional prevaleceria sobre a força e as Nações Unidas finalmente funcionariam como fora previsto em 1945.
+
+::: {.callout-note title="Conceito: polaridade"}
+Em relações internacionais, **polaridade** descreve como o poder está distribuído no sistema:
+
+- **Bipolar:** dois polos concentram poder e organizam alianças em torno de si. É a Guerra Fria (@sec-ordem-bipolar).
+- **Unipolar:** um único Estado tem capacidade militar, econômica e tecnológica sem rival possível. É o que se supôs existir entre 1991 e, aproximadamente, 2008.
+- **Multipolar:** vários centros de poder relevantes coexistem, sem que nenhum imponha suas regras isoladamente. É a Europa do século XIX (@sec-era-napoleonica) — e, na avaliação da maioria dos analistas, o mundo atual.
+
+Cuidado: polaridade mede **distribuição de capacidades**, não legitimidade nem justiça. Um mundo multipolar não é necessariamente mais pacífico — a Europa multipolar de 1914 produziu a Primeira Guerra Mundial.
+:::
+
+Os anos 1990 pareceram, por algum tempo, confirmar o otimismo. A **Guerra do Golfo** (1991) foi o caso exemplar: quando o Iraque de **Saddam Hussein** invadiu e anexou o **Kuwait**, em agosto de 1990, o Conselho de Segurança da ONU — sem o veto soviético, agora impossível — autorizou o uso da força. Uma coalizão de 34 países, sob comando americano, expulsou os iraquianos em seis semanas. Foi a primeira guerra transmitida ao vivo pela televisão, com imagens de mísseis vistos de suas próprias câmeras, e consolidou a imagem de uma superioridade tecnológica americana esmagadora. E foi também a primeira aplicação prática do que a Carta da ONU previra em 1945 e a Guerra Fria impedira: uma ação coletiva contra a agressão de um Estado a outro [@cartaOnu1945].
+
+O que veio depois desfez rapidamente o encantamento.
+
+## Quando os Estados desmoronam: Iugoslávia e Ruanda {#sec-iugoslavia-ruanda}
+
+**A desintegração da Iugoslávia (1991–2001).** A Iugoslávia socialista, construída por **Tito** após a Segunda Guerra, reunia seis repúblicas, várias nacionalidades e três religiões majoritárias num equilíbrio delicado, sustentado por um partido único, pelo prestígio pessoal de Tito (morto em 1980) e pela posição singular do país entre os blocos. Com a crise econômica dos anos 1980 e o colapso do socialismo no Leste, lideranças políticas de várias repúblicas — **Slobodan Milošević**, na Sérvia, à frente delas — descobriram no **nacionalismo étnico** um substituto eficaz para a legitimidade perdida.
+
+A partir de 1991, as declarações de independência da Eslovênia, da Croácia, da Macedônia e da Bósnia-Herzegovina desencadearam guerras sucessivas. A mais brutal foi a da **Bósnia** (1992–95), onde bósnios muçulmanos, sérvios e croatas viviam misturados em cidades e vilarejos: o cerco de **Sarajevo** durou quase quatro anos, e em **julho de 1995**, em **Srebrenica** — uma "zona de segurança" declarada pela ONU e guardada por um contingente holandês —, forças sérvio-bósnias executaram cerca de **8 mil homens e meninos** bósnios muçulmanos. Foi qualificado como **genocídio** pelo Tribunal Penal Internacional para a ex-Iugoslávia e pela Corte Internacional de Justiça. Em 1999, novo conflito, agora no **Kosovo**, levou a **OTAN** a bombardear a Sérvia **sem autorização do Conselho de Segurança** — precedente que a Rússia invocaria, com sinal invertido, em décadas seguintes.
+
+Daqui vem a expressão que entrou no vocabulário do período: **limpeza étnica** — a expulsão forçada, por violência e terror, de uma população identificada por etnia, religião ou nacionalidade de um território que se pretende homogeneizar.
+
+**O genocídio de Ruanda (1994).** Entre abril e julho de 1994, em cerca de **cem dias**, aproximadamente **800 mil pessoas** — em sua imensa maioria da minoria **tutsi**, além de **hutus** moderados — foram assassinadas em Ruanda, na África Oriental. A maior parte das mortes foi cometida com facões, por vizinhos, colegas e conhecidos das vítimas, mobilizados por uma propaganda de rádio incessante que chamava os tutsis de "baratas".
+
+::: {.callout-important title="Ruanda: desfazendo a explicação preguiçosa"}
+A versão que circulou na imprensa da época — "ódio tribal ancestral africano" — é falsa, e desmontá-la é um exercício exemplar de análise histórica.
+
+1. **A distinção rígida entre hutus e tutsis foi consolidada pelo colonialismo.** Falavam a mesma língua, professavam a mesma religião, viviam nos mesmos territórios e casavam entre si. Colonizadores alemães e depois belgas, aplicando as teorias raciais do século XIX (@sec-imperialismo), classificaram os tutsis como "mais nobres" e "hamitas", entregaram-lhes o poder administrativo e **inscreveram a etnia nas carteiras de identidade** — documento que, em 1994, permitiu identificar quem matar nas barreiras de estrada.
+2. **O genocídio foi planejado, não espontâneo.** Houve listas prévias, distribuição organizada de armas brancas importadas em grande quantidade, milícias treinadas (*interahamwe*) e uma emissora, a **Rádio Mil Colinas**, que transmitia instruções e nomes.
+3. **A comunidade internacional sabia e não agiu.** O comandante da missão da ONU no país, o general canadense **Roméo Dallaire**, enviou alertas explícitos meses antes. O Conselho de Segurança **reduziu** o contingente quando a matança começou. Os governos evitaram deliberadamente a palavra "genocídio", porque pronunciá-la acionaria obrigações legais previstas na Convenção de 1948 — episódio documentado por **Samantha Power** [@power2004].
+
+A conclusão: chamar Ruanda de "ódio ancestral" não apenas erra os fatos como **isenta** os responsáveis — os planejadores locais e os governos que escolheram não intervir. É a mesma armadilha analítica que o @sec-oriente-medio adverte a respeito do Oriente Médio.
+:::
+
+**O dilema da intervenção.** Os anos 1990 deixaram uma pergunta sem resposta consensual até hoje: quando a comunidade internacional **deve** intervir militarmente em outro país para proteger civis? Intervir viola a soberania estatal, princípio fundador da ordem internacional desde o século XVII e proteção essencial dos países fracos contra os fortes. Não intervir permite Ruandas e Srebrenicas. A tentativa de resposta foi a doutrina da **Responsabilidade de Proteger** (R2P), adotada pela ONU em 2005: a soberania implica o dever do Estado de proteger sua população, e, se ele falha gravemente, a responsabilidade passa à comunidade internacional. Na prática, a doutrina foi aplicada de forma seletiva — e seu uso na **Líbia** em 2011, quando uma autorização para proteger civis se converteu em apoio à derrubada do governo, tornou países como Rússia, China, Índia e Brasil profundamente desconfiados de sua invocação futura.
+
+## 11 de setembro e a "guerra ao terror" {#sec-11-de-setembro}
+
+Na manhã de **11 de setembro de 2001**, dezenove membros da **Al-Qaeda** sequestraram quatro aviões comerciais nos Estados Unidos. Dois atingiram as torres do **World Trade Center**, em Nova York, que desabaram; um atingiu o **Pentágono**; o quarto caiu na Pensilvânia após reação dos passageiros. Morreram cerca de **3 mil pessoas**, de mais de noventa nacionalidades. Foi o maior ataque em território continental americano desde 1812, e o mais assistido ao vivo da história.
+
+A **Al-Qaeda**, fundada por **Osama bin Laden**, saudita de família rica, tinha raízes diretas na Guerra Fria: formou-se no ambiente dos *mujahidin* que combateram a ocupação soviética do **Afeganistão** (1979–89), com financiamento e armamento americano, saudita e paquistanês (@sec-crise-do-socialismo-real). Suas reivindicações declaradas eram a retirada de tropas americanas da Arábia Saudita, o fim do apoio a Israel e a derrubada de regimes árabes aliados do Ocidente.
+
+**A resposta.** Em outubro de 2001, os Estados Unidos e aliados invadiram o **Afeganistão**, derrubando em semanas o regime do **Talibã**, que abrigava a Al-Qaeda. Bin Laden escapou e só seria morto em 2011, no Paquistão. A ocupação, iniciada como operação punitiva, transformou-se na guerra mais longa da história americana: durou **vinte anos**, custou mais de dois trilhões de dólares e terminou em **agosto de 2021** com a retirada caótica das tropas e a retomada imediata do poder pelo Talibã — praticamente o mesmo grupo derrubado em 2001.
+
+::: {.callout-warning title="A Doutrina Bush e o problema da guerra preventiva"}
+Em 2002, a Estratégia de Segurança Nacional americana formulou a doutrina da **ação preventiva**: os Estados Unidos se reservavam o direito de atacar Estados ou grupos **antes** de sofrerem um ataque, quando avaliassem existir uma ameaça em formação [@bush2002].
+
+Por que isso é juridicamente explosivo? Porque a **Carta da ONU** proíbe o uso da força entre Estados, com apenas duas exceções: **legítima defesa** contra ataque armado em curso e autorização do **Conselho de Segurança** [@cartaOnu1945]. A guerra preventiva não cabe em nenhuma das duas: ela se apoia numa **previsão** sobre o futuro, e não num fato ocorrido.
+
+O problema prático é a **reciprocidade**. Um princípio invocado por um Estado torna-se disponível para todos. Se a suspeita de ameaça futura autoriza atacar, qualquer país pode alegá-la contra o vizinho. Essa é a objeção central que juristas e diplomatas levantaram em 2003 — e que ressurgiria, com outros protagonistas, nas justificativas russas para a Ucrânia em 2022. Guarde o raciocínio: **precedentes não pertencem a quem os cria**.
+:::
+
+**A invasão do Iraque (2003).** Em março de 2003, uma coalizão liderada pelos Estados Unidos, com apoio britânico e sem autorização do Conselho de Segurança, invadiu o **Iraque**. As justificativas públicas foram duas: a posse, por Saddam Hussein, de **armas de destruição em massa**, e supostos vínculos com a Al-Qaeda. O regime caiu em três semanas; Saddam foi capturado e executado em 2006.
+
+**Nenhuma das duas justificativas se sustentou.** As armas de destruição em massa nunca foram encontradas, e as investigações posteriores — inclusive a comissão britânica **Chilcot**, publicada em 2016 — concluíram que a inteligência havia sido apresentada com certeza que os dados não autorizavam. Vínculos operacionais com a Al-Qaeda não existiam: o regime de Saddam era **laico** e hostil ao islamismo político.
+
+As consequências foram enormes e majoritariamente não intencionais:
+
+- a **desmontagem do Estado iraquiano** — dissolução do exército, expurgo de todos os quadros ligados ao partido Baath — deixou centenas de milhares de homens armados, treinados e desempregados;
+- instaurou-se uma **guerra civil confessional** entre sunitas e xiitas, com centenas de milhares de mortos civis;
+- a tortura de prisioneiros em **Abu Ghraib** e o regime jurídico excepcional da prisão de **Guantánamo** corroeram a autoridade moral com que os Estados Unidos justificavam a operação;
+- a região perdeu o contrapeso iraquiano, e o **Irã** — inimigo de Saddam — emergiu como potência regional fortalecida;
+- dos escombros da insurgência sunita nasceria, anos depois, o **Estado Islâmico**.
+
+::: {#fig-linha-do-tempo-pos-guerra-fria}
+
+```{.tikz}
+%%| filename: fig-linha-do-tempo-pos-guerra-fria
+%%| alt: Linha do tempo do mundo pós-Guerra Fria, de 1989 a 2022, com queda do Muro, Guerra do Golfo, Ruanda, Kosovo, 11 de setembro, Iraque, crise de 2008, Primavera Árabe, Crimeia e Ucrânia.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \fill[manualgreen!16, rounded corners] (0.3,-1.5) rectangle (5.4,-0.55);
+  \node[text=manualgreen!45!black, font=\scriptsize\bfseries, align=center] at (2.85,-1.02) {euforia unipolar\\ e ``fim da História''};
+  \fill[manualred!14, rounded corners] (5.6,-1.5) rectangle (10.3,-0.55);
+  \node[text=manualred, font=\scriptsize\bfseries, align=center] at (7.95,-1.02) {guerra ao terror};
+  \fill[manualblue!14, rounded corners] (10.5,-1.5) rectangle (15.0,-0.55);
+  \node[text=manualblue, font=\scriptsize\bfseries, align=center] at (12.75,-1.02) {retorno da\\ multipolaridade};
+
+  \draw[eixo] (0,0) -- (15.2,0);
+  \node[eixo, gray] at (15.2,-0.42) {tempo (fora de escala)};
+
+  \node[ponto] at (0.9,0) {};
+  \node[below, align=center] at (0.9,-0.18) {\textbf{1989--91}};
+  \node[above, align=center, text=manualgreen!45!black] at (0.9,0.2) {queda do \textbf{Muro}\\ fim da \textbf{URSS}\\ Guerra do \textbf{Golfo}};
+
+  \node[ponto] at (3.0,0) {};
+  \node[below, align=center] at (3.0,-0.18) {\textbf{1991--95}};
+  \node[above, align=center, text=manualred] at (3.0,0.2) {guerras da\\ \textbf{Iugoslávia}\\ \textbf{Srebrenica} (1995)};
+
+  \node[ponto] at (4.7,0) {};
+  \node[below, align=center] at (4.7,-0.18) {\textbf{1994}};
+  \node[above, align=center, text=manualred] at (4.7,0.2) {genocídio de\\ \textbf{Ruanda}};
+
+  \node[ponto] at (6.2,0) {};
+  \node[below, align=center] at (6.2,-0.18) {\textbf{1999}};
+  \node[above, align=center, text=manualgray!40!black] at (6.2,0.2) {\textbf{Kosovo}\\ OTAN sem aval\\ do Conselho};
+
+  \node[ponto] at (7.8,0) {};
+  \node[below, align=center] at (7.8,-0.18) {\textbf{2001}};
+  \node[above, align=center, text=manualred] at (7.8,0.2) {\textbf{11 de setembro}\\ \textbf{Afeganistão}};
+
+  \node[ponto] at (9.4,0) {};
+  \node[below, align=center] at (9.4,-0.18) {\textbf{2003}};
+  \node[above, align=center, text=manualred] at (9.4,0.2) {invasão do\\ \textbf{Iraque}};
+
+  \node[ponto] at (10.9,0) {};
+  \node[below, align=center] at (10.9,-0.18) {\textbf{2008}};
+  \node[above, align=center, text=manualyellow!55!black] at (10.9,0.2) {\textbf{crise financeira}\\ Geórgia\\ ascensão chinesa};
+
+  \node[ponto] at (12.4,0) {};
+  \node[below, align=center] at (12.4,-0.18) {\textbf{2011}};
+  \node[above, align=center, text=manualyellow!55!black] at (12.4,0.2) {\textbf{Primavera Árabe}\\ Líbia $\cdot$ \textbf{Síria}};
+
+  \node[ponto] at (13.7,0) {};
+  \node[below, align=center] at (13.7,-0.18) {\textbf{2014}};
+  \node[above, align=center, text=manualblue] at (13.7,0.2) {\textbf{Crimeia}\\ Estado Islâmico};
+
+  \node[ponto] at (14.9,0) {};
+  \node[below, align=center] at (14.9,-0.18) {\textbf{2022}};
+  \node[above, align=center, text=manualblue] at (14.9,0.2) {invasão da\\ \textbf{Ucrânia}};
+\end{tikzpicture}
+```
+
+Do fim da Guerra Fria ao retorno da guerra interestatal na Europa.
+:::
+
+## Primavera Árabe, Síria e Estado Islâmico {#sec-primavera-arabe}
+
+Em **dezembro de 2010**, na cidade tunisiana de Sidi Bouzid, um vendedor ambulante chamado **Mohamed Bouazizi** teve sua banca confiscada e, humilhado, ateou fogo ao próprio corpo diante da prefeitura. Sua morte desencadeou protestos que, em semanas, derrubaram o presidente **Ben Ali**, no poder havia 23 anos, e se espalharam pelo mundo árabe: **Egito** (queda de Hosni Mubarak em fevereiro de 2011, após dezoito dias na praça Tahrir), **Líbia**, **Iêmen**, **Bahrein**, **Síria**.
+
+As causas eram materiais e políticas ao mesmo tempo: regimes autoritários envelhecidos, desemprego juvenil massivo numa população muito jovem, alta dos preços dos alimentos, corrupção ostensiva e humilhação cotidiana pela polícia. As redes sociais tiveram papel real na coordenação e na difusão de imagens — mas cuidado com a expressão "revolução do Facebook", popular na época e hoje abandonada: as redes **ampliaram** e aceleraram, não causaram (@sec-sociedade-em-rede).
+
+**Os desfechos foram muito diferentes**, e a comparação é justamente o que torna o episódio interessante:
+
+- **Tunísia:** único caso de transição democrática duradoura, com nova Constituição em 2014 e Prêmio Nobel da Paz para o quarteto de diálogo nacional — embora a democracia tunisiana tenha sofrido grave retrocesso a partir de 2021;
+- **Egito:** eleição de **Mohamed Morsi**, da Irmandade Muçulmana, em 2012, seguida de golpe militar em 2013 e instauração de um regime autoritário mais duro que o anterior;
+- **Líbia:** intervenção da OTAN, morte de **Kadafi** e colapso do Estado em guerra civil entre milícias;
+- **Síria:** repressão feroz de **Bashar al-Assad** à contestação pacífica, transformação em guerra civil e depois em guerra internacionalizada, com participação de Rússia, Irã, Turquia, Estados Unidos e diversos grupos armados. Centenas de milhares de mortos e a maior crise de refugiados desde a Segunda Guerra — cerca de treze milhões de deslocados, cujos deslocamentos para a Europa a partir de 2015 se tornaram um dos combustíveis do crescimento da extrema direita europeia. O regime de Assad sobreviveu até ser derrubado, em dezembro de 2024, por uma ofensiva relâmpago de grupos rebeldes.
+
+**O Estado Islâmico.** Surgido da insurgência sunita no Iraque ocupado e fortalecido no caos sírio, o grupo proclamou em 2014 um "califado" sobre território que chegou a ser do tamanho do Reino Unido. Distinguiu-se por três características: o controle **territorial** efetivo, com administração, impostos e escolas; uma violência **espetacularizada**, filmada em alta definição e distribuída pelas redes como instrumento de recrutamento e terror; e a prática de atrocidades sistemáticas contra minorias, especialmente o massacre e a escravização de **yazidis**, qualificado como genocídio pela ONU. Foi militarmente derrotado no território entre 2017 e 2019 por uma coalizão que incluía forças curdas, iraquianas, americanas, russas e iranianas — muitas delas inimigas entre si, o que diz muito sobre a complexidade do tabuleiro.
+
+## O retorno da multipolaridade {#sec-multipolaridade}
+
+Três processos, simultâneos e conectados, desfizeram o momento unipolar.
+
+**1. A ascensão da China.** Desde as reformas iniciadas por **Deng Xiaoping** em 1978 — "socialismo de mercado" com Partido Comunista no comando —, a China cresceu a taxas próximas de 10% ao ano por três décadas, retirou centenas de milhões de pessoas da pobreza e tornou-se a "fábrica do mundo". Entrou na **OMC** em 2001, ultrapassou o Japão como segunda maior economia em 2010 e lançou, em 2013, a **Nova Rota da Seda** (*Belt and Road Initiative*), programa gigantesco de investimento em portos, ferrovias e energia em mais de cem países. O modelo chinês contradiz frontalmente a expectativa dos anos 1990 de que abertura econômica traria democratização: o crescimento veio acompanhado de **centralização política crescente**, sobretudo sob **Xi Jinping** a partir de 2012.
+
+**2. O retorno da Rússia.** Após a década de humilhação e colapso econômico dos anos 1990, **Vladimir Putin** (no poder desde 1999) reconstruiu a autoridade central, apoiado na alta dos preços de petróleo e gás, e passou a contestar abertamente a expansão da **OTAN** para o Leste Europeu. A escalada tem marcos claros: guerra na **Geórgia** (2008), anexação da **Crimeia** e apoio a separatistas no leste ucraniano (2014), intervenção na **Síria** (2015) e, em **fevereiro de 2022**, a **invasão em larga escala da Ucrânia** — a maior guerra interestatal na Europa desde 1945, com centenas de milhares de baixas, milhões de refugiados, sanções ocidentais sem precedentes e efeitos globais sobre preços de energia e de alimentos.
+
+**3. A perda de autoridade americana.** O Iraque destruiu a credibilidade das justificativas; a crise de 2008 (@sec-globalizacao-neoliberalismo) abalou a autoridade do modelo econômico; a retirada do Afeganistão em 2021 exibiu os limites do poder militar; e a polarização interna americana tornou sua política externa imprevisível de um governo para outro.
+
+O resultado é um sistema que a maioria dos analistas descreve como **multipolar** ou "**não polar**": vários centros de poder — Estados Unidos, China, União Europeia, Rússia, Índia —, instituições multilaterais enfraquecidas, e um número crescente de países médios praticando o que se chamou de **não alinhamento ativo**, isto é, recusando escolher lado e negociando com todos.
+
+**O Brasil nesse tabuleiro.** A política externa brasileira do período oscilou. Nos anos 1990, sob FHC, buscou-se credibilidade internacional pela adesão a regimes multilaterais — o Brasil aderiu ao Tratado de Não Proliferação Nuclear em 1998 — e pela integração regional. Nos anos 2000, sob **Lula** e a chancelaria de **Celso Amorim**, praticou-se uma diplomacia mais assertiva e "**Sul–Sul**": ampliação de embaixadas na África, protagonismo na rejeição da **Alca** (2005) e no travamento das negociações agrícolas da OMC, criação do **BRICS** e da **Unasul**, comando militar da missão da ONU no **Haiti** (Minustah, 2004–2017) e a tentativa, com a Turquia, de mediar o programa nuclear iraniano em 2010 — iniciativa que irritou Washington e não prosperou [@amorim2015]. A candidatura brasileira a um assento permanente no Conselho de Segurança, sustentada com constância desde os anos 1990, esbarra num obstáculo estrutural: qualquer reforma exige aprovação dos cinco membros permanentes atuais, que teriam de aceitar diluir o próprio poder.
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+**1. Fukuyama e o "fim da História".** Em 1989, ainda antes da queda da URSS, **Francis Fukuyama** publicou o artigo — depois livro — em que sustentava que a humanidade havia chegado ao "ponto final da evolução ideológica", com a democracia liberal como "forma final de governo humano" [@fukuyama1992]. É crucial entender o que ele **não** disse, porque a tese é constantemente caricaturada: Fukuyama não afirmou que os acontecimentos cessariam, nem que não haveria mais guerras. Sua tese, de inspiração hegeliana, era que nenhum **projeto rival** de organização social com pretensão universal continuava de pé — fascismo e comunismo haviam sido derrotados, e nada os substituía.
+
+As objeções acumularam-se rápido, e três delas se sustentaram. Primeiro: o **islamismo político** e, mais tarde, o **modelo chinês** apresentam-se precisamente como alternativas com pretensão universal — a China oferece hoje, a governos de dezenas de países, um caminho de desenvolvimento sem democracia liberal. Segundo: a **erosão democrática interna** das próprias democracias consolidadas, tema do @sec-desafios-do-presente, contradiz a ideia de ponto de chegada estável. Terceiro, e mais interessante do ponto de vista historiográfico: a tese é **teleológica** — supõe que a História tem uma direção e um destino —, e a teleologia é precisamente o vício que este manual combate desde o primeiro capítulo (@sec-o-que-e-historia). O próprio Fukuyama revisou substancialmente suas posições nas décadas seguintes, passando a escrever sobre a **decadência** das instituições políticas americanas.
+
+**2. Huntington e o "choque de civilizações".** Em 1993, **Samuel Huntington** ofereceu a resposta rival: os conflitos do futuro não seriam ideológicos nem econômicos, mas **culturais**, entre grandes blocos civilizacionais definidos por religião e tradição — ocidental, islâmico, confuciano, hindu, eslavo-ortodoxo, latino-americano, africano, japonês —, com as guerras se concentrando nas "linhas de fratura" entre eles [@huntington1997]. Depois de 2001, a tese foi celebrada como profética por muitos comentaristas.
+
+As críticas são devastadoras, e vale conhecê-las porque a tese continua circulando no debate público:
+
+- **As "civilizações" não são atores.** Não têm governo, exército, orçamento nem vontade. Estados têm. Tratar "o Islã" ou "o Ocidente" como sujeitos que agem é uma personificação que não resiste ao exame empírico.
+- **A maior parte da violência é intracivilizacional.** A guerra Irã–Iraque, a guerra civil síria, os conflitos da África subsaariana, as duas guerras mundiais entre potências europeias cristãs: os conflitos mais mortíferos ocorrem **dentro** dos supostos blocos.
+- **Homogeneíza internamente.** Não existe "o" Islã, como não existe "o" Ocidente: há disputas internas mais profundas do que as externas.
+- **Edward Said** respondeu com a expressão que ficou: mais do que um choque de civilizações, o que se via era um "**choque de ignorâncias**", em que categorias grosseiras substituíam o conhecimento das sociedades concretas [@said2007; @said2011].
+- E há a objeção **performativa**, a mais grave para um historiador: teorias sobre o mundo social **agem** sobre o mundo social. Uma tese que ensina líderes e opiniões públicas a interpretar cada conflito como choque religioso ajuda a produzir a realidade que descreve.
+
+::: {#fig-teses-nova-ordem}
+
+```{.tikz}
+%%| filename: fig-teses-nova-ordem
+%%| alt: Diagrama comparando as três teses sobre a ordem mundial pós-1991: fim da História, choque de civilizações e multipolaridade conflitiva.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \node[draw, very thick, rounded corners, fill=manualgray!16, align=center, text width=13.6cm] (q) at (0,3.3)
+    {\textbf{A PERGUNTA DE 1991:} desfeita a ordem bipolar, que forma o mundo vai assumir?};
+
+  \node[draw, thick, rounded corners, fill=manualgreen!16, align=left, text width=4.25cm] (f) at (-4.8,0.9)
+    {\textbf{FIM DA HISTÓRIA}\\ \textit{Fukuyama} (1989--92)\\[3pt]
+     Nenhum projeto \textbf{rival}\\ universal restou. A democracia\\ liberal é o horizonte final.\\[3pt]
+     \textbf{Crítica:} teleológica; ignora\\ islamismo, modelo chinês e\\ a erosão interna das próprias\\ democracias.};
+
+  \node[draw, thick, rounded corners, fill=manualred!14, align=left, text width=4.25cm] (h) at (0,0.9)
+    {\textbf{CHOQUE DE CIVILIZAÇÕES}\\ \textit{Huntington} (1993--96)\\[3pt]
+     Os conflitos serão \textbf{culturais},\\ nas fronteiras entre grandes\\ blocos civilizacionais.\\[3pt]
+     \textbf{Crítica:} civilizações não são\\ atores; a violência é sobretudo\\ \textbf{interna} a cada bloco; ``choque\\ de ignorâncias'' (Said).};
+
+  \node[draw, thick, rounded corners, fill=manualblue!14, align=left, text width=4.25cm] (m) at (4.8,0.9)
+    {\textbf{MULTIPOLARIDADE}\\ \textit{Hobsbawm, Mearsheimer,}\\ \textit{Kaldor e outros}\\[3pt]
+     Vários polos, instituições\\ fracas, novas guerras\\ \textbf{intraestatais} e assimétricas.\\[3pt]
+     \textbf{Crítica:} descreve melhor do\\ que prevê; ``multipolar'' abriga\\ diagnósticos muito distintos.};
+
+  \draw[vetor, thick, manualgray] (q) -- (f); \draw[vetor, thick, manualgray] (q) -- (h); \draw[vetor, thick, manualgray] (q) -- (m);
+
+  \node[draw, dashed, rounded corners, fill=manualyellow!22, align=center, text width=13.6cm] at (0,-2.15)
+    {\textbf{O que o historiador retém:} as três são \textbf{previsões}, e previsão é o produto mais perecível do trabalho intelectual.\\ O interesse delas hoje é menos o acerto do que o que revelam sobre \textbf{como} os anos 1990 pensaram a si mesmos ---\\ isto é, elas valem sobretudo como \textbf{fontes} do período que pretendiam explicar.};
+\end{tikzpicture}
+```
+
+Três respostas à pergunta de 1991 — e o modo historiográfico de lê-las.
+:::
+
+**3. As "novas guerras".** A socióloga britânica **Mary Kaldor** propôs que os conflitos armados posteriores a 1989 diferem qualitativamente das guerras clássicas [@kaldor2012]. Nas "**velhas guerras**", Estados enfrentavam Estados, com exércitos regulares, objetivos geopolíticos definidos e uma distinção formal entre combatentes e civis. Nas "**novas guerras**" — Bósnia, Serra Leoa, Congo, Somália, Síria —, os atores são milícias, senhores da guerra, paramilitares e empresas militares privadas; o financiamento vem de pilhagem, tráfico e diásporas; os objetivos são identitários mais do que territoriais; a violência contra **civis** não é dano colateral, mas **método**, porque o objetivo é controlar populações pelo terror; e os conflitos tendem a não terminar, e sim a se cronificar como economias de guerra autossustentadas.
+
+A crítica mais consistente é histórica: **essas características não são novas**. A Guerra dos Trinta Anos (1618–48) e a Guerra do Paraguai (@sec-crise-do-imperio) devastaram populações civis; mercenários e financiamento por pilhagem são antiquíssimos. O que Kaldor teria captado, nessa leitura, não é uma novidade absoluta, e sim o **fim da excepcionalidade** do modelo de guerra interestatal regular que dominou a Europa entre os séculos XVII e XX. A resposta é elegante e vale como método geral: **antes de declarar qualquer coisa "inédita", verifique se o que parece novo não é apenas o retorno do que sempre foi comum, depois de um intervalo atípico**.
+
+**4. A história do tempo presente e o problema do arquivo.** Escrever sobre 2003 ou 2022 esbarra em três dificuldades que o historiador do século XVII não enfrenta. Primeiro, os **arquivos estão fechados**: documentos de governo permanecem classificados por décadas, e o que se conhece é o que vazou, o que foi divulgado por interesse de alguém ou o que testemunhas escolheram contar. Segundo, o **excesso** de fontes disponíveis é tão problemático quanto a escassez: bilhões de páginas, vídeos e postagens, sem a filtragem que o tempo normalmente opera. Terceiro, o historiador é **parte** do processo que analisa, com posições políticas sobre o objeto.
+
+Isso torna a história do tempo presente impossível? Não — torna-a **provisória**, e essa é uma diferença enorme. O caso do Iraque é exemplar: em 2003, a existência de armas de destruição em massa era afirmada com veemência por governos e por boa parte da imprensa; entre 2004 e 2016, investigações oficiais estabeleceram que não havia armas e que a inteligência fora apresentada com certeza indevida. Em treze anos, o que "todos sabiam" foi documentalmente desmentido. A lição prática, e ela vale para todo este volume: **trabalhe com o melhor conhecimento disponível, declare o grau de certeza de cada afirmação, distinga o verificado do disputado e esteja preparado para revisar**. Não é uma fraqueza do método histórico — é o método funcionando.
+
+## Resumo do capítulo {#sec-resumo}
+
+- **"Nova Ordem Mundial"** (Bush, 1990): expectativa de primazia do direito internacional e da ONU após o fim da bipolaridade. **Guerra do Golfo** (1991), com aval do Conselho de Segurança, pareceu confirmá-la.
+- **Polaridade:** bipolar (Guerra Fria) → unipolar (1991–c. 2008) → multipolar/não polar (atual). Polaridade mede **distribuição de poder**, não justiça: a Europa multipolar de 1914 produziu a Primeira Guerra.
+- **Iugoslávia** (1991–2001): nacionalismo étnico como substituto da legitimidade perdida; guerra da **Bósnia**, cerco de **Sarajevo**, genocídio de **Srebrenica** (1995, ~8 mil mortos); **Kosovo** (1999) bombardeado pela OTAN **sem** aval do Conselho — precedente depois invocado pela Rússia. Conceito de **limpeza étnica**.
+- **Ruanda** (1994): ~800 mil mortos em cem dias. As categorias hutu/tutsi foram **rigidificadas pelo colonialismo** belga, inclusive nas carteiras de identidade; o genocídio foi **planejado** (listas, milícias, Rádio Mil Colinas); a ONU sabia e **reduziu** seu contingente. "Ódio ancestral" é explicação falsa que isenta responsáveis.
+- **Intervenção humanitária:** dilema entre soberania e proteção de civis; doutrina da **Responsabilidade de Proteger** (2005), aplicada seletivamente e desacreditada pelo uso na **Líbia** (2011).
+- **11 de setembro de 2001:** Al-Qaeda, **Bin Laden**, ~3 mil mortos. **Afeganistão** (2001–2021): vinte anos e retorno do Talibã. **Doutrina Bush** da **guerra preventiva**, incompatível com a Carta da ONU — e o problema da **reciprocidade dos precedentes**.
+- **Iraque (2003):** invasão sem aval da ONU, justificada por **armas de destruição em massa** que não existiam e por vínculos com a Al-Qaeda que não existiam (comissão **Chilcot**, 2016). Consequências: colapso do Estado iraquiano, guerra civil confessional, **Abu Ghraib** e **Guantánamo**, fortalecimento do **Irã** e origem remota do **Estado Islâmico**.
+- **Primavera Árabe** (2010–12): de **Bouazizi**, na Tunísia, à queda de Ben Ali e Mubarak. Desfechos opostos: transição na **Tunísia**, golpe no **Egito** (2013), colapso na **Líbia**, guerra internacionalizada na **Síria** (maior crise de refugiados desde 1945; Assad cai em dezembro de 2024). **Estado Islâmico**: controle territorial, violência espetacularizada, genocídio dos **yazidis**, derrota militar entre 2017 e 2019.
+- **Multipolaridade:** ascensão da **China** (reformas de Deng em 1978, OMC em 2001, Nova Rota da Seda em 2013, centralização sob Xi) desmentindo a tese de que abertura traria democracia; retorno da **Rússia** (Geórgia 2008, **Crimeia** 2014, Síria 2015, **Ucrânia** 2022); e perda de autoridade americana.
+- **Brasil:** adesão multilateral nos anos 1990; diplomacia **Sul–Sul** nos anos 2000 (Amorim, Alca, **BRICS**, Unasul, Haiti, mediação com o Irã em 2010); candidatura ao Conselho de Segurança bloqueada pela exigência de aprovação dos próprios cinco permanentes.
+- **Historiografia: Fukuyama** (fim da História — teleológico, desmentido pelo islamismo, pelo modelo chinês e pela erosão democrática) × **Huntington** (choque de civilizações — civilizações não são atores, a violência é sobretudo interna, "choque de ignorâncias" segundo **Said**) × **multipolaridade conflitiva**. **Kaldor** e as "novas guerras", com a objeção histórica de que a novidade é o fim da excepcionalidade europeia. E o método da **história do tempo presente**: arquivos fechados, excesso de fontes, implicação do autor — conhecimento **provisório**, não impossível.
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Domine: (1) o conceito de polaridade e a cronologia bipolar → unipolar → multipolar; (2) por que Ruanda não se explica por ódio ancestral; (3) o dilema soberania × proteção; (4) a doutrina da guerra preventiva e o argumento da reciprocidade; (5) as consequências não intencionais de 2003; (6) por que a Primavera Árabe teve desfechos tão diferentes; (7) Fukuyama × Huntington e as críticas a ambos; (8) as regras da história do tempo presente.
+:::
+
+**1.** Explique o que se entendeu por "**Nova Ordem Mundial**" nos anos 1990 e por que a expressão perdeu credibilidade.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**O que se esperava.** A expressão foi usada por **George H. W. Bush** em 1990 para descrever o mundo que sucederia à Guerra Fria: com o fim da rivalidade bipolar e do veto soviético automático, o **Conselho de Segurança** poderia finalmente funcionar como previsto na Carta de 1945, o direito internacional prevaleceria sobre a força, e as disputas seriam resolvidas coletivamente [@cartaOnu1945]. No plano econômico, a expectativa correspondente era a difusão universal da democracia liberal e da economia de mercado — a tese do "**fim da História**" de **Fukuyama** [@fukuyama1992].
+
+**Por que pareceu confirmar-se.** A **Guerra do Golfo** (1990–91) foi o caso modelo: a agressão iraquiana ao Kuwait foi condenada pelo Conselho de Segurança, a resposta militar foi **autorizada**, uma coalizão ampla se formou, o objetivo declarado (expulsar o agressor) foi cumprido e as tropas não prosseguiram até Bagdá. Aparentemente, o sistema funcionava.
+
+**Por que a expressão envelheceu mal — quatro razões.**
+
+1. **Os massacres que a ordem não impediu.** **Ruanda** (1994) e **Srebrenica** (1995) ocorreram sob os olhos de missões da ONU no terreno, com alertas prévios. Não foi falha de informação: foi falta de vontade política dos Estados com poder de decidir.
+2. **A seletividade.** Intervenções ocorreram onde havia interesse estratégico e não ocorreram onde não havia, o que sugeria que o critério real não era o humanitário.
+3. **O abandono do multilateralismo pelo próprio Estado que o proclamara.** **Kosovo** (1999) foi bombardeado pela OTAN **sem** autorização do Conselho; o **Iraque** (2003) foi invadido contra a posição de vários membros permanentes, com base em alegações que se revelariam falsas. A doutrina da **guerra preventiva** [@bush2002] é incompatível com a Carta da ONU, que só admite o uso da força em legítima defesa ou por autorização do Conselho.
+4. **A multipolaridade de fato.** A ascensão da **China**, o retorno assertivo da **Rússia** e o desgaste americano após o Iraque, o Afeganistão e a crise de 2008 desfizeram a base material da unipolaridade.
+
+**A leitura historiográfica que fecha a resposta.** A "Nova Ordem Mundial" foi menos uma descrição do que uma **expectativa** — e, como toda expectativa formulada por quem estava no topo do sistema, projetava a própria posição como norma universal. O historiador deve lê-la como **fonte** sobre a autopercepção do poder americano no início dos anos 1990, e não como diagnóstico frustrado. É a mesma operação que se faz com qualquer manifesto: pergunta-se o que ele revela sobre quem o escreveu, e não apenas se ele acertou.
+:::
+
+**2.** Por que a explicação do genocídio de **Ruanda** por "ódios tribais ancestrais" é considerada falsa pelos historiadores?
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Os fatos.** Entre abril e julho de **1994**, cerca de **800 mil pessoas** — majoritariamente **tutsis**, além de **hutus** moderados — foram assassinadas em Ruanda em cerca de cem dias, a maioria com armas brancas, por vizinhos e conhecidos.
+
+**Por que a explicação por ódio ancestral é falsa — quatro argumentos.**
+
+**1. As categorias não eram etnias distintas no sentido usual.** Hutus e tutsis falavam a **mesma língua**, praticavam a **mesma religião**, viviam nos **mesmos territórios**, casavam entre si e não tinham cultura material distinta. A diferença original era em boa parte **socioeconômica** — associada à posse de gado e à posição na hierarquia do reino — e havia mobilidade entre as categorias.
+
+**2. A rigidez foi obra colonial.** Administradores alemães e depois belgas, aplicando as teorias raciais europeias do século XIX (@sec-imperialismo), converteram uma distinção fluida em classificação fixa: descreveram os tutsis como raça "hamita" superior, entregaram-lhes cargos administrativos e escolarização, e — decisivo — **inscreveram a categoria étnica nas carteiras de identidade**. Foi exatamente esse documento que, em 1994, permitiu selecionar quem morreria nas barreiras de estrada. A violência de 1994 usou um instrumento **produzido pela administração colonial**.
+
+**3. O genocídio foi planejado, não uma explosão espontânea.** Havia **listas** de nomes preparadas com antecedência; importação e distribuição em massa de facões; milícias organizadas e treinadas (*interahamwe*); e uma emissora, a **Rádio Mil Colinas**, que desumanizava sistematicamente os tutsis ("baratas") e transmitia instruções operacionais e nomes de pessoas a serem mortas. Massacres espontâneos não requerem logística.
+
+**4. Havia um contexto político e econômico imediato.** Guerra civil desde 1990 contra a Frente Patriótica Ruandesa; queda dos preços do café, base da economia; ajuste estrutural e empobrecimento; disputa de poder entre facções da elite hutu; e o assassinato do presidente Habyarimana, em 6 de abril de 1994, usado como gatilho por quem já estava preparado.
+
+**Por que a explicação preguiçosa é perigosa — e este é o ponto que a questão premia.** Ela **isenta**. Se o genocídio foi um transbordamento inevitável de ódios milenares africanos, então ninguém em particular é responsável: nem os planejadores, nem os que armaram e financiaram, nem os governos estrangeiros que sabiam. E eles sabiam: o general **Roméo Dallaire**, comandante da missão da ONU, enviou alertas explícitos; o Conselho de Segurança **reduziu** o contingente quando a matança começou; e diplomatas evitaram deliberadamente a palavra "genocídio", porque pronunciá-la acionaria obrigações previstas na Convenção de 1948 [@power2004].
+
+**O princípio geral.** Explicações por "ódios ancestrais" quase sempre indicam que a pesquisa não foi feita — e, com frequência, que não se deseja fazê-la. Vale para Ruanda, para os Bálcãs e para o Oriente Médio (@sec-oriente-medio).
+:::
+
+**3.** Analise a invasão do **Iraque em 2003**: justificativas, ilegalidade alegada e consequências.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**As justificativas apresentadas.** Duas, ambas centrais para obter apoio público:
+
+1. o Iraque de **Saddam Hussein** possuiria **armas de destruição em massa** — químicas, biológicas e um programa nuclear em andamento;
+2. o regime manteria **vínculos com a Al-Qaeda**, sendo portanto parte da ameaça terrorista revelada em 11 de setembro.
+
+Uma terceira justificativa, menos enfatizada no início e mais depois, era a **promoção da democracia** no Oriente Médio.
+
+**O que se apurou.** **Nenhuma** das duas justificativas principais se sustentou. Inspeções e investigações posteriores não encontraram estoques de armas de destruição em massa. Vínculos operacionais com a Al-Qaeda não existiam — e a suposição era implausível desde o início, pois o regime baathista era **laico** e reprimia o islamismo político, sendo alvo declarado de Bin Laden. A comissão **Chilcot**, no Reino Unido (2016), concluiu que a inteligência foi apresentada com um grau de certeza que os dados não autorizavam e que as alternativas pacíficas não haviam se esgotado.
+
+**A questão da legalidade.** A **Carta da ONU** admite o uso da força apenas em **legítima defesa** contra ataque armado ou mediante **autorização do Conselho de Segurança** [@cartaOnu1945]. Nenhuma das duas condições estava presente: a Resolução 1441 (2002) advertia sobre "sérias consequências", mas não autorizava explicitamente o uso da força [@onu1441], e a coalizão desistiu de buscar uma segunda resolução por não ter votos. A base invocada foi a doutrina da **guerra preventiva** [@bush2002], que não encontra amparo na Carta. O secretário-geral da ONU, Kofi Annan, declarou em 2004 que a invasão fora, do seu ponto de vista, ilegal.
+
+**As consequências — e note que quase todas são não intencionais.**
+
+- **Colapso do Estado iraquiano.** A dissolução do exército e o expurgo integral dos quadros do partido Baath desmontaram a administração e lançaram centenas de milhares de homens armados e treinados no desemprego — muitos dos quais engrossaram a insurgência.
+- **Guerra civil confessional** entre sunitas e xiitas, com centenas de milhares de civis mortos e limpeza étnica de bairros inteiros em Bagdá.
+- **Perda de autoridade moral:** as torturas em **Abu Ghraib** e o regime de exceção jurídica em **Guantánamo** minaram o argumento de que a operação promovia direitos e Estado de direito.
+- **Fortalecimento do Irã**, seu inimigo histórico, que se tornou a potência regional dominante — resultado exatamente oposto ao pretendido.
+- **Origem remota do Estado Islâmico**, formado a partir da insurgência sunita e mais tarde expandido pelo caos sírio.
+- **Erosão do multilateralismo:** ao agir contra a posição de membros permanentes e sem aval do Conselho, a maior potência do sistema esvaziou as regras que ela própria promovera nos anos 1990.
+
+**A lição de método.** O caso ensina duas coisas ao estudante de História. Primeira: **o consenso de um momento não é prova**. Em 2003, a existência das armas era afirmada por governos e por grande parte da imprensa; treze anos depois, documentos oficiais estabeleceram o contrário. Segunda: **precedentes não pertencem a quem os cria**. O argumento da ação preventiva contra uma ameaça futura, uma vez legitimado, tornou-se disponível para outros — e reapareceu, com protagonistas diferentes, nas justificativas da invasão russa da Ucrânia em 2022.
+:::
+
+**4.** (Estilo ENEM) Leia o texto:
+
+> "A tese central deste livro é que a cultura e as identidades culturais, que, num nível mais amplo, são identidades de civilizações, estão moldando os padrões de coesão, desintegração e conflito no mundo pós-Guerra Fria. [...] Nesse mundo novo, a fonte de conflito fundamental não será primariamente ideológica ou econômica. As grandes divisões da humanidade e a fonte predominante de conflito serão culturais."
+>
+> — Samuel Huntington, *O choque de civilizações* [@huntington1997]
+
+A principal crítica formulada por historiadores e cientistas sociais a essa tese é que ela
+
+**(a)** subestima a importância da religião nos conflitos contemporâneos, que seriam essencialmente econômicos.
+**(b)** trata as civilizações como atores homogêneos e dotados de vontade, quando a maior parte da violência ocorre dentro de cada bloco.
+**(c)** não considera o fim da Guerra Fria, tendo sido escrita antes da dissolução da União Soviética.
+**(d)** desconsidera a existência de conflitos culturais, restringindo-se à análise das disputas entre Estados nacionais.
+**(e)** propõe a superação definitiva dos conflitos internacionais pela integração econômica global.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Resposta: (b).**
+
+**Por quê.** A objeção central e mais repetida à tese de Huntington tem duas partes, ambas contidas na alternativa:
+
+1. **Civilizações não são atores.** Não possuem governo, exército, orçamento, território definido nem processo decisório. Estados possuem; organizações possuem; movimentos possuem. Falar que "o Islã" ou "o Ocidente" faz algo é uma **personificação** que dissolve as diferenças internas e os interesses concretos dos atores que efetivamente decidem. Além disso, cada suposto bloco é atravessado por disputas profundas — entre xiitas e sunitas, entre governos árabes rivais, entre Estados Unidos e Europa, entre projetos políticos dentro de cada sociedade.
+2. **A violência é predominantemente intracivilizacional.** A guerra Irã–Iraque, a guerra civil síria, os conflitos da África subsaariana, o genocídio de Ruanda e as duas guerras mundiais — travadas entre potências europeias cristãs — ocorreram **dentro** dos blocos que a tese trata como unidades.
+
+A isso soma-se a resposta de **Edward Said**, que qualificou o esquema como um "**choque de ignorâncias**": categorias amplas e vagas substituindo o conhecimento das sociedades concretas [@said2007].
+
+**Por que as demais estão erradas.**
+
+- **(a)** Inverte a tese: Huntington **enfatiza** a cultura e a religião; e a crítica dominante não é que os conflitos sejam "essencialmente econômicos".
+- **(c)** Erro factual: o artigo é de 1993 e o livro de 1996, ambos posteriores ao fim da URSS (1991), que é justamente o ponto de partida do argumento.
+- **(d)** Inverte novamente: o autor **prioriza** o cultural sobre o interestatal.
+- **(e)** Descreve a tese oposta — a de **Fukuyama** e, mais amplamente, a das teorias liberais da interdependência.
+
+**O acréscimo que caracteriza a resposta completa.** Há uma crítica adicional, mais sofisticada e apropriada para uma questão discursiva: teses sobre o mundo social **agem** sobre o mundo social. Ao ensinar governantes, jornalistas e públicos a enquadrar cada conflito como choque religioso, a tese contribui para que os atores se comportem segundo esse enquadramento — o que a torna, em alguma medida, **autorrealizável**. Reconhecer que ideias sobre a História participam da História é uma das lições centrais deste manual (@sec-correntes-historiograficas).
+:::
+
+**5.** Explique a **Primavera Árabe** e por que seus desfechos foram tão diferentes de país para país.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**O estopim e a onda.** Em **dezembro de 2010**, o vendedor ambulante **Mohamed Bouazizi** ateou fogo ao próprio corpo em Sidi Bouzid, na **Tunísia**, após ter sua mercadoria confiscada e ser humilhado por agentes públicos. Os protestos que se seguiram derrubaram o presidente **Ben Ali** em janeiro de 2011 e desencadearam mobilizações no **Egito** (praça Tahrir; queda de **Mubarak** em dezoito dias), na **Líbia**, no **Iêmen**, no **Bahrein** e na **Síria**.
+
+**As causas estruturais.** Regimes autoritários envelhecidos e sem renovação; desemprego elevadíssimo entre jovens numa população demograficamente muito jovem e relativamente escolarizada; alta internacional dos preços dos alimentos em 2010; corrupção ostensiva das famílias no poder; e humilhação cotidiana pela repressão policial — o gesto de Bouazizi condensa exatamente esse último ponto.
+
+**O papel das redes sociais, com a devida medida.** Facebook, Twitter e telefones celulares tiveram papel real na **coordenação** dos protestos e na **difusão** de imagens que a mídia estatal censurava. Mas a expressão "revolução do Facebook", popular na época, foi abandonada pelos analistas: as causas eram econômicas, sociais e políticas, e as redes funcionaram como **acelerador e amplificador**, não como motor (@sec-sociedade-em-rede). A prova está nos desfechos: as mesmas ferramentas produziram resultados opostos em países diferentes.
+
+**Por que os desfechos divergiram — e é isto que a questão pede.** Quatro variáveis explicam a maior parte da variação:
+
+1. **A postura das Forças Armadas.** Na **Tunísia**, um exército pequeno, profissional e sem grandes interesses econômicos recusou-se a atirar na população e não assumiu o poder. No **Egito**, as Forças Armadas eram — e são — um enorme conglomerado econômico com interesses próprios: apoiaram a queda de Mubarak para preservar sua posição, toleraram um ano de governo eleito e deram o **golpe de 2013**, instaurando um regime mais repressivo que o anterior.
+2. **A existência de sociedade civil organizada.** A Tunísia contava com uma central sindical poderosa, ordem de advogados e associações de direitos humanos, que formaram o quarteto de diálogo nacional — mediação que rendeu o **Nobel da Paz de 2015** e viabilizou a Constituição de 2014. Onde a sociedade civil fora esmagada por décadas, não havia quem organizasse a transição.
+3. **A composição social e a estrutura do Estado.** Na **Líbia**, quatro décadas de Kadafi haviam deliberadamente enfraquecido as instituições estatais em favor de lealdades tribais e pessoais: derrubado o líder, não havia Estado, e sim milícias. Na **Síria**, o regime apoiava-se numa minoria confessional (alauíta) que temia represálias em caso de derrota, o que produziu uma resistência sem opção de recuo.
+4. **A intervenção externa.** Na Líbia, a intervenção da **OTAN** sob mandato de proteção de civis converteu-se em apoio à derrubada do regime. Na Síria, o apoio de **Rússia** e **Irã** ao governo e de potências ocidentais, do Golfo e da Turquia a diferentes grupos rebeldes internacionalizou o conflito e o prolongou por mais de uma década. No **Bahrein**, tropas sauditas ajudaram a esmagar os protestos com escassa repercussão internacional — exemplo cristalino da seletividade das reações.
+
+**O balanço.** A **Síria** tornou-se a maior catástrofe humanitária do século, com centenas de milhares de mortos e cerca de treze milhões de deslocados, cuja chegada à Europa a partir de 2015 alimentou o crescimento da extrema direita no continente. O regime de Assad só cairia em dezembro de **2024**. Do caos sírio-iraquiano emergiu o **Estado Islâmico**. E vale a advertência historiográfica: chamar o conjunto de "fracasso" é apressado — processos de democratização levam décadas, avançam e retrocedem, e julgar em dez anos o que a história europeia levou séculos para consolidar é uma forma sutil de aplicar duas medidas.
+:::
+
+**6.** Caracterize a transição da **unipolaridade** para a **multipolaridade** nas últimas duas décadas.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**O ponto de partida.** Entre 1991 e o início dos anos 2000, os Estados Unidos reuniram uma concentração de poder sem paralelo histórico recente: superioridade militar absoluta, o dólar como moeda de reserva, liderança tecnológica, controle das principais instituições financeiras internacionais e um modelo político-econômico apresentado como único viável.
+
+**Os três processos que desfizeram esse quadro.**
+
+**1. A ascensão da China.** A partir das reformas de **Deng Xiaoping** (1978), a China combinou abertura econômica com manutenção integral do controle político pelo Partido Comunista. Cresceu perto de 10% ao ano por três décadas, entrou na **OMC** em 2001, ultrapassou o Japão como segunda economia mundial em 2010 e lançou em 2013 a **Nova Rota da Seda**, com investimentos em infraestrutura em mais de cem países. Tornou-se o principal parceiro comercial de dezenas de nações — inclusive do Brasil, desde 2009. Ponto historicamente decisivo: a expectativa dos anos 1990 de que a integração econômica traria democratização **não se confirmou**; o crescimento veio com **centralização política crescente**, especialmente sob **Xi Jinping**.
+
+**2. O retorno da Rússia.** Depois do colapso econômico e da perda de status dos anos 1990, **Putin** reconstruiu o poder central sobre a receita de petróleo e gás e passou a contestar a expansão da **OTAN** para o Leste. A escalada é sequencial: **Geórgia** (2008), anexação da **Crimeia** e guerra no Donbass (2014), intervenção na **Síria** (2015) e a **invasão em larga escala da Ucrânia** (fevereiro de 2022) — a maior guerra interestatal na Europa desde 1945, com sanções sem precedentes, milhões de refugiados e forte impacto global sobre energia e alimentos.
+
+**3. O desgaste americano.** O **Iraque** destruiu a credibilidade das justificativas e mostrou os limites de converter poder militar em resultado político; a **crise de 2008** abalou a autoridade do modelo econômico (@sec-globalizacao-neoliberalismo); a retirada do **Afeganistão** em 2021 encerrou vinte anos de guerra com o retorno do adversário derrotado em 2001; e a polarização interna tornou a política externa oscilante entre governos.
+
+**O quadro resultante.** Vários centros de poder relevantes — **Estados Unidos, China, União Europeia, Rússia, Índia** —, instituições multilaterais enfraquecidas e um **Conselho de Segurança** frequentemente paralisado por vetos cruzados. Cresce o número de países médios que praticam o **não alinhamento ativo**: recusam-se a escolher lado e negociam simultaneamente com todos os polos. É o comportamento de boa parte da América Latina, da África e do Sudeste Asiático diante da guerra da Ucrânia e da rivalidade sino-americana.
+
+**O Brasil.** Nos anos 2000, a diplomacia **Sul–Sul** de **Lula** e **Celso Amorim** ampliou a presença na África, liderou a rejeição da **Alca** (2005), participou da criação do **BRICS** e da **Unasul**, comandou a missão da ONU no **Haiti** e tentou, com a Turquia, mediar o programa nuclear iraniano em 2010 [@amorim2015]. A candidatura a assento permanente no Conselho de Segurança esbarra num obstáculo estrutural: qualquer reforma da Carta exige aprovação dos cinco permanentes atuais, que precisariam concordar em diluir o próprio poder.
+
+**A advertência final, que evita o erro mais comum.** Multipolaridade **não** é sinônimo de mundo mais justo ou mais pacífico. É apenas uma descrição de como o poder está distribuído. A Europa de 1914 era multipolar e produziu a Primeira Guerra Mundial (@sec-primeira-guerra-mundial); sistemas com muitos polos e regras fracas costumam apresentar mais instabilidade, não menos. O que torna um sistema internacional mais ou menos violento não é o número de polos, e sim a solidez das regras que eles aceitam observar.
+:::
+
+**7.** (Estilo vestibular) Explique o dilema entre **soberania** e **intervenção humanitária**, apresentando os argumentos dos dois lados.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**A formulação do dilema.** Quando um Estado massacra a própria população, ou é incapaz de impedir que ela seja massacrada, outros Estados devem intervir militarmente? As duas respostas se apoiam em princípios legítimos e incompatíveis entre si.
+
+**Os argumentos a favor da intervenção.**
+
+- **Os direitos humanos são universais.** Desde a Declaração de 1948 [@declaracaoDireitosHumanos1948] e a Convenção sobre Genocídio do mesmo ano, existe um corpo jurídico que estabelece obrigações que não param na fronteira.
+- **A soberania não pode ser escudo para o extermínio.** Aceitar que o que ocorre "dentro" de um país não é assunto de ninguém equivale a converter a soberania em licença.
+- **Os casos de omissão são conhecidos e indefensáveis.** **Ruanda** (1994) e **Srebrenica** (1995) aconteceram com missões da ONU no terreno e com alertas prévios [@power2004].
+- **A doutrina da Responsabilidade de Proteger** (R2P), adotada pela ONU em 2005, formalizou uma saída conceitual: a soberania **implica** o dever de proteger a população; se o Estado falha gravemente, essa responsabilidade transfere-se à comunidade internacional.
+
+**Os argumentos contra.**
+
+- **A soberania é a principal proteção dos países fracos.** O princípio da não intervenção, consolidado desde a Paz de Vestfália (1648), existe justamente para impedir que os fortes disponham dos fracos. Enfraquecê-lo prejudica sobretudo quem não tem poder.
+- **A seletividade prova que o critério não é humanitário.** Intervém-se onde há interesse e não se intervém onde não há. O contraste é gritante: a Líbia em 2011, sim; o Bahrein no mesmo ano, onde tropas sauditas ajudaram a esmagar protestos, não.
+- **O precedente do abuso.** A justificativa humanitária foi historicamente usada para encobrir conquista — a "missão civilizadora" do imperialismo do século XIX é o exemplo maior (@sec-imperialismo).
+- **A eficácia é duvidosa.** Iraque, Líbia e Afeganistão sugerem que derrubar regimes é muito mais fácil do que construir instituições, e que intervenções podem produzir Estados falidos e sofrimento maior que o original.
+- **O caso da Líbia envenenou o debate.** Em 2011, o Conselho de Segurança autorizou o uso da força para **proteger civis**; a operação da OTAN converteu-se em apoio à derrubada de Kadafi. Rússia e China — que se abstiveram — passaram a tratar a R2P como pretexto para mudança de regime e a vetar sistematicamente autorizações posteriores, o que ajuda a explicar a paralisia do Conselho diante da **Síria**.
+
+**A posição brasileira, que merece registro.** O Brasil propôs em 2011 o conceito de "**responsabilidade ao proteger**": se a intervenção é autorizada, ela deve obedecer a critérios estritos de proporcionalidade, sequência e prestação de contas ao Conselho sobre o uso do mandato. Foi uma tentativa de resposta à experiência líbia — reconhecer o problema humanitário sem entregar um cheque em branco.
+
+**Como concluir sem falsa neutralidade.** Este é um dilema **real**: não há solução que satisfaça ambos os princípios, e qualquer escolha implica um custo. O que a análise histórica pode oferecer não é a resposta, mas critérios de avaliação: verificar se houve **autorização** legítima, se os **meios** foram proporcionais ao fim declarado, se o **mandato** foi respeitado, se houve **plano** para o depois, e se o mesmo critério é aplicado a casos semelhantes. Uma resposta que apenas escolhe um lado e ignora a força do outro é mais fraca do que uma que expõe o conflito com honestidade.
+:::
+
+**8.** Quais são as dificuldades específicas de se escrever a **história do tempo presente**, e como o historiador lida com elas?
+
+::: {.callout-tip collapse="true" title="Solução"}
+**As quatro dificuldades.**
+
+**1. Os arquivos estão fechados.** Documentos de governo permanecem classificados por prazos que costumam variar de 20 a 50 anos. O que se conhece do presente é o que foi divulgado por interesse de alguém, o que vazou ou o que testemunhas escolheram contar — universo enviesado por definição.
+
+**2. Falta distância — mas não pelo motivo que se costuma alegar.** O problema não é apenas o envolvimento emocional do historiador. É que ainda não se sabe **quais consequências os eventos terão**, e é em grande parte pelas consequências que se estabelece a importância relativa dos acontecimentos. Em 1991, o fim da URSS parecia encerrar uma era; em 2022, com guerra na Europa, parte daquele processo se revela inacabado.
+
+**3. O excesso de fontes.** Ao contrário do medievalista, que luta contra a escassez, o historiador do presente enfrenta bilhões de páginas, vídeos, mensagens e postagens, sem a triagem que o tempo normalmente realiza. E, paradoxalmente, esse material é **frágil**: sites saem do ar, plataformas fecham, formatos ficam obsoletos, e boa parte do registro digital dos anos 2000 já se perdeu.
+
+**4. O historiador é parte do objeto.** Tem posição política sobre o que analisa, vive as consequências e escreve para um público que também as vive. A pressão por tomar partido é intensa dos dois lados de qualquer controvérsia.
+
+**Como se lida com isso — os procedimentos concretos.**
+
+- **Separar rigorosamente o estabelecido do disputado.** Datas, números e decisões documentadas de um lado; qualificações jurídicas, morais e políticas de outro. Confundir os dois planos é o erro básico (@sec-oriente-medio).
+- **Declarar a fonte de cada informação e o seu grau de confiabilidade**, em vez de apresentar dados como se fossem neutros — sobretudo números de vítimas, quase sempre produzidos por partes interessadas.
+- **Explicitar o grau de certeza.** "Está documentado que", "há indícios de que", "é objeto de disputa" são formulações diferentes e devem ser usadas com precisão.
+- **Recorrer à história oral**, com a crítica que ela exige: o depoimento não é a verdade do vivido, é uma reconstrução feita no presente da entrevista (@sec-fontes-historicas).
+- **Aceitar a provisoriedade.** O melhor exemplo é o **Iraque**: em 2003, a existência de armas de destruição em massa era afirmada como certeza por governos e por grande parte da imprensa; em 2016, o relatório **Chilcot** estabelecia documentalmente o contrário. Treze anos desmontaram o consenso de um momento.
+
+**A conclusão que a questão espera.** Nada disso torna a história do tempo presente impossível ou menos científica — torna-a **explicitamente provisória**, o que na verdade a aproxima do funcionamento normal de qualquer conhecimento empírico. Toda história é revista quando surgem fontes novas; a do tempo presente apenas o será mais depressa e com mais frequência. E há uma vantagem que compensa parte das dificuldades: o historiador do presente pode **entrevistar os protagonistas**, coisa que nenhum estudioso de Roma jamais poderá fazer.
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- HOBSBAWM, Eric. *Globalização, democracia e terrorismo* [@hobsbawm2007]. Ensaios curtos e afiados sobre o mundo pós-2001, escritos por quem viveu quase todo o século XX.
+- HUNTINGTON, Samuel. *O choque de civilizações* [@huntington1997] e FUKUYAMA, Francis. *O fim da História e o último homem* [@fukuyama1992]. Leia os dois nos originais e verifique quanto do que se diz sobre eles corresponde ao que escreveram.
+- SAID, Edward. *Cultura e imperialismo* [@said2011]. A contraparte de *Orientalismo*, sobre como a cultura sustenta o domínio — e sobre a resistência a ele.
+- POWER, Samantha. *Genocídio: a retórica americana em questão* [@power2004]. Investigação sobre por que os Estados Unidos repetidamente sabiam e não agiram; escrito antes de a autora se tornar embaixadora na ONU, o que dá ao livro um interesse adicional.
+- GOUREVITCH, Philip. *Gostaríamos de informá-lo de que amanhã seremos mortos com nossas famílias* [@gourevitch2006]. Sobre Ruanda; um dos melhores livros de reportagem já escritos.
+- GLENNY, Misha. *A queda da Iugoslávia* [@glenny1996]. Reportagem de quem cobriu as guerras dos Bálcãs desde o começo.
+- KALDOR, Mary. *New and Old Wars* [@kaldor2012]. A tese das "novas guerras", com o debate que ela abriu.
+- AMORIM, Celso. *Teerã, Ramalá e Doha* [@amorim2015]. Memórias de chanceler — leia como **fonte**, atento ao que a posição do autor destaca e ao que ela omite.
+
+**Fontes primárias**
+
+- A **Carta das Nações Unidas** [@cartaOnu1945], artigos 2º (não intervenção), 42 (uso da força autorizado) e 51 (legítima defesa). São três parágrafos que estruturam todo o debate deste capítulo.
+- A **Resolução 1441** [@onu1441]. Leia e decida: ela autoriza ou não o uso da força? A ambiguidade é o ponto.
+- A **Estratégia de Segurança Nacional de 2002** [@bush2002], em que a doutrina da guerra preventiva é formulada.
+
+**Filmes e documentários**
+
+- *No Man's Land* (2001), dir. Danis Tanović. Dois soldados inimigos presos na mesma trincheira na Bósnia; a melhor síntese do absurdo daquelas guerras.
+- *Hotel Ruanda* (2004), dir. Terry George, e *Shake Hands with the Devil* (2007), sobre o general Dallaire. Assista com a leitura crítica que este capítulo propõe.
+- *Fahrenheit 11 de Setembro* (2004), dir. Michael Moore, e *Guerra ao terror* (2008), dir. Kathryn Bigelow. Um panfleto e uma ficção — dois modos muito diferentes de processar a mesma guerra.
+- *O Insulto* (2017) e *Para Sama* (2019, dir. Waad al-Kateab), este último filmado por uma jornalista síria em Alepo durante o cerco, endereçado à própria filha.
+- *A Batalha de Argel* (1966), dir. Gillo Pontecorvo. Sobre a Argélia dos anos 1950, mas exibido no Pentágono em 2003 como material de estudo sobre insurgência urbana — o que o torna, por si só, um documento sobre 2003.
