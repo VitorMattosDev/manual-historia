@@ -186,7 +186,7 @@
 | 1 | A ordem bipolar e o início da Guerra Fria | `capitulos/vol14/cap01-ordem-bipolar.qmd` | ✅ |
 | 2 | Conflitos da Guerra Fria: Coreia, Cuba e Vietnã | `capitulos/vol14/cap02-conflitos-guerra-fria.qmd` | ✅ |
 | 3 | A descolonização da África e da Ásia | `capitulos/vol14/cap03-descolonizacao-africa-asia.qmd` | ✅ |
-| 4 | América Latina: revoluções e ditaduras | `capitulos/vol14/cap04-america-latina-ditaduras.qmd` | ⬜ |
+| 4 | América Latina: revoluções e ditaduras | `capitulos/vol14/cap04-america-latina-ditaduras.qmd` | ✅ |
 | 5 | O socialismo real e o fim da URSS | `capitulos/vol14/cap05-crise-do-socialismo-real.qmd` | ⬜ |
 | 6 | O Oriente Médio contemporâneo | `capitulos/vol14/cap06-oriente-medio.qmd` | ⬜ |
 

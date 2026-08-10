@@ -1,5 +1,456 @@
 # América Latina: revoluções e ditaduras {#sec-america-latina-ditaduras}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Toda quinta-feira, desde 30 de abril de 1977, um grupo de mulheres com lenços brancos na cabeça dá voltas em torno da pirâmide central da Praça de Maio, em Buenos Aires. Começaram em catorze, buscando filhos que haviam desaparecido — levados de casa, da faculdade, do trabalho, por homens sem identificação, em carros sem placa. A polícia proibia ajuntamentos, e por isso elas **caminhavam**: paradas, seriam presas; andando em círculo, eram apenas mulheres de idade dando uma volta. Os lenços brancos eram, no começo, fraldas de pano dos próprios filhos. Três das fundadoras, entre elas Azucena Villaflor, foram sequestradas e assassinadas em dezembro daquele mesmo ano, jogadas ao mar em um dos "voos da morte". As demais continuaram. Continuam até hoje, quase cinquenta anos depois, muitas já com mais de noventa anos ou substituídas por netos. Este capítulo trata do período em que a maior parte da América Latina viveu sob ditaduras militares — e da razão pela qual, em vários desses países, ainda se caminha em círculo à espera de respostas.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- caracterizar o **desenvolvimentismo**, a **CEPAL** e a **teoria da dependência**;
+- explicar o impacto continental da **Revolução Cubana** e a resposta norte-americana;
+- definir a **Doutrina de Segurança Nacional** e explicar a onda de golpes de 1964–1976;
+- narrar o governo de **Allende** e o golpe de **1973** no Chile, e caracterizar a ditadura de **Pinochet**;
+- narrar a ditadura **argentina** (1976–1983), os desaparecidos, as **Malvinas** e o julgamento das Juntas;
+- descrever as ditaduras do **Uruguai**, do **Paraguai**, da **Bolívia** e os conflitos da **América Central**;
+- explicar a **Operação Condor**;
+- comparar os processos de **justiça de transição** da região, inclusive com o caso brasileiro;
+- discutir criticamente a "teoria dos dois demônios", a tese do laboratório neoliberal e o debate sobre as cifras.
 :::
+
+## O ponto de partida: desenvolvimentismo e dependência {#sec-desenvolvimentismo-dependencia}
+
+Nas décadas de 1930 a 1960, a América Latina viveu uma transformação profunda: urbanização acelerada, crescimento industrial e aparecimento de classes trabalhadoras urbanas numerosas e organizadas. O modelo econômico dominante foi a **industrialização por substituição de importações** (ISI): proteger a indústria nacional com tarifas e câmbio favorável para produzir internamente o que antes se importava. O Estado assumiu papel central — empresas estatais, bancos de desenvolvimento, planejamento —, e a política ganhou a forma que a literatura chamou de **populismo**: lideranças de forte apelo pessoal, apoiadas em massas urbanas, prometendo desenvolvimento com justiça social. Vargas no Brasil (@sec-era-vargas), **Juan Domingo Perón** na Argentina (1946–55) e Lázaro Cárdenas no México são os casos clássicos.
+
+O suporte intelectual veio da **CEPAL** (Comissão Econômica para a América Latina, criada pela ONU em 1948) e de seu principal formulador, o argentino **Raúl Prebisch**. Sua tese central: o comércio internacional não beneficia igualmente a todos, porque há uma **deterioração dos termos de troca** — ao longo do tempo, os preços dos produtos primários exportados pela periferia caem em relação aos preços dos manufaturados importados do centro. Um país que exporta café e importa máquinas precisa vender cada vez mais sacas para comprar a mesma máquina. A conclusão prática era industrializar, e depressa.
+
+::: {.callout-note title="Conceito: teoria da dependência"}
+Nos anos 1960, um conjunto de autores latino-americanos radicalizou o diagnóstico cepalino. A **teoria da dependência** sustenta que o subdesenvolvimento **não** é uma etapa anterior ao desenvolvimento, pela qual todos os países passariam, mas o **produto** da mesma história que gerou o desenvolvimento de outros: centro e periferia se constituíram na mesma relação, e a riqueza de um lado é função da posição do outro.
+
+Há duas vertentes principais, e confundi-las é erro comum:
+
+- a **radical**, de **André Gunder Frank** e **Ruy Mauro Marini**, para quem a dependência é um bloqueio estrutural — só a ruptura revolucionária com o sistema permitiria o desenvolvimento ("desenvolvimento do subdesenvolvimento");
+- a **matizada**, de **Fernando Henrique Cardoso** e **Enzo Faletto**, para quem há espaço para um **desenvolvimento associado e dependente**: é possível crescer e industrializar dentro do sistema, mas de forma subordinada, desigual e dependente de decisões tomadas fora [@cardoso1990].
+:::
+
+## O divisor de águas: Cuba e a resposta americana {#sec-cuba-divisor}
+
+A vitória revolucionária em **Cuba**, em 1959 (@sec-conflitos-guerra-fria), reorganizou toda a política latino-americana. Para a esquerda, provou que uma ditadura apoiada pelos EUA podia ser derrotada por um pequeno grupo armado — e a **teoria do foco**, de Che Guevara, formalizou a lição: não é preciso esperar as condições objetivas da revolução; um núcleo guerrilheiro decidido pode **criá-las** [@guevara1997]. Dezenas de organizações armadas surgiram na década seguinte, do Peru ao Brasil, da Venezuela à Guatemala. Quase todas foram derrotadas.
+
+Para Washington, Cuba foi o trauma que definiu a política hemisférica por trinta anos, e a resposta teve duas faces simultâneas:
+
+- **A Aliança para o Progresso** (1961), programa de ajuda econômica anunciado por Kennedy: bilhões de dólares para reforma agrária, habitação, saúde e educação, com o objetivo declarado de remover as **causas sociais** da revolução. Foi a face reformista.
+- **A contra-insurgência**, com treinamento de oficiais latino-americanos na **Escola das Américas** (sediada no Panamá e depois nos EUA, por onde passaram cerca de 60 mil militares da região), assistência a polícias, financiamento de partidos e sindicatos anticomunistas e apoio direto a golpes. Foi a face repressiva — e prevaleceu.
+
+O precedente já estava dado desde antes de Cuba: em **1954**, a CIA organizou a derrubada de **Jacobo Árbenz** na **Guatemala**, presidente eleito cuja reforma agrária atingira terras não cultivadas da *United Fruit Company*. O golpe abriu uma guerra civil que duraria 36 anos e cujo saldo, apurado pela Comissão de Esclarecimento Histórico da ONU em 1999, foi de cerca de **200 mil mortos**, 83% deles indígenas maias, com 93% das violações atribuídas a forças do Estado — incluindo os massacres de 1981–83, hoje juridicamente qualificados como **genocídio**.
+
+## A Doutrina de Segurança Nacional e a onda de golpes {#sec-doutrina-seguranca-nacional}
+
+::: {.callout-note title="Conceito: Doutrina de Segurança Nacional"}
+Conjunto de ideias que reorientou as Forças Armadas latino-americanas a partir dos anos 1950–60. Sua premissa: no contexto da Guerra Fria, o inimigo não é o exército de outro Estado, mas o **inimigo interno** — o "subversivo" infiltrado em sindicatos, universidades, partidos, imprensa, Igreja e no próprio Estado.
+
+Três consequências decorrem logicamente da premissa, e é por isso que a doutrina importa tanto:
+
+1. as fronteiras relevantes deixam de ser geográficas e passam a ser **ideológicas**;
+2. a **guerra é permanente** e não tem declaração, frente nem fim — o que dissolve a distinção entre tempo de guerra e tempo de paz;
+3. como o inimigo se disfarça de cidadão comum, qualquer cidadão é suspeito, e métodos excepcionais — vigilância, tortura, execução extrajudicial, desaparecimento — passam a ser tratados como instrumentos legítimos de uma guerra defensiva.
+:::
+
+A doutrina teve **duas** fontes externas, e a segunda costuma ser esquecida. A primeira é norte-americana: os manuais de contra-insurgência, a Escola das Américas e as escolas superiores de guerra criadas no modelo do *National War College* — no Brasil, a **ESG**, de 1949 (@sec-ordem-bipolar). A segunda é **francesa**: oficiais que haviam combatido na Indochina e na **Argélia** (@sec-descolonizacao-africa-asia) sistematizaram a "guerra revolucionária" — quadriculamento do território, informação obtida sob tortura, ação psicológica — e ensinaram-na diretamente a militares argentinos e brasileiros a partir do fim dos anos 1950.
+
+A onda de golpes cobriu o continente em pouco mais de uma década:
+
+::: {#fig-ditaduras-america-latina}
+
+```{.tikz}
+%%| filename: fig-ditaduras-america-latina
+%%| alt: Diagrama das ditaduras militares na América Latina entre 1954 e 1990, com países, datas e características.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \node[draw, very thick, rounded corners, fill=manualgray!18, align=center, text width=13.2cm] (t) at (0,4.2)
+    {\textbf{DOUTRINA DE SEGURANÇA NACIONAL} --- o inimigo é \textbf{interno}; as fronteiras são \textbf{ideológicas}; a guerra é \textbf{permanente}\\ Difusão: \textbf{Escola das Américas} (EUA, $\sim$60 mil oficiais) $+$ doutrina francesa da ``guerra revolucionária'' (Indochina e \textbf{Argélia})};
+
+  \node[draw, thick, rounded corners, fill=manualred!16, align=left, text width=4.0cm] (p1) at (-4.7,1.7)
+    {\textbf{PARAGUAI} 1954--89\\ \textit{Stroessner} --- a mais longa\\[3pt]
+     \textbf{BRASIL} 1964--85\\ \textit{ESG, AI-5, ``milagre''}\\[3pt]
+     \textbf{BOLÍVIA} 1971--78\\ \textit{Banzer}};
+
+  \node[draw, thick, rounded corners, fill=manualred!16, align=left, text width=4.0cm] (p2) at (0,1.7)
+    {\textbf{URUGUAI} 1973--85\\ \textit{maior proporção de}\\ \textit{presos políticos do mundo}\\[3pt]
+     \textbf{CHILE} 1973--90\\ \textit{Pinochet; $\sim$3.200 mortos}\\ \textit{e desaparecidos;}\\ \textit{$\sim$40 mil torturados}};
+
+  \node[draw, thick, rounded corners, fill=manualred!16, align=left, text width=4.0cm] (p3) at (4.7,1.7)
+    {\textbf{ARGENTINA} 1976--83\\ \textit{``Processo''; $\sim$30 mil}\\ \textit{desaparecidos; $\sim$500}\\ \textit{bebês apropriados}\\[3pt]
+     \textbf{GUATEMALA} 1954--96\\ \textit{$\sim$200 mil mortos;}\\ \textit{genocídio maia}};
+
+  \draw[vetor, thick, manualred] (t) -- (p1); \draw[vetor, thick, manualred] (t) -- (p2); \draw[vetor, thick, manualred] (t) -- (p3);
+
+  \node[draw, thick, rounded corners, fill=manualblue!16, align=center, text width=6.3cm] (c) at (-3.4,-1.3)
+    {\textbf{OPERAÇÃO CONDOR} (formalizada em 1975)\\ Argentina $\cdot$ Chile $\cdot$ Uruguai $\cdot$ Paraguai\\ Bolívia $\cdot$ Brasil (depois Peru e Equador)\\ troca de informações, sequestro e assassinato\\ de opositores \textbf{através das fronteiras}};
+  \node[draw, thick, rounded corners, fill=manualgreen!16, align=center, text width=6.3cm] (e) at (3.5,-1.3)
+    {\textbf{CONTRAEXEMPLOS}\\ \textbf{Peru} 1968--75: governo militar de\\ \textit{esquerda} (Velasco Alvarado)\\ \textbf{México}: partido único civil (PRI)\\ \textbf{Nicarágua} 1979: revolução \textbf{vitoriosa}};
+
+  \draw[vetor, thick, manualblue] (p2) -- (c);
+
+  \node[draw, dashed, rounded corners, fill=manualyellow!22, align=center, text width=13.2cm] at (0,-3.2)
+    {\textbf{Justiça de transição, depois:} \textbf{Argentina} julgou as Juntas (1985) e retomou os processos em 2005 $\cdot$ \textbf{Chile} produziu os relatórios\\ \textbf{Rettig} (1991) e \textbf{Valech} (2004) e condenou centenas de agentes $\cdot$ \textbf{Uruguai} manteve a anistia em dois referendos\\ $\cdot$ \textbf{Brasil} teve a \textbf{CNV} (2012--14) e \textbf{nenhuma} condenação criminal.};
+\end{tikzpicture}
+```
+
+As ditaduras de Segurança Nacional na América Latina e seus desfechos.
+:::
+
+Vale registrar as exceções, porque elas impedem explicações mecânicas: no **Peru**, o golpe de 1968 instalou um governo militar de **esquerda** (Velasco Alvarado), que fez reforma agrária e nacionalizou o petróleo; no **México**, não houve golpe, porque o **PRI** exercia um autoritarismo civil de partido praticamente único, capaz de absorver e reprimir a oposição sem tanques — o que não impediu o massacre de estudantes em **Tlatelolco**, em 1968.
+
+Visualizar a simultaneidade ajuda a entender por que os historiadores tratam o fenômeno como **regional**, e não como uma soma de casos nacionais: entre 1976 e 1978, **todos** os países do Cone Sul estavam sob ditadura ao mesmo tempo.
+
+::: {#fig-simultaneidade-ditaduras}
+
+```{.tikz}
+%%| filename: fig-simultaneidade-ditaduras
+%%| alt: Gráfico de barras horizontais mostrando a simultaneidade das ditaduras e guerras civis na América Latina entre 1950 e 1996.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \fill[manualgray!14] (7.91,-0.35) rectangle (10.04,7.5);
+  \node[align=center, text=manualgray!45!black, font=\scriptsize\bfseries] at (8.98,7.9) {1976--83\\ \textbf{todo o Cone Sul}\\ sob ditadura};
+
+  \draw[eixo] (0,0) -- (14.4,0);
+  \foreach \x/\ano in {0/1950, 3.04/1960, 6.09/1970, 9.13/1980, 12.17/1990, 14.0/1996}{
+    \draw[manualgray] (\x,0.1) -- (\x,-0.1);
+    \node[below, text=manualgray] at (\x,-0.15) {\textbf{\ano}};
+  }
+
+  \fill[manualred!55, rounded corners=1pt] (1.22,6.75) rectangle (14.0,7.15);
+  \node[left, text=manualgray!45!black] at (1.17,6.95) {\textbf{Guatemala} (guerra civil)};
+
+  \fill[manualred!55, rounded corners=1pt] (1.22,6.0) rectangle (11.87,6.4);
+  \node[left, text=manualgray!45!black] at (1.17,6.2) {\textbf{Paraguai} (Stroessner)};
+
+  \fill[manualred!55, rounded corners=1pt] (4.26,5.25) rectangle (10.65,5.65);
+  \node[left, text=manualgray!45!black] at (4.21,5.45) {\textbf{Brasil}};
+
+  \fill[manualred!55, rounded corners=1pt] (6.39,4.5) rectangle (9.74,4.9);
+  \node[left, text=manualgray!45!black] at (6.34,4.7) {\textbf{Bolívia} (governos militares)};
+
+  \fill[manualred!55, rounded corners=1pt] (7.00,3.75) rectangle (10.65,4.15);
+  \node[left, text=manualgray!45!black] at (6.95,3.95) {\textbf{Uruguai}};
+
+  \fill[manualred!55, rounded corners=1pt] (7.00,3.0) rectangle (12.17,3.4);
+  \node[left, text=manualgray!45!black] at (6.95,3.2) {\textbf{Chile} (Pinochet)};
+
+  \fill[manualred!55, rounded corners=1pt] (7.91,2.25) rectangle (10.04,2.65);
+  \node[left, text=manualgray!45!black] at (7.86,2.45) {\textbf{Argentina}};
+
+  \fill[manualred!55, rounded corners=1pt] (0,1.5) rectangle (8.83,1.9);
+  \fill[manualgreen!60, rounded corners=1pt] (8.83,1.5) rectangle (12.17,1.9);
+  \node[left, text=manualgray!45!black] at (-0.05,1.7) {\textbf{Nicarágua}};
+  \node[right, text=manualgreen!45!black, font=\tiny] at (12.22,1.7) {sandinistas 1979--90};
+
+  \fill[manualred!55, rounded corners=1pt] (9.13,0.75) rectangle (12.78,1.15);
+  \node[left, text=manualgray!45!black] at (9.08,0.95) {\textbf{El Salvador} (guerra civil)};
+
+  \fill[manualred!55, rounded corners=1pt] (0.9,1.05) rectangle (1.25,1.25);
+  \node[right, text=manualgray!45!black, font=\tiny] at (1.3,1.15) {ditadura ou guerra civil};
+  \fill[manualgreen!60, rounded corners=1pt] (0.9,0.65) rectangle (1.25,0.85);
+  \node[right, text=manualgray!45!black, font=\tiny] at (1.3,0.75) {governo revolucionário};
+\end{tikzpicture}
+```
+
+A simultaneidade das ditaduras e guerras civis latino-americanas, 1950–1996.
+:::
+
+## Chile: os mil dias de Allende e a ditadura de Pinochet {#sec-chile}
+
+O Chile importa desproporcionalmente porque nele se testou uma hipótese: seria possível construir o socialismo por **via eleitoral e constitucional**?
+
+Em **4 de setembro de 1970**, **Salvador Allende**, candidato da coalizão **Unidade Popular**, venceu com 36,6% dos votos numa disputa de três candidaturas, e foi confirmado pelo Congresso em outubro. Era o primeiro marxista a chegar ao governo de um país pelo voto, sem revolução. Seu programa — a "**via chilena ao socialismo**" — previa reformas profundas respeitando a Constituição, as eleições e a liberdade de imprensa.
+
+**O que o governo fez (1970–73).** Nacionalização do **cobre**, principal riqueza do país, aprovada por **unanimidade** no Congresso em 1971 — nacionalistas de direita votaram a favor; estatização de bancos e de grandes empresas; aceleração da reforma agrária iniciada pelo governo anterior; congelamento de preços e aumento de salários, que no primeiro ano produziram forte crescimento do consumo, queda do desemprego e ampla popularidade — a Unidade Popular **aumentou** sua votação nas eleições legislativas de março de 1973.
+
+**Por que fracassou.** As causas se somam e nenhuma sozinha basta:
+
+1. **Econômicas.** A expansão do consumo sem aumento correspondente da produção gerou desabastecimento e inflação alta a partir de 1972; a queda do preço internacional do cobre reduziu drasticamente as receitas.
+2. **Políticas internas.** O governo tinha maioria eleitoral relativa, não maioria parlamentar; a oposição controlava o Congresso e boa parte do Judiciário e da imprensa. Dentro da própria Unidade Popular, setores pressionavam por ocupações e por aceleração além do que a legalidade permitia, e Allende ficou espremido entre a radicalização de sua base e a necessidade de negociar com a Democracia Cristã.
+3. **Externas.** Documentos desclassificados dos EUA registram a ordem de Nixon para "fazer a economia gritar", o financiamento à oposição e à imprensa, o bloqueio de crédito internacional e o apoio a greves patronais — a dos caminhoneiros, em 1972 e 1973, paralisou um país que depende do transporte rodoviário [@monizBandeira2008].
+4. **Militares.** Uma parte crescente do oficialato passou a considerar o governo uma ameaça existencial.
+
+**11 de setembro de 1973.** As Forças Armadas bombardearam o palácio de **La Moneda**. Allende recusou-se a renunciar e a aceitar um avião para o exílio; em seu último pronunciamento pela Rádio Magallanes, disse: "Superarão outros homens este momento cinzento e amargo […]. Sigam sabendo que muito mais cedo que tarde se abrirão as grandes alamedas por onde passe o homem livre" [@allende1973]. Morreu no palácio.
+
+**A ditadura de Pinochet (1973–1990).** Repressão imediata e maciça: o Estádio Nacional convertido em campo de prisioneiros, a "Caravana da Morte" percorrendo o país para executar detidos, a criação da polícia política **DINA**. Os relatórios oficiais **Rettig** (1991) e **Valech** (2004) documentaram cerca de **3.200** mortos e desaparecidos e cerca de **40 mil** vítimas de prisão política e tortura [@rettig1991].
+
+::: {.callout-warning title="O Chile como \"laboratório neoliberal\": o que é fato e o que é tese"}
+**Fatos.** A partir de 1975, o governo Pinochet entregou a política econômica a um grupo de economistas formados na Universidade de Chicago sob influência de Milton Friedman, os "*Chicago boys*". As medidas: abertura comercial radical, privatizações em massa, desregulamentação financeira, privatização parcial da previdência (o sistema de capitalização individual das AFPs, de 1981), da saúde e da educação, e repressão à atividade sindical. A **Constituição de 1980**, feita sob ditadura, blindou esse modelo institucionalmente — e só foi substancialmente reformada em 2005, com tentativas de substituição integral rejeitadas em plebiscitos em 2022 e 2023.
+
+**Resultados também factuais, e ambíguos.** Depois de uma recessão severa em 1975 e de uma crise financeira grave em 1982 — que obrigou o Estado a socorrer os bancos, contrariando a doutrina —, o Chile teve crescimento sustentado a partir de meados dos anos 1980 e reduziu a pobreza nas décadas seguintes, mantendo, porém, desigualdade elevada e serviços públicos fragilizados.
+
+**A tese.** **Naomi Klein** argumentou que reformas de mercado dessa profundidade só são aplicáveis sob **choque** — desastre, crise ou ditadura — porque nenhuma população as aprovaria em condições normais [@klein2008]. **As objeções.** Críticos observam que a ditadura chilena tentou antes outras políticas e só recorreu aos *Chicago boys* após o fracasso delas; que reformas semelhantes foram adotadas em **democracias** nos anos 1980–90, do Reino Unido à Nova Zelândia e ao próprio Brasil (@sec-globalizacao-neoliberalismo); e que a tese, ao tratar a coincidência como causa, dificulta ver as diferenças entre esses casos.
+
+**O que fica.** Que o Chile foi o **primeiro** país a aplicar o programa de forma integral, e que o fez sem oposição possível — sindicatos ilegais, partidos fechados, imprensa censurada, Congresso dissolvido. Se isso é condição **necessária** do programa ou apenas o traço específico do caso chileno é exatamente o que se discute.
+:::
+
+**A transição.** A Constituição de 1980 previa um **plebiscito** em 1988 sobre a permanência de Pinochet por mais oito anos. A oposição, contra a expectativa do regime, organizou-se para vencer dentro das próprias regras: com a campanha do "**No**", venceu com 56% dos votos. Pinochet aceitou o resultado, entregou a presidência em 1990 a Patricio Aylwin, mas permaneceu comandante do Exército até 1998 e depois senador vitalício. Preso em **Londres** em 1998 a pedido do juiz espanhol Baltasar Garzón — episódio que abriu precedente decisivo na jurisdição internacional sobre crimes contra a humanidade —, foi liberado por razões de saúde e morreu em 2006 **sem condenação**, embora respondesse a mais de trezentos processos.
+
+## Argentina: o "Processo" e os desaparecidos {#sec-argentina}
+
+A Argentina chegou aos anos 1970 em crise crônica: dezoito anos de proscrição do **peronismo** (1955–73), alternância entre governos civis frágeis e militares, inflação, conflito sindical intenso e violência política crescente — guerrilhas de esquerda como **Montoneros** e **ERP** de um lado, e o esquadrão paramilitar **Triple A**, ligado ao governo, de outro. Perón voltou do exílio em 1973, morreu em 1974 e foi sucedido pela vice-presidente e viúva, **Isabel Perón**, cujo governo se desintegrou.
+
+Em **24 de março de 1976**, uma junta liderada pelo general **Jorge Rafael Videla** tomou o poder e instaurou o autodenominado "**Processo de Reorganização Nacional**". Foi a mais sistemática das ditaduras do Cone Sul, e sua marca foi um método: o **desaparecimento forçado**.
+
+::: {.callout-important title="Por que o desaparecimento forçado é um crime específico"}
+Não é um eufemismo para assassinato. É um método com finalidades próprias, e entendê-las é essencial:
+
+- **Elimina a prova.** Sem corpo, não há homicídio a investigar, nem certidão de óbito, nem processo, nem responsável identificável. A negativa oficial torna-se sustentável: Videla chegou a declarar publicamente que o desaparecido "não está nem morto nem vivo; é um desaparecido".
+- **Multiplica o terror.** A incerteza atinge a família inteira e, por meio dela, toda a comunidade. Ninguém sabe quem foi levado, por quem, nem por quê — e por isso todos se vigiam.
+- **Impede o luto.** Sem corpo, não há velório, enterro nem encerramento possível. É o que as Madres expressam ao recusar o verbo no passado: seus filhos não "foram", eles **estão** desaparecidos.
+- **Cria uma zona sem direito.** O detido não é preso nem processado; simplesmente deixa de existir juridicamente. Não há habeas corpus para quem o Estado afirma não ter.
+
+Foram cerca de **340 centros clandestinos** de detenção, o maior deles a **ESMA**, em Buenos Aires. Milhares de prisioneiros foram drogados e lançados vivos ao mar nos "**voos da morte**". E cerca de **500 bebês** nascidos em cativeiro ou sequestrados com os pais foram entregues a famílias ligadas ao regime, com identidade falsificada — crime pelo qual as **Abuelas de Plaza de Mayo** localizaram, até hoje, mais de 130 netos, muitos deles já adultos que ignoravam sua própria história.
+:::
+
+**Malvinas.** Em abril de 1982, com a economia em colapso e protestos crescentes, a junta do general **Leopoldo Galtieri** ocupou as **Ilhas Malvinas/Falkland**, sob domínio britânico desde 1833, apostando numa causa nacional capaz de unificar o país. O Reino Unido de **Margaret Thatcher** enviou uma força-tarefa; em 74 dias de guerra, morreram cerca de **650 argentinos** — muitos deles conscritos adolescentes mal equipados — e 255 britânicos. A derrota destruiu a última legitimidade do regime, que convocou eleições. **Raúl Alfonsín** assumiu em dezembro de 1983.
+
+**A justiça de transição argentina** é o contraste mais instrutivo com o caso brasileiro. Alfonsín criou de imediato a **CONADEP**, cujo relatório *Nunca Más* (1984) documentou **8.961 casos** de desaparecimento com nome e circunstância — número que as próprias organizações de direitos humanos consideram muito inferior ao total real, estimado em cerca de **30 mil** [@conadep1984]. Em **1985**, o **Julgamento das Juntas** condenou Videla e outros comandantes em tribunal civil, com testemunhas, provas e ampla cobertura pública. Sob pressão de levantes militares, seguiram-se as leis de **Ponto Final** (1986) e **Obediência Devida** (1987) e os indultos de 1989–90; mas em **2003** essas leis foram anuladas pelo Congresso e declaradas inconstitucionais pela Corte Suprema em 2005, e os processos foram **retomados**, resultando em centenas de condenações — algumas proferidas quando os réus já passavam dos noventa anos.
+
+## Uruguai, Paraguai, Bolívia e a América Central {#sec-outros-paises}
+
+**Uruguai (1973–85).** O país de mais sólida tradição democrática da região — chamado de "Suíça da América" — teve um golpe peculiar: o presidente civil **Juan María Bordaberry** dissolveu o Parlamento em 27 de junho de 1973 e governou com as Forças Armadas. A repressão, dirigida contra a guerrilha dos **Tupamaros** e depois contra sindicatos e partidos, atingiu uma escala que lhe deu, proporcionalmente à população, a **maior taxa de presos políticos do mundo**: um em cada cinquenta uruguaios passou por prisão, e um em cada cinco emigrou [@padros2005].
+
+**Paraguai (1954–89).** A ditadura de **Alfredo Stroessner** foi a mais longa da América do Sul: 35 anos de estado de sítio quase ininterrupto, culto à personalidade e partido único de fachada. Foi em Assunção que se encontrou, em 1992, o "**Arquivo do Terror**" — toneladas de documentos policiais que se tornaram a principal prova documental da Operação Condor.
+
+**Bolívia.** Sucessão de golpes; a ditadura de **Hugo Banzer** (1971–78) e a de **García Meza** (1980), esta com envolvimento notório do narcotráfico.
+
+**América Central.** A região viveu as guerras mais sangrentas do período. Na **Nicarágua**, a dinastia **Somoza**, no poder desde 1937, foi derrubada em **19 de julho de 1979** pela **Frente Sandinista** — a única revolução vitoriosa na América Latina depois de Cuba. O governo sandinista realizou uma campanha de alfabetização premiada pela UNESCO e reforma agrária, e enfrentou a guerra dos "**contras**", força armada financiada pelos EUA, cujo custeio por vias ilegais produziu o escândalo **Irã-Contras** (1986). Em **1990**, os sandinistas perderam as eleições para Violeta Chamorro e **entregaram o poder** — fato notável, que os distingue de Cuba. Em **El Salvador**, a guerra civil (1980–92) matou cerca de 75 mil pessoas; o arcebispo **Óscar Romero** foi assassinado enquanto celebrava missa, em 24 de março de 1980, um dia depois de pedir publicamente aos soldados que desobedecessem a ordens de matar; em **El Mozote**, em 1981, um batalhão treinado nos EUA massacrou cerca de mil camponeses, entre eles centenas de crianças. Na **Guatemala**, o genocídio contra os maias, já mencionado, foi o ponto extremo.
+
+## A Operação Condor {#sec-operacao-condor}
+
+::: {.callout-note title="Conceito: Operação Condor"}
+Rede de **cooperação repressiva transnacional** formalizada em Santiago, em novembro de 1975, por iniciativa do chefe da DINA chilena, Manuel Contreras, reunindo os serviços de inteligência de **Argentina, Chile, Uruguai, Paraguai, Bolívia e Brasil** — mais tarde também Peru e Equador.
+
+Funcionava em três níveis: (1) intercâmbio sistemático de informações sobre opositores; (2) operações conjuntas de **sequestro e entrega** de exilados através das fronteiras, com prisioneiros capturados num país e transferidos clandestinamente a outro; (3) **assassinatos seletivos** fora da região.
+
+Os casos mais conhecidos: o general chileno **Carlos Prats** e sua esposa, mortos por bomba em Buenos Aires (1974); o ex-presidente boliviano **Juan José Torres**, assassinado na Argentina (1976); e o ex-chanceler chileno **Orlando Letelier**, morto com sua assistente americana por um carro-bomba em plena **Washington, D.C.** (1976) — atentado que constrangeu profundamente o próprio governo americano.
+:::
+
+O que torna Condor historicamente singular é que ela inverteu a lógica clássica do exílio: até então, cruzar a fronteira significava salvar-se. A partir de 1975, os aparatos repressivos operavam como um só, e o exílio no país vizinho deixou de ser refúgio — milhares de uruguaios, chilenos, bolivianos e paraguaios foram sequestrados na Argentina, e brasileiros, em vários desses países. A documentação veio de três fontes que se reforçam: o **Arquivo do Terror** paraguaio (1992), documentos **desclassificados** do governo americano a partir dos anos 1990 — que mostram que Washington tinha conhecimento detalhado da rede — e os processos judiciais na Argentina, na Itália e no Chile, que produziram condenações a partir dos anos 2000. Estimativas correntes na literatura atribuem à cooperação repressiva regional dezenas de milhares de mortos e desaparecidos e centenas de milhares de presos [@dinges2005].
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+**1. A Doutrina de Segurança Nacional foi importada ou tem raízes locais?** Uma interpretação **externalista** enfatiza a origem estrangeira: manuais americanos, Escola das Américas, doutrina francesa da guerra revolucionária vinda da Argélia, apoio material e político dos EUA a golpes documentado em arquivos desclassificados. Uma interpretação **internalista** responde que essa ênfase, levada longe demais, produz duas distorções: subestima tradições autoritárias e intervencionistas próprias das Forças Armadas latino-americanas, muito anteriores à Guerra Fria — no Brasil, o Exército derrubara governos em 1889, 1930, 1945, 1954 e 1961 (@sec-republica-velha; @sec-republica-de-1946) —, e retira responsabilidade dos atores locais que conspiraram, executaram e sustentaram os golpes: empresários, imprensa, igrejas, judiciário, classes médias urbanas. **Carlos Fico**, estudando 1964, formulou o equilíbrio hoje mais aceito: o apoio externo foi **facilitador e legitimador**, e a conspiração foi **essencialmente nacional** [@fico2008]. **Alain Rouquié** já apontara, antes, que o militarismo latino-americano é fenômeno estrutural, ligado à formação dos Estados e à fragilidade das instituições civis, e não apenas conjuntural [@rouquie1984].
+
+**2. A "teoria dos dois demônios" e sua crítica.** O prólogo original do *Nunca Más* (1984), escrito por Ernesto Sabato, descrevia a Argentina dos anos 1970 como um país atacado por dois terrorismos: o da guerrilha e o do Estado, com a sociedade civil no meio, inocente. A fórmula teve utilidade política imediata — permitiu construir consenso amplo para julgar as Juntas —, mas foi duramente criticada depois, por três razões:
+
+- **estabelece falsa simetria** entre a violência de grupos privados e a violência do **Estado**, que detém o monopólio legítimo da força, controla a justiça e tem o dever jurídico de proteger;
+- **não corresponde aos fatos** sobre as vítimas: os dados da própria CONADEP mostram que a maioria dos desaparecidos era de trabalhadores, estudantes, sindicalistas, advogados, jornalistas e militantes **desarmados**, e que o grosso da repressão ocorreu **depois** de a guerrilha já estar militarmente derrotada, em 1977–78;
+- **fabrica uma sociedade inocente**, apagando os apoios civis — empresariais, midiáticos, eclesiásticos, judiciais — sem os quais o regime não teria se sustentado.
+
+Em 2006, uma nova edição oficial do *Nunca Más* recebeu um prólogo que repudia explicitamente aquela leitura. O episódio é um caso raro e didático de **documento histórico que é revisado pelo próprio Estado que o produziu** — e uma boa ocasião para lembrar que relatórios oficiais são fontes a serem criticadas, não veredictos finais.
+
+**3. As cifras e por que elas são disputadas.** Na Argentina, a CONADEP documentou **8.961** casos individualizados; organismos de direitos humanos sustentam a estimativa de **30 mil** desaparecidos, e o número tornou-se símbolo político. A discrepância tem explicação técnica evidente — um método registra casos **denunciados e documentados**, e a estimativa procura corrigir a subnotificação, altíssima quando famílias inteiras foram eliminadas, quando as vítimas eram migrantes sem parentes próximos ou quando o medo impediu denúncias. O ponto historiográfico que interessa é este: **discutir metodologia de contagem é trabalho legítimo do historiador; usar a discussão numérica para insinuar que o crime não existiu ou foi menor do que é não é revisão, é negacionismo** (@sec-desafios-do-presente). A mesma distinção se aplica ao Chile, à Guatemala e ao Brasil, e é justamente o que separa a crítica das fontes de sua manipulação.
+
+**4. Dependência: a teoria e seu destino.** A teoria da dependência foi a contribuição latino-americana mais influente às ciências sociais do século XX, e teve destinos opostos em suas duas vertentes. A **radical** de Frank e Marini — o subdesenvolvimento como bloqueio insuperável dentro do sistema — perdeu força empírica diante da industrialização asiática: Coreia do Sul e Taiwan eram periferias agrárias nos anos 1950 e tornaram-se potências industriais **dentro** do sistema capitalista mundial. A **matizada** de **Cardoso e Faletto** — desenvolvimento associado e dependente, possível mas subordinado e desigual — envelheceu melhor e continua produtiva para analisar países exportadores de *commodities* [@cardoso1990]. Há aqui, ainda, uma ironia histórica que os alunos apreciam e que vale explorar com cuidado analítico: o coautor da tese matizada tornou-se presidente do Brasil e conduziu um programa de estabilização e privatizações frequentemente descrito como o oposto do que a teoria da dependência prescreveria (@sec-redemocratizacao-nova-republica). Se isso é contradição, adaptação ao possível ou consequência lógica da própria vertente "associada" é assunto de debate legítimo — e um exercício útil para distinguir o que uma teoria **descreve** do que ela **prescreve**.
+
+**5. Justiça de transição: por que os caminhos foram tão diferentes?** Comparar é o melhor modo de explicar. A **Argentina** julgou as Juntas em 1985 porque a ditadura **colapsou** militar e politicamente após as Malvinas, sem poder impor condições. O **Chile** produziu relatórios oficiais e centenas de condenações de agentes, mas negociou uma saída dentro das regras que a própria ditadura escrevera, e Pinochet morreu sem sentença. O **Uruguai** aprovou uma lei de caducidade e a **manteve em dois referendos populares** (1989 e 2009), o que introduz um problema espinhoso: e quando é a própria sociedade que escolhe não julgar? O **Brasil** conduziu uma transição negociada e controlada pelo regime, com anistia recíproca em 1979, e chegou ao século XXI sem nenhuma condenação criminal, tendo produzido apenas a **CNV** em 2012–14 (@sec-ditadura-militar; @sec-redemocratizacao-nova-republica) [@cnv2014].
+
+A variável que melhor explica essas diferenças não é o tamanho do crime, nem a cultura política de cada país: é o **modo de saída** da ditadura. Regimes que **colapsam** não conseguem impor a impunidade; regimes que **negociam** a transição a garantem para si. Essa constatação, formulada em estudos comparados sobre o Cone Sul, tem uma implicação incômoda e importante: a impunidade brasileira não é um acidente nem uma falha de caráter nacional — foi uma **cláusula do acordo** que produziu a democracia brasileira.
+
+## Resumo do capítulo {#sec-resumo}
+
+- **Ponto de partida:** urbanização, **ISI** (industrialização por substituição de importações), Estado desenvolvimentista e política de massas. **CEPAL** (1948) e **Prebisch**: deterioração dos **termos de troca**. **Teoria da dependência** em duas vertentes — radical (**Frank**, **Marini**: bloqueio estrutural) e matizada (**Cardoso e Faletto**: desenvolvimento **associado e dependente**).
+- **Cuba (1959)** como divisor de águas: a **teoria do foco** de Che inspira dezenas de guerrilhas, quase todas derrotadas. Resposta americana em duas faces: **Aliança para o Progresso** (1961) e **contra-insurgência** (**Escola das Américas**, ~60 mil oficiais). Precedente: **Guatemala, 1954**, com a derrubada de **Árbenz** e uma guerra civil de 36 anos, ~200 mil mortos, 83% maias e **genocídio** reconhecido.
+- **Doutrina de Segurança Nacional:** inimigo **interno**, fronteiras **ideológicas**, guerra **permanente** — e daí a normalização de tortura, execução e desaparecimento. Fontes: EUA (ESG, manuais, Escola das Américas) **e** França (guerra revolucionária da Indochina e da **Argélia**).
+- **Ditaduras:** **Paraguai** (Stroessner, 1954–89, a mais longa), **Brasil** (1964–85), **Bolívia** (Banzer, 1971–78), **Uruguai** (1973–85, maior proporção de presos políticos do mundo), **Chile** (1973–90), **Argentina** (1976–83). Exceções: **Peru** (governo militar de esquerda, 1968–75), **México** (autoritarismo civil do PRI; **Tlatelolco**, 1968), **Nicarágua** (revolução vitoriosa em 1979).
+- **Chile:** **Allende** eleito em 4/9/1970 com 36,6%; "**via chilena ao socialismo**"; nacionalização do **cobre** por unanimidade (1971); crise por desabastecimento, inflação, oposição parlamentar, radicalização interna e desestabilização americana ("fazer a economia gritar"). Golpe em **11/9/1973**; **Pinochet** até 1990; ~**3.200** mortos e desaparecidos e ~**40 mil** torturados (relatórios **Rettig** e **Valech**); "***Chicago boys***" a partir de 1975 e **Constituição de 1980**; **plebiscito de 1988** vencido pelo "No" com 56%; prisão em Londres (1998) e morte **sem condenação** (2006).
+- **Argentina:** golpe em **24/3/1976** (**Videla**), "**Processo de Reorganização Nacional**"; **desaparecimento forçado** como método — ~340 centros clandestinos, **ESMA**, "**voos da morte**", ~**500 bebês apropriados**; **Madres** e **Abuelas de Plaza de Mayo** (desde 1977); **Malvinas** (1982) e o colapso do regime; **Alfonsín** (1983), **CONADEP**/*Nunca Más* (8.961 casos documentados; estimativa de 30 mil), **Julgamento das Juntas** (1985), leis de **Ponto Final** e **Obediência Devida**, anuladas em 2003–2005, com processos retomados.
+- **Outros:** **Uruguai** (Bordaberry, Tupamaros, um em cada cinquenta preso, um em cada cinco emigrado); **Paraguai** (Stroessner e o **Arquivo do Terror**, 1992); **Nicarágua** (queda de **Somoza** em 19/7/1979, sandinistas, guerra dos "**contras**", **Irã-Contras**, derrota eleitoral aceita em 1990); **El Salvador** (assassinato de **Óscar Romero**, 1980; **El Mozote**, 1981).
+- **Operação Condor** (1975): cooperação repressiva entre Argentina, Chile, Uruguai, Paraguai, Bolívia e Brasil — informação, sequestros transfronteiriços e assassinatos (**Prats**, **Torres**, **Letelier** em Washington). O exílio deixa de ser refúgio.
+- **Historiografia:** DSN **importada** × com **raízes locais** (síntese de **Fico**: apoio externo facilitador, conspiração nacional; **Rouquié** sobre o militarismo estrutural); crítica à "**teoria dos dois demônios**" e o prólogo revisto do *Nunca Más* em 2006; o debate sobre **cifras** e a fronteira entre crítica de fontes e **negacionismo**; o destino das duas vertentes da **dependência**; e a explicação comparada da **justiça de transição** pelo **modo de saída** da ditadura.
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Domine: (1) CEPAL e as duas vertentes da dependência; (2) as duas faces da resposta americana a Cuba; (3) as três consequências lógicas da DSN; (4) as quatro causas da queda de Allende; (5) por que o desaparecimento forçado é um método específico; (6) o que foi a Condor; (7) por que Argentina julgou e Brasil não; (8) a crítica à teoria dos dois demônios.
+:::
+
+**1.** Explique a **teoria da dependência** e distinga suas duas vertentes.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**O ponto de partida cepalino.** A **CEPAL** (1948) e **Raúl Prebisch** formularam a tese da **deterioração dos termos de troca**: ao longo do tempo, os preços dos produtos primários exportados pela periferia caem em relação aos dos manufaturados importados do centro. Um país que exporta café e importa máquinas precisa exportar cada vez mais para importar o mesmo. Conclusão prática: **industrializar** por substituição de importações, com proteção tarifária e Estado indutor.
+
+**O salto teórico dos anos 1960.** A **teoria da dependência** radicalizou o diagnóstico com uma tese forte: o subdesenvolvimento **não é uma etapa** anterior ao desenvolvimento, pela qual todos passariam com tempo e boas políticas. Ele é **produto** da mesma história que produziu o desenvolvimento alheio. Centro e periferia se constituíram na **mesma relação**, desde a colonização (@sec-antigo-sistema-colonial): não são estágios distintos de uma escada, são posições simultâneas de uma estrutura.
+
+**Vertente radical — Frank e Marini.** A relação de dependência é um **bloqueio estrutural**: a transferência permanente de excedente para o centro, por meio de preços, lucros e juros, impede a acumulação necessária ao desenvolvimento autônomo. **André Gunder Frank** cunhou a fórmula "desenvolvimento do subdesenvolvimento"; **Ruy Mauro Marini** acrescentou o conceito de **superexploração do trabalho**, pelo qual a burguesia periférica compensa a perda no comércio externo rebaixando salários internamente. Conclusão política: só a **ruptura revolucionária** com o sistema abriria caminho.
+
+**Vertente matizada — Cardoso e Faletto.** Em *Dependência e desenvolvimento na América Latina* (1969), sustentam que há **espaço para desenvolvimento dentro da dependência** [@cardoso1990]. A industrialização é possível e efetivamente ocorreu, mas de modo **associado**: capitaneada por empresas multinacionais em aliança com burguesias locais e com o Estado, concentradora de renda, tecnologicamente subordinada e vulnerável a decisões tomadas fora. Não é bloqueio absoluto; é **desenvolvimento desigual e subordinado**.
+
+**O balanço posterior.** A vertente radical perdeu força empírica com o caso asiático: Coreia do Sul e Taiwan eram periferias agrárias pobres nos anos 1950 e industrializaram-se **dentro** do sistema, com Estados fortes, reforma agrária prévia, investimento maciço em educação e um contexto geopolítico favorável na Guerra Fria. A vertente matizada envelheceu melhor e continua sendo ferramenta útil para analisar economias exportadoras de *commodities*, inclusive a brasileira contemporânea.
+
+**A ironia que vale discutir com cuidado.** Fernando Henrique Cardoso, coautor da formulação matizada, tornou-se presidente e conduziu estabilização e privatizações frequentemente lidas como contrárias ao espírito da teoria (@sec-redemocratizacao-nova-republica). Antes de chamar isso de traição, note a distinção que o caso exige: a teoria da dependência **descrevia** um mecanismo, não **prescrevia** necessariamente um programa de governo — e a vertente "associada" era, por construção, a que admitia mais margem para atuar dentro do sistema.
+:::
+
+**2.** O que foi a **Doutrina de Segurança Nacional** e como ela justificou a repressão?
+
+::: {.callout-tip collapse="true" title="Solução"}
+**A definição.** Conjunto de concepções que reorientou as Forças Armadas latino-americanas a partir dos anos 1950–60, substituindo a hipótese de guerra convencional entre Estados pela hipótese de guerra **interna** contra a "subversão" comunista infiltrada na sociedade.
+
+**As três consequências lógicas — e o ponto é justamente que decorrem da premissa.**
+
+1. **Fronteiras ideológicas em vez de geográficas.** Se o inimigo é o comunismo, e não outro país, então o que define aliados e inimigos é a posição ideológica, não o território. Daí decorre tanto o alinhamento automático com Washington quanto a **cooperação repressiva** entre países vizinhos — a Operação Condor é a aplicação prática do princípio.
+2. **Guerra permanente e sem forma.** Não há declaração, frente, uniforme, nem armistício. Se a guerra não termina, o estado de exceção também não, e a "situação excepcional" torna-se o regime normal de governo.
+3. **Suspeição universal e métodos excepcionais.** Como o inimigo se disfarça de cidadão comum, qualquer pessoa é suspeita — o professor, o padre, o sindicalista, o estudante, o jornalista, o advogado de presos. E, se se trata de uma guerra defensiva contra um inimigo sem regras, então tortura, execução extrajudicial e desaparecimento passam a ser apresentados como **instrumentos legítimos**, e não como crimes.
+
+**As duas fontes externas.** A **norte-americana**: manuais de contra-insurgência, assistência a polícias e a **Escola das Américas**, por onde passaram cerca de 60 mil oficiais da região. A **francesa**, frequentemente esquecida: oficiais veteranos da Indochina e da **Argélia** sistematizaram a doutrina da "guerra revolucionária" — quadriculamento do território, informação obtida sob tortura, ação psicológica sobre a população — e a ensinaram diretamente a militares argentinos e brasileiros a partir do fim dos anos 1950 (@sec-descolonizacao-africa-asia).
+
+**A justificativa que ela oferecia.** A doutrina permitia que a repressão fosse apresentada, inclusive de boa-fé por muitos de seus executores, como **defesa nacional** e não como crime: o país estaria em guerra, ainda que a maioria da população não soubesse; a guerra teria regras próprias; e os meios seriam desagradáveis, porém necessários. Essa construção explica por que os regimes produziam **documentação interna** meticulosa da repressão ao mesmo tempo em que a **negavam publicamente** — para eles, tratava-se de operação militar legítima, não de delito.
+
+**A crítica decisiva, e é a que uma boa resposta apresenta.** A doutrina inverte o próprio fundamento do Estado. As Forças Armadas existem para defender a população contra ameaças externas; a DSN as converte em instrumento de guerra **contra sua própria população**, com a hipótese de conflito voltada para dentro. E, como o critério de identificação do inimigo é ideológico e não factual, o alvo real acabou sendo, na maioria esmagadora dos casos documentados, **opositores desarmados**: sindicalistas, estudantes, jornalistas, religiosos, advogados e camponeses.
+:::
+
+**3.** Explique o governo de **Salvador Allende** e as causas do golpe de 1973.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**A experiência.** Eleito em **4 de setembro de 1970** com 36,6% dos votos numa disputa de três candidatos e confirmado pelo Congresso em outubro, **Allende** foi o primeiro marxista a chegar ao governo pelo **voto**. Seu programa, a "**via chilena ao socialismo**", propunha transformações profundas **preservando** a Constituição, as eleições, o pluripartidarismo e a liberdade de imprensa — uma hipótese política inédita, acompanhada com enorme atenção no mundo inteiro.
+
+**O que foi feito.** Nacionalização do **cobre**, aprovada por **unanimidade** no Congresso em 1971, com votos da direita — sinal de que a soberania sobre o recurso era consenso nacional; estatização de bancos e de grandes empresas; aceleração da reforma agrária; aumento de salários e congelamento de preços, que produziram no primeiro ano crescimento, queda do desemprego e ampliação do consumo popular. A Unidade Popular **aumentou** sua votação nas legislativas de março de 1973, o que tornava improvável derrubá-la pelas urnas.
+
+**As quatro causas do golpe, e é a combinação delas que explica o desfecho.**
+
+1. **Econômicas.** O estímulo ao consumo sem aumento correspondente da produção gerou, a partir de 1972, desabastecimento, filas, mercado negro e inflação alta. A queda do preço internacional do cobre reduziu as receitas justamente quando eram mais necessárias.
+2. **Políticas internas.** Allende tinha maioria eleitoral relativa, **não** maioria parlamentar: o Congresso, o Judiciário e a maior parte da imprensa eram oposicionistas. E, dentro de sua própria coalizão, setores pressionavam por ocupações e estatizações além do que a legalidade permitia — o governo ficou espremido entre a radicalização da base e a necessidade de acordo com a Democracia Cristã, e perdeu as duas.
+3. **Externas.** Documentos desclassificados dos EUA registram a ordem de Nixon de "fazer a economia gritar", o financiamento à imprensa e aos partidos de oposição, o bloqueio de crédito internacional e o apoio às greves patronais — sobretudo a dos caminhoneiros, que paralisou um país dependente do transporte rodoviário [@monizBandeira2008].
+4. **Militares.** Setores crescentes do oficialato passaram a ver o governo como ameaça existencial; a nomeação de Pinochet como comandante do Exército, poucas semanas antes, foi feita na suposição de que ele era legalista.
+
+**O golpe.** Em **11 de setembro de 1973**, as Forças Armadas bombardearam **La Moneda**. Allende recusou renunciar e recusou o exílio; em sua última transmissão de rádio, previu que "se abrirão as grandes alamedas por onde passe o homem livre" [@allende1973], e morreu no palácio.
+
+**Por que o caso é tão discutido.** Porque testou uma hipótese específica: a possibilidade de transformações socialistas por via **eleitoral e constitucional**. Duas leituras opostas extraem lições contrárias do mesmo episódio — para uma, o fracasso prova que as classes proprietárias não aceitam perder pelo voto e recorrerão à força, tornando a via pacífica ilusória; para outra, prova que uma reforma profunda exige **maioria política sólida e sustentada**, que Allende não tinha, e que forçar o ritmo além do apoio disponível é o que abre espaço à ruptura. Uma boa resposta apresenta as duas e observa que ambas se apoiam em fatos verificáveis do caso.
+:::
+
+**4.** Explique o que foi o **desaparecimento forçado** e por que constitui um crime específico.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**A definição.** É a privação de liberdade praticada por agentes do Estado — ou com sua autorização ou aquiescência — seguida da **recusa em reconhecer a detenção** ou em informar o paradeiro da pessoa, subtraindo-a à proteção da lei. Foi o método central das ditaduras do Cone Sul, sistematizado sobretudo na Argentina a partir de 1976.
+
+**Por que não é apenas um eufemismo para assassinato — as quatro funções do método.**
+
+1. **Elimina a prova e o responsável.** Sem corpo, não há homicídio a apurar, nem certidão de óbito, nem inquérito, nem culpado identificável. A negativa oficial torna-se sustentável — Videla chegou a afirmar publicamente que o desaparecido "não está nem morto nem vivo; é um desaparecido".
+2. **Multiplica o terror muito além da vítima.** A incerteza atinge família, colegas de trabalho, vizinhos e escola. Como ninguém sabe quem será levado nem por quê, o efeito disciplinador se espalha por toda a sociedade — e a delação e o silêncio se tornam estratégias de sobrevivência.
+3. **Impede o luto.** Sem corpo, não há velório, enterro nem encerramento. É exatamente por isso que as **Madres de Plaza de Mayo** recusam o verbo no passado: seus filhos não "foram", eles **estão** desaparecidos. Trata-se de uma violência que se prolonga indefinidamente no tempo.
+4. **Cria uma zona sem direito.** O detido não é preso, nem indiciado, nem processado: deixa de existir juridicamente. Não há habeas corpus possível para quem o Estado afirma não ter em seu poder.
+
+**A escala argentina.** Cerca de **340 centros clandestinos** de detenção, o maior deles a **ESMA**, em Buenos Aires, hoje museu e sítio de memória reconhecido pela UNESCO; milhares de prisioneiros drogados e lançados vivos ao mar nos "**voos da morte**"; e cerca de **500 bebês** nascidos em cativeiro ou sequestrados com os pais, entregues a famílias ligadas ao regime com identidade falsificada — as **Abuelas de Plaza de Mayo** recuperaram, até hoje, mais de 130 dessas identidades, hoje de pessoas adultas.
+
+**As consequências jurídicas de longo prazo.** Por sua natureza **continuada** — o crime persiste enquanto o paradeiro não é esclarecido —, o desaparecimento forçado não prescreve, o que permitiu retomar processos décadas depois. A **Convenção Interamericana sobre o Desaparecimento Forçado** (1994) e a **Convenção da ONU** (2006) tipificaram-no internacionalmente, e o Estatuto de Roma o classifica como crime contra a humanidade quando praticado de forma sistemática. Foi por esse caminho jurídico que a Argentina pôde anular suas leis de impunidade em 2003–2005 e condenar responsáveis já nonagenários — e é por esse mesmo caminho que se discute, no Brasil, o alcance da Lei de Anistia de 1979 (@sec-ditadura-militar).
+:::
+
+**5.** O que foi a **Operação Condor**?
+
+::: {.callout-tip collapse="true" title="Solução"}
+**A definição.** Rede de cooperação repressiva **transnacional**, formalizada em Santiago do Chile em novembro de 1975 por iniciativa de Manuel Contreras, chefe da DINA, reunindo os serviços de inteligência de **Argentina, Chile, Uruguai, Paraguai, Bolívia e Brasil**, com adesão posterior de Peru e Equador.
+
+**Os três níveis de atuação.**
+
+1. **Informação:** banco de dados compartilhado sobre opositores exilados, com fichas, fotografias e vínculos familiares e políticos, alimentado por todos os participantes.
+2. **Operações conjuntas:** sequestro de exilados em um país e **entrega clandestina** ao país de origem, à margem de qualquer procedimento de extradição. Milhares de uruguaios, chilenos, bolivianos e paraguaios foram capturados na Argentina; brasileiros, em vários desses países.
+3. **Assassinatos seletivos**, inclusive fora da América do Sul: o general chileno **Carlos Prats** e sua esposa, em Buenos Aires (1974); o ex-presidente boliviano **Juan José Torres**, na Argentina (1976); o ex-chanceler chileno **Orlando Letelier** e sua assistente americana Ronni Moffitt, mortos por carro-bomba em **Washington, D.C.** (1976) — atentado terrorista cometido na capital dos Estados Unidos por um Estado aliado, o que provocou grave constrangimento diplomático.
+
+**Por que é historicamente singular.** Porque inverteu a lógica do exílio. Até então, cruzar a fronteira significava, em regra, salvar-se: cada Estado exercia jurisdição apenas sobre seu território. Com Condor, os aparatos repressivos passaram a operar como um **único sistema continental**, e o refúgio no país vizinho deixou de existir. É, nesse sentido, uma forma precoce de integração regional — construída, ironicamente, entre regimes que faziam do nacionalismo sua bandeira.
+
+**Como se sabe o que se sabe.** A documentação vem de três fontes independentes que se confirmam mutuamente:
+
+- o "**Arquivo do Terror**", descoberto em Lambaré, no Paraguai, em 1992: toneladas de fichas, relatórios e correspondência da polícia de Stroessner;
+- documentos **desclassificados** do governo dos EUA a partir dos anos 1990, que mostram conhecimento detalhado da rede por parte de Washington;
+- **processos judiciais** na Argentina, na Itália e no Chile, que produziram condenações a partir dos anos 2000, inclusive de oficiais brasileiros em processos estrangeiros.
+
+**A dimensão brasileira.** O Brasil participou desde antes da formalização, e a CNV documentou casos de brasileiros sequestrados ou mortos no exterior e de estrangeiros entregues por agentes brasileiros a seus países [@cnv2014]. O Brasil, no entanto, é o único dos participantes que jamais condenou criminalmente qualquer agente por esses fatos.
+
+**A relevância atual.** Condor ajudou a consolidar, no direito internacional, o princípio de que crimes contra a humanidade **não prescrevem** e podem ser julgados por tribunais de outros países — princípio que fundamentou a prisão de Pinochet em Londres, em 1998, e continua sendo invocado hoje [@dinges2005].
+:::
+
+**6.** (Estilo ENEM) Leia o texto.
+
+> "Trabalhadores da minha pátria: tenho fé no Chile e em seu destino. Superarão outros homens este momento cinzento e amargo, em que a traição pretende impor-se. Sigam sabendo que, muito mais cedo que tarde, se abrirão de novo as grandes alamedas por onde passe o homem livre, para construir uma sociedade melhor."
+>
+> — Salvador Allende, último discurso, Rádio Magallanes, 11 de setembro de 1973 [@allende1973]
+
+O contexto histórico em que esse discurso foi pronunciado caracteriza-se pela
+
+**(a)** renúncia voluntária do presidente diante da derrota nas eleições legislativas de março de 1973.
+**(b)** interrupção, por golpe militar, de um governo eleito que buscava transformações socialistas por via constitucional.
+**(c)** invasão do território chileno por forças militares estrangeiras em represália à nacionalização do cobre.
+**(d)** vitória de uma insurreição popular armada contra o regime militar então vigente no país.
+**(e)** convocação de uma assembleia constituinte para institucionalizar as reformas da Unidade Popular.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (b).** O discurso foi transmitido enquanto o palácio de **La Moneda** era bombardeado pelas Forças Armadas chilenas, em **11 de setembro de 1973**. Allende havia sido eleito em 1970 e conduzia a "**via chilena ao socialismo**", projeto de transformações socialistas **dentro** da ordem constitucional. A palavra "traição", no texto, refere-se precisamente à ruptura, pelas Forças Armadas, do compromisso legalista que elas próprias afirmavam manter.
+
+Por que as demais estão erradas:
+
+- **(a)** Allende **não renunciou** — recusou expressamente a renúncia e a oferta de exílio, e morreu no palácio. Além disso, a Unidade Popular **ampliou** sua votação nas legislativas de março de 1973, o que é justamente uma das razões pelas quais a oposição concluiu que não o removeria pelo voto;
+- **(c)** não houve invasão estrangeira. Houve intervenção **externa indireta** — financiamento à oposição, bloqueio de crédito, apoio a greves patronais —, mas o golpe foi executado pelas Forças Armadas **chilenas**;
+- **(d)** inverte completamente os polos: não foi insurreição popular contra militares, foi golpe militar contra um governo civil eleito. O regime militar **começou** naquele dia e durou até 1990;
+- **(e)** não havia constituinte em curso; a Constituição que viria, a de **1980**, foi elaborada **pela ditadura** e serviu para blindar o modelo econômico e político do regime.
+
+**O que a questão realmente avalia.** A capacidade de reconhecer, em uma fonte primária, o **momento histórico** a partir de marcas internas do texto: o tom de despedida, a palavra "traição", a projeção de futuro ("outros homens superarão"). Note ainda um traço notável do documento: pronunciado sob bombardeio, o discurso não convoca à luta armada nem prevê vingança — projeta uma restauração futura da liberdade. É por isso que se tornou um dos textos políticos mais citados da América Latina.
+:::
+
+**7.** (Estilo vestibular) Compare os processos de **justiça de transição** na Argentina, no Chile e no Brasil, explicando por que foram tão diferentes.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Argentina.** A ditadura **colapsou** — derrota nas **Malvinas** (1982), economia arruinada, deslegitimação completa — e por isso não teve como impor condições à saída. **Alfonsín** assumiu em dezembro de 1983 e, em poucos dias, criou a **CONADEP**, cujo relatório *Nunca Más* (1984) documentou **8.961** desaparecimentos individualizados [@conadep1984]. Em **1985**, o **Julgamento das Juntas** condenou Videla e outros comandantes em tribunal **civil**, com provas e testemunhas, num processo público que se tornou referência mundial. Houve recuo — leis de **Ponto Final** (1986) e **Obediência Devida** (1987) e indultos (1989–90), sob pressão de levantes militares —, mas em **2003** o Congresso anulou essas leis, a Corte Suprema as declarou inconstitucionais em 2005 e os processos foram **retomados**, com centenas de condenações. É o caso mais completo de justiça de transição da região.
+
+**Chile.** A ditadura **negociou** sua saída dentro das regras que ela mesma escrevera na Constituição de 1980, e perdeu o **plebiscito de 1988** que havia convocado. O resultado é intermediário: relatórios oficiais robustos — **Rettig** (1991), sobre mortos e desaparecidos, e **Valech** (2004), sobre prisão política e tortura [@rettig1991] —, memoriais, reparações e, com o tempo, **centenas de condenações** de agentes. Mas **Pinochet** permaneceu comandante do Exército até 1998, foi senador vitalício, e morreu em 2006 **sem sentença**, apesar de responder a mais de trezentos processos. Sua prisão em **Londres** (1998), a pedido do juiz espanhol Garzón, teve efeito paradoxal e decisivo: não o condenou, mas destravou processos dentro do próprio Chile ao demonstrar que sua imunidade não era intocável.
+
+**Brasil.** Transição **negociada e conduzida pelo próprio regime**, com a **Lei de Anistia de 1979** e sua cláusula de "crimes conexos", interpretada como anistia **recíproca** — isto é, também para os agentes do Estado. O STF confirmou essa interpretação em 2010, apesar da condenação do Brasil pela Corte Interamericana de Direitos Humanos no caso Gomes Lund, no mesmo ano. A **Comissão Nacional da Verdade** funcionou apenas entre **2012 e 2014**, quase trinta anos depois do fim do regime, e identificou 434 mortos e desaparecidos e centenas de responsáveis, sem poder judicial [@cnv2014]. Resultado: **nenhuma condenação criminal** por tortura, morte ou desaparecimento (@sec-ditadura-militar; @sec-redemocratizacao-nova-republica).
+
+**Uruguai — o caso que complica a explicação fácil.** A Lei de Caducidade foi mantida por **referendo popular** em 1989 e novamente em 2009. Não foi imposição militar: foi decisão majoritária da sociedade, o que levanta uma questão difícil sobre os limites da deliberação democrática diante de crimes contra a humanidade.
+
+**A variável explicativa.** Não é o tamanho do crime nem a cultura política: é o **modo de saída** da ditadura.
+
+| Modo de saída | País | Resultado |
+|---|---|---|
+| **Colapso** (derrota militar e econômica) | Argentina | julgamento amplo, retomado depois |
+| **Negociação com derrota eleitoral** | Chile | verdade oficial ampla, punição parcial e tardia |
+| **Transição conduzida pelo regime** | Brasil | verdade tardia e limitada, punição nenhuma |
+
+**A conclusão que a comparação autoriza.** Regimes que **colapsam** não conseguem impor a impunidade; regimes que **controlam** a transição a garantem para si por meio de leis de anistia. A impunidade brasileira, portanto, não é acidente, omissão ou falha de caráter nacional: foi uma **cláusula do acordo** que produziu a democracia brasileira — o que ajuda a entender por que o tema continua reaparecendo na política brasileira quatro décadas depois.
+:::
+
+**8.** Explique e critique a "**teoria dos dois demônios**".
+
+::: {.callout-tip collapse="true" title="Solução"}
+**A formulação.** O prólogo original do relatório *Nunca Más* (1984), escrito por Ernesto Sabato, apresentava a Argentina dos anos 1970 como um país atingido por **dois terrorismos**: o das organizações guerrilheiras de esquerda e o do Estado que reagiu a elas, com a sociedade civil como vítima inocente colhida entre os dois [@conadep1984].
+
+**Por que a fórmula surgiu — e este é o ponto que uma resposta madura não omite.** Ela teve **função política precisa** em 1984: permitiu construir o consenso amplo, incluindo setores conservadores, necessário para levar as Juntas a julgamento num país recém-saído da ditadura, com Forças Armadas ainda intactas e capazes de se rebelar — como de fato fizeram em 1987. Compreender por que uma formulação foi útil não equivale a aceitá-la como descrição correta.
+
+**As três críticas.**
+
+1. **Falsa simetria.** Equipara a violência de grupos privados à do **Estado**, que detém o monopólio legítimo da força, controla polícia, justiça e prisões, e tem o **dever jurídico** de proteger a população. Por isso mesmo o direito internacional trata a violência estatal sistemática como categoria distinta — crime contra a humanidade —, e não como um crime comum a mais.
+2. **Contradição com os fatos.** Os próprios dados da CONADEP mostram que a maioria esmagadora dos desaparecidos era composta de trabalhadores, estudantes, sindicalistas, advogados, jornalistas, professores e militantes **desarmados**; e que o auge da repressão ocorreu em **1977–78**, quando as organizações armadas já estavam militarmente derrotadas. Se o objetivo fosse combater a guerrilha, a repressão teria diminuído — ela aumentou, porque o alvo real era mais amplo: desarticular sindicatos, universidades e toda oposição organizada.
+3. **Sociedade inocente.** A fórmula apaga os **apoios civis** ao regime: empresários que denunciaram sindicalistas de suas fábricas, veículos de imprensa que sustentaram o regime, autoridades judiciais que negaram sistematicamente habeas corpus, setores da hierarquia eclesiástica que acobertaram crimes, e parcelas da classe média que apoiaram o golpe. Sem esses apoios, nenhuma ditadura se sustenta oito anos.
+
+**A revisão oficial.** Em **2006**, uma nova edição do *Nunca Más* publicada pelo Estado argentino trouxe um prólogo que **repudia expressamente** a teoria dos dois demônios. O episódio é notável: um documento oficial revisto pelo próprio Estado que o produziu, à luz de duas décadas de pesquisa. É um bom lembrete de que relatórios oficiais são **fontes históricas a serem criticadas**, e não veredictos definitivos (@sec-fontes-historicas).
+
+**A ressalva que uma resposta rigorosa faz.** Recusar a simetria **não** significa negar que as organizações armadas cometeram atos violentos — sequestros, atentados e assassinatos, inclusive de civis — nem que devam ser objeto de análise histórica e crítica. Significa recusar a **equivalência** entre o crime praticado por particulares e o terror exercido pelo aparelho de Estado, de forma sistemática, planejada, com recursos públicos e sob proteção institucional. A mesma distinção se aplica ao debate brasileiro sobre a luta armada e sobre a Lei de Anistia (@sec-ditadura-militar).
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- ROUQUIÉ, Alain. *O Estado militar na América Latina* [@rouquie1984]. O estudo comparado clássico sobre o militarismo latino-americano.
+- DINGES, John. *Os anos do Condor* [@dinges2005]. Reportagem investigativa rigorosa, baseada nos arquivos desclassificados.
+- GALEANO, Eduardo. *As veias abertas da América Latina* [@galeano2010]. Ensaio apaixonado de 1971 que formou gerações; leia-o **como fonte** de uma época e de uma sensibilidade, ao lado de análises acadêmicas mais recentes — o próprio autor, anos depois, fez ressalvas ao livro.
+- CARDOSO, Fernando Henrique; FALETTO, Enzo. *Dependência e desenvolvimento na América Latina* [@cardoso1990]. A formulação matizada da teoria da dependência.
+- KLEIN, Naomi. *A doutrina do choque* [@klein2008]. Tese forte e contestada; leia observando onde o argumento convence e onde generaliza demais.
+- PADRÓS, Enrique Serra. *Como el Uruguay no hay* [@padros2005]. Sobre o terrorismo de Estado uruguaio, por um historiador que trabalha no Brasil.
+
+**Fontes primárias**
+
+- **CONADEP.** *Nunca Más* [@conadep1984]. Leia o prólogo de 1984 **e** o de 2006, um após o outro: é uma aula sobre como a memória pública se transforma.
+- O **Informe Rettig** [@rettig1991] e o Informe Valech, disponíveis em português e espanhol na internet.
+- O **último discurso de Allende** [@allende1973], em áudio: nove minutos que valem qualquer resumo.
+- Os documentos **desclassificados** dos EUA sobre o Chile e a Operação Condor, disponíveis no acervo público do *National Security Archive*.
+- O **Relatório da CNV** brasileira [@cnv2014], em especial o volume sobre a cooperação repressiva internacional.
+
+**Filmes e documentários**
+
+- *A História Oficial* (1985), dir. Luis Puenzo. Sobre os bebês apropriados, rodado logo após a ditadura argentina; venceu o Oscar de filme estrangeiro.
+- *Missing — O Desaparecido* (1982), dir. Costa-Gavras. O golpe chileno visto por um pai americano que procura o filho.
+- *No* (2012), dir. Pablo Larraín. A campanha do plebiscito de 1988 — e uma reflexão sobre publicidade, democracia e memória.
+- *A Batalha do Chile* (1975–79), dir. Patricio Guzmán. Documentário filmado **durante** os acontecimentos; a câmera registra o próprio momento do golpe. Do mesmo diretor, *Nostalgia da Luz* (2010), sobre as mulheres que ainda procuram ossos no deserto do Atacama.
+- *Garage Olimpo* (1999), dir. Marco Bechis, sobre um centro clandestino argentino; e *Romero* (1989), sobre o arcebispo salvadorenho.
