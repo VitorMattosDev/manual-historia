@@ -1,5 +1,388 @@
 # Escravidão, abolição e imigração {#sec-escravidao-abolicao-imigracao}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+A **Lei Áurea** tem **dois artigos** e cabe em três linhas: "É declarada extinta desde a data desta lei a escravidão no Brasil. Revogam-se as disposições em contrário." Assinada pela princesa **Isabel** em **13 de maio de 1888**, ela encerrou trezentos e cinquenta anos de escravidão no maior território escravista das Américas — e não disse **uma palavra** sobre o que aconteceria com as cerca de 700 mil pessoas libertadas. Nada sobre terra, indenização, escolas, trabalho ou reparação. Enquanto isso, desde 1850 o Estado brasileiro **subsidiava com dinheiro público** a vinda de trabalhadores europeus: passagens pagas, hospedarias construídas, contratos negociados com governos estrangeiros. Um país gastou décadas planejando cuidadosamente a chegada de trabalhadores brancos e **zero** planejando o futuro de quem havia construído sua riqueza. Essa assimetria — a lei mais curta da história nacional para uns, política de Estado elaborada para outros — não é detalhe de execução: é o próprio conteúdo do que se chamou de abolição no Brasil. Este capítulo reconstitui como se chegou a 1888, quem lutou pela liberdade e por que a data comemorada como conquista é, ao mesmo tempo, o começo de outra história.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- explicar a pressão inglesa, o **Bill Aberdeen** e a **Lei Eusébio de Queirós** (1850), e o que mudou com o fim do tráfico atlântico;
+- caracterizar o **tráfico interprovincial** e a redistribuição da escravidão rumo ao Sudeste cafeeiro;
+- descrever as formas de **resistência** — quilombos, fugas, revoltas, ações judiciais e negociação cotidiana;
+- identificar as lideranças e as estratégias do **abolicionismo**, incluindo as populares e negras;
+- explicar a sequência das **leis emancipacionistas** (1871, 1885, 1888) e discutir se a Lei Áurea foi dádiva ou conquista;
+- relacionar a política de **imigração subsidiada** ao **racismo científico** e ao projeto de **branqueamento**;
+- avaliar o pós-abolição e comparar as principais interpretações historiográficas da escravidão brasileira.
 :::
+
+## O fim do tráfico e a escravidão que se reorganiza {#sec-fim-do-trafico}
+
+O Brasil recebeu, ao longo de mais de três séculos, entre **4,8 e 5 milhões** de africanos escravizados — cerca de **40%** de todos os que desembarcaram nas Américas, e quase dez vezes mais do que os Estados Unidos. Essa escala explica por que a demografia, a cultura, a língua e a religião do país são o que são.
+
+**A pressão inglesa.** Desde os tratados de 1810 e o reconhecimento de 1826 (@sec-independencia), o Brasil havia assumido, por escrito, o compromisso de acabar com o tráfico. Aprovou até uma lei em **1831** — apelidada pelos próprios contemporâneos de lei "**para inglês ver**", porque nunca foi aplicada. Entre 1831 e 1850, entraram no país mais de **700 mil** africanos ilegalmente. A Inglaterra, que abolira o tráfico em 1807 e a escravidão em suas colônias em 1833, perdeu a paciência: em **1845**, o Parlamento britânico aprovou o **Bill Aberdeen**, autorizando a marinha inglesa a **apresar navios negreiros em qualquer lugar**, inclusive em águas territoriais brasileiras, e a julgá-los como pirataria. Foi uma violação flagrante da soberania nacional — e funcionou.
+
+::: {.callout-warning title="Por que a Inglaterra combateu o tráfico?"}
+A resposta simples ("humanitarismo") é insuficiente, e a resposta cínica ("só interesse econômico") também. Convivem três fatores:
+
+1. **Movimento abolicionista britânico real**, com forte base religiosa (quacres, evangélicos), petições populares massivas e décadas de campanha pública. Era pressão política interna genuína.
+2. **Interesse econômico.** Depois de abolir a escravidão em suas colônias, a Inglaterra viu seus produtores açucareiros das Antilhas perderem competitividade para Brasil e Cuba, que continuavam a usar trabalho cativo mais barato. Acabar com o tráfico alheio nivelava o campo.
+3. **Ampliação de mercados.** Trabalhadores assalariados consomem; escravizados, não. Uma economia de trabalho livre no Brasil significaria mais compradores para manufaturas britânicas.
+
+Vale reter o ponto metodológico: **motivações mistas são a regra na história**, e insistir numa causa única costuma ser sinal de simplificação. O mesmo país que patrulhava o Atlântico contra navios negreiros construía, na mesma década, seu império na Índia (@sec-imperialismo).
+:::
+
+**A Lei Eusébio de Queirós** (**4 de setembro de 1850**) extinguiu efetivamente o tráfico atlântico, e desta vez foi aplicada. Não foi conversão moral: pesaram o constrangimento internacional, o risco de conflito com a maior potência naval do mundo, o temor das elites diante da concentração crescente de africanos após a **Revolta dos Malês** (@sec-periodo-regencial) e, não menos importante, o interesse em interromper a sangria de capital que se escoava do país na compra de cativos.
+
+**O que aconteceu depois: o tráfico interno.** Fechada a torneira externa, a escravidão não desapareceu — ela **se redistribuiu**. Com o café em expansão no Sudeste (@sec-segundo-reinado) e o açúcar e o algodão em decadência no Nordeste, criou-se um intenso **tráfico interprovincial**: entre 1850 e 1888, estima-se que algo entre **200 e 300 mil** pessoas escravizadas foram vendidas do Nordeste e do Sul para as fazendas de café de São Paulo, Rio de Janeiro e Minas Gerais. As consequências foram brutais e pouco lembradas: **separação de famílias** em escala massiva, deslocamentos de milhares de quilômetros e **encarecimento** do cativo, que se tornou o principal ativo patrimonial das fazendas — o que ajuda a explicar a resistência feroz dos cafeicultores do Vale do Paraíba a qualquer emancipação sem indenização.
+
+Esse é o fenômeno que a historiografia internacional chama de "**segunda escravidão**": longe de ser um resíduo arcaico em extinção, a escravidão do século XIX se **modernizou** e se **intensificou** nas zonas ligadas ao mercado mundial — café no Brasil, açúcar em Cuba, algodão no sul dos Estados Unidos —, articulada às ferrovias, aos bancos e à demanda industrial europeia [@marquese2016]. Guarde essa ideia: ela desmonta a noção de que a escravidão morria sozinha por ser "atrasada".
+
+## Resistir: as muitas formas {#sec-resistencia}
+
+Durante boa parte do século XX, os manuais escolares brasileiros descreveram escravizados como massa passiva. A pesquisa das últimas décadas demoliu essa imagem. A resistência foi permanente e assumiu formas variadas, com graus distintos de risco:
+
+- **Quilombos.** De **Palmares** (@sec-escravidao-e-resistencia) a centenas de comunidades menores por todo o território, alguns com décadas de existência, agricultura própria e relações comerciais com a vizinhança. No século XIX, o **quilombo do Jabaquara**, em Santos, chegou a abrigar milhares de fugitivos e funcionou como destino organizado de fugas em massa a partir de 1882.
+- **Fugas individuais e coletivas**, com redes de apoio urbanas — e, na década de 1880, verdadeiras rotas clandestinas operadas por abolicionistas.
+- **Revoltas**, da **Revolta dos Malês** (1835) a levantes em fazendas e engenhos.
+- **Ações judiciais.** Escravizados e libertos processaram senhores para obter ou garantir a alforria, usando o **Fundo de Emancipação** criado em 1871, alegando descumprimento de promessas ou origem ilegal (por terem sido importados **após 1831**, o que os tornava legalmente livres). **Sidney Chalhoub** mostrou que os tribunais da Corte se encheram desses processos, e que os escravizados conheciam a lei e sabiam usá-la [@chalhoub1990].
+- **Negociação cotidiana.** Ritmo de trabalho, direito a roça própria, folgas, permissão para constituir família, compra da própria alforria por **peculium** acumulado. Foi essa dimensão que **João José Reis** e **Eduardo Silva** sistematizaram sob a fórmula "**negociação e conflito**": não se trata de escolher entre "escravo rebelde" e "escravo acomodado", mas de reconhecer que os cativos alternavam estrategicamente as duas táticas conforme a conjuntura [@reisSilva1989].
+- **Formação de famílias e comunidades.** **Robert Slenes**, em *Na senzala, uma flor*, demonstrou, a partir de inventários e registros paroquiais, que casamentos e famílias escravas estáveis eram muito mais comuns do que se supunha — e que essa vida familiar era, ela mesma, uma forma de construir autonomia dentro do cativeiro [@slenes2011].
+- **Cultura como resistência.** Irmandades religiosas negras, **candomblé**, **capoeira** (criminalizada em 1890, já na República), festas, línguas e formas de organização africanas mantidas e recriadas.
+
+## O movimento abolicionista {#sec-abolicionismo}
+
+Após 1850, o Império adotou a estratégia da **emancipação gradual**: leis espaçadas, de efeito limitado, que aliviavam a pressão internacional e interna sem desorganizar as fazendas.
+
+::: {#fig-leis-abolicionistas}
+
+```{.tikz}
+%%| filename: fig-leis-abolicionistas
+%%| alt: Fluxograma das leis abolicionistas brasileiras, de 1831 a 1888, com o conteúdo e as brechas de cada uma.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \node[draw, thick, rounded corners, fill=manualgray!20, align=center, text width=3.6cm] (l1) at (0,3.2)
+    {\textbf{1831} — lei que proíbe\\ o tráfico\\[2pt] \textit{``para inglês ver''}:\\ nunca aplicada};
+  \node[draw, thick, rounded corners, fill=manualblue!18, align=center, text width=3.6cm] (l2) at (4.6,3.2)
+    {\textbf{1845} — \textbf{Bill Aberdeen}\\[2pt] marinha inglesa apresa\\ navios negreiros\\ em qualquer água};
+  \node[draw, very thick, rounded corners, fill=manualgreen!22, align=center, text width=3.8cm] (l3) at (9.4,3.2)
+    {\textbf{1850} — \textbf{Eusébio de Queirós}\\[2pt] \textbf{fim efetivo do tráfico}\\ atlântico $\rightarrow$ tráfico\\ \textbf{interprovincial}};
+
+  \node[draw, thick, rounded corners, fill=manualyellow!28, align=center, text width=4.4cm] (l4) at (0.4,0.4)
+    {\textbf{1871} — \textbf{Lei do Ventre Livre}\\ (Lei Rio Branco)\\[2pt] livres os \textbf{nascidos} a partir dela\\ \textit{brecha:} senhor podia usar\\ o trabalho até os \textbf{21 anos}};
+  \node[draw, thick, rounded corners, fill=manualyellow!28, align=center, text width=4.4cm] (l5) at (5.9,0.4)
+    {\textbf{1885} — \textbf{Lei dos Sexagenários}\\ (Saraiva-Cotegipe)\\[2pt] livres os maiores de \textbf{60}\\ \textit{brecha:} deviam \textbf{3 anos} de\\ serviço ou indenização};
+  \node[draw, very thick, rounded corners, fill=manualred!24, align=center, text width=4.0cm, text=manualred] (l6) at (11.2,0.4)
+    {\textbf{1888} — \textbf{LEI ÁUREA}\\[2pt] dois artigos\\ \textbf{sem indenização},\\ \textbf{sem terra},\\ \textbf{sem política pública}};
+
+  \draw[vetor, very thick, manualgray] (l1) -- (l2);
+  \draw[vetor, very thick, manualgray] (l2) -- (l3);
+  \draw[vetor, very thick, manualgray] (l3.south) -- ++(0,-0.7) -| (l4.north);
+  \draw[vetor, very thick, manualgray] (l4) -- (l5);
+  \draw[vetor, very thick, manualgray] (l5) -- (l6);
+
+  \node[draw, dashed, rounded corners, fill=manualgreen!14, align=center, text width=13.2cm] at (5.6,-2.2)
+    {\textbf{O que empurrava por baixo:} \textbf{fugas em massa} (Jabaquara, Santos) $\cdot$ recusa do \textbf{Exército} em capturar fugitivos (1887) $\cdot$ imprensa e comícios abolicionistas $\cdot$ \textbf{caifazes} de Antônio Bento $\cdot$ ações judiciais por liberdade $\cdot$ trabalho \textbf{imigrante} já disponível no Oeste Paulista};
+\end{tikzpicture}
+```
+
+As leis emancipacionistas vistas em sequência: cada uma concede pouco e adia muito. O que realmente acelerou o processo está na faixa inferior.
+:::
+
+**A Lei do Ventre Livre** (Lei Rio Branco, **28 de setembro de 1871**) declarou livres os filhos de escravizadas nascidos a partir daquela data. A brecha estava no artigo seguinte: o senhor podia utilizar os serviços do "ingênuo" até os **21 anos**, ou entregá-lo ao Estado mediante indenização. Na prática, quase todos escolheram a primeira opção. A lei criou também um **Fundo de Emancipação** para alforrias e obrigou a **matrícula** dos escravizados — cadastro que, sem que os senhores previssem, se tornaria arma nas mãos de advogados abolicionistas: quem não estivesse matriculado era considerado **livre**.
+
+**A Lei dos Sexagenários** (Saraiva-Cotegipe, **1885**) libertou os maiores de 60 anos — numa população em que pouquíssimos chegavam a essa idade — e ainda exigia **três anos de serviço gratuito** adicional ou indenização. Foi recebida com indignação até por abolicionistas moderados; **Joaquim Nabuco** chamou-a de fraude.
+
+**O abolicionismo organizado.** A partir dos anos 1870, a campanha ganhou as ruas, os jornais e os tribunais, e reuniu perfis muito diferentes:
+
+- **Joaquim Nabuco** (1849–1910), deputado pernambucano, filho de senador do Império, autor de *O abolicionismo* (1883), o livro mais influente do movimento. Sua tese era mais radical que a de muitos aliados: a abolição não bastaria, porque a escravidão havia moldado a terra, a política e a mentalidade do país; era preciso **reforma agrária** e educação popular para desfazer sua herança [@nabuco1883]. Nada disso foi feito.
+- **Luís Gama** (1830–1882), o mais notável de todos. Filho de uma africana livre, **Luísa Mahin**, foi **vendido como escravo pelo próprio pai** aos dez anos, aprendeu a ler já adulto, tornou-se rábula (advogado sem diploma) e libertou judicialmente **centenas** de pessoas, sobretudo usando o argumento de que todos os africanos importados **depois de 1831** eram legalmente livres. Defendia abertamente o direito de o escravizado matar em legítima defesa da liberdade.
+- **José do Patrocínio** (1853–1905), jornalista negro, filho de um padre e de uma quitandeira, dono da *Gazeta da Tarde*, o grande orador de comícios e articulador da campanha na imprensa.
+- **André Rebouças** (1838–1898), engenheiro negro, formulador da proposta de "**democracia rural**" — abolição **com** distribuição de terras —, amigo pessoal do imperador e exilado com a família real em 1889.
+- **Antônio Bento** e os **caifazes**, rede clandestina paulista que organizava fugas em massa das fazendas para o **quilombo do Jabaquara**, em Santos, a partir de 1882. Foi ação direta, e não petição.
+- **Maria Firmina dos Reis** (1822–1917), maranhense, autora de *Úrsula* (1859), considerado o primeiro romance abolicionista brasileiro e um dos primeiros escritos por uma mulher negra nas Américas.
+
+::: {.callout-tip title="Quem realmente derrubou a escravidão"}
+A ordem dos fatores importa. Em **1887**, o **Clube Militar** pediu formalmente ao governo que o Exército não fosse mais empregado na captura de escravizados fugidos — e o pedido foi atendido. Sem força policial disposta a persegui-las, as fugas se tornaram incontroláveis: fazendas inteiras foram abandonadas em São Paulo no verão de 1887–88. Em maio de 1888, muitos fazendeiros já haviam **libertado seus escravizados por conta própria**, tentando convertê-los em trabalhadores dependentes antes que fugissem.
+
+Ou seja: quando a Lei Áurea foi assinada, a escravidão **já estava desmoronando na prática**. A lei registrou um fato consumado pela ação de escravizados fugindo, abolicionistas organizando fugas e militares recusando-se a caçá-los. Esse é o argumento central de quem sustenta que 1888 foi **conquista**, e não dádiva.
+:::
+
+## A Lei Áurea e o pós-abolição {#sec-lei-aurea}
+
+Em **13 de maio de 1888**, com D. Pedro II na Europa, a princesa **Isabel** sancionou a lei aprovada pelo Parlamento com apenas nove votos contrários na Câmara. Houve festa nas ruas por dias.
+
+E depois? **Nada.** Não houve indenização aos libertos, distribuição de terras, política de educação, crédito, assistência ou reconhecimento. A **Lei de Terras de 1850** (@sec-segundo-reinado) já havia fechado a porta da propriedade rural; a **Lei Saraiva de 1881** havia fechado a do voto, ao exigir alfabetização; e o Estado, ao mesmo tempo, **subsidiava** com dinheiro público a vinda de trabalhadores europeus para ocupar os postos de trabalho disponíveis. O resultado foi previsível: a população liberta foi empurrada para a periferia das cidades, para o trabalho precário, para a agricultura de subsistência ou para a permanência nas mesmas fazendas em condições apenas ligeiramente diferentes.
+
+Um episódio revela o desprezo institucional: em 1890, o ministro da Fazenda **Rui Barbosa** determinou a **queima** de grande parte dos arquivos da escravidão — matrículas, registros de compra e venda, listas de matrícula. A justificativa oficial era apagar a mancha moral do país; o efeito prático foi eliminar a base documental de eventuais pedidos de indenização por parte dos senhores **e** destruir, para sempre, a possibilidade de milhões de descendentes reconstituírem sua ascendência. Historiadores ainda discutem quanto se perdeu.
+
+## Imigração e branqueamento {#sec-imigracao}
+
+A **imigração europeia** não foi um fenômeno espontâneo: foi **política de Estado**, planejada desde o fim do tráfico e financiada com recursos públicos, especialmente pela província de **São Paulo**.
+
+**Como evoluiu.** A primeira tentativa em larga escala foi o sistema de **parceria** do senador **Vergueiro**, na fazenda Ibicaba (1847): o imigrante recebia adiantamento para a viagem e dividia a colheita com o fazendeiro. Na prática, os débitos de transporte, ferramentas e alimentos se acumulavam a juros e prendiam a família à fazenda, e o imigrante era submetido a regime disciplinar semelhante ao dos escravizados. A revolta dos colonos suíços e alemães em Ibicaba, em **1856**, foi relatada por **Thomas Davatz** num livro publicado na Suíça que teve consequências diplomáticas: em 1859, a Prússia proibiu a emigração para o Brasil [@davatz1980].
+
+Corrigiu-se o modelo com o **colonato** (a partir dos anos 1880): salário fixo por mil pés de café tratados, mais pagamento pela colheita, mais o direito de plantar alimentos entre as fileiras de café e de criar animais. Com a **Lei de Terras** impedindo o acesso barato à propriedade, o colono trabalhava anos para acumular o suficiente para comprar um sítio — alguns conseguiram; muitos não.
+
+**Os números e as origens.** Entre 1880 e 1930 entraram no Brasil cerca de **4 milhões** de imigrantes: **italianos** (o maior grupo, sobretudo do Vêneto, com destino às fazendas paulistas), **portugueses** (predominantemente urbanos, no Rio), **espanhóis**, **alemães** (concentrados no Sul, em colônias de pequena propriedade desde os anos 1820), **japoneses** (a partir do navio *Kasato Maru*, em **1908**), sírios e libaneses (chamados genericamente de "turcos", por virem com passaporte otomano), poloneses e ucranianos no Paraná.
+
+::: {.callout-warning title="O projeto de branqueamento"}
+Havia uma razão explícita, escrita e debatida em público para preferir o imigrante europeu — e ela não era apenas econômica. As teorias do **racismo científico** que dominavam a Europa (@sec-imperialismo) chegaram ao Brasil pela medicina, pelo direito e pelas escolas superiores, e colocaram uma questão angustiante para as elites: um país majoritariamente negro e mestiço estaria, segundo aquelas teorias, condenado ao atraso permanente.
+
+A saída encontrada foi a tese do **branqueamento**: com imigração europeia maciça e miscigenação ao longo de gerações, a população brasileira se tornaria progressivamente mais branca — e, na lógica racista da época, mais "apta" à civilização. Foi essa a tese que o antropólogo **João Batista de Lacerda** levou ao **Congresso Universal das Raças**, em Londres, em **1911**, com a previsão de que o Brasil seria integralmente branco em cerca de um século. **Lilia Schwarcz** reconstituiu como esse conjunto de ideias circulou entre 1870 e 1930 nas faculdades de medicina, nos institutos históricos e nos museus brasileiros, adaptando o racismo europeu a um país mestiço [@schwarcz1993].
+
+As consequências práticas são verificáveis: subsídios públicos generosos ao imigrante europeu e **nenhuma** política para os libertos; propostas parlamentares de restrição à entrada de africanos e asiáticos (o **decreto de 1890** só permitia livremente a imigração de europeus, exigindo autorização do Congresso para africanos e asiáticos); e uma política de "embranquecimento" que serviria depois de base à ideologia da **democracia racial** — a afirmação de que no Brasil não haveria racismo, formulada com mais força a partir de *Casa-grande & senzala* (1933), de **Gilberto Freyre** [@freyre2003].
+:::
+
+::: {#fig-linha-do-tempo-abolicao}
+
+```{.tikz}
+%%| filename: fig-linha-do-tempo-abolicao
+%%| alt: Linha do tempo da escravidão e da abolição no Brasil, de 1831 a 1908, com leis, resistência e imigração.
+\begin{tikzpicture}[>=stealth]
+  \draw[eixo] (0,0) -- (14.4,0);
+  \node[eixo, gray] at (14.4,-0.6) {\scriptsize tempo};
+
+  \fill[manualgray!26] (0.5,-0.13) rectangle (4.4,0.13);
+  \node[text=gray] at (2.4,-1.05) {\scriptsize \textbf{tráfico ilegal}};
+  \fill[manualgreen!22] (4.4,-0.13) rectangle (8.6,0.13);
+  \node[text=manualgreen!50!black] at (6.5,-1.05) {\scriptsize \textbf{tráfico interprovincial}};
+  \fill[manualred!24] (8.6,-0.13) rectangle (12.0,0.13);
+  \node[text=manualred] at (10.3,-1.05) {\scriptsize \textbf{campanha abolicionista}};
+  \fill[manualblue!18] (12.0,-0.13) rectangle (14.0,0.13);
+  \node[text=manualblue] at (13.0,-1.05) {\scriptsize \textbf{pós-abolição}};
+
+  \node[ponto] at (0.5,0) {};
+  \node[below] at (0.5,-0.28) {\scriptsize 1831};
+  \node[above, align=center] at (0.9,0.2) {\scriptsize lei ``para\\\scriptsize inglês ver''};
+
+  \node[ponto] at (2.6,0) {};
+  \node[below] at (2.6,-0.28) {\scriptsize 1845};
+  \node[above, align=center, text=manualblue] at (2.7,1.15) {\scriptsize \textbf{Bill Aberdeen}\\\scriptsize (marinha inglesa)};
+
+  \node[ponto] at (4.4,0) {};
+  \node[below] at (4.4,-0.28) {\scriptsize 1850};
+  \node[above, align=center, text=manualgreen!50!black] at (4.6,0.2) {\scriptsize \textbf{Eusébio de Queirós};\\\scriptsize \textbf{Lei de Terras}};
+
+  \node[ponto] at (6.4,0) {};
+  \node[below] at (6.4,-0.28) {\scriptsize 1856};
+  \node[above, align=center] at (6.5,1.15) {\scriptsize revolta dos colonos\\\scriptsize em \textbf{Ibicaba}};
+
+  \node[ponto] at (8.0,0) {};
+  \node[below] at (8.0,-0.28) {\scriptsize 1871};
+  \node[above, align=center] at (8.1,0.2) {\scriptsize \textbf{Ventre Livre}\\\scriptsize (Rio Branco)};
+
+  \node[ponto] at (9.4,0) {};
+  \node[below] at (9.4,-0.28) {\scriptsize 1883};
+  \node[above, align=center, text=manualred] at (9.6,1.15) {\scriptsize \textbf{Nabuco}: \textit{O abolicionismo};\\\scriptsize \textbf{caifazes} e o \textbf{Jabaquara}};
+
+  \node[ponto] at (10.8,0) {};
+  \node[below] at (10.8,-0.28) {\scriptsize 1885};
+  \node[above, align=center] at (10.9,0.2) {\scriptsize \textbf{Sexagenários}\\\scriptsize (com 3 anos de serviço)};
+
+  \node[ponto] at (12.0,0) {};
+  \node[below] at (12.0,-0.28) {\scriptsize 1888};
+  \node[above, align=center, text=manualred] at (12.1,1.15) {\scriptsize \textbf{LEI ÁUREA} (13 maio)\\\scriptsize — sem terra, sem reparação};
+
+  \node[ponto] at (13.2,0) {};
+  \node[below] at (13.2,-0.28) {\scriptsize 1890};
+  \node[above, align=center, text=manualblue] at (13.2,0.2) {\scriptsize queima dos arquivos\\\scriptsize (Rui Barbosa)};
+
+  \node[ponto] at (14.0,0) {};
+  \node[below] at (14.0,-0.28) {\scriptsize 1908};
+  \node[above, align=center, text=manualblue] at (13.9,1.15) {\scriptsize \textit{Kasato Maru}:\\\scriptsize imigração \textbf{japonesa}};
+\end{tikzpicture}
+```
+
+Meio século entre a lei que ninguém cumpriu e a lei de dois artigos — e, logo em seguida, o apagamento documental e a substituição planejada da mão de obra.
+:::
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+Nenhum tema da história do Brasil teve interpretações tão contrastantes — nem consequências políticas tão diretas.
+
+**A tese da escravidão "branda".** Em *Casa-grande & senzala* (1933), **Gilberto Freyre** rompeu com o racismo científico ao afirmar que a miscigenação era virtude e não degeneração, e valorizou as contribuições africanas e indígenas à formação brasileira. Foi, nesse ponto, um avanço notável para a época. Mas sua obra sustentava também que a escravidão brasileira teria sido mais **branda** que a anglo-saxônica, por causa da proximidade doméstica entre casa-grande e senzala, do catolicismo e da suposta plasticidade do colonizador português [@freyre2003]. Dessa leitura derivou, popularizada muito além do que Freyre escreveu, a ideia de **democracia racial**: um país sem barreiras raciais, onde as desigualdades seriam apenas de classe.
+
+**A demolição paulista.** Nos anos 1950 e 1960, um grupo de sociólogos da USP — **Florestan Fernandes**, **Fernando Henrique Cardoso**, **Octavio Ianni** —, parte deles a partir de uma pesquisa da **UNESCO** que pretendia estudar o Brasil como exemplo de harmonia racial e acabou documentando o contrário, desmontou a tese. Florestan mostrou que a escravidão foi um sistema de **coisificação** do trabalhador, que o liberto foi lançado na ordem competitiva sem nenhuma condição de competir, e que a "democracia racial" era um **mito** que servia para desmobilizar a luta antirracista — porque quem nega a existência do problema dispensa qualquer política para resolvê-lo [@fernandes2008]. A ênfase, aqui, recai sobre a violência do sistema e a destruição que ele operou.
+
+**A virada da agência.** A partir dos anos 1980, uma nova geração fez outra crítica — não a Freyre, mas à própria Escola Paulista. O argumento: ao insistir na coisificação, essa historiografia acabava retratando os escravizados como **vítimas passivas**, sem vontade nem estratégia. Trabalhando com processos judiciais, inventários, registros paroquiais e documentos policiais, **João José Reis** e **Eduardo Silva** propuseram a fórmula "**negociação e conflito**" [@reisSilva1989]; **Sidney Chalhoub** mostrou escravizados usando os tribunais e a lei para conquistar liberdade, em *Visões da liberdade* [@chalhoub1990]; **Robert Slenes** documentou famílias escravas estáveis e vida comunitária própria [@slenes2011]. O ponto não é suavizar a violência do sistema — é reconhecer que, **dentro** dele, havia sujeitos com projetos.
+
+::: {.callout-important title="Três erros a evitar"}
+1. **Confundir "agência" com "escravidão branda".** Reconhecer que escravizados negociavam, processavam senhores e formavam famílias **não** significa dizer que o cativeiro era suave. Significa que eles não eram objetos. A violência era estrutural e cotidiana; a resistência existia **apesar** dela.
+2. **Tratar a abolição como dádiva de Isabel.** A "Redentora" assinou uma lei aprovada pelo Parlamento quando o sistema já estava desmoronando por fugas em massa, recusa militar em capturar fugitivos e adesão de fazendeiros que preferiram alforriar antes de perder tudo.
+3. **Achar que a escravidão morreu por ser economicamente inviável.** A tese da "**segunda escravidão**" mostra o contrário: nas zonas cafeeiras, a escravidão do século XIX era **lucrativa e moderna**, articulada a ferrovias, bancos e ao mercado mundial [@marquese2016]. Ela caiu por **pressão política**, não por obsolescência econômica.
+:::
+
+**Dádiva ou conquista?** Este é o debate mais cobrado em vestibulares. A versão oficial, cristalizada em 1888 e reproduzida por décadas, atribui a abolição à generosidade da princesa **Isabel** — narrativa útil à monarquia agonizante e depois ao mito da harmonia racial. A historiografia contemporânea é praticamente unânime na leitura oposta: a lei consagrou um processo já vencido nas ruas e nas fazendas, e seus agentes decisivos foram os próprios escravizados que fugiam, os quilombos como o **Jabaquara**, os **caifazes**, os advogados e rábulas como **Luís Gama** e os militares que se recusaram a capturar fugitivos. Um dado é eloquente: a lei foi promulgada **quatro dias** depois de sua apresentação, com apenas nove votos contrários — velocidade que se explica não por conversão moral súbita, mas pela constatação de que não havia mais o que preservar.
+
+**Por que a divergência importa politicamente.** Porque cada versão implica uma agenda distinta no presente. Se a abolição foi dádiva concedida por brancos generosos, então a desigualdade posterior é falha de quem não aproveitou a oportunidade. Se foi conquista arrancada por uma população que em seguida foi deixada **sem terra, sem escola e sem reparação**, enquanto o Estado subsidiava imigrantes europeus, então a desigualdade racial brasileira tem causa histórica identificável — e políticas de reparação passam a ser matéria de justiça, e não de favor. Não por acaso, o debate sobre **cotas raciais**, a valorização de **20 de novembro** (**Dia da Consciência Negra**, data da morte de **Zumbi**) em lugar de 13 de maio e as **Leis 10.639/2003 e 11.645/2008** derivam diretamente dessa discussão historiográfica (@sec-historia-indigena-afrobrasileira).
+
+## Resumo do capítulo {#sec-resumo}
+
+- **Escala:** o Brasil recebeu entre **4,8 e 5 milhões** de africanos escravizados, cerca de **40%** de todos os desembarcados nas Américas.
+- **Fim do tráfico:** lei de **1831** "**para inglês ver**" (mais de 700 mil entradas ilegais até 1850); **Bill Aberdeen** (**1845**), autorizando a marinha britânica a apresar navios negreiros; **Lei Eusébio de Queirós** (**4 de setembro de 1850**), que extinguiu efetivamente o tráfico atlântico.
+- **Consequência:** **tráfico interprovincial** — cerca de **200 a 300 mil** pessoas vendidas do Nordeste ao Sudeste cafeeiro entre 1850 e 1888, com separação massiva de famílias e valorização do cativo. A tese da "**segunda escravidão**" mostra que a escravidão do século XIX era **moderna e lucrativa**, ligada ao mercado mundial.
+- **Resistência:** quilombos (**Palmares**; **Jabaquara**, em Santos, nos anos 1880), fugas individuais e em massa, revoltas (**Malês**, 1835), **ações judiciais** por liberdade (sobretudo alegando importação ilegal após 1831), negociação cotidiana, formação de famílias, irmandades, **candomblé** e **capoeira**.
+- **Leis emancipacionistas:** **Ventre Livre** (1871) — livres os nascidos, mas com serviço até os **21 anos**; criou o **Fundo de Emancipação** e a **matrícula** obrigatória, depois usada por advogados abolicionistas. **Sexagenários** (1885) — livres os maiores de 60, com **3 anos** de serviço adicional ou indenização.
+- **Abolicionistas:** **Joaquim Nabuco** (*O abolicionismo*, 1883, defendia também **reforma agrária** e educação), **Luís Gama** (rábula, libertou centenas pela via judicial), **José do Patrocínio**, **André Rebouças** ("democracia rural"), **Antônio Bento** e os **caifazes**, **Maria Firmina dos Reis** (*Úrsula*, 1859).
+- **O fator decisivo (1887–88):** fugas em massa, recusa do **Clube Militar** em empregar o Exército na captura de fugitivos e alforrias preventivas de fazendeiros. A escravidão já ruía quando a **Lei Áurea** foi assinada em **13 de maio de 1888** — dois artigos, **sem indenização, sem terra e sem política pública** para os libertos.
+- **Pós-abolição:** **Lei de Terras** (1850) bloqueando a propriedade, **Lei Saraiva** (1881) excluindo analfabetos do voto e **queima de arquivos** da escravidão por **Rui Barbosa** (1890).
+- **Imigração:** política **subsidiada** de Estado — sistema de **parceria** de **Vergueiro** (Ibicaba, 1847; revolta em 1856, relatada por **Davatz**) e depois o **colonato**; cerca de **4 milhões** de imigrantes entre 1880 e 1930 (italianos, portugueses, espanhóis, alemães, **japoneses** a partir do *Kasato Maru*, **1908**, sírio-libaneses, poloneses).
+- **Branqueamento:** o **racismo científico** levou as elites à tese de que a imigração europeia e a miscigenação "embranqueceriam" a população (**Lacerda**, Congresso das Raças, **1911**); o decreto de 1890 restringia a entrada de africanos e asiáticos.
+- **Historiografia:** **Freyre** (miscigenação valorizada, escravidão "branda", base do mito da **democracia racial**) × **Florestan Fernandes** e a Escola Paulista (coisificação, mito desmontado, liberto sem condições de competir) × a virada da **agência** (**Reis e Silva**, **Chalhoub**, **Slenes**). Debate central: a Lei Áurea foi **dádiva** ou **conquista** — a historiografia atual é praticamente unânime pela segunda.
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Fixe: (1) a sequência **1831 → 1845 → 1850** e o que cada norma realmente produziu; (2) o **tráfico interprovincial** e a "segunda escravidão"; (3) as brechas das leis de 1871 e 1885; (4) os nomes e as estratégias do abolicionismo, incluindo os negros e populares; (5) o argumento **dádiva × conquista**; (6) a ligação **Lei de Terras + imigração subsidiada + branqueamento** — a tríade que explica o pós-abolição.
+:::
+
+**1.** Por que a lei de 1831 ficou conhecida como "**para inglês ver**" e o que mudou em 1850?
+
+::: {.callout-tip collapse="true" title="Solução"}
+**A lei de 1831** proibiu o tráfico de africanos e declarou livres todos os que entrassem no país a partir dela. Foi aprovada para cumprir formalmente os compromissos assumidos com a **Inglaterra** em 1826, quando esta reconheceu a independência do Brasil (@sec-independencia). Nunca foi aplicada: entre 1831 e 1850, entraram ilegalmente mais de **700 mil** africanos, com conivência de autoridades, comerciantes e fazendeiros. A expressão popular "para inglês ver" — usada até hoje para designar norma feita apenas para satisfazer aparências — nasceu exatamente daí.
+
+**O que mudou em 1850.** Quatro fatores convergiram:
+
+1. **Bill Aberdeen (1845):** o Parlamento britânico autorizou sua marinha a apresar navios negreiros em qualquer lugar, inclusive em **águas territoriais brasileiras**, tratando o tráfico como pirataria. Houve apresamentos e até bombardeios de embarcações em portos brasileiros — violação de soberania que o Brasil não tinha meios militares de contestar.
+2. **Medo interno.** A **Revolta dos Malês** (1835) e o exemplo do **Haiti** alimentavam o pavor das elites diante da concentração crescente de africanos (@sec-periodo-regencial).
+3. **Interesse econômico.** O tráfico drenava enormes somas de capital para fora do país; interrompê-lo liberaria recursos que, de fato, foram depois aplicados em ferrovias, bancos e no próprio tráfico interno.
+4. **Cálculo político.** Cedendo no tráfico, a elite escravista preservava a **escravidão** — que continuaria por mais 38 anos.
+
+**A ironia jurídica.** A lei de 1831 nunca revogada tornou-se, décadas depois, a principal arma de abolicionistas como **Luís Gama**: todo africano importado **após 1831** era, tecnicamente, uma pessoa livre mantida em cativeiro ilegal. Centenas de libertações judiciais foram obtidas com esse argumento.
+:::
+
+**2.** Explique o **tráfico interprovincial** e por que ele é essencial para entender o Brasil pós-1850.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**O que foi.** Fechado o tráfico atlântico em 1850, a demanda por trabalhadores cativos nas fazendas de **café** do Sudeste passou a ser suprida internamente, pela compra de escravizados nas regiões em declínio econômico — o **Nordeste** açucareiro e algodoeiro e, em menor escala, o Sul. Estima-se que entre **200 e 300 mil** pessoas tenham sido deslocadas entre 1850 e 1888.
+
+**Por que é essencial.**
+
+1. **Redesenha o mapa da escravidão.** A escravidão brasileira deixou de ser predominantemente nordestina e tornou-se **sudestina**, concentrada no Vale do Paraíba e depois no Oeste Paulista (@sec-segundo-reinado). Isso explica por que a política nacional dos anos 1880 girou em torno dos interesses cafeeiros.
+2. **Aprofunda a violência familiar.** Ao contrário do tráfico atlântico, este separava famílias **já formadas no Brasil**, enviando pais, mães e filhos a milhares de quilômetros. **Robert Slenes** mostrou que famílias escravas estáveis eram comuns [@slenes2011] — o que torna a dimensão dessa ruptura ainda mais grave.
+3. **Encarece o cativo e enrijece a resistência à abolição.** Sem reposição externa, o preço subiu muito, e o escravizado tornou-se o principal ativo patrimonial das fazendas, frequentemente dado em garantia de empréstimos. Daí a resistência feroz dos barões do Vale a qualquer emancipação sem indenização.
+4. **Cria clivagem regional decisiva.** O Nordeste, tendo **vendido** boa parte de seus cativos, tinha menos a perder com a abolição — e por isso províncias como o **Ceará** aboliram a escravidão localmente já em **1884**, antes da lei nacional. Foi essa assimetria regional que quebrou a frente escravista no Parlamento.
+5. **Sustenta a tese da "segunda escravidão".** O sistema não estava morrendo: estava se **reorganizando** e se intensificando na zona mais lucrativa e mais moderna da economia, integrada a ferrovias, bancos e ao mercado mundial [@marquese2016].
+:::
+
+**3.** Analise as leis de **1871** e **1885**. Por que os abolicionistas as consideravam insuficientes?
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Lei do Ventre Livre (Lei Rio Branco, 28 de setembro de 1871).** Declarou livres os filhos de mulheres escravizadas nascidos a partir daquela data. **As brechas:** o senhor podia utilizar os serviços do "ingênuo" até os **21 anos** ou entregá-lo ao Estado mediante indenização — e praticamente todos escolheram a primeira alternativa. Ou seja, a criança nascia juridicamente livre e trabalhava de fato como cativa por duas décadas. Além disso, a lei **não** libertou ninguém no presente: seu efeito prático só se faria sentir a partir de 1892.
+
+**O que ela produziu de útil, contra a intenção dos legisladores:** o **Fundo de Emancipação** e, sobretudo, a **matrícula obrigatória** de todos os escravizados. Advogados abolicionistas descobriram que quem não estivesse corretamente matriculado devia ser considerado **livre** — e usaram isso em centenas de ações, como mostra **Sidney Chalhoub** [@chalhoub1990].
+
+**Lei dos Sexagenários (Saraiva-Cotegipe, 1885).** Libertou os escravizados com mais de **60 anos**. As objeções foram imediatas: (i) a **expectativa de vida** da população escravizada era muito baixa, e pouquíssimos chegavam a essa idade; (ii) quem chegava já não tinha capacidade plena de trabalho, de modo que a lei **transferia ao liberto idoso** o custo de sua própria sobrevivência, livrando o senhor de sustentá-lo; (iii) a lei ainda exigia **três anos de serviço gratuito** adicional ou indenização, o que na prática empurrava a liberdade para os 63 anos; (iv) previa indenização aos senhores. **Joaquim Nabuco** a denunciou como fraude.
+
+**A crítica de fundo.** Para os abolicionistas — e sobretudo para **Nabuco** em *O abolicionismo* (1883) —, a emancipação gradual servia a um propósito claro: **aliviar a pressão** internacional e interna sem desorganizar a produção, adiando indefinidamente o fim do sistema. Nabuco defendia abolição **imediata**, acompanhada de **reforma agrária** e educação popular, porque a escravidão havia moldado a terra, as instituições e a mentalidade do país — e o mero fim jurídico do cativeiro deixaria essa herança intacta [@nabuco1883]. Foi exatamente o que aconteceu.
+:::
+
+**4.** A Lei Áurea foi **dádiva** ou **conquista**? Sustente com evidências.
+
+::: {.callout-tip collapse="true" title="Solução"}
+A historiografia contemporânea é quase unânime pela tese da **conquista**. As evidências:
+
+**1. O sistema já estava desmoronando.** Entre 1887 e 1888, ocorreram **fugas em massa** nas fazendas paulistas — algumas foram literalmente abandonadas —, organizadas por redes abolicionistas como os **caifazes**, de **Antônio Bento**, que conduziam os fugitivos ao **quilombo do Jabaquara**, em Santos, que chegou a abrigar milhares de pessoas.
+
+**2. O Estado perdeu a capacidade de repressão.** Em **1887**, o **Clube Militar** solicitou formalmente que o Exército não fosse mais utilizado na captura de escravizados fugidos, e o pedido foi acolhido. Sem força disposta a perseguir fugitivos, a escravidão deixou de ser aplicável.
+
+**3. Muitos fazendeiros já haviam alforriado.** Diante da inevitabilidade, proprietários libertaram seus cativos antes de maio de 1888, tentando convertê-los em trabalhadores dependentes e preservar a força de trabalho.
+
+**4. Províncias já haviam abolido.** O **Ceará** aboliu a escravidão em seu território em **1884**, seguido pelo Amazonas — muito antes da lei nacional.
+
+**5. A velocidade da tramitação.** O projeto foi aprovado em **quatro dias**, com apenas nove votos contrários na Câmara. Uma casa legislativa que resistira à abolição por décadas não se converteu moralmente em quatro dias: ela **registrou um fato consumado**.
+
+**6. A ação judicial e cotidiana.** Décadas de processos por liberdade, alforrias compradas com *peculium*, negociações e fugas individuais haviam corroído o sistema por dentro [@chalhoub1990; @reisSilva1989].
+
+**Por que a versão da dádiva se firmou.** Porque servia a três interesses distintos: à **monarquia** em crise, que buscava legitimidade para a sucessão de Isabel; ao mito da **harmonia racial**, que apresenta o Brasil como país onde as mudanças vêm por acordo e generosidade, não por conflito; e a uma leitura que **desresponsabiliza** o Estado pelo abandono posterior dos libertos — afinal, já se teria feito o favor.
+
+**A implicação prática.** Reconhecer 1888 como conquista, seguida de abandono deliberado (sem terra por causa da **Lei de Terras**, sem voto por causa da exigência de alfabetização, sem escolas, e com **subsídio público** à imigração europeia concorrente), é o que fundamenta historicamente o debate atual sobre **reparação** e **ações afirmativas**. Não por acaso, o movimento negro brasileiro privilegia **20 de novembro** — morte de **Zumbi** — em vez de 13 de maio (@sec-historia-indigena-afrobrasileira).
+:::
+
+**5.** (Estilo ENEM) Leia o texto.
+
+> "A escravidão permanecerá por muito tempo como a característica nacional do Brasil. […] Ela espalhou-se por todo o país e imprimiu-lhe o seu selo. Não foi somente sobre os escravos que ela agiu: agiu sobre os senhores, sobre a política, sobre a terra, sobre o Estado. […] Não basta acabar com a escravidão: é preciso destruir a obra da escravidão."
+>
+> — Joaquim Nabuco, *O abolicionismo*, 1883 (adaptado).
+
+O argumento do autor implica que
+
+**(a)** a abolição jurídica seria suficiente para integrar os libertos à sociedade brasileira.
+**(b)** a escravidão era um fenômeno restrito às relações entre senhores e escravizados nas fazendas.
+**(c)** o fim do cativeiro exigiria reformas estruturais, como o acesso à terra e à educação, para desfazer sua herança.
+**(d)** a responsabilidade pela superação do atraso nacional caberia exclusivamente aos ex-escravizados.
+**(e)** a escravidão brasileira, por seu caráter doméstico e brando, deixaria poucas marcas na sociedade.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (c).** O núcleo do argumento de Nabuco está na distinção entre **acabar com a escravidão** (ato jurídico) e **destruir a obra da escravidão** (transformação estrutural). Ele afirma explicitamente que o sistema agiu "sobre os senhores, sobre a política, sobre a terra, sobre o Estado" — isto é, moldou a estrutura fundiária, as instituições e a mentalidade do país. Daí sua defesa, no mesmo livro, de **reforma agrária** e de **educação popular** como complementos indispensáveis da abolição [@nabuco1883].
+
+Por que as demais estão erradas: **(a)** é exatamente o que o texto **nega** ao dizer "não basta acabar com a escravidão"; **(b)** contradiz a afirmação de que a escravidão "espalhou-se por todo o país" e afetou política, terra e Estado; **(d)** inverte a responsabilidade — Nabuco atribui a herança ao sistema e ao Estado que o sustentou, não às vítimas; **(e)** é a tese da escravidão "branda", associada muito depois a **Gilberto Freyre**, e o oposto do que o texto sustenta.
+
+**Nota histórica que vale ouro em redação:** nada do que Nabuco propôs como complemento foi feito. A Lei Áurea teve dois artigos e nenhuma política pública, enquanto o Estado **subsidiava** a imigração europeia. A lucidez do diagnóstico de 1883 é a medida exata do que faltou em 1888.
+:::
+
+**6.** Explique a política de **imigração subsidiada** e sua relação com o projeto de **branqueamento**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**A dimensão econômica.** Desde o fim do tráfico (1850), as elites cafeeiras planejavam substituir o trabalho escravo por trabalho **imigrante europeu**. A província de **São Paulo** custeou passagens, construiu hospedarias (a **Hospedaria dos Imigrantes**, no Brás) e negociou diretamente com governos e agentes europeus. O primeiro modelo, a **parceria** de **Vergueiro** (Ibicaba, 1847), endividava o colono e o prendia à fazenda — o que gerou a revolta de 1856, relatada por **Thomas Davatz** e seguida da proibição prussiana à emigração para o Brasil [@davatz1980]. O modelo foi então substituído pelo **colonato**: salário fixo por mil pés de café tratados, pagamento por colheita e direito de plantar alimentos entre as fileiras. Entre 1880 e 1930 entraram cerca de **4 milhões** de pessoas — italianos, portugueses, espanhóis, alemães, japoneses (a partir de **1908**), sírio-libaneses, poloneses.
+
+**A dimensão racial.** O motivo não era apenas econômico, e isso está documentado nos debates parlamentares da época. As teorias do **racismo científico** (@sec-imperialismo) diziam que populações negras e mestiças eram inferiores e condenavam um país como o Brasil ao atraso. A resposta das elites brasileiras foi a tese do **branqueamento**: com imigração europeia maciça e miscigenação sucessiva, a população se tornaria progressivamente mais branca — e, na lógica racista, mais "apta" ao progresso. Em **1911**, **João Batista de Lacerda** apresentou essa previsão no Congresso Universal das Raças, em Londres. **Lilia Schwarcz** reconstituiu a circulação dessas ideias nas faculdades de medicina e direito, nos museus e institutos históricos entre 1870 e 1930 [@schwarcz1993].
+
+**A prova da intenção.** O contraste é a evidência mais forte: o Estado **gastou dinheiro público** para trazer, alojar e empregar trabalhadores europeus e **não gastou nada** com os libertos, disponíveis, experientes e no próprio território. Some-se a isso o **decreto de 1890**, que permitia livremente a imigração de europeus mas exigia autorização do Congresso para africanos e asiáticos.
+
+**A consequência.** A população negra foi deslocada do mercado de trabalho formal em expansão, empurrada para ocupações precárias e para a periferia urbana. Essa exclusão, somada à ausência de terra (**Lei de Terras**, 1850) e de voto (**Lei Saraiva**, 1881), é a base material da desigualdade racial brasileira — que a ideologia da **democracia racial** trataria, décadas depois, de tornar invisível (@sec-republica-velha).
+:::
+
+**7.** (Estilo vestibular — dissertativa) Compare as interpretações de **Gilberto Freyre**, da **Escola Paulista** e da historiografia da **agência** sobre a escravidão brasileira.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**1. Gilberto Freyre (*Casa-grande & senzala*, 1933).** Rompeu com o **racismo científico** ao afirmar que a miscigenação era uma **virtude** formadora, e não sinal de degeneração, valorizando as contribuições africanas e indígenas à cultura, à culinária, à língua e à religiosidade brasileiras. Foi, nesse aspecto, um avanço decisivo para seu tempo. Sustentou, porém, que a escravidão brasileira teria sido mais **branda** que a anglo-saxônica, por conta da proximidade doméstica entre casa-grande e senzala, do catolicismo e da plasticidade do colonizador português [@freyre2003]. Dessa obra derivou — em grande medida além do que Freyre escreveu — o mito da **democracia racial**.
+
+**2. A Escola Paulista (anos 1950–60): Florestan Fernandes, Fernando Henrique Cardoso, Octavio Ianni.** Partiram de uma pesquisa da **UNESCO** que esperava encontrar no Brasil um exemplo de harmonia racial e encontraram o oposto. Florestan mostrou que a escravidão foi um sistema de **coisificação** do trabalhador; que o liberto foi lançado numa ordem competitiva sem qualquer condição de competir — sem terra, capital, escolaridade ou rede social; e que a "democracia racial" era um **mito** com função política precisa: negar a existência do racismo e assim dispensar qualquer política para enfrentá-lo [@fernandes2008].
+
+**3. A historiografia da agência (a partir dos anos 1980): Reis, Silva, Chalhoub, Slenes.** Criticou a Escola Paulista não pela denúncia da violência, mas pelo **retrato passivo** que dela resultava. Trabalhando com processos judiciais, inventários e registros paroquiais, mostrou escravizados que **negociavam** condições de trabalho e alternavam estrategicamente barganha e revolta [@reisSilva1989], que **processavam senhores** nos tribunais e conheciam a legislação [@chalhoub1990], e que **formavam famílias estáveis** e comunidades com vida própria [@slenes2011].
+
+**Como articular as três.** Elas não se anulam; corrigem-se sucessivamente e respondem a perguntas diferentes:
+
+- Freyre perguntou *o que a miscigenação produziu culturalmente* — e acertou ao valorizar a herança africana, errou ao suavizar a violência do sistema;
+- a Escola Paulista perguntou *que estrutura social a escravidão produziu* — e acertou ao demonstrar a coisificação e a exclusão do liberto, mas deixou pouco espaço para a ação dos próprios escravizados;
+- a historiografia da agência perguntou *como os escravizados viveram e agiram dentro do sistema* — e recuperou sujeitos com projetos, sem negar a brutalidade estrutural.
+
+**Cuidado essencial:** reconhecer agência **não** é reabilitar a tese da escravidão branda. É afirmar que homens e mulheres escravizados foram **sujeitos históricos** — e que a abolição de 1888 deve muito mais a eles do que à assinatura de uma princesa.
+:::
+
+**8.** Por que o movimento negro brasileiro valoriza **20 de novembro** em vez de **13 de maio**?
+
+::: {.callout-tip collapse="true" title="Solução"}
+**As duas datas.** **13 de maio** é a data da **Lei Áurea** (1888). **20 de novembro** é a data da morte de **Zumbi dos Palmares** (1695), líder do maior quilombo das Américas (@sec-escravidao-e-resistencia), instituída como **Dia da Consciência Negra** — proposta do movimento negro desde os anos 1970, adotada progressivamente por estados e municípios e transformada em feriado nacional em 2023.
+
+**As razões da mudança.**
+
+1. **Protagonismo.** O 13 de maio celebra um ato assinado por uma **princesa branca** e aprovado por um Parlamento de senhores; o 20 de novembro celebra a **resistência dos próprios negros**. A escolha da data define quem é o sujeito da história.
+2. **Crítica à narrativa da dádiva.** Comemorar 13 de maio reforça a versão de que a liberdade foi **concedida**, quando a historiografia mostra que foi **conquistada** por fugas em massa, quilombos, ações judiciais e pressão organizada, num momento em que o sistema já ruía.
+3. **O que veio depois da lei.** A Lei Áurea teve **dois artigos** e nenhuma política pública: nem terra, nem escola, nem indenização, nem trabalho — enquanto o Estado **subsidiava** a imigração europeia. Celebrar essa data como fim da injustiça é celebrar o começo de outra.
+4. **Resistência como valor.** Palmares durou quase cem anos, teve organização política, economia e defesa próprias; representa um projeto **alternativo** de sociedade, e não apenas a fuga do cativeiro.
+5. **Educação e currículo.** A mudança acompanha as **Leis 10.639/2003** e **11.645/2008**, que tornaram obrigatório o ensino de história e cultura afro-brasileira, africana e indígena — deslocando o negro da posição de objeto de leis benevolentes para a de sujeito da história do país (@sec-historia-indigena-afrobrasileira).
+
+**A lição mais ampla.** Calendários são **escolhas políticas** sobre o que uma sociedade decide lembrar e como. Disputar uma data é disputar a interpretação do passado e, com ela, a agenda do presente — exatamente o tipo de conflito que a história da memória estuda (@sec-memoria-patrimonio).
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- REIS, J. J.; SILVA, E. *Negociação e conflito* [@reisSilva1989] e CHALHOUB, Sidney. *Visões da liberdade* [@chalhoub1990]. Curtos, decisivos e acessíveis; a melhor porta de entrada para a historiografia da agência.
+- FERNANDES, Florestan. *A integração do negro na sociedade de classes* [@fernandes2008]. Denso, mas fundamental sobre o pós-abolição.
+- SCHWARCZ, Lilia M. *O espetáculo das raças* [@schwarcz1993]. Como o racismo científico foi importado e adaptado no Brasil.
+- GOMES, Laurentino. *Escravidão* [@gomes2022], em vários volumes: narrativa ampla e de leitura fácil, boa para dimensionar a escala do tráfico.
+
+**Fontes primárias**
+
+- NABUCO, Joaquim. *O abolicionismo* (1883) [@nabuco1883]. Um dos melhores textos políticos já escritos no Brasil; leia ao menos a introdução.
+- **Lei Áurea** (1888), **Lei do Ventre Livre** (1871) e **Lei dos Sexagenários** (1885) — os três textos somam poucas páginas e mostram tudo o que as leis concediam e o que reservavam.
+- GAMA, Luís. Poemas e petições judiciais; ALVES, Castro. *O navio negreiro* (1868); REIS, Maria Firmina dos. *Úrsula* (1859).
+- DAVATZ, Thomas. *Memórias de um colono no Brasil* [@davatz1980]: a imigração vista por quem veio.
+
+**Filmes e documentários**
+
+- *Quanto vale ou é por quilo?* (2005), dir. Sérgio Bianchi — a partir de um conto de Machado de Assis.
+- *Menino 23* (2016), dir. Belisario Franca; *Ori* (1989), de Raquel Gerber, com narração de **Beatriz Nascimento**.
+- Visite, se puder, o **Cais do Valongo** (Rio de Janeiro), maior porto de desembarque de africanos escravizados das Américas, hoje Patrimônio Mundial da UNESCO — e discuta por que ele ficou soterrado e esquecido por mais de um século (@sec-memoria-patrimonio).
