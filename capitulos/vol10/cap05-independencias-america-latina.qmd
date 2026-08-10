@@ -1,5 +1,337 @@
 # As independências na América Latina {#sec-independencias-america-latina}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Em **dezembro de 1830**, um homem de 47 anos morria de tuberculose numa casa emprestada em Santa Marta, na costa da Colômbia, doente, sem dinheiro e a caminho de um exílio na Europa que nunca chegaria a fazer. Chamava-se **Simón Bolívar**. Havia libertado da Espanha os territórios que hoje correspondem a seis países, fora chamado de **Libertador** por multidões e escrevera algumas das páginas políticas mais lúcidas de seu século. Pouco antes de morrer, resumiu sua obra numa frase amarga: "**Arei no mar**". A Grã-Colômbia que sonhara já se desmanchava em Estados rivais; os generais que o haviam acompanhado disputavam pedaços do continente; a maioria da população — indígena, negra, mestiça, pobre — continuava tão pobre quanto antes. Por que a maior guerra de libertação já travada nas Américas terminou daquele jeito? E por que o **Brasil**, no mesmo momento, tornou-se independente sem guerra civil prolongada, sem fragmentar-se e mantendo um **imperador** português no trono? Este capítulo responde às duas perguntas — que são, no fundo, a mesma.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- explicar as causas das independências: **reformas bourbônicas**, descontentamento **criollo**, Iluminismo, exemplos externos e a **crise de 1808**;
+- identificar movimentos precursores, incluindo a rebelião de **Tupac Amaru II**, e o impacto da **Revolução Haitiana**;
+- descrever os dois grandes focos da emancipação hispano-americana — **Bolívar** ao norte, **San Martín** ao sul — até **Ayacucho** (1824);
+- explicar por que o processo **mexicano** teve início popular e desfecho conservador;
+- analisar as consequências: **fragmentação**, **caudilhismo**, permanência das estruturas sociais e nova dependência econômica;
+- **comparar** o caso hispano-americano com a Independência do Brasil;
+- discutir o debate historiográfico sobre se houve, nas independências, **revolução** ou apenas mudança de comando.
 :::
+
+## Por que romper com a Espanha {#sec-causas-independencias}
+
+Por quase três séculos, o império espanhol na América funcionou (@sec-colonizacao-espanhola). O que mudou?
+
+**As reformas bourbônicas.** No século XVIII, a nova dinastia dos **Bourbon** tentou reapertar o controle sobre as colônias para aumentar a arrecadação: criação de novos vice-reinos (Nova Granada, Prata), envio de **intendentes** peninsulares, monopólios estatais sobre tabaco e aguardente, elevação de impostos, repressão ao contrabando e — este é o ponto que mais irritou — **preferência sistemática a espanhóis nascidos na Europa** para os cargos de mando.
+
+Isso feriu diretamente o grupo que faria a independência: os **criollos** (ou crioulos), descendentes de espanhóis **nascidos na América**, muitos deles ricos proprietários de terras, minas e comércio, com formação universitária — e permanentemente barrados dos altos postos do governo, da Igreja e da magistratura, reservados aos **chapetones** (ou peninsulares). Eram economicamente fortes e politicamente subalternos: a combinação clássica que produz revolução.
+
+**As ideias e os exemplos.** O **Iluminismo** (@sec-iluminismo) circulava entre a elite letrada em livros contrabandeados. E havia três exemplos concretos: a **Independência dos Estados Unidos** (@sec-independencia-eua), que mostrava ser possível a uma colônia americana derrotar uma metrópole europeia; a **Revolução Francesa** (@sec-revolucao-francesa), com sua Declaração de Direitos; e a **Revolução Haitiana** (1791–1804), a única revolta de pessoas escravizadas da história que fundou um Estado — e que teve, sobre os criollos, um efeito **duplo e contraditório**, como veremos.
+
+**Interesses externos.** A **Inglaterra** desejava fim do monopólio espanhol e abertura dos mercados americanos a suas manufaturas; financiou, armou e abrigou revolucionários — inclusive Francisco de Miranda — e, quando a independência veio, converteu-se na principal credora e fornecedora dos novos países.
+
+**O estopim: a crise de 1808.** Em 1808, **Napoleão** invadiu a Espanha e forçou a abdicação de Carlos IV e Fernando VII, colocando seu irmão **José Bonaparte** no trono (@sec-era-napoleonica). Abriu-se um vazio jurídico decisivo: **quem manda nas colônias quando não há rei legítimo?** Na Espanha, formaram-se **juntas** locais que governavam "em nome de Fernando VII". Na América, os criollos fizeram exatamente o mesmo — e a partir de **1810** as juntas de Caracas, Buenos Aires, Bogotá e Santiago passaram a governar em nome do rei cativo. Era autogoverno com aparência de lealdade. Quando **Fernando VII** voltou ao trono em **1814** e tentou restaurar o absolutismo e reconquistar a América pelas armas, a fidelidade ficou insustentável, e as juntas se tornaram governos independentes.
+
+::: {.callout-important title="A ambiguidade criolla: liberdade para quem?"}
+As independências hispano-americanas foram feitas por uma elite **branca e proprietária** que queria o poder político **sem** alterar a ordem social — nem a estrutura da propriedade fundiária, nem, na maioria dos casos e num primeiro momento, a escravidão, nem a condição das populações indígenas.
+
+Dois traumas explicam essa prudência. O primeiro é a rebelião de **Tupac Amaru II** (1780–1781), no Peru: liderada por um cacique descendente dos incas, mobilizou dezenas de milhares de indígenas contra tributos e trabalho compulsório, foi a maior revolta colonial da América espanhola e terminou com o esquartejamento público do líder e de sua família. O segundo é o **Haiti** (1791–1804): pessoas escravizadas venceram franceses, ingleses e espanhóis, aboliram a escravidão e fundaram uma república negra. Para as elites criollas — muitas delas donas de escravizados —, o "haitianismo" tornou-se o pesadelo a evitar.
+
+O resultado é o paradoxo do período: a independência foi feita **contra** a Espanha e **com medo** das próprias massas que precisava recrutar para vencê-la. Bolívar, que recebeu de **Alexandre Pétion**, presidente do Haiti, armas, navios e homens sob a condição expressa de **libertar os escravizados** nos territórios que conquistasse, entendeu isso melhor que ninguém — e decretou a liberdade para quem se alistasse. Mas a abolição plena só viria décadas depois em quase todos os países.
+:::
+
+## A América espanhola: duas correntes que se encontram {#sec-america-espanhola}
+
+A guerra durou quinze anos (1810–1825), foi extremamente violenta e teve dois grandes focos militares, além do caso mexicano, que seguiu roteiro próprio.
+
+**O foco do norte: Bolívar.** **Simón Bolívar** (1783–1830), criollo riquíssimo de Caracas, educado na Europa, assumiu a liderança após o fracasso da primeira república venezuelana e do precursor **Francisco de Miranda**. Sofreu derrotas e exílios; foi no exílio na **Jamaica**, em **1815**, que escreveu sua célebre **Carta da Jamaica**, documento em que analisa com frieza notável as chances e os riscos da América independente — prevendo, entre outras coisas, a dificuldade de manter grandes unidades políticas e o perigo de governos despóticos [@bolivar2016].
+
+Sua estratégia decisiva foi ousada: em 1819, atravessou os **Andes** por passagens gélidas com um exército de venezuelanos, neogranadinos, ex-escravizados libertos e uma legião de veteranos britânicos, caindo pelas costas dos espanhóis. Venceu em **Boyacá** (1819), libertando Bogotá; em **Carabobo** (1821), garantindo a Venezuela; e seu lugar-tenente **Antonio José de Sucre** venceu em **Pichincha** (1822), libertando Quito. Criou então a **Grã-Colômbia**, reunindo Venezuela, Nova Granada, Equador e Panamá.
+
+**O foco do sul: San Martín.** Enquanto isso, **Buenos Aires**, cuja junta de 1810 nunca fora reconquistada, declarou formalmente a independência das **Províncias Unidas do Rio da Prata** no **Congresso de Tucumán** (**9 de julho de 1816**). O general **José de San Martín** (1778–1850) percebeu que a independência argentina não estaria segura enquanto o Peru — coração do poder espanhol na América do Sul, sede do vice-reinado mais rico e antigo — continuasse em mãos realistas. Executou então uma das operações militares mais impressionantes do século: a **travessia dos Andes** (1817) com o Exército dos Andes, libertando o **Chile** nas batalhas de **Chacabuco** (1817) e **Maipú** (1818), com apoio decisivo de **Bernardo O'Higgins**. De lá seguiu por mar e entrou em **Lima** em 1821, proclamando a independência do Peru — mas sem conseguir derrotar o grosso das forças realistas, entrincheiradas na serra.
+
+**O encontro de Guayaquil (1822).** Os dois libertadores se encontraram na cidade equatoriana em julho de 1822, a sós e sem testemunhas — um dos grandes enigmas da história latino-americana, pois nunca se soube ao certo o que disseram. Sabe-se o resultado: **San Martín retirou-se** da cena política, deixou o comando a Bolívar e partiu para um exílio definitivo na França, onde morreu em 1850. As explicações mais aceitas combinam divergências sobre a forma de governo (San Martín inclinava-se à **monarquia constitucional**, Bolívar à **república**), sobre o destino de Guayaquil e o reconhecimento de que apenas um comando unificado venceria os realistas.
+
+**O fim: Ayacucho (1824).** As últimas grandes batalhas foram travadas no Peru: **Junín** (agosto de 1824) e, sobretudo, **Ayacucho** (**9 de dezembro de 1824**), onde **Sucre** derrotou o exército vice-real e capturou o vice-rei. Ayacucho encerra militarmente a dominação espanhola na América continental. Em **1825** nasce a **Bolívia**, batizada em homenagem ao Libertador. Restaram à Espanha apenas **Cuba** e **Porto Rico**, que só se emancipariam em **1898**, e mesmo assim para caírem sob tutela dos **Estados Unidos** (@sec-eua-seculo-xix).
+
+::: {#fig-independencias-america}
+
+```{.tikz}
+%%| filename: fig-independencias-america
+%%| alt: Esquema das duas correntes libertadoras da América espanhola, de Bolívar ao norte e San Martín ao sul, convergindo no Peru.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \node[draw, thick, rounded corners, fill=manualgreen!18, align=center, text width=3.4cm] (mex) at (0,3.2) {\textbf{MÉXICO}\\ Hidalgo (1810) e Morelos:\\ revolta \textbf{popular} $\rightarrow$ derrotada\\[2pt] \textbf{1821}: Iturbide e o\\ \textbf{Plano de Iguala}\\ (independência conservadora)};
+
+  \node[draw, very thick, rounded corners, fill=manualblue!18, align=center, text width=3.5cm] (bol) at (0,0.2) {\textbf{FOCO NORTE}\\ \textbf{Bolívar} (Caracas)\\[2pt] Carta da Jamaica (1815)\\ travessia dos Andes\\ \textbf{Boyacá} 1819 · \textbf{Carabobo} 1821\\ Sucre: \textbf{Pichincha} 1822};
+
+  \node[draw, very thick, rounded corners, fill=manualyellow!28, align=center, text width=3.5cm] (san) at (0,-3.3) {\textbf{FOCO SUL}\\ \textbf{San Martín} (Buenos Aires)\\[2pt] \textbf{Tucumán} 1816\\ travessia dos \textbf{Andes} 1817\\ Chacabuco · Maipú (Chile)\\ \textbf{Lima} 1821};
+
+  \node[draw, thick, rounded corners, fill=manualgray!22, align=center, text width=3.0cm] (gua) at (5.6,-1.5) {\textbf{Guayaquil}\\ \textbf{1822}\\ encontro dos dois;\\ San Martín se retira};
+
+  \node[draw, very thick, rounded corners, fill=manualred!20, align=center, text width=3.2cm] (aya) at (10.2,-1.5) {\textbf{AYACUCHO}\\ \textbf{9 dez.\ 1824}\\ Sucre vence o vice-rei:\\ fim do domínio espanhol\\ na América continental};
+
+  \node[draw, thick, rounded corners, fill=manualgreen!14, align=center, text width=3.2cm] (bolivia) at (10.2,1.4) {\textbf{Bolívia} (1825)\\ Congresso do \textbf{Panamá}\\ (1826): o projeto de\\ união \textbf{fracassa}};
+
+  \node[draw, dashed, thick, rounded corners, fill=manualgray!14, align=center, text width=3.2cm] (cuba) at (10.2,-4.4) {\textbf{Cuba} e \textbf{Porto Rico}\\ só em \textbf{1898}\\ (e sob tutela dos EUA)};
+
+  \draw[vetor, thick] (bol.east) -- (gua.north west);
+  \draw[vetor, thick] (san.east) -- (gua.south west);
+  \draw[vetor, very thick, manualred] (gua.east) -- (aya.west);
+  \draw[vetor, thick, manualgray] (aya.north) -- (bolivia.south);
+  \draw[vetor, thick, manualgray, dashed] (aya.south) -- (cuba.north);
+\end{tikzpicture}
+```
+
+As duas correntes libertadoras convergem no Peru; o México segue caminho próprio, e as Antilhas espanholas ficam de fora do processo por mais de setenta anos.
+:::
+
+**O México: começo popular, fim conservador.** O caso mexicano é o mais instrutivo — e o mais cobrado em prova, por contrariar o padrão criollo.
+
+Em **16 de setembro de 1810**, o padre **Miguel Hidalgo**, na paróquia de Dolores, convocou seus fiéis com o **Grito de Dolores**, sob o estandarte da Virgem de Guadalupe. O movimento que se formou não era criollo: reuniu dezenas de milhares de **indígenas e mestiços** pobres e pôs na pauta o **fim do tributo indígena**, a **abolição da escravidão** e a **devolução de terras** comunais. Justamente por isso apavorou a elite criolla, que se aliou aos espanhóis para esmagá-lo. Hidalgo foi fuzilado em 1811; seu sucessor, o padre **José María Morelos**, radicalizou o programa no Congresso de Chilpancingo (1813) — independência plena, república, fim da escravidão e das castas, imposto sobre a renda — e foi executado em 1815.
+
+A independência mexicana veio seis anos depois **pelas mãos dos adversários daquele movimento**. Em **1820**, a revolução liberal espanhola restaurou a Constituição de Cádis; temendo que o liberalismo peninsular ameaçasse seus privilégios, a Igreja, os grandes proprietários e os oficiais realistas mudaram de lado. O coronel **Agustín de Iturbide** — que combatera Hidalgo e Morelos — pactuou com os insurgentes remanescentes o **Plano de Iguala** (1821), resumido em três garantias: independência, **religião católica** como única e **união** entre criollos e peninsulares. O México tornou-se independente em 1821 e Iturbide fez-se **imperador** (1822–1823), sendo derrubado logo depois pela república. Do programa social de Hidalgo e Morelos, quase nada restou.
+
+::: {#fig-linha-do-tempo-independencias}
+
+```{.tikz}
+%%| filename: fig-linha-do-tempo-independencias
+%%| alt: Linha do tempo das independências latino-americanas, de 1780 a 1830.
+\begin{tikzpicture}[>=stealth]
+  \draw[eixo] (0,0) -- (14.2,0);
+  \node[eixo, gray] at (14.2,-0.6) {\scriptsize tempo};
+
+  \fill[manualgray!24] (0.5,-0.13) rectangle (4.4,0.13);
+  \node[text=gray] at (2.4,-0.95) {\scriptsize \textbf{precursores}};
+  \fill[manualred!22] (5.6,-0.13) rectangle (12.3,0.13);
+  \node[text=manualred] at (9.0,-0.95) {\scriptsize \textbf{guerras de independência} (1810--1825)};
+
+  \node[ponto] at (0.5,0) {};
+  \node[below] at (0.5,-0.25) {\scriptsize 1780--81};
+  \node[above, align=center, text=manualgreen] at (1.0,0.2) {\scriptsize \textbf{Tupac Amaru II}\\\scriptsize (Peru)};
+
+  \node[ponto] at (2.7,0) {};
+  \node[below] at (2.7,-0.25) {\scriptsize 1791--1804};
+  \node[above, align=center, text=manualgreen] at (2.8,1.1) {\scriptsize \textbf{Revolução Haitiana}};
+
+  \node[ponto] at (4.7,0) {};
+  \node[below] at (4.7,-0.25) {\scriptsize 1808};
+  \node[above, align=center, text=manualblue] at (4.8,0.2) {\scriptsize invasão napoleônica\\\scriptsize da \textbf{Espanha}};
+
+  \node[ponto] at (5.9,0) {};
+  \node[below] at (5.9,-0.25) {\scriptsize 1810};
+  \node[above, align=center, text=manualred] at (6.0,1.1) {\scriptsize \textbf{juntas} criollas;\\\scriptsize \textbf{Grito de Dolores}};
+
+  \node[ponto] at (7.4,0) {};
+  \node[below] at (7.4,-0.25) {\scriptsize 1816};
+  \node[above, align=center] at (7.5,0.2) {\scriptsize \textbf{Tucumán}\\\scriptsize (Prata)};
+
+  \node[ponto] at (8.7,0) {};
+  \node[below] at (8.7,-0.25) {\scriptsize 1819--21};
+  \node[above, align=center, text=manualblue] at (8.8,1.1) {\scriptsize Boyacá, \textbf{Carabobo};\\\scriptsize Lima; \textbf{México} (Iguala)};
+
+  \node[ponto] at (10.3,0) {};
+  \node[below] at (10.3,-0.25) {\scriptsize 1822};
+  \node[above, align=center, text=manualgreen] at (10.4,0.2) {\scriptsize \textbf{Guayaquil};\\\scriptsize \textbf{Brasil} independente};
+
+  \node[ponto] at (11.9,0) {};
+  \node[below] at (11.9,-0.25) {\scriptsize 1824--25};
+  \node[above, align=center, text=manualred] at (12.0,1.1) {\scriptsize \textbf{AYACUCHO};\\\scriptsize Bolívia};
+
+  \node[ponto] at (13.5,0) {};
+  \node[below] at (13.5,-0.25) {\scriptsize 1826--30};
+  \node[above, align=center] at (13.3,0.2) {\scriptsize Congresso do Panamá;\\\scriptsize fim da Grã-Colômbia};
+\end{tikzpicture}
+```
+
+De Tupac Amaru a Bolívar: meio século entre a maior revolta indígena colonial e a morte do Libertador.
+:::
+
+## O que ficou: fragmentação, caudilhos e continuidade {#sec-balanco-independencias}
+
+**A fragmentação.** Bolívar sonhava com uma grande confederação hispano-americana e convocou para isso o **Congresso do Panamá** (1826), que fracassou: compareceram quatro países e nada se aplicou. A própria **Grã-Colômbia** desfez-se em 1830 (Venezuela, Nova Granada e Equador), e as Províncias Unidas do Prata perderam Paraguai, Uruguai e Bolívia. As causas da fragmentação:
+
+- **Geografia**: cordilheiras, selvas e distâncias enormes, sem estradas nem comunicações que sustentassem um Estado continental;
+- **Economias regionais voltadas para fora**, ligadas a portos distintos e a mercados europeus, e não entre si;
+- **Elites locais** que preferiam mandar em uma província a obedecer numa federação;
+- **os exércitos da guerra**, que criaram chefes militares com poder e ambição próprios;
+- e o **interesse britânico** em negociar com muitos Estados fracos em vez de um forte.
+
+**O caudilhismo.** Quinze anos de guerra deixaram sociedades militarizadas, Estados fracos e populações acostumadas a obedecer a quem tem tropa. Surge a figura do **caudilho**: chefe político de base regional e militar, apoiado em lealdade pessoal, prestígio armado e clientelismo, que governa acima ou à margem das constituições — Juan Manuel de **Rosas** na Argentina, Antonio López de **Santa Anna** no México, José Antonio Páez na Venezuela. As constituições liberais existiam no papel; o poder real era pessoal.
+
+**A continuidade social.** A independência foi uma **revolução política sem revolução social**. Permaneceram: a **grande propriedade** fundiária (que em muitos lugares até se ampliou, ao absorver terras comunais indígenas e bens da Igreja); a estrutura **agroexportadora** dependente de um ou dois produtos; a exclusão política da maioria pelo **voto censitário**; a subordinação da população indígena, agora sem nem a proteção parcial da legislação colonial; e a **escravidão**, abolida de forma lenta e escalonada (Chile em 1823, América Central em 1824, México em 1829, Colômbia em 1851, Venezuela em 1854, Argentina em 1853, Peru em 1854 — e, nos casos extremos, **Cuba em 1886** e **Brasil em 1888**).
+
+**Uma nova dependência.** Livres do monopólio espanhol, os novos países caíram na órbita da **Inglaterra**: empréstimos que geraram dívida externa desde o primeiro ano de vida independente, importação maciça de manufaturas inglesas que arruinou artesanatos locais, e mais tarde investimento britânico em ferrovias, portos e bancos. É o **imperialismo informal** (@sec-imperialismo). Em **1823**, os **Estados Unidos** proclamaram a **Doutrina Monroe** — "a América para os americanos" —, em tese contra a recolonização europeia; com o tempo, ela seria reinterpretada como justificativa da hegemonia norte-americana sobre o hemisfério.
+
+::: {.callout-tip title="Conexão Brasil: por que a nossa independência foi diferente"}
+Comparar é o melhor exercício deste capítulo. As diferenças brasileiras são quatro:
+
+1. **A metrópole veio para cá.** Com a transferência da Corte em 1808 (@sec-era-napoleonica), o Rio de Janeiro tornou-se sede do império português, e o Brasil foi elevado a **Reino Unido** em 1815. Já havia, portanto, um centro de poder, uma burocracia, um exército e um tesouro instalados no país — não foi preciso construí-los do zero em meio à guerra.
+2. **Um príncipe da própria dinastia liderou a ruptura.** Enquanto na América espanhola a independência exigiu derrotar o rei, aqui foi um **Bragança**, D. Pedro, quem a proclamou. A legitimidade dinástica foi **preservada**, o que reduziu drasticamente o risco de vazio de poder e de guerra civil generalizada.
+3. **Manteve-se a monarquia — e com ela a unidade.** Enquanto as repúblicas hispano-americanas se fragmentavam, a Coroa funcionou como elo simbólico e institucional entre províncias muito distintas. Houve conflitos armados (Bahia, Grão-Pará, Cisplatina) e revoltas provinciais graves no período regencial (@sec-periodo-regencial), mas o território permaneceu unido.
+4. **A escravidão não foi tocada.** Aqui a semelhança com o restante do continente é maior do que a diferença: em ambos os casos a elite proprietária conduziu o processo. Mas no Brasil a escravidão sobreviveu à independência por **66 anos** — o último país das Américas a aboli-la, em **1888**.
+
+**Semelhança essencial:** nos dois casos, mudou quem governa, não como a sociedade se organiza. É o que a historiografia chama de **independência conservadora**, tema do @sec-independencia.
+:::
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+**Houve revolução?** É a pergunta central, e as respostas mudaram três vezes.
+
+**A versão heroica e nacional.** Ao longo do século XIX e boa parte do XX, cada país construiu sua narrativa de fundação em torno de **próceres**: Bolívar, San Martín, O'Higgins, Hidalgo, Sucre. Estátuas, feriados, nomes de rua e manuais escolares apresentaram a independência como o momento em que "a nação" — supostamente já existente — despertou e se libertou. É a mesma **invenção de tradições** analisada no @sec-liberalismo-nacionalismo-1848, aqui a serviço de Estados que precisavam urgentemente de legitimidade.
+
+**A crítica social.** A partir dos anos 1960–70, uma historiografia influenciada pelo marxismo e pela teoria da dependência inverteu o quadro. **Tulio Halperín Donghi**, na *História contemporânea da América Latina*, mostrou que a independência foi feita por elites criollas que buscavam **o comando político sem transformação social**, e que o período seguinte foi de "longa espera": economias arruinadas pela guerra, Estados frágeis, exércitos inchados, mercados dominados pela Inglaterra, sem que a estrutura agrária e social herdada da colônia fosse alterada [@halperinDonghi1975]. Numa versão mais militante e de enorme circulação popular, **Eduardo Galeano** apresentou a emancipação política como troca de dono: a América Latina teria passado da dependência ibérica à dependência britânica e depois à norte-americana, permanecendo periferia [@galeano2010]. A crítica que se faz a essa vertente é que, ao insistir na continuidade, ela pode subestimar mudanças reais — o fim do tributo indígena em vários países, a abolição gradual da escravidão, a criação de repúblicas e cidadanias formais numa época em que a Europa restaurava monarquias.
+
+**A leitura política: a "revolução hispânica".** Nas últimas décadas, historiadores como **François-Xavier Guerra** e José Carlos Chiaramonte deslocaram o foco da economia para a **linguagem política e a soberania**. A tese de Guerra é que 1808 desencadeou uma **crise de legitimidade** simultânea em toda a monarquia espanhola, dos dois lados do Atlântico: desaparecido o rei, a soberania "reverteu" aos **povos** — a doutrina do pactismo escolástico, de raiz medieval e católica —, e foi essa ideia antiga, combinada às novas noções de nação e representação, que produziu as juntas, as eleições, a explosão de jornais e panfletos e a **Constituição de Cádis** (1812). Nessa leitura, as independências não são a execução de um plano nacionalista preexistente, mas o resultado imprevisto de uma revolução política que era, de início, **hispânica** e não americana [@guerra2009]. Sua contribuição decisiva foi mostrar que "as nações" latino-americanas são **produto** e não causa das independências.
+
+**A recuperação dos sujeitos populares.** A historiografia mais recente demoliu a imagem de guerras travadas apenas por criollos ilustrados. Os exércitos foram feitos de **pardos, negros libertos, escravizados que ganharam liberdade em troca de alistamento, indígenas e camponeses**, e muitos deles negociaram — não apenas obedeceram. O caso mais eloquente é o pacto entre **Bolívar** e o presidente haitiano **Alexandre Pétion**, que forneceu apoio material sob a condição explícita de abolição; outro é o das milícias de pardos na Colômbia, que usaram a linguagem da igualdade para reivindicar direitos concretos. Estudos como os de **Marixa Lasso** mostram que a proclamada "igualdade racial" das novas repúblicas serviu simultaneamente para incorporar essa gente à cidadania **e** para deslegitimar suas queixas específicas, sob a acusação de estarem "dividindo a nação" — um mecanismo com longa descendência nas Américas, inclusive na ideia brasileira de **democracia racial**.
+
+**Por que divergem?** Porque medem coisas diferentes: **quem tomou o poder** (crítica social), **que ideias e instituições surgiram** (Guerra, Chiaramonte), **quem lutou e o que ganhou** (história social e racial), **como a memória foi construída** (as narrativas nacionais). E porque a pergunta é politicamente viva: dizer que a independência "não mudou nada" ou que "fundou nossas repúblicas" tem consequências para o modo como cada país se pensa hoje. A síntese defensável é que houve uma **revolução política profunda** — fim do domínio colonial, repúblicas, constituições, cidadania formal, participação armada de setores populares — que **não foi acompanhada de revolução social**, e que essa defasagem é a chave para entender o século XIX latino-americano.
+
+## Resumo do capítulo {#sec-resumo}
+
+- **Causas:** **reformas bourbônicas** (mais impostos, intendentes peninsulares, exclusão dos **criollos** dos altos cargos em favor dos **chapetones**); difusão do **Iluminismo**; exemplos da independência dos **EUA**, da **Revolução Francesa** e do **Haiti**; interesse comercial **britânico**.
+- **Estopim:** a **crise de 1808** — Napoleão depõe os Bourbon espanhóis, e a ausência de rei legítimo leva à formação de **juntas de governo** na América a partir de **1810**, inicialmente "em nome de Fernando VII". A tentativa de reconquista absolutista após **1814** rompe o vínculo.
+- **Precursores e traumas:** **Tupac Amaru II** (Peru, 1780–81), a maior revolta indígena colonial, e a **Revolução Haitiana** (1791–1804) — que inspiraram e, ao mesmo tempo, **assustaram** as elites criollas ("haitianismo").
+- **Foco norte — Bolívar:** **Carta da Jamaica** (1815); travessia dos Andes; **Boyacá** (1819), **Carabobo** (1821) e, com **Sucre**, **Pichincha** (1822); criação da **Grã-Colômbia**. Recebeu apoio do Haiti de **Pétion** com a condição de libertar escravizados.
+- **Foco sul — San Martín:** **Congresso de Tucumán** (**1816**); **travessia dos Andes** (1817); **Chacabuco** e **Maipú** (Chile, com **O'Higgins**); entrada em **Lima** (1821).
+- **Encontro de Guayaquil** (1822): San Martín se retira e deixa o comando a Bolívar. **Junín** e, sobretudo, **AYACUCHO** (**9 de dezembro de 1824**, vitória de **Sucre**) encerram o domínio espanhol continental. **Bolívia** em 1825. **Cuba** e **Porto Rico** só em **1898**.
+- **México:** início **popular** com o **Grito de Dolores** de **Hidalgo** (16 de setembro de 1810) e o programa social de **Morelos** (fim do tributo, da escravidão e das castas), esmagado pela aliança entre criollos e espanhóis; independência efetiva em **1821** pelas mãos de **Iturbide**, com o **Plano de Iguala** (independência, religião católica, união) — uma emancipação **conservadora**, seguida de um breve império.
+- **Consequências:** **fragmentação** (fracasso do **Congresso do Panamá**, 1826; fim da Grã-Colômbia em 1830) por geografia, economias voltadas para fora, elites regionais, exércitos e interesse britânico; **caudilhismo** (Rosas, Santa Anna, Páez); **continuidade social** (latifúndio, agroexportação, voto censitário, subordinação indígena, abolição lenta da escravidão); e nova **dependência** econômica em relação à Inglaterra. **Doutrina Monroe** (1823).
+- **Brasil, por comparação:** a Corte já estava aqui desde 1808 e o país fora elevado a **Reino Unido** em 1815; a ruptura foi liderada por um **príncipe da própria dinastia**; manteve-se a **monarquia**, e com ela a **unidade** territorial; e a **escravidão** durou até **1888**. Semelhança de fundo: em ambos os casos, **independência conservadora**.
+- **Historiografia:** narrativa heroica dos **próceres** × **revolução política sem revolução social** (**Halperín Donghi**; **Galeano**, em versão dependentista) × **"revolução hispânica"** e crise de soberania em 1808 (**François-Xavier Guerra**: as nações são produto, não causa, das independências) × recuperação dos **sujeitos populares** — pardos, libertos, indígenas — e do pacto de Bolívar com o **Haiti** (Marixa Lasso).
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Fixe: (1) as **quatro famílias de causas** e o papel da crise de **1808**; (2) a distinção **criollos × chapetones**; (3) os dois focos militares e as batalhas-chave, com **Ayacucho** no centro; (4) a inversão do caso **mexicano**; (5) as causas da **fragmentação** e o **caudilhismo**; (6) a **comparação com o Brasil**; (7) o debate sobre revolução política × revolução social.
+:::
+
+**1.** Explique por que as **reformas bourbônicas** contribuíram para as independências.
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque romperam o equilíbrio informal que sustentara o império espanhol por dois séculos. Ao longo do século XVIII, os **Bourbon** tentaram tornar as colônias mais lucrativas para a metrópole: criaram novos vice-reinos, enviaram **intendentes** nascidos na Espanha para fiscalizar a administração e a arrecadação, estabeleceram **monopólios estatais** (tabaco, aguardente), elevaram impostos e reprimiram o contrabando, do qual dependia boa parte da economia local.
+
+O efeito sobre os **criollos** foi duplo. Economicamente, sentiram-se espoliados: mais impostos, menos contrabando, controle mais rígido do comércio. Politicamente, foram **rebaixados**: as reformas reservaram sistematicamente os altos cargos aos **chapetones** (peninsulares), tratando os americanos como suspeitos de deslealdade. Formou-se assim o grupo típico das revoluções — economicamente poderoso e politicamente excluído —, com recursos, instrução e motivo.
+
+Um efeito colateral importante: o aumento da carga fiscal e do trabalho compulsório também atingiu indígenas e mestiços, produzindo revoltas como a de **Tupac Amaru II** (1780–81) — que, ao aterrorizar as elites criollas, tornou-as, num primeiro momento, mais **cautelosas** quanto a romper com a Espanha.
+:::
+
+**2.** Por que a **crise de 1808** foi o estopim das independências?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque criou um **vazio de legitimidade**. Napoleão invadiu a Espanha, forçou a abdicação de Carlos IV e Fernando VII e colocou no trono seu irmão **José Bonaparte**. Surgiu então uma pergunta jurídica sem resposta pronta: se o rei está cativo e o trono foi usurpado, **quem exerce a soberania** nos domínios americanos?
+
+A resposta veio de uma doutrina antiga, o **pactismo** de raiz escolástica: na ausência do monarca, a soberania **reverte aos povos**, que devem organizar-se para conservá-la até o retorno do rei legítimo. Na Espanha, formaram-se **juntas** locais; na América, os criollos fizeram exatamente o mesmo — em **1810**, juntas em Caracas, Buenos Aires, Bogotá e Santiago passaram a governar "em nome de **Fernando VII**". Na prática, era **autogoverno** com aparência de fidelidade, e nesse intervalo os criollos ocuparam os cargos que lhes eram negados, abriram os portos ao comércio, formaram tropas e publicaram jornais.
+
+A ruptura definitiva veio com o retorno de **Fernando VII** em **1814**: ele restaurou o absolutismo, anulou a Constituição de Cádis e enviou tropas para reconquistar a América. Diante da escolha entre voltar à subordinação anterior ou lutar, as juntas transformaram-se em governos independentes. Note a ironia: a independência hispano-americana começou como um movimento **em defesa do rei**.
+:::
+
+**3.** Compare as trajetórias de **Bolívar** e **San Martín** e explique a importância de **Ayacucho**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Bolívar** (foco norte), criollo de Caracas, atuou na Venezuela, em Nova Granada e no Equador. Após derrotas iniciais e o exílio, escreveu a **Carta da Jamaica** (1815); em 1819 atravessou os Andes e venceu em **Boyacá**, libertando Bogotá, seguindo-se **Carabobo** (1821, Venezuela) e **Pichincha** (1822, por **Sucre**, libertando Quito). Criou a **Grã-Colômbia** e defendia a **república** e alguma forma de união continental.
+
+**San Martín** (foco sul), militar profissional formado na Espanha, partiu de Buenos Aires, cuja junta nunca fora reconquistada e que declarou independência em **Tucumán** (1816). Concluiu que a independência do Prata dependia de eliminar o poder espanhol no **Peru**: executou a **travessia dos Andes** (1817), libertou o **Chile** em **Chacabuco** e **Maipú** (com **O'Higgins**) e entrou em **Lima** em 1821. Inclinava-se a uma **monarquia constitucional** como forma de dar estabilidade aos novos Estados.
+
+**Encontro de Guayaquil (1822):** conversaram a sós, sem registro. San Martín retirou-se da política e exilou-se na França. As razões prováveis: divergência quanto à forma de governo, disputa sobre Guayaquil e a percepção de que só um **comando unificado** derrotaria os realistas ainda fortes na serra peruana.
+
+**Importância de Ayacucho (9 de dezembro de 1824):** foi a batalha em que **Sucre** derrotou o exército vice-real e capturou o vice-rei do Peru, encerrando militarmente a dominação espanhola na **América continental**. Seu peso é também simbólico: o Peru era o coração do poder espanhol na América do Sul, sede do vice-reinado mais antigo e rico, e reduto realista mesmo depois de a independência estar consumada em quase todo o continente. Em 1825 nasce a **Bolívia**; à Espanha restam apenas **Cuba** e **Porto Rico**.
+:::
+
+**4.** Por que o processo mexicano é considerado uma **inversão** do padrão latino-americano?
+
+::: {.callout-tip collapse="true" title="Solução"}
+Porque começou como movimento **popular e social** e terminou como movimento **conservador e das elites** — o inverso do roteiro criollo típico.
+
+**Começo popular (1810–1815).** O **Grito de Dolores**, do padre **Miguel Hidalgo**, em 16 de setembro de 1810, mobilizou dezenas de milhares de **indígenas e mestiços** pobres sob o estandarte da Virgem de Guadalupe, com um programa social explícito: fim do **tributo indígena**, **abolição da escravidão** e devolução de **terras comunais**. Seu sucessor, **José María Morelos**, foi além no Congresso de Chilpancingo (1813): independência plena, república, fim da escravidão e do sistema de castas, imposto sobre a renda. Exatamente por essa pauta, a elite **criolla** aliou-se aos espanhóis para esmagar a insurreição: Hidalgo foi fuzilado em 1811, Morelos em 1815.
+
+**Fim conservador (1821).** Quando a **revolução liberal espanhola de 1820** restaurou a Constituição de Cádis, a Igreja, os grandes proprietários e os oficiais realistas mexicanos passaram a temer que o **liberalismo peninsular** ameaçasse seus privilégios — e concluíram que a independência era o melhor meio de conservá-los. O coronel **Iturbide**, que combatera Hidalgo e Morelos, pactuou com os insurgentes remanescentes o **Plano de Iguala**, com as "três garantias": **independência**, **religião católica** única e **união** entre criollos e peninsulares. Iturbide fez-se imperador em 1822 e foi derrubado em 1823.
+
+**Conclusão:** o México tornou-se independente por decisão dos setores que haviam combatido a independência popular, e o programa social de Hidalgo e Morelos foi abandonado — razão pela qual o país atravessaria o século XIX em instabilidade crônica, até a Revolução Mexicana de 1910 retomar as bandeiras da terra e dos direitos camponeses.
+:::
+
+**5.** Aponte **quatro causas** da fragmentação da América espanhola e explique o **caudilhismo**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Causas da fragmentação:**
+
+1. **Geografia**: cordilheiras, selvas, desertos e distâncias imensas, sem estradas nem comunicações capazes de sustentar um Estado continental — o próprio Bolívar reconheceu o obstáculo na *Carta da Jamaica*.
+2. **Economias voltadas para fora**: cada região se ligava a um porto e a mercados europeus, não às regiões vizinhas; não havia mercado interno integrado que criasse interesse comum.
+3. **Elites regionais**: proprietários e comerciantes locais preferiam mandar em sua província a submeter-se a uma capital distante — a mesma lógica que fez a Venezuela e o Equador deixarem a Grã-Colômbia em 1830.
+4. **Militarização**: quinze anos de guerra criaram exércitos regionais e chefes com prestígio, tropa e ambição próprios.
+5. **Interesse britânico**: à Inglaterra convinha negociar com muitos Estados fracos e endividados, e não com uma potência continental unificada.
+
+**Caudilhismo:** é o sistema de poder em que um chefe regional, geralmente de origem **militar**, governa apoiado em **lealdade pessoal**, **força armada** e **clientelismo**, sobrepondo-se às instituições formais. Nasce das condições do pós-guerra: Estados sem burocracia nem finanças, populações rurais dispersas e dependentes de grandes proprietários, exércitos desmobilizados e constituições liberais sem base social real. Exemplos: **Rosas** (Argentina), **Santa Anna** (México), **Páez** (Venezuela). O resultado é o descompasso característico do século XIX latino-americano — **repúblicas liberais no papel, poder pessoal na prática**.
+:::
+
+**6.** Compare a independência do **Brasil** com a da **América espanhola**, apontando duas diferenças e uma semelhança fundamental.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Diferenças** (duas entre as principais):
+
+1. **Origem do poder que conduziu o processo.** Na América espanhola, foi preciso **destruir** a autoridade metropolitana em quinze anos de guerra. No Brasil, a metrópole havia se **transferido** para cá em 1808; o Rio de Janeiro era sede do império português, com corte, tribunais, banco, imprensa e exército, e o país fora elevado a **Reino Unido** em 1815. A independência foi proclamada por um **Bragança**, D. Pedro, herdeiro do trono português — a legitimidade dinástica foi preservada em vez de rompida.
+2. **Forma de governo e unidade territorial.** A América espanhola tornou-se um conjunto de **repúblicas** que se **fragmentaram** (fim da Grã-Colômbia em 1830; separação de Paraguai, Uruguai e Bolívia). O Brasil manteve a **monarquia**, e a Coroa funcionou como elo entre províncias muito distintas, preservando a **unidade** territorial — apesar de conflitos armados na Bahia, no Grão-Pará e na Cisplatina e das graves revoltas do período regencial.
+
+Pode-se acrescentar uma terceira: a violência. Enquanto o continente hispânico viveu guerras devastadoras que arruinaram economias e militarizaram a sociedade — origem do **caudilhismo** —, no Brasil o conflito foi comparativamente localizado e curto.
+
+**Semelhança fundamental:** em ambos os casos tratou-se de **independência conservadora**. Quem conduziu o processo foi a elite **proprietária**, que buscava autonomia política **sem** alterar a estrutura social: permaneceram a grande propriedade, a economia agroexportadora, o voto censitário e a exclusão da maioria — e permaneceu, sobretudo, a **escravidão**, abolida de forma lenta e tardia em toda a região (no Brasil, apenas em **1888**; em Cuba, em 1886). Mudou quem governa, não como a sociedade se organiza.
+:::
+
+**7.** (Estilo ENEM) Leia o texto.
+
+> "Nós somos um pequeno gênero humano; possuímos um mundo à parte, cercado por dilatados mares, novo em quase todas as artes e ciências, ainda que de certo modo velho nos usos da sociedade civil. […] Não somos índios nem europeus, mas uma espécie média entre os legítimos proprietários do país e os usurpadores espanhóis. […] Eu desejo, mais que qualquer outro, ver formar-se na América a maior nação do mundo, menos por sua extensão e riqueza do que por sua liberdade e glória. […] Mas é impossível, porque climas remotos, situações diversas, interesses opostos e caracteres dessemelhantes dividem a América."
+>
+> — Simón Bolívar, *Carta da Jamaica*, 1815 — @bolivar2016
+
+O trecho evidencia que Bolívar
+
+**(a)** identificava a população americana com a matriz indígena, propondo o retorno às formas de organização pré-coloniais.
+**(b)** defendia a permanência do vínculo colonial com a Espanha até que se formasse uma identidade americana comum.
+**(c)** reconhecia a especificidade identitária dos criollos e, ao mesmo tempo, antecipava os obstáculos à unificação política do continente.
+**(d)** considerava a unidade hispano-americana inevitável em razão da língua e da religião compartilhadas.
+**(e)** atribuía à ausência de riquezas naturais a principal dificuldade para a formação de uma grande nação americana.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (c).** O texto faz duas coisas ao mesmo tempo. Primeiro, define a identidade **criolla** por exclusão — "não somos índios nem europeus, mas uma espécie média" —, formulação reveladora tanto da consciência americana quanto do lugar social ambíguo desse grupo (nem os "legítimos proprietários do país", nem os "usurpadores"). Segundo, embora declare desejar "a maior nação do mundo", Bolívar afirma explicitamente que isso é "**impossível**", enumerando os obstáculos: "climas remotos, situações diversas, interesses opostos e caracteres dessemelhantes". É a antecipação lúcida — feita em **1815**, antes das grandes vitórias — da **fragmentação** que se confirmaria no fracasso do Congresso do Panamá (1826) e na dissolução da Grã-Colômbia (1830).
+
+As demais: **(a)** contradiz o texto, que distingue os criollos dos "índios"; **(b)** é o oposto do propósito da carta, escrita no exílio para justificar a independência e buscar apoio externo; **(d)** inverte a conclusão do trecho, que declara a unificação impossível; **(e)** falseia o argumento — Bolívar sequer menciona falta de riquezas, e diz que a grandeza desejada seria "menos por sua extensão e riqueza do que por sua liberdade e glória".
+:::
+
+**8.** (Estilo vestibular — dissertativa) "As independências latino-americanas foram uma revolução política sem revolução social." Discuta a afirmação, apresentando argumentos a favor e contra.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**A favor.** A tese é sustentada por evidência forte, e é a leitura de **Halperín Donghi** e, em chave dependentista, de **Galeano** [@halperinDonghi1975; @galeano2010]:
+
+- **Quem fez e quem ganhou.** A condução coube às elites **criollas** proprietárias, que queriam o poder político antes reservado aos peninsulares — não mudar a sociedade.
+- **A estrutura agrária permaneceu**, e em vários lugares se **agravou**: a grande propriedade absorveu terras comunais indígenas e bens da Igreja, e o campesinato ficou sem a proteção, ainda que precária, da legislação colonial.
+- **A escravidão sobreviveu** à independência quase em toda parte, sendo abolida de forma lenta e escalonada ao longo de décadas (Colômbia em 1851, Venezuela em 1854, Cuba em 1886, Brasil em 1888).
+- **A exclusão política persistiu** pelo **voto censitário**, pela exigência de alfabetização e pela marginalização de indígenas, negros e mulheres.
+- **A dependência econômica mudou de endereço**: no lugar do monopólio espanhol, vieram a dívida com bancos ingleses, a inundação de manufaturas britânicas e a especialização agroexportadora — o **imperialismo informal**.
+- **O poder tornou-se pessoal**: o **caudilhismo** substituiu a legalidade que as constituições prometiam.
+
+**Contra (ou matizando).** A afirmação, tomada ao pé da letra, corre o risco de apagar mudanças reais:
+
+- **Fim do domínio colonial** e criação de Estados soberanos, com constituições, repúblicas e cidadania formal — num momento em que a Europa **restaurava** monarquias absolutas em Viena.
+- **Fim de instituições coloniais específicas** em vários países: tributo indígena, sistema de castas, títulos de nobreza, Inquisição, monopólios comerciais.
+- **Participação popular efetiva**: os exércitos foram feitos de pardos, negros libertos, escravizados alforriados em troca de alistamento, indígenas e camponeses — muitos dos quais **negociaram** sua participação. O pacto entre **Bolívar** e o haitiano **Pétion**, que condicionou o apoio à abolição, é o exemplo mais claro; historiadoras como **Marixa Lasso** mostram como a linguagem da igualdade racial passou a ser reivindicada por esses grupos, ainda que o Estado a usasse também para silenciar suas queixas específicas.
+- **Uma nova cultura política**: eleições, imprensa, panfletos, congressos e a noção de **soberania popular** entraram para ficar — é a tese da "**revolução hispânica**" de **François-Xavier Guerra**, para quem a crise de 1808 produziu uma transformação política profunda, e as nações latino-americanas são **produto**, e não causa, das independências [@guerra2009].
+
+**Síntese possível.** A afirmação é correta se entendida como um **descompasso**, e não como uma negação: houve ruptura política profunda — soberania, repúblicas, cidadania formal, mobilização armada popular — **sem** a transformação correspondente na propriedade, no trabalho e na hierarquia social. Foi exatamente essa defasagem entre instituições modernas e estruturas sociais coloniais que produziu o século XIX latino-americano: constituições liberais convivendo com caudilhos, cidadania formal convivendo com escravidão, independência política convivendo com dependência econômica. E, como mostra a comparação com o **Brasil**, o padrão não é exclusividade hispânica: aqui, a independência conservou monarquia, unidade **e** escravidão (@sec-independencia).
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- HALPERÍN DONGHI, Tulio. *História contemporânea da América Latina* [@halperinDonghi1975]. A síntese clássica; o capítulo sobre a "longa espera" pós-independência é essencial.
+- GUERRA, François-Xavier. *Modernidad e independencias* [@guerra2009]. A releitura política do processo, a partir da crise de 1808.
+- GALEANO, Eduardo. *As veias abertas da América Latina* [@galeano2010]. Leia-o como o ensaio militante que é — poderoso, apaixonado e hoje bastante contestado em vários pontos por historiadores; excelente material para exercitar leitura crítica.
+- COSTA, Emília Viotti da. *Da Monarquia à República* [@costa1999]. Para a comparação com o caso brasileiro.
+
+**Fontes primárias**
+
+- BOLÍVAR, Simón. *Carta da Jamaica* (1815) [@bolivar2016]. Curta, brilhante e surpreendentemente pessimista — leia-a inteira.
+- **Plano de Iguala** (México, 1821) e o **Grito de Dolores**. Compare os dois documentos: separa-os uma década e um abismo social.
+- **Constituição de Cádis** (1812), o texto que fez a monarquia espanhola inteira discutir soberania, nação e representação dos dois lados do Atlântico.
+
+**Filmes e literatura**
+
+- *O general em seu labirinto* (1989), romance de **Gabriel García Márquez** sobre os últimos meses de Bolívar. Uma das mais belas reflexões já escritas sobre derrota política.
+- *Libertador* (2013) e *El último malón* — dois olhares muito distintos sobre o período e sua memória.
+- *Facundo: civilização e barbárie* (1845), de **Domingo Faustino Sarmiento**. Fonte fundamental sobre o **caudilhismo** — e, ao mesmo tempo, documento do preconceito das elites liberais contra o mundo rural e mestiço.
