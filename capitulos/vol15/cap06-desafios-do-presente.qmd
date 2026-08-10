@@ -1,5 +1,544 @@
 # Desafios do presente: democracia, memória e negacionismo {#sec-desafios-do-presente}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Em julho de 2021, manifestantes atearam fogo à estátua de **Borba Gato**, em São Paulo. O bandeirante de nove metros, erguido em 1963, homenageia um homem que caçou e escravizou indígenas — informação que consta da bibliografia acadêmica há décadas e não constava da placa. O incêndio dividiu o país: uns viram vandalismo e "apagamento da história"; outros, um ato tardio contra a celebração pública de um escravizador. A discussão, porém, quase nunca chegou ao ponto historicamente mais interessante: **por que uma estátua de um bandeirante foi erguida em 1963, e não em 1700?** A resposta é que monumentos não falam sobre o passado que representam — falam sobre a época que decidiu construí-los, com o dinheiro de quem, para ensinar o quê a quem. Este último capítulo do manual trata exatamente disso: de como sociedades disputam seu passado, de por que essa disputa se intensificou, e do que a História — a disciplina, com seus métodos — tem a oferecer a um presente em que a própria ideia de fato estabelecido está sob ataque.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- caracterizar a **recessão democrática** contemporânea e explicar como democracias morrem hoje;
+- distinguir **populismo**, **autoritarismo** e **extremismo**, e reconhecer os sinais de erosão institucional;
+- diferenciar com precisão **revisionismo historiográfico** (legítimo e necessário) de **negacionismo** (fraude);
+- explicar os mecanismos do negacionismo — do Holocausto, do tabagismo, da crise climática e da ditadura brasileira;
+- discutir **memória**, **esquecimento** e **justiça de transição**, comparando Brasil, Argentina, Chile, África do Sul e Alemanha;
+- analisar a disputa por **monumentos**, nomes de ruas e datas como política de memória;
+- refletir sobre a **ética do historiador** e sobre o que a História pode e não pode fazer;
+- reunir as lições metodológicas de todo o manual e aplicá-las a controvérsias do presente.
 :::
+
+## A recessão democrática {#sec-recessao-democratica}
+
+Nos anos 1990, o número de democracias no mundo estava em máxima histórica, e o horizonte parecia ser a expansão contínua (@sec-nova-ordem-mundial). Desde aproximadamente 2006, os principais índices internacionais registram o movimento inverso: mais países em retrocesso do que em avanço democrático, ano após ano. É o que a ciência política chama de **recessão democrática**.
+
+::: {.callout-important title="Como democracias morrem hoje"}
+**Steven Levitsky** e **Daniel Ziblatt** formularam o diagnóstico que se tornou referência: o golpe militar clássico — tanques, rádio, cassação — tornou-se raro. A democracia contemporânea morre por **erosão gradual, conduzida por governantes eleitos**, usando instrumentos legais, um a um, cada qual defensável isoladamente [@levitsky2018].
+
+O roteiro típico:
+
+1. **Aparelhamento dos árbitros:** nomeação de aliados para tribunais superiores, órgãos eleitorais, agências reguladoras, polícia e procuradorias.
+2. **Neutralização de adversários:** processos judiciais seletivos, auditorias fiscais dirigidas, retirada de verbas publicitárias de veículos críticos, compra de emissoras por aliados.
+3. **Mudança das regras do jogo:** alteração de regras eleitorais, redesenho de distritos, mudança de quóruns, extensão de mandatos, tudo formalmente legal.
+4. **Deslegitimação permanente** da imprensa, das universidades, dos tribunais e do sistema eleitoral.
+
+Os dois autores identificam duas **normas não escritas** cuja erosão é o alerta mais confiável, porque nenhuma constituição as garante:
+
+- **Tolerância mútua:** reconhecer o adversário como legítimo — alguém com quem se discorda e que, ainda assim, tem direito de governar se vencer.
+- **Reserva institucional:** não usar todos os poderes legais de que se dispõe até o limite. Um presidente pode, legalmente, indultar aliados, editar decretos, recusar sanção; um Congresso pode, legalmente, travar todas as nomeações. Se cada lado usar tudo o que a lei permite, o sistema para de funcionar mesmo sem que ninguém viole a lei.
+
+**A implicação, que é a mais incômoda:** a democracia depende de comportamentos que **não podem ser exigidos judicialmente**. Nenhuma cláusula constitucional obriga alguém a reconhecer a legitimidade do adversário.
+:::
+
+**Os fatores associados.** A pesquisa comparada aponta um conjunto recorrente: as consequências da **crise de 2008** e a percepção de que os responsáveis não foram punidos (@sec-globalizacao-neoliberalismo); o aumento da **desigualdade** e a estagnação da renda de setores médios e trabalhadores nos países centrais; a **desindustrialização** de regiões inteiras; fluxos migratórios e a reação identitária que provocaram; a fragilização dos partidos tradicionais como mediadores; e o novo ambiente informacional, com desinformação, segmentação e economia da atenção (@sec-sociedade-em-rede).
+
+::: {.callout-note title="Conceito: populismo — um termo a usar com cuidado"}
+**Populismo** designa, na definição mais aceita hoje (Cas Mudde), um discurso que divide a sociedade em dois campos moralmente homogêneos e antagônicos — "**o povo puro**" contra "**a elite corrupta**" — e sustenta que a política deve ser a expressão direta da vontade popular, sem mediações.
+
+Três precisões importantes:
+
+1. **Não é de esquerda nem de direita.** Existe populismo de ambos os lados, e a diferença está em quem é definido como "povo" e quem como "elite".
+2. **Não é sinônimo de autoritarismo.** Movimentos populistas podem operar dentro da democracia e, historicamente, ampliaram a participação de setores excluídos. O que o torna perigoso é um traço específico: o **antipluralismo** — a pretensão de representar **o** povo, e não uma parte dele, o que transforma o adversário em inimigo do povo e a oposição em ilegitimidade.
+3. **O uso brasileiro é confuso.** No Brasil, "populista" virou insulto genérico para qualquer político carismático ou qualquer política social. Como categoria analítica, o termo exige critérios explícitos — sem eles, é retórica, não análise (@sec-era-vargas).
+:::
+
+**O Brasil no ciclo.** A trajetória recente é matéria de disputa e este manual, como fez com 2016 e com outros temas quentes, distingue o estabelecido do interpretado. **Estabelecido:** as **jornadas de junho de 2013**, iniciadas contra o aumento das tarifas de transporte, transformaram-se no maior ciclo de protestos desde a redemocratização, com pautas heterogêneas e sem liderança definida; a **Operação Lava Jato** desencadeou processos, condenações e forte impacto político, e parte de suas decisões foi posteriormente anulada pelo **STF**, inclusive por reconhecimento de parcialidade do juiz condutor; a presidente **Dilma Rousseff** sofreu **impeachment** em 2016; **Jair Bolsonaro** foi eleito em 2018 e derrotado em 2022; e, em **8 de janeiro de 2023**, milhares de pessoas invadiram e depredaram as sedes dos três poderes em Brasília, em ato que resultou em prisões, investigações e condenações. **Interpretado:** a natureza do impeachment de 2016 (processo constitucional regular ou ruptura política com aparência legal), a avaliação da Lava Jato e das causas do ciclo de 2013–2023. Sobre estes, apresentam-se as leituras em disputa — o que não é neutralidade covarde, mas honestidade sobre o estado da pesquisa (@sec-redemocratizacao-nova-republica).
+
+## Revisionismo não é negacionismo {#sec-revisionismo-negacionismo}
+
+Esta é, talvez, a distinção mais importante deste capítulo — e a que mais frequentemente é confundida no debate público.
+
+::: {.callout-warning title="Revisionismo × negacionismo"}
+**Revisionismo historiográfico** é o funcionamento **normal** e **saudável** da disciplina. Historiadores revisam interpretações anteriores porque:
+
+- surgem **fontes novas** (arquivos abertos, documentos desclassificados, achados arqueológicos);
+- desenvolvem-se **métodos novos** (datação por carbono, análise serial, história oral, genética de populações);
+- formulam-se **perguntas novas**, que fazem ver o que estava diante de todos (as mulheres, os escravizados, o cotidiano, o meio ambiente).
+
+Exemplos citados neste manual: os "novos historiadores" israelenses revendo 1948 (@sec-oriente-medio); a revisão da agência dos escravizados (@sec-historia-indigena-afrobrasileira); a nova história indígena; a revisão do papel do Estado na criação da internet. **Nada disso é negacionismo — é ciência funcionando.**
+
+**Negacionismo** é a **negação de fatos historicamente estabelecidos**, com motivação política ou ideológica, e caracteriza-se por procedimentos específicos que o distinguem da pesquisa:
+
+- parte da **conclusão desejada** e seleciona apenas o que a confirma;
+- **ignora ou falsifica** documentação contrária, em vez de explicá-la;
+- confunde **lacunas** com refutação: se um detalhe não está documentado, alega-se que o todo é falso;
+- exige um padrão de prova **impossível** para o que quer negar e **nenhum** para o que quer afirmar;
+- apresenta-se como perseguido, convertendo a rejeição acadêmica em prova de conspiração;
+- não publica em periódicos submetidos a avaliação por pares nem participa do debate acadêmico regular — dirige-se diretamente ao público.
+
+**O teste prático que você pode aplicar:** pergunte **o que faria a pessoa mudar de ideia**. Um historiador responde: documentos que mostrassem o contrário. Um negacionista não tem resposta, porque sua posição não deriva de evidência e portanto não pode ser alterada por evidência.
+:::
+
+**Os quatro negacionismos mais relevantes hoje.**
+
+1. **Do Holocausto.** Surgido logo após 1945 e sistematizado nos anos 1970, nega ou minimiza o extermínio dos judeus (@sec-holocausto-balanco). O historiador francês **Pierre Vidal-Naquet** dedicou-lhe *Os assassinos da memória*, em que analisa o método dos negadores e recusa deliberadamente debater com eles em pé de igualdade — porque o debate público, por si só, já concede status de controvérsia a algo que não é controverso [@vidalNaquet1988]. O caso mais célebre é o processo em que o negacionista David Irving processou a historiadora Deborah Lipstadt por difamação, na Inglaterra, em 2000: para se defender, a defesa teve de **provar em juízo** o Holocausto, e o tribunal concluiu que Irving havia distorcido evidências deliberadamente. Vários países europeus criminalizam a negação — decisão que gera legítimo debate sobre liberdade de expressão, com bons argumentos dos dois lados.
+2. **Científico organizado.** **Naomi Oreskes** e **Erik Conway** documentaram, em *Mercadores da dúvida*, que os mesmos grupos e, em alguns casos, os mesmos cientistas foram contratados sucessivamente para semear dúvida sobre os malefícios do **tabaco**, sobre a **chuva ácida**, sobre o **buraco na camada de ozônio** e sobre a **mudança climática** [@oreskes2022]. A estratégia, documentada em memorandos internos da indústria do tabaco, não era provar que o cigarro é inofensivo: era **manter a controvérsia viva**, porque "a dúvida é o nosso produto". Basta que o público acredite que os cientistas discordam para que a ação política seja adiada.
+3. **Climático.** Aplicação direta do modelo anterior. O consenso científico sobre a origem humana do aquecimento é maciço e medido em revisões sistemáticas da literatura; a "controvérsia" existe sobretudo na mídia e no debate político.
+4. **Da ditadura brasileira.** A negação de que houve ditadura entre 1964 e 1985, ou a de que houve tortura sistemática, colide com documentação abundante: os arquivos do próprio regime, o projeto **Brasil: Nunca Mais**, organizado clandestinamente a partir de processos da Justiça Militar [@arns1985], e o relatório da **Comissão Nacional da Verdade** (2014), que identificou nominalmente **434 mortos e desaparecidos** e mais de 370 agentes responsáveis [@cnv2014]. Aqui, os fatos são estabelecidos; o que legitimamente se discute — e a distinção é essencial — são **interpretações**: o peso relativo das causas de 1964, o caráter da resistência armada, a avaliação do desempenho econômico do período (@sec-ditadura-militar).
+
+::: {#fig-revisionismo-negacionismo}
+
+```{.tikz}
+%%| filename: fig-revisionismo-negacionismo
+%%| alt: Diagrama comparando revisionismo historiográfico e negacionismo, com seus procedimentos e o teste prático para distingui-los.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \node[draw, very thick, rounded corners, fill=manualgreen!16, align=left, text width=6.7cm] (r) at (-3.65,1.5)
+    {\textbf{REVISIONISMO HISTORIOGRÁFICO}\\ \textit{a ciência funcionando}\\[3pt]
+     Revisa interpretações porque surgem:\\
+     $\cdot$ \textbf{fontes novas} (arquivos abertos, achados)\\
+     $\cdot$ \textbf{métodos novos} (carbono, análise serial,\\ \phantom{$\cdot$ }história oral, genética)\\
+     $\cdot$ \textbf{perguntas novas} (mulheres, escravizados,\\ \phantom{$\cdot$ }cotidiano, meio ambiente)\\[3pt]
+     \textbf{Segue a evidência} e aceita ser refutado.\\ Publica e se submete à \textbf{avaliação por pares}.};
+
+  \node[draw, very thick, rounded corners, fill=manualred!14, align=left, text width=6.7cm] (n) at (3.65,1.5)
+    {\textbf{NEGACIONISMO}\\ \textit{fraude com aparência de pesquisa}\\[3pt]
+     $\cdot$ parte da \textbf{conclusão desejada}\\
+     $\cdot$ \textbf{ignora ou falsifica} o que contraria\\
+     $\cdot$ confunde \textbf{lacuna com refutação}\\
+     $\cdot$ exige prova \textbf{impossível} de um lado e\\ \phantom{$\cdot$ }\textbf{nenhuma} do outro\\
+     $\cdot$ converte a rejeição acadêmica em\\ \phantom{$\cdot$ }prova de \textbf{perseguição}\\
+     $\cdot$ \textbf{evita} o escrutínio de pares};
+
+  \node[draw, thick, rounded corners, fill=manualyellow!24, align=center, text width=13.9cm] (te) at (0,-1.35)
+    {\textbf{O TESTE PRÁTICO:} pergunte \textbf{``o que faria você mudar de ideia?''}\\
+     O historiador responde: \textit{documentos que mostrassem o contrário} --- e sabe dizer quais.\\ O negacionista não tem resposta: sua posição não deriva de evidência e, por isso, \textbf{não pode ser alterada por evidência}.};
+
+  \draw[vetor, thick, manualgray] (r) -- (te); \draw[vetor, thick, manualgray] (n) -- (te);
+
+  \node[draw, dashed, rounded corners, fill=manualblue!12, align=center, text width=13.9cm] at (0,-3.1)
+    {\textbf{Aplicação ao Brasil:} sobre a ditadura de 1964--85, os \textbf{fatos} estão estabelecidos (arquivos do regime,\\ \textit{Brasil: Nunca Mais}, CNV com \textbf{434} mortos e desaparecidos). O que legitimamente se discute são \textbf{interpretações}\\ --- causas de 1964, caráter da luta armada, avaliação econômica. \textbf{Interpretações divergem; fatos não são opinião.}};
+\end{tikzpicture}
+```
+
+Revisionismo e negacionismo: procedimentos opostos e o teste que os distingue.
+:::
+
+## Memória, esquecimento e justiça de transição {#sec-memoria-justica-transicao}
+
+::: {.callout-note title="História e memória não são a mesma coisa"}
+A distinção, formulada por **Maurice Halbwachs** [@halbwachs2006] e desenvolvida por **Pierre Nora** [@nora1993], é decisiva:
+
+- A **memória** é vivida, afetiva, seletiva, plural, ligada a grupos concretos e ao presente. Ela **atualiza** o passado, e é legítimo que o faça: ninguém deve neutralidade em relação à própria vida.
+- A **História** é uma operação **crítica**, que submete o passado a procedimentos de verificação, contextualização e comparação, e que aceita ser refutada por evidências.
+
+Ambas são necessárias e nenhuma substitui a outra. O historiador **estuda** a memória — ela é fonte preciosa sobre o presente de quem lembra — sem tomá-la como relato transparente do que ocorreu. E o historiador tampouco pode desprezá-la: **Michael Pollak** mostrou que **silêncios** não são vazios, e sim resultado de relações de poder — há memórias subterrâneas que sobrevivem à margem da versão oficial e emergem quando as condições políticas mudam [@pollak1989].
+
+**Tzvetan Todorov** advertiu contra os "**abusos da memória**": tanto o **esquecimento imposto**, típico das ditaduras, quanto a **sacralização** da memória, que transforma o sofrimento passado em capital moral inquestionável e, no limite, em licença para agir no presente [@todorovAbusos2000].
+:::
+
+**Justiça de transição** é o conjunto de mecanismos pelos quais uma sociedade lida com violações massivas de direitos cometidas por um regime anterior. Suas quatro dimensões, reconhecidas internacionalmente: **verdade** (apuração e revelação), **justiça** (responsabilização), **reparação** (às vítimas) e **garantias de não repetição** (reformas institucionais).
+
+**A comparação latino-americana é o melhor material didático disponível sobre o tema.**
+
+- **Argentina.** A **Conadep** produziu o relatório *Nunca Más* (1984), e os comandantes das juntas foram **julgados e condenados** já em 1985 [@conadep1984]. Leis de anistia posteriores interromperam os processos, mas foram **anuladas** em 2003, e os julgamentos foram retomados: centenas de agentes foram condenados, muitos cumprem pena, e os processos continuam. É o caso mais completo de justiça de transição no continente.
+- **Chile.** Comissão Rettig (1991) e, depois, a Comissão Valech sobre tortura; **Pinochet** chegou a ser detido em Londres em 1998 a pedido de um juiz espanhol — episódio que marcou a história do direito internacional — e enfrentava processos quando morreu, em 2006, sem condenação definitiva [@rettig1991].
+- **África do Sul.** A **Comissão da Verdade e Reconciliação**, de **Desmond Tutu**, ofereceu **anistia condicionada à confissão pública e completa**, com audiências transmitidas. Priorizou a verdade sobre a punição — modelo elogiado por evitar uma guerra civil e criticado por vítimas que consideraram a impunidade um preço alto demais (@sec-movimentos-por-direitos).
+- **Alemanha.** O caso mais longo e mais completo: julgamentos de Nuremberg, desnazificação, julgamentos posteriores conduzidos pelos próprios alemães (Auschwitz, Frankfurt, 1963–65), indenizações, criminalização da negação, e uma política de memória deliberada — memoriais, museus, currículo escolar obrigatório, as *Stolpersteine* ("pedras de tropeço") diante das casas de onde pessoas foram levadas. A palavra alemã *Vergangenheitsbewältigung* — "elaboração do passado" — não tem tradução simples e nomeia um trabalho social de décadas, que não foi automático nem imediato: os anos 1950 foram de silêncio, e a virada veio nos anos 1960, empurrada pela geração seguinte.
+
+**O caso brasileiro.** A **Lei da Anistia** (1979), conquista do movimento pela anistia e da sociedade civil, foi interpretada como **bilateral**: anistiou tanto os perseguidos quanto os agentes do Estado [@leiAnistia1979]. Em **2010**, o **STF** confirmou essa interpretação; poucos meses depois, a **Corte Interamericana de Direitos Humanos**, no caso **Gomes Lund** (Guerrilha do Araguaia), condenou o Brasil, decidindo que anistias para graves violações de direitos humanos são incompatíveis com a Convenção Americana [@gomesLund2010]. A tensão entre as duas decisões permanece sem solução. Houve **reparação** (Comissão de Anistia, indenizações) e houve **verdade parcial** (Comissão Nacional da Verdade, 2011–2014, que identificou 434 mortos e desaparecidos e nomeou responsáveis), mas praticamente **nenhuma responsabilização penal** e reformas institucionais limitadas — a polícia militar, por exemplo, manteve estrutura militarizada [@teles2010]. Muitos analistas relacionam essa transição incompleta à persistência da tortura em delegacias e presídios e à baixa responsabilização por violência de Estado no Brasil democrático.
+
+::: {#fig-justica-de-transicao}
+
+```{.tikz}
+%%| filename: fig-justica-de-transicao
+%%| alt: Diagrama comparativo da justiça de transição em Argentina, Chile, África do Sul, Alemanha e Brasil, segundo as quatro dimensões.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \node[draw, very thick, rounded corners, fill=manualgray!16, align=center, text width=13.8cm] (t) at (0,3.5)
+    {\textbf{JUSTIÇA DE TRANSIÇÃO} --- as quatro dimensões\\
+     \textbf{VERDADE} (apurar e revelar) $\cdot$ \textbf{JUSTIÇA} (responsabilizar) $\cdot$ \textbf{REPARAÇÃO} (às vítimas) $\cdot$ \textbf{NÃO REPETIÇÃO} (reformar instituições)};
+
+  \node[draw, thick, rounded corners, fill=manualgreen!16, align=left, text width=6.6cm] (ar) at (-3.7,1.35)
+    {\textbf{ARGENTINA} --- o caso mais completo\\[2pt]
+     \textit{Nunca Más} (Conadep, 1984) $\cdot$ juntas \textbf{julgadas e}\\ \textbf{condenadas} em 1985 $\cdot$ leis de anistia \textbf{anuladas}\\ em 2003 $\cdot$ centenas de condenações, processos\\ \textbf{ainda em curso}};
+
+  \node[draw, thick, rounded corners, fill=manualblue!14, align=left, text width=6.6cm] (as) at (3.7,1.35)
+    {\textbf{ÁFRICA DO SUL} --- verdade antes de punição\\[2pt]
+     Comissão da Verdade e Reconciliação (Tutu):\\ \textbf{anistia condicionada à confissão pública}\\ e completa, em audiências transmitidas.\\ Elogiada por evitar guerra civil; criticada\\ por vítimas pela impunidade.};
+
+  \node[draw, thick, rounded corners, fill=manualyellow!24, align=left, text width=6.6cm] (al) at (-3.7,-1.15)
+    {\textbf{ALEMANHA} --- elaboração de longo prazo\\[2pt]
+     Nuremberg $\cdot$ desnazificação $\cdot$ julgamentos\\ \textbf{pelos próprios alemães} (Auschwitz, 1963--65)\\ $\cdot$ indenizações $\cdot$ negação \textbf{criminalizada}\\ $\cdot$ memoriais, currículo, \textit{Stolpersteine}.\\ \textbf{Não foi automática:} os anos 1950 foram de silêncio.};
+
+  \node[draw, thick, rounded corners, fill=manualred!14, align=left, text width=6.6cm] (br) at (3.7,-1.15)
+    {\textbf{BRASIL} --- transição incompleta\\[2pt]
+     \textbf{Lei da Anistia} (1979) lida como \textbf{bilateral};\\ confirmada pelo \textbf{STF} (2010) e contrariada pela\\ \textbf{Corte Interamericana} (\textit{Gomes Lund}, 2010).\\ \textbf{Reparação:} sim $\cdot$ \textbf{Verdade:} parcial (CNV, 2014:\\ 434 mortos e desaparecidos) $\cdot$ \textbf{Justiça penal:}\\ praticamente nenhuma $\cdot$ \textbf{Reformas:} limitadas.};
+
+  \draw[vetor, thick, manualgray] (t) -- (ar); \draw[vetor, thick, manualgray] (t) -- (as);
+
+  \node[draw, dashed, rounded corners, fill=manualgray!14, align=center, text width=13.8cm] at (0,-3.15)
+    {\textbf{A pergunta que a comparação permite formular:} há relação entre o grau de responsabilização pelo passado\\ e a persistência da violência de Estado no presente? É uma hipótese \textbf{investigável}, não uma sentença --- e é\\ exatamente esse tipo de pergunta que a comparação histórica torna possível.};
+\end{tikzpicture}
+```
+
+Cinco modelos de justiça de transição, comparados pelas quatro dimensões.
+:::
+
+## Monumentos, nomes e datas: a memória como disputa {#sec-monumentos-disputa}
+
+Estátuas derrubadas, ruas renomeadas, feriados criados e extintos: as disputas por símbolos multiplicaram-se em todo o mundo — estátuas de traficantes de escravizados no Reino Unido, de confederados nos Estados Unidos, de Colombo nas Américas, de bandeirantes no Brasil.
+
+::: {.callout-warning title="Como analisar essas disputas historicamente"}
+Comece por deslocar a pergunta. Em vez de "devemos ou não derrubar?", pergunte primeiro: **quando, por quem e para quê o monumento foi erguido?** As respostas costumam ser surpreendentes e mudam o debate.
+
+- A maioria dos monumentos confederados nos Estados Unidos **não** foi erguida logo após a Guerra Civil (1865), e sim em dois picos: no início do século XX, durante a consolidação das leis **Jim Crow**, e nos anos 1950–60, durante o movimento por direitos civis (@sec-movimentos-por-direitos). Não eram memória espontânea: eram **mensagens políticas** dirigidas ao presente de quem as ergueu.
+- A glorificação dos **bandeirantes** em São Paulo é obra do século XX, ligada à construção de uma identidade paulista de vanguarda e desbravadora, no contexto da industrialização e da disputa política de 1932. A estátua de Borba Gato é de **1963**, não do século XVII.
+
+**Os argumentos em disputa, com seus melhores termos.**
+
+- **Pela remoção:** um monumento em praça pública não é registro neutro, é **homenagem**. Manter em posição de honra a estátua de um escravizador comunica que a sociedade o honra. Museus preservam a memória sem honrar.
+- **Pela permanência:** remover pode empobrecer o registro material do passado e alimentar a acusação de "apagar a história"; e os critérios de julgamento podem ser aplicados de forma inconsistente, já que praticamente nenhuma figura histórica passa incólume pelos valores atuais.
+- **Terceira via, hoje a mais praticada:** **ressignificar**. Manter o objeto e alterar seu contexto — nova placa explicativa, contramonumento ao lado, obra artística que responde, deslocamento para museu com curadoria. Bogotá, Berlim e várias cidades adotaram versões dessa solução.
+
+**A observação decisiva:** não existe opção neutra. Manter é uma decisão; remover é uma decisão; renomear é uma decisão. Toda sociedade escolhe continuamente o que celebrar, e essas escolhas **sempre** foram políticas — inclusive quando pareciam naturais por serem antigas.
+:::
+
+O mesmo raciocínio vale para **datas**. Que o **20 de novembro** (morte de Zumbi) tenha sido proposto pelo movimento negro como alternativa ao **13 de maio** (Lei Áurea) é uma disputa sobre quem é o sujeito da liberdade: a princesa que assina ou o povo que resiste (@sec-historia-indigena-afrobrasileira). Que o **12 de outubro** seja "Dia de Colombo" em alguns países e "Dia da Resistência Indígena" em outros diz tudo sobre o que está em jogo.
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+**1. A história do tempo presente como campo.** Por muito tempo, a academia sustentou que o historiador só deveria tratar de períodos encerrados — regra que, no fundo, era uma exigência de acesso a arquivos e de segurança quanto às consequências. O historiador francês **Henry Rousso**, estudando a memória do regime de Vichy, formulou a resposta que consolidou o campo: o presente **é** objeto legítimo, desde que se explicitem as condições particulares do trabalho [@rousso2016]. Sua noção de "**última catástrofe**" descreve como cada sociedade organiza sua relação com o passado em torno do evento traumático mais recente, que se torna a lente pela qual todos os outros são lidos.
+
+As condições específicas são as que este manual já enunciou (@sec-nova-ordem-mundial): arquivos fechados, testemunhas vivas — o que é vantagem e risco —, ausência de distância para avaliar consequências, e implicação pessoal do pesquisador. Rousso acrescenta um ponto próprio: no tempo presente, o historiador **compete** com outras autoridades sobre o passado — jornalistas, juízes, comissões da verdade, memorialistas — e precisa definir com clareza o que o distingue delas.
+
+**2. O juiz e o historiador.** **Carlo Ginzburg** escreveu um livro breve e agudo sobre essa distinção, motivado por um caso judicial italiano em que se sentiu obrigado a intervir [@ginzburg2002]. Juiz e historiador compartilham o trabalho com provas, indícios e testemunhos. Mas diferem em três pontos fundamentais:
+
+- **O juiz precisa decidir**, num prazo, entre culpado e inocente. O historiador pode concluir que a evidência é insuficiente e **suspender o juízo** — e frequentemente deve.
+- **O juiz julga indivíduos**; o historiador busca **contextos**, estruturas e processos, e "explicar" nunca equivale a "absolver".
+- **O juiz opera com regras de admissibilidade** — provas ilícitas são descartadas, prazos prescrevem. O historiador pode usar qualquer evidência disponível, e para ele **nada prescreve**.
+
+A conclusão de Ginzburg é a que interessa ao estudante: confundir os dois papéis prejudica ambos. Historiadores que atuam como promotores do passado abandonam a suspensão do juízo que é sua força; juízes que se pretendem historiadores decidem sobre o que não podem provar nos autos. A advertência tem aplicação direta no Brasil recente, em episódios em que decisões judiciais foram apresentadas como veredictos históricos.
+
+**3. Usos públicos do passado.** **Enzo Traverso** analisou os "modos de usar" o passado: como memórias são mobilizadas para legitimar projetos políticos no presente, quais eventos são lembrados, quais são silenciados, e como certas vítimas se tornam paradigmáticas enquanto outras permanecem invisíveis [@traverso2012]. Não se trata de denunciar o uso político da memória como distorção — é inevitável que sociedades usem seu passado. Trata-se de **tornar esse uso visível e discutível**, que é uma das funções públicas mais claras do ofício.
+
+**4. O que a História pode — e o que não pode — fazer.** Encerrar um manual exige alguma modéstia sobre a disciplina que ele apresenta.
+
+**A História não pode:**
+
+- **prever o futuro.** Não existem leis históricas que permitam antecipação. Os prognósticos deste volume — Fukuyama, Huntington — são o melhor argumento a favor dessa modéstia;
+- **fornecer lições diretas.** "A História ensina que..." costuma ser o começo de uma frase falsa. Contextos não se repetem, e analogias apressadas (chamar todo autoritarismo de "fascismo", todo acordo de "Munique") atrapalham mais do que ajudam;
+- **julgar moralmente com autoridade especial.** O historiador não tem acesso privilegiado ao bem e ao mal; tem acesso privilegiado à **evidência sobre o que ocorreu**;
+- **resolver disputas de valores.** Estabelecer o que aconteceu em 1948 na Palestina não determina o que se deve fazer hoje (@sec-oriente-medio).
+
+**A História pode:**
+
+- **estabelecer fatos** e desmontar falsificações, com métodos públicos e verificáveis;
+- **mostrar que o presente foi construído** — e que, tendo sido construído, pode ser transformado. É o antídoto contra o "sempre foi assim";
+- **ampliar o repertório do possível**, exibindo sociedades organizadas de modos que hoje pareceriam impensáveis;
+- **complicar as narrativas simples**, que são quase sempre as mais perigosas;
+- **dar voz ao que foi silenciado**, recuperando sujeitos que os arquivos oficiais não registraram;
+- **ensinar a duvidar com método** — que é diferente de duvidar de tudo, e é exatamente o oposto disso.
+
+**5. A última lição do manual: o ceticismo não é negacionismo.** Este manual insistiu, desde o primeiro capítulo, em que toda fonte tem autor, interesse e ponto de vista; em que toda interpretação é provisória; em que a História é construção. Há um risco embutido nesse ensinamento, e é preciso enfrentá-lo de frente: alguém pode concluir que, se tudo é construção, então nada é verdadeiro e qualquer versão vale tanto quanto outra. **Essa conclusão é falsa, e é precisamente o argumento que o negacionismo utiliza.**
+
+A diferença está no **método**. Dizer que o conhecimento histórico é construído significa que ele é produzido por procedimentos — crítica de fontes, comparação, contextualização, verificação, exposição pública ao escrutínio de pares que têm todo interesse em encontrar erros. Procedimentos podem ser **avaliados**: alguns resultam em conhecimento confiável, outros não. Que a interpretação da Revolução Francesa mude ao longo do tempo não significa que ela não aconteceu, nem que qualquer coisa possa ser dita sobre ela.
+
+O oposto do dogmatismo não é o "vale tudo" — é o **rigor**. E o rigor consiste, no fim, em três hábitos simples e exigentes: **pedir a fonte**, **verificar quem a produziu e por quê**, e **estar disposto a mudar de opinião diante de evidência melhor**. Se este manual conseguir deixar apenas isso, terá cumprido seu objetivo.
+
+## Resumo do capítulo {#sec-resumo}
+
+- **Recessão democrática:** desde ~2006, mais países retrocedem do que avançam. Democracias morrem hoje por **erosão gradual conduzida por governantes eleitos**, com instrumentos legais: aparelhamento dos árbitros, neutralização de adversários, mudança das regras e deslegitimação de imprensa, universidades e tribunais (**Levitsky e Ziblatt**).
+- **As duas normas não escritas:** **tolerância mútua** (reconhecer o adversário como legítimo) e **reserva institucional** (não usar todos os poderes legais até o limite). Nenhuma delas pode ser exigida judicialmente — e é justamente por isso que sua erosão é o alerta mais confiável.
+- **Populismo:** discurso que opõe "povo puro" a "elite corrupta"; não é de esquerda nem de direita, nem sinônimo de autoritarismo. O traço perigoso é o **antipluralismo** — pretender representar **o** povo, e não uma parte dele.
+- **Revisionismo × negacionismo.** **Revisionismo** é a ciência funcionando: novas fontes, novos métodos, novas perguntas. **Negacionismo** é fraude: parte da conclusão, seleciona evidências, confunde lacuna com refutação, exige prova impossível de um lado e nenhuma do outro, e não se submete à avaliação por pares. **Teste prático:** pergunte o que faria a pessoa mudar de ideia.
+- **Quatro negacionismos:** do **Holocausto** (**Vidal-Naquet**; caso Irving × Lipstadt, 2000); **científico organizado** ("a dúvida é o nosso produto" — **Oreskes e Conway**, do tabaco ao clima); **climático**; e **da ditadura brasileira** (contra os arquivos do regime, o *Brasil: Nunca Mais* e a **CNV**, com **434 mortos e desaparecidos** identificados).
+- **História × memória:** a memória é vivida, afetiva e seletiva; a História é operação crítica e refutável. **Halbwachs**, **Nora**, **Pollak** (os **silêncios** resultam de relações de poder; há memórias **subterrâneas**) e **Todorov** (os **abusos da memória**: tanto o esquecimento imposto quanto a sacralização).
+- **Justiça de transição** — quatro dimensões: **verdade**, **justiça**, **reparação**, **não repetição**. **Argentina** (julgamentos em 1985, anistias anuladas em 2003, processos em curso), **Chile** (Rettig; Pinochet detido em Londres em 1998, morto sem condenação), **África do Sul** (anistia condicionada à confissão pública), **Alemanha** (*Vergangenheitsbewältigung*, décadas de elaboração, iniciada só nos anos 1960) e **Brasil** (**Lei da Anistia** de 1979 lida como bilateral, confirmada pelo **STF** em 2010 e contrariada pela **Corte Interamericana** no caso **Gomes Lund**; reparação sim, verdade parcial, responsabilização penal praticamente nula).
+- **Monumentos:** a pergunta certa não é "derrubar ou não", mas **quando, por quem e para quê foram erguidos**. Monumentos confederados datam de picos em Jim Crow e nos anos 1960; a estátua de Borba Gato é de **1963**. Opções: remoção, permanência, **ressignificação** — e **não existe escolha neutra**. O mesmo vale para datas (13 de maio × **20 de novembro**; 12 de outubro).
+- **Historiografia:** a **história do tempo presente** como campo legítimo (**Rousso**, a "última catástrofe"); **Ginzburg** e as diferenças entre **o juiz e o historiador** (decidir × suspender o juízo; indivíduos × contextos; regras de admissibilidade × nenhuma prescrição); **Traverso** e os usos públicos do passado.
+- **Balanço final:** a História **não** prevê o futuro, **não** dá lições diretas, **não** julga com autoridade moral especial e **não** resolve disputas de valores. Ela **pode** estabelecer fatos, mostrar que o presente foi construído e é transformável, ampliar o repertório do possível, complicar narrativas simples e dar voz ao silenciado. E a lição que encerra o manual: **ceticismo não é negacionismo** — o oposto do dogmatismo é o **rigor**: pedir a fonte, verificar quem a produziu e por quê, e estar disposto a mudar de opinião diante de evidência melhor.
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Domine: (1) o roteiro da erosão democrática e as duas normas não escritas; (2) a definição precisa de populismo e o critério do antipluralismo; (3) a distinção revisionismo/negacionismo e o teste prático; (4) o mecanismo dos "mercadores da dúvida"; (5) história × memória; (6) as quatro dimensões da justiça de transição e a comparação entre países; (7) como analisar monumentos historicamente; (8) o que a História pode e não pode fazer.
+:::
+
+**1.** Explique como as democracias contemporâneas entram em processo de erosão.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**A mudança de padrão.** No século XX, democracias caíam sobretudo por **golpe** clássico: tanques nas ruas, rádio tomada, Congresso fechado, constituição suspensa — o modelo de 1964 no Brasil (@sec-ditadura-militar) e das ditaduras do Cone Sul (@sec-america-latina-ditaduras). Esse padrão tornou-se raro. Hoje, o processo mais comum é a **erosão gradual conduzida por governantes eleitos**, usando instrumentos formalmente legais [@levitsky2018].
+
+**O roteiro típico, em quatro movimentos.**
+
+1. **Capturar os árbitros.** Nomear aliados para tribunais superiores, tribunais de contas, órgãos eleitorais, agências reguladoras, procuradorias e comandos policiais. Cada nomeação, isoladamente, é uma prerrogativa legítima do cargo.
+2. **Neutralizar adversários.** Processos judiciais seletivos, auditorias fiscais dirigidas, retirada de publicidade oficial de veículos críticos, aquisição de emissoras por aliados, restrições ao financiamento de organizações da sociedade civil.
+3. **Mudar as regras do jogo.** Alterar regras eleitorais, redesenhar distritos, mudar quóruns, ampliar ou reduzir cortes, estender mandatos — tudo por vias formalmente constitucionais.
+4. **Deslegitimar permanentemente** imprensa, universidades, tribunais, institutos de pesquisa e o próprio sistema eleitoral, criando um público que só aceita como verdadeira a informação vinda do líder.
+
+**Por que é mais difícil de combater.** Não há um momento único e evidente de ruptura, contra o qual mobilizar. Cada passo é defensável isoladamente e frequentemente legal. Quando o conjunto se torna visível, os mecanismos de contenção — tribunais, imprensa, oposição — já foram enfraquecidos. E os defensores da democracia enfrentam a acusação de "golpismo" se tentam reagir por vias extraordinárias.
+
+**As duas normas não escritas — o ponto que distingue a boa resposta.**
+
+- **Tolerância mútua:** aceitar o adversário como **legítimo**, e não como inimigo existencial ou traidor da pátria. Sem isso, derrotá-lo por qualquer meio passa a parecer justificável.
+- **Reserva institucional:** **não usar até o limite** todos os poderes legais disponíveis. Um presidente pode legalmente indultar aliados, vetar tudo, governar por decreto; um Congresso pode legalmente travar todas as nomeações e todos os orçamentos. Se ambos os lados usarem tudo o que a lei permite, o sistema entra em colapso **sem que ninguém tenha violado a lei**.
+
+A conclusão incômoda: a democracia depende de comportamentos que **não podem ser exigidos judicialmente**. Nenhuma constituição obriga alguém a reconhecer a legitimidade do adversário — e é por isso que a erosão dessas normas é o indicador de alerta mais confiável.
+
+**Os fatores associados.** Consequências da **crise de 2008** e a percepção de impunidade dos responsáveis (@sec-globalizacao-neoliberalismo); aumento da **desigualdade** e estagnação de renda; **desindustrialização** regional; reação identitária a fluxos migratórios; enfraquecimento dos partidos como mediadores; e o ambiente informacional de desinformação, segmentação e economia da atenção (@sec-sociedade-em-rede).
+
+**A ressalva que evita o fatalismo.** Erosão **não é destino**. Vários países interromperam o processo por meio de eleições, decisões judiciais, mobilização social e coalizões amplas entre adversários que se reconheceram como legítimos. Descrever o mecanismo serve justamente para reconhecê-lo a tempo — que é a utilidade prática mais direta que a análise histórica e política pode oferecer.
+:::
+
+**2.** Diferencie **revisionismo historiográfico** de **negacionismo**, com exemplos.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Revisionismo historiográfico: a disciplina funcionando.** Rever interpretações é o modo **normal** de operar da História, e uma disciplina que não revisasse suas conclusões estaria morta. As revisões ocorrem por três motivos:
+
+1. **Fontes novas:** arquivos abertos por decurso de prazo, documentos desclassificados, achados arqueológicos. Exemplo: a desclassificação dos arquivos israelenses nos anos 1980, que permitiu aos "novos historiadores" reverem pontos centrais da narrativa oficial sobre 1948 (@sec-oriente-medio).
+2. **Métodos novos:** datação por radiocarbono, análise serial de registros paroquiais, história oral, genética de populações. Exemplo: a revisão das datas do povoamento da América (@sec-pre-historia-brasil-america).
+3. **Perguntas novas:** quando se pergunta pelas mulheres, pelos escravizados, pelo cotidiano ou pelo meio ambiente, vê-se o que estava documentado e não fora percebido. Exemplos: a **agência dos escravizados** documentada por Chalhoub, Reis e Slenes; a **nova história indígena** de Manuela Carneiro da Cunha (@sec-historia-indigena-afrobrasileira).
+
+**Negacionismo: fraude com aparência de pesquisa.** É a negação de fatos **estabelecidos**, motivada politicamente, e caracteriza-se por procedimentos identificáveis:
+
+- **Parte da conclusão** e busca apenas o que a confirma, em vez de seguir a evidência.
+- **Ignora ou falsifica** o que contraria a tese, em vez de explicá-lo.
+- **Confunde lacuna com refutação:** se um detalhe não está documentado, alega-se que o conjunto é falso. Como nenhum evento histórico está documentado em cada detalhe, o método permite negar qualquer coisa.
+- **Aplica padrões duplos de prova:** exigência impossível para o que quer negar, nenhuma exigência para o que quer afirmar.
+- **Converte a rejeição em prova:** ser rejeitado pela academia é apresentado como evidência de perseguição e conspiração.
+- **Evita o escrutínio de pares:** não publica em periódicos revisados, dirige-se diretamente ao público.
+
+**Os exemplos.**
+
+- **Holocausto:** **Pierre Vidal-Naquet** analisou o método dos negadores em *Os assassinos da memória* e recusou deliberadamente debatê-los em pé de igualdade, porque o debate público, por si, já concede status de controvérsia ao que não é controverso [@vidalNaquet1988]. No processo Irving × Lipstadt (Londres, 2000), o tribunal concluiu que o negacionista havia **distorcido evidências deliberadamente**.
+- **Científico organizado:** **Oreskes e Conway** documentaram que os mesmos grupos foram sucessivamente contratados para semear dúvida sobre tabaco, chuva ácida, ozônio e clima [@oreskes2022]. Um memorando interno da indústria do tabaco resume a estratégia: "**a dúvida é o nosso produto**". Não era preciso provar que o cigarro não faz mal — bastava manter a impressão de que os cientistas discordavam, e a regulação seria adiada.
+- **Ditadura brasileira:** negar que houve ditadura ou tortura sistemática colide com os arquivos do próprio regime, com o projeto **Brasil: Nunca Mais** [@arns1985] e com a **CNV**, que identificou **434 mortos e desaparecidos** e mais de 370 agentes [@cnv2014].
+
+**A distinção que precisa ficar clara, e é o núcleo da questão.** Sobre a ditadura brasileira, **os fatos estão estabelecidos**; o que legitimamente se discute são **interpretações**: o peso relativo das causas de 1964, a avaliação da resistência armada, o desempenho econômico do período. Discordar dessas interpretações é revisionismo legítimo. Negar que houve tortura sistemática é negacionismo. **Interpretações divergem; fatos estabelecidos não são opinião.**
+
+**O teste prático.** Pergunte a quem defende uma tese: **o que faria você mudar de ideia?** O historiador responde: documentos que mostrassem o contrário, e é capaz de especificar quais. O negacionista não tem resposta, porque sua posição não deriva de evidência e, portanto, não pode ser alterada por evidência.
+:::
+
+**3.** Explique a diferença entre **História** e **memória**, e por que ambas importam.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**A memória.** É a relação **vivida** com o passado. Suas características:
+
+- **Afetiva:** carregada de emoção, ligada a experiências pessoais e de grupo.
+- **Seletiva:** guarda o que importa a quem lembra e descarta o resto — sem que isso seja falsificação, e sim o modo normal de funcionamento da memória.
+- **Plural:** cada grupo tem a sua, e memórias diferentes do mesmo evento coexistem e disputam.
+- **Presentista:** é sempre reconstruída **a partir do presente**. **Maurice Halbwachs** mostrou que a memória é **coletiva**: lembramos dentro de quadros sociais fornecidos pelos grupos a que pertencemos [@halbwachs2006].
+- **Legítima em sua parcialidade:** ninguém deve neutralidade em relação à própria vida.
+
+**A História.** É uma operação **crítica** sobre o passado:
+
+- submete as fontes a **verificação**, contextualização e comparação;
+- busca **explicar**, não apenas registrar;
+- aceita ser **refutada** por evidências;
+- expõe-se ao escrutínio público de pares que têm interesse em encontrar erros;
+- aspira a validade **para além** do grupo de quem a escreve.
+
+**A relação entre as duas — três pontos que a questão pede.**
+
+1. **A memória é fonte para a História, não substituta dela.** Um depoimento não é o que aconteceu: é o que a pessoa reconstrói hoje sobre o que viveu, com todas as reelaborações do intervalo. Isso não o desqualifica — torna-o uma fonte **dupla**, sobre o evento e sobre o presente de quem lembra (@sec-fontes-historicas).
+2. **A História estuda a memória.** Como um evento foi lembrado, comemorado, silenciado ou instrumentalizado ao longo do tempo é um objeto histórico de pleno direito — é o campo dos "**lugares de memória**" de **Pierre Nora** [@nora1993] (@sec-memoria-patrimonio).
+3. **Os silêncios não são vazios.** **Michael Pollak** mostrou que o que não se diz resulta de relações de poder, e que existem **memórias subterrâneas** — de grupos derrotados, perseguidos ou marginalizados — que sobrevivem à margem da versão oficial e **emergem** quando as condições políticas mudam [@pollak1989]. Foi o que ocorreu com as memórias da ditadura brasileira após 1985, com as dos povos indígenas após 1988 e com as das vítimas do *apartheid* após 1994.
+
+**Os dois abusos, segundo Todorov** [@todorovAbusos2000]:
+
+- **O esquecimento imposto:** típico de regimes autoritários, que destroem arquivos, proíbem menções e reescrevem manuais. É a razão pela qual arquivos e comissões da verdade importam.
+- **A sacralização da memória:** transformar o sofrimento passado em capital moral inquestionável, imune a exame, e usá-lo como licença para agir no presente. Todorov, ele próprio de origem búlgara e crítico do totalitarismo, insistia que memória sem análise pode servir a qualquer causa.
+
+**Por que ambas importam.** Uma sociedade sem memória perde o vínculo afetivo com sua experiência e com suas vítimas; uma sociedade que só tem memória, sem História, fica à mercê de qualquer versão emocionalmente convincente. A memória fornece o **sentido**; a História fornece o **controle** — os procedimentos que permitem distinguir o que se sente do que se pode demonstrar. É essa combinação que permite dizer, com fundamento, que a ditadura brasileira torturou, e não apenas que alguém se lembra de ter sido torturado.
+:::
+
+**4.** (Estilo ENEM) Leia o texto:
+
+> "Nosso produto é a dúvida, uma vez que ela é o melhor meio de competir com o 'corpo de fatos' que existe na mente do público em geral. É também o meio de estabelecer uma controvérsia."
+>
+> — Memorando interno de uma empresa de tabaco, 1969, citado em *Mercadores da dúvida* [@oreskes2022]
+
+A estratégia descrita no documento consiste em
+
+**(a)** apresentar provas científicas de que o consumo de tabaco não causa danos à saúde.
+**(b)** produzir a impressão de que existe controvérsia científica onde há consenso, a fim de adiar a regulação.
+**(c)** financiar pesquisas independentes destinadas a confirmar os riscos do tabagismo.
+**(d)** reconhecer publicamente os danos do produto e propor medidas de mitigação.
+**(e)** substituir a publicidade tradicional por campanhas educativas sobre saúde pública.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Resposta: (b).**
+
+**Por quê.** O documento é explícito, e é essa explicitude que o torna uma fonte histórica extraordinária. Note o que ele **não** diz: não afirma que o produto seja seguro nem promete provar isso. O objetivo declarado é "**estabelecer uma controvérsia**" e competir com o "corpo de fatos" existente na mente do público.
+
+O raciocínio estratégico é o seguinte: para adiar a regulação, **não é necessário vencer o debate científico** — é suficiente que o público acredite que os cientistas ainda discordam. Diante de uma aparente divisão entre especialistas, a resposta política natural é "vamos aguardar mais estudos". E cada ano de espera é um ano de vendas.
+
+**Por que as demais estão erradas.**
+
+- **(a)** O texto não menciona provas nem promete produzi-las; fala em **fabricar dúvida**, o que é diferente.
+- **(c)** Financiar pesquisa independente para confirmar riscos é o oposto do que o memorando descreve.
+- **(d)** Não há reconhecimento de danos, e sim tentativa de disputar a percepção pública sobre eles.
+- **(e)** Nada no texto trata de campanhas educativas.
+
+**O alcance histórico, que a questão convida a perceber.** **Oreskes e Conway** documentaram que a mesma estratégia — e, em vários casos, os mesmos indivíduos e institutos — foi empregada sucessivamente contra as evidências sobre **tabaco**, **chuva ácida**, **buraco na camada de ozônio** e **mudança climática** [@oreskes2022]. Não se trata de coincidência nem de teoria conspiratória: é um método replicado, documentado em memorandos internos revelados em processos judiciais.
+
+**Os elementos recorrentes do método:**
+
+1. **Financiar cientistas dissidentes** com credenciais reais, que dão respeitabilidade à posição minoritária.
+2. **Explorar a norma jornalística do equilíbrio** — "ouvir os dois lados" —, que numa questão com consenso de 97% produz uma representação distorcida da realidade ao dar 50% do espaço a cada posição.
+3. **Enfatizar a incerteza residual**, que existe em toda ciência, apresentando-a como se fosse incerteza sobre a conclusão central.
+4. **Atacar os cientistas pessoalmente**, em vez de responder aos dados.
+5. **Enquadrar a regulação como ameaça à liberdade individual** e à economia.
+
+**A lição para o estudante — e é a razão pela qual esse texto está num manual de História.** Saber **quem financia** uma pesquisa, **quem produz** um documento e **com que finalidade** é exatamente a crítica de fontes que este manual pratica desde o primeiro capítulo (@sec-fontes-historicas). O memorando de 1969 é uma fonte primária que revela, com clareza incomum, a intenção de seu autor — e é justamente por isso que documentos internos, não destinados à publicação, são tão valiosos para o historiador.
+:::
+
+**5.** Compare a **justiça de transição** no Brasil com a de outros países da região.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**O conceito.** **Justiça de transição** é o conjunto de mecanismos pelos quais uma sociedade lida com violações massivas de direitos humanos cometidas por um regime anterior. Suas quatro dimensões: **verdade** (apurar e revelar), **justiça** (responsabilizar), **reparação** (às vítimas) e **garantias de não repetição** (reformar as instituições).
+
+**Argentina — o caso mais completo.** A ditadura (1976–83) terminou desmoralizada pela derrota na Guerra das Malvinas, o que enfraqueceu a capacidade dos militares de negociar sua própria saída — variável decisiva para explicar o desfecho. A **Conadep** produziu o relatório *Nunca Más* (1984) [@conadep1984], e já em **1985** os comandantes das juntas foram **julgados e condenados** em tribunal civil. Leis posteriores (Ponto Final, Obediência Devida) e indultos interromperam os processos, mas foram **anulados em 2003**; desde então, centenas de agentes foram condenados, muitos cumprem pena, e novos processos continuam.
+
+**Chile.** A transição foi negociada, e Pinochet deixou o poder mantendo o comando do Exército e uma cadeira vitalícia no Senado. Houve a **Comissão Rettig** (1991), sobre mortes e desaparecimentos, e depois a **Comissão Valech**, sobre tortura [@rettig1991]. Pinochet foi **detido em Londres em 1998**, a pedido do juiz espanhol Baltasar Garzón — episódio que se tornou marco do direito internacional, ao afirmar que crimes contra a humanidade não conhecem fronteiras nem imunidade —, mas morreu em 2006 processado e sem condenação definitiva.
+
+**Brasil — transição incompleta.** A saída foi "lenta, gradual e segura", conduzida pelos próprios militares (@sec-redemocratizacao-nova-republica). A **Lei da Anistia** (1979), conquistada por ampla mobilização social, foi interpretada como **bilateral**: anistiou tanto os perseguidos quanto os agentes do Estado [@leiAnistia1979]. Em **2010**, o **STF** confirmou essa leitura; meses depois, a **Corte Interamericana de Direitos Humanos**, no caso **Gomes Lund** (Guerrilha do Araguaia), condenou o Brasil, decidindo que anistias para graves violações são incompatíveis com a Convenção Americana [@gomesLund2010]. A tensão entre as duas decisões permanece.
+
+Pelas quatro dimensões:
+
+- **Verdade: parcial.** A **CNV** (2011–2014) identificou **434 mortos e desaparecidos** e nomeou mais de 370 agentes responsáveis [@cnv2014]. Antes dela, o projeto **Brasil: Nunca Mais** (1985) já havia reunido clandestinamente documentação a partir de processos da Justiça Militar [@arns1985]. Muitos corpos jamais foram localizados e arquivos militares permanecem inacessíveis.
+- **Justiça: praticamente inexistente.** Nenhum agente foi condenado criminalmente por tortura, assassinato ou desaparecimento no período.
+- **Reparação: significativa.** Comissão de Anistia, indenizações, reconhecimento oficial da responsabilidade do Estado.
+- **Não repetição: limitada.** Reformas institucionais modestas; a polícia militar manteve estrutura militarizada, e as Forças Armadas não passaram por revisão interna de sua atuação [@teles2010].
+
+**África do Sul — o modelo alternativo.** A **Comissão da Verdade e Reconciliação** de **Desmond Tutu** ofereceu **anistia condicionada à confissão pública, completa e verificável**, em audiências transmitidas pelo rádio e pela televisão. Priorizou a **verdade** sobre a **punição**, num país em que a punição generalizada poderia significar guerra civil. É elogiado por ter viabilizado a transição e criticado por vítimas para quem a impunidade foi um preço alto demais (@sec-movimentos-por-direitos).
+
+**A conclusão comparativa — o que a questão premia.**
+
+1. **A forma da transição condiciona o resultado.** Onde o regime saiu **derrotado** (Argentina após as Malvinas, Alemanha após 1945), houve mais responsabilização. Onde saiu **negociando de posição de força** (Brasil, Chile), houve menos. Isso não é justificativa moral — é explicação histórica.
+2. **As dimensões podem ser dissociadas.** O Brasil obteve reparação sem justiça penal; a África do Sul obteve verdade sem punição; a Argentina obteve as quatro, mas ao longo de trinta anos e com retrocessos no meio.
+3. **A hipótese investigável.** Muitos analistas sugerem relação entre a ausência de responsabilização e a persistência da violência de Estado no Brasil democrático — tortura em delegacias e presídios, letalidade policial, baixa punição de agentes. É uma **hipótese**, não uma sentença: exige demonstração, e é justamente o tipo de pergunta que só a comparação histórica torna formulável.
+4. **Nada é definitivo.** A Argentina levou vinte anos para anular suas leis de anistia. Processos de justiça de transição não têm prazo de encerramento, e o que parece fechado pode reabrir.
+:::
+
+**6.** Como um historiador deve analisar as disputas contemporâneas sobre **monumentos**?
+
+::: {.callout-tip collapse="true" title="Solução"}
+**O primeiro movimento: deslocar a pergunta.** Antes de perguntar "devemos derrubar?", pergunte "**quando, por quem, com que dinheiro e para quê este monumento foi erguido?**". Essa mudança transforma a discussão, porque monumentos raramente são contemporâneos ao que representam.
+
+**Os exemplos que mudam o debate.**
+
+- A maioria dos monumentos confederados nos Estados Unidos **não** foi erguida logo após a Guerra Civil (1865). Concentram-se em dois picos: o início do século XX, durante a consolidação das leis **Jim Crow**, e os anos 1950–60, durante o movimento por direitos civis (@sec-movimentos-por-direitos). Não eram memória espontânea de veteranos: eram **declarações políticas** sobre quem mandava, dirigidas ao presente de quem as ergueu.
+- No Brasil, a glorificação dos **bandeirantes** é obra do século XX, ligada à construção de uma identidade paulista de vanguarda desbravadora, no contexto da industrialização e da disputa política dos anos 1930. O **Monumento às Bandeiras** é de 1953; a estátua de **Borba Gato** é de **1963**.
+
+Uma vez estabelecido isso, a discussão muda de natureza: não se trata de "apagar o século XVII", e sim de avaliar uma **escolha do século XX** — que foi política e pode ser politicamente revista, como qualquer outra.
+
+**Os argumentos em disputa, apresentados em seus melhores termos.**
+
+**Pela remoção:**
+
+- Um monumento em praça pública **não é registro neutro**: é **homenagem**. Manter em posição de honra a estátua de um escravizador comunica, institucionalmente, que a sociedade o honra.
+- Museus e arquivos preservam a memória **sem honrar** — é possível conhecer sem celebrar.
+- Quem convive diariamente com a estátua de quem escravizou seus antepassados não está num debate abstrato.
+
+**Pela permanência:**
+
+- Remoção pode empobrecer o registro material e alimentar a acusação de "apagamento", que costuma mobilizar politicamente contra a própria causa.
+- Os critérios podem ser aplicados de forma inconsistente: praticamente nenhuma figura histórica sobrevive intacta aos valores atuais, e uma limpeza radical esvaziaria as praças.
+- **Risco de anacronismo**, que este manual combate desde o primeiro capítulo: julgar o passado exclusivamente pelos valores do presente impede compreendê-lo (@sec-o-que-e-historia).
+
+**A terceira via, hoje a mais praticada: ressignificar.** Manter o objeto e **alterar seu contexto**: nova placa que informe o que a antiga omitia, contramonumento ao lado, intervenção artística que responda, deslocamento para museu com curadoria explicativa, ou o modelo dos **parques de estátuas** adotado em países pós-socialistas, que reuniu monumentos removidos num espaço de exposição crítica.
+
+**A observação decisiva, e é ela que caracteriza a resposta de nível superior: não existe opção neutra.** Manter é uma decisão. Remover é uma decisão. Renomear, criar feriado, extinguir feriado — todas são decisões. Toda sociedade escolhe continuamente o que celebrar em seu espaço público, e essas escolhas **sempre** foram políticas, inclusive quando pareciam naturais apenas por serem antigas. A ilusão de neutralidade da paisagem urbana é, ela própria, um efeito histórico: o que está lá há muito tempo deixa de ser visto como escolha.
+
+**O mesmo raciocínio aplicado a datas.** O movimento negro propôs o **20 de novembro** — morte de **Zumbi** — como alternativa ao **13 de maio** — Lei Áurea. A disputa é sobre quem é o **sujeito** da liberdade: a princesa que assina ou o povo que resiste (@sec-historia-indigena-afrobrasileira). Que o **12 de outubro** seja "Dia de Colombo" em alguns países e "Dia da Resistência Indígena" em outros exprime a mesma disputa.
+
+**A contribuição específica do historiador.** Não é decidir — essa decisão é política e cabe à sociedade. É **fornecer a informação** que permite decidir bem: quem foi a pessoa homenageada, o que fez, quando e por que o monumento foi erguido, quem o financiou, o que a placa diz e o que omite. Uma sociedade que decide **sabendo** decide melhor do que uma que decide por reflexo — em qualquer dos sentidos.
+:::
+
+**7.** (Estilo vestibular) Explique o que a História pode e o que não pode oferecer diante dos desafios do presente.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**O que a História NÃO pode fazer.**
+
+1. **Prever o futuro.** Não existem leis históricas que autorizem previsão. Este próprio volume oferece a demonstração: **Fukuyama** anunciou o fim da História em 1989 e viu o mundo produzir guerras, autoritarismos e disputas ideológicas nas décadas seguintes; **Huntington** previu conflitos entre civilizações e a maior parte da violência ocorreu **dentro** de cada bloco (@sec-nova-ordem-mundial). Previsão é o produto mais perecível do trabalho intelectual.
+2. **Fornecer lições diretas.** "A História ensina que..." costuma iniciar uma frase falsa. Contextos não se repetem, e analogias apressadas — chamar todo autoritarismo de "fascismo", todo acordo diplomático de "Munique", toda crise de "1929" — dispensam a análise em vez de substituí-la.
+3. **Julgar moralmente com autoridade especial.** O historiador não tem acesso privilegiado ao bem e ao mal. Tem acesso privilegiado à **evidência sobre o que aconteceu** — o que é muito, e é diferente.
+4. **Resolver disputas de valores.** Estabelecer o que ocorreu na Palestina em 1948 não determina o que se deve fazer hoje (@sec-oriente-medio). Fatos delimitam o debate; não o encerram.
+
+**O que a História PODE fazer.**
+
+1. **Estabelecer fatos e desmontar falsificações.** Com métodos públicos, verificáveis e submetidos a crítica. Contra o negacionismo, essa é a contribuição mais direta e mais necessária.
+2. **Mostrar que o presente foi construído.** Instituições, fronteiras, hierarquias, desigualdades e "tradições" têm data de origem e responsáveis identificáveis. Isso é o antídoto contra o "sempre foi assim" — e, portanto, contra o fatalismo. Aquilo que foi construído pode ser transformado.
+3. **Ampliar o repertório do possível.** Sociedades organizaram o trabalho, a família, a propriedade, a religião e o poder de maneiras hoje quase inimagináveis. Conhecê-las amplia o horizonte do que se pode conceber como alternativa — a mesma operação que **Milton Santos** propôs ao falar da globalização "como possibilidade" (@sec-globalizacao-neoliberalismo).
+4. **Complicar as narrativas simples.** Explicações de uma linha só — "eles se odeiam há mil anos", "foi tudo culpa de Sykes–Picot", "foi um gesto espontâneo de uma mulher cansada" — são quase sempre falsas e frequentemente perigosas, porque dispensam a pesquisa e isentam responsáveis.
+5. **Dar voz ao silenciado.** Recuperar mulheres, escravizados, indígenas, trabalhadores, colonizados — os sujeitos que os arquivos oficiais não registraram ou registraram apenas como objetos.
+6. **Ensinar a duvidar com método.** Que é o oposto de duvidar de tudo.
+
+**A distinção final, e a mais importante do manual: ceticismo não é negacionismo.**
+
+Este manual sustentou desde o primeiro capítulo que toda fonte tem autor e interesse, que toda interpretação é provisória e que o conhecimento histórico é uma **construção**. Há um risco embutido nesse ensinamento, e é preciso enfrentá-lo: alguém pode concluir que, se tudo é construção, nada é verdadeiro e todas as versões se equivalem. **Essa conclusão é falsa — e é exatamente o argumento que o negacionismo utiliza.**
+
+A diferença está no **método**. Dizer que o conhecimento é construído significa que ele resulta de **procedimentos**: crítica de fontes, comparação, contextualização, verificação, submissão ao escrutínio de pares que têm todo interesse em encontrar erros. Procedimentos podem ser **avaliados**: alguns produzem conhecimento confiável, outros não. Que a interpretação da Revolução Francesa mude ao longo do tempo não significa que ela não tenha ocorrido, nem que qualquer coisa possa ser afirmada sobre ela.
+
+O oposto do dogmatismo não é o "vale tudo": é o **rigor**. E o rigor se resume a três hábitos simples e exigentes:
+
+- **pedir a fonte**;
+- **verificar quem a produziu e por quê**;
+- **estar disposto a mudar de opinião diante de evidência melhor**.
+
+Quem pratica esses três hábitos está fazendo História — em uma prova, numa discussão de família ou diante de uma mensagem recebida no celular. É o que este manual quis ensinar.
+:::
+
+**8.** Analise a diferença entre o trabalho do **juiz** e o do **historiador**, segundo Carlo Ginzburg.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**O que os aproxima.** Juiz e historiador trabalham com **provas**: documentos, testemunhos, indícios. Ambos reconstroem acontecimentos passados que não presenciaram, avaliam a credibilidade de fontes, confrontam versões e devem justificar publicamente suas conclusões. **Carlo Ginzburg** havia inclusive desenvolvido, em seus trabalhos anteriores, a ideia de um "**paradigma indiciário**" que aproxima o historiador do detetive e do médico — todos leem sinais pequenos para reconstituir o que não está diretamente visível.
+
+**O que os separa — as três diferenças decisivas** [@ginzburg2002].
+
+**1. A obrigação de decidir.** O juiz **precisa** decidir, dentro de um prazo, entre culpado e inocente; não lhe é dado dizer "não sei". O historiador **pode** — e frequentemente **deve** — concluir que a evidência é insuficiente e **suspender o juízo**. A suspensão do juízo não é falha profissional: é uma das formas mais elevadas de honestidade intelectual, e é vedada ao juiz por definição de sua função.
+
+**2. O objeto.** O juiz julga **indivíduos** e responsabilidades pessoais. O historiador busca **contextos**, estruturas, processos e cadeias causais. Daí uma consequência importante: **explicar não é absolver**. Compreender por que pessoas comuns participaram de um genocídio (@sec-holocausto-balanco) não as isenta — mas é uma operação intelectual distinta da atribuição de culpa individual, e confundi-las gera mal-entendidos recorrentes no debate público.
+
+**3. As regras de admissibilidade.** O processo judicial opera com restrições: provas obtidas ilicitamente são descartadas, prazos prescrevem, existe coisa julgada. O historiador pode usar **qualquer** evidência disponível — inclusive documentos vazados, arquivos roubados, depoimentos tardios — e, para ele, **nada prescreve**. Um crime penalmente prescrito continua sendo objeto legítimo de investigação histórica, e é por isso que a CNV pôde apurar o que os tribunais não puderam punir.
+
+**Por que confundir os dois papéis prejudica ambos — o núcleo da tese.**
+
+- **Historiadores que se comportam como promotores** abandonam a suspensão do juízo, selecionam evidências para sustentar uma acusação e perdem exatamente o que dá autoridade ao seu trabalho.
+- **Juízes que se pretendem historiadores** decidem sobre o que não podem provar nos autos, ampliam o objeto do processo para além do que a defesa pode contestar e produzem sentenças que se pretendem veredictos sobre uma época.
+
+O caso que motivou Ginzburg — o processo contra seu amigo Adriano Sofri, na Itália — levou-o a examinar como um tribunal construiu uma narrativa a partir de um único depoimento tardio, e a mostrar que os critérios que um historiador aplicaria a essa fonte a teriam desqualificado.
+
+**A aplicação ao Brasil recente.** A advertência é diretamente pertinente a episódios em que decisões judiciais foram apresentadas, por seus autores ou por seus críticos, como veredictos sobre a história do país, e em que investigações judiciais se converteram em disputas sobre o significado de uma época. A distinção de Ginzburg não resolve esses casos, mas fornece um critério para analisá-los: perguntar, em cada um, **se o padrão de prova aplicado sustentaria uma afirmação historiográfica** — e o que significa quando não sustenta.
+
+**A conclusão.** As duas atividades são legítimas, necessárias e diferentes. A sociedade precisa de tribunais que decidam e de historiadores que investiguem sem prazo e sem obrigação de veredicto. Preservar a fronteira entre elas protege as duas — e é uma boa nota final para um manual que, do primeiro ao último capítulo, insistiu em que **o método é o que distingue o conhecimento da opinião**.
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros — democracia e seus riscos**
+
+- LEVITSKY, Steven; ZIBLATT, Daniel. *Como as democracias morrem* [@levitsky2018]. Claro, comparativo e o melhor ponto de partida sobre o tema.
+- SNYDER, Timothy. *Sobre a tirania* [@snyder2017]. Vinte lições curtas extraídas do século XX; leia-o com a advertência deste capítulo sobre analogias históricas em mente.
+- APPLEBAUM, Anne. *O crepúsculo da democracia* [@applebaum2021], e MOUNK, Yascha. *O povo contra a democracia* [@mounk2019].
+- AVRITZER, Leonardo. *O pêndulo da democracia* [@avritzer2019], e NICOLAU, Jairo. *O Brasil dobrou à direita* [@nicolau2020]. As leituras brasileiras, com dados.
+
+**Livros — memória, negacionismo e método**
+
+- ROUSSO, Henry. *A última catástrofe* [@rousso2016]. A referência sobre história do tempo presente.
+- GINZBURG, Carlo. *O juiz e o historiador* [@ginzburg2002]. Curto, apaixonado e metodologicamente exemplar.
+- VIDAL-NAQUET, Pierre. *Os assassinos da memória* [@vidalNaquet1988]. A anatomia do negacionismo, escrita por um historiador cujos pais morreram em Auschwitz.
+- TRAVERSO, Enzo. *O passado, modos de usar* [@traverso2012], e TODOROV, Tzvetan. *Los abusos de la memoria* [@todorovAbusos2000].
+- ORESKES, Naomi; CONWAY, Erik. *Mercadores da dúvida* [@oreskes2022]. Se você ler apenas um livro desta lista, leia este: ele muda a maneira de assistir a qualquer debate público.
+- BLOCH, Marc. *Apologia da História* [@bloch2001]. Escrito na clandestinidade por um historiador que seria fuzilado pela Gestapo em 1944, é a defesa mais bela já feita do ofício — e o lugar certo para terminar um manual de História.
+
+**Fontes primárias**
+
+- O relatório da **Comissão Nacional da Verdade** [@cnv2014] e o *Brasil: Nunca Mais* [@arns1985]. Ambos disponíveis integralmente online.
+- A **Lei da Anistia** [@leiAnistia1979] e a sentença do caso **Gomes Lund** [@gomesLund2010]. Leia as duas em sequência: a contradição entre elas é o retrato jurídico da transição brasileira.
+- O *Nunca Más* argentino [@conadep1984] e o relatório **Rettig** chileno [@rettig1991].
+
+**Filmes e documentários**
+
+- *Negação* (*Denial*, 2016), sobre o processo Irving × Lipstadt. Retrata bem por que provar o óbvio em juízo foi necessário e difícil.
+- *A história oficial* (1985), dir. Luis Puenzo, e *Argentina, 1985* (2022), dir. Santiago Mitre, sobre o julgamento das juntas.
+- *O ano em que meus pais saíram de férias* (2006), *Que bom te ver viva* (1989, dir. Lúcia Murat) e *Cidadão Boilesen* (2009), sobre a ditadura brasileira e suas memórias.
+- *Retratos de identificação* (2014), dir. Anita Leandro, sobre fotos de presos políticos — um ensaio visual sobre o que uma fonte revela e o que esconde.
+- *Democracia em vertigem* (2019), dir. Petra Costa. Assumidamente pessoal e parcial; assista como **fonte** sobre um modo de ver o período, e não como narração neutra — que é, afinal, o modo como este manual pediu que você assistisse, lesse e ouvisse tudo o mais.
