@@ -177,7 +177,7 @@
 | 3 | A Era Vargas (1930–1945) | `capitulos/vol13/cap03-era-vargas.qmd` | ✅ |
 | 4 | A República de 1946 e o desenvolvimentismo | `capitulos/vol13/cap04-republica-de-1946.qmd` | ✅ |
 | 5 | A Ditadura Militar (1964–1985) | `capitulos/vol13/cap05-ditadura-militar.qmd` | ✅ |
-| 6 | Redemocratização e a Nova República | `capitulos/vol13/cap06-redemocratizacao-nova-republica.qmd` | ⬜ |
+| 6 | Redemocratização e a Nova República | `capitulos/vol13/cap06-redemocratizacao-nova-republica.qmd` | ✅ |
 
 ### Volume 14 — Guerra Fria e Descolonização
 

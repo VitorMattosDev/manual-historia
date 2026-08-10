@@ -1,5 +1,403 @@
 # Redemocratização e a Nova República {#sec-redemocratizacao-nova-republica}
 
-::: {.callout-note title="Capítulo em construção"}
-Stub gerado pelo scaffold. Conteúdo a ser escrito seguindo a anatomia obrigatória do `CLAUDE.md`.
+Em 5 de outubro de 1988, o deputado **Ulysses Guimarães** ergueu acima da cabeça o texto recém-promulgado da nova Constituição e disse: "Traidor da Constituição é traidor da Pátria. […] Temos ódio à ditadura. Ódio e nojo." No mesmo discurso, chamou o documento de "**Constituição Cidadã**" e reconheceu que ela tinha um defeito e uma virtude, e que eram a mesma coisa: era longa, detalhista, prolixa — porque uma sociedade que acabara de sair de vinte e um anos sem garantias não confiava em deixar nada implícito. Aquele texto de 250 artigos, hoje o mais emendado do mundo, é a espinha dorsal da mais longa experiência democrática contínua da história do Brasil. Este capítulo conta como se chegou a ele, o que ele mudou, e o que os quatro decênios seguintes fizeram — e não fizeram — com as promessas que ele registrou.
+
+::: {.callout-note title="Objetivos de aprendizagem"}
+Ao final deste capítulo, você será capaz de:
+
+- explicar a campanha das **Diretas Já**, o Colégio Eleitoral e o caráter **negociado** da transição;
+- caracterizar o governo **Sarney**, a **hiperinflação** e os planos heterodoxos;
+- descrever a **Constituição de 1988** e suas principais inovações;
+- narrar a eleição, o governo e o **impeachment de Collor**;
+- explicar o **Plano Real**, a estabilização e as reformas dos anos 1990;
+- caracterizar os governos do século XXI e as transformações sociais do período;
+- identificar as conquistas dos **movimentos sociais**: negro, indígena, de mulheres, LGBT, sem-terra e sem-teto;
+- avaliar os debates historiográficos sobre a transição, sobre o **presidencialismo de coalizão** e sobre a memória da ditadura.
 :::
+
+## A transição: Diretas Já e o Colégio Eleitoral {#sec-transicao}
+
+Em 1983–84, o Brasil viveu a maior mobilização cívica de sua história. A **emenda Dante de Oliveira**, que restabelecia a eleição direta para presidente, deu origem à campanha **Diretas Já**: comícios de centenas de milhares de pessoas na Praça da Sé, na Candelária, no Vale do Anhangabaú — este último com mais de um milhão de participantes em 16 de abril de 1984 —, reunindo partidos de oposição, sindicatos, Igreja, artistas, entidades civis e até dissidentes do governo.
+
+Em **25 de abril de 1984**, a emenda obteve **298 votos** na Câmara — **22 a menos** que os dois terços exigidos. Muitos deputados governistas se ausentaram, e Brasília estava sob medidas de emergência, com tropas nas ruas.
+
+Derrotada a via direta, a oposição fez o que parecia contraditório: **entrou no Colégio Eleitoral** que combatera. A aposta funcionou porque o PDS, partido do governo, rachou: a **Frente Liberal**, liderada por **José Sarney** — que fora presidente do próprio PDS até meses antes —, apoiou o candidato oposicionista **Tancredo Neves**, um mineiro do PMDB com trajetória de moderação (fora ministro de Vargas e primeiro-ministro de Jango). A chapa **Tancredo–Sarney** venceu em 15 de janeiro de 1985.
+
+Na véspera da posse, Tancredo foi internado; morreu em **21 de abril de 1985**. Assumiu **José Sarney** — ou seja, a **Nova República** começou com um presidente que fora, até havia pouco, o principal dirigente do partido de sustentação da ditadura, e que nunca fora eleito para o cargo que ocupava.
+
+::: {.callout-important title="Por que a transição brasileira foi \"pelo alto\""}
+Compare com os vizinhos e o traço fica evidente.
+
+- **Argentina (1983):** a ditadura **colapsou** após a derrota nas Malvinas; a transição foi por ruptura; o presidente Alfonsín criou a CONADEP, e a **Junta foi julgada e condenada em 1985**.
+- **Brasil (1974–85):** transição **negociada e conduzida pelo próprio regime**, que definiu o calendário, editou a anistia recíproca, fragmentou a oposição pela reforma partidária, manteve a eleição **indireta** em 1985 e entregou o poder a uma chapa que incluía um quadro de sua própria base.
+
+As consequências são duradouras e você as encontrará em vários pontos deste capítulo: **nenhuma responsabilização** por tortura e desaparecimento (@sec-ditadura-militar); permanência de quadros, práticas e instituições do regime; e uma memória pública fraca, que deixou em aberto até mesmo o consenso sobre o que aconteceu. É o que Daniel Aarão Reis chama de transição por **conciliação**, e Florestan Fernandes chamou, com menos delicadeza, de "transição transada" [@reisDaniel2014].
+:::
+
+## Sarney: a Constituição e a hiperinflação (1985–1990) {#sec-sarney}
+
+**A Constituinte.** Eleita em 1986 e instalada em 1987, sob a presidência de **Ulysses Guimarães**, trabalhou por 20 meses. Não foi exclusiva — os constituintes acumulavam mandato legislativo ordinário —, o que expôs o processo à pressão do governo e dos lobbies, entre os quais o "**Centrão**", bloco conservador que reverteu vários avanços do anteprojeto. Ainda assim, o texto promulgado em **5 de outubro de 1988** foi o mais avançado da história brasileira em direitos.
+
+::: {#fig-constituicao-1988}
+
+```{.tikz}
+%%| filename: fig-constituicao-1988
+%%| alt: Diagrama das principais inovações da Constituição de 1988 em direitos políticos, sociais, difusos e organização do Estado.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \node[draw, very thick, rounded corners, fill=manualblue!20, align=center, text width=6.4cm, text=manualblue] (c) at (0,2.9)
+    {\textbf{CONSTITUIÇÃO DE 1988}\\ ``\textbf{Constituição Cidadã}''\\ promulgada em 5 de outubro};
+
+  \node[draw, thick, rounded corners, fill=manualgreen!16, align=left, text width=3.6cm] (p) at (-6.1,0.2)
+    {\textbf{DIREITOS POLÍTICOS}\\ voto do \textbf{analfabeto}\\ voto facultativo aos 16\\ eleições diretas em\\ todos os níveis\\ pluripartidarismo};
+  \node[draw, thick, rounded corners, fill=manualyellow!26, align=left, text width=3.6cm] (s) at (-2.05,0.2)
+    {\textbf{DIREITOS SOCIAIS}\\ \textbf{SUS} universal\\ 13º e FGTS ampliados\\ jornada de \textbf{44h}\\ licença-maternidade 120d\\ direito de \textbf{greve}\\ previdência rural};
+  \node[draw, thick, rounded corners, fill=manualred!16, align=left, text width=3.6cm] (d) at (2.05,0.2)
+    {\textbf{DIREITOS DIFUSOS}\\ racismo: crime\\ \textbf{inafiançável}\\ tortura: crime\\ \textbf{imprescritível}\\ meio ambiente (art. 225)\\ ECA (1990)};
+  \node[draw, thick, rounded corners, fill=manualgray!20, align=left, text width=3.6cm] (o) at (6.1,0.2)
+    {\textbf{ESTADO E POVOS}\\ terras \textbf{indígenas}:\\ direito \textbf{originário} (231)\\ \textbf{quilombolas}: titulação\\ MP independente\\ \textbf{habeas data}, ação popular};
+
+  \draw[vetor, thick, manualgray] (c) -- (p); \draw[vetor, thick, manualgray] (c) -- (s);
+  \draw[vetor, thick, manualgray] (c) -- (d); \draw[vetor, thick, manualgray] (c) -- (o);
+
+  \node[draw, dashed, rounded corners, fill=manualgray!14, align=center, text width=13.4cm] at (0,-2.6)
+    {\textbf{O que ficou em aberto:} a \textbf{reforma agrária} foi limitada pela proteção à propriedade ``produtiva'' $\cdot$ o sistema tributário\\ permaneceu \textbf{regressivo} $\cdot$ a estrutura sindical de 1943 (unicidade e imposto) foi \textbf{mantida} $\cdot$ e a Constituição é hoje\\ a \textbf{mais emendada do mundo}, com mais de 130 emendas --- sinal tanto de sua abrangência quanto de sua disputa permanente.};
+\end{tikzpicture}
+```
+
+A Constituição de 1988: o que garantiu e o que deixou em aberto.
+:::
+
+As inovações centrais:
+
+- **direitos políticos**: voto para **analfabetos**, voto facultativo aos 16 anos, eleições diretas em todos os níveis, pluripartidarismo pleno;
+- **direitos sociais**: criação do **SUS**, sistema de saúde **universal e gratuito**; jornada de 44 horas; licença-maternidade de 120 dias e licença-paternidade; **direito de greve**; previdência rural desvinculada de contribuição prévia — medida que tirou milhões de idosos do campo da miséria;
+- **direitos difusos e coletivos**: racismo como crime **inafiançável e imprescritível**; tortura como crime inafiançável e insuscetível de graça; capítulo do **meio ambiente** (art. 225); base para o **ECA** (1990) e para o Código de Defesa do Consumidor;
+- **povos indígenas**: reconhecimento do **direito originário** às terras que tradicionalmente ocupam (art. 231), abandonando a lógica assimilacionista anterior — indígenas deixam de ser tutelados como "relativamente incapazes" a caminho da integração e passam a ter garantido o direito de permanecer indígenas;
+- **quilombolas**: direito à titulação das terras ocupadas (art. 68 do ADCT);
+- **instituições**: Ministério Público independente, com poder de investigar e processar; *habeas data*; mandado de injunção; ação civil pública.
+
+**A hiperinflação.** A herança econômica da ditadura era a dívida externa e a inflação crônica. Sarney tentou cinco planos, quatro deles com **congelamento de preços** e troca de moeda:
+
+- **Plano Cruzado** (1986): congelamento geral, "fiscais do Sarney" nos supermercados, euforia inicial e vitória eleitoral do PMDB em novembro; em seguida, desabastecimento, ágio e explosão inflacionária;
+- **Cruzado II**, **Plano Bresser** (1987), **Plano Verão** (1989) — todos fracassados.
+
+A inflação chegou a cerca de **80% ao mês** no fim do governo, com quatro trocas de moeda em cinco anos. Uma inflação assim não é um número: é uma sociedade em que o salário perde metade do valor antes do fim do mês, em que remarcar preços é rotina diária e em que quem não tem conta bancária remunerada — os mais pobres — é o único que não consegue se proteger. **Nenhum problema brasileiro do período foi mais socialmente regressivo do que a inflação**, e entender isso é a chave para entender o impacto do Plano Real.
+
+## Collor e o impeachment (1990–1992) {#sec-collor}
+
+**Fernando Collor de Mello**, governador de Alagoas, venceu a **primeira eleição direta para presidente desde 1960**, derrotando **Luiz Inácio Lula da Silva** no segundo turno (53% a 47%), com uma campanha construída na televisão em torno da imagem de "caçador de marajás".
+
+Seu governo foi curto e turbulento: o **Plano Collor** (1990) **confiscou** por 18 meses os depósitos bancários e as poupanças acima de 50 mil cruzados novos — medida drástica, juridicamente contestada e economicamente fracassada; abriu a economia às importações; iniciou as privatizações; e extinguiu órgãos públicos em massa.
+
+Em maio de 1992, o irmão do presidente, **Pedro Collor**, denunciou publicamente o esquema de corrupção operado pelo tesoureiro de campanha **Paulo César Farias**. A **CPI do PC Farias** reuniu provas, e o país viu surgir o movimento dos "**caras-pintadas**" — estudantes com o rosto pintado de verde e amarelo nas ruas de todo o país. Em **29 de setembro de 1992**, a Câmara autorizou o processo por 441 votos a 38; em 29 de dezembro, com o julgamento em curso no Senado, Collor **renunciou** — o Senado prosseguiu e o **inabilitou por oito anos**.
+
+::: {.callout-tip title="O que o impeachment de 1992 demonstrou"}
+Que as instituições criadas em 1988 **funcionavam**: uma CPI investigou, a imprensa apurou, o Congresso votou, o Judiciário atuou, e um presidente eleito por 35 milhões de votos deixou o cargo **sem tanque nas ruas** — algo que, na história brasileira anterior, teria sido resolvido por golpe. É o principal argumento a favor da solidez da Nova República.
+
+Vale, porém, registrar o outro lado, porque ele reaparece depois: o impeachment também inaugurou o uso do instrumento como **saída para crises políticas** de um presidencialismo em que o chefe do Executivo precisa negociar permanentemente maiorias. A repetição do procedimento em **2016**, num contexto muito mais disputado, mostra que o dispositivo constitucional pode servir tanto de garantia contra o abuso quanto de válvula de escape de conflitos políticos — e distinguir os dois usos, caso a caso, é exatamente o tipo de análise que se espera de você.
+:::
+
+O vice, **Itamar Franco**, completou o mandato — e foi em seu governo que se resolveu o problema que derrubara todos os anteriores.
+
+## O Plano Real e os anos 1990 {#sec-plano-real}
+
+Concebido por uma equipe de economistas sob o comando do ministro da Fazenda **Fernando Henrique Cardoso**, o **Plano Real** (1993–94) atacou a inflação por um caminho novo.
+
+::: {#fig-plano-real}
+
+```{.tikz}
+%%| filename: fig-plano-real
+%%| alt: Fluxograma das três etapas do Plano Real e de seus resultados e custos.
+\begin{tikzpicture}[>=stealth, every node/.style={font=\scriptsize}]
+  \node[draw, very thick, rounded corners, fill=manualred!18, align=center, text width=12.2cm, text=manualred] (p) at (0,3.2)
+    {\textbf{O PROBLEMA: inflação inercial} --- preços sobem porque \textbf{todos esperam} que subam.\\ Congelar preços (Cruzado, Bresser, Verão) só \textbf{adia} o reajuste e provoca desabastecimento.};
+
+  \node[draw, thick, rounded corners, fill=manualyellow!26, align=center, text width=3.7cm] (e1) at (-4.4,1.1)
+    {\textbf{1. AJUSTE FISCAL}\\ \textbf{PAI} e Fundo Social\\ de Emergência (1994):\\ equilibrar as contas};
+  \node[draw, thick, rounded corners, fill=manualyellow!26, align=center, text width=3.7cm] (e2) at (0,1.1)
+    {\textbf{2. URV} (mar. 1994)\\ ``moeda virtual'' de\\ valor estável: preços\\ e salários migram\\ \textbf{gradualmente} para ela};
+  \node[draw, thick, rounded corners, fill=manualyellow!26, align=center, text width=3.7cm] (e3) at (4.4,1.1)
+    {\textbf{3. REAL} (1º jul. 1994)\\ a URV vira \textbf{moeda},\\ ancorada no câmbio\\ e em \textbf{juros altos}};
+
+  \node[draw, thick, rounded corners, fill=manualgreen!18, align=center, text width=5.9cm, text=manualgreen] (r) at (-3.2,-1.4)
+    {\textbf{RESULTADOS}\\ inflação: \textbf{de $\sim$2.500\% (1993) a 22\% (1995)}\\ ganho real de renda dos mais pobres\\ FHC eleito no 1º turno (1994) e reeleito (1998)};
+  \node[draw, thick, rounded corners, fill=manualgray!20, align=center, text width=5.9cm] (cu) at (3.4,-1.4)
+    {\textbf{CUSTOS}\\ \textbf{juros altos} e dívida pública crescente\\ desemprego e desindustrialização parcial\\ crises cambiais: 1997--98 e \textbf{desvalorização de 1999}};
+
+  \draw[vetor, thick, manualgray] (p) -- (e1); \draw[vetor, thick, manualgray] (p) -- (e2); \draw[vetor, thick, manualgray] (p) -- (e3);
+  \draw[vetor, very thick, manualgray] (e1) -- (e2); \draw[vetor, very thick, manualgray] (e2) -- (e3);
+  \draw[vetor, thick, manualgray] (e2) -- (r); \draw[vetor, thick, manualgray] (e3) -- (cu);
+\end{tikzpicture}
+```
+
+O Plano Real: por que funcionou onde os congelamentos falharam.
+:::
+
+O diagnóstico era o da **inflação inercial**: os preços subiam porque todos, patrões e trabalhadores, **já contavam** que subiriam e reajustavam antecipadamente. Congelar apenas suspendia o processo; ao descongelar, tudo voltava. A solução em três etapas foi:
+
+1. **ajuste fiscal**, para equilibrar as contas do governo;
+2. a **URV** (Unidade Real de Valor, março de 1994) — uma unidade de conta de valor estável, atualizada diariamente, para a qual preços, salários e contratos migravam **voluntária e gradualmente**, sincronizando todos os reajustes sem congelamento;
+3. em **1º de julho de 1994**, a URV virou moeda: o **real**, ancorado num câmbio valorizado e em juros altos.
+
+A inflação despencou de cerca de 2.500% ao ano (1993) para 22% (1995) e um dígito no fim da década. O efeito distributivo foi imediato: os mais pobres, que não tinham como proteger o dinheiro, tiveram **ganho real** de poder de compra. FHC elegeu-se no primeiro turno em 1994 e reelegeu-se em 1998, após uma emenda que instituiu a **reeleição** para os cargos executivos.
+
+**Os anos FHC (1995–2002).** Estabilidade monetária consolidada; **privatizações** de grande porte (Telebras, Vale do Rio Doce, distribuidoras de energia, bancos estaduais), que o governo defendeu como necessárias ao ajuste fiscal e à modernização de setores sucateados e que a oposição denunciou como entrega do patrimônio público a preços baixos; **Lei de Responsabilidade Fiscal** (2000); **FUNDEF** e universalização do ensino fundamental; criação das agências reguladoras. Os custos: **juros elevados**, dívida pública crescente, desemprego alto e a crise cambial de **1999**, que forçou a desvalorização do real e o abandono da âncora cambial, substituída pelo tripé metas de inflação–câmbio flutuante–superávit primário.
+
+## O século XXI {#sec-seculo-xxi}
+
+**Lula (2003–2010).** Eleito em 2002 na quarta tentativa, com 61% no segundo turno, o ex-metalúrgico do ABC (@sec-ditadura-militar) manteve o tripé macroeconômico — o que decepcionou parte de sua base e tranquilizou os mercados — e combinou-o com expansão social: unificação de programas de transferência de renda no **Bolsa Família**, valorização real e continuada do **salário mínimo**, expansão do crédito consignado, **ProUni** e **REUNI** na educação superior, criação de institutos federais, **Lei de Cotas** em universidades federais (2012), **Luz para Todos**, Minha Casa Minha Vida. O contexto internacional favoreceu: o "**boom das commodities**", puxado pela demanda chinesa, gerou superávits comerciais e reservas. Entre 2003 e 2014, dezenas de milhões de pessoas saíram da pobreza extrema e a desigualdade medida pelo índice de Gini caiu de forma sustentada — reversão de tendência inédita desde que há medição. No plano político, o **mensalão** (2005), esquema de pagamentos a parlamentares, provocou a maior crise do governo e resultou em condenações no STF em 2012.
+
+**Dilma Rousseff (2011–2016).** Primeira mulher presidente do Brasil, reeleita em 2014 na disputa mais apertada desde 1989. Seu segundo mandato coincidiu com recessão profunda, queda dos preços das commodities, crise fiscal e o desdobramento da **Operação Lava Jato**, que investigou corrupção na Petrobras e em empreiteiras, produzindo condenações de empresários e políticos de vários partidos — e, mais tarde, questionamentos sobre a condução processual, que levaram o STF a anular condenações e a declarar a suspeição do juiz do caso. Em **agosto de 2016**, Dilma sofreu **impeachment** por crime de responsabilidade, sob a acusação de irregularidades fiscais (as chamadas "pedaladas"). O processo dividiu profundamente o país: para seus defensores, foi **golpe parlamentar** — o fundamento jurídico seria insuficiente e a motivação, política; para seus opositores, foi aplicação regular de um rito constitucional, com decisão do Congresso e supervisão do STF. Assumiu o vice, **Michel Temer**.
+
+**Junho de 2013.** Iniciadas contra o aumento das tarifas de ônibus em São Paulo, as manifestações se ampliaram após a repressão policial e tomaram dezenas de cidades, com pautas heterogêneas — transporte, saúde, educação, gastos com a Copa, corrupção, sistema político. São consideradas por muitos analistas um ponto de inflexão da política brasileira recente, embora sua interpretação permaneça em disputa: nem o diagnóstico do que as motivou nem o balanço de seus efeitos são consensuais entre pesquisadores.
+
+::: {.callout-warning title="História do tempo presente: como estudar o que ainda não terminou"}
+A partir daqui, você entra na **história do tempo presente**, e é preciso mudar de método. Três cuidados:
+
+1. **Falta distanciamento e faltam fontes.** Arquivos ainda estão fechados, protagonistas ainda atuam e disputam a narrativa, e processos judiciais seguem em curso. Interpretações que hoje parecem sólidas podem ser revistas quando a documentação abrir.
+2. **Você é parte do objeto.** Todo leitor tem posição sobre estes fatos — o que não é problema, desde que seja **consciente**. O procedimento honesto é o mesmo de sempre: separar o que é **fato documentado** (a data do impeachment, o placar da votação, os índices de Gini) do que é **interpretação em disputa** (se foi golpe, o que causou junho de 2013).
+3. **Em prova, ancore-se no verificável.** Vestibulares e o ENEM cobram os fatos, os conceitos e a capacidade de apresentar interpretações divergentes com seus argumentos — não a sua opinião pessoal. Uma boa resposta sobre 2016 apresenta as duas leituras com seus melhores fundamentos antes de qualquer síntese, exatamente como você faria com a queda de Roma ou com a Revolução de 1930.
+
+O @sec-desafios-do-presente retomará esse problema de método com mais profundidade.
+:::
+
+## Direitos e movimentos sociais {#sec-movimentos-sociais}
+
+A Nova República foi, sobretudo, o período em que movimentos sociais organizados converteram mobilização em **legislação**.
+
+- **Movimento negro.** Herdeiro da Frente Negra Brasileira (1931) e do **MNU** (1978), conquistou a criminalização do racismo na Constituição (art. 5º, XLII) e na **Lei Caó** (1989); a titulação de terras **quilombolas**; a **Lei 10.639/2003**, que tornou obrigatório o ensino de história e cultura afro-brasileira e africana na educação básica; a **Lei de Cotas** (2012) nas universidades e institutos federais, cuja constitucionalidade o STF confirmou por unanimidade; e o **Estatuto da Igualdade Racial** (Lei 12.288/2010). As cotas alteraram substantivamente o perfil das universidades públicas em uma geração.
+- **Povos indígenas.** O art. 231 reconheceu o **direito originário** às terras tradicionalmente ocupadas — isto é, anterior ao próprio Estado brasileiro — e o direito de manter língua, cultura e organização social, encerrando juridicamente a lógica assimilacionista. Seguiram-se a **Lei 11.645/2008**, que incluiu a história e a cultura indígenas no currículo obrigatório, e a demarcação de terras como **Raposa Serra do Sol** (2005, confirmada pelo STF em 2009) e **Yanomami** (1992). O processo permanece conflituoso: demarcações pendentes, invasões, garimpo ilegal e a disputa sobre a tese do "marco temporal", rejeitada pelo STF em 2023 e objeto de legislação subsequente.
+- **Mulheres.** O "lobby do batom" na Constituinte garantiu a igualdade de direitos entre homens e mulheres (art. 5º, I) e direitos trabalhistas específicos. Seguiram-se a **Lei Maria da Penha** (2006), referência internacional em enfrentamento à violência doméstica, e a Lei do **Feminicídio** (2015). A participação política feminina, contudo, permanece baixa para padrões internacionais.
+- **Trabalhadores rurais e urbanos.** O **MST** (1984) transformou a ocupação de terras improdutivas em instrumento de pressão pela reforma agrária, prevista na Constituição mas condicionada pela proteção à propriedade "produtiva"; o **MTST** fez o equivalente no espaço urbano. A **CUT** e outras centrais consolidaram um sindicalismo autônomo, embora a estrutura de 1943 (unicidade, imposto sindical) só tenha sido parcialmente desmontada — o imposto obrigatório caiu apenas com a reforma trabalhista de 2017.
+- **Direitos LGBT.** Sem legislação específica aprovada pelo Congresso, os avanços vieram sobretudo por via **judicial**: reconhecimento da união estável homoafetiva pelo STF (2011), casamento civil (2013, por resolução do CNJ) e enquadramento da homofobia na Lei do Racismo (2019).
+- **Crianças, consumidores e pessoas com deficiência.** **ECA** (1990), **Código de Defesa do Consumidor** (1990), **Lei Brasileira de Inclusão** (2015).
+
+## 🔎 Historiografia em Foco {#sec-historiografia-em-foco}
+
+**1. Que tipo de transição foi a brasileira?** A leitura predominante é a da **transição por conciliação** ou "pelo alto": conduzida pelo próprio regime, negociada com as elites, sem ruptura e sem responsabilização [@reisDaniel2014]. **Florestan Fernandes**, contemporâneo dos fatos, foi mais duro: falou em "transição transada", uma mudança pactuada que preservou o essencial da estrutura de poder. Há, porém, uma leitura que corrige o excesso: **Marcos Napolitano** e outros observam que a ênfase exclusiva na negociação pelo alto apaga a **pressão social** que definiu o **ritmo** — sem as vitórias eleitorais de 1974 e 1982, sem as greves do ABC, sem a campanha da anistia e sem os comícios das Diretas, a "distensão segura" teria sido muito mais lenta e mais controlada. A formulação equilibrada: o regime impôs a **forma** da transição; a sociedade impôs o **prazo**.
+
+**2. A Constituição de 1988: avanço ou promessa não cumprida?** Três posições circulam. A **celebratória** destaca o que é objetivamente verificável — SUS, previdência rural, direitos indígenas e quilombolas, criminalização do racismo, Ministério Público independente, e a mais longa estabilidade democrática da história do país. A **crítica de esquerda** observa que os direitos sociais foram inscritos sem os **instrumentos fiscais** para financiá-los: manteve-se um sistema tributário **regressivo**, que cobra proporcionalmente mais de quem ganha menos, e limitou-se a reforma agrária pela proteção à propriedade "produtiva". A **crítica liberal** aponta a rigidez de um texto **analítico** demais, que constitucionalizou matérias de lei ordinária e por isso exige emenda a cada ajuste — o que explica as mais de 130 emendas e o título de constituição mais emendada do mundo. As três críticas descrevem o **mesmo** traço a partir de ângulos opostos: uma Constituição que registrou o consenso possível de 1988 sobre **fins**, deixando os **meios** para a disputa política subsequente.
+
+**3. Presidencialismo de coalizão.** O conceito é de **Sérgio Abranches**, formulado em 1988, antes de o sistema ser testado [@abranches1988]. O Brasil combina três elementos que raramente convivem: **presidencialismo**, **federalismo** e **representação proporcional com muitos partidos**. Disso decorre que nenhum presidente eleito tem maioria própria e todos precisam construir e alimentar coalizões amplas, distribuindo ministérios, cargos e emendas orçamentárias. O debate é sobre o que fazer com esse diagnóstico. Uma vertente considera o arranjo **funcional**: pesquisas sobre a produção legislativa mostram que os presidentes brasileiros aprovam a maior parte de sua agenda, o que indica governabilidade real. Outra vertente considera o arranjo **estruturalmente propenso à corrupção**, já que a moeda de troca da coalizão são cargos e verbas — e vê aí a raiz comum de escândalos como o mensalão e o petrolão. Uma terceira observa que o mesmo desenho institucional produziu tanto estabilidade (1994–2014) quanto duas crises de impeachment (1992 e 2016), e que a variável decisiva não é o desenho em si, mas **como** e **com quem** cada presidente monta sua coalizão.
+
+**4. A memória da ditadura — e o que a transição deixou em aberto.** Aqui a historiografia dialoga diretamente com o presente. A ausência de responsabilização penal (@sec-ditadura-militar) e a demora institucional — a **Comissão de Anistia** é de 2001, a **Comissão Nacional da Verdade** funcionou apenas entre 2012 e 2014 — deixaram o Brasil sem o que Argentina, Chile e Uruguai construíram: uma **verdade oficial estabelecida em juízo**, com sentenças, provas e registro público. **Lilia Schwarcz** relaciona esse déficit a um traço mais longo, o do **autoritarismo persistente** na cultura política brasileira, que sobrevive à democracia formal e se manifesta na desigualdade tolerada, na violência policial seletiva e na frouxidão do consenso democrático [@schwarcz2019]. Outros historiadores resistem à ideia de "traço nacional", que consideram essencialista, e preferem explicações **institucionais e conjunturais** — a forma da transição, o desenho da anistia, a fraqueza das políticas de memória. O debate está longe de resolvido, e é dele que trata o @sec-desafios-do-presente.
+
+**5. Como avaliar o século XXI sem antecipar o veredito.** Sobre os governos posteriores a 2003, a produção acadêmica ainda está se constituindo. **André Singer** propôs a categoria de "**lulismo**" para descrever um arranjo de **reformismo gradual com pacto conservador**: melhora real das condições de vida dos mais pobres **sem** confronto com as elites econômicas nem alteração das estruturas de propriedade e tributação [@singer2012]. A tese é influente e contestada — críticos à esquerda a consideram uma justificação da desmobilização social; críticos à direita disputam a atribuição das melhorias sociais às políticas públicas, atribuindo-as ao ciclo internacional das commodities. Que uma categoria esteja em disputa é sinal de saúde do campo, não de fraqueza: é assim que a historiografia trabalha antes de haver distanciamento suficiente — e é exatamente o que você viu acontecer, ao longo deste volume, com 1930, com o populismo e com 1964.
+
+## Resumo do capítulo {#sec-resumo}
+
+- **Diretas Já** (1983–84): maior mobilização cívica da história do país; a **emenda Dante de Oliveira** foi derrotada em **25/4/1984** por 298 votos (22 a menos que os 2/3). A oposição venceu no **Colégio Eleitoral** com **Tancredo Neves**, graças ao racha do PDS (**Frente Liberal**, de Sarney); com a morte de Tancredo, assumiu **José Sarney**.
+- A transição brasileira foi **negociada e conduzida pelo regime** ("pelo alto"), ao contrário da argentina, que resultou de colapso e produziu julgamento da Junta em 1985. Consequências: nenhuma responsabilização, permanência de quadros e memória pública frágil.
+- **Constituição de 1988** ("**Constituição Cidadã**", presidida por **Ulysses Guimarães**): voto do **analfabeto**, voto facultativo aos 16, **SUS** universal, jornada de 44h, licença-maternidade de 120 dias, direito de **greve**, previdência rural, **racismo** como crime inafiançável e imprescritível, capítulo do meio ambiente, **direito originário** dos indígenas às suas terras (art. 231), titulação **quilombola**, Ministério Público independente. Ficaram em aberto: reforma agrária limitada, tributação **regressiva**, estrutura sindical de 1943 mantida.
+- **Sarney:** hiperinflação de até ~80% ao mês; **Plano Cruzado** (1986) e seus sucessores fracassaram porque **congelar preços apenas adia** o reajuste. A inflação é o mais regressivo dos problemas econômicos, porque só os pobres não conseguem se proteger dela.
+- **Collor:** vence a **primeira eleição direta desde 1960** contra Lula; **confisco** da poupança; abertura comercial; denúncias de **PC Farias**, CPI, "**caras-pintadas**" e **impeachment** em 1992 — prova de que as instituições de 1988 funcionavam sem ruptura militar.
+- **Plano Real** (1993–94, sob **Itamar** e **FHC**): diagnóstico da **inflação inercial**; três etapas — ajuste fiscal, **URV** (sincronização voluntária dos reajustes) e o **real** (1º/7/1994), com âncora cambial e juros altos. Inflação de ~2.500% (1993) a 22% (1995), com **ganho real** para os mais pobres. Custos: juros altos, dívida pública, desemprego e a crise cambial de **1999**.
+- **FHC (1995–2002):** estabilidade, **privatizações** (Telebras, Vale), **Lei de Responsabilidade Fiscal**, FUNDEF, agências reguladoras, emenda da **reeleição**, tripé metas de inflação–câmbio flutuante–superávit primário após 1999.
+- **Século XXI:** **Lula** (2003–10) mantém o tripé e amplia políticas sociais (**Bolsa Família**, valorização do mínimo, ProUni/REUNI, **Lei de Cotas**), no contexto do **boom das commodities**; queda sustentada da desigualdade; crise do **mensalão** (2005). **Dilma** (2011–16), primeira presidente mulher, enfrenta recessão, **Lava Jato** e o **impeachment de 2016**, lido como **golpe parlamentar** por uns e como rito constitucional regular por outros. **Junho de 2013** permanece em disputa interpretativa.
+- **Movimentos sociais e direitos:** **Lei Caó** (1989), quilombolas, **Lei 10.639/2003**, **Lei de Cotas** (2012); art. 231 e **Lei 11.645/2008** para os povos indígenas; **Lei Maria da Penha** (2006) e feminicídio (2015); **MST** e **MTST**; direitos LGBT conquistados sobretudo por **via judicial** (2011, 2013, 2019); **ECA** e **CDC** (1990).
+- **Historiografia:** transição **por conciliação** (Reis; "transação" para Florestan) matizada pela pressão social que definiu o ritmo (**Napolitano**); a Constituição de 1988 entre a celebração, a crítica de esquerda (direitos sem meios fiscais) e a crítica liberal (texto analítico demais); **presidencialismo de coalizão** de **Abranches** — funcional para uns, propenso à corrupção para outros; o déficit de **justiça de transição** e o debate entre explicações **culturais** (Schwarcz, autoritarismo persistente) e **institucionais** para sua persistência; e o "**lulismo**" de **Singer** como categoria influente e contestada.
+
+## Exercícios {#sec-exercicios}
+
+::: {.callout-tip collapse="false" title="Como estudar com os exercícios"}
+Domine: (1) por que as Diretas foram derrotadas e a oposição ainda assim venceu; (2) o contraste Brasil × Argentina na transição; (3) as inovações da CF/88 **e** o que ela deixou em aberto; (4) por que os congelamentos falharam e a URV funcionou; (5) o que o impeachment de 1992 demonstrou; (6) as conquistas legislativas dos movimentos sociais; (7) o presidencialismo de coalizão; (8) o método da história do tempo presente.
+:::
+
+**1.** Explique a campanha das **Diretas Já** e por que a transição brasileira é caracterizada como "pelo alto".
+
+::: {.callout-tip collapse="true" title="Solução"}
+**A campanha.** Entre 1983 e 1984, a **emenda Dante de Oliveira**, que restabelecia a eleição direta para presidente, mobilizou a maior campanha cívica da história brasileira: comícios de centenas de milhares de pessoas em São Paulo, Rio, Belo Horizonte e outras capitais — mais de um milhão no Vale do Anhangabaú em 16 de abril de 1984 —, reunindo PMDB, PT, PDT, PTB, sindicatos, Igreja, entidades estudantis, artistas e até dissidentes do governo.
+
+**A derrota.** Em **25 de abril de 1984**, a emenda obteve **298 votos**, **22 a menos** que os dois terços exigidos, com ausências estratégicas de governistas e Brasília sob medidas de emergência.
+
+**A vitória possível.** Derrotada a via direta, a oposição decidiu **disputar o Colégio Eleitoral** que combatera. A aposta deu certo porque o PDS rachou: a **Frente Liberal**, liderada por **José Sarney** — presidente do próprio PDS até pouco antes —, apoiou **Tancredo Neves**, do PMDB. Tancredo venceu em janeiro de 1985, adoeceu na véspera da posse e morreu em 21 de abril; assumiu **Sarney**.
+
+**Por que "pelo alto".** Porque em cada etapa decisiva quem **definiu as regras** foi o próprio regime:
+
+1. o **calendário** e o ritmo da abertura foram fixados por Geisel e Golbery, com recuos deliberados (Lei Falcão, Pacote de Abril);
+2. a **Lei da Anistia** de 1979, com a cláusula de "crimes conexos", garantiu de antemão a **não responsabilização** dos agentes do Estado;
+3. a **reforma partidária** de 1979 fragmentou a oposição, dividindo o MDB em vários partidos;
+4. a eleição de 1985 permaneceu **indireta**, e o poder foi entregue a uma chapa que **incluía um quadro da base do regime** — que acabou presidente.
+
+**A comparação que ilumina.** Na **Argentina**, a ditadura **colapsou** em 1983 após a derrota nas Malvinas; não houve negociação, e a Junta Militar foi **julgada e condenada em 1985**. No Brasil, a saída negociada preservou instituições, quadros e a impunidade — e por isso, quarenta anos depois, o país seguia sem qualquer condenação criminal por tortura ou desaparecimento (@sec-ditadura-militar).
+
+**A ressalva necessária.** "Pelo alto" **não** significa que a sociedade tenha sido passiva. As vitórias eleitorais do MDB em 1974 e 1982, as greves do ABC, a campanha pela anistia e as próprias Diretas encurtaram drasticamente o cronograma que o regime pretendia. A formulação precisa: o regime impôs a **forma** da transição; a sociedade impôs o **prazo**.
+:::
+
+**2.** Quais foram as principais inovações da **Constituição de 1988**?
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Direitos políticos.** Voto para **analfabetos** — encerrando uma exclusão que atravessara toda a história republicana desde 1891 (@sec-republica-velha) —, voto facultativo aos 16 anos, eleições diretas em todos os níveis, pluripartidarismo pleno, fim da censura.
+
+**Direitos sociais.** Criação do **SUS**, sistema de saúde **universal, integral e gratuito**, financiado por impostos, que hoje atende a maioria da população; jornada de 44 horas; licença-maternidade de 120 dias e licença-paternidade; **direito de greve**; seguro-desemprego; e a **previdência rural** desvinculada de contribuição prévia — medida de enorme impacto redistributivo, que tirou milhões de idosos do campo da pobreza extrema e é, em muitos municípios do interior, a principal fonte de renda local.
+
+**Direitos difusos e coletivos.** **Racismo** como crime **inafiançável e imprescritível** (art. 5º, XLII); **tortura** como crime inafiançável e insuscetível de graça; capítulo próprio do **meio ambiente** (art. 225); base para o **ECA** (1990) e o **Código de Defesa do Consumidor** (1990); função social da propriedade.
+
+**Povos indígenas e quilombolas.** O art. 231 reconheceu o **direito originário** às terras tradicionalmente ocupadas — anterior ao próprio Estado brasileiro, o que faz da demarcação um ato **declaratório**, e não constitutivo — e o direito de manter língua, cultura e organização social. É a ruptura com o **assimilacionismo**: indígenas deixam de ser tratados como categoria transitória a caminho da integração. O art. 68 do ADCT garantiu a titulação das terras **quilombolas**.
+
+**Instituições.** Ministério Público independente, com poder de investigar e propor ações — talvez a inovação institucional de maior consequência prática; *habeas data*; mandado de injunção; ação civil pública; autonomia dos municípios como entes federados.
+
+**O que ficou em aberto, e é o que separa uma boa resposta de uma resposta média.**
+
+- **reforma agrária** prevista, mas condicionada pela proteção à propriedade "**produtiva**", o que a tornou juridicamente lenta e politicamente difícil;
+- sistema tributário **regressivo** mantido: o Brasil tributa pesadamente o consumo e pouco a renda e o patrimônio, de modo que os direitos sociais universais foram inscritos **sem** um financiamento progressivo correspondente;
+- **estrutura sindical de 1943** preservada (unicidade e imposto sindical), apesar da conquista do direito de greve;
+- texto **analítico** e detalhista, que constitucionalizou matérias de lei ordinária — razão pela qual acumulou mais de **130 emendas** e é hoje a constituição mais emendada do mundo.
+
+**Como concluir.** A CF/88 estabeleceu um consenso amplo sobre **fins** (direitos) e deixou os **meios** (financiamento, estrutura fundiária, sistema tributário) para a disputa política posterior. É simultaneamente a razão de sua longevidade e a fonte das frustrações que a acompanham.
+:::
+
+**3.** Por que os planos de congelamento fracassaram e o **Plano Real** funcionou?
+
+::: {.callout-tip collapse="true" title="Solução"}
+**O problema: inflação inercial.** Numa economia com décadas de inflação alta, os preços sobem **porque todos esperam que subam**. O comerciante remarca antecipadamente para não perder; o sindicato exige reajuste antecipado pelo mesmo motivo; os contratos são indexados. A inflação passada se transmite automaticamente à inflação futura, mesmo que a causa original (déficit, choque de custos) já tenha desaparecido. Ela se torna **inercial**: anda sozinha.
+
+**Por que os congelamentos falharam.** Os planos **Cruzado** (1986), **Bresser** (1987) e **Verão** (1989) atacaram o **sintoma**, congelando preços por decreto:
+
+1. o congelamento **fotografa** desequilíbrios — quem acabara de reajustar ficava com preço alto, quem não reajustara, com preço defasado;
+2. com o preço tabelado abaixo do custo, surgem **desabastecimento**, ágio e mercado paralelo (no Cruzado, faltou carne, leite e carro; surgiram os "fiscais do Sarney");
+3. como o **desequilíbrio fiscal** não era resolvido, ao descongelar todos remarcavam de uma vez, com a inflação reprimida vindo junto;
+4. e cada fracasso destruía a credibilidade do plano seguinte, reforçando a expectativa inflacionária.
+
+**Como o Real resolveu.** Em três etapas encadeadas, sem congelamento e sem confisco:
+
+1. **Ajuste fiscal** (PAI, Fundo Social de Emergência, 1994): atacar a causa original, o desequilíbrio das contas públicas.
+2. **URV — Unidade Real de Valor** (março de 1994): uma unidade de conta com valor **estável**, corrigida diariamente. Preços, salários e contratos migravam **voluntária e gradualmente** para ela. O efeito é engenhoso: em vez de congelar, a URV **sincronizou** todos os reajustes, eliminando a defasagem entre quem reajustou ontem e quem reajusta amanhã. Quando toda a economia já pensava em URV, a inflação em URV era praticamente zero — mesmo com o cruzeiro real ainda em circulação e se desvalorizando.
+3. **O real** (1º de julho de 1994): a URV virou moeda, com **âncora cambial** (real forte, próximo ao dólar) e **juros altos**, que seguravam a demanda e atraíam capital externo.
+
+**O resultado.** A inflação caiu de cerca de **2.500% ao ano** (1993) para **22%** (1995) e um dígito no fim da década. O ganho foi **socialmente progressivo**: os mais pobres, sem conta remunerada nem acesso a aplicações, eram os únicos que não conseguiam se proteger da inflação — e foram os que mais ganharam poder de compra. Essa é a explicação econômica da vitória de FHC no primeiro turno em 1994.
+
+**Os custos.** Juros elevados por anos, com efeitos sobre investimento, emprego e **dívida pública**; câmbio valorizado que barateou importações e pressionou a indústria; e vulnerabilidade externa, que resultou na **crise cambial de 1999** e no abandono da âncora, substituída pelo tripé metas de inflação–câmbio flutuante–superávit primário.
+
+**A lição analítica.** O contraste entre 1986 e 1994 é um caso didático de que **diagnóstico correto** vale mais do que energia política. Congelar preços é intuitivo e popular; identificar que o mecanismo era a **indexação de expectativas** e desmontá-lo por uma unidade de conta paralela é contraintuitivo — e foi o que funcionou.
+:::
+
+**4.** Explique o **impeachment de Collor** (1992) e o que ele revelou sobre as instituições da Nova República.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**A eleição.** Collor venceu em 1989 a **primeira eleição direta para presidente desde 1960**, derrotando **Lula** no segundo turno (53% a 47%). Governador de um estado pequeno, sem partido consolidado, construiu a candidatura na televisão em torno da imagem de "caçador de marajás" e de outsider.
+
+**O governo.** Curto e turbulento. O **Plano Collor** (março de 1990) **bloqueou** por 18 meses os depósitos e as poupanças acima de 50 mil cruzados novos — medida drástica e juridicamente contestada que atingiu a classe média e as empresas, e que ainda assim não conteve a inflação. O governo abriu a economia às importações, iniciou as privatizações e extinguiu órgãos públicos, mas perdeu apoio em todos os campos.
+
+**A crise.** Em maio de 1992, seu irmão **Pedro Collor** denunciou o esquema de corrupção operado pelo tesoureiro de campanha **PC Farias**. Uma **CPI** reuniu provas de pagamento de despesas pessoais do presidente com recursos do esquema; a imprensa apurou; e o movimento dos "**caras-pintadas**" levou estudantes às ruas de dezenas de cidades.
+
+**O desfecho.** Em **29 de setembro de 1992**, a Câmara autorizou a abertura do processo por **441 votos a 38**. Em 29 de dezembro, com o julgamento em curso no Senado, Collor **renunciou** na tentativa de preservar seus direitos políticos; o Senado prosseguiu e o **inabilitou por oito anos**. Assumiu o vice, **Itamar Franco**.
+
+**O que o episódio revelou.**
+
+1. **As instituições de 1988 funcionaram.** Uma CPI investigou com poderes reais; a imprensa apurou livremente; o Congresso votou; o Judiciário atuou; a mobilização social ocorreu pacificamente; e um presidente eleito por 35 milhões de votos deixou o cargo **sem intervenção militar**. Na história brasileira anterior, crises equivalentes haviam terminado em suicídio (1954), renúncia com aposta golpista (1961) ou golpe (1964).
+2. **O papel do Ministério Público e da imprensa livre** como atores permanentes de controle — novidade institucional direta da Constituição.
+3. **A força e o risco da política midiática.** Collor foi construído pela televisão e por ela desconstruído, o que expôs a fragilidade de uma liderança sem partido, sem base parlamentar e sem enraizamento social.
+
+**A ressalva que o século XXI acrescentou.** O impeachment também inaugurou o uso do instrumento como saída para crises de um **presidencialismo de coalizão** em que o presidente precisa negociar maiorias permanentemente [@abranches1988]. Sua repetição em **2016**, num contexto muito mais disputado, mostra que o dispositivo pode funcionar tanto como **garantia contra o abuso de poder** quanto como **válvula de escape de conflitos políticos** — e que a avaliação precisa ser feita caso a caso, examinando a robustez do fundamento jurídico e a regularidade do rito, e não por analogia automática entre os dois episódios.
+:::
+
+**5.** (Estilo ENEM) Leia o texto.
+
+> "Art. 231. São reconhecidos aos índios sua organização social, costumes, línguas, crenças e tradições, e os **direitos originários sobre as terras que tradicionalmente ocupam**, competindo à União demarcá-las, proteger e fazer respeitar todos os seus bens."
+>
+> — Constituição da República Federativa do Brasil, 1988 [@constituicao1988]
+
+Ao estabelecer o caráter **originário** desses direitos, o texto constitucional
+
+**(a)** transfere aos estados a competência para demarcar terras indígenas.
+**(b)** condiciona o reconhecimento das terras à comprovação de integração dos povos indígenas à sociedade nacional.
+**(c)** afirma que o direito indígena à terra é anterior ao próprio Estado brasileiro, cabendo à demarcação apenas reconhecê-lo.
+**(d)** extingue as reservas já demarcadas, submetendo-as a novo processo de titulação individual.
+**(e)** restringe os direitos indígenas às comunidades que mantenham exclusivamente atividades de subsistência.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Alternativa (c).** A palavra-chave é "**originários**". Direito originário é aquele que **precede** e independe de qualquer reconhecimento estatal: ele não é criado pelo Estado, apenas constatado por ele. Daí a consequência jurídica central: a **demarcação** é ato **declaratório**, e não constitutivo — ela reconhece um direito que já existia, em vez de concedê-lo.
+
+O artigo confirma essa leitura em toda a sua estrutura: reconhece "organização social, costumes, línguas, crenças e tradições" **sem** condicioná-los a qualquer grau de integração, e atribui à **União** o dever de demarcar e proteger — dever, e não faculdade.
+
+Por que as demais estão erradas:
+
+- **(a)** a competência é expressamente da **União**;
+- **(b)** é o oposto do que o texto faz. A Constituição de 1988 **rompeu** com o paradigma assimilacionista do Estatuto do Índio de 1973, que tratava os indígenas como categoria transitória, tutelada e destinada a se integrar. A partir de 1988, os povos indígenas têm o direito de **permanecer** indígenas;
+- **(d)** nada no texto extingue demarcações; e a titulação **individual** contraria a natureza coletiva e inalienável das terras indígenas, que são bens da União com posse permanente e usufruto exclusivo dos indígenas;
+- **(e)** o artigo não impõe qualquer restrição desse tipo; "terras tradicionalmente ocupadas" refere-se ao **modo tradicional de ocupação**, e não a um congelamento de práticas econômicas no tempo.
+
+**Contexto adicional útil.** É desse dispositivo que decorre a rejeição, pelo STF em 2023, da tese do "**marco temporal**" — segundo a qual só teriam direito à terra os povos que a ocupassem em 5 de outubro de 1988. A tese é incompatível com a noção de direito **originário**, e desconsidera que muitos povos estavam fora de suas terras naquela data justamente porque haviam sido **expulsos** — inclusive durante a ditadura (@sec-ditadura-militar). O tema seguiu em disputa legislativa depois da decisão.
+:::
+
+**6.** Descreva as principais conquistas dos **movimentos sociais** na Nova República.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Movimento negro.** Herdeiro da Frente Negra Brasileira (1931), da imprensa negra e do **MNU** (1978), obteve: **racismo** como crime inafiançável e imprescritível (art. 5º, XLII) e sua tipificação pela **Lei Caó** (1989); direito à titulação de terras **quilombolas** (art. 68 do ADCT); **Lei 10.639/2003**, tornando obrigatório o ensino de história e cultura afro-brasileira e africana na educação básica; **Estatuto da Igualdade Racial** (2010); **Lei de Cotas** (2012) em universidades e institutos federais, declarada constitucional por unanimidade pelo STF. As cotas mudaram substantivamente o perfil racial e social das universidades públicas em pouco mais de uma geração.
+
+**Povos indígenas.** Art. 231, com o **direito originário** às terras e o fim do assimilacionismo; **Lei 11.645/2008**, que acrescentou a história e a cultura indígenas ao currículo obrigatório; demarcações como **Yanomami** (1992) e **Raposa Serra do Sol** (2005, confirmada pelo STF em 2009); crescimento do movimento indígena organizado (APIB, Acampamento Terra Livre) e a eleição das primeiras parlamentares indígenas. O processo permanece conflituoso: demarcações pendentes, garimpo ilegal e a disputa sobre o **marco temporal**.
+
+**Mulheres.** O "lobby do batom" na Constituinte garantiu a igualdade de direitos (art. 5º, I), a licença-maternidade de 120 dias e direitos das trabalhadoras rurais e domésticas. Depois: **Lei Maria da Penha** (2006), referência internacional no enfrentamento à violência doméstica; Lei do **Feminicídio** (2015); PEC das Domésticas (2013). A sub-representação política feminina, contudo, permanece entre as maiores do mundo.
+
+**Trabalhadores rurais e urbanos.** O **MST** (1984) tornou a ocupação de terras improdutivas o principal instrumento de pressão pela reforma agrária, que a Constituição prevê mas condiciona à improdutividade do imóvel; o **MTST** transpôs a estratégia para as cidades. A **CUT** (1983) e as demais centrais consolidaram sindicalismo autônomo, embora a estrutura corporativa de 1943 tenha sido apenas parcialmente desmontada — o imposto sindical obrigatório só caiu em 2017.
+
+**Direitos LGBT.** Diante da ausência de legislação específica aprovada pelo Congresso, os avanços vieram por via **judicial e administrativa**: reconhecimento da união estável homoafetiva pelo **STF** (2011), casamento civil por resolução do **CNJ** (2013), enquadramento da homofobia e da transfobia na Lei do Racismo pelo STF (2019).
+
+**Outros.** **ECA** (1990), **Código de Defesa do Consumidor** (1990), **Estatuto do Idoso** (2003), **Lei Brasileira de Inclusão** (2015).
+
+**O padrão a observar — e é isso que a questão quer.** Em quase todos os casos, a sequência é a mesma: **mobilização social** → **inscrição de princípio na Constituição** → **legislação específica anos ou décadas depois** → **disputa permanente sobre implementação**. A Constituição funcionou menos como ponto de chegada e mais como **plataforma**: ela criou o fundamento jurídico a partir do qual os movimentos puderam exigir leis, políticas públicas e decisões judiciais. Note também o papel crescente do **Judiciário** — especialmente do STF — como arena de conquista de direitos, o que é ao mesmo tempo um sinal da força da Constituição e da dificuldade de aprovar essas pautas no Legislativo.
+:::
+
+**7.** (Estilo vestibular — dissertativa) Explique o conceito de **presidencialismo de coalizão** e discuta se ele constitui uma virtude ou um defeito do sistema político brasileiro.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**O conceito.** Formulado por **Sérgio Abranches** em 1988, antes mesmo de o sistema ser testado [@abranches1988], descreve uma combinação institucional rara: **presidencialismo** (Executivo eleito diretamente, com mandato fixo e independente do Legislativo) + **federalismo** robusto (estados com peso político próprio) + **representação proporcional de lista aberta com muitos partidos** (fragmentação partidária alta e crescente).
+
+**A consequência.** Nenhum presidente brasileiro jamais elegeu maioria própria no Congresso. Todos precisam, portanto, **construir e manter coalizões** amplas e heterogêneas — e o fazem distribuindo **ministérios**, **cargos** na administração e nas estatais, e **emendas orçamentárias**. Diferentemente do parlamentarismo, em que a coalizão que sustenta o governo é a que o formou e pode derrubá-lo, aqui a coalizão precisa ser **renegociada permanentemente**, sem que sua ruptura derrube o governo — o que produz crises sem mecanismo institucional de resolução, a não ser o impeachment.
+
+**A favor: o arranjo é funcional.** Pesquisas sobre produção legislativa mostram que os presidentes brasileiros aprovam a **maior parte** de sua agenda e que a disciplina partidária no Congresso é mais alta do que a imagem pública sugere. O sistema garantiu governabilidade e permitiu reformas de grande porte — o Plano Real, as privatizações, a Lei de Responsabilidade Fiscal, as políticas sociais dos anos 2000 —, além de **incorporar** ao governo uma pluralidade regional e partidária que um sistema majoritário excluiria, o que num país com as dimensões e a heterogeneidade do Brasil não é detalhe.
+
+**Contra: o arranjo é propenso à corrupção.** Se a moeda de troca da coalizão são cargos e verbas, cria-se um **mercado permanente** de apoio parlamentar cuja fronteira com o ilícito é tênue. É essa a leitura que enxerga uma raiz institucional comum em escândalos como o **mensalão** (2005) e o **petrolão**: não como desvios individuais, mas como distorções previsíveis do mecanismo. Acrescente-se que a fragmentação **aumentou** — o Brasil chegou a ter mais de vinte partidos com representação —, encarecendo continuamente a construção de maiorias.
+
+**Uma terceira leitura, mais precisa.** O **mesmo desenho institucional** produziu duas décadas de estabilidade (1994–2014) e duas crises de impeachment (1992, 2016). Isso sugere que o desenho, sozinho, não determina o resultado: importam a **forma** de montagem da coalizão (programática ou meramente fisiológica), o **tamanho e a disciplina** da base, a conjuntura econômica e a **habilidade política** do presidente. Collor caiu com base parlamentar mínima e sem partido; Dilma perdeu a coalizão em meio a recessão profunda; FHC e Lula, em cenários econômicos favoráveis, mantiveram maiorias por dois mandatos cada.
+
+**Como concluir uma dissertação sobre isso.** Evite o veredito simples. A formulação mais defensável é que o presidencialismo de coalizão é um arranjo de **alto custo transacional**: permite governabilidade num país fragmentado, mas ao preço de negociação permanente por meio de recursos públicos — e que, portanto, seu desempenho depende menos das regras em si do que dos **mecanismos de controle** que as acompanham (transparência orçamentária, Ministério Público independente, tribunais de contas, imprensa livre), todos eles, não por acaso, fortalecidos pela Constituição de 1988.
+:::
+
+**8.** Por que estudar a história do **tempo presente** exige cuidados metodológicos específicos? Aplique-os à interpretação do **impeachment de 2016**.
+
+::: {.callout-tip collapse="true" title="Solução"}
+**Os cuidados.**
+
+1. **Ausência de distanciamento.** Não sabemos ainda quais consequências dos fatos recentes serão duradouras e quais serão episódicas. O historiador que escreve sobre 2016 não dispõe do recurso que tem quem escreve sobre 1930: saber o que veio depois.
+2. **Fontes incompletas.** Arquivos públicos e privados ainda estão fechados ou sob sigilo; processos judiciais seguem em curso e podem ser revistos; documentos internos de governos e partidos só se tornarão acessíveis com o tempo. Toda interpretação atual é, por definição, **provisória**.
+3. **Protagonistas vivos e atuantes.** Os envolvidos disputam ativamente a narrativa, publicam memórias, dão entrevistas e têm interesse no veredito histórico. Testemunhos são valiosos e precisam de crítica redobrada (@sec-fontes-historicas).
+4. **O historiador é parte do objeto.** Ninguém é neutro sobre eventos que afetaram sua própria vida. Isso não invalida o trabalho — a objetividade em história nunca foi ausência de posição —, mas **exige explicitar critérios**, separar fato de interpretação e submeter as próprias conclusões à evidência contrária.
+
+**A aplicação ao impeachment de 2016.**
+
+**O que é fato documentado e não está em disputa:** Dilma Rousseff foi reeleita em 2014 com 51,6% dos votos válidos; o processo foi aberto pela Câmara em abril de 2016 e concluído pelo Senado em 31 de agosto, sob presidência do presidente do STF; a acusação formal foi de crime de responsabilidade por decretos de crédito suplementar sem autorização legislativa e por atrasos em repasses a bancos públicos (as "pedaladas fiscais"); o Senado, em votação separada, **manteve** seus direitos políticos; assumiu o vice, **Michel Temer**; o país vivia a maior recessão de sua série histórica e o desdobramento da **Operação Lava Jato**.
+
+**O que está em disputa interpretativa:**
+
+- **A leitura de "golpe parlamentar"** sustenta que: os atos imputados eram práticas orçamentárias adotadas por governos anteriores e por governos estaduais sem consequência semelhante, o que indicaria desproporção entre a conduta e a pena; que a motivação real era a perda de sustentação parlamentar e a crise econômica, e não o ilícito; e que se tratou, portanto, de **destituição política revestida de forma jurídica** — o que não requer tanques, apenas maioria.
+- **A leitura de "processo constitucional regular"** sustenta que: o impeachment está previsto na Constituição e foi conduzido conforme o rito, com defesa, prazos, votação em duas casas e supervisão do STF; que crime de responsabilidade é, por definição, uma figura de natureza **política**, julgada pelo Parlamento, e não um crime comum; e que a perda de apoio parlamentar é elemento legítimo do funcionamento do presidencialismo de coalizão, e não prova de ilegitimidade.
+
+**Como um estudante deve proceder.** Apresentar **as duas leituras com seus melhores argumentos**, ancorar-se nos fatos verificáveis e, se for tomar posição, fazê-lo **explicitando o critério** adotado — por exemplo: "se o critério for a existência de fundamento jurídico proporcional, então…; se o critério for a regularidade formal do rito, então…". É exatamente o procedimento que você aplicou, ao longo deste volume, à Revolução de 1930, ao caráter do Estado Novo e às causas de 1964. A diferença é apenas de distância temporal — o **método é o mesmo**, e é essa continuidade que faz da História uma disciplina, e não uma opinião mais bem escrita (@sec-o-que-e-historia; @sec-desafios-do-presente).
+:::
+
+## Para saber mais {#sec-para-saber-mais}
+
+**Livros**
+
+- SCHWARCZ, Lilia; STARLING, Heloisa. *Brasil: uma biografia* [@schwarczStarling2015]. Os capítulos finais cobrem a transição e a Nova República com fôlego narrativo.
+- REIS, Daniel Aarão. *Ditadura e democracia no Brasil* [@reisDaniel2014]. Vai justamente do golpe de 1964 à Constituição de 1988 — é o livro que fecha o arco deste volume.
+- ABRANCHES, Sérgio. *Presidencialismo de coalizão* [@abranches1988]. O artigo original, de 1988, tem trinta páginas e continua sendo a melhor porta de entrada.
+- SINGER, André. *Os sentidos do lulismo* [@singer2012]. Interpretação influente e contestada dos anos 2000.
+- BRESSER-PEREIRA, Luiz Carlos. *Desenvolvimento e crise no Brasil* [@bresser2003]. Escrito por quem foi ministro da Fazenda e autor de um dos planos que fracassaram — leia-o também como fonte.
+- SCHWARCZ, Lilia. *Sobre o autoritarismo brasileiro* [@schwarcz2019]. Ensaio sobre as permanências autoritárias; polêmico e produtivo para discutir.
+
+**Fontes primárias**
+
+- A **Constituição de 1988** [@constituicao1988]. Leia o art. 5º (direitos individuais), o art. 6º (direitos sociais), o art. 196 (saúde), o art. 225 (meio ambiente) e o art. 231 (indígenas). São poucas páginas e valem por um capítulo.
+- O **discurso de promulgação de Ulysses Guimarães** (5 de outubro de 1988), disponível em vídeo e transcrição — um dos grandes discursos políticos brasileiros.
+- O **Relatório da CNV** [@cnv2014] e os arquivos de *Memórias Reveladas* (Arquivo Nacional).
+- Séries históricas do **IBGE** e do **IPEA** sobre renda, desigualdade e pobreza. Trabalhar com dados é uma forma de crítica de fonte: eles não falam sozinhos, mas impedem que a narrativa fale contra os fatos.
+
+**Filmes e documentários**
+
+- *Que Bom Te Ver Viva* (1989), dir. Lúcia Murat, sobre mulheres que sobreviveram à tortura — feito no exato momento da promulgação da Constituição.
+- *Peões* (2004), dir. Eduardo Coutinho, sobre os operários anônimos das greves do ABC vinte anos depois.
+- *Democracia em Vertigem* (2019), dir. Petra Costa. Documentário sobre 2013–2018 com ponto de vista **declaradamente assumido** pela diretora — assista-o exercitando exatamente a crítica de fonte discutida no exercício 8.
+- *Ônibus 174* (2002), dir. José Padilha, e *Cidade de Deus* (2002), dir. Fernando Meirelles e Kátia Lund: o Brasil urbano e desigual da virada do século — a democracia consolidada convivendo com a violência e a exclusão que a Constituição prometera enfrentar.
