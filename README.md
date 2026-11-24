@@ -19,18 +19,8 @@ quarto render           # gera _book/ (HTML + PDF)
 
 ## Geração assistida por IA
 
-O manual foi pensado para ser escrito capítulo a capítulo com o **Claude Code**, seguindo três arquivos:
-
-- [`CLAUDE.md`](CLAUDE.md) — instruções permanentes do projeto (anatomia, convenções, toolchain).
-- [`ROADMAP.md`](ROADMAP.md) — fila autoritativa de capítulos com status (⬜/✅).
-- [`PROMPT.md`](PROMPT.md) — prompt de projeto injetado a cada sessão.
-
-Para rodar a fila sem supervisão (um capítulo por sessão, com commit e push automáticos):
-
-```bash
-chmod +x auto-manual.sh
-nohup ./auto-manual.sh > /dev/null 2>&1 &
-```
+O manual é escrito capítulo a capítulo com o **Claude Code**, seguindo a fila de
+[`ROADMAP.md`](ROADMAP.md) (capítulos com status ⬜/✅).
 
 ## Estrutura
 
